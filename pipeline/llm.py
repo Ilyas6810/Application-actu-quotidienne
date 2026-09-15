@@ -237,7 +237,7 @@ def traduire_factice(consignes: str) -> str:
     import json
     donnees = json.loads(consignes.split("\n", 1)[1])
     return json.dumps({"articles": [
-        {"id": a["id"], "titre": f"[EN] {a['titre']}", "chapeau": f"[EN] {a['chapeau']}",
+        {"position": a["position"], "titre": f"[EN] {a['titre']}", "chapeau": f"[EN] {a['chapeau']}",
          "corps": a["corps"].replace("## Ce que disent les sources", "## What the sources say")}
         for a in donnees["articles"]]}, ensure_ascii=False)
 

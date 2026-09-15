@@ -40,8 +40,8 @@ CONSIGNES = """Tu traduis en anglais des articles d'un quotidien francophone.
 - La ligne « ## Ce que disent les sources » devient « ## What the sources say ».
 
 SORTIE
-JSON strict, sans balises de code : {"articles": [{"id", "titre", "chapeau", "corps"}]},
-un objet par article reçu, avec le même « id »."""
+JSON strict, sans balises de code : {"articles": [{"position", "titre", "chapeau", "corps"}]},
+un objet par article reçu, avec le même « position » (son rang dans la liste reçue, à partir de 0)."""
 
 
 def lots(articles: list[dict], mots_max: int = MOTS_PAR_LOT) -> list[list[dict]]:
@@ -60,7 +60,10 @@ def lots(articles: list[dict], mots_max: int = MOTS_PAR_LOT) -> list[list[dict]]
 
 
 def message(lot: list[dict]) -> str:
-    donnees = [{"id": a["id"], "titre": a["titre"], "chapeau": a["chapeau"], "corps": a["corps"]} for a in lot]
+    # « position » et non l'id de l'article : à ce stade du pipeline (edition.py), les articles
+    # n'ont pas encore d'identifiant, celui-ci n'étant attribué qu'à la publication (publie.py).
+    donnees = [{"position": i, "titre": a["titre"], "chapeau": a["chapeau"], "corps": a["corps"]}
+               for i, a in enumerate(lot)]
     return "ARTICLES À TRADUIRE\n" + json.dumps({"articles": donnees}, ensure_ascii=False, indent=1)
 
 
@@ -104,13 +107,20 @@ def traduire_lot(lot: list[dict], cascade: Cascade, preferes: tuple[str, ...]) -
     except ValueError:
         log.info("Réponse illisible pour un lot de %d article(s)", len(lot))
         ILLISIBLES.mkdir(exist_ok=True)  # réponse gardée pour comprendre après coup
-        (ILLISIBLES / f"traduction-{lot[0]['id']}.txt").write_text(reponse.texte, encoding="utf-8")
+        nom_fichier = re.sub(r"[^\w-]", "_", lot[0]["titre"])[:60]
+        (ILLISIBLES / f"traduction-{nom_fichier}.txt").write_text(reponse.texte, encoding="utf-8")
         return list(lot)
-    recus = {str(t.get("id")): t for t in brut.get("articles") or [] if isinstance(t, dict)}
+    recus = {}
+    for t in brut.get("articles") or []:
+        if isinstance(t, dict):
+            try:
+                recus[int(t.get("position"))] = t
+            except (TypeError, ValueError):
+                pass  # position absente ou illisible : cet article reste non traduit
     restes = []
-    for article in lot:
-        if article["id"] in recus:
-            traduction = normaliser(recus[article["id"]])
+    for position, article in enumerate(lot):
+        if position in recus:
+            traduction = normaliser(recus[position])
             probleme = erreurs(article, traduction)
             if not probleme:
                 article["en"] = traduction

@@ -4,7 +4,9 @@ import traduction
 
 
 def article(ident, titre, chapeau, corps):
-    return {"id": ident, "rubrique": "monde", "titre": titre, "chapeau": chapeau, "corps": corps}
+    # Pas de champ « id » : dans edition.py, la traduction tourne avant que publie.py attribue
+    # les identifiants. Bug réel du 2026-09-15 (KeyError: 'id'), corrigé en indexant par position.
+    return {"rubrique": "monde", "titre": titre, "chapeau": chapeau, "corps": corps}
 
 
 def test_lots_par_nombre_de_mots():
@@ -39,7 +41,7 @@ def test_traduire_avec_le_modele_factice():
 
 
 def test_publication_garde_la_traduction():
-    a = article("", "T", "C", "X")
+    a = article(None, "T", "C", "X")
     a["en"] = {"titre": "T en", "chapeau": "C en", "corps": "X en"}
     edition = publie.construire_edition([a], "2026-09-14", "2026-09-14T00:00:00Z")
     assert edition["articles"][0]["en"]["titre"] == "T en"

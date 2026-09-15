@@ -1,0 +1,42 @@
+{
+  "name": "actu-quotidienne-bureau",
+  "productName": "Actu quotidienne",
+  "version": "1.1.0",
+  "description": "Actu quotidienne pour Windows",
+  "author": "Actu quotidienne",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "web": "node preparer-web.js",
+    "demarrer": "electron .",
+    "installateur": "node preparer-web.js && electron-builder --win nsis"
+  },
+  "build": {
+    "appId": "fr.actuquotidienne.bureau",
+    "productName": "Actu quotidienne",
+    "files": [
+      "main.js",
+      "package.json",
+      "web/**/*",
+      "local.json"
+    ],
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "../app/assets/icon.png"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "shortcutName": "Actu quotidienne",
+      "artifactName": "Actu-quotidienne-${version}-installation.${ext}"
+    }
+  },
+  "devDependencies": {
+    "electron": "^44.3.0",
+    "electron-builder": "^26.15.3"
+  }
+}

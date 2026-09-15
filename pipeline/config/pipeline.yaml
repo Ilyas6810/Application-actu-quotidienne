@@ -1,0 +1,119 @@
+# Réglages du pipeline.
+# Les valeurs « à calibrer » se règlent sur une journée réelle :
+#   python cluster.py   puis lecture de etat/rapport_clusters.md
+
+fuseau: Indian/Reunion        # UTC+4 toute l'année. Indian/Mauritius ou Asia/Dubai donnent la même heure.
+contact: https://github.com/Ilyas6810/Application-actu-quotidienne   # mis dans le User-Agent (Wikimédia l'exige)
+
+collecte:
+  age_max_heures: 72          # une entrée plus ancienne est ignorée
+  fenetre_pool_heures: 72     # durée de conservation d'un item dans l'état
+  longueur_resume: 700        # caractères gardés par résumé
+  telechargements_simultanes: 12
+  delai_http: 20              # secondes
+
+gdelt:
+  actif: true
+  fenetre_heures: 6           # mentions relues à chaque cycle (un fichier toutes les 15 minutes)
+  age_max_evenement_jours: 3  # un événement plus ancien, simplement recité, est ignoré
+  min_domaines: 8             # à calibrer : nombre de sites qui doivent parler de l'événement
+  max_evenements: 25          # événements retenus par cycle
+  urls_par_evenement: 3       # articles originaux lus par événement
+  lectures_max: 60            # pages lues par cycle (balises og:title et og:description)
+
+wikipedia:
+  actif: true
+  jours: 2                    # aujourd'hui et hier (UTC)
+  lectures_max: 40            # articles cités relus pour récupérer leur propre résumé
+
+regroupement:
+  methode: hybride            # hybride = TF-IDF + vecteurs multilingues ; tfidf = TF-IDF seul
+  modele_vecteurs: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+  poids_vecteurs: 0.6         # à calibrer : part des vecteurs dans la similarité hybride
+  seuil: 0.45                 # à calibrer : similarité moyenne pour fusionner deux groupes (mode hybride)
+  seuil_tfidf: 0.45           # seuil du cahier des charges, utilisé si les vecteurs sont indisponibles
+  penalite_par_jour: 0.05     # similarité retirée par jour d'écart au-delà de 24 heures
+  fenetre_heures: 72
+
+notation:
+  constante_fraicheur_heures: 16   # fraîcheur = exp(-âge / 16 h) : 0,69 à 6 h, 0,22 à 24 h, 0,05 à 48 h
+  bonus_pays: 0.25                 # +25 % par pays supplémentaire parmi les sources
+  bonus_pays_max: 2.0
+  score_minimal: 0.5               # à calibrer : sous ce score un sujet n'est jamais publié
+
+edition:
+  heure_limite: "05:45"       # heure locale après laquelle on n'entame plus d'article
+  heure_notification: "06:00"
+  une: 8
+  fonds_min: 3
+  fonds_max: 5
+  standards_max: 22
+  sources_min_standard: 3     # sources indépendantes pour viser un article standard
+  sources_min_fond: 5         # et pour un article de fond
+  sources_max_contexte: 12    # sources montrées au modèle pour un article
+  longueur_resume_contexte: 500
+  jours_suivi: 14             # recherche de l'épisode précédent (champ suite_de)
+  tolerance_longueur: 0.1     # 10 % de marge autour des longueurs de format
+  rubriques:                  # quota = plafond souple, jamais rempli avec du contenu faible
+    monde: {quota: 12, priorite: 1}
+    france: {quota: 8, priorite: 1}
+    geopolitique: {quota: 6, priorite: 2}
+    economie: {quota: 6, priorite: 2}
+    tech: {quota: 5, priorite: 2}
+    sciences: {quota: 4, priorite: 3}
+    sante: {quota: 4, priorite: 3}
+    sport: {quota: 3, priorite: 3}
+    culture: {quota: 3, priorite: 3}
+  formats:
+    breve: {min: 150, max: 250}
+    standard: {min: 400, max: 600}
+    fond: {min: 800, max: 1000}
+
+controle:
+  ngramme_copie: 12           # 12 mots consécutifs identiques à une source = copie
+  citation_mots_max: 15       # citation entre guillemets tolérée sous cette longueur
+  verifier_chiffres: true     # tout nombre de l'article doit figurer dans les sources
+
+alertes:
+  actif: true
+  plafond_jour: 3
+  fenetre_heures: 3           # les sources doivent être apparues dans cette fenêtre
+  sources_min: 3              # sources indépendantes de niveau 1 qui concordent
+  sources_sans_mot_cle: 5     # sans mot d'urgence dans les titres, il en faut davantage
+  mots_urgence:
+    - séisme
+    - tremblement de terre
+    - tsunami
+    - ouragan
+    - cyclone
+    - typhon
+    - attentat
+    - explosion
+    - fusillade
+    - crash
+    - déraillement
+    - naufrage
+    - effondrement
+    - éruption
+    - mort de
+    - décès de
+    - démission
+    - démissionne
+    - coup d'état
+    - assassinat
+    - état d'urgence
+    - évacuation
+    - earthquake
+    - hurricane
+    - typhoon
+    - attack
+    - shooting
+    - killed
+    - dies
+    - resigns
+    - resignation
+    - military coup
+    - coup attempt
+    - assassinated
+    - state of emergency
+    - evacuated

@@ -1,0 +1,44 @@
+# Mots et expressions interdits par la charte éditoriale.
+# Une expression régulière par ligne, insensible à la casse, cherchée en mots entiers.
+# Une ligne qui commence par « ! » déclare une exception : ce passage est ignoré
+# avant la recherche (« le Massif central » n'est pas un adjectif d'appréciation).
+
+# Adjectifs d'appréciation
+dramatiques?
+historiques?
+choquante?s?
+massi(f|fs|ve|ves)
+sans précédents?
+spectaculaires?
+
+# Adverbes de renforcement
+véritablement
+particulièrement
+extrêmement
+
+# Formules
+on peut se demander si
+l['’]avenir dira
+une chose est sûre
+il a été annoncé
+
+# Typographie : le tiret cadratin (les tirets d'incise sont remplacés par des virgules avant contrôle)
+—
+
+# Exceptions : sens neutre ou technique
+!(le|un|du|au|ce) massif
+!massif (central|montagneux|forestier|alpin|armoricain|du|des|de|d['’])
+!monuments? historiques?
+!centres? historiques?
+!quartiers? historiques?
+!sites? historiques?
+!l['’]historique
+!un historique
+
+# Candidats à ajouter après lecture des premières éditions (retirer le # pour activer) :
+# inédite?s?
+# tragiques?
+# terribles?
+# incroyables?
+# colossale?s?
+# bouleversante?s?

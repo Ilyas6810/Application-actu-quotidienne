@@ -1,0 +1,115 @@
+# Cascade de modèles gratuits. L'ordre de la liste est l'ordre d'essai.
+# Un fournisseur est sauté si sa clé est absente, si son quota du jour est atteint,
+# si le modèle n'est pas ouvert au compte (HTTP 404), ou s'il échoue deux fois de suite sur un même article.
+#
+# Relevé du 2026-09-13. Les offres gratuites bougent souvent : vérifie celles de ton compte.
+#   Gemini      https://aistudio.google.com/rate-limit
+#               Le quota est compté par modèle : six modèles Gemini = six quotas avec une seule clé.
+#               Les modèles 2.5 (flash, flash-lite) ne sont plus ouverts aux nouveaux comptes (HTTP 404).
+#               Modèles qui ont répondu à une clé gratuite le 2026-09-13 : 3.8, 3.7, 3.6 et 3.5 Flash,
+#               3.5 et 3.1 Flash-Lite. Palier gratuit : 20 requêtes par jour par modèle
+#               (quotaId GenerateRequestsPerDayPerProjectPerModel-FreeTier), remises à zéro à minuit
+#               heure du Pacifique. rpj: 20 évite de redemander un modèle déjà épuisé.
+#   Groq        https://console.groq.com/settings/limits
+#               gpt-oss-120b : 30 req/min, 1 000 req/jour, 8 000 jetons/min, 200 000 jetons/jour.
+#               Llama 3.3 70B n'est plus dans le palier gratuit.
+#   OpenRouter  modèles « :free » : 20 req/min, 50 req/jour (1 000 après 10 $ de crédits achetés).
+#               La liste des modèles gratuits change : https://openrouter.ai/models?q=free
+#   Mistral     offre « Experiment » gratuite (numéro de téléphone demandé), limites dans la console.
+#               Ajout par rapport au cahier des charges : très bon en français, en dernier recours.
+#
+# Champs : nom, base_url (API compatible OpenAI), modele, cle_env (variable qui contient la clé),
+#   rpm (requêtes/minute), rpj (requêtes/jour, compteur local de sécurité),
+#   tpm (jetons/minute, facultatif), json (demande le mode JSON de l'API),
+#   reasoning_effort (facultatif), max_tokens (plafond facultatif), entetes (facultatif).
+
+temperature: 0.3
+delai_secondes: 150
+
+# Traduction anglaise (traduction.py) : ces modèles passent en tête de la cascade. Traduire est
+# plus simple que rédiger, et les quotas des modèles Flash restent pour la rédaction.
+traduction_d_abord: [gemini-3.5-flash-lite, gemini-3.1-flash-lite]
+
+fournisseurs:
+  - nom: gemini-3.8-flash
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    modele: gemini-3.8-flash
+    cle_env: GEMINI_API_KEY
+    rpm: 10
+    rpj: 20
+    json: true
+    reasoning_effort: low
+
+  - nom: gemini-3.7-flash
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    modele: gemini-3.7-flash
+    cle_env: GEMINI_API_KEY
+    rpm: 10
+    rpj: 20
+    json: true
+    reasoning_effort: low
+
+  - nom: gemini-3.6-flash
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    modele: gemini-3.6-flash
+    cle_env: GEMINI_API_KEY
+    rpm: 10
+    rpj: 20
+    json: true
+    reasoning_effort: low
+
+  - nom: gemini-3.5-flash
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    modele: gemini-3.5-flash
+    cle_env: GEMINI_API_KEY
+    rpm: 10
+    rpj: 20
+    json: true
+    reasoning_effort: low
+
+  - nom: gemini-3.5-flash-lite
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    modele: gemini-3.5-flash-lite
+    cle_env: GEMINI_API_KEY
+    rpm: 15
+    rpj: 20
+    json: true
+    reasoning_effort: low
+
+  - nom: gemini-3.1-flash-lite
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    modele: gemini-3.1-flash-lite
+    cle_env: GEMINI_API_KEY
+    rpm: 15
+    rpj: 20
+    json: true
+    reasoning_effort: low
+
+  - nom: groq
+    base_url: https://api.groq.com/openai/v1
+    modele: openai/gpt-oss-120b
+    cle_env: GROQ_API_KEY
+    rpm: 30
+    rpj: 1000
+    tpm: 8000
+    json: true
+    reasoning_effort: low
+    max_tokens: 3000
+
+  - nom: openrouter
+    base_url: https://openrouter.ai/api/v1
+    modele: google/gemma-4-31b-it:free
+    cle_env: OPENROUTER_API_KEY
+    rpm: 20
+    rpj: 50
+    json: false
+    entetes:
+      X-Title: Actu quotidienne
+
+  - nom: mistral
+    base_url: https://api.mistral.ai/v1
+    modele: mistral-medium-latest
+    cle_env: MISTRAL_API_KEY
+    rpm: 30
+    rpj: 2000
+    json: true

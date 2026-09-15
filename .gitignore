@@ -1,0 +1,29 @@
+# État du pipeline : reconstitué sur GitHub Actions par le cache, jamais commité
+pipeline/etat/
+pipeline/modeles/
+
+# Clés d'API : jamais dans le dépôt (il est public)
+pipeline/.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Application
+app/node_modules/
+app/.expo/
+app/dist/
+app/android/
+app/ios/
+*.apk
+*.aab
+
+# Application de bureau : export web et installateur regénérés par npm run installateur
+bureau/node_modules/
+bureau/web/
+bureau/dist/
+bureau/local.json

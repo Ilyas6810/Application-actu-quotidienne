@@ -1,0 +1,812 @@
+# Sources suivies. Chaque flux a été testé le 2026-09-10 (code HTTP, fraîcheur, volume).
+#
+# Champs d'une source :
+#   nom          nom affiché en pied d'article
+#   groupe       propriétaire : deux sources du même groupe ne sont jamais indépendantes
+#   pays         pays de la rédaction (bonus de diversité géographique)
+#   langue       langue par défaut des flux (un flux peut la redéfinir)
+#   type         presse | officiel | specialise
+#   niveau       1 = compte comme source de vérification
+#   sites        domaines web (reconnaissance des liens trouvés par GDELT et Wikipédia)
+#   alias        noms repérés dans les textes d'autres sources (« selon la BBC ») ; par défaut : nom
+#   competence   (officiels) rubriques où la source confirme seule un fait qui la concerne
+#   titres_seuls le flux n'apporte que des titres
+#   actif        false = source connue (liens reconnus) mais flux non lu
+#   flux         liste de {url, rubrique} ; rubrique vide = flux généraliste
+
+agences:
+  # Les reprises de dépêches comptent pour une seule source : l'agence.
+  # Motifs sensibles à la casse.
+  - {nom: AFP, motifs: ['\bAFP\b', 'Agence France-Presse', 'Agence France Presse'], sites: [afp.com], pays: FR, langue: fr}
+  - {nom: Reuters, motifs: ['\bReuters\b'], sites: [reuters.com], pays: GB}
+  - {nom: Associated Press, motifs: ['Associated Press', '\(AP\)', '\bAP News\b'], sites: [apnews.com], pays: US}
+  - {nom: dpa, motifs: ['\bdpa\b'], sites: [dpa.com], pays: DE, langue: de}
+  - {nom: EFE, motifs: ['\bEFE\b'], sites: [efe.com], pays: ES, langue: es}
+  - {nom: ANSA, motifs: ['\bANSA\b'], sites: [ansa.it], pays: IT, langue: it}
+  - {nom: Europa Press, motifs: ['Europa Press'], sites: [europapress.es], pays: ES, langue: es}
+  - {nom: PA Media, motifs: ['\bPA Media\b'], pays: GB}
+  - {nom: Belga, motifs: ['\bBelga\b'], pays: BE}
+  - {nom: Kyodo, motifs: ['\bKyodo\b'], sites: [kyodonews.net], pays: JP}
+  - {nom: Xinhua, motifs: ['\bXinhua\b'], sites: [xinhuanet.com, news.cn], pays: CN}
+  - {nom: Yonhap, motifs: ['\bYonhap\b'], sites: [yna.co.kr], pays: KR}
+  - {nom: Anadolu, motifs: ['\bAnadolu\b'], sites: [aa.com.tr], pays: TR}
+  - {nom: TASS, motifs: ['\bTASS\b', '\bTass\b'], sites: [tass.com, tass.ru], pays: RU}
+  - {nom: Interfax, motifs: ['\bInterfax\b'], sites: [interfax.ru, interfax.com], pays: RU}
+  - {nom: PTI, motifs: ['\bPTI\b', 'Press Trust of India'], pays: IN}
+  - {nom: Lusa, motifs: ['\bLusa\b'], sites: [lusa.pt], pays: PT, langue: pt}
+
+sources:
+
+  # --- Presse de référence anglophone -----------------------------------------------
+
+  - nom: BBC News
+    groupe: BBC
+    pays: GB
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [bbc.co.uk, bbc.com]
+    alias: [BBC]
+    flux:
+      - {url: https://feeds.bbci.co.uk/news/rss.xml, rubrique: ""}
+      - {url: https://feeds.bbci.co.uk/news/world/rss.xml, rubrique: monde}
+      - {url: https://feeds.bbci.co.uk/news/business/rss.xml, rubrique: economie}
+      - {url: https://feeds.bbci.co.uk/news/technology/rss.xml, rubrique: tech}
+      - {url: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml, rubrique: sciences}
+      - {url: https://feeds.bbci.co.uk/news/health/rss.xml, rubrique: sante}
+      - {url: https://feeds.bbci.co.uk/sport/rss.xml, rubrique: sport}
+      - {url: https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml, rubrique: culture}
+
+  - nom: The Guardian
+    groupe: Guardian Media Group
+    pays: GB
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [theguardian.com, guardian.co.uk]
+    alias: [The Guardian, Guardian]
+    flux:
+      - {url: https://www.theguardian.com/world/rss, rubrique: monde}
+      - {url: https://www.theguardian.com/world/france/rss, rubrique: france}
+      - {url: https://www.theguardian.com/business/rss, rubrique: economie}
+      - {url: https://www.theguardian.com/technology/rss, rubrique: tech}
+      - {url: https://www.theguardian.com/science/rss, rubrique: sciences}
+      - {url: https://www.theguardian.com/society/health/rss, rubrique: sante}
+      - {url: https://www.theguardian.com/sport/rss, rubrique: sport}
+      - {url: https://www.theguardian.com/culture/rss, rubrique: culture}
+
+  - nom: NPR
+    groupe: NPR
+    pays: US
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [npr.org]
+    flux:
+      - {url: https://feeds.npr.org/1001/rss.xml, rubrique: ""}
+      - {url: https://feeds.npr.org/1004/rss.xml, rubrique: monde}
+      - {url: https://feeds.npr.org/1006/rss.xml, rubrique: economie}
+      - {url: https://feeds.npr.org/1019/rss.xml, rubrique: tech}
+      - {url: https://feeds.npr.org/1007/rss.xml, rubrique: sciences}
+      - {url: https://feeds.npr.org/1128/rss.xml, rubrique: sante}
+      - {url: https://feeds.npr.org/1008/rss.xml, rubrique: culture}
+
+  - nom: Financial Times
+    groupe: Nikkei            # le FT appartient au groupe Nikkei, comme Nikkei Asia
+    pays: GB
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [ft.com]
+    alias: [Financial Times]
+    flux:
+      - {url: https://www.ft.com/rss/home, rubrique: ""}
+      - {url: "https://www.ft.com/world?format=rss", rubrique: monde}
+      - {url: "https://www.ft.com/global-economy?format=rss", rubrique: economie}
+      - {url: "https://www.ft.com/technology?format=rss", rubrique: tech}
+
+  - nom: Al Jazeera
+    groupe: Al Jazeera Media Network
+    pays: QA
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [aljazeera.com, aljazeera.net]
+    flux:
+      - {url: https://www.aljazeera.com/xml/rss/all.xml, rubrique: monde}
+
+  - nom: NHK World
+    groupe: NHK
+    pays: JP
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [nhk.or.jp]
+    actif: false              # flux RSS anglais en 404, API JSON figée au 2026-09-04
+    flux:
+      - {url: https://www3.nhk.or.jp/rss/news/cat0.xml, rubrique: "", langue: ja}
+
+  - nom: Associated Press
+    groupe: Associated Press
+    pays: US
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [apnews.com]
+    actif: false              # plus de flux public (401) : atteinte via les reprises et Wikipédia
+    flux: []
+
+  # --- Presse de référence francophone ----------------------------------------------
+
+  - nom: Le Monde
+    groupe: Groupe Le Monde
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [lemonde.fr]
+    alias: [Le Monde]
+    flux:
+      - {url: https://www.lemonde.fr/rss/une.xml, rubrique: ""}
+      - {url: https://www.lemonde.fr/international/rss_full.xml, rubrique: monde}
+      - {url: https://www.lemonde.fr/politique/rss_full.xml, rubrique: france}
+      - {url: https://www.lemonde.fr/societe/rss_full.xml, rubrique: france}
+      - {url: https://www.lemonde.fr/economie/rss_full.xml, rubrique: economie}
+      - {url: https://www.lemonde.fr/pixels/rss_full.xml, rubrique: tech}
+      - {url: https://www.lemonde.fr/sciences/rss_full.xml, rubrique: sciences}
+      - {url: https://www.lemonde.fr/sante/rss_full.xml, rubrique: sante}
+      - {url: https://www.lemonde.fr/sport/rss_full.xml, rubrique: sport}
+      - {url: https://www.lemonde.fr/culture/rss_full.xml, rubrique: culture}
+
+  - nom: franceinfo
+    groupe: France Télévisions
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [francetvinfo.fr, franceinfo.fr]
+    alias: [franceinfo, France Info, France Télévisions]
+    flux:
+      - {url: https://www.francetvinfo.fr/titres.rss, rubrique: ""}
+      - {url: https://www.francetvinfo.fr/monde.rss, rubrique: monde}
+      - {url: https://www.francetvinfo.fr/france.rss, rubrique: france}
+      - {url: https://www.francetvinfo.fr/politique.rss, rubrique: france}
+      - {url: https://www.francetvinfo.fr/societe.rss, rubrique: france}
+      - {url: https://www.francetvinfo.fr/economie.rss, rubrique: economie}
+      - {url: https://www.francetvinfo.fr/internet.rss, rubrique: tech}
+      - {url: https://www.francetvinfo.fr/sciences.rss, rubrique: sciences}
+      - {url: https://www.francetvinfo.fr/sante.rss, rubrique: sante}
+      - {url: https://www.francetvinfo.fr/sports.rss, rubrique: sport}
+      - {url: https://www.francetvinfo.fr/culture.rss, rubrique: culture}
+
+  - nom: France 24
+    groupe: France Médias Monde   # même groupe que RFI : jamais indépendants entre eux
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [france24.com]
+    alias: [France 24]
+    flux:
+      - {url: https://www.france24.com/fr/rss, rubrique: ""}
+      - {url: https://www.france24.com/fr/france/rss, rubrique: france}
+      - {url: https://www.france24.com/fr/europe/rss, rubrique: monde}
+      - {url: https://www.france24.com/fr/afrique/rss, rubrique: monde}
+      - {url: https://www.france24.com/fr/moyen-orient/rss, rubrique: monde}
+      - {url: https://www.france24.com/fr/asie-pacifique/rss, rubrique: monde}
+      - {url: https://www.france24.com/fr/am%C3%A9riques/rss, rubrique: monde}
+      - {url: https://www.france24.com/fr/%C3%A9co-tech/rss, rubrique: economie}
+      - {url: https://www.france24.com/fr/culture/rss, rubrique: culture}
+      # sports : flux figé depuis mai 2025
+
+  - nom: RFI
+    groupe: France Médias Monde
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [rfi.fr]
+    alias: [RFI, Radio France internationale]
+    flux:
+      - {url: https://www.rfi.fr/fr/rss, rubrique: ""}
+      - {url: https://www.rfi.fr/fr/france/rss, rubrique: france}
+      - {url: https://www.rfi.fr/fr/afrique/rss, rubrique: monde}
+      - {url: https://www.rfi.fr/fr/europe/rss, rubrique: monde}
+      - {url: https://www.rfi.fr/fr/moyen-orient/rss, rubrique: monde}
+      - {url: https://www.rfi.fr/fr/asie-pacifique/rss, rubrique: monde}
+      - {url: https://www.rfi.fr/fr/am%C3%A9riques/rss, rubrique: monde}
+      - {url: https://www.rfi.fr/fr/%C3%A9conomie/rss, rubrique: economie}
+      - {url: https://www.rfi.fr/fr/science/rss, rubrique: sciences}
+      - {url: https://www.rfi.fr/fr/sports/rss, rubrique: sport}
+      - {url: https://www.rfi.fr/fr/culture/rss, rubrique: culture}
+
+  - nom: Les Échos
+    groupe: Les Échos-Le Parisien
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [lesechos.fr]
+    alias: [Les Echos, Les Échos]
+    actif: false              # tous les flux répondent 403 aux robots (testé avec deux User-Agent honnêtes)
+    flux:
+      - {url: https://syndication.lesechos.fr/rss/rss_une.xml, rubrique: economie}
+
+  - nom: Libération
+    groupe: Libération
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [liberation.fr]
+    alias: [Libération]
+    flux:
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss-all/collection/accueil-une/?outputType=xml", rubrique: ""}
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss/category/international/?outputType=xml", rubrique: monde}
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml", rubrique: france}
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss/category/economie/?outputType=xml", rubrique: economie}
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss/category/sciences/?outputType=xml", rubrique: sciences}
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss/category/sports/?outputType=xml", rubrique: sport}
+      - {url: "https://www.liberation.fr/arc/outboundfeeds/rss/category/culture/?outputType=xml", rubrique: culture}
+
+  - nom: La Croix
+    groupe: Bayard
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [la-croix.com]
+    alias: [La Croix]
+    flux:
+      - {url: https://www.la-croix.com/feeds/rss/site.xml, rubrique: ""}
+      - {url: https://www.la-croix.com/RSS/UNIVERS_WFRA, rubrique: france}
+
+  - nom: Le Figaro               # ajout : équilibre politique des sources françaises
+    groupe: Groupe Figaro
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [lefigaro.fr]
+    alias: [Le Figaro]
+    flux:
+      - {url: https://www.lefigaro.fr/rss/figaro_actualites.xml, rubrique: ""}
+      - {url: https://www.lefigaro.fr/rss/figaro_international.xml, rubrique: monde}
+      - {url: https://www.lefigaro.fr/rss/figaro_politique.xml, rubrique: france}
+      - {url: https://www.lefigaro.fr/rss/figaro_economie.xml, rubrique: economie}
+      - {url: https://www.lefigaro.fr/rss/figaro_sciences.xml, rubrique: sciences}
+      - {url: https://www.lefigaro.fr/rss/figaro_sante.xml, rubrique: sante}
+      - {url: https://www.lefigaro.fr/rss/figaro_sport.xml, rubrique: sport}
+      - {url: https://www.lefigaro.fr/rss/figaro_culture.xml, rubrique: culture}
+
+  - nom: L'Équipe                # ajout : référence du sport
+    groupe: Groupe Amaury
+    pays: FR
+    langue: fr
+    type: presse
+    niveau: 1
+    sites: [lequipe.fr]
+    alias: [L'Équipe]
+    flux:
+      - {url: "https://dwh.lequipe.fr/api/edito/rss?path=/", rubrique: sport}
+
+  # --- Presse européenne -----------------------------------------------------------
+
+  - nom: Deutsche Welle
+    groupe: Deutsche Welle
+    pays: DE
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [dw.com]
+    alias: [Deutsche Welle, DW]
+    flux:
+      - {url: https://rss.dw.com/xml/rss-en-all, rubrique: ""}
+      - {url: https://rss.dw.com/rdf/rss-en-bus, rubrique: economie}
+
+  - nom: El País
+    groupe: PRISA
+    pays: ES
+    langue: es
+    type: presse
+    niveau: 1
+    sites: [elpais.com]
+    alias: [El País]
+    flux:
+      - {url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada, rubrique: ""}
+      - {url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada, rubrique: monde}
+      - {url: https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada, rubrique: "", langue: en}
+
+  - nom: ABC
+    groupe: Vocento
+    pays: ES
+    langue: es
+    type: presse
+    niveau: 1
+    sites: [abc.es]
+    alias: [ABC.es]
+    flux:
+      - {url: https://www.abc.es/rss/2.0/portada/, rubrique: ""}
+      - {url: https://www.abc.es/rss/2.0/internacional/, rubrique: monde}
+
+  - nom: Corriere della Sera
+    groupe: RCS MediaGroup
+    pays: IT
+    langue: it
+    type: presse
+    niveau: 1
+    sites: [corriere.it]
+    alias: [Corriere della Sera]
+    flux:
+      - {url: https://www.corriere.it/feed-hp/homepage.xml, rubrique: ""}
+      - {url: https://www.corriere.it/dynamic-feed/rss/section/Esteri.xml, rubrique: monde}
+
+  - nom: Der Spiegel
+    groupe: Spiegel-Verlag
+    pays: DE
+    langue: de
+    type: presse
+    niveau: 1
+    sites: [spiegel.de]
+    alias: [Der Spiegel, Spiegel]
+    flux:
+      - {url: https://www.spiegel.de/schlagzeilen/index.rss, rubrique: ""}
+      - {url: https://www.spiegel.de/ausland/index.rss, rubrique: monde}
+
+  - nom: NRC
+    groupe: Mediahuis
+    pays: NL
+    langue: nl
+    type: presse
+    niveau: 1
+    sites: [nrc.nl]
+    alias: [NRC]
+    flux:
+      - {url: https://www.nrc.nl/rss/, rubrique: ""}
+
+  - nom: Politico Europe
+    groupe: Axel Springer
+    pays: BE
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [politico.eu]
+    alias: [Politico]
+    flux:
+      - {url: https://www.politico.eu/feed/, rubrique: ""}
+      - {url: https://www.politico.eu/section/politics/feed/, rubrique: monde}
+
+  # --- Reste du monde ---------------------------------------------------------------
+
+  - nom: The Hindu
+    groupe: The Hindu Group
+    pays: IN
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [thehindu.com]
+    alias: [The Hindu]
+    flux:
+      - {url: https://www.thehindu.com/news/international/feeder/default.rss, rubrique: monde}
+      - {url: https://www.thehindu.com/news/national/feeder/default.rss, rubrique: monde}
+      - {url: https://www.thehindu.com/sci-tech/feeder/default.rss, rubrique: sciences}
+
+  - nom: Nikkei Asia
+    groupe: Nikkei
+    pays: JP
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [asia.nikkei.com, nikkei.com]
+    alias: [Nikkei]
+    titres_seuls: true
+    flux:
+      - {url: https://asia.nikkei.com/rss/feed/nar, rubrique: ""}
+
+  - nom: Folha de S.Paulo
+    groupe: Grupo Folha
+    pays: BR
+    langue: pt
+    type: presse
+    niveau: 1
+    sites: [folha.uol.com.br]
+    alias: [Folha]
+    flux:
+      - {url: https://feeds.folha.uol.com.br/emcimadahora/rss091.xml, rubrique: ""}
+      - {url: https://feeds.folha.uol.com.br/mundo/rss091.xml, rubrique: monde}
+
+  - nom: Mail & Guardian
+    groupe: M&G Media
+    pays: ZA
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [mg.co.za]
+    actif: false              # flux et page des flux en 404
+    flux: []
+
+  - nom: Haaretz
+    groupe: Haaretz Group
+    pays: IL
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [haaretz.com, haaretz.co.il]
+    alias: [Haaretz]
+    flux:
+      - {url: https://www.haaretz.com/srv/haaretz-latest-headlines, rubrique: ""}
+
+  - nom: The Straits Times
+    groupe: SPH Media
+    pays: SG
+    langue: en
+    type: presse
+    niveau: 1
+    sites: [straitstimes.com]
+    alias: [Straits Times]
+    flux:
+      - {url: https://www.straitstimes.com/news/world/rss.xml, rubrique: monde}
+      - {url: https://www.straitstimes.com/news/asia/rss.xml, rubrique: monde}
+
+  # --- Sources officielles ----------------------------------------------------------
+  # « competence » : une source officielle confirme seule un fait qui la concerne.
+
+  - nom: Commission européenne
+    groupe: Commission européenne
+    pays: EU
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [ec.europa.eu, commission.europa.eu]
+    competence: [monde, economie, france]
+    flux:
+      - {url: "https://ec.europa.eu/commission/presscorner/api/rss?language=fr", rubrique: ""}
+
+  - nom: Parlement européen
+    groupe: Parlement européen
+    pays: EU
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [europarl.europa.eu]
+    competence: [monde, france]
+    flux:
+      - {url: https://www.europarl.europa.eu/rss/doc/press-releases/fr.xml, rubrique: ""}
+
+  - nom: Banque centrale européenne
+    groupe: BCE
+    pays: EU
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [ecb.europa.eu]
+    alias: [BCE, ECB]
+    competence: [economie]
+    titres_seuls: true
+    flux:
+      - {url: https://www.ecb.europa.eu/rss/press.html, rubrique: economie}
+
+  - nom: Gouvernement français
+    groupe: État français
+    pays: FR
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [gouvernement.fr, info.gouv.fr]
+    competence: [france]
+    flux:
+      - {url: https://www.gouvernement.fr/rss, rubrique: france}   # répond parfois 403 selon le User-Agent
+
+  - nom: Élysée
+    groupe: État français
+    pays: FR
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [elysee.fr]
+    competence: [france]
+    actif: false              # anciens flux en 404, nouvelle adresse introuvable
+    flux: []
+
+  - nom: Légifrance
+    groupe: État français
+    pays: FR
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [legifrance.gouv.fr]
+    competence: [france]
+    actif: false              # pas de flux public trouvé
+    flux: []
+
+  - nom: INSEE
+    groupe: INSEE
+    pays: FR
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [insee.fr]
+    competence: [economie, france]
+    actif: false              # anciennes adresses en 404/500, la page des flux est générée en JavaScript
+    flux: []
+
+  - nom: Eurostat
+    groupe: Commission européenne
+    pays: EU
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: []                 # ses pages sont sur ec.europa.eu, déjà attribué à la Commission
+    competence: [economie]
+    actif: false              # le flux des communiqués est vide, l'autre ne liste que des mises à jour de données
+    flux: []
+
+  - nom: ONU Info
+    groupe: ONU
+    pays: INT
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [news.un.org, un.org]
+    alias: [ONU, Nations unies, United Nations]
+    competence: [monde, geopolitique]
+    flux:
+      - {url: https://news.un.org/feed/subscribe/fr/news/all/rss.xml, rubrique: monde}
+      - {url: https://news.un.org/feed/subscribe/en/news/all/rss.xml, rubrique: monde, langue: en}
+      - {url: https://news.un.org/feed/subscribe/fr/news/topic/health/feed/rss.xml, rubrique: sante}
+
+  - nom: OMS
+    groupe: ONU
+    pays: INT
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [who.int]
+    alias: [OMS, WHO, World Health Organization, Organisation mondiale de la santé]
+    competence: [sante]
+    actif: false              # flux figé depuis février 2026 ; ONU Info santé prend le relais
+    flux:
+      - {url: https://www.who.int/rss-feeds/news-english.xml, rubrique: sante}
+
+  - nom: FMI
+    groupe: FMI
+    pays: INT
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [imf.org]
+    alias: [FMI, IMF]
+    competence: [economie]
+    actif: false              # 403 : protection anti-robots
+    flux: []
+
+  - nom: Banque mondiale
+    groupe: Banque mondiale
+    pays: INT
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [worldbank.org]
+    alias: [Banque mondiale, World Bank]
+    competence: [economie]
+    actif: false              # flux vide ou en 404
+    flux: []
+
+  - nom: OTAN
+    groupe: OTAN
+    pays: INT
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [nato.int]
+    alias: [OTAN, NATO]
+    competence: [geopolitique]
+    actif: false              # page des flux en 404 depuis la refonte du site
+    flux: []
+
+  - nom: NASA
+    groupe: NASA
+    pays: US
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [nasa.gov]
+    alias: [NASA]
+    competence: [sciences]
+    flux:
+      - {url: https://www.nasa.gov/news-release/feed/, rubrique: sciences}
+
+  - nom: ESA
+    groupe: ESA
+    pays: EU
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [esa.int]
+    alias: [ESA, Agence spatiale européenne, European Space Agency]
+    competence: [sciences]
+    flux:
+      - {url: https://www.esa.int/rssfeed/TopNews, rubrique: sciences}
+
+  - nom: Réserve fédérale américaine
+    groupe: Réserve fédérale
+    pays: US
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [federalreserve.gov]
+    alias: [Federal Reserve, Réserve fédérale]
+    competence: [economie]
+    flux:
+      - {url: https://www.federalreserve.gov/feeds/press_all.xml, rubrique: economie}
+
+  - nom: Banque d'Angleterre
+    groupe: Banque d'Angleterre
+    pays: GB
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [bankofengland.co.uk]
+    alias: [Bank of England, Banque d'Angleterre]
+    competence: [economie]
+    flux:
+      - {url: https://www.bankofengland.co.uk/rss/news, rubrique: economie}
+
+  - nom: Santé publique France
+    groupe: État français
+    pays: FR
+    langue: fr
+    type: officiel
+    niveau: 1
+    sites: [santepubliquefrance.fr]
+    competence: [sante]
+    flux:
+      - {url: https://www.santepubliquefrance.fr/rss/actualites.xml, rubrique: sante}
+
+  # --- Presse spécialisée ------------------------------------------------------------
+
+  - nom: Ars Technica
+    groupe: Condé Nast
+    pays: US
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [arstechnica.com]
+    alias: [Ars Technica]
+    flux:
+      - {url: https://feeds.arstechnica.com/arstechnica/index, rubrique: tech}
+
+  - nom: The Register
+    groupe: Situation Publishing
+    pays: GB
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [theregister.com]
+    alias: [The Register]
+    flux:
+      - {url: https://www.theregister.com/headlines.atom, rubrique: tech}
+
+  - nom: MIT Technology Review
+    groupe: MIT
+    pays: US
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [technologyreview.com]
+    alias: [MIT Technology Review]
+    flux:
+      - {url: https://www.technologyreview.com/feed/, rubrique: tech}
+
+  - nom: OpenAI
+    groupe: OpenAI
+    pays: US
+    langue: en
+    type: specialise          # blog de laboratoire : ses annonces attendent une reprise de presse
+    niveau: 1
+    sites: [openai.com]
+    flux:
+      - {url: https://openai.com/news/rss.xml, rubrique: tech}
+
+  - nom: Google DeepMind
+    groupe: Alphabet
+    pays: GB
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [deepmind.google, blog.google]
+    alias: [DeepMind]
+    flux:
+      - {url: https://deepmind.google/blog/rss.xml, rubrique: tech}
+      - {url: https://blog.google/technology/ai/rss/, rubrique: tech}
+
+  - nom: Nature
+    groupe: Springer Nature
+    pays: GB
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [nature.com]
+    flux:
+      - {url: https://www.nature.com/nature.rss, rubrique: sciences}
+
+  - nom: Science News
+    groupe: Society for Science
+    pays: US
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [sciencenews.org]
+    alias: [Science News]
+    flux:
+      - {url: https://www.sciencenews.org/feed, rubrique: sciences}
+
+  - nom: CNRS Le journal
+    groupe: CNRS
+    pays: FR
+    langue: fr
+    type: specialise
+    niveau: 1
+    sites: [lejournal.cnrs.fr, cnrs.fr]
+    alias: [CNRS]
+    flux:
+      - {url: https://lejournal.cnrs.fr/rss, rubrique: sciences}
+
+  - nom: arXiv
+    groupe: Cornell University
+    pays: US
+    langue: en
+    type: specialise
+    niveau: 2
+    sites: [arxiv.org]
+    actif: false              # 250 prépublications par jour : bruit sans reprise de presse
+    flux:
+      - {url: https://rss.arxiv.org/rss/cs.AI, rubrique: tech}
+
+  - nom: The Lancet
+    groupe: Elsevier
+    pays: GB
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [thelancet.com]
+    alias: [The Lancet, Lancet]
+    flux:
+      - {url: https://www.thelancet.com/rssfeed/lancet_online.xml, rubrique: sante}
+
+  - nom: The BMJ
+    groupe: BMJ Group
+    pays: GB
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [bmj.com]
+    alias: [BMJ]
+    flux:
+      - {url: https://www.bmj.com/rss/recent.xml, rubrique: sante}
+
+  - nom: Bloomberg
+    groupe: Bloomberg LP
+    pays: US
+    langue: en
+    type: specialise
+    niveau: 1
+    sites: [bloomberg.com]
+    alias: [Bloomberg]
+    flux:
+      - {url: https://feeds.bloomberg.com/markets/news.rss, rubrique: economie}
+      - {url: https://feeds.bloomberg.com/economics/news.rss, rubrique: economie}
+      - {url: https://feeds.bloomberg.com/politics/news.rss, rubrique: monde}
+      - {url: https://feeds.bloomberg.com/technology/news.rss, rubrique: tech}
+
+  - nom: OCDE
+    groupe: OCDE
+    pays: INT
+    langue: en
+    type: officiel
+    niveau: 1
+    sites: [oecd.org]
+    alias: [OCDE, OECD]
+    competence: [economie]
+    actif: false              # 403 : protection anti-robots
+    flux: []

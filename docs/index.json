@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-14T15:31:16Z",
- "derniere": "2026-09-13",
+ "maj": "2026-09-15T18:44:22Z",
+ "derniere": "2026-09-15",
  "editions": [
+  {
+   "date": "2026-09-15",
+   "genere_a": "2026-09-15T18:44:22Z",
+   "articles": 4,
+   "une": [
+    "Les Etats-Unis confirment le déploiement de systèmes armés en orbite",
+    "Des avions de chasse de l'Otan abattent un drone en Lituanie",
+    "Donald Trump annonce un accord entre Kiev et Moscou sur l'énergie"
+   ],
+   "octets": 23071
+  },
   {
    "date": "2026-09-13",
    "genere_a": "2026-09-14T15:31:16Z",
@@ -11,7 +22,7 @@
     "Céline Dion remonte sur scène près de Paris après six ans d'absence",
     "Les dirigeants de l'intelligence artificielle demandent un ralentissement de son développement"
    ],
-   "octets": 231213
+   "octets": 229212
   }
  ]
 }

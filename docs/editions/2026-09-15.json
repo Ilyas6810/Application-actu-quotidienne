@@ -1,0 +1,262 @@
+{
+ "date": "2026-09-15",
+ "genere_a": "2026-09-15T18:44:22Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-15-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Les Etats-Unis confirment le déploiement de systèmes armés en orbite",
+   "chapeau": "L'US Space Force a reconnu lundi 14 septembre 2026 lors d'une conférence dans le Maryland détenir des équipements militaires spatiaux en orbite. Cette annonce officielle face à la concurrence de la Chine et de la Russie a provoqué des réactions diplomatiques internationales.",
+   "corps": "L'armée américaine a admis pour la première fois lundi 14 septembre 2026 disposer de systèmes de contrôle spatial armés en orbite autour de la Terre. Le secrétaire de la Force aérienne des États-Unis, Troy Meink, a officialisé cette information lors de la Conférence Aérea, Espacial y Cibernética (ABC, 15/09/2026 à 15h04).\n\nCe déploiement est justifié par Washington pour maintenir la domination américaine et faire face aux ambitions spatiales de ses principaux rivaux géopolitiques, la Chine et la Russie (Deutsche Welle, 15/09/2026 à 15h04).\n\n## Ce que disent les sources\n\nCertaines sources qualifient les équipements de capacités offensives (BBC News, 15/09/2026 à 21h35), tandis que d'autres évoquent des systèmes de contrôle spatial armés (Libération, 15/09/2026 à 12h23).\n\nLa Chine a exhorté Washington à cesser de préparer la guerre dans l'espace (Deutsche Welle, 15/09/2026 à 15h04). La Russie a déclaré que l'orbite devait rester libre de toute arme et que cette reconnaissance menaçait la stabilité à long terme (Folha de S.Paulo, 15/09/2026 à 16h11 ; The Straits Times, 15/09/2026 à 21h42).\n\nLes détails techniques précis de ces armements manquent dans les déclarations officielles de l'US Space Force.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/etats-unis-l-us-space-force-affirme-disposer-darmes-dans-lespace-20260915"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/les-etats-unis-admettent-pour-la-premiere-fois-disposer-darmes-dans-lespace-20260915_2VDMZQPBKJGYHAJ5ZRVS7HZE2U"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/eeuu-reconoce-primera-vez-publicamente-despliegue-armas-20260915113739-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/china-faz-apelo-aos-eua-contra-guerra-no-espaco-e-russia-diz-que-orbita-deve-ser-livre-de-armas.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_15/gli-usa-ammettono-schierate-armi-nello-spazio-sono-pronte-all-uso-8b3e442c-fcde-469e-95d4-069b1ab1cxlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-09-14T12:00:00Z",
+   "suite_de": null,
+   "mots": 240,
+   "modele": "gemini-3.5-flash-lite",
+   "en": {
+    "titre": "The United States confirms the deployment of armed systems in orbit",
+    "chapeau": "The US Space Force acknowledged on Monday, September 14, 2026, during a conference in Maryland that it possesses space military equipment in orbit. This official announcement in the face of competition from China and Russia has provoked international diplomatic reactions.",
+    "corps": "The US military admitted for the first time on Monday, September 14, 2026, that it has armed space control systems in orbit around the Earth. The Secretary of the Air Force of the United States, Troy Meink, made this information official during the Aérea, Espacial y Cibernética Conference (ABC, 09/15/2026 at 15:04).\n\nThis deployment is justified by Washington to maintain American dominance and face the space ambitions of its main geopolitical rivals, China and Russia (Deutsche Welle, 09/15/2026 at 15:04).\n\n## What the sources say\n\nSome sources describe the equipment as offensive capabilities (BBC News, 09/15/2026 at 21:35), while others mention armed space control systems (Libération, 09/15/2026 at 12:23).\n\nChina has urged Washington to stop preparing for war in space (Deutsche Welle, 09/15/2026 at 15:04). Russia has declared that orbit must remain free of any weapons and that this recognition threatens long-term stability (Folha de S.Paulo, 09/15/2026 at 16:11; The Straits Times, 09/15/2026 at 21:42).\n\nPrecise technical details of these armaments are lacking in the official statements of the US Space Force."
+   }
+  },
+  {
+   "id": "2026-09-15-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des avions de chasse de l'Otan abattent un drone en Lituanie",
+   "chapeau": "Des avions de chasse italiens de l'Otan ont abattu un drone dans l'espace aérien de la Lituanie dans la nuit du 14 au 15 septembre 2026. Le président lituanien Gitanas Nauseda et le ministère lituanien de la Défense ont confirmé l'interception mardi matin.",
+   "corps": "L'incident a commencé peu après minuit dans le ciel lituanien. Les habitants des comtés de Vilnius et de Kaunas ont reçu une alerte officielle sur leurs téléphones portables. Le message signalait un danger aérien imminent. Les autorités ont ensuite repéré un aéronef sans pilote qui volait entre les agglomérations de Vilnius et de Kaunas.\n\nL'interception armée s'est déroulée au-dessus du district de Kaisiadorys, à proximité de la localité de Pratkunai. Le ministère lituanien de la Défense a précisé que les chasseurs alliés ont repéré l'appareil puis ont procédé à sa neutralisation en vol. Les premiers éléments communiqués par les autorités locales indiquent que l'appareil pouvait transporter une charge d'explosifs. Aucun dégât au sol et aucune victime n'ont été constatés après l'impact des débris.\n\nCette neutralisation est une première opérationnelle pour la Lituanie. Selon l'armée lituanienne, c'est la première fois qu'un drone est abattu à l'intérieur de son espace aérien national. L'opération a été menée par des appareils italiens déployés sous le mandat de l'Alliance atlantique. Selon les informations du Corriere della Sera publiées le 15 septembre 2026, ces moyens aériens appartiennent à la Task Force Air dirigée par le 36e escadron de l'armée de l'air italienne, basé en temps normal à Gioia del Colle. Ces aéronefs participent au dispositif de surveillance du ciel sur le flanc oriental de l'Alliance.\n\nLe président lituanien Gitanas Nauseda a salué publiquement la réactivité des forces de l'Otan après la destruction de la cible. Le chef d'État a relié cet événement à l'intensification des actions militaires menées par la Fédération de Russie contre l'Ukraine. Cet engagement survient moins d'un jour après une déclaration formelle des dirigeants de l'Otan. Ces derniers avaient affirmé la veille que la multiplication des frappes à proximité immédiate des frontières de l'Alliance entraînerait un renforcement direct de l'aide fournie à Kiev.\n\nLa trajectoire initiale de l'engin volant pointe vers les pays voisins. Les autorités et les médias locaux soulignent que l'appareil s'est très probablement introduit dans le ciel balte depuis le territoire de la Biélorussie, partenaire stratégique de la Russie. La Russie n'a formulé aucun commentaire officiel concernant cette incursion précise. Moscou a cependant critiqué le même jour les propositions françaises relatives à la doctrine de dissuasion nucléaire avancée en Europe.\n\n## Ce que disent les sources\n\nSur le nombre d'avions mobilisés pour abattre l'engin, Deutsche Welle indique qu'un chasseur italien a détruit le drone, tandis que franceinfo rapporte que deux avions de chasse italiens ont participé à l'abattage.\n\nL'identité exacte du fabricant et le point de départ certifié du drone restent inconnus au moment de la publication de ces informations.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-ukraine-krieg-nato-kampfjets-schiessen-drohne-ueber-litauen-ab-a-f8ebc01f-ad75-4094-ad11-f763ac6ef558"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20260915-des-avions-de-l-otan-abattent-un-drone-volant-au-dessus-de-la-lituanie"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-15/nato-shoots-down-drone-that-entered-lithuanian-airspace-mu27y5vq"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/nato-fighter-jet-shoots-down-drone-in-lithuania/article71466476.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cazas-otan-interceptan-dron-espacio-aereo-lituania-20260915093644-nt.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/cjx2zgk7edlzo"
+    }
+   ],
+   "premiere_parution": "2026-09-15T00:00:00Z",
+   "suite_de": null,
+   "mots": 472,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "NATO fighter jets shoot down drone in Lithuania",
+    "chapeau": "Italian NATO fighter jets shot down a drone in Lithuania's airspace on the night of September 14 to 15, 2026. Lithuanian President Gitanas Nauseda and the Lithuanian Ministry of Defense confirmed the interception on Tuesday morning.",
+    "corps": "The incident began shortly after midnight in Lithuanian skies. Residents of the Vilnius and Kaunas counties received an official alert on their mobile phones. The message signaled an imminent aerial danger. The authorities then spotted an unmanned aircraft flying between the urban areas of Vilnius and Kaunas.\n\nThe armed interception took place above the Kaisiadorys district, near the locality of Pratkunai. The Lithuanian Ministry of Defense specified that the allied fighters spotted the device and then proceeded to neutralize it in flight. Initial information provided by local authorities indicates that the device could carry an explosive charge. No damage on the ground and no casualties were observed after the impact of the debris.\n\nThis neutralization is an operational first for Lithuania. According to the Lithuanian military, this is the first time a drone has been shot down inside its national airspace. The operation was carried out by Italian aircraft deployed under the mandate of the Atlantic Alliance. According to information from Corriere della Sera published on September 15, 2026, these aerial means belong to the Air Task Force led by the 36th Wing of the Italian Air Force, normally based in Gioia del Colle. These aircraft participate in the sky surveillance mechanism on the eastern flank of the Alliance.\n\nLithuanian President Gitanas Nauseda publicly praised the responsiveness of NATO forces after the destruction of the target. The head of state linked this event to the intensification of military actions carried out by the Russian Federation against Ukraine. This engagement occurs less than a day after a formal statement by NATO leaders. The latter had affirmed the day before that the multiplication of strikes in the immediate vicinity of the Alliance's borders would lead to a direct reinforcement of the aid provided to Kyiv.\n\nInitial trajectory of the flying object points toward neighboring countries. Authorities and local media emphasize that the device most likely entered Baltic skies from the territory of Belarus, a strategic partner of Russia. Russia has not made any official comments regarding this specific incursion. Moscow did, however, criticize on the same day French proposals regarding the advanced nuclear deterrence doctrine in Europe.\n\n## What the sources say\n\nRegarding the number of aircraft mobilized to shoot down the device, Deutsche Welle indicates that an Italian fighter destroyed the drone, while franceinfo reports that two Italian fighter jets participated in the shoot-down.\n\nThe exact identity of the manufacturer and the certified starting point of the drone remain unknown at the time of publication of this information."
+   }
+  },
+  {
+   "id": "2026-09-15-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump annonce un accord entre Kiev et Moscou sur l'énergie",
+   "chapeau": "Le président américain Donald Trump a affirmé lundi 14 septembre 2026 que l'Ukraine et la Russie avaient accepté de cesser leurs frappes sur les infrastructures énergétiques. Cette déclaration intervient alors que les prix du diesel augmentent aux États-Unis.",
+   "corps": "Le président des États-Unis, Donald Trump, a publié cette annonce sur son réseau social Truth Social le lundi 14 septembre 2026. Il a indiqué que l'Ukraine avait accepté de ne plus frapper les objectifs énergétiques russes et que la Russie avait pris le même engagement. Selon lui, la hausse du prix du diesel dans le monde résulte principalement de la guerre en cours.\n\nLa Russie et l'Ukraine ont réagi différemment à cette déclaration. Moscou a qualifié la proposition de bonne idée le mardi 15 septembre 2026, selon franceinfo. De son côté, l'Ukraine a exprimé des doutes par la voix de son président Volodymyr Zelenskyy le lundi 14 septembre 2026, réclamant des précisions à ses partenaires.\n\n## Ce que disent les sources\n\nDonald Trump affirme le 14 septembre 2026 que les deux pays belligérants se sont mis d'accord pour stopper les attaques énergétiques. La Russie salue la proposition le 15 septembre 2026 tout en maintenant ses actions militaires, d'après Folha de S.Paulo. L'Ukraine émet des doutes le 14 septembre 2026 et demande des précisions, selon Politico Europe et Deutsche Welle.\n\nCertains détails sur l'application concrète de cet accord potentiel manquent dans les sources consultées.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/russia-e-ucrania-param-ataques-ao-setor-de-energia-diz-trump.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260914-ukraine-russie-trump-annonce-la-fin-mutuelle-des-frappes-sur-les-sites-%C3%A9nerg%C3%A9tiques"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-anuncia-ucrania-rusia-acordado-atacar-infraestructuras-20260914182555-nt.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/donald-trump-ukraine-russia-strikes-energy-volodymyr-zelenskyy"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/ukraine-wants-specifics-from-partners-over-halting-strikes-on-russia-zelenskyy-after-trumps-post/article71466382.ece"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1661-point-conflit-ukrainien-poutine-aujourdhui-20260914"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/15/nx-s1-5968728/trump-says-ukraine-and-russia-agreed-to-stop-attacks-on-energy-sites"
+    }
+   ],
+   "premiere_parution": "2026-09-14T15:53:00Z",
+   "suite_de": null,
+   "mots": 231,
+   "modele": "gemini-3.5-flash-lite",
+   "en": {
+    "titre": "Donald Trump announces an agreement between Kyiv and Moscow on energy",
+    "chapeau": "US President Donald Trump claimed on Monday, September 14, 2026, that Ukraine and Russia had agreed to stop strikes on energy infrastructure. This statement comes as diesel prices rise in the United States.",
+    "corps": "The President of the United States, Donald Trump, published this announcement on his social network Truth Social on Monday, September 14, 2026. He indicated that Ukraine had agreed to no longer strike Russian energy targets and that the Russia had made the same commitment. According to him, the rise in the price of diesel worldwide is mainly the result of the ongoing war.\n\nRussia and Ukraine reacted differently to this statement. Moscow called the proposal a good idea on Tuesday, September 15, 2026, according to franceinfo. For its part, Ukraine expressed doubts through the voice of its president Volodymyr Zelenskyy on Monday, September 14, 2026, demanding clarifications from its partners.\n\n## What the sources say\n\nDonald Trump claims on September 14, 2026, that the two warring countries have agreed to stop energy attacks. Russia welcomes the proposal on September 15, 2026, while maintaining its military actions, according to Folha de S.Paulo. Ukraine expresses doubts on September 14, 2026, and asks for clarifications, according to Politico Europe and Deutsche Welle.\n\nSome details on the concrete application of this potential agreement are missing in the sources consulted."
+   }
+  },
+  {
+   "id": "2026-09-15-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Une frégate russe tire des fusées éclairantes vers un hélicoptère danois",
+   "chapeau": "Une frégate russe a tiré des fusées éclairantes en direction d'un hélicoptère militaire danois le mardi 15 septembre 2026 au-dessus de la mer Baltique. Le gouvernement du Danemark a condamné cet acte en convoquant l'ambassadeur de Russie.",
+   "corps": "Le Mando de Defensa danois a déclaré le mardi 15 septembre 2026 qu'une frégate de la marine russe a lancé deux fusées éclairantes contre un hélicoptère Fennec qui effectuait une opération photographique de routine dans les eaux internationales. Selon la même source, l'un des projectiles est passé à courte distance de l'appareil.\n\nLa première ministre danoise a qualifié l'action d'irresponsable et de totalement inacceptable le mardi 15 septembre 2026. L'exécutif de Copenhague a convoqué l'ambassadeur russe pour signifier son opposition à ce comportement.\n\n## Ce que disent les sources\n\nLe Mando de Defensa danois affirme le mardi 15 septembre 2026 que le navire russe a pris pour cible l'hélicoptère militaire avec deux fusées éclairantes lors d'une mission de surveillance.\n\nL'ambassadeur de Russie au Danemark affirme le mardi 15 septembre 2026, selon l'agence RIA relayée par The Straits Times, que les hélicoptères militaires danois ont mené des manoeuvres dangereuses près des navires de guerre russes et qu'une note officielle a été transmise à Copenhague.\n\nCertaines informations concernant les réactions des institutions européennes manquent dans l'ensemble des dépêches de la matinée du mardi 15 septembre 2026.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/dinamarca-acusa-fragata-rusa-lanzar-dos-bengalas-20260915101538-nt.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/danemark-la-premiere-ministre-denonce-le-tir-irresponsable-d-une-fregate-russe-sur-un-helicoptere-danois-20260915"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-accuses-danish-military-helicopters-of-making-dangerous-manoeuvres-near-its-warships-ria"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/ostsee-russische-fregatte-feuerte-leuchtkoerper-auf-daenischen-hubschrauber-a-2b0f4bc0-e768-4d2b-bb9d-58b4a23af812"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/b49762b0-2f8a-457d-bd3a-2820f1fff346?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-15/cazas-de-la-otan-derriban-un-dron-que-volaba-sobre-lituania-procedente-de-bielorrusia.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwn8mjl31p5yo"
+    }
+   ],
+   "premiere_parution": "2026-09-15T07:18:01Z",
+   "suite_de": null,
+   "mots": 220,
+   "modele": "gemini-3.5-flash-lite",
+   "en": {
+    "titre": "A Russian frigate fires flares towards a Danish helicopter",
+    "chapeau": "A Russian frigate fired flares toward a Danish military helicopter on Tuesday, September 15, 2026, over the Baltic Sea. The government of Denmark condemned this act by summoning the Russian ambassador.",
+    "corps": "The Danish Defence Command stated on Tuesday, September 15, 2026, that a Russian Navy frigate launched two flares at a Fennec helicopter performing a routine photographic operation in international waters. According to the same source, one of the projectiles passed a short distance from the aircraft.\n\n权的 Danish Prime Minister described the action as irresponsible and totally unacceptable on Tuesday, September 15, 2026. The Copenhagen executive summoned the Russian ambassador to signify its opposition to this behavior.\n\n## What the sources say\n\nThe Danish Defence Command claims on Tuesday, September 15, 2026, that the Russian vessel targeted the military helicopter with two flares during a surveillance mission.\n\nThe Russian ambassador to Denmark claims on Tuesday, September 15, 2026, according to the RIA agency relayed by The Straits Times, that Danish military helicopters carried out dangerous maneuvers near Russian warships and that an official note was transmitted to Copenhagen.\n\nSome information concerning the reactions of European institutions is missing in all the dispatches from the morning of Tuesday, September 15, 2026."
+   }
+  }
+ ],
+ "une": [
+  "2026-09-15-geopolitique-001",
+  "2026-09-15-geopolitique-002",
+  "2026-09-15-geopolitique-003",
+  "2026-09-15-geopolitique-004"
+ ]
+}

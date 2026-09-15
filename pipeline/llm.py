@@ -80,7 +80,9 @@ class Fournisseur:
         self.nom = conf["nom"]
         self.base_url = conf["base_url"].rstrip("/")
         self.modele = conf["modele"]
-        self.cle = os.environ.get(conf.get("cle_env", ""), "")
+        # .strip() : un secret GitHub collé avec un espace ou un retour à la ligne en trop
+        # rendrait l'en-tête HTTP « Authorization » invalide (exception InvalidHeader).
+        self.cle = os.environ.get(conf.get("cle_env", ""), "").strip()
         self.rpm = conf.get("rpm")
         self.rpj = conf.get("rpj")
         self.tpm = conf.get("tpm")

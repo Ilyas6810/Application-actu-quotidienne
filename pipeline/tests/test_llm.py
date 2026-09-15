@@ -46,6 +46,13 @@ def test_fournisseur_sans_cle_ignore(monkeypatch):
     assert not fournisseur.disponible()
 
 
+def test_cle_avec_espaces_nettoyee(monkeypatch):
+    # Un secret GitHub collé avec un retour à la ligne en trop rendrait l'en-tête HTTP invalide.
+    monkeypatch.setenv("CLE_AVEC_ESPACES", " abc123\n")
+    fournisseur = llm.Fournisseur({"nom": "x", "base_url": "http://x", "modele": "m", "cle_env": "CLE_AVEC_ESPACES"}, {})
+    assert fournisseur.cle == "abc123"
+
+
 def test_attente_conseillee():
     assert llm.attente_conseillee(SimpleNamespace(headers={"retry-after": "7"}, text="")) == 7.0
     assert llm.attente_conseillee(SimpleNamespace(headers={}, text='{"retryDelay": "33s"}')) == 33.0

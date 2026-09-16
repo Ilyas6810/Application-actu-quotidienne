@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-15T18:44:22Z",
- "derniere": "2026-09-15",
+ "maj": "2026-09-16T11:01:51Z",
+ "derniere": "2026-09-16",
  "editions": [
+  {
+   "date": "2026-09-16",
+   "genere_a": "2026-09-16T11:01:51Z",
+   "articles": 5,
+   "une": [
+    "Un hélicoptère d'information s'écrase à Los Angeles faisant trois morts",
+    "Fermeture du Kennedy Center après le refus judiciaire d'y inscrire Donald Trump",
+    "La Chine et la Russie condamnent les armes spatiales des Etats-Unis"
+   ],
+   "octets": 29266
+  },
   {
    "date": "2026-09-15",
    "genere_a": "2026-09-15T18:44:22Z",

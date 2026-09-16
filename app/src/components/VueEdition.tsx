@@ -1,9 +1,10 @@
 // Une édition : barre d'onglets (À la une puis les rubriques) et pages glissables.
 
 import { Ionicons } from "@expo/vector-icons";
-import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import {
   FlatList,
+  Platform,
   Pressable,
   RefreshControl,
   ScrollView,
@@ -42,6 +43,9 @@ export default function VueEdition({ edition, entete, actualisation = false, onA
   const barre = useRef<ScrollView>(null);
   const positions = useRef<number[]>([]);
   const [actif, setActif] = useState(0);
+  const { height: hauteurFenetre } = useWindowDimensions();
+  const zone = useRef<View>(null);
+  const [hauteur, setHauteur] = useState(0);
 
   const pages = useMemo<Page[]>(() => {
     const parId = new Map(edition.articles.map((a) => [a.id, a] as const));
@@ -59,6 +63,17 @@ export default function VueEdition({ edition, entete, actualisation = false, onA
   useEffect(() => {
     if (actif >= pages.length) setActif(0);
   }, [pages.length, actif]);
+
+  // Sur le web, le FlatList horizontal (les pages À la une / rubriques) n'étire pas la hauteur
+  // disponible jusqu'à ses pages : chaque page reprend la hauteur de son propre contenu au lieu
+  // de celle de l'écran, ce qui empêche tout défilement (React Native seul n'a pas ce problème,
+  // et onLayout ne se déclenche pas ici pour la mesurer autrement). On mesure donc directement le
+  // DOM et on impose la hauteur obtenue en pixels aux deux FlatList imbriqués.
+  useLayoutEffect(() => {
+    if (Platform.OS !== "web") return;
+    const noeud = zone.current as unknown as HTMLElement | null;
+    if (noeud?.getBoundingClientRect) setHauteur(noeud.getBoundingClientRect().height);
+  }, [hauteurFenetre, pages.length]);
 
   useEffect(() => {
     barre.current?.scrollTo({ x: Math.max(0, (positions.current[actif] ?? 0) - 24), animated: true });
@@ -97,45 +112,51 @@ export default function VueEdition({ edition, entete, actualisation = false, onA
           </Pressable>
         ))}
       </ScrollView>
-      <FlatList
-        ref={pager}
-        data={pages}
-        horizontal
-        pagingEnabled
-        showsHorizontalScrollIndicator={false}
-        keyExtractor={(page) => page.rubrique.id}
-        getItemLayout={(_, index) => ({ length: width, offset: width * index, index })}
-        onMomentumScrollEnd={finDefilement}
-        renderItem={({ item: page }) => (
-          <FlatList
-            style={{ width }}
-            data={page.articles}
-            keyExtractor={(a) => a.id}
-            renderItem={({ item }) => <CarteArticle article={item} />}
-            ListHeaderComponent={
-              <Pressable onPress={() => lecteur.lire(page.articles)} style={[styles.ecouter, { borderColor: p.filet }]}>
-                <Ionicons name="volume-high-outline" size={18} color={p.accent} />
-                <Text style={[styles.texteEcouter, { color: p.accent }]}>
-                  Écouter {page.rubrique.id === "une" ? "la une" : "la rubrique"} ({page.articles.length})
-                </Text>
-              </Pressable>
-            }
-            contentContainerStyle={styles.liste}
-            refreshControl={
-              onActualiser ? (
-                <RefreshControl refreshing={actualisation} onRefresh={onActualiser} colors={[p.accent]} tintColor={p.accent} />
-              ) : undefined
-            }
-          />
-        )}
-      />
+      <View style={styles.zonePages} ref={zone}>
+        <FlatList
+          ref={pager}
+          style={[styles.pager, hauteur ? { height: hauteur } : null]}
+          data={pages}
+          horizontal
+          pagingEnabled
+          showsHorizontalScrollIndicator={false}
+          keyExtractor={(page) => page.rubrique.id}
+          getItemLayout={(_, index) => ({ length: width, offset: width * index, index })}
+          onMomentumScrollEnd={finDefilement}
+          renderItem={({ item: page }) => (
+            <FlatList
+              style={[styles.pageListe, { width }, hauteur ? { height: hauteur } : null]}
+              data={page.articles}
+              keyExtractor={(a) => a.id}
+              renderItem={({ item }) => <CarteArticle article={item} />}
+              ListHeaderComponent={
+                <Pressable onPress={() => lecteur.lire(page.articles)} style={[styles.ecouter, { borderColor: p.filet }]}>
+                  <Ionicons name="volume-high-outline" size={18} color={p.accent} />
+                  <Text style={[styles.texteEcouter, { color: p.accent }]}>
+                    Écouter {page.rubrique.id === "une" ? "la une" : "la rubrique"} ({page.articles.length})
+                  </Text>
+                </Pressable>
+              }
+              contentContainerStyle={styles.liste}
+              refreshControl={
+                onActualiser ? (
+                  <RefreshControl refreshing={actualisation} onRefresh={onActualiser} colors={[p.accent]} tintColor={p.accent} />
+                ) : undefined
+              }
+            />
+          )}
+        />
+      </View>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  conteneur: { flex: 1 },
+  conteneur: { flex: 1, minHeight: 0 },
   barre: { flexGrow: 0, borderBottomWidth: StyleSheet.hairlineWidth },
+  zonePages: { flex: 1, minHeight: 0 },
+  pager: { flex: 1, minHeight: 0 },
+  pageListe: { flex: 1, minHeight: 0 },
   barreContenu: { paddingHorizontal: 10 },
   onglet: { paddingHorizontal: 10, paddingVertical: 12, borderBottomWidth: 2 },
   texteOnglet: { fontSize: 15, fontWeight: "600" },

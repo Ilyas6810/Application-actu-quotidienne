@@ -40,6 +40,14 @@ def heure_locale(jour: date, hhmm: str) -> datetime:
     return datetime(jour.year, jour.month, jour.day, heures, minutes, tzinfo=c.fuseau())
 
 
+def limite_redaction(jour: date, hhmm: str | None, debut: datetime) -> datetime | None:
+    """Heure limite de rédaction : au moins MARGE_MIN_REDACTION après le démarrage réel du job,
+    même si l'heure locale demandée est déjà passée (déclenchement planifié retardé par GitHub)."""
+    if not hhmm:
+        return None
+    return max(heure_locale(jour, hhmm), debut + MARGE_MIN_REDACTION)
+
+
 def notifier_titres(edition: dict, moment: datetime) -> None:
     """Notification push avec les trois premiers titres, envoyée à l'heure dite."""
     if not notifier.configure():
@@ -108,12 +116,7 @@ def main() -> None:
     sujets = redaction.ordre_de_redaction(redaction.selectionner(clusters, pool, historique))
     if args.limite:
         sujets = sujets[: args.limite]
-    limite = heure_locale(jour, args.heure_limite) if args.heure_limite else None
-    if limite:
-        # Si l'heure limite est déjà dépassée au démarrage (déclenchement planifié retardé par
-        # GitHub), on garde quand même de quoi rédiger les sujets les plus importants plutôt que
-        # de publier une édition vide.
-        limite = max(limite, debut + MARGE_MIN_REDACTION)
+    limite = limite_redaction(jour, args.heure_limite, debut)
     cascade = Cascade.depuis_config(factice=args.factice)
     articles, rejets = redaction.rediger_serie(sujets, pool, cascade, jour, limite)
     # Traduction anglaise avec les quotas restants : un article non traduit reste lisible en français.

@@ -18,7 +18,7 @@ import logging
 import sys
 import time
 from collections import Counter
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 
 import cluster
 import collecte
@@ -32,6 +32,7 @@ from llm import Cascade
 log = logging.getLogger("edition")
 
 RAPPORT = c.ETAT / "rapport_edition.md"
+MARGE_MIN_REDACTION = timedelta(minutes=20)  # GitHub retarde parfois un déclenchement planifié de plusieurs heures
 
 
 def heure_locale(jour: date, hhmm: str) -> datetime:
@@ -108,6 +109,11 @@ def main() -> None:
     if args.limite:
         sujets = sujets[: args.limite]
     limite = heure_locale(jour, args.heure_limite) if args.heure_limite else None
+    if limite:
+        # Si l'heure limite est déjà dépassée au démarrage (déclenchement planifié retardé par
+        # GitHub), on garde quand même de quoi rédiger les sujets les plus importants plutôt que
+        # de publier une édition vide.
+        limite = max(limite, debut + MARGE_MIN_REDACTION)
     cascade = Cascade.depuis_config(factice=args.factice)
     articles, rejets = redaction.rediger_serie(sujets, pool, cascade, jour, limite)
     # Traduction anglaise avec les quotas restants : un article non traduit reste lisible en français.

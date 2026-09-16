@@ -1,6 +1,138 @@
 {
- "maj": "2026-09-15T21:25:50Z",
+ "maj": "2026-09-16T21:26:04Z",
  "alertes": [
+  {
+   "id": "2026-09-17-alerte-01",
+   "date": "2026-09-17",
+   "publiee_a": "2026-09-16T21:24:37Z",
+   "titre": "La Réserve fédérale américaine augmente son taux directeur d'un quart de point",
+   "texte": "La Réserve fédérale américaine a relevé le 16 septembre 2026 son taux d'intérêt directeur de 0,25 point, pour l'établir entre 3,75 % et 4 %. Cette décision, votée à l'unanimité des douze membres du comité de politique monétaire, constitue la première hausse depuis l'été 2023.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/economia/reserva-federal-sube-tipos-interes-cuarto-punto-20260916200545-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-09-16/fed-raises-rates-as-warsh-bucks-wh-to-target-inflation-video"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/la-fed-augmente-son-taux-d-interet-directeur-d-un-quart-de-point-20260916"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/economia/finanza/26_settembre_16/la-fed-alza-i-tassi-di-interesse-dopo-tre-anni-cosi-warsh-scontenta-trump-96347e2c-13cf-416b-a6e1-1d26878f9xlk.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw4gmlyvj422o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-09-16/la-reserva-federal-desafia-a-trump-con-una-subida-de-tipos-de-25-puntos-basicos.html"
+    }
+   ],
+   "cluster": "5615563eb107bdfe",
+   "urls": [
+    "https://abc.es/economia/reserva-federal-sube-tipos-interes-cuarto-punto-20260916200545-nt.html",
+    "https://aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy",
+    "https://bbc.co.uk/news/articles/cw4gmlyvj422o",
+    "https://bloomberg.com/news/articles/2026-09-15/fed-seen-hiking-rates-in-defiance-of-trump-decision-day-guide",
+    "https://bloomberg.com/news/articles/2026-09-16/fed-raises-rates-as-warsh-bucks-trump-to-contain-inflation",
+    "https://bloomberg.com/news/articles/2026-09-16/key-takeaways-from-fed-decision-to-raise-interest-rates",
+    "https://bloomberg.com/news/videos/2026-09-16/aggressive-rate-hike-bets-raise-stakes-for-fed-video",
+    "https://bloomberg.com/news/videos/2026-09-16/fed-raises-rates-as-warsh-bucks-wh-to-target-inflation-video",
+    "https://corriere.it/economia/finanza/26_settembre_16/fed-perche-sui-tassi-si-prepara-lo-scontro-tra-trump-e-warsh-e-cosa-significherebbe-il-denaro-piu-costoso-07d53584-f085-43d4-a9e6-347ddf633xlk.shtml",
+    "https://corriere.it/economia/finanza/26_settembre_16/la-fed-alza-i-tassi-di-interesse-dopo-tre-anni-cosi-warsh-scontenta-trump-96347e2c-13cf-416b-a6e1-1d26878f9xlk.shtml",
+    "https://dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/economia/2026-09-16/decepcionar-al-mercado-o-enfurecer-a-trump-el-dilema-de-warsh-en-su-primera-gran-decision-al-frente-de-la-fed.html",
+    "https://elpais.com/economia/2026-09-16/la-reserva-federal-desafia-a-trump-con-una-subida-de-tipos-de-25-puntos-basicos.html",
+    "https://english.elpais.com/economy-and-business/2026-09-16/the-federal-reserve-defies-trump-with-a-25-basis-point-rate-hike.html",
+    "https://ft.com/content/b990fc74-9efe-4de0-a6ca-64427e6e4f84",
+    "https://ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1",
+    "https://lefigaro.fr/conjoncture/inflation-flambee-de-la-dette-aux-etats-unis-la-fed-sommee-d-agir-20260915",
+    "https://lefigaro.fr/conjoncture/la-fed-augmente-son-taux-d-interet-directeur-d-un-quart-de-point-20260916",
+    "https://lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
+    "https://npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
+    "https://npr.org/2026/09/16/nx-s1-5966383/morning-news-brief",
+    "https://npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
+    "https://rfi.fr/fr/am%C3%A9riques/20260916-%C3%A9tats-unis-la-fed-rel%C3%A8ve-ses-taux-pour-freiner-l-inflation-%C3%A0-rebours-des-exigences-de-trump",
+    "https://spiegel.de/wirtschaft/us-notenbank-fed-erhoeht-leitzins-erstmals-seit-2023-a-c72447c1-ff8e-4fdb-a5c1-9745d77ce5b9",
+    "https://theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
+    "https://theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
+    "https://www1.folha.uol.com.br/mercado/2026/09/fed-aumenta-taxa-de-juros-nos-eua-pela-primeira-vez-desde-julho-de-2023.shtml"
+   ]
+  },
+  {
+   "id": "2026-09-17-alerte-02",
+   "date": "2026-09-17",
+   "publiee_a": "2026-09-16T21:26:04Z",
+   "titre": "Kylian Mbappé explique avoir masqué son maillot de soutien à Ceuta",
+   "texte": "Mardi 15 septembre 2026, Kylian Mbappé a partiellement masqué un message de soutien aux habitants de Ceuta avant un match en Espagne. L'attaquant du Real Madrid s'est expliqué le 16 septembre 2026 en affirmant ne pas vouloir établir de priorité dans la souffrance.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/todos-somos-caballas-pourquoi-kylian-mbappe-a-refuse-de-porter-un-t-shirt-en-soutien-aux-habitants-de-ceuta-20260916_BDOO4NQXQRBZPNWYWNSYQSG45U"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260916-ceuta-mbapp%C3%A9-vinicius-et-konat%C3%A9-masquent-un-message-de-soutien-aux-habitants"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/09/16/kylian-mbappe-cible-par-l-extreme-droite-apres-son-boycott-d-une-operation-de-soutien-aux-habitants-de-ceuta_6775450_823448.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/09/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-de-apoio-a-ceuta.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/real-madrid/mbappe-explica-tras-esconder-apoyo-ceuta-queria-20260916215318-nt.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Kylian-mbappe-explique-son-choix-de-ne-porter-qu-a-moitie-un-t-shirt-en-soutien-aux-habitants-de-ceuta-je-ne-voulais-pas-etablir-de-priorite-dans-la-souffrance/1719197"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/espagne/liga-au-coeur-d-une-polemique-mbappe-affirme-soutenir-les-habitants-de-ceuta-a-100-20260916"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html"
+    }
+   ],
+   "cluster": "01fdfd8c70ba6342",
+   "urls": [
+    "https://abc.es/deportes/real-madrid/mbappe-explica-tras-esconder-apoyo-ceuta-queria-20260916215318-nt.html",
+    "https://france24.com/fr/vid%C3%A9o/20260916-ceuta-mbapp%C3%A9-vinicius-et-konat%C3%A9-masquent-un-message-de-soutien-aux-habitants",
+    "https://franceinfo.fr/l-actu-pour-les-jeunes/pourquoi-mbappe-a-cache-ce-message_8195582.html",
+    "https://franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html",
+    "https://franceinfo.fr/sports/foot/mbappe-vinicius-et-konate-masquent-en-partie-un-slogan-en-soutien-aux-habitants-de-ceuta-debut-de-polemique-en-espagne_8195072.html",
+    "https://lefigaro.fr/sports/football/espagne/c-est-mal-le-president-de-la-liga-defend-le-maillot-en-soutien-a-ceuta-et-regrette-le-geste-de-mbappe-20260916",
+    "https://lefigaro.fr/sports/football/espagne/liga-au-coeur-d-une-polemique-mbappe-affirme-soutenir-les-habitants-de-ceuta-a-100-20260916",
+    "https://lefigaro.fr/sports/football/kylian-mbappe-creer-une-polemique-en-refusant-de-porter-un-message-de-soutien-a-la-population-de-ceuta-20260916",
+    "https://lemonde.fr/politique/article/2026/09/16/kylian-mbappe-cible-par-l-extreme-droite-apres-son-boycott-d-une-operation-de-soutien-aux-habitants-de-ceuta_6775450_823448.html",
+    "https://lemonde.fr/sport/article/2026/09/16/kylian-mbappe-vinicius-et-ibrahima-konate-dissimulent-en-partie-un-message-de-soutien-aux-habitants-de-ceuta-avant-un-match-du-real-madrid_6775196_3242.html",
+    "https://lequipe.fr/Football/Actualites/Kylian-mbappe-explique-son-choix-de-ne-porter-qu-a-moitie-un-t-shirt-en-soutien-aux-habitants-de-ceuta-je-ne-voulais-pas-etablir-de-priorite-dans-la-souffrance/1719197",
+    "https://lequipe.fr/Football/Actualites/Kylian-mbappe-vinicius-et-ibrahima-konate-ont-masque-le-message-de-soutien-aux-habitants-de-ceuta-sur-leur-t-shirt/1719040",
+    "https://lequipe.fr/Football/Actualites/Le-president-de-la-liga-javier-tebas-regrette-le-choix-de-kylian-mbappe-vinicius-junior-et-ibrahima-konate-de-ne-porter-qu-a-moitie-un-t-shirt-en-soutien-aux-habitants-de-ceuta/1719148",
+    "https://liberation.fr/sports/football/todos-somos-caballas-pourquoi-kylian-mbappe-a-refuse-de-porter-un-t-shirt-en-soutien-aux-habitants-de-ceuta-20260916_BDOO4NQXQRBZPNWYWNSYQSG45U",
+    "https://rfi.fr/fr/sports/20260916-foot-en-liga-un-t-shirt-de-soutien-%C3%A0-la-population-de-ceuta-fait-pol%C3%A9mique",
+    "https://video.lefigaro.fr/figaro/sports/nous-sommes-tous-des-ceutiens-kylian-mbappe-accuse-d-avoir-voulu-cacher-un-message-de-soutien-au-peuple-de-ceuta-20260916",
+    "https://www1.folha.uol.com.br/esporte/2026/09/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-de-apoio-a-ceuta.shtml"
+   ]
+  },
   {
    "id": "2026-09-16-alerte-01",
    "date": "2026-09-16",

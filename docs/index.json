@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-16T11:01:51Z",
- "derniere": "2026-09-16",
+ "maj": "2026-09-17T05:32:26Z",
+ "derniere": "2026-09-17",
  "editions": [
+  {
+   "date": "2026-09-17",
+   "genere_a": "2026-09-17T05:32:26Z",
+   "articles": 3,
+   "une": [
+    "L'Union européenne propose au Canada un statut de membre associé",
+    "L'ancien président du Kosovo Hashim Thaçi condamné à 25 ans de prison",
+    "Donald Trump menace l'Union européenne de sanctions douanières à cause du Canada"
+   ],
+   "octets": 10336
+  },
   {
    "date": "2026-09-16",
    "genere_a": "2026-09-16T11:01:51Z",

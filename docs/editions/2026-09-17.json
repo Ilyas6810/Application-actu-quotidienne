@@ -1,0 +1,197 @@
+{
+ "date": "2026-09-17",
+ "genere_a": "2026-09-17T05:32:26Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-17-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'Union européenne propose au Canada un statut de membre associé",
+   "chapeau": "La présidente de la Commission européenne Ursula von der Leyen a proposé mercredi 16 septembre 2026 de faire du Canada le premier membre associé de l'Union européenne. Cette annonce a suscité de vives réactions internationales depuis Strasbourg.",
+   "corps": "Mercredi 16 septembre 2026, Ursula von der Leyen a suggéré au Parlement européen à Strasbourg d'accorder au Canada un statut de membre associé. Le Premier ministre canadien Mark Carney est intervenu à son tour devant les eurodéputés le jeudi 17 septembre 2026.\n\nCe rapprochement s'inscrit dans un contexte de tensions commerciales avec les États-Unis. Le président américain Donald Trump a réagi à cette proposition en menaçant l'Union européenne de sanctions et de ruptures d'échanges commerciaux.\n\n## Ce que disent les sources\n\nSelon Le Figaro le 16 septembre 2026, le projet intègre également le Canada à un futur conseil de sécurité européen comprenant le Royaume-Uni, la Norvège et l'Ukraine. D'après Politico Europe le 17 septembre 2026, le statut de membre associé n'existe pas encore et Ottawa hésite à le définir. Le Financial Times indique le 17 septembre 2026 que Berlin s'oppose à une procédure accélérée.\n\nCertaines précisions sur le calendrier exact des discussions et les modalités juridiques du statut manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/porter-notre-relation-au-plus-haut-niveau-possible-l-union-europeenne-propose-au-canada-un-statut-de-membre-associe-20260916"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/podcast/brussels-playbook-podcast/von-der-leyen-makes-it-awkward-with-canada"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7b1a00f1-6842-4f5e-ace4-d6a57e98b21e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20260916-ursula-von-der-leyen-suggere-que-le-canada-devienne-membre-associe-union-europeenne-relations-etats-unis"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-16/von-de-leyen-apuesta-por-que-canada-sea-el-primer-miembro-asociado-de-la-ue.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/von-der-leyen-ofrece-canada-primer-estado-20260916100735-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/16/eu-offer-canada-blueprint-britain-brexit"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump"
+    }
+   ],
+   "premiere_parution": "2026-09-16T04:12:58Z",
+   "suite_de": "2026-09-16-monde-004",
+   "mots": 199,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-17-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump menace l'Union européenne de sanctions douanières à cause du Canada",
+   "chapeau": "Le président américain Donald Trump a menacé de suspendre le commerce avec l'Union européenne ou d'imposer de lourdes taxes douanières. Cette déclaration fait suite au projet européen d'accorder au Canada un statut de membre associé.",
+   "corps": "Le président des États-Unis a réagi vivement à la proposition formulée par la présidente de la Commission européenne, Ursula von der Leyen. Cette initiative vise à faire du Canada le tout premier membre associé de l'Union européenne. Donald Trump a qualifié cette idée de ridicule lors d'une déclaration aux journalistes le 16 septembre 2026.\n\nLe dirigeant américain a affirmé qu'il pourrait considérer cette démarche comme un acte hostile envers son pays. Si cette décision est validée, Washington envisage d'appliquer des taxes douanières très importantes sur les produits importés depuis l'Europe. Donald Trump a également évoqué la possibilité d'interrompre certains échanges commerciaux avec les pays de l'Union européenne.\n\nCette tension survient alors que le Canada cherche à renforcer ses relations avec l'Europe. Le gouvernement canadien tente de diversifier ses alliances, notamment dans le domaine de la défense, en raison de la dégradation de ses rapports avec le gouvernement américain.\n\nDes détails manquent concernant les modalités précises de ce statut de membre associé et la liste des produits européens potentiellement visés par les taxes américaines.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Interfax",
+     "url": "https://interfax.ru/world/1116537"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-16/trump-floats-eu-tariffs-if-canada-invite-deemed-a-hostile-act"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.com/news/2026/09/16/trump-threatens-to-impose-serious-tariffs-on-europe-if-canada-joins-eu-as-associate-member-01081525"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/donald-trump-droht-eu-wegen-kanada-annaeherung-mit-sehr-hohen-zoellen-a-f4bcbd42-8e0d-4a79-af07-9a0ae0df9f6d"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
+    }
+   ],
+   "premiere_parution": "2026-09-16T23:17:00Z",
+   "suite_de": null,
+   "mots": 208,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-17-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "L'ancien président du Kosovo Hashim Thaçi condamné à 25 ans de prison",
+   "chapeau": "Le tribunal spécial de La Haye a condamné mercredi l'ancien président kosovar Hashim Thaçi à une peine de 25 ans de prison pour crimes de guerre. Cette décision judiciaire a immédiatement provoqué des manifestations de protestation et de la colère au Kosovo.",
+   "corps": "Les juges des Chambres spécialisées pour le Kosovo, siégeant aux Pays-Bas, ont reconnu l'ancien dirigeant coupable de meurtres, de tortures, de traitements cruels et de détentions arbitraires. La cour lui attribue la responsabilité de l'assassinat de 96 opposants politiques et de collaborateurs présumés des forces de sécurité serbes. Ces actes ont été commis durant le conflit de 1998-1999, période de l'insurrection armée pour l'indépendance vis-à-vis de la Serbie.\n\nHashim Thaçi dirigeait alors l'Armée de libération du Kosovo, la guérilla albanaise opposée aux forces de Slobodan Milosevic. Trois autres anciens commandants de cette organisation ont également reçu de lourdes peines d'emprisonnement lors du même verdict. L'ancien président conserve la possibilité de faire appel de cette condamnation.\n\nLa sentence suscite une vive opposition au Kosovo, où une grande partie de la population considère Hashim Thaçi comme un héros national de la lutte pour l'indépendance. Des centaines de citoyens sont descendus dans la rue pour manifester leur désaccord. Des protestataires ont jeté des projectiles contre les bureaux de la mission de l'Union européenne, l'institution internationale chargée de superviser la justice pour les crimes liés à ce conflit.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-16/condenado-a-25-anos-de-carcel-el-expresidente-de-kosovo-hashim-thaci-por-crimenes-de-guerra.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-16/kosovars-protest-after-ex-president-found-guilty-of-war-crimes"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/ex-presidente-do-kosovo-e-condenado-a-25-anos-de-prisao-por-crimes-de-guerra.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/16/veroordeling-kosovaarse-oud-president-in-politiek-beladen-proces-leidt-tot-woede-en-beangstigende-sfeer-in-kosovo-a4936665"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/l-ancien-president-du-kosovo-hashim-thaci-a-ete-condamne-a-25-ans-de-prison-pour-crimes-de-guerre_8195744.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/shock-and-anger-in-kosovo-as-former-president-convicted/a-79294916?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/a-hague-court-convicts-kosovos-former-president-thaci-of-war-crimes-and-sentences-him-to-25-years/article71473760.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-16T01:07:04Z",
+   "suite_de": null,
+   "mots": 226,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-17-monde-001",
+  "2026-09-17-geopolitique-001",
+  "2026-09-17-monde-002"
+ ]
+}

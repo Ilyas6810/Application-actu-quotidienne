@@ -1,6 +1,65 @@
 {
- "maj": "2026-09-16T21:26:04Z",
+ "maj": "2026-09-17T11:47:54Z",
  "alertes": [
+  {
+   "id": "2026-09-17-alerte-03",
+   "date": "2026-09-17",
+   "publiee_a": "2026-09-17T11:47:54Z",
+   "titre": "Le bloc de centre gauche remporte les élections législatives en Suède",
+   "texte": "L'autorité électorale suédoise a confirmé la victoire du bloc de centre gauche aux élections législatives le jeudi 17 septembre 2026 à Stockholm. La coalition emmenée par Magdalena Andersson décroche 176 sièges au Parlement contre 173 pour l'alliance de droite.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_16/elezioni-in-svezia-il-centrosinistra-vince-di-un-seggio-trattative-per-la-formazione-della-maggioranza-6ad7d2d7-6b60-46f0-9a11-05cae495bxlk.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260917-su%C3%A8de-avec-99-9-des-votes-d%C3%A9pouill%C3%A9s-la-gauche-%C3%A0-deux-pas-de-la-victoire"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/andersson-acelera-contactos-espinosa-formacion-gobierno-suecia-20260917131152-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/swedens-centre-left-opposition-wins-election-as-count-completed"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/swedens-left-magdalena-andersson-election-victory"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-17/el-bloque-de-centroizquierda-gana-las-elecciones-en-suecia-segun-el-escrutinio-definitivo.html"
+    }
+   ],
+   "cluster": "06a5cf533a075fe0",
+   "urls": [
+    "https://abc.es/internacional/andersson-acelera-contactos-espinosa-formacion-gobierno-suecia-20260917131152-nt.html",
+    "https://bloomberg.com/news/articles/2026-09-16/sweden-s-center-left-bloc-set-to-win-election-in-svt-projection",
+    "https://corriere.it/esteri/26_settembre_16/elezioni-in-svezia-il-centrosinistra-vince-di-un-seggio-trattative-per-la-formazione-della-maggioranza-6ad7d2d7-6b60-46f0-9a11-05cae495bxlk.shtml",
+    "https://dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-09-17/el-bloque-de-centroizquierda-gana-las-elecciones-en-suecia-segun-el-escrutinio-definitivo.html",
+    "https://france24.com/fr/vid%C3%A9o/20260917-l%C3%A9gislatives-en-su%C3%A8de-une-victoire-du-centre-gauche-annonc%C3%A9e-par-la-t%C3%A9l%C3%A9vision-publique",
+    "https://france24.com/fr/vid%C3%A9o/20260917-su%C3%A8de-avec-99-9-des-votes-d%C3%A9pouill%C3%A9s-la-gauche-%C3%A0-deux-pas-de-la-victoire",
+    "https://haaretz.com/world-news/europe/2026-09-16/ty-article-magazine/.premium/swedish-election-left-the-blocs-split-over-israel-and-antisemitism/000001a0-a531-d5b2-a9ee-a7bbf7370000",
+    "https://politico.eu/article/swedens-left-magdalena-andersson-election-victory",
+    "https://politico.eu/article/swedish-election-magdalena-andersson-left-victory-close",
+    "https://straitstimes.com/world/europe/analysis-the-night-swedens-far-right-stopped-winning",
+    "https://straitstimes.com/world/europe/swedens-centre-left-opposition-maintains-election-lead-as-count-nears-end",
+    "https://straitstimes.com/world/europe/swedens-centre-left-opposition-wins-election-as-count-completed",
+    "https://theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander",
+    "https://theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
+   ]
+  },
   {
    "id": "2026-09-17-alerte-01",
    "date": "2026-09-17",

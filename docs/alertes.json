@@ -1,6 +1,46 @@
 {
- "maj": "2026-09-17T11:47:54Z",
+ "maj": "2026-09-18T04:51:39Z",
  "alertes": [
+  {
+   "id": "2026-09-18-alerte-01",
+   "date": "2026-09-18",
+   "publiee_a": "2026-09-18T04:51:39Z",
+   "titre": "La Banque du Japon relève son taux d'intérêt directeur à 1,25 %",
+   "texte": "La Banque du Japon a élevé son taux d'intérêt de référence à 1,25 % ce vendredi 18 septembre 2026 à Tokyo. Cette décision, rapportée par le média Al Jazeera le 18 septembre 2026, vise à freiner la hausse des prix dans le pays.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/live-blog/2026-09-18/bank-of-japan-monetary-policy-decision"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqn74jeek06no"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-18/el-banco-de-japon-sube-los-tipos-al-ritmo-mas-rapido-desde-1990-tras-las-recomendaciones-de-bessent.html"
+    }
+   ],
+   "cluster": "17cc0b3c1a42d300",
+   "urls": [
+    "https://aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises",
+    "https://bbc.co.uk/news/articles/cqn74jeek06no",
+    "https://bloomberg.com/news/articles/2026-09-17/japan-inflation-slows-a-tad-ahead-of-expected-boj-rate-hike",
+    "https://bloomberg.com/news/articles/2026-09-18/boj-hikes-rates-at-fastest-pace-since-1990-as-inflation-persists",
+    "https://bloomberg.com/news/live-blog/2026-09-18/bank-of-japan-monetary-policy-decision",
+    "https://bloomberg.com/news/videos/2026-09-18/japan-central-bank-hikes-rates-with-surprise-dissenters-video",
+    "https://cincodias.elpais.com/mercados-financieros/2026-09-18/el-banco-de-japon-sube-los-tipos-al-ritmo-mas-rapido-desde-1990-tras-las-recomendaciones-de-bessent.html",
+    "https://ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1"
+   ]
+  },
   {
    "id": "2026-09-17-alerte-03",
    "date": "2026-09-17",

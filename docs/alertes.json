@@ -1,6 +1,100 @@
 {
- "maj": "2026-09-18T11:25:27Z",
+ "maj": "2026-09-18T21:01:26Z",
  "alertes": [
+  {
+   "id": "2026-09-19-alerte-01",
+   "date": "2026-09-19",
+   "publiee_a": "2026-09-18T21:01:26Z",
+   "titre": "Zinédine Zidane annonce sa première liste avec l'équipe de France",
+   "texte": "Le nouveau sélectionneur Zinédine Zidane a communiqué vendredi 18 septembre une liste de 23 joueurs sélectionnés en équipe de France. Kylian Mbappé conserve son rôle de capitaine pour les prochains matchs de la Ligue des nations.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/sport/equipe-de-france-zinedine-zidane-presente-sa-premiere-liste-avec-kylian-mbappe-en-capitaine-20260918"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260918-replay-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-en-tant-que-s%C3%A9lectionneur-de-l-%C3%A9quipe-de-france"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/on-va-faire-differemment-zidane-devoile-sa-premiere-liste-pour-lequipe-de-france-20260918_XOTMTI3FWBFKBAPKCPU74CEXG4"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/futbol/primer-incendio-zidane-seleccion-francia-20260917193905-nt.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Huit-rennais-dans-la-premiere-liste-de-zinedine-zidane-en-tant-que-selectionneur/1719661"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-tchouameni-kante-thuram-en-images-les-grands-absents-de-la-liste-de-zidane-20260918"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/football/article/2026/09/18/zinedine-zidane-joue-l-ouverture-et-mise-sur-la-jeunesse-pour-sa-premiere-liste-avec-l-equipe-de-france_6776845_1616938.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/zinedine-zidane/nouveaux-visages-fin-du-defile-ce-qu-il-faut-retenir-de-la-premiere-liste-de-zidane_8199872.html"
+    }
+   ],
+   "cluster": "061dbd52d894608f",
+   "urls": [
+    "https://abc.es/deportes/futbol/primer-incendio-zidane-seleccion-francia-20260917193905-nt.html",
+    "https://france24.com/fr/sports/20260918-%C3%A9quipe-de-france-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-des-bleus",
+    "https://france24.com/fr/vid%C3%A9o/20260918-football-la-premi%C3%A8re-liste-des-bleus-de-zin%C3%A9dine-zidane-attendue",
+    "https://france24.com/fr/vid%C3%A9o/20260918-football-le-nouveau-s%C3%A9lectionneur-des-bleus-va-tout-donner-pour-qu-ils-continuent-%C3%A0-gagner",
+    "https://france24.com/fr/vid%C3%A9o/20260918-france-dans-l-attente-de-la-premi%C3%A8re-copie-de-zin%C3%A9dine-zidane-ic%C3%B4ne-du-foot-tricolore",
+    "https://france24.com/fr/vid%C3%A9o/20260918-replay-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-en-tant-que-s%C3%A9lectionneur-de-l-%C3%A9quipe-de-france",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/chaque-mot-est-analyse-avant-la-premiere-de-liste-de-zinedine-zidane-d-anciens-de-l-equipe-de-france-racontent-cet-exercice-tres-particulier_8198633.html",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/direct-premiere-liste-de-zinedine-zidane-le-nouveau-selectionneur-de-l-equipe-de-france-devoile-a-18-heures-sa-selection-pour-les-matchs-face-a-la-turquie-la-belgique-et-l-italie_8198774.html",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/equipe-de-france-zinedine-zidane-devoile-sa-premiere-liste-avec-esteban-lepaul-et-lucas-da-cunha-mais-sans-n-golo-kante-ni-les-freres-hernandez_8199149.html",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/il-fait-l-unanimite-depuis-toujours-zinedine-zidane-un-nouveau-selectionneur-intouchable-a-la-tete-de-l-equipe-de-france_8192051.html",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/malgre-une-volonte-de-continuite-affirmee-zinedine-zidane-marque-une-rupture-avec-l-ere-deschamps-des-sa-premiere-liste_8199710.html",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/portrait-esteban-lepaul-la-trajectoire-sinueuse-de-l-ancien-amateur-jusqu-a-l-equipe-de-france_8197112.html",
+    "https://franceinfo.fr/sports/foot/equipe-de-france/quel-role-aura-kylian-mbappe-en-attaque-dans-l-equipe-de-france-de-zinedine-zidane_8199839.html",
+    "https://franceinfo.fr/sports/foot/zinedine-zidane/j-ai-envie-de-le-voir-de-plus-pres-explique-zinedine-zidane-apres-avoir-selectionne-esteban-lepaul-avec-les-bleus_8199656.html",
+    "https://franceinfo.fr/sports/foot/zinedine-zidane/nouveaux-visages-fin-du-defile-ce-qu-il-faut-retenir-de-la-premiere-liste-de-zidane_8199872.html",
+    "https://franceinfo.fr/sports/foot/zinedine-zidane/zidane-je-vais-me-consacrer-a-cette-tache-qui-est-celle-du-selectionneur_8199758.html",
+    "https://la-croix.com/sport/equipe-de-france-zinedine-zidane-presente-sa-premiere-liste-avec-kylian-mbappe-en-capitaine-20260918",
+    "https://lefigaro.fr/sports/football/equipe-de-france/5-neophytes-des-choix-forts-et-un-autre-style-ce-que-revele-la-premiere-liste-de-zinedine-zidane-a-la-tete-des-bleus-20260918",
+    "https://lefigaro.fr/sports/football/equipe-de-france/en-direct-equipe-de-france-zidane-va-devoiler-sa-premiere-liste-qui-sera-appele-chez-les-bleus-20260918",
+    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-20260918",
+    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-jacquet-le-fee-ces-nouveaux-qui-postulent-pour-la-premiere-liste-de-zidane-20260917",
+    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-parmi-les-nouveaux-de-la-liste-de-zinedine-zidane-quel-choix-vous-excite-le-plus-20260918",
+    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-tchouameni-kante-thuram-en-images-les-grands-absents-de-la-liste-de-zidane-20260918",
+    "https://lefigaro.fr/sports/football/equipe-de-france/premiere-liste-de-zidane-quel-nouveau-souhaitez-vous-voir-le-plus-en-equipe-de-france-20260917",
+    "https://lefigaro.fr/sports/football/equipe-de-france/surprises-ruptures-noyau-dur-quelle-premiere-liste-de-zidane-avec-les-bleus-20260917",
+    "https://lemonde.fr/football/article/2026/09/18/zinedine-zidane-joue-l-ouverture-et-mise-sur-la-jeunesse-pour-sa-premiere-liste-avec-l-equipe-de-france_6776845_1616938.html",
+    "https://lemonde.fr/sport/article/2026/09/18/zinedine-zidane-appelle-esteban-lepaul-et-cinq-autres-nouveaux-pour-sa-premiere-liste-a-la-tete-des-bleus_6776828_3242.html",
+    "https://lemonde.fr/sport/article/2026/09/18/zinedine-zidane-va-devoiler-sa-premiere-liste-de-joueurs-et-endosser-pleinement-le-costume-de-selectionneur-des-bleus_6776778_3242.html",
+    "https://lemonde.fr/sport/video/2026/09/18/en-images-la-premiere-liste-des-bleus-donnee-par-zidane_6776839_3242.html",
+    "https://lequipe.fr/Football/Actualites/-j-aime-beaucoup-mbappe-a-gauche-les-mots-de-zinedine-zidane-apres-avoir-devoile-sa-premiere-liste-en-tant-que-selectionneur-des-bleus/1719636",
+    "https://lequipe.fr/Football/Actualites/De-michel-platini-a-didier-deschamps-en-passant-par-roger-lemerre-les-premieres-listes-des-selectionneurs-des-bleus/1718815",
+    "https://lequipe.fr/Football/Actualites/Huit-rennais-dans-la-premiere-liste-de-zinedine-zidane-en-tant-que-selectionneur/1719661",
+    "https://lequipe.fr/Football/Actualites/Les-lensois-udol-et-ganiou-lepaul-plutot-que-thuram-le-retour-de-camavinga-decouvrez-la-liste-des-internautes-pour-les-debuts-de-zidane-a-la-tete-des-bleus/1719498",
+    "https://lequipe.fr/Football/Actualites/Zinedine-zidane-selectionneur-des-bleus-avec-barthez-on-parle-le-meme-football/1719620",
+    "https://lequipe.fr/Football/Article/Lepaul-jacquet-truffert-qui-dans-la-premiere-liste-des-bleus-de-zinedine-zidane/1719364",
+    "https://lequipe.fr/Football/Article/Les-coulisses-de-la-preparation-de-la-premiere-liste-de-zinedine-zidane-avec-les-bleus/1719418",
+    "https://lequipe.fr/Football/actu-en-direct/bleus-live/20106",
+    "https://lequipe.fr/special/selection/liste-ZZ",
+    "https://liberation.fr/sports/football/on-va-faire-differemment-zidane-devoile-sa-premiere-liste-pour-lequipe-de-france-20260918_XOTMTI3FWBFKBAPKCPU74CEXG4",
+    "https://photo.lefigaro.fr/sports/football/equipe-de-france/foot-lepaul-jacquet-le-fee-ces-nouveaux-qui-postulent-pour-la-premiere-liste-de-zidane-20260917",
+    "https://photo.lefigaro.fr/sports/football/equipe-de-france/les-grands-absents-de-la-liste-de-zidane-20260918",
+    "https://rfi.fr/fr/sports/20260918-foot-zin%C3%A9dine-zidane-nouveau-s%C3%A9lectionneur-des-bleus-annonce-sa-premi%C3%A8re-liste-avec-mbapp%C3%A9",
+    "https://video.lefigaro.fr/figaro/sports/football/equipe-de-france-decouvrez-en-direct-la-premiere-liste-de-zinedine-zidane-a-la-tete-des-bleus-1-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-maxence-lacroix-a-un-profil-interessant-estime-zidane-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zidane-donne-son-avis-sur-un-potentiel-retour-de-benzema-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-assume-ses-choix-sur-les-lateraux-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-dribble-la-question-du-ballon-d-or-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-reaffirme-son-desir-d-une-equipe-joueuse-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-s-exprime-sur-l-absence-de-kante-20260918",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-veut-assurer-une-continuite-avec-d-autres-idees-resume-zidane-20260918"
+   ]
+  },
   {
    "id": "2026-09-18-alerte-02",
    "date": "2026-09-18",

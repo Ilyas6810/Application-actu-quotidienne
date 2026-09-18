@@ -1,0 +1,373 @@
+{
+ "date": "2026-09-18",
+ "genere_a": "2026-09-18T05:25:15Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-18-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le palais de Buckingham conteste les mémoires du frère de la princesse Diana",
+   "chapeau": "Le palais de Buckingham a rejeté publiquement les déclarations de Charles Spencer contenues dans ses mémoires en cours de publication à Londres cette semaine de septembre 2026. Le frère de la princesse Diana y accuse le roi Charles III d'avoir tenu des propos insensibles après la disparition de son ancienne épouse.",
+   "corps": "Une dispute verbale oppose la monarchie britannique à Charles Spencer. Le comte Spencer publie son autobiographie sous forme de feuilleton dans le journal Daily Mail au cours de la troisième semaine de septembre 2026. Les extraits parus jeudi 17 septembre 2026 rapportent des échanges survenus immédiatement après le décès de la princesse de Galles.\n\nSelon les écrits du comte Spencer, le souverain actuel aurait affirmé quelques jours après la mort de Diana que cette dernière serait oubliée assez vite. L'auteur affirme également que lors d'un appel téléphonique survenu juste après l'événement, le prince de Galles de l'époque avait un ton euphorique comparable à celui d'un gagnant de loterie. Charles Spencer ajoute que certaines personnes au sein du palais de Buckingham semblaient soulagées par ce décès.\n\nLe frère de la princesse soutient aussi que la maison royale souhaitait sa présence ainsi que celle des princes William et Harry derrière le cercueil lors des funérailles. Selon lui, cette organisation visait à protéger la réputation du prince Charles de l'époque auprès de l'opinion publique.\n\nLe palais de Buckingham a réagi officiellement par l'intermédiaire d'un porte-parole. L'institution royale rejette fermement l'ensemble de ces accusations. Les représentants de la couronne déclarent que le chagrin peut modifier la mémoire, le jugement et la raison. La réaction officielle du palais intervient au moment où le roi Charles III, le prince William et le prince Harry doivent participer à plusieurs engagements publics prévus le même jour.\n\nCharles Spencer entretient des relations critiques avec son ancien beau-frère depuis plusieurs décennies. La publication de ces extraits de mémoires provoque une attention médiatique importante autour de la famille royale britannique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/king-charles-responds-to-criticism-from-princess-dianas-brother"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8e3rk47r4ego"
+    },
+    {
+     "nom": "impartialreporter.com",
+     "url": "https://impartialreporter.com/news/national/26557238.royals-set-carry-engagements-book-claims"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/charles-spencer-alleges-about-princess-diana-death-king-charles-responded-buckingham-palace-united-kingdom/article71475308.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/king-charles-earl-spencer-clash-over-diana-death-once-again/a-79305876?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/o-livro-que-acusa-o-rei-charles-de-palavras-insensiveis-apos-morte-de-diana-e-que-causa-crise-no-palacio-de-buckingham.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/sep/17/charles-giddily-elated-dianas-death-earl-spencer-book"
+    }
+   ],
+   "premiere_parution": "2026-09-16T19:08:04Z",
+   "suite_de": null,
+   "mots": 320,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-18-monde-002",
+   "rubrique": "monde",
+   "format": "fond",
+   "titre": "Le Premier ministre canadien propose une alliance renforcée avec l'Union européenne",
+   "chapeau": "Le Premier ministre canadien Mark Carney a prononcé un discours devant le Parlement européen à Strasbourg le jeudi 17 septembre 2026. Il a proposé une alliance renforcée avec l'Union européenne pour répondre aux défis géopolitiques actuels.",
+   "corps": "Le mercredi 16 septembre 2026, la présidente de la Commission européenne Ursula von der Leyen a proposé d'accorder au Canada le statut de membre associé de l'Union européenne. Cette annonce avait suscité de vives réactions internationales. Le lendemain, le jeudi 17 septembre 2026, le Premier ministre canadien Mark Carney a répondu à cette proposition. Il s'est exprimé directement devant les députés du Parlement européen réunis à Strasbourg. Les parlementaires européens ont accueilli le chef du gouvernement canadien avec enthousiasme dans l'hémicycle.\n\nLors de son allocution, Mark Carney a salué l'initiative de rapprochement présentée par l'Union européenne. Il a affirmé que le Canada et l'Europe partagent des valeurs communes. Selon lui, les deux partenaires ne sont pas unis par de simples accords commerciaux ou des transactions financières. Ils sont liés par des principes démocratiques partagés. Le Premier ministre canadien a déclaré que l'Europe et le Canada sont plus forts ensemble. Il a plaidé pour la construction d'une alliance solide et resserrée entre les deux continents.\n\nLe dirigeant canadien estime que cette union peut devenir un modèle pour les autres démocraties. Ce projet intervient dans un contexte international complexe. Mark Carney a souligné que les démocraties mondiales font face à des menaces croissantes. Ces menaces proviennent de la montée des régimes autoritaires et du développement des mouvements souverainistes. Pour faire face à ces défis, le Premier ministre canadien souhaite mettre en place une coopération approfondie.\n\nPour concrétiser ce rapprochement, Mark Carney a proposé de concentrer les efforts sur quatre secteurs stratégiques. Le premier domaine concerne les minéraux critiques. Ces ressources naturelles sont indispensables pour la fabrication des technologies modernes et la transition énergétique. Le deuxième secteur est celui de l'intelligence artificielle, une technologie simulant l'intelligence humaine pour réaliser des tâches complexes. Le troisième pilier de cette alliance est la défense commune. Enfin, le quatrième domaine de coopération est le commerce bilatéral.\n\nToutefois, le Premier ministre canadien a choisi ses mots avec précaution durant son discours. Il a évité d'utiliser le terme de membre associé proposé par Ursula von der Leyen. À la place, il a préféré employer l'expression d'alliance pour l'avenir. Ce choix de vocabulaire s'explique par des questions de politique interne au Canada. Les citoyens canadiens ont une opinion positive de l'Union européenne. Cependant, la population canadienne reste très attachée à la souveraineté nationale de son pays. De plus, les traités actuels de l'Union européenne ne prévoient pas de statut de membre associé. Mark Carney cherche donc à définir une relation spécifique et inédite qui préserve l'indépendance du Canada.\n\nCe projet de rapprochement suscite de fortes tensions avec le gouvernement des États-Unis. Le président américain Donald Trump a exprimé une opposition ferme à cette initiative. Il a formulé des menaces directes contre l'Union européenne et le Canada. Le président américain a déclaré que Washington pourrait imposer des taxes douanières importantes sur les produits en provenance d'Europe. Il a également évoqué la possibilité d'interrompre totalement les échanges commerciaux avec l'Union européenne si le projet de partenariat se concrétisait.\n\nMalgré ces avertissements de la part de Washington, Mark Carney a maintenu sa volonté de coopérer avec l'Europe. Il a prononcé un discours ferme face aux menaces américaines. Pour soutenir sa démarche, le Premier ministre canadien s'appuie sur l'opinion publique de son pays. Selon des informations publiées par le journal britannique The Guardian le jeudi 17 septembre 2026, des sondages indiquent qu'une très large majorité de la population canadienne soutient un resserrement des liens avec le continent européen.\n\nLa proposition de l'Union européenne divise les observateurs et les médias en Amérique du Nord. La presse canadienne et la presse américaine expriment des avis partagés sur l'opportunité de ce projet. Certains journaux estiment que cette alliance constitue une réponse nécessaire face aux menaces économiques de Donald Trump. À l'inverse, d'autres commentateurs manifestent de l'inquiétude. Ils craignent que ce statut de membre associé n'entraîne une perte d'indépendance politique pour le Canada. Ils redoutent également que ce projet ne détériore gravement les relations commerciales et diplomatiques avec les États-Unis.\n\nLes détails juridiques exacts d'un éventuel statut de membre associé ainsi que le calendrier des futures négociations ne sont pas encore connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/canada/nous-sommes-plus-forts-ensemble-le-canada-salue-l-idee-de-devenir-membre-associe-de-l-union-europeenne_8197148.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/highlights-from-canadian-pm-mark-carneys-speech-in-strasbourg"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20260917-devant-le-parlement-europ%C3%A9en-le-premier-ministre-canadien-salue-une-alliance-phare-pour-les-d%C3%A9mocraties"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-09-17/mark-carney-after-trumps-new-tariff-threats-europe-and-canada-are-stronger-together.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/17/carney-gebruikt-andere-term-voor-nauwe-samenwerking-met-eu-vanwege-de-gevoeligheden-a4936922"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8vgy3pq5ywyo"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/que-peut-l-union-europeenne-pour-ottawa-au-canada-et-aux-etats-unis-la-presse-prudente-sur-le-statut-de-membre-associe-20260917"
+    }
+   ],
+   "premiere_parution": "2026-09-15T19:08:37Z",
+   "suite_de": "2026-09-17-monde-001",
+   "mots": 720,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-18-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump menace l'Union européenne après un projet d'association avec le Canada",
+   "chapeau": "Le président des États-Unis Donald Trump a menacé l'Union européenne de lourdes taxes douanières ou d'un arrêt du commerce le mercredi 16 septembre 2026. Cette réaction fait suite à une proposition de la présidente de la Commission européenne Ursula von der Leyen visant à faire du Canada un membre associé du bloc.",
+   "corps": "Le président américain Donald Trump a qualifié d'acte hostile le projet de l'Union européenne d'accorder au Canada le statut de premier membre associé, selon les informations rapportées par Le Figaro et franceinfo le 17 septembre 2026. Lors d'un point presse à Washington mercredi 16 septembre 2026, le dirigeant a indiqué qu'il imposerait de sévères droits de douane ou qu'il cesserait tout échange commercial avec les pays européens si cette initiative aboutissait, d'après les données de RFI publiées le 17 septembre 2026.\n\nCette proposition a été formulée par la présidente de la Commission européenne Ursula von der Leyen en présence du Premier ministre canadien Mark Carney, comme le relate RFI le 17 septembre 2026. Le journal The Guardian précise le 17 septembre 2026 que Mark Carney doit s'adresser au Parlement européen.\n\nLes sources convergent sur les déclarations de Donald Trump et sur le projet d'association entre l'Union européenne et le Canada.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.com/news/2026/09/16/trump-threatens-to-impose-serious-tariffs-on-europe-if-canada-joins-eu-as-associate-member-01081525"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/ursula-von-der-leyen-recoit-mark-carney-pour-intensifier-le-rapprochement-ue-canada-20260915"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/union-europeenne/donald-trump-menace-d-arreter-les-echanges-commerciaux-avec-l-ue-en-raison-de-son-projet-d-association-avec-le-canada_8196545.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/trump-menace-d-arreter-les-echanges-commerciaux-avec-l-ue-en-raison-de-son-projet-ridicule-d-association-avec-le-canada-20260917"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20260917-rapprochement-canada-ue-donald-trump-menace-de-sanctionner-un-acte-hostile-via-des-droits-de-douane"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-ich-finde-das-laecherlich-was-hinter-der-aussage-steckt-a-fd82bc9a-56ee-43b6-bf40-8c2cc07d6a67"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-09-17/trump-threatens-to-cut-off-trade-with-the-eu-if-it-partners-with-canada.html"
+    }
+   ],
+   "premiere_parution": "2026-09-16T15:09:15Z",
+   "suite_de": "2026-09-17-monde-002",
+   "mots": 202,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-18-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une élue républicaine de Floride critique la politique migratoire de Donald Trump",
+   "chapeau": "L'élue républicaine María Elvira Salazar a diffusé un message télévisé critique envers Donald Trump le jeudi 17 septembre 2026 aux États-Unis. La représentante de Floride y dénonce la politique migratoire menée par l'administration présidentielle.",
+   "corps": "Dans ce clip de campagne, María Elvira Salazar interpelle directement le chef de l'État. Elle affirme que certaines mesures d'expulsion vont trop loin. Selon elle, les électeurs hispaniques se sentent trahis par ces décisions gouvernementales.\n\nCette prise de position intervient avant les élections législatives prévues en novembre. María Elvira Salazar brigue un nouveau mandat à la Chambre des représentants dans une circonscription de Miami. Cette zone compte une importante communauté hispanique touchée par les actions fédérales. La candidate fait face à un scrutin disputé pour conserver son siège.\n\nLe secteur représenté par la parlementaire avait soutenu Donald Trump lors du scrutin présidentiel de 2024. Désormais, des membres du parti républicain s'inquiètent d'une perte d'adhésion chez les électeurs hispaniques. Les mesures migratoires strictes représentent une difficulté pour certains candidats républicains en campagne.\n\nLa réponse officielle de la Maison-Blanche à cette vidéo de campagne n'est pas précisée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/17/republican-maria-elvira-salazar-campaign-ad-trump-immigration"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-17/florida-republican-knocks-trump-for-betraying-hispanic-voters"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/0b3d10cb-a321-429f-879d-86e1bee82efe?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/republican-candidate-in-florida-warns-trump-his-immigration-agenda-has-gone-too-far"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-09-17/hispanics-feel-betrayed-maria-elvira-salazar-breaks-with-trump-over-his-immigration-offensive-in-campaign-ad.html"
+    },
+    {
+     "nom": "independent.co.uk",
+     "url": "https://independent.co.uk/news/world/americas/us-politics/florida-election-trump-midterms-deportation-immigrants-b3052097.html"
+    }
+   ],
+   "premiere_parution": "2026-09-17T15:37:53Z",
+   "suite_de": null,
+   "mots": 179,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-18-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Maison Blanche retire la candidature de Lance Schroyer à l'agence migratoire",
+   "chapeau": "L'administration américaine retire la nomination de Lance Schroyer à la tête de l'agence chargée des expulsions, le jeudi 17 septembre 2026 à Washington. Cette décision intervient après des oppositions au sein du Congrès et des critiques sur le parcours du candidat.",
+   "corps": "La présidence américaine abandonne le choix de Lance Schroyer pour diriger l'agence fédérale d'immigration, selon Bloomberg le 17 septembre 2026. L'homme désigné, ancien policier de l'État d'Oklahoma selon The Guardian le 17 septembre 2026, ne possède pas d'expérience professionnelle au sein de cette administration d'après la même source. Cette situation laisse l'organisme sans directeur permanent pour piloter les mesures d'expulsion d'après Bloomberg le 17 septembre 2026.\n\nUn sénateur républicain a bloqué la procédure de confirmation selon la BBC le 18 septembre 2026. Cet élu réclame des données concernant le décès de citoyens américains tués par des agents de l'immigration d'après la même source. Le dossier de nomination s'était bloqué au Sénat en raison d'une surveillance accrue des activités de l'agence selon Al Jazeera le 18 septembre 2026.\n\n## Ce que disent les sources\n\nBloomberg indique le 17 septembre 2026 que le retrait constitue un échec pour le secrétaire à la Sécurité intérieure Markwayne Mullin. Der Spiegel mentionne le 18 septembre 2026 que la présidence a opéré ce changement sans fournir d'explication.\n\nCertains détails sur les motifs précis de la décision manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-17/trump-withdraws-nominee-to-lead-ice-amid-ongoing-deportion-push"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq23xzp55x08o"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-praesident-zieht-nominierung-von-ice-kandidat-lance-schroyer-zurueck-a-730407bb-8c67-4ad6-8a5f-4258459bbaf2"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice"
+    }
+   ],
+   "premiere_parution": "2026-09-17T17:16:50Z",
+   "suite_de": null,
+   "mots": 224,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-18-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les électeurs russes choisissent les 450 députés de la Douma d'État",
+   "chapeau": "Les électeurs russes se rendent aux urnes du vendredi 18 au dimanche 20 septembre 2026 pour désigner les 450 membres de la Douma d'État. Ce scrutin parlementaire, le premier organisé depuis l'année 2022, se déroule en Russie et dans des territoires ukrainiens occupés sous le contrôle étroit du pouvoir central.",
+   "corps": "Le président russe Vladimir Poutine s'est adressé aux citoyens le mercredi 16 septembre 2026 pour les inciter à participer à ce vote, selon le journal The Straits Times. Le chef de l'État présente cette élection comme un indicateur permettant de mesurer le soutien de la population à la guerre menée en Ukraine. Les autorités de Moscou observent les résultats pour évaluer l'opinion publique au cours du conflit. D'après le quotidien italien Corriere della Sera du 17 septembre 2026, la présidence russe encadre fermement l'organisation de ces trois journées d'élection. Le parti Russie Unie avait obtenu un score de 49,8 pour cent lors du précédent scrutin de l'année 2021, rappelle le Corriere della Sera le 17 septembre 2026. L'objectif des dirigeants consiste à utiliser la participation des électeurs pour mesurer l'adhésion aux politiques actuelles.\n\nLa formation Russie Unie maintient sa domination sur le Parlement depuis 23 ans, d'après les informations données par le journal The Guardian le 18 septembre 2026. Le paysage politique ne présente pas d'opposition en mesure de contester la majorité sortante. Les formations autorisées à concourir sont qualifiées de partis nominaux. Ces groupes votent de manière constante en accord avec le gouvernement lors des scrutins importants au sein de l'assemblée. En parallèle, les autorités poursuivent la répression contre les voix opposées à l'intervention militaire. Le média Associated Press rapporte le 18 septembre 2026 que la formation libérale d'opposition Yabloko est exclue de la représentation par listes de partis. Les opposants à la guerre ne disposent ainsi d'aucune option électorale représentée au sein du bulletin officiel.\n\nCe scrutin se déroule dans une situation sociale et économique modifiée par la poursuite du conflit. Le média Deutsche Welle indique le 17 septembre 2026 que les habitants manifestent une lassitude face à la guerre et des inquiétudes liées aux événements récents. Des pénuries de carburant touchent différentes régions du pays. Le territoire subit également des frappes de drones menées par les forces ukrainiennes. Le journal Associated Press confirme le 18 septembre 2026 que ces attaques ciblent des infrastructures pétrolières russes. Des rumeurs concernant une nouvelle mobilisation militaire circulent et alimentent l'anxiété de la population. Dans ce contexte, l'intérêt des citoyens pour le lancement de négociations de paix progresse, selon le média Deutsche Welle du 17 septembre 2026.\n\nLes autorités russes organisent également le vote dans les zones sous contrôle militaire situées en Ukraine. Les opérations électorales se tiennent ainsi du 18 au 20 septembre 2026 dans les régions de Donetsk, Louhansk, Zaporijjia et Kherson. Le journal brésilien Folha de S.Paulo explique le 18 septembre 2026 que ces opérations ne s'appuient sur aucun fondement juridique. Selon l'analyse juridique citée par le quotidien, une puissance occupante ne possède pas le droit d'organiser des élections pour son propre Parlement national sur des territoires qui ne lui appartiennent pas. Les institutions internationales considèrent cette procédure comme invalide sur le plan du droit international.\n\nL'élection vise à attribuer la totalité des 450 sièges de la Douma d'État sur une période de trois jours, selon le journal Associated Press le 18 septembre 2026. Le parti du président est pressenti pour conserver son emprise sur la chambre basse, conformément aux données transmises par le journal santafenewmexican.com le 18 septembre 2026. La chaîne Al Jazeera précise le 18 septembre 2026 qu'il s'agit du premier vote législatif depuis le début de la guerre en 2022. La fermeture du système politique et le contrôle exercé par l'État garantissent la reconduction de la majorité sortante au terme des trois jours de vote.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/putin-casts-parliamentary-election-as-barometer-of-support-for-war-urges-russians-to-vote"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_17/elezioni-russia-malcontento-129bf7ed-346c-45b3-9ce0-45f159a7cxlk.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926"
+    },
+    {
+     "nom": "santafenewmexican.com",
+     "url": "https://santafenewmexican.com/news/russia-votes-in-wartime-parliamentary-election-set-to-secure-the-kremlins-power/article_c2552982-e656-5622-8340-ae9dffd74469.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/eleicoes-em-territorio-ocupado-por-que-a-votacao-russa-de-18-a-20-de-setembro-e-juridicamente-invalida.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-putin-election-parliament-duma-ukraine-war-a2001537fc104755e071a38217987331"
+    }
+   ],
+   "premiere_parution": "2026-09-16T15:18:29Z",
+   "suite_de": null,
+   "mots": 632,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-18-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les États-Unis préparent la vente d'armements lourds à Israël",
+   "chapeau": "Le gouvernement américain prépare un transfert d'armement vers Israël d'une valeur estimée à 2,8 milliards de dollars. Cette transaction internationale fait l'objet d'une notification transmise aux commissions du Congrès américain à Washington à la mi-septembre 2026.",
+   "corps": "Le projet d'accord militaire prévoit l'envoi d'au moins 40 000 engins explosifs lourds à l'État hébreu. Selon les informations publiées le 16 septembre 2026 à 04h29 par Le Monde et à 05h13 par The Guardian, le lot comprend 20 000 unités du modèle MK-84 et 20 000 pièces de type BLU-117. Ces munitions d'un poids unitaire de 2 000 livres, soit environ neuf cents kilogrammes, comptent parmi les plus puissantes de l'arsenal conventionnel américain.\n\nLe financement de ce contrat repose en majorité sur l'aide militaire étrangère accordée par Washington. Le quotidien The Hindu a précisé le 16 septembre 2026 à 04h14 que les fonds publics prélevés sur les impôts des contribuables américains sont alloués à Israël pour payer directement ces acquisitions auprès des fabricants de défense américains. L'exécutif a transmis une notification informelle aux instances parlementaires compétentes, a rapporté El País le 16 septembre 2026 à 11h43.\n\nCes armes de fort calibre suscitent des réserves chez plusieurs experts et organisations non gouvernementales en raison de leurs effets physiques sur le terrain. Haaretz a indiqué le 15 septembre 2026 à 23h58 que l'armée israélienne avait déjà employé des bombes MK-84 dans la bande de Gaza en 2023, y compris dans des secteurs présentés comme sûrs pour les populations civiles. Chaque impact de ces munitions d'une tonne y provoquait une excavation d'au moins douze mètres de diamètre.\n\nL'usage de ces charges lourdes avait conduit l'administration sous Joe Biden à suspendre les expéditions deux années auparavant en raison du risque de pertes humaines importantes, selon les données publiées par The Guardian le 16 septembre 2026 à 05h13. The Straits Times a souligné le 17 septembre 2026 à 05h40 que les forces militaires américaines n'utilisent presque jamais de munitions de cette catégorie au sein de zones à forte densité d'habitants.\n\nLes réactions internationales mettent en avant le cadre juridique de ces transferts militaires. Le quotidien Libération a cité le 17 septembre 2026 à 18h20 un représentant de l'organisation non gouvernementale Amnesty International, Aymeric Elluin, selon lequel cette livraison constitue une violation de l'ensemble des normes du droit international humanitaire. Les réserves formulées concernent notamment les répercussions destructrices potentielles de ces armements dans la bande de Gaza.\n\n## Ce que disent les sources\n\nLe volume global des munitions ainsi que l'accueil parlementaire font l'objet de présentations différentes selon les publications. D'après le journal brésilien Folha de S.Paulo le 17 septembre 2026 à 23h42, le contrat porte sur un total de 60 000 unités d'une tonne permettant de renouveler les réserves militaires israéliennes, pour une enveloppe globale évaluée à 2,8 milliards de dollars soit quatorze milliards de réaux. À l'inverse, The Guardian le 16 septembre 2026 à 05h13 et Le Monde le 16 septembre 2026 à 04h29 indiquent un total de 40 000 bombes réparties de manière égale entre les modèles MK-84 et BLU-117. De son côté, l'hebdomadaire allemand Der Spiegel a fait état le 17 septembre 2026 à 21h32 d'une livraison comprenant 40 000 bombes et 20 000 ogives pour la même valeur financière, tout en soulignant l'existence d'une opposition politique formelle au sein du Congrès américain.\n\nLe calendrier exact du vote d'approbation parlementaire et les dates prévues pour les livraisons physiques des armes ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-security/2026-09-15/ty-article/report-u-s-to-sell-israel-40-000-bombs-funded-by-2-8-billion-in-u-s-taxes/000001a0-a65f-de68-a7e0-bf5fbd500000"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-admin-approves-sending-2000-pound-bombs-to-israel-in-upcoming-weapons-deal/article71470869.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/16/washington-se-prepare-a-livrer-des-dizaines-de-milliers-de-bombes-a-israel-selon-plusieurs-medias-americains_6774613_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/15/trump-administration-bomb-supply-israel-gaza"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-16/us-plans-to-provide-thousands-of-massive-weapons-to-israel"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/dans-la-presse/20260916-livraison-massive-de-bombes-am%C3%A9ricaines-controvers%C3%A9es-%C3%A0-isra%C3%ABl"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-16/estados-unidos-prepara-la-venta-a-israel-de-40000-bombas-de-casi-una-tonelada-muy-destructivas.html"
+    }
+   ],
+   "premiere_parution": "2026-09-15T18:06:59Z",
+   "suite_de": null,
+   "mots": 574,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-18-monde-001",
+  "2026-09-18-geopolitique-001",
+  "2026-09-18-monde-002",
+  "2026-09-18-monde-003",
+  "2026-09-18-geopolitique-002",
+  "2026-09-18-monde-004",
+  "2026-09-18-monde-005"
+ ]
+}

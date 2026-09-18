@@ -1,6 +1,119 @@
 {
- "maj": "2026-09-18T04:51:39Z",
+ "maj": "2026-09-18T11:25:27Z",
  "alertes": [
+  {
+   "id": "2026-09-18-alerte-02",
+   "date": "2026-09-18",
+   "publiee_a": "2026-09-18T11:23:35Z",
+   "titre": "Trois morts dans une fusillade dans une école aux Philippines",
+   "texte": "Une attaque armée dans un établissement secondaire de Mindanao a fait trois morts et huit blessés vendredi 18 septembre 2026, selon les autorités locales.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/se-asia/4-students-injured-in-shooting-inside-philippines-school"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/18/philippines-school-shooting-kills-at-least-two"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/philippines-at-least-2-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/ataque-a-tiros-em-escola-no-sul-das-filipinas-mata-ao-menos-duas-pessoas.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/school-shooting-in-southern-philippines-death-and-injured/article71479818.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6x2z4dlzyr0o"
+    },
+    {
+     "nom": "Anadolu",
+     "url": "https://aa.com.tr/en/asia-pacific/6-students-killed-17-others-injured-in-philippine-high-school-shooting/4060894"
+    }
+   ],
+   "cluster": "102efdc668a9d2ec",
+   "urls": [
+    "https://aa.com.tr/en/asia-pacific/6-students-killed-17-others-injured-in-philippine-high-school-shooting/4060894",
+    "https://aljazeera.com/news/2026/9/18/philippines-school-shooting-kills-at-least-two",
+    "https://bbc.co.uk/news/articles/c6x2z4dlzyr0o",
+    "https://dw.com/en/philippines-at-least-2-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_18?evenement=2f52e82f02",
+    "https://spiegel.de/panorama/justiz/philippinen-banga-national-high-school-drei-tote-nach-schuessen-an-schule-a-e3e2933c-6522-4d91-95a5-b64bc9ce5a90",
+    "https://straitstimes.com/asia/se-asia/4-students-injured-in-shooting-inside-philippines-school",
+    "https://thehindu.com/news/international/school-shooting-in-southern-philippines-death-and-injured/article71479818.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/09/ataque-a-tiros-em-escola-no-sul-das-filipinas-mata-ao-menos-duas-pessoas.shtml"
+   ]
+  },
+  {
+   "id": "2026-09-18-alerte-03",
+   "date": "2026-09-18",
+   "publiee_a": "2026-09-18T11:25:27Z",
+   "titre": "Des scientifiques identifient une nouvelle espèce de chat sauvage en Bolivie",
+   "texte": "La chercheuse Paola Nogales-Ascarrunz a identifié une nouvelle espèce de chat-tigre appelée tilcayo dans les forêts de Bolivie ce vendredi 18 septembre 2026. Des analyses génétiques ont confirmé cette première description d'un félin sauvage depuis plus d'un siècle.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/new-cat-species-identified-in-bolivia-first-in-over-a-century"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/ciencia/2026-09-18/el-tilcayo-primer-felino-salvaje-descubierto-en-mas-de-cien-anos.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/environnement/biodiversite/le-tilcayo-ce-chat-si-kawai-identifie-en-bolivie-20260918_NNEC4ZRAHVB45EP7LLDWSDFM7I"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/sociedad/descubren-nueva-especie-felino-salvaje-tilcayo-20260918104942-nt.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/18/een-nieuwe-kat-in-de-andes-met-ronde-oortjes-lange-snorharen-en-luipaardvlekken-a4937002"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/bolivia-new-cat-species-discovered-by-scientists/a-79320205?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/natur/bolivien-erste-neue-katzenart-seit-mehr-als-100-jahren-entdeckt-a-ff78b2ea-f6bf-4a0b-a72b-000f2194bac3"
+    }
+   ],
+   "cluster": "45397f3a4984ab6b",
+   "urls": [
+    "https://abc.es/sociedad/descubren-nueva-especie-felino-salvaje-tilcayo-20260918104942-nt.html",
+    "https://aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century",
+    "https://bbc.co.uk/news/articles/c6x2zgv9rr4ro",
+    "https://corriere.it/animali/animali-selvatici/26_settembre_17/scoperto-in-bolivia-un-nuovo-gatto-tigre-e-il-tilcayo-oe-non-si-era-mai-visto-prima-d-ora-ad783596-acbd-4171-ad2c-bde347e4bxlk.shtml",
+    "https://dw.com/en/bolivia-new-cat-species-discovered-by-scientists/a-79320205?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/ciencia/2026-09-18/el-tilcayo-primer-felino-salvaje-descubierto-en-mas-de-cien-anos.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_17?evenement=307aa497b7",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_17?evenement=5d4e58a758",
+    "https://liberation.fr/environnement/biodiversite/le-tilcayo-ce-chat-si-kawai-identifie-en-bolivie-20260918_NNEC4ZRAHVB45EP7LLDWSDFM7I",
+    "https://nrc.nl/nieuws/2026/09/18/een-nieuwe-kat-in-de-andes-met-ronde-oortjes-lange-snorharen-en-luipaardvlekken-a4937002",
+    "https://reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17",
+    "https://spiegel.de/wissenschaft/natur/bolivien-erste-neue-katzenart-seit-mehr-als-100-jahren-entdeckt-a-ff78b2ea-f6bf-4a0b-a72b-000f2194bac3",
+    "https://straitstimes.com/world/new-cat-species-identified-in-bolivia-first-in-over-a-century",
+    "https://theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+    "https://thehindu.com/sci-tech/science/new-cat-species-identified-in-bolivia-first-in-over-a-century/article71478144.ece",
+    "https://www1.folha.uol.com.br/ciencia/2026/09/nova-especie-de-felino-primeira-descoberta-em-um-seculo-e-achada-por-brasileiro.shtml"
+   ]
+  },
   {
    "id": "2026-09-18-alerte-01",
    "date": "2026-09-18",

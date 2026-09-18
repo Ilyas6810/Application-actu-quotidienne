@@ -1,6 +1,141 @@
 {
- "maj": "2026-09-18T21:01:26Z",
+ "maj": "2026-09-18T23:25:46Z",
  "alertes": [
+  {
+   "id": "2026-09-19-alerte-02",
+   "date": "2026-09-19",
+   "publiee_a": "2026-09-18T23:25:39Z",
+   "titre": "Les États-Unis et le Danemark s'accordent sur la sécurité du Groenland",
+   "texte": "Les gouvernements américain et danois ont annoncé samedi 19 septembre un accord de sécurité concernant le Groenland. Ce pacte confie de manière permanente le contrôle de la sécurité de l'île aux États-Unis.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/18/vs-en-denemarken-sluiten-akkoord-over-amerikaanse-controle-groenland-a4937079"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c63d7lexyym1o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-and-denmark-reach-deal-on-greenland-trump/article71482588.ece"
+    }
+   ],
+   "cluster": "fb11dd626b454ab0",
+   "urls": [
+    "https://abc.es/internacional/trump-anuncia-acuerdo-dinamarca-tener-control-permanente-20260918235041-nt.html",
+    "https://aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland",
+    "https://bbc.co.uk/news/articles/c63d7lexyym1o",
+    "https://bloomberg.com/news/articles/2026-09-18/trump-says-he-reached-security-deal-on-greenland-with-denmark",
+    "https://dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html",
+    "https://france24.com/fr/europe/20260918-donald-trump-groenland-danemark-etats-unis-accord-controle-permanent-securite",
+    "https://franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html",
+    "https://ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+    "https://lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919",
+    "https://lefigaro.fr/international/trump-annonce-un-accord-avec-le-danemark-sur-le-groenland-20260919",
+    "https://lemonde.fr/international/article/2026/09/18/donald-trump-affirme-avoir-obtenu-un-controle-permanent-de-washington-sur-la-securite-du-groenland_6776878_3210.html",
+    "https://nrc.nl/nieuws/2026/09/18/vs-en-denemarken-sluiten-akkoord-over-amerikaanse-controle-groenland-a4937079",
+    "https://rfi.fr/fr/am%C3%A9riques/20260918-groenland-donald-trump-annonce-un-accord-pour-renforcer-la-pr%C3%A9sence-militaire-am%C3%A9ricaine",
+    "https://spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6",
+    "https://straitstimes.com/world/europe/us-and-denmark-close-in-on-a-greenland-deal-sources-say",
+    "https://theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+    "https://theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
+    "https://thehindu.com/news/international/us-and-denmark-reach-deal-on-greenland-trump/article71482588.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/09/trump-anuncia-acordo-com-dinamarca-para-ampliar-presenca-militar-na-groenlandia.shtml"
+   ]
+  },
+  {
+   "id": "2026-09-19-alerte-03",
+   "date": "2026-09-19",
+   "publiee_a": "2026-09-18T23:25:46Z",
+   "titre": "Donald Trump promulgue une loi de sanctions contre la Russie",
+   "texte": "Le président américain Donald Trump a promulgué vendredi 18 septembre 2026 à Washington un texte prévoyant des sanctions contre la Russie. Cette législation autorise l'exécutif des États-Unis à instaurer des droits de douane contre les pays clients des hydrocarbures russes.",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.com/news/2026/09/16/house-russia-sanctions-bill-trump-01081210"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-18/trump-signs-russia-sanctions-bill-granting-new-tariff-powers"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs"
+    }
+   ],
+   "cluster": "a9bce032e6a2d3b1",
+   "urls": [
+    "https://abc13.com/post/house-vote-today-congress-approves-sweeping-russia-sanctions-bill-named-lindsey-graham-sending-president-trump/19841556",
+    "https://aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia",
+    "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
+    "https://bloomberg.com/news/articles/2026-09-16/house-passes-bill-allowing-trump-tariffs-on-russian-oil-buyers",
+    "https://bloomberg.com/news/articles/2026-09-18/trump-signs-russia-sanctions-bill-granting-new-tariff-powers",
+    "https://cbs2iowa.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
+    "https://dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-xml-mrss",
+    "https://koreaherald.com/article/10877048",
+    "https://krcrtv.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
+    "https://ktul.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
+    "https://news4sanantonio.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
+    "https://newsday.com/news/nation/sanctions-russia-ukraine-house-tariffs-china-h64009",
+    "https://npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+    "https://politico.com/news/2026/09/16/house-russia-sanctions-bill-trump-01081210",
+    "https://straitstimes.com/world/europe/trump-signs-russia-sanctions-bill-into-law",
+    "https://theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
+    "https://thehindu.com/news/international/china-opposes-us-sanctions-bill-says-will-not-accept-long-arm-jurisdiction/article71477998.ece",
+    "https://thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
+    "https://thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece",
+    "https://thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
+    "https://thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
+    "https://thehindu.com/news/national/mea-monitoring-developments-of-russia-sanctions-bill-in-us-congress/article71475348.ece",
+    "https://thehindu.com/news/national/us-pressure-mounts-modi-govt-keeps-surrendering-mallikarjun-kharge-on-russia-sanctions-bill/article71471826.ece",
+    "https://timesleader.com/news/1755382/house-approves-sweeping-russia-sanctions-bill-sending-it-to-trump",
+    "https://wapt.com/article/house-passes-sanctions-bill-targeting-russia/73765078",
+    "https://wcti12.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
+    "https://wset.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage"
+   ]
+  },
   {
    "id": "2026-09-19-alerte-01",
    "date": "2026-09-19",

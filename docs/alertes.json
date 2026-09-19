@@ -1,6 +1,50 @@
 {
- "maj": "2026-09-19T20:46:37Z",
+ "maj": "2026-09-19T23:11:01Z",
  "alertes": [
+  {
+   "id": "2026-09-20-alerte-02",
+   "date": "2026-09-20",
+   "publiee_a": "2026-09-19T23:11:01Z",
+   "titre": "L'Arabie saoudite affirme avoir intercepté un missile houthi tiré vers Riyad",
+   "texte": "La coalition menée par l'Arabie saoudite a déclaré avoir intercepté un missile balistique tiré samedi par les rebelles houthis vers Riyad. Les insurgés yéménites ont revendiqué cette attaque contre la capitale saoudienne, où un incendie s'est déclaré près de l'aéroport.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/houthis-say-targeted-sensitive-sites-in-riyadh-aramco-facilities-in-yanbu"
+    },
+    {
+     "nom": "foxbaltimore.com",
+     "url": "https://foxbaltimore.com/news/nation-world/houthis-claim-attacks-on-riyadh-as-fire-erupts-near-saudi-airport"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwly5d9v7r43o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece"
+    }
+   ],
+   "cluster": "b469915593eb5377",
+   "urls": [
+    "https://13wham.com/news/nation-world/houthis-claim-attacks-on-riyadh-as-fire-erupts-near-saudi-airport",
+    "https://aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh",
+    "https://bbc.co.uk/news/articles/cwly5d9v7r43o",
+    "https://dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-xml-mrss",
+    "https://foxbaltimore.com/news/nation-world/houthis-claim-attacks-on-riyadh-as-fire-erupts-near-saudi-airport",
+    "https://straitstimes.com/world/middle-east/houthis-say-targeted-sensitive-sites-in-riyadh-aramco-facilities-in-yanbu",
+    "https://thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece",
+    "https://wach.com/news/nation-world/houthis-claim-attacks-on-riyadh-as-fire-erupts-near-saudi-airport"
+   ]
+  },
   {
    "id": "2026-09-20-alerte-01",
    "date": "2026-09-20",

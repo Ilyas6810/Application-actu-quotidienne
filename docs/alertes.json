@@ -1,6 +1,48 @@
 {
- "maj": "2026-09-18T23:25:46Z",
+ "maj": "2026-09-19T20:46:37Z",
  "alertes": [
+  {
+   "id": "2026-09-20-alerte-01",
+   "date": "2026-09-20",
+   "publiee_a": "2026-09-19T20:46:37Z",
+   "titre": "Donald Trump annonce la création d'une entité dédiée à l'intelligence artificielle",
+   "texte": "Le président américain Donald Trump a déclaré samedi 19 septembre 2026 sur les réseaux sociaux qu'il allait fonder une force spéciale pour superviser l'intelligence artificielle aux États-Unis. Il prévoit également de nommer prochainement un responsable pour diriger ce secteur.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/09/trump-anuncia-que-vai-indicar-czar-da-ia-e-criar-forca-tarefa-para-impulsionar-setor.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-kuendigt-ai-force-zur-ki-ueberwachung-an-a-e2cf0663-c5a1-404b-8910-8605336743e1"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
+    }
+   ],
+   "cluster": "07a0eec83e034837",
+   "urls": [
+    "https://aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar",
+    "https://c-level.folha.uol.com.br/ia/2026/09/trump-anuncia-que-vai-indicar-czar-da-ia-e-criar-forca-tarefa-para-impulsionar-setor.shtml",
+    "https://dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-xml-mrss",
+    "https://ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+    "https://spiegel.de/ausland/donald-trump-kuendigt-ai-force-zur-ki-ueberwachung-an-a-e2cf0663-c5a1-404b-8910-8605336743e1",
+    "https://theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
+   ]
+  },
   {
    "id": "2026-09-19-alerte-02",
    "date": "2026-09-19",

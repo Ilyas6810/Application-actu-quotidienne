@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-18T05:25:15Z",
- "derniere": "2026-09-18",
+ "maj": "2026-09-19T05:15:33Z",
+ "derniere": "2026-09-19",
  "editions": [
+  {
+   "date": "2026-09-19",
+   "genere_a": "2026-09-19T05:15:33Z",
+   "articles": 15,
+   "une": [
+    "Donald Trump annonce un accord de sécurité sur le Groenland",
+    "Donald Trump promulgue la loi de sanctions contre la Russie et ses partenaires",
+    "Emmanuel Macron demande un plan de protection pour les infrastructures critiques"
+   ],
+   "octets": 60331
+  },
   {
    "date": "2026-09-18",
    "genere_a": "2026-09-18T05:25:15Z",

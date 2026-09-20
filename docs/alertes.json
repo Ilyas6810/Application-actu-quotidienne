@@ -1,6 +1,166 @@
 {
- "maj": "2026-09-20T04:59:49Z",
+ "maj": "2026-09-20T20:56:12Z",
  "alertes": [
+  {
+   "id": "2026-09-21-alerte-01",
+   "date": "2026-09-21",
+   "publiee_a": "2026-09-20T20:55:19Z",
+   "titre": "Le parti Russie unie arrive en tête des élections législatives",
+   "texte": "Le parti de Vladimir Poutine obtient 49,4 % des suffrages aux législatives russes du dimanche 20 septembre 2026, selon un sondage sortie des urnes de l'institut public VCIOM. Les opérations de vote ont subi des attaques de drones ukrainiens et des cyberattaques.",
+   "sources": [
+    {
+     "nom": "stimme.de",
+     "url": "https://stimme.de/politik/welt/politik/ausland/prognose-kremlpartei-geeintes-russland-gewinnt-duma-wahl-art-5215403"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/en-russie-le-parti-de-vladimir-poutine-remporte-les-legislatives-selon-un-sondage-realise-a-la-sortie-des-urnes-dans-un-scrutin-marque-par-la-repression-des-voix-dissidentes_8202113.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20260920-russie-le-parti-de-vladimir-poutine-donn%C3%A9-vainqueur-de-l%C3%A9gislatives-sans-surprises"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/idees-et-debats/editorial/en-russie-poutine-rattrape-par-ses-guerres-20260920_QLG6DXBSLBCO3OBJDZO4OHQTXY"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-prognosen-sehen-kremlpartei-einiges-russland-als-sieger-bei-parlamentswahl-a-2b4a2913-ce72-4866-87ba-1141c614547f"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/elections-legislatives-en-russie-le-parti-du-kremlin-donne-vainqueur-20260920"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/asie-pacifique/20260920-le-parti-de-poutine-remporte-sans-surprise-les-l%C3%A9gislatives-marqu%C3%A9es-par-des-attaques-de-kiev"
+    }
+   ],
+   "cluster": "1bb60e42b603d3c5",
+   "urls": [
+    "https://france24.com/fr/asie-pacifique/20260920-le-parti-de-poutine-remporte-sans-surprise-les-l%C3%A9gislatives-marqu%C3%A9es-par-des-attaques-de-kiev",
+    "https://franceinfo.fr/monde/russie/en-russie-le-parti-de-vladimir-poutine-remporte-les-legislatives-selon-un-sondage-realise-a-la-sortie-des-urnes-dans-un-scrutin-marque-par-la-repression-des-voix-dissidentes_8202113.html",
+    "https://lefigaro.fr/international/elections-legislatives-en-russie-le-parti-du-kremlin-donne-vainqueur-20260920",
+    "https://liberation.fr/idees-et-debats/editorial/en-russie-poutine-rattrape-par-ses-guerres-20260920_QLG6DXBSLBCO3OBJDZO4OHQTXY",
+    "https://liberation.fr/international/europe/russie-un-pays-bombarde-des-legislatives-pipees-et-un-president-accule-20260920_E4DCFG5UW5AOXITJH7KQOZHIJI",
+    "https://rfi.fr/fr/europe/20260920-russie-le-parti-de-vladimir-poutine-donn%C3%A9-vainqueur-de-l%C3%A9gislatives-sans-surprises",
+    "https://spiegel.de/ausland/russland-prognosen-sehen-kremlpartei-einiges-russland-als-sieger-bei-parlamentswahl-a-2b4a2913-ce72-4866-87ba-1141c614547f",
+    "https://stimme.de/politik/welt/politik/ausland/prognose-kremlpartei-geeintes-russland-gewinnt-duma-wahl-art-5215403",
+    "https://vol.at/prognose-kremlpartei-geeintes-russland-gewinnt-duma-wahl/10481381"
+   ]
+  },
+  {
+   "id": "2026-09-21-alerte-02",
+   "date": "2026-09-21",
+   "publiee_a": "2026-09-20T20:55:56Z",
+   "titre": "Emmanuel Macron et Mark Carney se réunissent à Saint-Pierre-et-Miquelon",
+   "texte": "Le président français Emmanuel Macron a reçu le premier ministre canadien Mark Carney dimanche 20 septembre 2026 à Saint-Pierre-et-Miquelon. Les deux dirigeants ont annoncé vouloir renforcer leur coopération dans plusieurs domaines.",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/20/dit-is-frans-fulmineert-macron-op-frans-eiland-in-noord-amerika-nadat-trump-eilandengroep-tot-vs-rekent-a4937103"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/macron-carney-to-meet-in-french-atlantic-archipelago-in-signal-to-trump"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/a-saint-pierre-et-miquelon-ce-gisement-de-petrole-sous-marin-qui-demeure-inexploite-20260920"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/saint-pierre-et-miquelon-est-bien-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-larchipel-20260920_VJ6ZLRVHYVCGLOXNQFUSD5WSFY"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260920-conf%C3%A9rence-de-presse-de-macron-et-carney-%C3%A0-saint-pierre-et-miquelon"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/macron-carney-reivindican-soberania-nacional-visita-cargada-20260920212228-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/emmanuel-macron/direct-saint-pierre-et-miquelon-emmanuel-macron-va-rencontrer-le-premier-ministre-canadien-mark-carney-a-16h30_8201543.html"
+    }
+   ],
+   "cluster": "5f6a671b7f903c8a",
+   "urls": [
+    "https://abc.es/internacional/macron-carney-reivindican-soberania-nacional-visita-cargada-20260920212228-nt.html",
+    "https://france24.com/fr/am%C3%A9riques/20260920-saint-pierre-et-miquelon-est-fier-d-%C3%AAtre-fran%C3%A7ais-macron-r%C3%A9pond-%C3%A0-trump-depuis-l-archipel",
+    "https://france24.com/fr/vid%C3%A9o/20260919-macron-%C3%A0-saint-pierre-et-miquelon-une-mani%C3%A8re-de-rappeler-la-souverainet%C3%A9-fran%C3%A7aise",
+    "https://france24.com/fr/vid%C3%A9o/20260919-saint-pierre-et-miquelon-macron-et-carney-veulent-afficher-la-souverainet%C3%A9-des-nations",
+    "https://france24.com/fr/vid%C3%A9o/20260920-conf%C3%A9rence-de-presse-de-macron-et-carney-%C3%A0-saint-pierre-et-miquelon",
+    "https://france24.com/fr/vid%C3%A9o/20260920-macron-va-rencontrer-carney-%C3%A0-saint-pierre-et-miquelon",
+    "https://franceinfo.fr/france/saint-pierre-et-miquelon/pour-nous-que-c-est-un-territoire-francais-et-nous-y-sommes-attaches-affirme-emmanuel-macron-depuis-saint-pierre-et-miquelon_8201813.html",
+    "https://franceinfo.fr/france/saint-pierre-et-miquelon/saint-pierre-et-miquelon-est-francais-declare-emmanuel-macron-a-son-arrivee-dans-l-archipel-en-reponse-a-donald-trump_8201852.html",
+    "https://franceinfo.fr/monde/canada/peche-securite-energie-la-france-et-le-canada-vont-travailler-a-un-rapprochement-assure-emmanuel-macron-depuis-saint-pierre-et-miquelon_8202101.html",
+    "https://franceinfo.fr/politique/emmanuel-macron/direct-saint-pierre-et-miquelon-emmanuel-macron-va-rencontrer-le-premier-ministre-canadien-mark-carney-a-16h30_8201543.html",
+    "https://franceinfo.fr/politique/emmanuel-macron/saint-pierre-et-miquelon-est-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-l-archipel_8201387.html",
+    "https://la-croix.com/politique/saint-pierre-et-miquelon-5-choses-a-savoir-sur-l-archipel-ou-wauquiez-veut-isoler-les-oqtf-20250409",
+    "https://la-croix.com/saint-pierre-et-miquelon-est-francais-repond-macron-a-trump-a-son-arrivee-dans-l-archipel-20260919",
+    "https://la1ere.franceinfo.fr/trump-sera-dans-toutes-les-tetes-dimanche-avec-macron-et-carney-a-saint-pierre-et-miquelon-1739627.html",
+    "https://lefigaro.fr/conjoncture/a-saint-pierre-et-miquelon-ce-gisement-de-petrole-sous-marin-qui-demeure-inexploite-20260920",
+    "https://lefigaro.fr/flash-actu/le-premier-ministre-canadien-mark-carney-est-arrive-a-saint-pierre-et-miquelon-accueilli-par-macron-20260920",
+    "https://lefigaro.fr/international/saint-pierre-et-miquelon-est-francais-c-est-une-evidence-affirme-emmanuel-macron-en-reponse-a-une-carte-de-donald-trump-20260919",
+    "https://lefigaro.fr/politique/emmanuel-macron-attendu-a-saint-pierre-et-miquelon-20260919",
+    "https://lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html",
+    "https://lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html",
+    "https://lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html",
+    "https://liberation.fr/international/europe/saint-pierre-et-miquelon-est-bien-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-larchipel-20260920_VJ6ZLRVHYVCGLOXNQFUSD5WSFY",
+    "https://nrc.nl/nieuws/2026/09/20/dit-is-frans-fulmineert-macron-op-frans-eiland-in-noord-amerika-nadat-trump-eilandengroep-tot-vs-rekent-a4937103",
+    "https://rfi.fr/fr/am%C3%A9riques/20260919-avec-sa-visite-%C3%A0-saint-pierre-et-miquelon-emmanuel-macron-r%C3%A9affirme-la-pr%C3%A9sence-de-la-france-dans-l-atlantique-nord",
+    "https://rfi.fr/fr/am%C3%A9riques/20260920-pas-de-discussion-saint-pierre-et-miquelon-est-fran%C3%A7ais-lance-macron-%C3%A0-trump",
+    "https://straitstimes.com/world/europe/macron-carney-to-meet-in-french-atlantic-archipelago-in-signal-to-trump"
+   ]
+  },
+  {
+   "id": "2026-09-21-alerte-03",
+   "date": "2026-09-21",
+   "publiee_a": "2026-09-20T20:56:12Z",
+   "titre": "Remco Evenepoel gagne le contre-la-montre des championnats du monde à Montréal",
+   "texte": "Le cycliste belge Remco Evenepoel a obtenu la médaille d'or du contre-la-montre dimanche 20 septembre 2026 à Montréal. Il s'impose devant Filippo Ganna et Paul Seixas lors de cette épreuve des championnats du monde.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Cyclisme-sur-route/Actualites/Remco-evenepoel-remporte-un-quatrieme-titre-mondial-du-contre-la-montre-a-la-suite-et-ecrit-l-histoire-paul-seixas-en-bronze/1720170"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20260920-mondiaux-de-cyclisme-evenepoel-sacr%C3%A9-champion-du-monde-du-contre-la-montre-fait-la-passe-de-quatre-seixas-prend-le-bronze"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://video.lefigaro.fr/figaro/sports/cyclisme/cyclisme-remco-evenepoel-devient-champion-du-monde-de-contre-la-montre-pour-la-4e-annee-consecutive-20260920"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/09/20/remco-evenepoel-de-nouveau-champion-du-monde-du-contre-la-montre-un-exercice-que-le-coureur-belge-n-a-de-cesse-de-perfectionner_6778416_3242.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/cyclisme/mondiaux/remco-evenepoel-assomme-la-concurrence-sur-le-contre-la-montre-des-mondiaux-et-decroche-un-quatrieme-sacre-consecutif-paul-seixas-en-bronze_8202143.html"
+    }
+   ],
+   "cluster": "5186b337a998de4c",
+   "urls": [
+    "https://franceinfo.fr/sports/cyclisme/mondiaux/remco-evenepoel-assomme-la-concurrence-sur-le-contre-la-montre-des-mondiaux-et-decroche-un-quatrieme-sacre-consecutif-paul-seixas-en-bronze_8202143.html",
+    "https://lefigaro.fr/sports/cyclisme/championnats-du-monde-sur-route-seixas-parviendra-t-il-a-detroner-evenepoel-a-montreal-20260920",
+    "https://lefigaro.fr/sports/cyclisme/mondiaux-de-cyclisme-evenepoel-rafle-encore-la-mise-sur-le-contre-la-montre-seixas-herite-d-une-tres-belle-3e-place-20260920",
+    "https://lemonde.fr/sport/article/2026/09/20/remco-evenepoel-de-nouveau-champion-du-monde-du-contre-la-montre-un-exercice-que-le-coureur-belge-n-a-de-cesse-de-perfectionner_6778416_3242.html",
+    "https://lequipe.fr/Cyclisme-sur-route/Actualites/-apres-6-kilometres-je-savais-que-j-etais-en-avance-sur-les-autres-remco-evenepoel-intouchable-sur-le-contre-la-montre-des-mondiaux/1720185",
+    "https://lequipe.fr/Cyclisme-sur-route/Actualites/La-victoire-historique-de-remco-evenepoel-lors-du-contre-la-montre-des-championnats-du-monde-en-chiffres/1720174",
+    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Remco-evenepoel-remporte-un-quatrieme-titre-mondial-du-contre-la-montre-a-la-suite-et-ecrit-l-histoire-paul-seixas-en-bronze/1720170",
+    "https://rfi.fr/fr/sports/20260920-mondiaux-de-cyclisme-evenepoel-sacr%C3%A9-champion-du-monde-du-contre-la-montre-fait-la-passe-de-quatre-seixas-prend-le-bronze",
+    "https://video.lefigaro.fr/figaro/sports/cyclisme/cyclisme-remco-evenepoel-devient-champion-du-monde-de-contre-la-montre-pour-la-4e-annee-consecutive-20260920"
+   ]
+  },
   {
    "id": "2026-09-20-alerte-03",
    "date": "2026-09-20",

@@ -1,6 +1,58 @@
 {
- "maj": "2026-09-19T23:11:01Z",
+ "maj": "2026-09-20T04:59:49Z",
  "alertes": [
+  {
+   "id": "2026-09-20-alerte-03",
+   "date": "2026-09-20",
+   "publiee_a": "2026-09-20T04:59:49Z",
+   "titre": "Ed Sheeran commente la situation à Gaza lors de son concert",
+   "texte": "Le chanteur britannique Ed Sheeran s'est exprimé sur la situation à Gaza samedi lors d'un concert à Philadelphie aux États-Unis. Il reprenait sa tournée après l'éviction du rappeur Macklemore liée à des déclarations pro-palestiniennes.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ed-sheeran-continues-us-tour-amid-palestinian-controversy/a-79336537?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/09/show-de-ed-sheeran-tera-seguranca-reforcada-apos-polemica-com-macklemore.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/entertainment/music/ed-sheeran-set-to-return-to-stage-after-palestinian-controversy/article71486920.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/musik/ed-sheeran-so-eroeffnet-der-saenger-erstes-konzert-nach-dem-eklat-um-macklemore-a-6ede16b5-9673-46ee-bbf6-31116e00d27e"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm780ll1de18o"
+    }
+   ],
+   "cluster": "b44a1927f0b8a25f",
+   "urls": [
+    "https://aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza",
+    "https://aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy",
+    "https://aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza",
+    "https://bbc.co.uk/news/articles/cm780ll1de18o",
+    "https://bbc.co.uk/news/videos/ckd68l9g0gy5o",
+    "https://dw.com/en/ed-sheeran-continues-us-tour-amid-palestinian-controversy/a-79336537?maca=en-rss-en-all-1573-xml-mrss",
+    "https://nbclosangeles.com/entertainment/entertainment-news/ed-sheeran-set-to-perform-in-philadelphia-saturday-amid-tour-controversy-macklemore/3944703",
+    "https://nbcmiami.com/entertainment/entertainment-news/ed-sheeran-set-to-perform-in-philadelphia-saturday-amid-tour-controversy-macklemore/3861702",
+    "https://npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+    "https://spiegel.de/kultur/musik/ed-sheeran-so-eroeffnet-der-saenger-erstes-konzert-nach-dem-eklat-um-macklemore-a-6ede16b5-9673-46ee-bbf6-31116e00d27e",
+    "https://thehindu.com/entertainment/music/ed-sheeran-set-to-return-to-stage-after-palestinian-controversy/article71486920.ece",
+    "https://www1.folha.uol.com.br/ilustrada/2026/09/show-de-ed-sheeran-tera-seguranca-reforcada-apos-polemica-com-macklemore.shtml"
+   ]
+  },
   {
    "id": "2026-09-20-alerte-02",
    "date": "2026-09-20",

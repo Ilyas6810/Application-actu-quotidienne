@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-19T05:15:33Z",
- "derniere": "2026-09-19",
+ "maj": "2026-09-20T05:36:49Z",
+ "derniere": "2026-09-20",
  "editions": [
+  {
+   "date": "2026-09-20",
+   "genere_a": "2026-09-20T05:36:49Z",
+   "articles": 10,
+   "une": [
+    "La Russie conclut ses élections législatives sous surveillance et en plein conflit",
+    "Un accord de sécurité au Groenland préserve la souveraineté danoise selon Copenhague",
+    "Les rebelles houthistes attaquent la capitale saoudienne avec un missile balistique"
+   ],
+   "octets": 38379
+  },
   {
    "date": "2026-09-19",
    "genere_a": "2026-09-19T05:15:33Z",

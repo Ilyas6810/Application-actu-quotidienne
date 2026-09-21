@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-20T05:36:49Z",
- "derniere": "2026-09-20",
+ "maj": "2026-09-21T05:40:37Z",
+ "derniere": "2026-09-21",
  "editions": [
+  {
+   "date": "2026-09-21",
+   "genere_a": "2026-09-21T05:40:37Z",
+   "articles": 10,
+   "une": [
+    "Les États-Unis, le Danemark et le Groenland concluent un accord de sécurité arctique",
+    "Le parti Russie unie remporte les élections législatives en Russie",
+    "Donald Trump veut transformer son projet d'arc de Washington en complexe militaire"
+   ],
+   "octets": 42704
+  },
   {
    "date": "2026-09-20",
    "genere_a": "2026-09-20T05:36:49Z",

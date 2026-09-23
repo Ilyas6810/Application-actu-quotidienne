@@ -1,6 +1,48 @@
 {
- "maj": "2026-09-21T20:06:00Z",
+ "maj": "2026-09-23T11:42:19Z",
  "alertes": [
+  {
+   "id": "2026-09-23-alerte-01",
+   "date": "2026-09-23",
+   "publiee_a": "2026-09-23T11:42:19Z",
+   "titre": "Bruxelles veut verser plus de quatre milliards d'euros à Budapest",
+   "texte": "La Commission européenne suggère de débloquer 4,2 milliards d'euros d'aides régionales pour Budapest ce mercredi 23 septembre 2026. L'exécutif européen constate des progrès dans le respect des règles démocratiques depuis le changement de gouvernement en Hongrie.",
+   "sources": [
+    {
+     "nom": "Commission européenne",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/fr/ip_26_1941"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/23/l-ue-veut-debloquer-4-2-milliards-d-euros-pour-la-hongrie-qui-a-renforce-l-etat-de-droit-depuis-la-fin-de-l-ere-de-viktor-orban_6780887_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-23/eu-to-unblock-4-2-billion-for-hungary-in-another-win-for-magyar"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/bruselas-propone-desbloquear-4200-millones-hungria-tras-20260923125334-nt.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/commission-proposed-unlocking-funding-for-hungary-frozen-under-orban"
+    }
+   ],
+   "cluster": "00cd397809a304d6",
+   "urls": [
+    "https://abc.es/internacional/bruselas-propone-desbloquear-4200-millones-hungria-tras-20260923125334-nt.html",
+    "https://bloomberg.com/news/articles/2026-09-23/eu-to-unblock-4-2-billion-for-hungary-in-another-win-for-magyar",
+    "https://dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-all-1573-xml-mrss",
+    "https://ec.europa.eu/commission/presscorner/detail/fr/ip_26_1941",
+    "https://lemonde.fr/international/article/2026/09/23/l-ue-veut-debloquer-4-2-milliards-d-euros-pour-la-hongrie-qui-a-renforce-l-etat-de-droit-depuis-la-fin-de-l-ere-de-viktor-orban_6780887_3210.html",
+    "https://politico.eu/article/commission-proposed-unlocking-funding-for-hungary-frozen-under-orban"
+   ]
+  },
   {
    "id": "2026-09-22-alerte-01",
    "date": "2026-09-22",

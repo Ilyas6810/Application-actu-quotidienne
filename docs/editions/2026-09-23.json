@@ -1,0 +1,246 @@
+{
+ "date": "2026-09-23",
+ "genere_a": "2026-09-23T05:22:58Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-23-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Charles Spencer publie un livre critique contre le roi Charles III",
+   "chapeau": "Charles Spencer a publié un livre consacré à sa sœur Diana au Royaume-Uni le mardi 22 septembre 2026. L'ouvrage formule plusieurs accusations directes contre le roi Charles III et suscite une réponse officielle du palais de Buckingham.",
+   "corps": "Le livre intitulé « Swan Song: Diana, My Sister » est paru dans les librairies britanniques le 22 septembre 2026. Dans ce texte de quatre cents pages, le frère cadet de la princesse Diana revient sur la vie de sa sœur et sur ses relations avec la monarchie britannique. La parution intervient vingt-neuf ans après la mort de la princesse de Galles survenue à Paris.\n\nL'auteur s'en prend directement à l'attitude de l'actuel monarque britannique après le décès de son ancienne épouse. Selon Charles Spencer, le prince de Galles de l'époque se comportait comme un gagnant de loterie. L'auteur affirme également que Charles III affichait une humeur joviale et insouciante au cours des journées consécutives à l'accident mortel. Il soutient que la famille royale n'a pas su saisir l'opportunité que représentait sa sœur.\n\nLe palais de Buckingham a réagi par un communiqué officiel pour contester ces déclarations. L'institution royale attribue les propos de Charles Spencer à la persistance d'une peine fraternelle. Selon le palais, le deuil peut troubler le jugement et altérer la mémoire des événements.\n\nLe journaliste Piers Morgan réclame le retrait du livre des points de vente. L'auteur lui a présenté des excuses à la suite d'une erreur factuelle présente dans le texte. Piers Morgan a déclaré engager des poursuites judiciaires contre Charles Spencer.\n\n## Ce que disent les sources\n\nSur l'attitude exacte prêtée à Charles III le jour de la disparition de la princesse, franceinfo rapporte que Charles Spencer qualifie le souverain d'« euphorique », tandis que Le Monde mentionne les termes « d'une jovialité insouciante » et Libération rapporte la comparaison avec un « gagnant de loterie ».",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/un-coup-bas-le-livre-du-frere-de-lady-di-sur-la-famille-royale-jette-un-froid-au-royaume-uni-20260922_LOH7F5NCZBB5RE4LKPIZ7EJ6EY"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/swan-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_22/la-messinscena-dei-reali-la-regina-elisabetta-carlo-anna-filippo-harry-e-william-tutte-le-frecce-del-conte-spencer-438b8bb1-67b7-4306-a013-c1b06d86axlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/memoir-by-princess-dianas-brother-flies-off-the-shelves"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260922-royaume-uni-sortie-d-un-livre-choc-29-ans-apr%C3%A8s-la-mort-de-lady-diana"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://madame.lefigaro.fr/celebrites/actu-people/les-10-revelations-explosives-du-livre-de-charles-spencer-sur-la-princesse-diana-20260922"
+    }
+   ],
+   "premiere_parution": "2026-09-20T19:57:49Z",
+   "suite_de": null,
+   "mots": 301,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-23-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La justice du Sri Lanka condamne les accusés des attentats de Pâques 2019",
+   "chapeau": "La Haute cour de Colombo a rendu son verdict mardi 22 septembre 2026 concernant les attentats-suicides coordonnés de 2019 au Sri Lanka. Les juges ont condamné plusieurs accusés à de lourdes peines de prison pour leur participation à ces attaques terroristes.",
+   "corps": "La Haute cour de Colombo a prononcé des peines de prison d'au moins 220 ans pour chacun des condamnés. Les juges de cette instance spéciale, mise en place en 2021, ont examiné le dossier de vingt-quatre personnes poursuivies. Le tribunal a prononcé l'acquittement pour neuf individus jugés dans ce procès.\n\nLes attaques se sont déroulées le 21 avril 2019, le jour du dimanche de Pâques. Huit kamikazes, des personnes qui se font exploser pour tuer d'autres personnes, ont déclenché leurs charges de manière coordonnée. Les cibles comprenaient trois églises et trois hôtels de luxe. Ces explosions ont touché la capitale Colombo, la ville proche de Negombo et le district de Batticaloa situé à l'est du pays. Les assaillants se sont inspirés de l'organisation terroriste État islamique.\n\nCes attentats représentent l'attaque la plus meurtrière survenue dans le pays depuis la fin de la guerre civile en 2009. Les explosions ont également fait de nombreux blessés. Le journal britannique The Guardian fait état de près de 6 000 blessés dans son édition du 23 septembre 2026.\n\n## Ce que disent les sources\n\nLe nombre exact de personnes condamnées varie selon les médias. Les agences et journaux Al Jazeera, NPR, The Straits Times, RFI, BBC News et The Guardian rapportent le 22 et le 23 septembre 2026 la condamnation de 15 personnes. De leur côté, les médias français franceinfo et Le Monde, ainsi que le quotidien indien The Hindu, indiquent le 22 septembre 2026 que 14 personnes ont été reconnues coupables. Concernant la dernière personne poursuivie, franceinfo précise que la cour n'a retenu qu'une partie des charges contre elle.\n\nLe bilan des victimes décédées diverge également selon les publications. Al Jazeera, franceinfo, Le Monde, The Straits Times et RFI font état de 279 morts le 22 septembre 2026. Le Monde précise que ce total intègre 45 ressortissants étrangers, tandis que NPR mentionne 42 victimes étrangères le même jour. La BBC évoque un bilan de 270 morts dans ses articles du 22 septembre 2026. Enfin, le quotidien britannique The Guardian rapporte un bilan de 267 morts le 23 septembre 2026.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw8r687nedzgo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/asie/attentats-au-sri-lanka/au-sri-lanka-14-accuses-reconnus-coupables-pour-leur-participation-aux-attentats-jihadistes-de-paques-2019_8204663.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/22/attentats-au-sri-lanka-en-2019-quatorze-personnes-reconnues-coupables-de-participation-directe_6780207_3210.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/sri-lanka-2019-easter-sunday-bombings-convictions-sentencing/article71495581.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/south-asia/sri-lanka-hands-220-year-jail-terms-to-15-convicted-of-2019-easter-bombings"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20260922-attentats-de-2019-au-sri-lanka-la-justice-condamne-15-condamn%C3%A9s-%C3%A0-de-tr%C3%A8s-lourdes-peines-de-prison"
+    }
+   ],
+   "premiere_parution": "2026-09-22T10:01:29Z",
+   "suite_de": null,
+   "mots": 386,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-23-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Etats-Unis, Danemark et Groenland signent un accord militaire majeur",
+   "chapeau": "Les Etats-Unis, le Danemark et le Groenland ont signé un accord de sécurité mardi 22 septembre 2026 à New York. Ce texte prévoit une présence militaire américaine accrue dans l'Arctique.",
+   "corps": "Les Etats-Unis, le Danemark et le Groenland ont conclu un accord de sécurité mardi 22 septembre 2026 en marge de l'Assemblée générale des Nations unies. Ce texte modifie l'accord de défense signé en 1951.\n\nLe président américain Donald Trump a annoncé la construction de deux nouvelles bases militaires au Groenland selon Reuters le 22 septembre 2026 à 16:00. L'accord autorise également l'installation d'un système de défense antimissile sur l'île.\n\nLe journal La Croix indique le 22 septembre 2026 à 21:35 que le texte comporte dix pages. Il inclut des restrictions d'investissements visant la Chine et la Russie sur le territoire arctique.\n\nLe document réaffirme la souveraineté du Danemark sur le Groenland selon BBC News le 23 septembre 2026 à 01:36. Le territoire conserve son statut de zone autonome.\n\nCe pacte intervient après des mois de tensions provoquées par les déclarations du président américain sur le statut de l'île selon France 24 le 22 septembre 2026 à 20:04.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/trump-denmark-greenland-sign-deal-bid-end-arctic-standoff-2026-09-22"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20260922-donald-trump-signe-avec-le-danemark-et-le-groenland-un-accord-apr%C3%A8s-des-mois-de-tensions"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/groenland-ce-que-prevoit-l-accord-signe-avec-les-etats-unis-et-le-danemark-20260922"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c9dr74g32g8go"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/groenland-usa-und-daenemark-besiegeln-sicherheitsabkommen-bei-uno-treffen-a-55f0f60c-da5d-4d05-910e-edc636931799"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/trump-celebra-mas-dinamarca-segue-com-a-groenlandia.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/22/donald-trump-signe-un-accord-de-securite-avec-le-groenland-et-le-danemark_6780267_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
+    }
+   ],
+   "premiere_parution": "2026-09-20T15:04:17Z",
+   "suite_de": null,
+   "mots": 191,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-23-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump menace l'Iran d'anéantissement devant l'Assemblée générale de l'ONU",
+   "chapeau": "Le président américain Donald Trump a prononcé mardi un discours à l'Assemblée générale des Nations unies à New York. Il a placé Téhéran face à l'alternative d'un accord de paix ou d'une destruction par les forces américaines.",
+   "corps": "Le président des États-Unis a affirmé qu'il devait prendre une décision majeure concernant l'Iran. Il a déclaré qu'il hésitait entre conclure un accord de paix ou détruire la République islamique. Donald Trump a également réaffirmé qu'il n'autoriserait jamais l'Iran à obtenir l'arme nucléaire. Cette déclaration intervient alors que le conflit armé entre les États-Unis, Israël et l'Iran dure depuis sept mois, après l'engagement américain initié en février 2026.\n\nLe président américain a lié l'issue de cette guerre aux élections de mi-mandat prévues en novembre 2026. Il a affirmé s'attendre à la conclusion d'un accord après cette échéance électorale. De son côté, l'Iran avait précédemment suggéré la possibilité de reprendre des discussions pour mettre fin aux hostilités. En marge de l'Assemblée générale, des représentants des deux pays se sont d'ailleurs rencontrés.\n\nAu cours de son allocution, Donald Trump a également critiqué la Cour pénale internationale. Il a qualifié l'institution judiciaire d'organisme hors de contrôle et a invité ses pays alliés à s'en détourner. Le président a par ailleurs évoqué d'autres sujets de politique étrangère, mentionnant l'installation de deux bases américaines au Groenland, qualifiant le gouvernement de Cuba de régime défaillant et rejetant les projets de régulation de l'intelligence artificielle.\n\nLes réactions internationales se sont multipliées après ce discours. Le président français Emmanuel Macron a pris la parole pour défendre le droit international et le multilatéralisme. L'émir du Qatar a quant à lui plaidé pour une résolution diplomatique du conflit. Il a rappelé que les tensions actuelles perturbent fortement le transport maritime dans le détroit d'Ormuz et provoquent une hausse des prix du pétrole.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/unga-trump-and-world-leaders-discuss-global-conflicts/live-79366211?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/09/1159524"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-affirme-a-l-assemblee-generale-de-l-onu-qu-il-doit-decider-entre-aneantir-l-iran-ou-passer-un-accord_8204825.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-urges-compete-isolation-of-iran-expects-deal-after-us-midterm-elections"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/22/trump-dreigt-iran-weer-met-vernietiging-en-haalt-bij-de-vn-hard-uit-naar-het-internationaal-strafhof-a4937293"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.com/news/2026/09/22/trump-iran-annihilation-unga-speech-01087902"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-22/trump-amenaza-con-aniquilar-iran-en-un-discurso-en-la-asamblea-general-de-la-onu-con-tintes-electorales.html"
+    }
+   ],
+   "premiere_parution": "2026-09-22T08:55:00Z",
+   "suite_de": null,
+   "mots": 299,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-23-monde-001",
+  "2026-09-23-monde-002",
+  "2026-09-23-geopolitique-001",
+  "2026-09-23-geopolitique-002"
+ ]
+}

@@ -1,6 +1,53 @@
 {
- "maj": "2026-09-23T11:42:19Z",
+ "maj": "2026-09-23T17:06:55Z",
  "alertes": [
+  {
+   "id": "2026-09-23-alerte-02",
+   "date": "2026-09-23",
+   "publiee_a": "2026-09-23T17:06:55Z",
+   "titre": "Harvey Weinstein écope de quinze ans de prison pour agression sexuelle",
+   "texte": "Un tribunal new-yorkais a condamné l'ancien producteur de cinéma Harvey Weinstein à quinze ans de réclusion mercredi 23 septembre 2026 pour une agression sexuelle commise en 2006 sur une assistante de production, selon France 24.",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20260923-harvey-weinstein-de-nouveau-condamn%C3%A9-%C3%A0-15-ans-de-prison-pour-agression-sexuelle-en-2006"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/justiz/harvey-weinstein-muss-wegen-sexualverbrechen-15-jahre-in-haft-a-6bb5a9a3-3de3-4cfe-9d3b-1574b11dee70"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/23/harvey-weinstein-sentencing-prison"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/harvey-weinstein-vuelve-condenado-anos-prision-agresion-20260923175841-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/cinema/affaire-harvey-weinstein/l-ancien-producteur-de-cinema-harvey-weinstein-condamne-a-15-ans-de-prison-pour-une-agression-sexuelle-datant-de-2006_8206709.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm98626n260yo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html"
+    }
+   ],
+   "cluster": "4e89a39ed0f5cd75",
+   "urls": [
+    "https://abc.es/gente/harvey-weinstein-vuelve-condenado-anos-prision-agresion-20260923175841-nt.html",
+    "https://bbc.co.uk/news/articles/cm98626n260yo",
+    "https://france24.com/fr/am%C3%A9riques/20260923-harvey-weinstein-de-nouveau-condamn%C3%A9-%C3%A0-15-ans-de-prison-pour-agression-sexuelle-en-2006",
+    "https://franceinfo.fr/culture/cinema/affaire-harvey-weinstein/l-ancien-producteur-de-cinema-harvey-weinstein-condamne-a-15-ans-de-prison-pour-une-agression-sexuelle-datant-de-2006_8206709.html",
+    "https://lemonde.fr/international/article/2026/09/23/le-magnat-du-cinema-harvey-weinstein-est-condamne-a-quinze-ans-de-prison_6780947_3210.html",
+    "https://spiegel.de/panorama/justiz/harvey-weinstein-muss-wegen-sexualverbrechen-15-jahre-in-haft-a-6bb5a9a3-3de3-4cfe-9d3b-1574b11dee70",
+    "https://theguardian.com/world/2026/sep/23/harvey-weinstein-sentencing-prison"
+   ]
+  },
   {
    "id": "2026-09-23-alerte-01",
    "date": "2026-09-23",

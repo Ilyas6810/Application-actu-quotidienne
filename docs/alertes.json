@@ -1,6 +1,67 @@
 {
- "maj": "2026-09-23T17:06:55Z",
+ "maj": "2026-09-24T11:57:25Z",
  "alertes": [
+  {
+   "id": "2026-09-24-alerte-01",
+   "date": "2026-09-24",
+   "publiee_a": "2026-09-24T11:54:41Z",
+   "titre": "Un mouvement indien exige la démission du chef de la commission électorale",
+   "texte": "Le parti de jeunesse Cockroach Janta Party a exigé jeudi 24 septembre à New Delhi la démission sous quarante-huit heures du chef de la commission électorale indienne, Gyanesh Kumar. Les militants menacent de lancer des manifestations dans tout le pays si ce responsable ne quitte pas ses fonctions.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-24/india-s-cjp-gives-chief-election-commissioner-48-hours-to-resign"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/indias-cockroach-movement-says-it-will-launch-protest-if-poll-panel-chief-doesnt-quit-in-48-hours"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/india-news-9-killed-after-bus-catches-fire-outside-delhi/live-79405879"
+    }
+   ],
+   "cluster": "790878521a2a9c6d",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-09-24/india-s-cjp-gives-chief-election-commissioner-48-hours-to-resign",
+    "https://dw.com/en/india-news-9-killed-after-bus-catches-fire-outside-delhi/live-79405879",
+    "https://dw.com/en/india-news-cockroach-party-demands-election-commissioner-gyanesh-kumar-s-resignation/live-79405879?maca=en-rss-en-all-1573-xml-mrss",
+    "https://straitstimes.com/asia/indias-cockroach-movement-says-it-will-launch-protest-if-poll-panel-chief-doesnt-quit-in-48-hours",
+    "https://straitstimes.com/asia/south-asia/indias-cockroach-party-threatens-fresh-protests-unless-election-chief-resigns",
+    "https://thehindu.com/news/national/ec-dissent-gyanesh-kumar-resignation-row-september-24-2026-live-updates/article71502728.ece"
+   ]
+  },
+  {
+   "id": "2026-09-24-alerte-02",
+   "date": "2026-09-24",
+   "publiee_a": "2026-09-24T11:57:25Z",
+   "titre": "Les services de renseignement danois prévoient une escalade russe imminente",
+   "texte": "Le service de renseignement de la défense danois a publié une évaluation des menaces le jeudi 24 septembre 2026 à Copenhague. Il annonce un risque accru d'attaques russes contre les pays membres de l'Organisation du traité de l'Atlantique Nord.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/denmark-expects-russia-to-escalate-hybrid-warfare-in-coming-months-intelligence-service-says"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-24/denmark-warns-of-rising-risk-of-russian-attack-on-a-nato-state"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/b4141b98-0118-4624-8cb0-5d158ba0751d?syn-25a6b1a6=1"
+    }
+   ],
+   "cluster": "0378cc5ee40017e7",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-09-24/denmark-warns-of-rising-risk-of-russian-attack-on-a-nato-state",
+    "https://ft.com/content/b4141b98-0118-4624-8cb0-5d158ba0751d?syn-25a6b1a6=1",
+    "https://straitstimes.com/world/europe/denmark-expects-russia-to-escalate-hybrid-warfare-in-coming-months-intelligence-service-says"
+   ]
+  },
   {
    "id": "2026-09-23-alerte-02",
    "date": "2026-09-23",
@@ -1134,162 +1195,6 @@
     "https://rfi.fr/fr/sports/20260916-foot-en-liga-un-t-shirt-de-soutien-%C3%A0-la-population-de-ceuta-fait-pol%C3%A9mique",
     "https://video.lefigaro.fr/figaro/sports/nous-sommes-tous-des-ceutiens-kylian-mbappe-accuse-d-avoir-voulu-cacher-un-message-de-soutien-au-peuple-de-ceuta-20260916",
     "https://www1.folha.uol.com.br/esporte/2026/09/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-de-apoio-a-ceuta.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-16-alerte-01",
-   "date": "2026-09-16",
-   "publiee_a": "2026-09-15T21:24:13Z",
-   "titre": "Un juge américain interdit d'inscrire le nom de Donald Trump au Kennedy Center",
-   "texte": "Un magistrat fédéral a rejeté l'ajout du nom du président républicain sur la façade du centre culturel à Washington le mardi 15 septembre 2026. À la suite de cette décision de justice, les administrateurs de l'institution ont voté la fermeture du site pour des travaux.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/kennedy-center-board-to-vote-on-venues-future-says-trump-name-critical-to-survival"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-09-15/trump-s-kennedy-center-board-votes-to-close-facility-for-repairs"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6y8zp3kv0x3o"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/09/conselho-decide-fechar-kennedy-center-para-obras-apos-juiz-rejeitar-a-volta-do-nome-de-donald-trump.shtml"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/kennedy-center-von-donald-trump-eingesetzte-fuehrung-beschliesst-schliessung-a-802b89d1-4631-4c9c-9c00-51e1c74ae069"
-    }
-   ],
-   "cluster": "22adf27d6b68d007",
-   "urls": [
-    "https://10news.com/politics/the-president/judge-blocks-kennedy-center-board-from-putting-trumps-name-on-building",
-    "https://aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute",
-    "https://bbc.co.uk/news/articles/c6y8zp3kv0x3o",
-    "https://bloomberg.com/news/articles/2026-09-15/trump-s-kennedy-center-board-votes-to-close-facility-for-repairs",
-    "https://businessinsider.com/kennedy-center-board-votes-to-close-until-trumps-name-added-2026-9",
-    "https://koaa.com/politics/the-president/judge-blocks-kennedy-center-board-from-putting-trumps-name-on-building",
-    "https://kxl.com/judge-blocks-kennedy-center-board-from-putting-trumps-name-on-the-building-or-grounds-in-any-way",
-    "https://npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
-    "https://spiegel.de/ausland/donald-trump-kennedy-center-warum-das-kennedy-center-vor-der-pleite-stehen-soll-a-daf7e6cd-6081-4250-8fc4-898bbf1c8061",
-    "https://spiegel.de/ausland/kennedy-center-von-donald-trump-eingesetzte-fuehrung-beschliesst-schliessung-a-802b89d1-4631-4c9c-9c00-51e1c74ae069",
-    "https://spotandweb.it/news/920119/il-kennedy-center-chiude-trump-riapre-solo-col-mio-nome.html",
-    "https://straitstimes.com/world/kennedy-center-board-to-vote-on-venues-future-says-trump-name-critical-to-survival",
-    "https://straitstimes.com/world/united-states/kennedy-center-board-to-vote-on-venues-future-says-trump-name-critical-to-survival",
-    "https://ukiahdailyjournal.com/2026/09/15/kennedy-center-trump-branding-dispute",
-    "https://www1.folha.uol.com.br/mundo/2026/09/conselho-decide-fechar-kennedy-center-para-obras-apos-juiz-rejeitar-a-volta-do-nome-de-donald-trump.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/09/kennedy-center-corre-risco-de-falencia-e-pode-fechar-nesta-terca-feira-diz-jornal.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-16-alerte-02",
-   "date": "2026-09-16",
-   "publiee_a": "2026-09-15T21:25:27Z",
-   "titre": "Macklemore est exclu de la tournée américaine du chanteur Ed Sheeran",
-   "texte": "Les organisateurs ont retiré le rappeur américain Macklemore des premières parties du chanteur britannique Ed Sheeran aux États-Unis. Cette décision survient après des déclarations propalestiniennes prononcées par l'artiste lors d'un concert aux États-Unis.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/culture/article/2026/09/15/le-rappeur-macklemore-annonce-avoir-ete-ecarte-de-la-tournee-d-ed-sheeran-apres-des-propos-propalestiniens_6774407_3246.html"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/09/15/macklemore-uit-amerikaanse-tournee-van-ed-sheeran-gezet-na-pro-palestijnse-uitspraken-a4936660"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/gente/2026-09-15/ed-sheeran-se-pronuncia-sobre-la-polemica-expulsion-de-macklemore-de-su-gira-yo-elijo-utilizar-mi-fama-para-ofrecer-un-espacio-seguro.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/ed-sheeran-veranstalter-entschied-laut-ueber-macklemore-aus-bei-tour-a-9be89a6a-a80d-4286-b6f8-7371b3c91c08"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/ilustrada/2026/09/finneas-diz-que-nao-tocara-em-turne-de-ed-sheeran-apos-retirada-de-macklemore.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c3vgyn49y4l7o"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_settembre_15/rapper-macklemore-tour-ed-sheeran-e5400759-0f8a-4d75-8218-f2a66873fxlk.shtml"
-    }
-   ],
-   "cluster": "129870748fd7e5fa",
-   "urls": [
-    "https://bbc.co.uk/news/articles/c3vgyn49y4l7o",
-    "https://bbc.co.uk/news/articles/cq0m3pkmgg1ko",
-    "https://corriere.it/esteri/26_settembre_15/rapper-macklemore-tour-ed-sheeran-e5400759-0f8a-4d75-8218-f2a66873fxlk.shtml",
-    "https://elpais.com/gente/2026-09-15/ed-sheeran-se-pronuncia-sobre-la-polemica-expulsion-de-macklemore-de-su-gira-yo-elijo-utilizar-mi-fama-para-ofrecer-un-espacio-seguro.html",
-    "https://france24.com/fr/culture/20260914-le-rappeur-macklemore-%C3%A9cart%C3%A9-de-la-tourn%C3%A9e-d-ed-sheeran-apr%C3%A8s-des-propos-pro-palestiniens",
-    "https://haaretz.com/life/2026-09-14/ty-article/.premium/macklemore-dropped-from-ed-sheeran-tour-after-pro-palestinian-statements/000001a0-a09f-de76-a1f7-bbdfe2810000",
-    "https://lemonde.fr/culture/article/2026/09/15/le-rappeur-macklemore-annonce-avoir-ete-ecarte-de-la-tournee-d-ed-sheeran-apres-des-propos-propalestiniens_6774407_3246.html",
-    "https://liberation.fr/culture/ed-sheeran-retire-macklemore-de-sa-tournee-apres-des-propos-pro-palestiniens-20260915_CFDTSZKGOZFJTD5CNJFUE2IXVA",
-    "https://nrc.nl/nieuws/2026/09/15/macklemore-uit-amerikaanse-tournee-van-ed-sheeran-gezet-na-pro-palestijnse-uitspraken-a4936660",
-    "https://spiegel.de/panorama/ed-sheeran-veranstalter-entschied-laut-ueber-macklemore-aus-bei-tour-a-9be89a6a-a80d-4286-b6f8-7371b3c91c08",
-    "https://theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
-    "https://theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
-    "https://www1.folha.uol.com.br/ilustrada/2026/09/ed-sheeran-diz-que-retirada-de-macklemore-da-turne-partiu-dos-produtores.shtml",
-    "https://www1.folha.uol.com.br/ilustrada/2026/09/finneas-diz-que-nao-tocara-em-turne-de-ed-sheeran-apos-retirada-de-macklemore.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-16-alerte-03",
-   "date": "2026-09-16",
-   "publiee_a": "2026-09-15T21:25:50Z",
-   "titre": "Le cinéaste et documentariste chilien Patricio Guzmán est mort à 85 ans",
-   "texte": "Le réalisateur chilien Patricio Guzmán est décédé le mardi 15 septembre 2026 à Paris à l'âge de 85 ans. Son épouse a confirmé la disparition de l'auteur du film La Bataille du Chili.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/chile/2026-09-15/muere-el-documentalista-chileno-patricio-guzman.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/ilustrada/2026/09/morre-patricio-guzman-um-dos-principais-diretores-de-cinema-do-chile-aos-85-anos.shtml"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/culture/cinema/mort-a-85-ans-du-documentariste-chilien-patricio-guzman-20260915_QFQR6R7D4NECJCP44HIR7HB7SU"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/culture/20260915-cin%C3%A9ma-mort-de-patricio-guzm%C3%A1n-documentariste-et-m%C3%A9moire-politique-du-chili"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/culture/article/2026/09/15/patricio-guzman-cineaste-et-documentariste-du-chili-de-pinochet-est-mort_6774481_3246.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/culture/20260915-radiographe-du-chili-et-de-ses-blessures-le-r%C3%A9alisateur-patricio-guzman-s-est-%C3%A9teint"
-    }
-   ],
-   "cluster": "d8e40a636e519c13",
-   "urls": [
-    "https://elpais.com/chile/2026-09-15/muere-el-documentalista-chileno-patricio-guzman.html",
-    "https://france24.com/fr/culture/20260915-radiographe-du-chili-et-de-ses-blessures-le-r%C3%A9alisateur-patricio-guzman-s-est-%C3%A9teint",
-    "https://lemonde.fr/culture/article/2026/09/15/patricio-guzman-cineaste-et-documentariste-du-chili-de-pinochet-est-mort_6774481_3246.html",
-    "https://liberation.fr/culture/cinema/mort-a-85-ans-du-documentariste-chilien-patricio-guzman-20260915_QFQR6R7D4NECJCP44HIR7HB7SU",
-    "https://rfi.fr/fr/culture/20260915-cin%C3%A9ma-mort-de-patricio-guzm%C3%A1n-documentariste-et-m%C3%A9moire-politique-du-chili",
-    "https://www1.folha.uol.com.br/ilustrada/2026/09/morre-patricio-guzman-um-dos-principais-diretores-de-cinema-do-chile-aos-85-anos.shtml"
    ]
   }
  ]

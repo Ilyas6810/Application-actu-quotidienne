@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-23T05:22:58Z",
- "derniere": "2026-09-23",
+ "maj": "2026-09-24T05:33:43Z",
+ "derniere": "2026-09-24",
  "editions": [
+  {
+   "date": "2026-09-24",
+   "genere_a": "2026-09-24T05:33:43Z",
+   "articles": 5,
+   "une": [
+    "Donald Trump accueille Xi Jinping à Washington pour un sommet bilatéral",
+    "Donald Trump et Xi Jinping se rencontrent à Washington pour un sommet bilatéral",
+    "Le president iranien Masoud Pezeshkian prononce un discours a l ONU"
+   ],
+   "octets": 19410
+  },
   {
    "date": "2026-09-23",
    "genere_a": "2026-09-23T05:22:58Z",

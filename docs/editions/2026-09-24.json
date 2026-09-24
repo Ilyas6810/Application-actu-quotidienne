@@ -1,0 +1,295 @@
+{
+ "date": "2026-09-24",
+ "genere_a": "2026-09-24T05:33:43Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-24-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump accueille Xi Jinping à Washington pour un sommet bilatéral",
+   "chapeau": "Le président américain Donald Trump a accueilli le président chinois Xi Jinping le mercredi 23 septembre 2026 à son arrivée à la base aérienne Joint Base Andrews près de Washington. Les deux dirigeants doivent aborder des sujets incluant le commerce, l'intelligence artificielle, Taïwan et l'Iran lors de cette visite d'État.",
+   "corps": "Le président américain Donald Trump s'est rendu personnellement sur le tarmac pour saluer le dirigeant chinois lors de sa descente d'avion, le mercredi 23 septembre 2026 selon The Guardian. Cette marque d'attention protocolaire inhabituelle a précédé une cérémonie d'accueil officielle.\n\nLe secrétaire au Trésor américain, Scott Bessent, a annoncé la prolongation pour une durée de deux mois de l'accord commercial conclu à Busan, d'après les informations rapportées par Bloomberg le 24 septembre 2026 à 06:50. Cette trêve commerciale suspend les hostilités tarifaires entre les deux puissances.\n\nLes entretiens prévus entre les deux dirigeants portent également sur l'intelligence artificielle, la situation de Taïwan, l'Iran ainsi que les questions climatiques, selon les précisions de Deutsche Welt et de The Guardian le 24 septembre 2026.\n\nLe ministère des Affaires étrangères de la Chine, par la voix de son porte-parole Guo Jiakun, a indiqué que les deux chefs d'État procèderaient à un échange approfondi sur les relations bilatérales ainsi que sur la paix et le développement dans le monde, d'après The Hindu le 24 septembre 2026 à 05:32.\n\nCertains éléments précis concernant le déroulement exact des négociations à venir manquent dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-welcomes-chinas-xi-for-high-stakes-summit/live-79404511"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/china-confirms-xi-jinpings-us-visit-this-week-for-talks-with-donald-trump/article71490624.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-09-24/us-china-truce-extended-xi-gets-rare-welcome-from-trump-video"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/stati-uniti-trump-accoglie-xi-jinping-a-washington-ecco-il-momento-della-storica-stretta-di-mano/39babb73-9923-4b13-85cc-e37a7e78dxlk"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20260924/0b7aaeee2e07458d87869361784c3ca0/c.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-recibe-jinping-aeropuerto-militar-washington-encuentro-20260924010440-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-09-22T22:17:46Z",
+   "suite_de": null,
+   "mots": 242,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-24-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le president iranien Masoud Pezeshkian prononce un discours a l ONU",
+   "chapeau": "Masoud Pezeshkian a pris la parole le 23 septembre 2026 a l Assemblee generale des Nations unies a New York. Il a repondu aux menaces americaines formulees la veille par Donald Trump.",
+   "corps": "Le president iranien Masoud Pezeshkian s est exprime le 23 septembre 2026 lors d un discours de temps de guerre devant l Assemblee generale des Nations unies a New York. Il a accuse les Etats-Unis et Israel de violer le droit international selon The Guardian et El Pais le 23 septembre 2026.\n\nMasoud Pezeshkian a declare que l Iran ne cederait pas face aux pressions americaines et a qualifie Washington de terroriste d apres The Straits Times et The Guardian le 23 septembre 2026. Il a mentionne l assassinat de l ancien dirigeant supreme Ali Khamenei par les Etats-Unis selon The Straits Times le 23 septembre 2026.\n\nLe dirigeant iranien a affirme que son pays cherchait a obtenir de l energie nucleaire et non une arme atomique d apres Haaretz le 23 septembre 2026. Cette intervention fait suite aux declarations de Donald Trump menacant d aneantir l Iran en l absence d un accord selon NPR et BBC News le 23 septembre 2026.\n\nMalgre un ton ferme, Masoud Pezeshkian a indique que l Iran reste ouvert au dialogue et a la diplomatie sans l usage de la force selon The Guardian et Al Jazeera le 24 septembre 2026. L element manquant concerne l ensemble des details du programme nucleaire iranien.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "the-messenger.com",
+     "url": "https://the-messenger.com/news/world/article_a67c1426-7581-5453-935d-254de41aa643.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/irans-president-says-tehran-will-not-surrender-in-war-with-us-but-believes-in-diplomacy"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/iran/2026-09-23/ty-article/iranian-president-speaks-at-un-tehran-seeking-nuclear-energy-not-a-bomb/000001a0-ceb4-de22-a3b8-fef66f180000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/23/iranian-leader-hits-back-at-bully-trump-signals-willingness-to-talk"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqvgyjy23ggjo"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-09-23/iranian-president-accuses-us-and-israel-of-violating-international-law-at-the-un.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks"
+    }
+   ],
+   "premiere_parution": "2026-09-23T14:15:00Z",
+   "suite_de": null,
+   "mots": 242,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-24-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump veut interdire les exportations de diesel américain",
+   "chapeau": "Le président américain Donald Trump a annoncé le mardi 22 septembre 2026 son intention de suspendre les exportations de diesel des États-Unis. Cette mesure vise à freiner la hausse des prix de l'énergie sur le marché national avant les prochaines élections de mi-mandat.",
+   "corps": "Le président des États-Unis a déclaré avoir demandé à ses conseillers de valider un projet d'interdiction des exportations de diesel américain. Selon les informations publiées par le quotidien espagnol El País le 23 septembre 2026, Donald Trump prépare un plan pour bloquer ces ventes à l'étranger pendant une période de quatre-vingt-dix jours.\n\nCette initiative intervient dans un contexte de forte tension sur le marché des carburants. Les prix du diesel ont atteint des niveaux records aux États-Unis et en Europe. Les conflits armés en Iran et en Ukraine perturbent l'approvisionnement mondial. Ces guerres ont réduit les exportations de plusieurs grands producteurs d'énergie, parmi lesquels la Russie, l'Arabie Saoudite et les Émirats arabes unis.\n\nDes élus du Parti républicain soutiennent activement cette initiative. Les parlementaires représentant les États agricoles demandent au président de restreindre les exportations pour soulager les finances des agriculteurs et des consommateurs. Ils présentent cette mesure comme un moyen direct de faire baisser le coût de l'énergie sur le sol américain.\n\nLe projet ne fait pas l'unanimité au sein du pouvoir exécutif. Les discussions autour de cette proposition créent des divisions importantes à la Maison Blanche. Le journal allemand Der Spiegel a rapporté le 23 septembre 2026 que le propre ministre de Donald Trump a formulé des avertissements contre ce projet de blocage.\n\nLes acteurs du secteur de l'énergie contestent également la pertinence de cette décision. Un groupement professionnel de l'industrie pétrolière affirme que ce plan va échouer. Selon cette organisation, la suspension des ventes de diesel à l'étranger provoquera une hausse des prix de l'essence pour les automobilistes américains.\n\nSur le plan international, les conséquences d'un arrêt des exportations américaines inquiètent les partenaires commerciaux. Les pays comme le Brésil et le Royaume-Uni dépendent de ces livraisons. Ils devraient trouver de nouveaux fournisseurs très rapidement. Cette recherche urgente de carburant de substitution risquerait de pousser les prix mondiaux vers de nouveaux sommets. Les observateurs soulignent que l'Europe et l'Amérique latine subiraient les effets de cette décision.\n\n## Ce que disent les sources\n\nLes partisans du projet, dont les parlementaires des zones agricoles, affirment que restreindre les exportations permettra de réduire les prix de l'énergie. Au contraire, les représentants de l'industrie pétrolière soutiennent que cette mesure va déstabiliser le marché et augmenter le prix de l'essence.\n\nIl manque des détails importants dans les sources disponibles, comme le nom du ministre opposé à la mesure ou la date précise du début de cette interdiction.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-22/trump-says-he-s-pushed-for-fuel-export-ban-amid-price-crunch"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/22/trump-diesel-export-ban"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmkg7560epw0o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/23/trump-overweegt-een-exportverbod-voor-diesel-doet-hij-dat-echt-dan-heeft-europa-een-probleem-a4937363"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-09-23/trump-ultima-un-plan-para-prohibir-las-exportaciones-de-diesel-durante-90-dias.html"
+    }
+   ],
+   "premiere_parution": "2026-09-21T23:28:40Z",
+   "suite_de": null,
+   "mots": 446,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-24-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump et Xi Jinping se rencontrent à Washington pour un sommet bilatéral",
+   "chapeau": "Le président chinois Xi Jinping est arrivé à Washington pour entamer une visite d'État auprès de son homologue américain Donald Trump. Les deux dirigeants se réunissent ce jeudi 24 septembre 2026 à la Maison Blanche pour aborder des dossiers stratégiques majeurs.",
+   "corps": "Cette rencontre au sommet intervient dans un contexte de détente fragile entre les deux premières puissances économiques mondiales. Donald Trump cherche à préserver ce rapprochement temporaire tout en contenant les membres les plus hostiles à la Chine au sein de son administration.\n\nLes discussions portent en priorité sur la prolongation de la trêve commerciale et les tarifs douaniers. Les deux pays s'opposent également sur le terrain technologique. Les États-Unis conservent des avantages dans le secteur des puces électroniques, tandis que la Chine domine la chaîne d'approvisionnement des terres rares, qui sont des métaux indispensables aux technologies de pointe.\n\nLa question de la sécurité et de la géopolitique régionale occupe une place centrale dans l'agenda. Les dirigeants abordent le statut de Taïwan, notamment les ventes d'armes américaines à l'île. Les discussions couvrent aussi la régulation de l'intelligence artificielle, la cybersécurité et la situation en Iran.\n\nEn marge des discussions principales, des rencontres préparatoires ont eu lieu. Scott Bessent, conseiller économique américain, s'est entretenu avec He Lifeng, le vice-premier ministre chinois, durant le voyage du président Xi Jinping vers les États-Unis.\n\nLes milieux d'affaires, représentés notamment par la Chambre de commerce américaine à Shanghai, suivent de près ces échanges. Les entreprises américaines implantées en Chine espèrent des clarifications sur les conditions de leur activité future.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-xi-summit-washington-visit-2026-key-agenda-itinerary-everything-to-know/article71494934.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c38xk275jd21o"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-president-en-route-to-us"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-23/la-cumbre-entre-trump-y-xi-jinping-comienza-con-mucho-oropel-y-pocas-expectativas.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/donald-trump-et-xi-jinping-de-la-guerre-commerciale-a-la-detente-fragile-20260923_LEER2KHGVNAQ3HZVNCKQXARQSM"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260923-trump-xi-qui-a-l-avantage"
+    }
+   ],
+   "premiere_parution": "2026-09-22T03:52:55Z",
+   "suite_de": null,
+   "mots": 254,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-24-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Emmanuel Macron critique la politique israélienne à l'ONU et suscite une polémique",
+   "chapeau": "Le président français Emmanuel Macron a prononcé un discours critique envers la politique israélienne à l'Assemblée générale des Nations unies le mardi 22 septembre 2026. Ses propos concernant le Hamas en Cisjordanie ont provoqué une vive réaction du gouvernement israélien.",
+   "corps": "Le président français Emmanuel Macron s'est exprimé à la tribune de l'Assemblée générale des Nations unies le mardi 22 septembre 2026. Il a qualifié la situation humanitaire à Gaza de spectacle de la honte et a dénoncé les violations commises par Israël en Cisjordanie et au Liban selon les sources [1, 2, 6]. Il a également affirmé que le Liban souverain était le seul acteur légitime pour désarmer le Hezbollah [1].\n\nAu cours de son allocution, Emmanuel Macron a déclaré que le Hamas n'avait jamais sévi ou frappé en Cisjordanie [4, 10]. Cette déclaration a immédiatement entraîné une riposte du Premier ministre israélien Benjamin Nétanyahou [3, 12]. Le dirigeant israélien a qualifié cette affirmation d'absurdité grotesque [3, 4, 10].\n\nLa classe politique israélienne a également exprimé son mécontentement face aux propos du chef de l'État français [8]. Les médias soulignent que cette erreur factuelle concerne un territoire où le Hamas a pourtant commis des attentats et maintient des réseaux clandestins [10, 11, 12]. Cette polémique a éclipsé les critiques formulées par le président français concernant la colonisation et la situation à Gaza [9, 12].\n\n## Ce que disent les sources\n\nLes sources divergent sur la formulation exacte de la citation d'Emmanuel Macron concernant le Hamas en Cisjordanie. Certains médias rapportent qu'il a affirmé que le Hamas n'avait jamais frappé dans ce territoire [4], tandis que d'autres indiquent qu'il a soutenu que le mouvement n'y avait jamais sévi [9, 10, 11, 12].\n\nCertains éléments manquent pour connaître la suite des réactions diplomatiques internationales à cette allocution.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-security/2026-09-22/ty-article/macron-only-sovereign-lebanon-can-disarm-hezbollah-condemns-israeli-violations/000001a0-ca83-dcf7-a5ee-efa782e10000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/in-un-farewell-macron-denounces-trumps-gaza-diplomacy-as-spectacle-of-shame"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/absurdite-grotesque-la-colere-de-netanyahou-apres-le-discours-de-soutien-a-gaza-demmanuel-macron-devant-lonu-20260923_TC4Q6TQRI5EFXMRVQ43TRRZKP4"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israel-denounces-grotesque-absurdity-of-macrons-un-remarks-on-west-bank/article71498314.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260923-macron-d%C3%A9plore-un-spectacle-qui-nous-fait-honte-en-cisjordanie-une-absurdit%C3%A9-selon-isra%C3%ABl"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck1l6yyg52qvo"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20260923-isra%C3%ABl-en-col%C3%A8re-apr%C3%A8s-le-discours-d-emmanuel-macron-%C3%A0-l-onu-sur-la-cisjordanie"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/a-l-onu-la-charge-d-emmanuel-macron-contre-israel-eclipsee-par-son-erreur-sur-le-hamas-20260923"
+    }
+   ],
+   "premiere_parution": "2026-09-22T10:04:39Z",
+   "suite_de": null,
+   "mots": 294,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-24-monde-001",
+  "2026-09-24-geopolitique-001",
+  "2026-09-24-monde-002",
+  "2026-09-24-monde-003",
+  "2026-09-24-geopolitique-002"
+ ]
+}

@@ -1,6 +1,122 @@
 {
- "maj": "2026-09-24T17:18:43Z",
+ "maj": "2026-09-24T21:39:42Z",
  "alertes": [
+  {
+   "id": "2026-09-25-alerte-01",
+   "date": "2026-09-25",
+   "publiee_a": "2026-09-24T21:37:50Z",
+   "titre": "Benjamin Netanyahu défend les opérations militaires israéliennes devant l'Assemblée générale de l'ONU",
+   "texte": "Le Premier ministre israélien Benjamin Netanyahu a pris la parole jeudi 24 septembre 2026 à New York lors de l'Assemblée générale de l'ONU. Plusieurs délégués ont quitté la salle pendant que le dirigeant rejetait les accusations portées contre les actions armées d'Israël à Gaza.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/benjamin-netanyahu-etliche-delegierte-verlassen-vor-rede-bei-der-uno-vollversammlung-den-saal-a-1f659f23-0245-4799-a44f-2655805a2619"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-24/netanyahu-facing-a-frosty-un-says-israel-must-fight-to-victory"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/a-la-tribune-de-lonu-un-netanyahou-isole-sen-prend-aux-detracteurs-disrael-20260924_STYRWAX4B5CNJFXOMQCFMRIZ3I"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-09-24/ty-article/.premium/netanyahu-turned-un-into-campaign-stage-israels-standing-was-collateral-damage/000001a0-d519-d9ab-abfd-f7b9b0dd0000"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260924-netanyahu-devant-l-onu-isra%C3%ABl-n-a-pas-commis-de-g%C3%A9nocide-isra%C3%ABl-a-emp%C3%AAch%C3%A9-un-g%C3%A9nocide"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3y0z7kxlegdo"
+    }
+   ],
+   "cluster": "640385e1a219b3f6",
+   "urls": [
+    "https://aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home",
+    "https://aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il",
+    "https://aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech",
+    "https://bbc.co.uk/news/articles/c3y0z7kxlegdo",
+    "https://bbc.co.uk/news/videos/cqwyzmpm3pgdo",
+    "https://bloomberg.com/news/articles/2026-09-24/netanyahu-facing-a-frosty-un-says-israel-must-fight-to-victory",
+    "https://cyprus-mail.com/2026/09/24/at-un-netanyahu-defends-israel-as-delegates-storm-out",
+    "https://dw.com/en/unga-gaza-dominates-agenda-as-abbas-netanyahu-speak/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
+    "https://france24.com/fr/am%C3%A9riques/20260924-isra%C3%ABl-n-a-pas-commis-de-g%C3%A9nocide-isra%C3%ABl-a-emp%C3%AAch%C3%A9-un-g%C3%A9nocide-netanyahu-offensif-%C3%A0-l-onu",
+    "https://france24.com/fr/vid%C3%A9o/20260924-devant-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-netanyahu-s-en-prend-%C3%A0-paris-et-londres",
+    "https://france24.com/fr/vid%C3%A9o/20260924-netanyahu-devant-l-onu-isra%C3%ABl-n-a-pas-commis-de-g%C3%A9nocide-isra%C3%ABl-a-emp%C3%AAch%C3%A9-un-g%C3%A9nocide",
+    "https://france24.com/fr/vid%C3%A9o/20260924-onu-isol%C3%A9-et-sur-la-d%C3%A9fensive-le-discours-combattif-de-benjamin-netanyahu-attendu",
+    "https://france24.com/fr/vid%C3%A9o/20260924-replay-benjamin-netanyahu-s-exprime-devant-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu",
+    "https://haaretz.com/israel-news/2026-09-24/ty-article/.premium/netanyahu-at-un-downplays-israeli-settler-violence-rebuts-gaza-genocide-claim/000001a0-d211-de22-a3b8-f653ed380000",
+    "https://haaretz.com/israel-news/israel-politics/2026-09-23/ty-article-magazine/.premium/how-netanyahu-israels-pariah-premier-will-gaslight-the-globe-at-the-un/000001a0-ceb4-dcb9-a9a4-fef4573f0000",
+    "https://haaretz.com/israel-news/israel-politics/2026-09-24/ty-article-live/.premium/netanyahu-set-to-speak-at-un-general-assembly/000001a0-d3f8-db4b-a7a5-d3fa31a60000",
+    "https://haaretz.com/us-news/2026-09-24/ty-article/.premium/netanyahu-turned-un-into-campaign-stage-israels-standing-was-collateral-damage/000001a0-d519-d9ab-abfd-f7b9b0dd0000",
+    "https://irvinetimes.com/news/national/26580444.israels-netanyahu-calls-accusations-gaza-genocide-biggest-lie-century",
+    "https://la-croix.com/international/direct-guerre-iran-israel-usa-jour-104-moyen-orient-bilan-resume-aujourdhui-20260924",
+    "https://liberation.fr/international/a-la-tribune-de-lonu-un-netanyahou-isole-sen-prend-aux-detracteurs-disrael-20260924_STYRWAX4B5CNJFXOMQCFMRIZ3I",
+    "https://nbcdfw.com/news/national-international/netanyahu-un-denies-genocide-in-gaza/4082225",
+    "https://salisburyjournal.co.uk/news/national/26580444.israels-netanyahu-calls-accusations-gaza-genocide-biggest-lie-century",
+    "https://spiegel.de/ausland/benjamin-netanyahu-etliche-delegierte-verlassen-vor-rede-bei-der-uno-vollversammlung-den-saal-a-1f659f23-0245-4799-a44f-2655805a2619",
+    "https://straitstimes.com/world/middle-east/moral-cowards-israels-netanyahu-bites-back-as-dozens-of-envoys-walk-out-of-his-un-speech",
+    "https://theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+    "https://theguardian.com/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation",
+    "https://thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/09/em-discurso-combativo-na-onu-netanyahu-e-vaiado-e-distribui-ataques-a-criticos.shtml"
+   ]
+  },
+  {
+   "id": "2026-09-25-alerte-02",
+   "date": "2026-09-25",
+   "publiee_a": "2026-09-24T21:39:42Z",
+   "titre": "La France envoie des moyens militaires pour protéger l Arabie saoudite",
+   "texte": "Emmanuel Macron a annoncé le jeudi 24 septembre 2026 sur TF1 et France 2 l envoi de soldats et de radars pour protéger le site énergétique de Yanbou en Arabie saoudite.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/live/2026/09/24/en-direct-interview-d-emmanuel-macron-c-est-normal-qu-il-y-ait-de-la-colere-a-propos-de-la-situation-economique-en-france-reconnait-le-chef-de-l-etat_6781553_823448.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-france-va-envoyer-des-moyens-militaires-pour-proteger-un-site-energetique-cle-en-arabie-saoudite-20260924"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20260924-en-direct-onu-assemblee-generale-benjamin-netanyahu-israel-mahmoud-abbas"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/envoi-de-militaires-en-arabie-saoudite-prix-du-carburant-reserves-energetiques-ce-quil-faut-retenir-de-linterview-demmanuel-macron-20260924_55HEKNBLK5GB3AYXEICNZ7CDPY"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/macron-anuncia-envio-soldados-misiles-franceses-proteger-20260924215259-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20260924-face-%C3%A0-la-crise-des-carburants-emmanuel-macron-annonce-l-envoi-de-moyens-militaires-en-arabie-saoudite"
+    }
+   ],
+   "cluster": "6c79f925dce91224",
+   "urls": [
+    "https://abc.es/internacional/macron-anuncia-envio-soldados-misiles-franceses-proteger-20260924215259-nt.html",
+    "https://france24.com/fr/am%C3%A9riques/20260924-en-direct-onu-assemblee-generale-benjamin-netanyahu-israel-mahmoud-abbas",
+    "https://lefigaro.fr/international/la-france-va-envoyer-des-moyens-militaires-pour-proteger-un-site-energetique-cle-en-arabie-saoudite-20260924",
+    "https://lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html",
+    "https://lemonde.fr/politique/live/2026/09/24/en-direct-interview-d-emmanuel-macron-c-est-normal-qu-il-y-ait-de-la-colere-a-propos-de-la-situation-economique-en-france-reconnait-le-chef-de-l-etat_6781553_823448.html",
+    "https://liberation.fr/international/moyen-orient/macron-annonce-lenvoi-de-soldats-francais-en-arabie-saoudite-pour-proteger-le-port-petrolier-de-yanbu-20260924_U3PGXF4BKJGXLPJQUGRHQBROSY",
+    "https://liberation.fr/politique/envoi-de-militaires-en-arabie-saoudite-prix-du-carburant-reserves-energetiques-ce-quil-faut-retenir-de-linterview-demmanuel-macron-20260924_55HEKNBLK5GB3AYXEICNZ7CDPY",
+    "https://rfi.fr/fr/france/20260924-face-%C3%A0-la-crise-des-carburants-emmanuel-macron-annonce-l-envoi-de-moyens-militaires-en-arabie-saoudite"
+   ]
+  },
   {
    "id": "2026-09-24-alerte-03",
    "date": "2026-09-24",
@@ -1099,197 +1215,6 @@
     "https://bloomberg.com/news/videos/2026-09-18/japan-central-bank-hikes-rates-with-surprise-dissenters-video",
     "https://cincodias.elpais.com/mercados-financieros/2026-09-18/el-banco-de-japon-sube-los-tipos-al-ritmo-mas-rapido-desde-1990-tras-las-recomendaciones-de-bessent.html",
     "https://ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1"
-   ]
-  },
-  {
-   "id": "2026-09-17-alerte-03",
-   "date": "2026-09-17",
-   "publiee_a": "2026-09-17T11:47:54Z",
-   "titre": "Le bloc de centre gauche remporte les élections législatives en Suède",
-   "texte": "L'autorité électorale suédoise a confirmé la victoire du bloc de centre gauche aux élections législatives le jeudi 17 septembre 2026 à Stockholm. La coalition emmenée par Magdalena Andersson décroche 176 sièges au Parlement contre 173 pour l'alliance de droite.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_settembre_16/elezioni-in-svezia-il-centrosinistra-vince-di-un-seggio-trattative-per-la-formazione-della-maggioranza-6ad7d2d7-6b60-46f0-9a11-05cae495bxlk.shtml"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20260917-su%C3%A8de-avec-99-9-des-votes-d%C3%A9pouill%C3%A9s-la-gauche-%C3%A0-deux-pas-de-la-victoire"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/andersson-acelera-contactos-espinosa-formacion-gobierno-suecia-20260917131152-nt.html"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/swedens-centre-left-opposition-wins-election-as-count-completed"
-    },
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.eu/article/swedens-left-magdalena-andersson-election-victory"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-09-17/el-bloque-de-centroizquierda-gana-las-elecciones-en-suecia-segun-el-escrutinio-definitivo.html"
-    }
-   ],
-   "cluster": "06a5cf533a075fe0",
-   "urls": [
-    "https://abc.es/internacional/andersson-acelera-contactos-espinosa-formacion-gobierno-suecia-20260917131152-nt.html",
-    "https://bloomberg.com/news/articles/2026-09-16/sweden-s-center-left-bloc-set-to-win-election-in-svt-projection",
-    "https://corriere.it/esteri/26_settembre_16/elezioni-in-svezia-il-centrosinistra-vince-di-un-seggio-trattative-per-la-formazione-della-maggioranza-6ad7d2d7-6b60-46f0-9a11-05cae495bxlk.shtml",
-    "https://dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-09-17/el-bloque-de-centroizquierda-gana-las-elecciones-en-suecia-segun-el-escrutinio-definitivo.html",
-    "https://france24.com/fr/vid%C3%A9o/20260917-l%C3%A9gislatives-en-su%C3%A8de-une-victoire-du-centre-gauche-annonc%C3%A9e-par-la-t%C3%A9l%C3%A9vision-publique",
-    "https://france24.com/fr/vid%C3%A9o/20260917-su%C3%A8de-avec-99-9-des-votes-d%C3%A9pouill%C3%A9s-la-gauche-%C3%A0-deux-pas-de-la-victoire",
-    "https://haaretz.com/world-news/europe/2026-09-16/ty-article-magazine/.premium/swedish-election-left-the-blocs-split-over-israel-and-antisemitism/000001a0-a531-d5b2-a9ee-a7bbf7370000",
-    "https://politico.eu/article/swedens-left-magdalena-andersson-election-victory",
-    "https://politico.eu/article/swedish-election-magdalena-andersson-left-victory-close",
-    "https://straitstimes.com/world/europe/analysis-the-night-swedens-far-right-stopped-winning",
-    "https://straitstimes.com/world/europe/swedens-centre-left-opposition-maintains-election-lead-as-count-nears-end",
-    "https://straitstimes.com/world/europe/swedens-centre-left-opposition-wins-election-as-count-completed",
-    "https://theguardian.com/commentisfree/2026/sep/16/the-guardian-view-on-swedens-election-result-an-opportunity-that-progressive-parties-must-not-squander",
-    "https://theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
-   ]
-  },
-  {
-   "id": "2026-09-17-alerte-01",
-   "date": "2026-09-17",
-   "publiee_a": "2026-09-16T21:24:37Z",
-   "titre": "La Réserve fédérale américaine augmente son taux directeur d'un quart de point",
-   "texte": "La Réserve fédérale américaine a relevé le 16 septembre 2026 son taux d'intérêt directeur de 0,25 point, pour l'établir entre 3,75 % et 4 %. Cette décision, votée à l'unanimité des douze membres du comité de politique monétaire, constitue la première hausse depuis l'été 2023.",
-   "sources": [
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/economia/reserva-federal-sube-tipos-interes-cuarto-punto-20260916200545-nt.html"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-09-16/fed-raises-rates-as-warsh-bucks-wh-to-target-inflation-video"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/conjoncture/la-fed-augmente-son-taux-d-interet-directeur-d-un-quart-de-point-20260916"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/economia/finanza/26_settembre_16/la-fed-alza-i-tassi-di-interesse-dopo-tre-anni-cosi-warsh-scontenta-trump-96347e2c-13cf-416b-a6e1-1d26878f9xlk.shtml"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cw4gmlyvj422o"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/economia/2026-09-16/la-reserva-federal-desafia-a-trump-con-una-subida-de-tipos-de-25-puntos-basicos.html"
-    }
-   ],
-   "cluster": "5615563eb107bdfe",
-   "urls": [
-    "https://abc.es/economia/reserva-federal-sube-tipos-interes-cuarto-punto-20260916200545-nt.html",
-    "https://aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy",
-    "https://bbc.co.uk/news/articles/cw4gmlyvj422o",
-    "https://bloomberg.com/news/articles/2026-09-15/fed-seen-hiking-rates-in-defiance-of-trump-decision-day-guide",
-    "https://bloomberg.com/news/articles/2026-09-16/fed-raises-rates-as-warsh-bucks-trump-to-contain-inflation",
-    "https://bloomberg.com/news/articles/2026-09-16/key-takeaways-from-fed-decision-to-raise-interest-rates",
-    "https://bloomberg.com/news/videos/2026-09-16/aggressive-rate-hike-bets-raise-stakes-for-fed-video",
-    "https://bloomberg.com/news/videos/2026-09-16/fed-raises-rates-as-warsh-bucks-wh-to-target-inflation-video",
-    "https://corriere.it/economia/finanza/26_settembre_16/fed-perche-sui-tassi-si-prepara-lo-scontro-tra-trump-e-warsh-e-cosa-significherebbe-il-denaro-piu-costoso-07d53584-f085-43d4-a9e6-347ddf633xlk.shtml",
-    "https://corriere.it/economia/finanza/26_settembre_16/la-fed-alza-i-tassi-di-interesse-dopo-tre-anni-cosi-warsh-scontenta-trump-96347e2c-13cf-416b-a6e1-1d26878f9xlk.shtml",
-    "https://dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/economia/2026-09-16/decepcionar-al-mercado-o-enfurecer-a-trump-el-dilema-de-warsh-en-su-primera-gran-decision-al-frente-de-la-fed.html",
-    "https://elpais.com/economia/2026-09-16/la-reserva-federal-desafia-a-trump-con-una-subida-de-tipos-de-25-puntos-basicos.html",
-    "https://english.elpais.com/economy-and-business/2026-09-16/the-federal-reserve-defies-trump-with-a-25-basis-point-rate-hike.html",
-    "https://ft.com/content/b990fc74-9efe-4de0-a6ca-64427e6e4f84",
-    "https://ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1",
-    "https://lefigaro.fr/conjoncture/inflation-flambee-de-la-dette-aux-etats-unis-la-fed-sommee-d-agir-20260915",
-    "https://lefigaro.fr/conjoncture/la-fed-augmente-son-taux-d-interet-directeur-d-un-quart-de-point-20260916",
-    "https://lemonde.fr/economie/article/2026/09/16/la-fed-va-a-l-encontre-de-donald-trump-et-augmente-ses-taux-directeurs-pour-lutter-contre-l-inflation-aux-etats-unis_6775456_3234.html",
-    "https://npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
-    "https://npr.org/2026/09/16/nx-s1-5966383/morning-news-brief",
-    "https://npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
-    "https://rfi.fr/fr/am%C3%A9riques/20260916-%C3%A9tats-unis-la-fed-rel%C3%A8ve-ses-taux-pour-freiner-l-inflation-%C3%A0-rebours-des-exigences-de-trump",
-    "https://spiegel.de/wirtschaft/us-notenbank-fed-erhoeht-leitzins-erstmals-seit-2023-a-c72447c1-ff8e-4fdb-a5c1-9745d77ce5b9",
-    "https://theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
-    "https://theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
-    "https://www1.folha.uol.com.br/mercado/2026/09/fed-aumenta-taxa-de-juros-nos-eua-pela-primeira-vez-desde-julho-de-2023.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-17-alerte-02",
-   "date": "2026-09-17",
-   "publiee_a": "2026-09-16T21:26:04Z",
-   "titre": "Kylian Mbappé explique avoir masqué son maillot de soutien à Ceuta",
-   "texte": "Mardi 15 septembre 2026, Kylian Mbappé a partiellement masqué un message de soutien aux habitants de Ceuta avant un match en Espagne. L'attaquant du Real Madrid s'est expliqué le 16 septembre 2026 en affirmant ne pas vouloir établir de priorité dans la souffrance.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/todos-somos-caballas-pourquoi-kylian-mbappe-a-refuse-de-porter-un-t-shirt-en-soutien-aux-habitants-de-ceuta-20260916_BDOO4NQXQRBZPNWYWNSYQSG45U"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20260916-ceuta-mbapp%C3%A9-vinicius-et-konat%C3%A9-masquent-un-message-de-soutien-aux-habitants"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/politique/article/2026/09/16/kylian-mbappe-cible-par-l-extreme-droite-apres-son-boycott-d-une-operation-de-soutien-aux-habitants-de-ceuta_6775450_823448.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/09/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-de-apoio-a-ceuta.shtml"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/real-madrid/mbappe-explica-tras-esconder-apoyo-ceuta-queria-20260916215318-nt.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Kylian-mbappe-explique-son-choix-de-ne-porter-qu-a-moitie-un-t-shirt-en-soutien-aux-habitants-de-ceuta-je-ne-voulais-pas-etablir-de-priorite-dans-la-souffrance/1719197"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/espagne/liga-au-coeur-d-une-polemique-mbappe-affirme-soutenir-les-habitants-de-ceuta-a-100-20260916"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html"
-    }
-   ],
-   "cluster": "01fdfd8c70ba6342",
-   "urls": [
-    "https://abc.es/deportes/real-madrid/mbappe-explica-tras-esconder-apoyo-ceuta-queria-20260916215318-nt.html",
-    "https://france24.com/fr/vid%C3%A9o/20260916-ceuta-mbapp%C3%A9-vinicius-et-konat%C3%A9-masquent-un-message-de-soutien-aux-habitants",
-    "https://franceinfo.fr/l-actu-pour-les-jeunes/pourquoi-mbappe-a-cache-ce-message_8195582.html",
-    "https://franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html",
-    "https://franceinfo.fr/sports/foot/mbappe-vinicius-et-konate-masquent-en-partie-un-slogan-en-soutien-aux-habitants-de-ceuta-debut-de-polemique-en-espagne_8195072.html",
-    "https://lefigaro.fr/sports/football/espagne/c-est-mal-le-president-de-la-liga-defend-le-maillot-en-soutien-a-ceuta-et-regrette-le-geste-de-mbappe-20260916",
-    "https://lefigaro.fr/sports/football/espagne/liga-au-coeur-d-une-polemique-mbappe-affirme-soutenir-les-habitants-de-ceuta-a-100-20260916",
-    "https://lefigaro.fr/sports/football/kylian-mbappe-creer-une-polemique-en-refusant-de-porter-un-message-de-soutien-a-la-population-de-ceuta-20260916",
-    "https://lemonde.fr/politique/article/2026/09/16/kylian-mbappe-cible-par-l-extreme-droite-apres-son-boycott-d-une-operation-de-soutien-aux-habitants-de-ceuta_6775450_823448.html",
-    "https://lemonde.fr/sport/article/2026/09/16/kylian-mbappe-vinicius-et-ibrahima-konate-dissimulent-en-partie-un-message-de-soutien-aux-habitants-de-ceuta-avant-un-match-du-real-madrid_6775196_3242.html",
-    "https://lequipe.fr/Football/Actualites/Kylian-mbappe-explique-son-choix-de-ne-porter-qu-a-moitie-un-t-shirt-en-soutien-aux-habitants-de-ceuta-je-ne-voulais-pas-etablir-de-priorite-dans-la-souffrance/1719197",
-    "https://lequipe.fr/Football/Actualites/Kylian-mbappe-vinicius-et-ibrahima-konate-ont-masque-le-message-de-soutien-aux-habitants-de-ceuta-sur-leur-t-shirt/1719040",
-    "https://lequipe.fr/Football/Actualites/Le-president-de-la-liga-javier-tebas-regrette-le-choix-de-kylian-mbappe-vinicius-junior-et-ibrahima-konate-de-ne-porter-qu-a-moitie-un-t-shirt-en-soutien-aux-habitants-de-ceuta/1719148",
-    "https://liberation.fr/sports/football/todos-somos-caballas-pourquoi-kylian-mbappe-a-refuse-de-porter-un-t-shirt-en-soutien-aux-habitants-de-ceuta-20260916_BDOO4NQXQRBZPNWYWNSYQSG45U",
-    "https://rfi.fr/fr/sports/20260916-foot-en-liga-un-t-shirt-de-soutien-%C3%A0-la-population-de-ceuta-fait-pol%C3%A9mique",
-    "https://video.lefigaro.fr/figaro/sports/nous-sommes-tous-des-ceutiens-kylian-mbappe-accuse-d-avoir-voulu-cacher-un-message-de-soutien-au-peuple-de-ceuta-20260916",
-    "https://www1.folha.uol.com.br/esporte/2026/09/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-de-apoio-a-ceuta.shtml"
    ]
   }
  ]

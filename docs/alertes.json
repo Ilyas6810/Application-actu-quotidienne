@@ -1,6 +1,101 @@
 {
- "maj": "2026-09-24T11:57:25Z",
+ "maj": "2026-09-24T17:18:43Z",
  "alertes": [
+  {
+   "id": "2026-09-24-alerte-03",
+   "date": "2026-09-24",
+   "publiee_a": "2026-09-24T17:18:43Z",
+   "titre": "Le pape Léon XIV arrive en France vendredi pour une visite officielle",
+   "texte": "Le pape Léon XIV doit arriver en France le vendredi 25 septembre 2026 à l'aéroport d'Orly. Plus d'un million de personnes sont attendues pour ce voyage qui se déroulera notamment à Paris, Lourdes et Metz.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/vatican/pape-leon-xiv/c-est-comme-une-reunion-de-famille-la-ferveur-monte-chez-les-fideles-a-24-heures-de-l-arrivee-du-pape_8207930.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260924-j-1-avant-l-arriv%C3%A9e-du-pape-en-france-plus-d-un-million-de-visiteurs-attendus"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/leon-xiv-en-france-les-enjeux-d-une-visite-historique-20260924"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/histoire/article/2026/09/24/messe-du-pape-a-notre-dame-de-paris-retour-sur-l-histoire-d-une-cathedrale-devenue-theatre-politique_6781536_4655323.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/a-vif/exclusif-visite-du-pape-en-france-le-message-de-bienvenue-des-autres-religions-a-leon-xiv-20260924"
+    }
+   ],
+   "cluster": "3e8082e4dcfd50a9",
+   "urls": [
+    "https://france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260923-l%C3%A9on-xiv-un-pape-plus-politique",
+    "https://france24.com/fr/france/20260924-l%C3%A9on-xiv-france-pourquoi-int%C3%A9gristes-fran%C3%A7ais-scrutent-visite-pape",
+    "https://france24.com/fr/france/20260924-pape-leon-xiv-maison-bakhita-paris-migrants-exiles-refugies-catholicisme",
+    "https://france24.com/fr/vid%C3%A9o/20260924-france-la-capitale-se-met-%C3%A0-l-heure-du-pape",
+    "https://france24.com/fr/vid%C3%A9o/20260924-j-1-avant-l-arriv%C3%A9e-du-pape-en-france-plus-d-un-million-de-visiteurs-attendus",
+    "https://france24.com/fr/vid%C3%A9o/20260924-paris-se-pr%C3%A9pare-%C3%A0-la-visite-du-pape-l%C3%A9on-xiv",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/14-000-policiers-mobilises-10-stations-de-metro-fermees-le-dispositif-de-securite-xxl-pour-la-visite-du-pape_8207957.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/c-est-comme-une-reunion-de-famille-la-ferveur-monte-chez-les-fideles-a-24-heures-de-l-arrivee-du-pape_8207930.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/j-espere-vraiment-le-voir-a-lyon-des-fideles-se-preparent-a-rejoindre-paris-pour-la-venue-du-pape-leon-xiv_8205827.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/je-ne-pensais-pas-qu-il-y-aurait-autant-de-monde-c-est-genial-a-paris-les-benevoles-se-bousculent-pour-participer-a-la-visite-du-pape-leon-xiv_8207627.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/la-france-attire-le-pape-assure-le-president-de-la-conference-des-eveques-de-france-qui-se-dit-touche-par-la-ferveur-qui-se-developpe_8205971.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/la-joie-des-catholiques-est-aussi-la-notre-comment-les-autres-cultes-vont-s-associer-a-la-visite-du-pape-en-france_8203265.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/le-meilleur-mois-de-septembre-que-j-aie-jamais-fait-la-visite-du-pape-une-aubaine-pour-les-commercants_8206061.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-a-paris-une-visite-historique-sous-haute-securite_8206916.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/on-n-a-pas-detecte-de-menace-particuliere-autour-de-la-visite-du-pape-assure-le-ministre-de-l-interieur-laurent-nunez-sur-france-2_8206946.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-lourdes-attend-et-redoute-pour-certains-la-visite-du-pape_8207435.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/restrictions-de-circulation-et-de-stationnement-fermetures-de-stations-de-metro-comment-s-organiser-pour-la-venue-du-pape-leon-xiv-a-paris_8202749.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/stations-fermees-fouilles-policiers-et-gendarmes-les-chiffres-du-dispositif-de-securite-parisien-qui-encadrera-la-visite-du-pape_8207681.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/un-dispositif-de-securite-hors-norme-pour-la-visite-du-pape-leon-xiv-en-france_8205950.html",
+    "https://franceinfo.fr/monde/vatican/pape-leon-xiv/visite-de-leon-xiv-en-france-nous-n-avons-pas-detecte-de-menace-particuliere-affirme-laurent-nunez-qui-signale-neanmoins-un-gros-dispositif-policier-de-protection_8207024.html",
+    "https://franceinfo.fr/replay-jt/france-2/13-heures/ebenistes-fleuristes-les-artisans-sont-a-l-uvre-pour-la-venue-du-pape-leon-xiv_8204741.html",
+    "https://la-croix.com/a-vif/exclusif-visite-du-pape-en-france-le-message-de-bienvenue-des-autres-religions-a-leon-xiv-20260924",
+    "https://la-croix.com/a-vif/visite-de-leon-xiv-en-france-en-venant-a-metz-le-pape-honore-les-racines-de-l-europe-20260923",
+    "https://la-croix.com/a-vif/visite-du-pape-en-france-au-pays-de-la-soif-20260924",
+    "https://la-croix.com/culture/visite-du-pape-en-france-ou-voir-et-entendre-leon-xiv-dans-les-medias-20260924",
+    "https://la-croix.com/politique/leon-xiv-en-france-quels-politiques-iront-voir-le-pape-20260921",
+    "https://la-croix.com/politique/voyage-du-pape-quels-candidats-a-la-presidentielle-seront-presents-a-la-messe-20260923",
+    "https://la-croix.com/religion/cardinal-aveline-le-voyage-de-leon-xiv-en-france-apporte-un-remede-a-la-crise-spirituelle-20260922",
+    "https://la-croix.com/religion/exclusif-21-des-francais-veulent-voir-le-pape-leon-xiv-les-raisons-de-cet-engouement-20260923",
+    "https://la-croix.com/religion/le-jt-du-pape-toutes-les-emissions-pour-suivre-la-visite-de-leon-xiv-en-france-20260907",
+    "https://la-croix.com/religion/leon-xiv-en-france-messes-vepres-les-textes-choisis-pour-les-celebrations-du-pape-20260924",
+    "https://la-croix.com/religion/leon-xiv-pape-stade-france-veillee-info-date-heure-programme-messe-20260916",
+    "https://la-croix.com/religion/messe-pape-paris-leon-xiv-concorde-champs-elysees-ceremonie-celebration-20260918",
+    "https://la-croix.com/religion/notre-dame-stade-de-france-concorde-retrouvez-le-livret-des-celebrations-du-pape-a-paris-20260924",
+    "https://la-croix.com/religion/pape-a-paris-qui-va-consacrer-les-500-000-hosties-de-la-messe-de-leon-xiv-a-la-concorde-20260924",
+    "https://la-croix.com/religion/stephane-bern-qui-a-part-le-pape-est-capable-de-reunir-600-000-personnes-en-france-20260921",
+    "https://la-croix.com/religion/sur-la-route-de-leon-xiv-portrait-intime-du-pape-a-quelques-jours-de-sa-visite-en-france-20260922",
+    "https://la-croix.com/religion/visite-de-leon-xiv-en-france-tout-le-groupe-bayard-mobilise-pour-cet-evenement-exceptionnel-20260924",
+    "https://la-croix.com/religion/visite-du-pape-en-france-dans-les-coulisses-de-la-defense-aerienne-de-leon-xiv-au-mont-verdun-20260924",
+    "https://la-croix.com/religion/visite-du-pape-en-france-dans-quel-paysage-spirituel-arrive-leon-xiv-20260924",
+    "https://la-croix.com/religion/visite-du-pape-en-france-la-grande-mosquee-de-paris-consacrera-son-preche-a-leon-xiv-vendredi-20260923",
+    "https://la-croix.com/religion/visite-du-pape-en-france-leon-xiv-dormira-a-la-nonciature-un-lieu-discret-a-paris-20260924",
+    "https://la-croix.com/religion/visite-du-pape-en-france-qui-sont-les-reseaux-francais-de-leon-xiv-20260922",
+    "https://la-croix.com/religion/visite-du-pape-leon-xiv-en-france-12-questions-pour-comprendre-ce-qui-se-joue-20260923",
+    "https://la-croix.com/societe/a-l-occasion-de-la-visite-de-leon-xiv-a-paris-les-ecoles-catholiques-peuvent-elles-supprimer-les-cours-vendredi-20260922",
+    "https://lefigaro.fr/actualite-france/le-maire-de-paris-emmanuel-gregoire-va-rencontrer-le-pape-leon-xiv-pres-de-notre-dame-vendredi-20260924",
+    "https://lefigaro.fr/actualite-france/leon-xiv-de-paris-a-metz-en-passant-par-lourdes-tout-savoir-sur-la-visite-historique-du-pape-en-france-20260923",
+    "https://lefigaro.fr/actualite-france/leon-xiv-en-france-les-enjeux-d-une-visite-historique-20260924",
+    "https://lefigaro.fr/actualite-france/visite-de-leon-xiv-8-francais-sur-10-ont-une-bonne-opinion-du-pape-20260924",
+    "https://lefigaro.fr/actualite-france/vous-rejouissez-vous-de-la-visite-du-pape-leon-xiv-en-france-20260924",
+    "https://lefigaro.fr/conjoncture/place-de-la-concorde-ile-de-la-cite-stade-de-france-quelles-sont-les-restrictions-prevues-pour-la-visite-du-pape-a-paris-20260914",
+    "https://lemonde.fr/economie/article/2026/09/23/apres-celine-dion-leon-xiv-fait-a-son-tour-tourner-les-compteurs-du-tourisme_6780917_3234.html",
+    "https://lemonde.fr/histoire/article/2026/09/24/messe-du-pape-a-notre-dame-de-paris-retour-sur-l-histoire-d-une-cathedrale-devenue-theatre-politique_6781536_4655323.html",
+    "https://lemonde.fr/idees/article/2026/09/23/visite-du-pape-en-france-leon-xiv-propose-de-redonner-aux-racines-chretiennes-leur-pouvoir-unificateur-et-leur-fecondite-en-europe_6780905_3232.html",
+    "https://lemonde.fr/le-monde-des-religions/article/2026/09/22/visite-du-pape-a-paris-qui-etait-frere-laurent-de-la-resurrection-source-d-inspiration-pour-leon-xiv_6780094_6038514.html",
+    "https://lemonde.fr/m-le-mag/article/2026/09/23/visite-du-pape-en-france-dans-les-coulisses-des-trajets-en-avion-de-leon-xiv_6780927_4500055.html",
+    "https://lemonde.fr/podcasts/article/2026/09/23/le-pape-leon-xiv-en-france-les-enjeux-d-une-visite-historique_6780532_5463015.html",
+    "https://rfi.fr/fr/france/20260924-dix-choses-%C3%A0-savoir-sur-la-visite-du-pape-l%C3%A9on-xiv-en-france",
+    "https://rfi.fr/fr/france/20260924-l-engouement-pour-la-venue-du-pape-l%C3%A9on-xiv-reflet-d-un-regain-du-catholicisme-en-france",
+    "https://rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20260923-l%C3%A9on-xiv-en-france-une-visite-officielle-comme-une-autre",
+    "https://rfi.fr/fr/podcasts/reportage-france/20260922-l%C3%A9on-xiv-en-france-%C3%A0-la-maison-bakhita-la-visite-du-pape-pourrait-un-d%C3%A9clic-dans-le-parcours-de-vie-1-3",
+    "https://rfi.fr/fr/podcasts/reportage-france/20260923-visite-du-pape-en-france-ce-que-les-victimes-de-violences-sexuelles-attendent-de-l%C3%A9on-xiv-2-3",
+    "https://tf1info.fr/justice-faits-divers/visite-du-pape-leon-xiv-la-france-sous-tres-haute-securite-pendant-quatre-jours-des-milliers-de-forces-de-l-ordre-mobilisees-2466041.html"
+   ]
+  },
   {
    "id": "2026-09-24-alerte-01",
    "date": "2026-09-24",

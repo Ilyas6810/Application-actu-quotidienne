@@ -1,6 +1,62 @@
 {
- "maj": "2026-09-24T21:39:42Z",
+ "maj": "2026-09-25T11:58:53Z",
  "alertes": [
+  {
+   "id": "2026-09-25-alerte-03",
+   "date": "2026-09-25",
+   "publiee_a": "2026-09-25T11:58:53Z",
+   "titre": "Quatre ligues européennes de football réclament une réforme de la FIFA",
+   "texte": "Les championnats d'Angleterre, d'Espagne, d'Italie et d'Allemagne ont réclamé vendredi 25 septembre 2026 une réforme de la gouvernance de la fédération internationale de football. Les quatre ligues européennes s'opposent au président Gianni Infantino à la suite d'un projet abandonné d'ouverture à des investisseurs privés.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/calcio/26_settembre_25/infantino-fifa-serie-a-premier-liga-bundesliga-uefa-4ad5a1f1-3b7a-408a-be4f-815d10373xlk.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/futbol/cuatro-grandes-ligas-acusan-infantino-abuson-proteger-20260925122610-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/les-ligues-anglaise-espagnole-italienne-et-allemande-reclament-une-reforme-de-la-gouvernance-de-la-fifa_8209376.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/crise-a-la-fifa-les-quatre-grandes-ligues-europeennes-reclament-une-reforme-a-gianni-infantino-20260925_AWS5JQOQP5BDNGXDSDMPQNNCDA"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/09/25/fifa-les-ligues-anglaise-espagnole-italienne-et-allemande-reclament-une-reforme-de-la-gouvernance-de-l-instance_6782462_3242.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/-le-moment-est-venu-de-decider-la-maniere-dont-la-fifa-doit-etre-dirigee-les-quatre-grands-championnats-europeens-s-allient-contre-l-instance/1721121"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20260925-fifa-quatre-principales-ligues-europeennes-veulent-reforme-de-gouvernance-liga-seriea-premier-league-bundesliga"
+    }
+   ],
+   "cluster": "b5f7269d24392d04",
+   "urls": [
+    "https://abc.es/deportes/futbol/cuatro-grandes-ligas-acusan-infantino-abuson-proteger-20260925122610-nt.html",
+    "https://aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan",
+    "https://corriere.it/sport/calcio/26_settembre_25/infantino-fifa-serie-a-premier-liga-bundesliga-uefa-4ad5a1f1-3b7a-408a-be4f-815d10373xlk.shtml",
+    "https://france24.com/fr/sports/20260925-fifa-quatre-principales-ligues-europeennes-veulent-reforme-de-gouvernance-liga-seriea-premier-league-bundesliga",
+    "https://franceinfo.fr/sports/foot/les-ligues-anglaise-espagnole-italienne-et-allemande-reclament-une-reforme-de-la-gouvernance-de-la-fifa_8209376.html",
+    "https://lefigaro.fr/sports/football/crise-a-la-fifa-la-premier-league-la-liga-la-serie-a-et-la-bundesliga-reclament-une-reforme-de-la-gouvernance-20260925",
+    "https://lemonde.fr/sport/article/2026/09/25/fifa-les-ligues-anglaise-espagnole-italienne-et-allemande-reclament-une-reforme-de-la-gouvernance-de-l-instance_6782462_3242.html",
+    "https://lequipe.fr/Football/Actualites/-le-moment-est-venu-de-decider-la-maniere-dont-la-fifa-doit-etre-dirigee-les-quatre-grands-championnats-europeens-s-allient-contre-l-instance/1721121",
+    "https://lequipe.fr/Football/Actualites/Au-tour-de-quatre-grandes-ligues-europeennes-dont-la-premier-league-de-demander-une-large-reforme-de-la-fifa/1721032",
+    "https://liberation.fr/sports/football/crise-a-la-fifa-les-quatre-grandes-ligues-europeennes-reclament-une-reforme-a-gianni-infantino-20260925_AWS5JQOQP5BDNGXDSDMPQNNCDA",
+    "https://theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
+    "https://video.lefigaro.fr/figaro/sports/football/crise-a-la-fifa-la-fronde-des-ligues-europeennes-se-precise-20260925"
+   ]
+  },
   {
    "id": "2026-09-25-alerte-01",
    "date": "2026-09-25",

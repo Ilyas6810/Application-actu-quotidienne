@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-24T05:33:43Z",
- "derniere": "2026-09-24",
+ "maj": "2026-09-25T05:35:26Z",
+ "derniere": "2026-09-25",
  "editions": [
+  {
+   "date": "2026-09-25",
+   "genere_a": "2026-09-25T05:35:26Z",
+   "articles": 8,
+   "une": [
+    "Donald Trump et Xi Jinping entament des discussions stratégiques à Washington",
+    "Le Premier ministre israélien rejette les accusations de génocide à l ONU",
+    "Sommet entre Donald Trump et Xi Jinping à la Maison Blanche"
+   ],
+   "octets": 30503
+  },
   {
    "date": "2026-09-24",
    "genere_a": "2026-09-24T05:33:43Z",

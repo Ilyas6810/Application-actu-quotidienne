@@ -1,0 +1,418 @@
+{
+ "date": "2026-09-25",
+ "genere_a": "2026-09-25T05:35:26Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-25-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump et Xi Jinping entament des discussions stratégiques à Washington",
+   "chapeau": "Le président américain Donald Trump a accueilli son homologue chinois Xi Jinping à la Maison Blanche jeudi 24 septembre 2026 pour un sommet bilatéral. Les deux dirigeants ont abordé des dossiers majeurs tels que le commerce, l'intelligence artificielle et Taïwan.",
+   "corps": "Donald Trump a reçu le dirigeant chinois pour une visite d'État marquée par un accueil fastueux à Washington le 24 septembre 2026, selon The Straits Times (24/09/2026) et Folha de S.Paulo (24/09/2026).\n\nLe président américain a salué sa relation avec le dirigeant chinois lors de cette rencontre organisée à la Maison Blanche le 24 septembre 2026, d'après The Straits Times (24/09/2026). De son côté, Xi Jinping a prôné la coexistence pacifique entre les deux puissances tout en réaffirmant ses positions sur Taïwan lors de sa visite le 25 septembre 2026, selon RFI (25/09/2026).\n\nLes discussions ont également porté sur l'intelligence artificielle, le commerce et l'Iran, d'après ABC (24/09/2026) et Al Jazeera (25/09/2026). Les sources indiquent que les ambitions pour ce sommet étaient limitées et n'ont pas donné lieu à des annonces majeures sur le fond, selon Bloomberg (25/09/2026) et La Croix (24/09/2026).\n\nCertaines sources rapportent une prolongation de deux mois de la trêve commerciale entre les deux pays d'après ABC (24/09/2026), tandis que d'autres soulignent l'absence d'avancées significatives sur les dossiers stratégiques d'après La Croix (24/09/2026).\n\n## Ce que disent les sources\n\nABC (24/09/2026) mentionne une prolongation de deux mois de la trêve commerciale, alors que La Croix (24/09/2026) et Le Monde (25/09/2026) font état d'un statu quo sans avancée significative sur les dossiers essentiels.\n\nCertains détails sur le contenu précis des accords commerciaux conclus lors de la visite ne sont pas mentionnés dans l'ensemble des sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/video-verticali/trump-accoglie-xi-jinping-a-washington-e-la-prima-visita-del-leader-cinese-dal-2015/308f370a-c74a-41fa-b6b3-a380a3ab7xlk"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-xi-kick-off-state-visit-amid-tensions-over-ai-trade"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c914d17zn6kxo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/culture/2026/sep/24/seth-meyers-trump-praise-xi-jinping"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/trump-recebe-xi-na-casa-branca-com-votos-de-grande-amizade.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/donald-trump-recoit-xi-jinping-derriere-le-faste-un-statu-quo-sur-les-dossiers-strategiques-20260924"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/visite-de-xi-jinping-aux-etats-unis-la-chine-veut-exploiter-l-offensive-de-charme-de-donald-trump-20260924"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-reune-jinping-alargar-tregua-comercial-20260924170152-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-09-23T04:10:54Z",
+   "suite_de": "2026-09-24-geopolitique-001",
+   "mots": 303,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Premier ministre israélien rejette les accusations de génocide à l ONU",
+   "chapeau": "Le Premier ministre israélien Benyamin Nétanyahou s est exprimé devant l Assemblée générale des Nations unies le jeudi 24 septembre 2026 à New York. De nombreux délégués ont quitté la salle avant sa prise de parole.",
+   "corps": "Benyamin Nétanyahou a qualifié les accusations de génocide visant Israël de mensonge du siècle devant l Assemblée générale des Nations unies le 24 septembre 2026, selon Bloomberg et Deutsche Welle.\n\nPlusieurs délégués ont quitté la salle au moment où le dirigeant israélien s est approché de la tribune le 24 septembre 2026, d après Al Jazeera et la BBC. Benyamin Nétanyahou a qualifié ces personnes de lâches moraux, selon le journal El País et la BBC du 25 septembre 2026.\n\nLe Premier ministre israélien a également mis en cause le maire de New York, Zohran Mamdani, affirmant que les Juifs ne se sentent plus en sécurité dans la ville depuis son élection, d après Der Spiegel le 24 septembre 2026 et The Hindu le 25 septembre 2026.\n\nLe dirigeant a par ailleurs remercié le président américain Donald Trump pour son action, selon El País le 25 septembre 2026. Il a également répondu aux critiques émises par le président français Emmanuel Macron concernant la politique de son gouvernement et les violences en Cisjordanie occupée, d après Libération et Le Monde le 25 septembre 2026.\n\nLe dirigeant palestinien Mahmoud Abbas s est également exprimé lors de cette session de l ONU le 24 septembre 2026, dénonçant un plan colonial, selon Deutsche Welle et El País.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/unga-gaza-dominates-agenda-as-abbas-netanyahu-speak/live-79366211?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/benjamin-netanyahu-etliche-delegierte-verlassen-vor-rede-bei-der-uno-vollversammlung-den-saal-a-1f659f23-0245-4799-a44f-2655805a2619"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-24/netanyahu-facing-a-frosty-un-says-israel-must-fight-to-victory"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/a-la-tribune-de-lonu-un-netanyahou-isole-sen-prend-aux-detracteurs-disrael-20260924_STYRWAX4B5CNJFXOMQCFMRIZ3I"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3y0z7kxlegdo"
+    }
+   ],
+   "premiere_parution": "2026-09-23T18:54:13Z",
+   "suite_de": null,
+   "mots": 249,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump reçoit le président chinois Xi Jinping à la Maison-Blanche",
+   "chapeau": "Le président chinois Xi Jinping a commencé une visite d'État de trois jours aux États-Unis le 24 septembre 2026. Le président américain Donald Trump l'a accueilli à la base aérienne Andrews puis à la Maison-Blanche à Washington.",
+   "corps": "Le président des États-Unis Donald Trump a accueilli le président chinois Xi Jinping sur le tarmac de la base aérienne Andrews, située juste à l'extérieur de Washington. Cet accueil à l'aéroport constitue un geste rare de la part d'un dirigeant américain pour un chef d'État chinois. Le président américain a ensuite reçu son homologue à la Maison-Blanche pour des discussions bilatérales.\n\nLors du début de cette visite de trois jours, le dirigeant chinois a déclaré que la Chine et les États-Unis doivent être des partenaires et non des rivaux. Les médias d'État chinois ont rapporté ces propos dès le début du séjour. Xi Jinping a affirmé que les deux nations doivent éviter le conflit et la confrontation. Le dirigeant chinois a appelé à une coexistence pacifique entre les deux puissances.\n\nXi Jinping a proposé des mesures pour réduire les tensions mondiales entre Washington et Pékin. Le président chinois a évoqué le risque du piège de Thucydide. Ce concept désigne un risque de guerre lorsqu'une puissance émergente menace une puissance dominante. Le dirigeant chinois souhaite éviter un affrontement militaire entre les deux pays. Les tensions actuelles concernent l'intelligence artificielle, le commerce international et la situation de Taïwan.\n\nSur le sujet de la technologie, Xi Jinping a fait une déclaration spécifique sur l'intelligence artificielle. Il a affirmé que l'intelligence artificielle doit toujours rester sous contrôle humain. Sur le plan de la défense, le président chinois a préconisé la mise en place d'un dialogue militaire régulier avec les États-Unis. Selon le dirigeant chinois, ce dialogue permanent doit permettre d'éviter les crises entre les deux armées. Xi Jinping a également plaidé pour une forme saine de compétition entre les deux États.\n\nDonald Trump a évoqué la relation personnelle entre les deux chefs d'État. Le président américain a déclaré avoir construit une grande amitié avec Xi Jinping depuis sa première élection en 2016. Donald Trump a précisé que cette relation repose sur un respect mutuel et sur l'intérêt vital des populations des deux pays. Le président américain a qualifié les échanges d'excellente réunion lors des cérémonies d'accueil.\n\nPlusieurs personnalités officielles ont assisté aux réunions dans la première rangée face aux deux dirigeants. Le vice-président américain JD Vance et son épouse Usha Vance étaient présents. Ivanka Trump et sa fille Arabella assistaient aussi à la rencontre. Le secrétaire d'État américain Marco Rubio et le secrétaire au Trésor Scott Bessent figuraient également parmi les officiels américains présents dans la salle.\n\nCette rencontre au sommet entre les deux superpuissances intervient durant la semaine de l'Assemblée générale des Nations unies. Parallèlement à ces discussions, d'autres dirigeants mondiaux s'exprimaient à l'Organisation des Nations unies. Le Premier ministre israélien Benjamin Netanyahou a déclaré devant les Nations unies que Israël et les États-Unis ont lancé une guerre contre l'Iran pour sauver la civilisation.\n\nLes sources ne fournissent aucun détail sur les conclusions finales ou les accords signés à l'issue de ces trois jours de rencontre.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-greets-chinas-xi-in-rare-airport-welcome-to-kick-off-three-day-state-visit"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20260924/cd65a9036bd34a11ac0706dff2b1b335/c.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/china-us-donald-trump-xi-meet/article71502548.ece"
+    },
+    {
+     "nom": "philenews.com",
+     "url": "https://philenews.com/kosmos/article/1773866/https-www-philenews-com-kosmos-article-1773866-o-proedros-si-diloni-oti-i-kina-ke-i-ipa-tha-eprepe-na-ine-eteri-ochi-antipali-megaliodis-ipodochi-stin-ouasigkton-vinteo"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap"
+    },
+    {
+     "nom": "wdtimes.com",
+     "url": "https://wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_f6385ef2-343d-59a6-acf9-3fec26643f63.html"
+    },
+    {
+     "nom": "thegazette.com",
+     "url": "https://thegazette.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_b7c9365c-04dc-5e9a-a845-781f593792bd.html"
+    }
+   ],
+   "premiere_parution": "2026-09-23T22:01:08Z",
+   "suite_de": null,
+   "mots": 520,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Projet américain de suspension de l'exportation de diesel sur 90 jours",
+   "chapeau": "Le gouvernement des États-Unis étudie un projet visant à bloquer les exportations de diesel durant 90 jours pour réduire les prix nationaux. Cette mesure s'inscrit dans un marché mondial sous tension à la suite du conflit avec l'Iran et des frappes contre les raffineries russes.",
+   "corps": "Le président américain Donald Trump envisage d'interdire les ventes de diesel à l'étranger pour contenir les coûts intérieurs avant les élections de mi-mandat. Cette politique fait face à des réserves au sein de la présidence américaine et suscite des inquiétudes chez les acteurs de l'industrie pétrolière des États-Unis.\n\nSur le marché international, les prix atteignent des sommets en raison des perturbations au Moyen-Orient et des attaques de drones ukrainiens sur les sites pétroliers en Russie. La baisse des livraisons en provenance du Golfe réduit les approvisionnements mondiaux.\n\nUne interruption des livraisons américaines forcerait des pays acheteurs comme le Brésil et le Royaume-Uni à chercher d'autres fournisseurs. La mesure toucherait l'Europe et l'Amérique du Sud. Selon des analyses publiées le 24 septembre 2026 par Der Spiegel, les tarifs du carburant en Allemagne pourraient augmenter jusqu'à 25 %. D'après des projections citées par franceinfo le 24 septembre 2026, le prix du litre de gazole en France pourrait atteindre 3,90 euros. Le cours du diesel relevé le 24 septembre 2026 par La Croix s'établissait à 2,23 euros le litre.\n\nAu Sénat des États-Unis, le chef de la majorité républicaine John Thune a exprimé son ouverture à cette interdiction d'exporter.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/23/trump-overweegt-een-exportverbod-voor-diesel-doet-hij-dat-echt-dan-heeft-europa-een-probleem-a4937363"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-09-23/trump-ultima-un-plan-para-prohibir-las-exportaciones-de-diesel-durante-90-dias.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-23/trump-evalua-prohibir-exportaciones-de-diesel-de-ee-uu"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-eco/flambee-des-carburants-donald-trump-soutient-l-arret-des-exportations-de-diesel-americain-20260922"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/diesel-a-223-avec-les-menaces-de-trump-le-scenario-de-la-penurie-prend-de-l-ampleur-20260924"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/midterms-pour-donald-trump-la-tentation-tres-risquee-de-lembargo-sur-le-diesel-americain-20260924_JSGEJORPVJH3DE6H377EUHF6MQ"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/automobile/essence/crise-des-carburants-d-ou-vient-le-scenario-du-litre-a-3-90-euros_8208563.html"
+    }
+   ],
+   "premiere_parution": "2026-09-23T00:04:00Z",
+   "suite_de": "2026-09-24-monde-003",
+   "mots": 242,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Sommet entre Donald Trump et Xi Jinping à la Maison Blanche",
+   "chapeau": "Le président américain Donald Trump et son homologue chinois Xi Jinping se sont rencontrés à Washington pour discuter de commerce et de géopolitique. Les deux dirigeants ont tenu ce sommet le jeudi 24 septembre 2026.",
+   "corps": "Après une arrivée marquée par un accueil officiel le jeudi 24 septembre 2026 selon El País, les présidents des deux plus grandes économies mondiales ont engagé des discussions à la Maison Blanche d'après Deutsche Welle.\n\nLes sujets abordés incluent les échanges commerciaux, l'intelligence artificielle qui désigne les technologies simulant l'intelligence humaine, ainsi que la situation à Taïwan et en Iran d'après The Hindu du 23 septembre 2026 à 14:33 et El País du 24 septembre 2026 à 07:59.\n\nNikkei Asia rapporte le 24 septembre 2026 à 21:11 que les deux dirigeants ont appelé à la coopération entre les États-Unis et la Chine lors de leur réunion. Bloomberg indique le 25 septembre 2026 à 00:53 que la rencontre visait à maintenir les relations bilatérales sur une trajectoire stable.\n\n## Ce que disent les sources\n\nAl Jazeera note le 25 septembre 2026 à 03:51 que les divergences sur le commerce, Taïwan et l'Iran restent irrésolues malgré la recherche de stabilité. The Guardian souligne de son côté le 25 septembre 2026 à 07:08 que la visite a comporté une forte charge symbolique mais qu'aucun accord majeur n'a été annoncé sur les dossiers épineux.\n\nLes sources ne précisent pas la durée exacte de la réunion à huis clos.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-xi-summit-washington-visit-2026-key-agenda-itinerary-everything-to-know/article71494934.ece"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-23/alfombra-roja-flores-y-trump-asi-ha-sido-la-llegada-de-xi-jinping-a-washington.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-leaders-call-for-us-china-cooperation-at-white-house"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-09-24/trump-hosts-china-s-xi-with-trade-ai-taiwan-in-focus-video"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c38xk275jd21o"
+    }
+   ],
+   "premiere_parution": "2026-09-23T10:33:01Z",
+   "suite_de": "2026-09-24-geopolitique-001",
+   "mots": 244,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Huit marins ont tenté de se suicider sur l'Abraham Lincoln",
+   "chapeau": "La marine américaine a confirmé huit tentatives de suicide de marins affectés au groupe aéronaval du porte-avions USS Abraham Lincoln au Moyen-Orient. Les faits ont été officialisés le 24 septembre 2026 dans une lettre transmise par les autorités militaires à une élue du Congrès.",
+   "corps": "Le secrétaire par intérim de la marine des États-Unis Hung Cao a adressé une lettre à la sénatrice Kirsten Gillibrand. Dans cette réponse écrite, l'autorité militaire signale huit tentatives de suicide parmi les membres de l'équipage mobilisés au sein du groupe aéronaval. Le responsable militaire soutient que le personnel disposait d'un soutien psychologique suffisant pendant cette mission.\n\nLe navire a opéré au Moyen-Orient dans le contexte de la guerre contre l'Iran. D'après un décompte publié par The Straits Times le 24 septembre 2026 à 19 h 46, cette mission maritime a duré 286 jours consécutifs en mer. Selon des informations rapportées par Al Jazeera le 24 septembre 2026 à 14 h 53, l'équipage compte environ 5 000 marins et n'a bénéficié que d'une unique et courte escale technique.\n\nLes alertes sur l'état des marins et les conditions de vie à bord ont commencé au printemps. Selon franceinfo le 24 septembre 2026 à 12 h 59, des familles de militaires et des marins avaient signalé la situation dès le mois d'avril 2026. En août 2026, des proches de marins et des parlementaires ont dénoncé une détresse psychologique importante ainsi que des pénuries de vivres et un état d'hygiène insuffisant à bord du bâtiment de guerre.\n\nFace à ces critiques, Donald Trump a rejeté les signalements au mois d'août 2026. L'exécutif américain ainsi que la direction du Pentagone ont contesté la gravité des faits dénoncés par les familles pendant plusieurs mois, avant l'envoi de la lettre officielle à la sénatrice Gillibrand.\n\n## Ce que disent les sources\n\nLes publications ne s'accordent pas exactement sur la durée totale du déploiement militaire. Selon un article publié par franceinfo le 24 septembre 2026 à 12 h 59, le porte-avions a passé neuf mois en mer. D'après Al Jazeera le 24 septembre 2026 à 14 h 53, la mission a duré plus de neuf mois. Le quotidien Libération indique quant à lui, le 24 septembre 2026 à 10 h 26, une période de dix mois s'étendant de novembre 2025 à septembre 2026. Enfin, The Straits Times rapporte le 24 septembre 2026 à 19 h 46 un total précis de 286 jours consécutifs en mer d'après les chiffres transmis par le Pentagone.\n\nLes sources ne précisent pas la date exacte de chaque tentative de suicide ni l'état de santé actuel des huit marins.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cr3wj0px283xo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/24/a-bord-de-l-abraham-lincoln-huit-tentatives-de-suicide-pendant-le-long-deploiement-au-moyen-orient-selon-la-marine-americaine_6781256_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/8-sailors-in-uss-lincoln-strike-group-attempted-suicide-navy-says"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/uss-abraham-lincoln-pentagon-raeumt-suizidversuche-von-crewmitgliedern-ein-a-0bc51e3d-5b1f-4fb3-9d61-1d74e4b91ec0"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/porte-avions-abraham-lincoln-le-gouvernement-americain-reconnait-huit-tentatives-de-suicide-20260924_7EFUKLSXBJFLHL5RMXN6AQ3EDA"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-radio/histoire-du-jour/apres-neuf-mois-en-mer-washington-reconnait-huit-tentatives-de-suicide-a-bord-du-porte-avions-abraham-lincoln_8207387.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/24/us-navy-confirms-eight-suicide-attempts-on-uss-lincoln-what-we-know"
+    }
+   ],
+   "premiere_parution": "2026-09-23T12:00:00Z",
+   "suite_de": null,
+   "mots": 429,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Le president americain Donald Trump recoit Xi Jinping a Washington",
+   "chapeau": "Le president americain Donald Trump a recu le dirigeant chinois Xi Jinping lors d'un diner d'Etat a la Maison-Blanche jeudi 24 septembre 2026. Cet evenement a reuni des responsables politiques et des dirigeants d'entreprises technologiques.",
+   "corps": "Le president americain Donald Trump a organise un diner d'Etat pour honorer le dirigeant chinois Xi Jinping jeudi 24 septembre 2026, selon Bloomberg du 25 septembre 2026. Cette rencontre fait suite a un sommet entre les deux dirigeants.\n\nPlusieurs figures majeures du secteur technologique et financier ont participe a ce repas a la Maison-Blanche, d'apres les informations de Bloomberg du 25 septembre 2026. Parmi les convives figurent Jeff Bezos, Elon Musk, Jensen Huang, Tim Cook, Sam Altman, Mark Zuckerberg ainsi que le directeur general de Pfizer, Albert Bourla, selon The Straits Times des 23 et 25 septembre 2026.\n\nPlus de 130 personnes ont assisté a ce banquet qui comptait des responsables americains et chinois, d'apres The Straits Times du 25 septembre 2026. Les discussions ont notamment porte sur le commerce et l'intelligence artificielle, qui signifie un systeme informatique imitant l'intelligence humaine, selon The Hindu du 25 septembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-22/meta-s-mark-zuckerberg-to-join-tech-leaders-at-trump-xi-dinner"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/pfizers-bourla-among-tech-bank-ceos-set-for-trumps-state-dinner-for-xi"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/donald-trump-hosts-xi-jinping-for-state-dinner-with-tech-titans-follow-live/live-79404511?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-hosts-xi-for-state-dinner-as-pomp-masks-tensions/article71506872.ece"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-president-hosts-state-dinner-with-tech-leaders"
+    }
+   ],
+   "premiere_parution": "2026-09-22T18:44:30Z",
+   "suite_de": null,
+   "mots": 183,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-25-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Le Sénat américain rejette un texte pour stopper la guerre en Iran",
+   "chapeau": "Le Sénat des États-Unis a rejeté à Washington, le jeudi 24 septembre 2026, une résolution portée par les démocrates afin de contraindre le président Donald Trump à cesser la guerre contre l'Iran. Cette décision parlementaire survient alors que le président iranien, Masoud Pezeshkian, a déclaré le même jour que son pays était disposé à conclure un accord pour arrêter les combats.",
+   "corps": "Le vote s'est soldé par un rejet de la mesure au Sénat américain. Les élus ont rejeté le texte par 49 voix contre 50, selon les données publiées par le journal britannique The Guardian le 25 septembre 2026. La Chambre des représentants avait pourtant validé ce projet la semaine précédente avec un appui provenant des deux principaux partis politiques. Le texte visait à limiter les pouvoirs de guerre du président en lui imposant de demander l'autorisation du Congrès, l'assemblée des élus américains, pour poursuivre les hostilités.\n\nLes démocrates ont organisé ce scrutin pour placer les républicains dans une position délicate avant les élections de mi-mandat prévues en novembre. Selon la radio américaine NPR le 24 septembre 2026, ce vote constitue l'un des derniers actes du Sénat avant ces élections. Plusieurs membres du parti républicain ont commencé à prendre leurs distances avec Donald Trump en raison de la persistance de ce conflit armé.\n\nLa confrontation militaire dure depuis plusieurs mois. Le conflit a franchi le seuil des 200 jours de combats, d'après les informations fournies par le journal The Guardian le 25 septembre 2026. Cette même source indique que 19 membres des forces armées des États-Unis ont été tués depuis le commencement des hostilités.\n\nEn parallèle, le président de l'Iran s'est exprimé sur la situation lors d'une interview diffusée le jeudi 24 septembre 2026 sur la chaîne de télévision américaine Fox News. Masoud Pezeshkian a affirmé que la décision de stopper les hostilités reposait désormais uniquement sur les choix du gouvernement des États-Unis. Le dirigeant iranien a insisté sur le fait que la République islamique d'Iran ne souhaitait pas prolonger les affrontements militaires. Il a également affirmé que son pays était prêt à négocier et à conclure un accord avec Donald Trump pour mettre un terme définitif à cette guerre.\n\nLes sources ne mentionnent pas le nombre de victimes au sein de la population ou de l'armée iranienne.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/us-democrats-tee-up-pre-election-war-powers-vote-as-some-republicans-break-with-trump-on-iran"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/24/senate-war-powers-vote-fail"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/presidente-do-ira-afirma-que-cabe-aos-eua-encerrar-guerra-no-oriente-medio.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/irans-president-says-it-is-up-to-us-to-choose-if-it-wants-to-end-iran-war/article71506919.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-24T11:06:46Z",
+   "suite_de": null,
+   "mots": 378,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-25-monde-001",
+  "2026-09-25-monde-002",
+  "2026-09-25-geopolitique-001",
+  "2026-09-25-geopolitique-002",
+  "2026-09-25-geopolitique-003",
+  "2026-09-25-monde-003",
+  "2026-09-25-monde-004",
+  "2026-09-25-geopolitique-004"
+ ]
+}

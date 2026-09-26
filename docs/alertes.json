@@ -1,6 +1,104 @@
 {
- "maj": "2026-09-26T05:03:45Z",
+ "maj": "2026-09-26T21:17:52Z",
  "alertes": [
+  {
+   "id": "2026-09-27-alerte-01",
+   "date": "2026-09-27",
+   "publiee_a": "2026-09-26T21:16:39Z",
+   "titre": "La cycliste Demi Vollering gagne les championnats du monde sur route à Montréal",
+   "texte": "La Néerlandaise Demi Vollering a remporté la course en ligne féminine des championnats du monde à Montréal, le samedi 26 septembre 2026. La coureuse a battu la Polonaise Katarzyna Niewiadoma au sprint final sur le tracé canadien.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/ciclismo/vollering-reina-montreal-desgracia-ceba-paula-blasi-20260926201855-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20260926-championnat-du-monde-de-cyclisme-la-n%C3%A9erlandaise-demi-vollering-couronn%C3%A9e"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/2026/sep/26/demi-vollering-seals-dramatic-womens-road-race-world-title-in-montreal"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/ciclismo/2026-09-26/demi-vollering-alcanza-en-montreal-el-arcoiris-que-corona-una-gran-carrera.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Cyclisme-sur-route/Actualites/Demi-vollering-championne-du-monde-apres-une-course-renversante-je-n-ai-jamais-renonce/1721517"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/09/26/un-premier-titre-de-championne-du-monde-pour-demi-vollering-couronnement-d-une-saison-de-tous-les-triomphes_6783544_3242.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/cyclisme/mondiaux/demi-vollering-sacree-championne-du-monde-de-cyclisme-pour-la-premiere-fois-a-montreal_8211320.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo"
+    }
+   ],
+   "cluster": "408124fa81637d19",
+   "urls": [
+    "https://abc.es/deportes/ciclismo/vollering-reina-montreal-desgracia-ceba-paula-blasi-20260926201855-nt.html",
+    "https://bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo",
+    "https://elpais.com/deportes/ciclismo/2026-09-26/demi-vollering-alcanza-en-montreal-el-arcoiris-que-corona-una-gran-carrera.html",
+    "https://franceinfo.fr/sports/cyclisme/mondiaux/demi-vollering-sacree-championne-du-monde-de-cyclisme-pour-la-premiere-fois-a-montreal_8211320.html",
+    "https://lefigaro.fr/sports/cyclisme/cyclisme-la-neerlandaise-demi-vollering-sur-le-toit-du-monde-20260926",
+    "https://lemonde.fr/sport/article/2026/09/26/un-premier-titre-de-championne-du-monde-pour-demi-vollering-couronnement-d-une-saison-de-tous-les-triomphes_6783544_3242.html",
+    "https://lemonde.fr/sport/live/2026/09/26/en-direct-mondiaux-de-cyclisme-suivez-la-course-en-ligne-femmes_6783134_3242.html",
+    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Au-bout-du-suspense-la-neerlandaise-demi-vollering-sacree-championne-du-monde-pour-la-premiere-fois/1721503",
+    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Demi-vollering-championne-du-monde-apres-une-course-renversante-je-n-ai-jamais-renonce/1721517",
+    "https://lequipe.fr/Cyclisme-sur-route/Article/Niewiadoma-le-court-reusser-qui-peut-empecher-l-intouchable-demi-vollering-d-etre-championne-du-monde/1721234",
+    "https://liberation.fr/sports/cyclisme/demi-vollering-championne-du-monde-de-cyclisme-au-terme-dune-saison-pleine-20260926_6A7TSQ2JGZD33NHPA2ITSAIW5A",
+    "https://nrc.nl/nieuws/2026/09/25/als-demi-vollering-het-wk-wint-betaalt-ze-haar-ploeggenoten-een-bonus-uit-eigen-zak-zo-graag-wil-ze-winnen-a4937250",
+    "https://nrc.nl/nieuws/2026/09/26/demi-vollering-grijpt-wereldtitel-wk-wielrennen-a4937609",
+    "https://rfi.fr/fr/sports/20260926-championnat-du-monde-de-cyclisme-la-n%C3%A9erlandaise-demi-vollering-couronn%C3%A9e",
+    "https://theguardian.com/sport/2026/sep/26/demi-vollering-seals-dramatic-womens-road-race-world-title-in-montreal"
+   ]
+  },
+  {
+   "id": "2026-09-27-alerte-02",
+   "date": "2026-09-27",
+   "publiee_a": "2026-09-26T21:17:52Z",
+   "titre": "Cassandre Beaugrand s'adjuge un deuxième titre mondial de triathlon en Espagne",
+   "texte": "La triathlète française Cassandre Beaugrand a gagné la finale des championnats du monde samedi à Pontevedra en Espagne. Elle décroche ainsi son deuxième sacre planétaire après son succès obtenu en 2024.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Triathlon/Actualites/Intouchable-cassandre-beaugrand-decroche-son-deuxieme-titre-mondial/1721500"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/triathlon/cassandre-beaugrand-sacree-championne-du-monde-de-triathlon-pour-la-deuxieme-fois-de-sa-carriere_8211443.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://video.lefigaro.fr/figaro/sports/athletisme/la-championne-olympique-de-triathlon-cassandre-beaugrand-remporte-un-deuxieme-titre-mondial-20260926"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/09/26/triathlon-un-deuxieme-titre-mondial-pour-cassandre-beaugrand-deux-ans-apres-son-triomphe-a-paris-2024_6783509_3242.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20260926-triathlon-cassandre-beaugrand-s-offre-un-2e-titre-mondial-au-terme-d-une-ann%C3%A9e-parfaite"
+    }
+   ],
+   "cluster": "11371c29a6db701e",
+   "urls": [
+    "https://france24.com/fr/sports/20260926-triathlon-cassandre-beaugrand-s-offre-un-2e-titre-mondial-au-terme-d-une-ann%C3%A9e-parfaite",
+    "https://franceinfo.fr/sports/triathlon/cassandre-beaugrand-sacree-championne-du-monde-de-triathlon-pour-la-deuxieme-fois-de-sa-carriere_8211443.html",
+    "https://lefigaro.fr/sports/athletisme/triathlon-la-francaise-cassandre-beaugrand-s-adjuge-un-deuxieme-titre-mondial-20260926",
+    "https://lemonde.fr/sport/article/2026/09/26/triathlon-un-deuxieme-titre-mondial-pour-cassandre-beaugrand-deux-ans-apres-son-triomphe-a-paris-2024_6783509_3242.html",
+    "https://lequipe.fr/Triathlon/Actualites/De-ses-detours-en-athletisme-a-la-victoire-lors-de-la-grande-finale-en-triathlon-cassandre-beaugrand-la-championne-qui-ne-sait-plus-perdre/1721552",
+    "https://lequipe.fr/Triathlon/Actualites/Intouchable-cassandre-beaugrand-decroche-son-deuxieme-titre-mondial/1721500",
+    "https://video.lefigaro.fr/figaro/sports/athletisme/la-championne-olympique-de-triathlon-cassandre-beaugrand-remporte-un-deuxieme-titre-mondial-20260926"
+   ]
+  },
   {
    "id": "2026-09-26-alerte-03",
    "date": "2026-09-26",
@@ -1089,235 +1187,6 @@
     "https://ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
     "https://spiegel.de/ausland/donald-trump-kuendigt-ai-force-zur-ki-ueberwachung-an-a-e2cf0663-c5a1-404b-8910-8605336743e1",
     "https://theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
-   ]
-  },
-  {
-   "id": "2026-09-19-alerte-02",
-   "date": "2026-09-19",
-   "publiee_a": "2026-09-18T23:25:39Z",
-   "titre": "Les États-Unis et le Danemark s'accordent sur la sécurité du Groenland",
-   "texte": "Les gouvernements américain et danois ont annoncé samedi 19 septembre un accord de sécurité concernant le Groenland. Ce pacte confie de manière permanente le contrôle de la sécurité de l'île aux États-Unis.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/09/18/vs-en-denemarken-sluiten-akkoord-over-amerikaanse-controle-groenland-a4937079"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c63d7lexyym1o"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/us-and-denmark-reach-deal-on-greenland-trump/article71482588.ece"
-    }
-   ],
-   "cluster": "fb11dd626b454ab0",
-   "urls": [
-    "https://abc.es/internacional/trump-anuncia-acuerdo-dinamarca-tener-control-permanente-20260918235041-nt.html",
-    "https://aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland",
-    "https://bbc.co.uk/news/articles/c63d7lexyym1o",
-    "https://bloomberg.com/news/articles/2026-09-18/trump-says-he-reached-security-deal-on-greenland-with-denmark",
-    "https://dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html",
-    "https://france24.com/fr/europe/20260918-donald-trump-groenland-danemark-etats-unis-accord-controle-permanent-securite",
-    "https://franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html",
-    "https://ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
-    "https://lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919",
-    "https://lefigaro.fr/international/trump-annonce-un-accord-avec-le-danemark-sur-le-groenland-20260919",
-    "https://lemonde.fr/international/article/2026/09/18/donald-trump-affirme-avoir-obtenu-un-controle-permanent-de-washington-sur-la-securite-du-groenland_6776878_3210.html",
-    "https://nrc.nl/nieuws/2026/09/18/vs-en-denemarken-sluiten-akkoord-over-amerikaanse-controle-groenland-a4937079",
-    "https://rfi.fr/fr/am%C3%A9riques/20260918-groenland-donald-trump-annonce-un-accord-pour-renforcer-la-pr%C3%A9sence-militaire-am%C3%A9ricaine",
-    "https://spiegel.de/ausland/daenemark-und-usa-verkuenden-einigung-im-groenland-streit-a-3b1862ed-e331-4dde-8265-e5ec805254b6",
-    "https://straitstimes.com/world/europe/us-and-denmark-close-in-on-a-greenland-deal-sources-say",
-    "https://theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-    "https://theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
-    "https://thehindu.com/news/international/us-and-denmark-reach-deal-on-greenland-trump/article71482588.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/09/trump-anuncia-acordo-com-dinamarca-para-ampliar-presenca-militar-na-groenlandia.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-19-alerte-03",
-   "date": "2026-09-19",
-   "publiee_a": "2026-09-18T23:25:46Z",
-   "titre": "Donald Trump promulgue une loi de sanctions contre la Russie",
-   "texte": "Le président américain Donald Trump a promulgué vendredi 18 septembre 2026 à Washington un texte prévoyant des sanctions contre la Russie. Cette législation autorise l'exécutif des États-Unis à instaurer des droits de douane contre les pays clients des hydrocarbures russes.",
-   "sources": [
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.com/news/2026/09/16/house-russia-sanctions-bill-trump-01081210"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-09-18/trump-signs-russia-sanctions-bill-granting-new-tariff-powers"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece"
-    },
-    {
-     "nom": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs"
-    }
-   ],
-   "cluster": "a9bce032e6a2d3b1",
-   "urls": [
-    "https://abc13.com/post/house-vote-today-congress-approves-sweeping-russia-sanctions-bill-named-lindsey-graham-sending-president-trump/19841556",
-    "https://aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia",
-    "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
-    "https://bloomberg.com/news/articles/2026-09-16/house-passes-bill-allowing-trump-tariffs-on-russian-oil-buyers",
-    "https://bloomberg.com/news/articles/2026-09-18/trump-signs-russia-sanctions-bill-granting-new-tariff-powers",
-    "https://cbs2iowa.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
-    "https://dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-xml-mrss",
-    "https://koreaherald.com/article/10877048",
-    "https://krcrtv.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
-    "https://ktul.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
-    "https://news4sanantonio.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
-    "https://newsday.com/news/nation/sanctions-russia-ukraine-house-tariffs-china-h64009",
-    "https://npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
-    "https://politico.com/news/2026/09/16/house-russia-sanctions-bill-trump-01081210",
-    "https://straitstimes.com/world/europe/trump-signs-russia-sanctions-bill-into-law",
-    "https://theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill",
-    "https://thehindu.com/news/international/china-opposes-us-sanctions-bill-says-will-not-accept-long-arm-jurisdiction/article71477998.ece",
-    "https://thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece",
-    "https://thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece",
-    "https://thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
-    "https://thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece",
-    "https://thehindu.com/news/national/mea-monitoring-developments-of-russia-sanctions-bill-in-us-congress/article71475348.ece",
-    "https://thehindu.com/news/national/us-pressure-mounts-modi-govt-keeps-surrendering-mallikarjun-kharge-on-russia-sanctions-bill/article71471826.ece",
-    "https://timesleader.com/news/1755382/house-approves-sweeping-russia-sanctions-bill-sending-it-to-trump",
-    "https://wapt.com/article/house-passes-sanctions-bill-targeting-russia/73765078",
-    "https://wcti12.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage",
-    "https://wset.com/news/nation-world/lindsey-graham-sanctioning-russia-and-iran-act-heads-to-trump-after-house-passage"
-   ]
-  },
-  {
-   "id": "2026-09-19-alerte-01",
-   "date": "2026-09-19",
-   "publiee_a": "2026-09-18T21:01:26Z",
-   "titre": "Zinédine Zidane annonce sa première liste avec l'équipe de France",
-   "texte": "Le nouveau sélectionneur Zinédine Zidane a communiqué vendredi 18 septembre une liste de 23 joueurs sélectionnés en équipe de France. Kylian Mbappé conserve son rôle de capitaine pour les prochains matchs de la Ligue des nations.",
-   "sources": [
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/sport/equipe-de-france-zinedine-zidane-presente-sa-premiere-liste-avec-kylian-mbappe-en-capitaine-20260918"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20260918-replay-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-en-tant-que-s%C3%A9lectionneur-de-l-%C3%A9quipe-de-france"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/on-va-faire-differemment-zidane-devoile-sa-premiere-liste-pour-lequipe-de-france-20260918_XOTMTI3FWBFKBAPKCPU74CEXG4"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/futbol/primer-incendio-zidane-seleccion-francia-20260917193905-nt.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Huit-rennais-dans-la-premiere-liste-de-zinedine-zidane-en-tant-que-selectionneur/1719661"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-tchouameni-kante-thuram-en-images-les-grands-absents-de-la-liste-de-zidane-20260918"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/football/article/2026/09/18/zinedine-zidane-joue-l-ouverture-et-mise-sur-la-jeunesse-pour-sa-premiere-liste-avec-l-equipe-de-france_6776845_1616938.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/zinedine-zidane/nouveaux-visages-fin-du-defile-ce-qu-il-faut-retenir-de-la-premiere-liste-de-zidane_8199872.html"
-    }
-   ],
-   "cluster": "061dbd52d894608f",
-   "urls": [
-    "https://abc.es/deportes/futbol/primer-incendio-zidane-seleccion-francia-20260917193905-nt.html",
-    "https://france24.com/fr/sports/20260918-%C3%A9quipe-de-france-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-des-bleus",
-    "https://france24.com/fr/vid%C3%A9o/20260918-football-la-premi%C3%A8re-liste-des-bleus-de-zin%C3%A9dine-zidane-attendue",
-    "https://france24.com/fr/vid%C3%A9o/20260918-football-le-nouveau-s%C3%A9lectionneur-des-bleus-va-tout-donner-pour-qu-ils-continuent-%C3%A0-gagner",
-    "https://france24.com/fr/vid%C3%A9o/20260918-france-dans-l-attente-de-la-premi%C3%A8re-copie-de-zin%C3%A9dine-zidane-ic%C3%B4ne-du-foot-tricolore",
-    "https://france24.com/fr/vid%C3%A9o/20260918-replay-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-en-tant-que-s%C3%A9lectionneur-de-l-%C3%A9quipe-de-france",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/chaque-mot-est-analyse-avant-la-premiere-de-liste-de-zinedine-zidane-d-anciens-de-l-equipe-de-france-racontent-cet-exercice-tres-particulier_8198633.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/direct-premiere-liste-de-zinedine-zidane-le-nouveau-selectionneur-de-l-equipe-de-france-devoile-a-18-heures-sa-selection-pour-les-matchs-face-a-la-turquie-la-belgique-et-l-italie_8198774.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/equipe-de-france-zinedine-zidane-devoile-sa-premiere-liste-avec-esteban-lepaul-et-lucas-da-cunha-mais-sans-n-golo-kante-ni-les-freres-hernandez_8199149.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/il-fait-l-unanimite-depuis-toujours-zinedine-zidane-un-nouveau-selectionneur-intouchable-a-la-tete-de-l-equipe-de-france_8192051.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/malgre-une-volonte-de-continuite-affirmee-zinedine-zidane-marque-une-rupture-avec-l-ere-deschamps-des-sa-premiere-liste_8199710.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/portrait-esteban-lepaul-la-trajectoire-sinueuse-de-l-ancien-amateur-jusqu-a-l-equipe-de-france_8197112.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/quel-role-aura-kylian-mbappe-en-attaque-dans-l-equipe-de-france-de-zinedine-zidane_8199839.html",
-    "https://franceinfo.fr/sports/foot/zinedine-zidane/j-ai-envie-de-le-voir-de-plus-pres-explique-zinedine-zidane-apres-avoir-selectionne-esteban-lepaul-avec-les-bleus_8199656.html",
-    "https://franceinfo.fr/sports/foot/zinedine-zidane/nouveaux-visages-fin-du-defile-ce-qu-il-faut-retenir-de-la-premiere-liste-de-zidane_8199872.html",
-    "https://franceinfo.fr/sports/foot/zinedine-zidane/zidane-je-vais-me-consacrer-a-cette-tache-qui-est-celle-du-selectionneur_8199758.html",
-    "https://la-croix.com/sport/equipe-de-france-zinedine-zidane-presente-sa-premiere-liste-avec-kylian-mbappe-en-capitaine-20260918",
-    "https://lefigaro.fr/sports/football/equipe-de-france/5-neophytes-des-choix-forts-et-un-autre-style-ce-que-revele-la-premiere-liste-de-zinedine-zidane-a-la-tete-des-bleus-20260918",
-    "https://lefigaro.fr/sports/football/equipe-de-france/en-direct-equipe-de-france-zidane-va-devoiler-sa-premiere-liste-qui-sera-appele-chez-les-bleus-20260918",
-    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-20260918",
-    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-lepaul-jacquet-le-fee-ces-nouveaux-qui-postulent-pour-la-premiere-liste-de-zidane-20260917",
-    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-parmi-les-nouveaux-de-la-liste-de-zinedine-zidane-quel-choix-vous-excite-le-plus-20260918",
-    "https://lefigaro.fr/sports/football/equipe-de-france/equipe-de-france-tchouameni-kante-thuram-en-images-les-grands-absents-de-la-liste-de-zidane-20260918",
-    "https://lefigaro.fr/sports/football/equipe-de-france/premiere-liste-de-zidane-quel-nouveau-souhaitez-vous-voir-le-plus-en-equipe-de-france-20260917",
-    "https://lefigaro.fr/sports/football/equipe-de-france/surprises-ruptures-noyau-dur-quelle-premiere-liste-de-zidane-avec-les-bleus-20260917",
-    "https://lemonde.fr/football/article/2026/09/18/zinedine-zidane-joue-l-ouverture-et-mise-sur-la-jeunesse-pour-sa-premiere-liste-avec-l-equipe-de-france_6776845_1616938.html",
-    "https://lemonde.fr/sport/article/2026/09/18/zinedine-zidane-appelle-esteban-lepaul-et-cinq-autres-nouveaux-pour-sa-premiere-liste-a-la-tete-des-bleus_6776828_3242.html",
-    "https://lemonde.fr/sport/article/2026/09/18/zinedine-zidane-va-devoiler-sa-premiere-liste-de-joueurs-et-endosser-pleinement-le-costume-de-selectionneur-des-bleus_6776778_3242.html",
-    "https://lemonde.fr/sport/video/2026/09/18/en-images-la-premiere-liste-des-bleus-donnee-par-zidane_6776839_3242.html",
-    "https://lequipe.fr/Football/Actualites/-j-aime-beaucoup-mbappe-a-gauche-les-mots-de-zinedine-zidane-apres-avoir-devoile-sa-premiere-liste-en-tant-que-selectionneur-des-bleus/1719636",
-    "https://lequipe.fr/Football/Actualites/De-michel-platini-a-didier-deschamps-en-passant-par-roger-lemerre-les-premieres-listes-des-selectionneurs-des-bleus/1718815",
-    "https://lequipe.fr/Football/Actualites/Huit-rennais-dans-la-premiere-liste-de-zinedine-zidane-en-tant-que-selectionneur/1719661",
-    "https://lequipe.fr/Football/Actualites/Les-lensois-udol-et-ganiou-lepaul-plutot-que-thuram-le-retour-de-camavinga-decouvrez-la-liste-des-internautes-pour-les-debuts-de-zidane-a-la-tete-des-bleus/1719498",
-    "https://lequipe.fr/Football/Actualites/Zinedine-zidane-selectionneur-des-bleus-avec-barthez-on-parle-le-meme-football/1719620",
-    "https://lequipe.fr/Football/Article/Lepaul-jacquet-truffert-qui-dans-la-premiere-liste-des-bleus-de-zinedine-zidane/1719364",
-    "https://lequipe.fr/Football/Article/Les-coulisses-de-la-preparation-de-la-premiere-liste-de-zinedine-zidane-avec-les-bleus/1719418",
-    "https://lequipe.fr/Football/actu-en-direct/bleus-live/20106",
-    "https://lequipe.fr/special/selection/liste-ZZ",
-    "https://liberation.fr/sports/football/on-va-faire-differemment-zidane-devoile-sa-premiere-liste-pour-lequipe-de-france-20260918_XOTMTI3FWBFKBAPKCPU74CEXG4",
-    "https://photo.lefigaro.fr/sports/football/equipe-de-france/foot-lepaul-jacquet-le-fee-ces-nouveaux-qui-postulent-pour-la-premiere-liste-de-zidane-20260917",
-    "https://photo.lefigaro.fr/sports/football/equipe-de-france/les-grands-absents-de-la-liste-de-zidane-20260918",
-    "https://rfi.fr/fr/sports/20260918-foot-zin%C3%A9dine-zidane-nouveau-s%C3%A9lectionneur-des-bleus-annonce-sa-premi%C3%A8re-liste-avec-mbapp%C3%A9",
-    "https://video.lefigaro.fr/figaro/sports/football/equipe-de-france-decouvrez-en-direct-la-premiere-liste-de-zinedine-zidane-a-la-tete-des-bleus-1-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-maxence-lacroix-a-un-profil-interessant-estime-zidane-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zidane-donne-son-avis-sur-un-potentiel-retour-de-benzema-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-assume-ses-choix-sur-les-lateraux-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-dribble-la-question-du-ballon-d-or-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-reaffirme-son-desir-d-une-equipe-joueuse-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-s-exprime-sur-l-absence-de-kante-20260918",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-nations/equipe-de-france-zinedine-zidane-veut-assurer-une-continuite-avec-d-autres-idees-resume-zidane-20260918"
    ]
   }
  ]

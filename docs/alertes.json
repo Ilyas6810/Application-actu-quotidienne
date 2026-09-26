@@ -1,6 +1,61 @@
 {
- "maj": "2026-09-25T21:44:00Z",
+ "maj": "2026-09-26T05:03:45Z",
  "alertes": [
+  {
+   "id": "2026-09-26-alerte-03",
+   "date": "2026-09-26",
+   "publiee_a": "2026-09-26T05:03:45Z",
+   "titre": "La Maison Blanche écarte CNN de l'avion présidentiel américain",
+   "texte": "L'exécutif américain interdit à la chaîne CNN de monter à bord d'Air Force One ce samedi 26 septembre 2026. L'équipe du média devait suivre Donald Trump lors d'un déplacement officiel dans le Tennessee.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-26/white-house-renews-media-fight-barring-cnn-from-trump-trip"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/26/witte-huis-weert-nieuwszender-cnn-uit-air-force-one-a4937595"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one"
+    }
+   ],
+   "cluster": "17fe012f4568fdd7",
+   "urls": [
+    "https://aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip",
+    "https://bloomberg.com/news/articles/2026-09-26/white-house-renews-media-fight-barring-cnn-from-trump-trip",
+    "https://dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss",
+    "https://lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html",
+    "https://npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+    "https://nrc.nl/nieuws/2026/09/26/witte-huis-weert-nieuwszender-cnn-uit-air-force-one-a4937595",
+    "https://orissapost.com/white-house-signals-cnn-will-be-left-off-air-force-one",
+    "https://spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422",
+    "https://theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+    "https://thehindu.com/news/international/cnn-left-off-air-force-one-for-trumps-upcoming-trip-white-house-signals-in-new-media-restriction/article71511601.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/09/casa-branca-impede-cnn-de-viajar-com-trump-no-air-force-one-diz-jornal.shtml"
+   ]
+  },
   {
    "id": "2026-09-26-alerte-01",
    "date": "2026-09-26",

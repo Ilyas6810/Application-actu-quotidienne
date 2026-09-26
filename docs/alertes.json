@@ -1,6 +1,61 @@
 {
- "maj": "2026-09-26T21:17:52Z",
+ "maj": "2026-09-26T23:43:52Z",
  "alertes": [
+  {
+   "id": "2026-09-27-alerte-03",
+   "date": "2026-09-27",
+   "publiee_a": "2026-09-26T23:43:52Z",
+   "titre": "Euro de volley : la Pologne bat la France en finale à Milan",
+   "texte": "La sélection polonaise a battu la France par trois manches à une samedi 26 septembre à Milan lors de la finale du championnat d'Europe masculin. Les joueurs français obtiennent la médaille d'argent après avoir cédé face aux tenants du titre.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Volley-ball/Actualites/Pourquoi-la-france-n-a-pas-remporte-le-premier-set-en-finale-de-l-euro-contre-la-pologne/1721538"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/volley/championnat-d-europe/logiquement-dominee-par-la-pologne-tenante-du-titre-l-equipe-de-france-s-incline-en-finale-de-l-euro-de-volley_8211530.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20260926-volley-pas-de-titre-pour-la-france-battue-en-finale-par-la-pologne-3-1"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/autres-sports/en-direct-france-pologne-le-grand-defi-des-bleus-en-quete-d-un-deuxieme-euro-de-volley-20260926"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20260926-volley-ball-la-france-s-incline-contre-la-pologne-en-finale-de-l-euro"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/09/27/euro-de-volley-la-pologne-met-fin-au-reve-des-bleus-en-finale_6783611_3242.html"
+    }
+   ],
+   "cluster": "208519ecff7db865",
+   "urls": [
+    "https://france24.com/fr/sports/20260925-volley-les-fran%C3%A7ais-en-finale-de-l-euro-apr%C3%A8s-leur-victoire-contre-la-finlande",
+    "https://france24.com/fr/sports/20260926-volley-ball-la-france-s-incline-contre-la-pologne-en-finale-de-l-euro",
+    "https://franceinfo.fr/sports/volley/championnat-d-europe/logiquement-dominee-par-la-pologne-tenante-du-titre-l-equipe-de-france-s-incline-en-finale-de-l-euro-de-volley_8211530.html",
+    "https://franceinfo.fr/sports/volley/qualifiee-pour-la-finale-de-l-euro-de-volley-la-nouvelle-equipe-de-france-a-deja-reussi-son-apprentissage-express_8210777.html",
+    "https://franceinfo.fr/sports/volley/vainqueurs-de-la-finlande-les-francais-rejoignent-la-pologne-en-finale-de-l-euro-de-volley_8210300.html",
+    "https://lefigaro.fr/sports/autres-sports/en-direct-euro-de-volley-face-a-la-finlande-les-bleus-revent-de-finale-20260925",
+    "https://lefigaro.fr/sports/autres-sports/en-direct-france-pologne-le-grand-defi-des-bleus-en-quete-d-un-deuxieme-euro-de-volley-20260926",
+    "https://lefigaro.fr/sports/autres-sports/euro-de-volley-malgre-des-finlandais-accrocheurs-la-france-se-hisse-en-finale-20260925",
+    "https://lefigaro.fr/sports/autres-sports/euro-de-volley-pas-d-exploit-pour-la-france-battue-par-la-pologne-en-finale-20260926",
+    "https://lemonde.fr/sport/article/2026/09/25/euro-de-volley-une-equipe-de-france-atypique-et-rajeunie-vise-une-place-en-finale_6782585_3242.html",
+    "https://lemonde.fr/sport/article/2026/09/26/volley-les-bleus-nouvelle-generation-se-hissent-en-finale-de-l-euro-ou-ils-retrouveront-la-pologne_6782707_3242.html",
+    "https://lemonde.fr/sport/article/2026/09/27/euro-de-volley-la-pologne-met-fin-au-reve-des-bleus-en-finale_6783611_3242.html",
+    "https://lemonde.fr/sport/live/2026/09/26/en-direct-france-pologne-suivez-la-finale-de-l-euro-de-volley_6783375_3242.html",
+    "https://lequipe.fr/Volley-ball/Actualites/Apres-la-victoire-en-demi-finales-mathis-henno-assure-que-les-bleus-ne-se-laisseront-pas-faire-contre-la-pologne-en-finale-de-l-euro/1721307",
+    "https://lequipe.fr/Volley-ball/Actualites/Fin-du-reve-pour-les-bleus-battus-par-la-pologne-en-finale-de-l-euro/1721568",
+    "https://lequipe.fr/Volley-ball/Actualites/Les-bleus-dominent-la-finlande-et-affronteront-la-pologne-en-finale-de-l-euro/1721282",
+    "https://lequipe.fr/Volley-ball/Actualites/Pourquoi-l-equipe-de-france-de-volley-joue-avec-des-rubans-adhesifs-sur-son-maillot/1721424",
+    "https://lequipe.fr/Volley-ball/Actualites/Pourquoi-la-france-n-a-pas-remporte-le-premier-set-en-finale-de-l-euro-contre-la-pologne/1721538",
+    "https://rfi.fr/fr/sports/20260926-volley-pas-de-titre-pour-la-france-battue-en-finale-par-la-pologne-3-1"
+   ]
+  },
   {
    "id": "2026-09-27-alerte-01",
    "date": "2026-09-27",

@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-25T05:35:26Z",
- "derniere": "2026-09-25",
+ "maj": "2026-09-26T05:40:55Z",
+ "derniere": "2026-09-26",
  "editions": [
+  {
+   "date": "2026-09-26",
+   "genere_a": "2026-09-26T05:40:55Z",
+   "articles": 14,
+   "une": [
+    "Donald Trump et Xi Jinping prolongent leur trêve sans accord majeur",
+    "L'Iran propose aux États-Unis un plan de réouverture du détroit d'Ormuz",
+    "La présidence américaine exclut la chaîne CNN de l'avion présidentiel"
+   ],
+   "octets": 56574
+  },
   {
    "date": "2026-09-25",
    "genere_a": "2026-09-25T05:35:26Z",

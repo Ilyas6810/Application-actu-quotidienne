@@ -1,0 +1,682 @@
+{
+ "date": "2026-09-26",
+ "genere_a": "2026-09-26T05:40:55Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-26-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La présidence américaine exclut la chaîne CNN de l'avion présidentiel",
+   "chapeau": "La Maison Blanche a interdit aux équipes de CNN de monter samedi 26 septembre 2026 à bord d'Air Force One pour couvrir un déplacement de Donald Trump dans le Tennessee. L'administration présidentielle a attribué le siège de la chaîne d'information à un média conservateur lors de ce vol vers Knoxville.",
+   "corps": "L'exécutif américain a écarté le réseau de télévision CNN du vol présidentiel prévu ce samedi 26 septembre 2026. L'appareil officiel transporte le président Donald Trump vers la ville de Knoxville, située dans l'État du Tennessee. Le chef de l'État doit y assister à une rencontre sportive universitaire de football américain.\n\nLa chaîne d'information devait initialement participer au voyage au titre du groupe de presse audiovisuel. Ce système de couverture partagée permet à une équipe réduite de journalistes d'enregistrer des images pour l'ensemble des réseaux de télévision. L'exclusion décidée par la présidence interrompt l'exercice régulier de cette mission mutualisée de retransmission.\n\nL'administration a confirmé l'éviction du média en ne faisant pas figurer le nom de l'entreprise sur la liste officielle des passagers autorisés à bord. Selon les informations communiquées par le Washington Post auprès de deux témoins anonymes, la Maison Blanche a expressément refusé l'accès de l'aéronef aux équipes de la chaîne.\n\nPour occuper le siège laissé vacant dans l'avion officiel, la présidence a sélectionné l'organe d'information conservateur Real America's Voice News. Ce média prend la place habituellement dévolue aux membres réguliers du groupement de presse télévisée.\n\nCette mise à l'écart intervient après une première interdiction d'accès visant la chaîne au sein même du bâtiment présidentiel. Une décision de justice en référé, formule légale d'urgence rendue par un juge, avait pourtant ordonné la réadmission des journalistes de CNN à la Maison Blanche avant l'annonce de ce nouveau déplacement aérien.\n\nLes motifs formels retenus par l'administration présidentielle pour justifier la désignation directe d'un média de remplacement à bord de l'appareil ne sont pas précisés par les comptes rendus officiels.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/casa-branca-impede-cnn-de-viajar-com-trump-no-air-force-one-diz-jornal.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-26/white-house-renews-media-fight-barring-cnn-from-trump-trip"
+    },
+    {
+     "nom": "hindustantimes.com",
+     "url": "https://hindustantimes.com/world-news/us-news/trump-white-house-bars-cnn-from-air-force-one-again-disrupting-tv-press-pool-coverage-of-president-s-tennessee-trip-101790386317951.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/26/witte-huis-weert-nieuwszender-cnn-uit-air-force-one-a4937595"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-09-26T01:08:00Z",
+   "suite_de": null,
+   "mots": 317,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le pape Léon XIV met en garde contre l'intelligence artificielle en France",
+   "chapeau": "Le pape Léon XIV a commencé une visite en France le vendredi 25 septembre 2026. Devant les autorités et les diplomates réunis à Paris, le chef de l'Église catholique a alerté sur les risques de l'intelligence artificielle pour l'humanité.",
+   "corps": "Le souverain pontife a entamé son déplacement officiel par une prise de parole au palais de l'Élysée. Devant le président Emmanuel Macron, des représentants de la société civile et le corps diplomatique, il a interrogé le sens de la condition humaine. Il a évoqué le progrès scientifique, les droits humains et la course aux armements nucléaires.\n\nLéon XIV a formulé une mise en garde explicite contre l'émergence d'un monde entièrement dominé par les appareils technologiques. Il a affirmé que les progrès informatiques ne doivent pas réduire la place des personnes ni altérer leur dignité. Pour le pape, les outils numériques doivent rester au service de l'être humain au lieu de se transformer en instruments de domination ou de créer des injustices.\n\nLe dignitaire religieux a insisté sur l'apprentissage de l'éthique pour guider les choix quotidiens face aux machines. Selon son discours, les technologies contemporaines envahissent et conditionnent la vie courante. Les sociétés doivent former les citoyens au discernement moral pour prévenir la perte des repères humains.\n\nLe programme parisien du chef religieux comportait un passage au siège de l'Unesco dans le milieu de l'après-midi du vendredi. Devant cette institution internationale, Léon XIV a repris ses mises en garde sur les risques d'asservissement liés à l'intelligence artificielle. Son agenda prévoyait également une marche dans les rues de la capitale puis une visite de la cathédrale Notre-Dame restaurée.\n\nLe rassemblement principal du séjour pontifical prend la forme d'un office religieux public dans Paris. Selon BBC News, le 25 septembre 2026 à 19h06, plus de cinq cent mille personnes sont attendues pour assister à cette messe géante. Par ailleurs, des milliers de personnes se sont rassemblées dans la capitale française dès l'arrivée du souverain pontife.\n\nLes responsables de l'Église locale espèrent que cette venue permettra d'améliorer la situation et la réputation de l'institution religieuse en France. Il s'agit du premier déplacement officiel d'un pape sur le territoire français depuis dix-huit ans. Interrogé durant ses déplacements sur l'interdiction d'accès imposée à la chaîne CNN par la Maison-Blanche, Léon XIV a déclaré que tous les journalistes sont autorisés à couvrir son voyage.\n\n## Ce que disent les sources\n\nLes publications ne s'accordent pas sur la longueur prévue pour ce déplacement officiel. Le site d'information panow.com écrivait le 25 septembre 2026 à 04h15 que le pape Léon XIV effectuait un séjour de quatre jours sur le sol français. Pour sa part, The Guardian affirmait le 25 septembre 2026 à 20h01 que ce premier voyage papal dans le pays se déroulait sur une durée de trois jours.\n\nLes textes ne précisent pas les détails des échanges bilatéraux tenus en privé entre le souverain pontife et Emmanuel Macron.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "panow.com",
+     "url": "https://panow.com/2026/09/25/pope-leo-xiv-has-arrived-in-france-for-a-4-day-visit"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/asked-about-cnn-white-house-ban-pope-leo-says-all-journalists-are-welcome-to-cover-him"
+    },
+    {
+     "nom": "dailyadvertiser.com.au",
+     "url": "https://dailyadvertiser.com.au/story/9357544/pope-warns-of-ai-creating-paradise-of-machines"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pope-leo-warns-paradise-of-machines-could-undermine-humanity-as-he-opens-france-trip/article71508923.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-25/pope-says-technology-must-help-people-warns-of-dehumanization"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmq8j904212po"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates"
+    }
+   ],
+   "premiere_parution": "2026-09-25T00:15:00Z",
+   "suite_de": null,
+   "mots": 479,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Xi Jinping invite Donald Trump en Chine après leur rencontre à Washington",
+   "chapeau": "Le président chinois Xi Jinping a invité son homologue américain Donald Trump à se rendre en Chine lors de leur sommet à Washington. Cette proposition fait suite aux réunions organisées à la Maison Blanche entre les deux chefs d'État.",
+   "corps": "Après l'ouverture de leurs discussions stratégiques le 24 septembre 2026 à Washington, les deux dirigeants ont poursuivi leurs échanges diplomatiques. Xi Jinping a convié Donald Trump et son épouse Melania à effectuer un voyage officiel en Chine avant la fin de l'année 2026.\n\nDurant son séjour dans la capitale américaine, le dirigeant chinois a défendu le principe d'une coexistence pacifique entre les deux puissances. Il a toutefois rappelé ses positions fermes au sujet de Taïwan. De son côté, l'ambassadeur des États-Unis à Pékin a réaffirmé la ligne politique américaine concernant cette même île.\n\nLes discussions entre les deux délégations ont également porté sur le commerce, les technologies liées à l'intelligence artificielle et le dossier iranien. Malgré un protocole soigné et des marques d'égards réciproques, les échanges n'ont pas débouché sur des annonces opérationnelles d'ampleur sur ces sujets stratégiques.\n\n## Ce que disent les sources\n\nLa Croix affirme que les deux dirigeants ont commencé leurs entretiens après un premier accueil le mercredi 23 septembre 2026. En revanche, le quotidien Folha de S.Paulo, Le Monde et le Corriere della Sera rapportent que la réception officielle et le sommet d'État ont eu lieu le jeudi 24 septembre 2026, marquant la première visite du président chinois aux États-Unis depuis l'année 2015.\n\nLa date précise retenue pour le futur déplacement de Donald Trump en Chine n'a pas été communiquée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/video-verticali/trump-accoglie-xi-jinping-a-washington-e-la-prima-visita-del-leader-cinese-dal-2015/308f370a-c74a-41fa-b6b3-a380a3ab7xlk"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-xi-kick-off-state-visit-amid-tensions-over-ai-trade"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c914d17zn6kxo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/culture/2026/sep/24/seth-meyers-trump-praise-xi-jinping"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/trump-recebe-xi-na-casa-branca-com-votos-de-grande-amizade.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/donald-trump-recoit-xi-jinping-derriere-le-faste-un-statu-quo-sur-les-dossiers-strategiques-20260924"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/visite-de-xi-jinping-aux-etats-unis-la-chine-veut-exploiter-l-offensive-de-charme-de-donald-trump-20260924"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/newsletters/2026-09-24/trump-gives-xi-a-grand-welcome-while-expectations-stay-low"
+    }
+   ],
+   "premiere_parution": "2026-09-23T17:17:39Z",
+   "suite_de": "2026-09-25-monde-001",
+   "mots": 263,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Benjamin Netanyahu critique le maire de New York devant l'ONU",
+   "chapeau": "Le Premier ministre israélien Benjamin Netanyahu a pris la parole à l'Assemblée générale des Nations unies le jeudi 24 septembre 2026 à New York. Durant son intervention, le chef de gouvernement a directement ciblé le maire de la ville hôte, Zohran Mamdani.",
+   "corps": "Devant les représentants réunis au siège de l'organisation internationale, Benjamin Netanyahu a rejeté les accusations de génocide portées contre l'armée israélienne dans la bande de Gaza. Il a soutenu que l'action militaire israélienne constituait le contraire d'un génocide. Lors de son allocution, de nombreux diplomates ont quitté la salle des débats.\n\nLe Premier ministre israélien a qualifié Zohran Mamdani d'antisémite et l'a accusé d'apporter son soutien au mouvement Hamas. Il a également mentionné l'activité de l'épouse de l'élu new-yorkais sur les réseaux sociaux. Au cours de ce discours, Benjamin Netanyahu a aussi critiqué plusieurs pays alliés et adversaires, dont l'Iran, la France, la Grande-Bretagne et la Turquie, tout en minimisant les violences commises par des colons israéliens.\n\nZohran Mamdani a répliqué en accusant le Premier ministre israélien de chercher à masquer un génocide. Au moment du discours de Benjamin Netanyahu à la tribune, le maire a publié une vidéo dans laquelle il plantait un olivier aux côtés de familles palestiniennes. Le maire de New York avait auparavant qualifié Benjamin Netanyahu de criminel de guerre et avait évoqué une arrestation liée au mandat émis par la Cour pénale internationale, avant de reconnaître l'impossibilité d'appliquer cette mesure sur le sol américain.\n\nLa présence du dirigeant israélien a suscité des réactions dans la ville. Des centaines de manifestants se sont rassemblés dans les rues de New York selon Haaretz le 25 septembre 2026 à 00 h 20 pour protester contre cette visite officielle. Des dirigeants de la communauté juive locale ont exprimé leurs craintes d'un accroissement des tensions municipales.\n\nParallèlement, Zohran Mamdani a fait l'objet de critiques concernant son absence de prise de position publique au sujet du déplacement du président iranien à New York.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-09-24/ty-article-magazine/.premium/mamdanis-threat-to-arrest-netanyahu-failed-his-allies-still-see-a-victory/000001a0-cfbf-dcb9-a9a4-ffffff6f0000"
+    },
+    {
+     "nom": "israelnationalnews.com",
+     "url": "https://israelnationalnews.com/news/433573"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/netanyahu-expected-to-berate-new-yorks-mamdani-in-campaign-speech-of-un-address"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_24/netanyahu-onu-discorso-aula-vuota-iran-coloni-ddfc3752-5160-4522-9f44-9d810ca02xlk.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly"
+    },
+    {
+     "nom": "opinionnigeria.com",
+     "url": "https://opinionnigeria.com/netanyahu-attacks-enemies-allies-in-fiery-un-speech"
+    }
+   ],
+   "premiere_parution": "2026-09-23T21:20:03Z",
+   "suite_de": null,
+   "mots": 324,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les grandes chaînes de télévision reprennent la couverture de la Maison Blanche",
+   "chapeau": "Les chaînes de télévision américaines ont recommencé à filmer les événements présidentiels le vendredi 25 septembre 2026 à Washington. Cette décision intervient après plusieurs jours d'interruption suite à une interdiction d'accès visant des journalistes.",
+   "corps": "Le groupe de travail télévisuel de la Maison Blanche a repris ses activités le vendredi 25 septembre 2026 selon Bloomberg. Ce groupe rassemble cinq grands réseaux de diffusion qui partagent les coûts et tournent à tour de rôle pour filmer le président Donald Trump, d'après The Straits Times du 26 septembre 2026.\n\nLes chaînes avaient cessé d'enregistrer et de transmettre les images présidentielles le lundi précédent en signe de solidarité, d'après The Guardian du 25 septembre 2026. Cette mesure de boycott faisait suite à l'interdiction d'accès imposée par l'administration à certains journalistes.\n\nUn tribunal a pris une décision qui renverse temporairement cette interdiction visant la chaîne CNN, selon The Guardian du 25 septembre 2026. La chaîne CNN a annoncé sa présence aux Archives nationales le 25 septembre 2026 pour suivre la visite du président Donald Trump, d'après The Straits Times du 25 septembre 2026.\n\nLe blocage médiatique a coïncidé avec la tenue de l'Assemblée générale des Nations unies, d'après The Guardian du 25 septembre 2026. Les réseaux de télévision ont ainsi mis fin à leur boycott et renouvellent leur présence pour couvrir l'actualité de la présidence américaine.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "theboltonnews.co.uk",
+     "url": "https://theboltonnews.co.uk/news/national/26583132.white-house-tv-pool-back-operation-news-outlets-days-long-ban"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tv-networks-to-resume-coverage-of-trump-events-cnn-says"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-25/major-tv-networks-resume-live-coverage-of-white-house-after-ban"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool"
+    }
+   ],
+   "premiere_parution": "2026-09-25T00:00:00Z",
+   "suite_de": null,
+   "mots": 221,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Cour supreme autorise l'administration Trump a utiliser un fichier de verification des electeurs",
+   "chapeau": "La Cour supreme des Etats-Unis a leve les interdictions pesant sur une base de donnees fédérale relative aux votants vendredi 25 septembre 2026. Cette decision permet a l'administration du president Donald Trump d'employer ce dispositif de verification de la citoyennete en vue des prochaines elections de novembre.",
+   "corps": "La Cour supreme a accorde une victoire au president Donald Trump en autorisant l'utilisation d'un systeme de donnees repense pour controler le statut d'immigration des electeurs, selon des informations publiees le vendredi 25 septembre 2026 par turnto23.com et le Financial Times.\n\nLe president Donald Trump et ses collaborateurs affirment que cet outil informatique permet de lutter contre le vote des personnes ne possedant pas la nationalite americaine, d'apres The Guardian du 25 septembre 2026.\n\nDes associations de defense des droits de vote et des opposants estiment que ce fichier comporte des risques d'erreurs. NPR indique le 25 septembre 2026 que le systeme a deja designe par erreur des citoyens americains et qu'une juridiction inferieure a juge qu'il enfreignait les lois federales sur la protection de la vie privee.\n\nL'impact de cette mesure sur le scrutin de mi-mandat a venir demeure limite. Une loi en vigueur empeche la majorite des Etats de radier systematiquement des electeurs des listes electorales moins de quatre-vingt-dix jours avant un scrutin, precise inquirer.com le 25 septembre 2026.\n\n## Ce que disent les sources\n\nCertaines sources comme The Guardian mentionnent une volonte du president d'imposer des regles de vote plus strictes avant le scrutin de novembre, tandis que d'autres publications se concentrent sur la levée des restrictions judiciaires affectant la base de donnees sans preciser de calendrier legislatif additionnel.\n\nCertains elements manquent pour evaluer le nombre exact de citoyens potentiellement touches par ces erreurs de fichage d'ici les prochaines elections.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "inquirer.com",
+     "url": "https://inquirer.com/politics/election/supreme-court-allow-federal-database-voter-eligiblity-save-states-trump-purge-midterms-20260925.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting"
+    },
+    {
+     "nom": "turnto23.com",
+     "url": "https://turnto23.com/politics/supreme-court/supreme-court-lets-trump-admin-use-revamped-federal-voter-eligibility-database"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/25/supreme-court-trump-citizen-voter-database"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2"
+    },
+    {
+     "nom": "jcpost.com",
+     "url": "https://jcpost.com/posts/6384bd93-987f-48b7-a164-cd06ff81af1d"
+    },
+    {
+     "nom": "kurv.com",
+     "url": "https://kurv.com/supreme-court-lets-trump-administration-use-revamped-federal-voter-eligibility-database-for-now"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/469c3f85-ee58-41ed-8289-33866a72549a?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-09-25T00:00:00Z",
+   "suite_de": null,
+   "mots": 291,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV effectue une visite officielle en France",
+   "chapeau": "Le pape Léon XIV a commencé une visite officielle en France le vendredi 25 septembre 2026. Ce déplacement marque la première visite d'État papale dans le pays depuis dix-huit ans.",
+   "corps": "Le souverain pontife est arrivé à Paris pour un séjour de quatre jours qui associe pèlerinage et rencontres politiques. Il doit échanger avec le président Emmanuel Macron dans le cadre du protocole républicain sur les visites religieuses.\n\nCe déplacement intervient alors que l'Église catholique cherche à restaurer sa crédibilité après les scandales d'abus commis par des membres du clergé. Le programme comprend des demandes de pardon sur ce sujet.\n\nLe responsable religieux doit aborder plusieurs sujets d'actualité. Il compte exposer sa vision pour l'avenir de l'Europe et renouveler ses appels à un encadrement mondial du développement de l'intelligence artificielle. Les débats portent aussi sur l'aide active à mourir et les questions d'éthique humaine.\n\nDimanche, le dignitaire catholique se rendra dans le sud du pays pour visiter le sanctuaire de Notre-Dame de Lourdes, un lieu de pèlerinage réputé. Les rassemblements publics ont attiré un public nombreux dès le début du séjour, selon Al Jazeera le 26 septembre 2026 à 06:18.\n\n## Ce que disent les sources\n\nLes médias présentent des nuances sur la nature du séjour. Deutsche Welle décrit un pèlerinage de quatre jours le 25 septembre 2026 à 14:48, tandis que The Straits Times mentionne une visite de fin de semaine le 25 septembre 2026 à 09:12. Par ailleurs, Al Jazeera évoque le 26 septembre 2026 à 06:18 une visite officielle papale en France depuis près de vingt ans, alors que les autres sources précisent une durée exacte de dix-huit ans pour une visite d'État.\n\nLes sources ne précisent pas le texte exact des interventions prévues ni l'agenda heure par heure des entretiens avec le président français.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "union-bulletin.com",
+     "url": "https://union-bulletin.com/news/world/pope-leo-heads-to-lourdes-what-to-know-about-one-of-catholicism-s-most-famous/article_e35b97e8-f6dd-57b7-9121-4f52b89f5489.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-heads-to-france-on-first-state-visit-in-18-years"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates"
+    }
+   ],
+   "premiere_parution": "2026-09-24T00:30:00Z",
+   "suite_de": null,
+   "mots": 300,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Le pape Léon XIV commence sa première visite officielle en France",
+   "chapeau": "Le pape Léon XIV effectue son premier voyage officiel en France depuis le vendredi 25 septembre 2026. Durant ce séjour, le chef de l'Église catholique se rend notamment à Paris, Lourdes et Metz pour rencontrer les fidèles et les représentants des autres religions.",
+   "corps": "Cette venue suscite un intérêt important au sein de la population française. Selon un sondage réalisé par l'institut Odoxa et Backbone Consulting pour Le Figaro, publié le 24 septembre 2026, huit Français sur dix possèdent une bonne opinion du souverain pontife. L'étude révèle également que plus d'un tiers des citoyens français a l'intention de suivre les différentes étapes de ce déplacement durant le week-end.\n\nLe voyage se déroule dans un contexte de transformation pour l'Église de France, marquée par des signaux contradictoires. L'institution fait face à un vieillissement de ses membres, à des scandales récents et à une baisse du nombre de prêtres. Malgré ces difficultés, la communauté catholique connaît un regain d'activité, porté notamment par les jeunes et les conversions d'adultes. Selon les chiffres publiés par le journal espagnol ABC le 25 septembre 2026, le nombre de baptêmes en France est passé de plus de 100 000 en 2020 à plus de 175 000 en 2024.\n\nLes avis divergent toutefois au sein même des fidèles et des observateurs catholiques. Si une partie de la jeunesse affiche sa foi de manière plus visible, certains catholiques traditionalistes expriment des réserves. Dans une paroisse des Alpes-Maritimes, des pratiquants expliquent ainsi adhérer à la pensée globale du pape tout en se montrant moins enthousiastes face à ses orientations actuelles. Sur le plan intellectuel, la théologienne Anne Soupa estime que le programme du séjour éclaire les choix politiques, religieux et sociétaux du pontife. De son côté, le philosophe Rémi Brague, membre de l'Institut de France, s'interroge sur l'avenir du christianisme dans le pays et retrace l'histoire des relations entre la France et les papes.\n\nPar ailleurs, des observateurs s'interrogent sur le rôle des catholiques dans la vie publique. Isabelle de Gaulmyn, présidente de l'observatoire des Semaines sociales de France, estime que les réseaux catholiques, très actifs dans la solidarité nationale, devraient traduire leur expérience de terrain en réflexion politique. De même, l'écrivain Frédéric Boyer invite la communauté à s'interroger sur sa responsabilité collective vis-à-vis de l'ensemble de la société.\n\nLes autres confessions religieuses du pays s'associent également à cet événement. Les représentants des principaux cultes de France ont rédigé un texte commun pour exprimer leur espoir. Le souverain pontife doit signer ce document lundi à Metz aux côtés des dirigeants de ces différentes religions.\n\n## Ce que disent les sources\n\nLes publications divergent sur la durée exacte de ce voyage officiel en France. La radio Franceinfo, dans un article du 25 septembre 2026, affirme que la visite du souverain pontife dure quatre jours. De son côté, le quotidien Le Figaro, dans un entretien publié le même jour, présente ce déplacement comme une visite pastorale de trois jours.\n\nLe contenu précis du texte commun qui sera signé à Metz n'est pas mentionné par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/vatican/pape-leon-xiv/la-joie-des-catholiques-est-aussi-la-notre-comment-les-autres-cultes-vont-s-associer-a-la-visite-du-pape-en-france_8203265.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/religions/les-cathos-et-le-pape-chez-des-ultraconservateurs-je-souscris-a-la-pensee-pontificale-mais-la-je-ne-suis-pas-fan-20260924_N6B55N2QLVEG3HWRFJLIUNVE2Y"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/le-monde-des-religions/article/2026/09/24/visite-du-pape-en-france-en-ces-temps-de-bouleversements-majeurs-l-eglise-montre-que-le-monde-a-besoin-de-visionnaires-courageux-et-engages_6781529_6038514.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/visite-de-leon-xiv-8-francais-sur-10-ont-une-bonne-opinion-du-pape-20260924"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/religion/visite-du-pape-en-france-comment-le-catholicisme-a-retrouve-une-voix-20260924"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/francia-prepara-visita-alto-papa-leon-xiv-20260924015238-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-09-24T03:00:25Z",
+   "suite_de": null,
+   "mots": 502,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le pape Léon XIV entame un voyage apostolique de quatre jours en France",
+   "chapeau": "Le pape Léon XIV a commencé vendredi 25 septembre 2026 une visite de quatre jours sur le territoire français. Le souverain pontife s'est rendu à Paris et Saint-Denis pour rencontrer les institutions, les fidèles et la jeunesse.",
+   "corps": "Le chef de l'Église catholique entame un périple qui le mène à Paris, Lourdes et Metz. Dès le vendredi 25 septembre, le dirigeant s'est exprimé devant l'Unesco et a été reçu à l'Élysée. Il a également célébré un temps de prière à la cathédrale Notre-Dame de Paris avant de déambuler en véhicule électrique à travers la capitale.\n\nDans la soirée du vendredi 25 septembre, le pontife s'est rendu au Stade de France, à Saint-Denis. Une veillée consacrée à la jeunesse s'y est tenue en présence de sportifs, parmi lesquels la footballeuse Wendie Renard. Selon les données rapportées par La Croix et franceinfo le 26 septembre, environ 80 000 jeunes âgés de 17 à 35 ans ont assisté aux célébrations, rythmées par des spectacles et des concerts.\n\nLe parcours du pape se poursuit le samedi 26 septembre à l'Institut catholique de Paris pour célébrer le cent cinquantenaire de cet établissement. Selon franceinfo le 26 septembre, un rassemblement sur la place de la Concorde doit réunir 600 000 fidèles autour du pontife pour une célébration religieuse. D'après RFI le 26 septembre, 2 500 journalistes couvrent l'ensemble de ces événements.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Tous-sports/Actualites/Wendie-renard-en-porte-drapeau-de-nombreux-sportifs-la-veillee-du-pape-leon-xiv-au-stade-de-france-va-etre-placee-sous-le-signe-du-sport/1721096"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/religions/en-direct-visite-du-pape-leon-xiv-en-france-une-premiere-journee-chargee-avec-un-discours-a-lunesco-une-viree-en-papamobile-et-une-messe-a-notre-dame-20260925_S6MHCZRSZ5HEZLX3ANHE5H47QQ"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/religion/vous-etes-les-saints-de-france-a-saint-denis-leon-xiv-exhorte-les-jeunes-catholiques-au-combat-de-la-foi-20260925"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/scenes-de-liesse-dans-paris-defile-en-papamobile-feux-d-artifice-la-folle-premiere-journee-du-pape-en-france-20260925"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/vatican/pape-leon-xiv/avec-le-pape-la-papamobile-a-la-traversee-de-paris_8210243.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20260925-un-pape-l%C3%A9on-xiv-proche-des-journalistes-et-des-m%C3%A9dias"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/le-monde-des-religions/article/2026/09/26/visite-du-pape-a-paris-la-venue-de-leon-xiv-inespere-cadeau-d-anniversaire-pour-les-150-ans-de-la-catho_6783017_6038514.html"
+    }
+   ],
+   "premiere_parution": "2026-09-23T18:13:18Z",
+   "suite_de": null,
+   "mots": 224,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump et Xi Jinping prolongent leur trêve sans accord majeur",
+   "chapeau": "Le président américain Donald Trump et le dirigeant chinois Xi Jinping ont conclu vendredi 25 septembre 2026 à Washington une visite d'État de trois jours axée sur la diplomatie personnelle. Les deux chefs d'État ont mis en avant leur entente mutuelle lors de réceptions officielles tout en actant un report de leurs tensions commerciales.",
+   "corps": "Cette rencontre prolonge le sommet organisé entre les deux hommes à la Maison Blanche le jeudi 24 septembre 2026. La visite d'État de trois jours s'est clôturée le vendredi 25 septembre 2026 à Washington sans avancée substantielle sur les dossiers stratégiques, selon The Guardian le 26 septembre 2026.\n\nLe résultat direct des discussions consiste en une prolongation de deux mois de la trêve commerciale entre Washington et Pékin, d'après le journal ABC le 24 septembre 2026. Les deux dirigeants ont choisi de différer les mesures tarifaires punitives sans résoudre les désaccords fondamentaux entre les deux nations.\n\nLors du dîner d'État organisé le jeudi 24 septembre 2026, Donald Trump a affirmé que les relations bilatérales n'avaient jamais été aussi bonnes, d'après Folha de S.Paulo le 25 septembre 2026. L'événement réunissait des dirigeants d'entreprises technologiques dans un cadre officiel protocolaire, rapporte la Deutsche Welle le 25 septembre 2026. Le président des États-Unis a également fait visiter à son homologue les projets de construction en cours à la Maison Blanche. L'accueil comprenait aussi des démonstrations d'avions de chasse, d'après les informations diffusées par Der Spiegel le 25 septembre 2026.\n\nMalgré ce déploiement protocolaire, les pourparlers n'ont débouché sur aucun traité majeur concernant l'intelligence artificielle, indique The Guardian le 26 septembre 2026. Le journal note que les deux dirigeants s'exposent à des critiques pour ne pas avoir suspendu leur concurrence technologique. Les deux gouvernements ont maintenu leurs positions divergentes sur la régulation des technologies numériques et sur le commerce international, selon la Deutsche Welle.\n\nD'autres sujets de friction demeurent sans compromis officiel, signale Al Jazeera le 25 septembre 2026. Les désaccords portent notamment sur le dossier de Taïwan, les équilibres liés à l'Iran et les échanges pétroliers. Der Spiegel indique à ce propos le 25 septembre 2026 que les États-Unis ne sanctionnent pas les achats de pétrole effectués par la Chine.\n\nPlusieurs observateurs et médias analysent l'issue des échanges du point de vue de Pékin. The Straits Times indique le 25 septembre 2026 que ce sommet peut être vu comme un succès pour la Chine, les autorités chinoises restant conscientes des blocages politiques imposés par le Congrès américain. De son côté, le quotidien néerlandais NRC note le même jour que le respect manifesté par Donald Trump offre une stabilité diplomatique utile à Pékin, sans pour autant déboucher sur des percées concrètes. Le quotidien espagnol El País décrit cette rencontre le 26 septembre 2026 comme une fenêtre d'opportunité illustrant une volonté d'entente face à des litiges structurels persistants.\n\nLes détails complets sur les conditions exactes de la trêve commerciale de deux mois et le contenu précis des échanges en tête-à-tête ne sont pas précisés dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-reune-jinping-alargar-tregua-comercial-20260924170152-nt.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/eua-e-china-nunca-se-deram-tao-bem-diz-trump-apos-dia-paparicando-xi-jinping.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/newsletters/2026-09-25/trump-xi-keep-great-power-diplomacy-on-track"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/why-the-trump-xi-summit-in-washington-could-be-considered-a-win-for-beijing"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/25/de-vriendschap-tussen-xi-en-trump-zorgt-voor-stabiliteit-maar-voor-weinig-meer-dan-dat-a4937383"
+    }
+   ],
+   "premiere_parution": "2026-09-23T16:58:45Z",
+   "suite_de": "2026-09-25-geopolitique-001",
+   "mots": 498,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'Iran propose aux États-Unis un plan de réouverture du détroit d'Ormuz",
+   "chapeau": "Le ministre iranien des Affaires étrangères a proposé aux États-Unis un calendrier d'une semaine pour rouvrir le détroit d'Ormuz et mettre fin au conflit bilatéral en cours. Le chef de la diplomatie a formulé cette offre en marge de l'Assemblée générale des Nations unies le 24 septembre 2026 à New York.",
+   "corps": "Le ministre iranien des Affaires étrangères, Abbas Araghchi, a détaillé une offre de cessez-le-feu par étapes lors d'une rencontre privée tenue le 24 septembre 2026 à l'occasion de l'Assemblée générale des Nations unies. Téhéran suggère de rouvrir la navigation maritime dans le détroit d'Ormuz sous un délai de sept jours. L'Iran lie cette reprise du trafic à la satisfaction préalable de plusieurs exigences soumises à Washington.\n\nLe plan présenté prévoit la levée immédiate du blocus naval américain imposé aux terminaux et ports iraniens. Le passage maritime stratégique demeure le point central des négociations destinées à interrompre un conflit vieux de près de sept mois entre les deux nations, selon le quotidien The Straits Times le 24 septembre 2026 à 20h21. Téhéran demande également l'instauration d'un cessez-le-feu au Liban et la reprise officielle des discussions relatives au dossier nucléaire iranien. Un officiel iranien a déclaré qu'aucune concession nucléaire ne sera consentie par Téhéran en échange de ces démarches.\n\nLe vice-président exécutif du groupe de réflexion Quincy Institute, Trita Parsi, a assisté aux déclarations iraniennes à New York. D'après ce témoin, Abbas Araghchi a expliqué qu'un accord négocié rapidement offrirait une issue politique favorable au président américain Donald Trump avant les élections législatives américaines prévues en novembre 2026. La République islamique affirme attendre la décision officielle de la Maison-Blanche sur cette feuille de route, tout en rappelant que la responsabilité finale incombe au gouvernement américain.\n\nLes discussions diplomatiques ont entraîné un reflux immédiat des cours mondiaux du pétrole brut, d'après les informations rapportées par l'agence de presse Bloomberg le 26 septembre 2026 à 0h27. Les négociateurs des deux pays ont cherché un accord progressif à New York afin d'atténuer les tensions économiques globales provoquées par la fermeture du détroit.\n\n## Ce que disent les sources\n\nLes sources divergent sur la réaction du gouvernement américain à la proposition transmise par Téhéran.\n\nLe quotidien indien The Hindu indique le 26 septembre 2026 à 6h16 que le président Donald Trump a rejeté l'offre formulée par l'Iran.\n\nLe média britannique BBC News rapporte à l'inverse le 26 septembre 2026 à 9h03 qu'un représentant officiel américain évoque des discussions constructives toujours en cours par l'intermédiaire de médiateurs tiers.\n\nLes sources ne précisent pas la nature exacte des concessions attendues des États-Unis au sujet du Liban.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/us-and-iran-discuss-phased-deal-to-reopen-hormuz-and-end-us-blockade-sources-say"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/iran/2026-09-25/ty-article/iran-suggested-reopening-strait-of-hormuz-in-deal-including-lebanon-cease-fire/000001a0-d8ff-dfbb-afa4-fbff0dfd0000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-09-25/bloomberg-businessweek-daily-9-25-2026-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/iran-suggests-deal-to-reopen-the-strait-of-hormuz-in-seven-days/article71510004.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqgmrr9ekr7ko"
+    }
+   ],
+   "premiere_parution": "2026-09-24T16:21:47Z",
+   "suite_de": null,
+   "mots": 428,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump et Xi Jinping achèvent leur sommet à Washington",
+   "chapeau": "Le président américain Donald Trump et son homologue chinois Xi Jinping ont conclu leur sommet bilatéral de trois jours à Washington le vendredi 25 septembre 2026. Les deux chefs d'État ont achevé cette visite officielle par un parcours symbolique au sein des Archives nationales des États-Unis.",
+   "corps": "Les deux dirigeants ont terminé leur rencontre par une visite guidée de l'institution américaine qui conserve les documents fondateurs du pays. Donald Trump et Xi Jinping ont pu observer la Déclaration d'indépendance, la Constitution des États-Unis ainsi que la Déclaration des droits. Les deux présidents ont également partagé un thé à cette occasion. Selon les informations diffusées par le média The Straits Times le 25 septembre 2026, cette visite finale avait pour objectif de permettre aux dirigeants d'exprimer leurs visions respectives sur l'histoire commune et sur la trajectoire future des relations bilatérales entre Washington et Pékin.\n\nCe séjour de trois jours a principalement mis en relief la diplomatie interpersonnelle entre les deux dirigeants. Les discussions n'ont cependant pas débouché sur des compromis majeurs concernant les relations économiques. Plusieurs sujets de tension importants n'ont pas trouvé de résolution durant les échanges. Les deux pays conservent des positions divergentes sur les questions liées aux barrières commerciales, au développement de l'intelligence artificielle, qui désigne les technologies imitant l'intelligence humaine, au statut de Taïwan ainsi qu'aux relations que la Chine entretient avec l'Iran.\n\nLa visite d'État a été rythmée par plusieurs événements protocolaires de grande envergure. Les cérémonies ont inclus des défilés aériens des forces militaires, des visites guidées officielles ainsi qu'un dîner d'État organisé en l'honneur de la délégation chinoise. À la suite de ces événements, le président chinois a quitté le territoire américain.\n\nLes contacts entre les deux administrations vont se poursuivre dans les prochains mois. Le président chinois a indiqué que Donald Trump et lui-même disposeraient de deux opportunités supplémentaires pour se réunir avant la fin de l'année 2026. Ces rencontres se tiendront d'une part lors du sommet de la Coopération économique pour l'Asie-Pacifique, qui aura lieu en Chine, et d'autre part lors du sommet du Groupe des vingt prévu à Miami, dans l'État de la Floride.\n\nLes détails précis concernant le contenu des échanges sur les technologies de l'intelligence artificielle et sur les dossiers commerciaux n'ont pas été communiqués par les deux gouvernements.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/trump-to-wrap-up-xi-summit-with-a-tour-of-us-archives"
+    },
+    {
+     "nom": "wvtm13.com",
+     "url": "https://wvtm13.com/article/trump-xi-jinping-national-archives-visit/73883918"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-leaders-to-tour-national-archives-as-visit-nears-end"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/xi-wraps-up-us-visit-with-trip-to-national-archives/live-79404511?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-xi-wrap-up-summit-with-tea-and-tour-of-us-archives/article71510159.ece"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20260926/0ff949b513804621b45d7e87b369c4b1/c.html"
+    },
+    {
+     "nom": "dunyanews.tv",
+     "url": "https://dunyanews.tv/en/World/974738-trump-xi-end-summit-with-tea-tour-of-us-archives--and-little-sign-o"
+    }
+   ],
+   "premiere_parution": "2026-09-25T00:00:00Z",
+   "suite_de": null,
+   "mots": 379,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-sport-001",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Manchester City reconnu coupable de manquements aux règles financières",
+   "chapeau": "Une commission indépendante a jugé Manchester City coupable d'infractions financières dans le championnat anglais vendredi 25 septembre 2026. La décision vise la gestion comptable du club britannique à Londres.",
+   "corps": "Une commission indépendante a instruit le dossier sur les comptes du club anglais. Selon le Financial Times le 25 septembre 2026 à 20 h 02, cette instance a retenu la culpabilité de l'équipe pour 114 chefs d'accusation sur 115.\n\nLes médias britanniques The Athletic et le Times ont divulgué les conclusions de la procédure vendredi 25 septembre 2026. L'organisme organisateur du championnat d'Angleterre reprochait à la direction mancunienne d'avoir transgressé les règlements économiques en vigueur.\n\nUne nouvelle audience fixera la nature des peines disciplinaires. El País a indiqué le 25 septembre 2026 à 20 h 16 que le club risque une exclusion du tournoi. Les mesures disciplinaires pourraient aussi comporter un retrait de titres acquis durant les quinze dernières années, selon Libération.\n\nL'institution sportive mancunienne prévoit d'engager un recours contre ce jugement. France 24 et Libération ont mentionné cette intention dès le 25 septembre 2026 au soir.\n\n## Ce que disent les sources\n\nLe Financial Times, le Corriere della Sera, France 24, Le Figaro et Folha de S.Paulo écrivent le 25 septembre 2026 que le club est coupable de 114 violations sur 115. El País, Der Spiegel, Bloomberg et Al Jazeera évoquent de leur côté une culpabilité pour une grande partie ou la quasi-totalité des 115 accusations portées contre l'équipe. The Guardian mentionne pour sa part plus de 100 infractions le 25 septembre 2026 à 22 h 03.\n\nLe calendrier précis de l'audience sur les sanctions et la date du recours n'ont pas été communiqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/premier-league-manchester-city-soll-in-114-faellen-gegen-finanzregeln-verstossen-haben-a-a3a490fc-3b49-4faa-8f90-58cfa1def8c6"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/calcio/champions-league/26_settembre_25/manchester-city-colpevole-fair-play-finanziario-cosa-rischia-94a96906-1429-4245-bc5f-1123d52c2xlk.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/2f820ff9-28c2-4e53-9948-6be009a8a23c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/2026-09-25/el-manchester-city-culpable-de-hasta-115-infracciones-del-reglamento-de-financiacion-de-la-premier-league.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20260925-premier-league-manchester-city-reconnu-coupable-de-114-infractions-financi%C3%A8res"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/manchester-city-exclu-du-championnat-ou-dechu-de-ses-titres-le-club-reconnu-coupable-de-114-infractions-au-reglement-financier-de-la-premier-league-20260925_JER7UBCQIFAK5FIFLPNNQNF4JY"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/angleterre/premier-league-coupable-de-114-infractions-financieres-manchester-city-risque-tres-gros-20260925"
+    }
+   ],
+   "premiere_parution": "2026-09-25T12:00:00Z",
+   "suite_de": null,
+   "mots": 274,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-26-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "L'accusatrice du rappeur Jay-Z reconnaît avoir inventé ses allégations de viol",
+   "chapeau": "Une plaignante anonyme a déposé une déclaration au tribunal fédéral de Manhattan le 24 septembre 2026 pour annuler ses accusations contre le musicien Jay-Z. Cette femme affirme désormais n'avoir jamais rencontré Shawn Carter, après l'avoir poursuivi en justice en 2024 pour un viol commis selon elle en 2000.",
+   "corps": "Une femme désignée sous le nom de Jane Doe a rétracté ses accusations de viol contre le rappeur Shawn Carter, connu sous le nom de scène Jay-Z. Elle a soumis une déclaration écrite officielle auprès d'un tribunal fédéral situé dans l'arrondissement new-yorkais de Manhattan le jeudi 24 septembre 2026. Dans ce document juridique, elle indique que l'intégralité de ses déclarations initiales visant le musicien était fausse.\n\nLa plaignante a déclaré dans ce texte judiciaire qu'elle n'a en réalité jamais rencontré Jay-Z au cours de son existence. Cette démarche annule définitivement les poursuites qu'elle avait engagées à son encontre. La femme avait auparavant déposé une plainte au civil au cours de l'année 2024 avant d'abandonner la procédure.\n\nDans son action initiale de 2024, la plaignante affirmait avoir subi une agression sexuelle au cours de l'an 2000, alors qu'elle était âgée de treize ans. Elle soutenait à l'époque que le musicien Shawn Carter l'avait droguée puis violée lors d'une fête. Les allégations initiales visaient conjointement le producteur Sean Combs, surnommé P Diddy, aux côtés de Jay-Z.\n\nShawn Carter avait toujours nié l'ensemble de ces accusations portées contre sa personne. Le rappeur avait publié une lettre ouverte dans laquelle il rejetait formellement toute culpabilité dans cette affaire. Dans ce texte, il précisait que ces accusations d'agression sexuelle lui causaient une souffrance ainsi qu'une douleur importantes.\n\nCe revirement intervient près de deux années après le dépôt de la plainte initiale de 2024. Le document transmis au tribunal de Manhattan confirme que les affirmations portées contre le rappeur reposaient sur un récit inventé de toutes pièces par la plaignante.\n\nLes représentants légaux de la plaignante ont apporté des précisions sur sa situation personnelle lors de cette rétractation. Selon ses avocats, la femme a effectivement été victime d'une agression sexuelle par le passé. Ils soulignent toutefois que cette agression n'a pas été commise par le musicien Shawn Carter.\n\nL'identité exacte de la plaignante n'a pas été rendue publique dans les documents du tribunal de Manhattan.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm4g53547wygo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/music/2026/sep/25/woman-who-accused-jay-z-of-raping-her-aged-13-says-claims-were-false"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/mujer-demando-jayz-violacion-dice-invento-20260925172214-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/jay-z-frau-zieht-vergewaltigungsvorwurf-zurueck-und-raeumt-falschaussage-ein-a-5ff894c0-5a26-409c-8ae4-c34428597141"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-09-25/la-mujer-que-acuso-a-jay-z-de-violarla-se-retira-de-la-demanda-y-afirma-que-nunca-le-conocio.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/09/mulher-que-afirmou-ter-sido-estuprada-por-jay-z-diz-ter-feito-falsas-acusacoes.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/jay-z-accuser-recants-rape-allegation-against-the-rapper"
+    }
+   ],
+   "premiere_parution": "2026-09-25T10:51:28Z",
+   "suite_de": null,
+   "mots": 377,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-26-geopolitique-001",
+  "2026-09-26-geopolitique-002",
+  "2026-09-26-monde-001",
+  "2026-09-26-monde-002",
+  "2026-09-26-culture-001",
+  "2026-09-26-geopolitique-003",
+  "2026-09-26-sport-001",
+  "2026-09-26-monde-003"
+ ]
+}

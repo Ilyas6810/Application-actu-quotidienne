@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-26T05:40:55Z",
- "derniere": "2026-09-26",
+ "maj": "2026-09-27T05:58:02Z",
+ "derniere": "2026-09-27",
  "editions": [
+  {
+   "date": "2026-09-27",
+   "genere_a": "2026-09-27T05:58:02Z",
+   "articles": 11,
+   "une": [
+    "L'état de catastrophe est déclaré à Bangkok après de fortes inondations",
+    "Donald Trump rejette le plan iranien pour rouvrir le détroit d'Ormuz",
+    "Le pape Léon XIV rassemble des centaines de milliers de fidèles à Paris"
+   ],
+   "octets": 40095
+  },
   {
    "date": "2026-09-26",
    "genere_a": "2026-09-26T05:40:55Z",

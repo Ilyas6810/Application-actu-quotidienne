@@ -1,0 +1,554 @@
+{
+ "date": "2026-09-27",
+ "genere_a": "2026-09-27T05:58:02Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-27-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'état de catastrophe est déclaré à Bangkok après de fortes inondations",
+   "chapeau": "Le gouverneur de Bangkok a déclaré le samedi 26 septembre 2026 l'état de catastrophe dans l'ensemble des cinquante districts de la capitale thaïlandaise. Des pluies intenses ont provoqué la submersion de nombreuses voies de circulation et entraîné l'évacuation d'habitants.",
+   "corps": "Des précipitations intenses touchent la capitale de la Thaïlande. Les voies routières de la ville se trouvent sous les eaux. Les canaux municipaux débordent sur les axes de circulation.\n\nSelon le gouverneur de la ville, cité par Le Figaro et franceinfo le 26 septembre 2026, près de 300 millimètres de pluie sont tombés sur la capitale depuis le jeudi 24 septembre 2026. L'administration métropolitaine de Bangkok a indiqué que la saison des pluies actuelle enregistre des précipitations plus importantes que d'ordinaire.\n\nFace aux montées des eaux, certains résidents ont dû quitter leur logement. L'évacuation de ces habitants survient alors que les autorités locales tentent d'évacuer l'eau accumulée dans les réseaux de canaux.\n\nDes événements météorologiques similaires touchent d'autres régions du pays. Selon RFI le 26 septembre 2026, vingt et une provinces thaïlandaises subissent également des inondations.\n\n## Ce que disent les sources\n\nL'évolution de la situation météo fait l'objet d'estimations différentes. Le journal La Croix indique le 26 septembre 2026 à 13h17 que les inondations se sont stabilisées dans la capitale. Le quotidien The Straits Times affirme le 27 septembre 2026 à 05h50 que le niveau des eaux recule après une baisse de l'intensité des pluies signalée en fin de journée le 26 septembre 2026 par l'administration métropolitaine. À l'inverse, le magazine Der Spiegel rapporte le 26 septembre 2026 à 16h36 que les autorités prévoient des précipitations continues jusqu'au dimanche 27 septembre 2026 inclus.\n\nLe nombre exact d'habitants évacués et le bilan financier des dégâts ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/inondations-en-thailande-l-etat-de-catastrophe-declare-dans-toute-la-ville-de-bangkok-20260926"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/forti-piogge-in-thailandia-le-immagini-di-bangkok-sommersa-dall-acqua/58ee8bb7-bc41-439c-8cc0-14c15dae9xlk"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/canaux-qui-debordent-et-routes-submergees-inondations-catastrophiques-a-bangkok-20260926"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/bangkok-face-a-des-inondations-monstres-letat-de-catastrophe-naturelle-declare-20260926_BS7EJI26PNBK5HDQXU7ZOD3B2U"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-etat-de-catastrophe-declare-dans-toute-la-ville-de-bangkok-en-raison-d-inondations-causees-par-des-pluies-diluviennes_8210711.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/thailand-katastrophenfall-in-allen-50-bezirken-nach-starkregen-a-5d8384bd-00bb-4d53-a4b5-6691f560d249"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/09/26/thailande-les-images-des-graves-inondations-survenues-a-bangkok_6783207_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-09-25T11:55:00Z",
+   "suite_de": null,
+   "mots": 290,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le pape Léon XIV rassemble des centaines de milliers de fidèles à Paris",
+   "chapeau": "Le pape Léon XIV a célébré une messe en plein air à Paris le samedi 26 septembre 2026. Cet événement s'inscrit dans un voyage officiel de quatre jours en France.",
+   "corps": "Le souverain pontife américain de 71 ans a entamé son déplacement en France le vendredi 25 septembre 2026, marquant la première visite papale dans le pays depuis dix-huit ans.\n\nLe samedi 26 septembre 2026, le pape Léon XIV a conduit un rassemblement sur la place de la Concorde et sur l'avenue des Champs-Élysées. Au cours de cet office en plein air, le responsable religieux a salué l'énergie et l'engagement des jeunes rassemblés au cœur de la capitale française.\n\nCe déplacement de quatre jours en France associe des aspects politiques et spirituels. Le président Emmanuel Macron et le chef de l'Église catholique composent avec les règles républicaines de la laïcité française. La visite aborde des questions d'éthique et d'existence humaine. Les échanges surviennent au moment où l'Église catholique affronte des dossiers relatifs aux abus sexuels et aux discussions sur l'aide active à mourir. L'Église catholique rattache l'affluence du public à une augmentation de la spiritualité parmi la population française.\n\nAprès la célébration parisienne, le représentant des catholiques a poursuivi son itinéraire vers le sanctuaire de Lourdes, où il a prié.\n\n## Ce que disent les sources\n\nConcernant l'affluence lors du rassemblement à Paris, The Straits Times indiquait le 26 septembre 2026 à 13 h 37 que plus de 600 000 personnes s'étaient inscrites pour assister à l'événement. Selon The Guardian le 26 septembre 2026 à 19 h 50, Deutsche Welle le 26 septembre 2026 à 20 h 13 et Al Jazeera le 26 septembre 2026 à 19 h 43, le Vatican a évalué l'assistance à environ 700 000 personnes, soit environ 100 000 personnes de plus que le nombre de participants inscrits. De son côté, Al Jazeera a avancé le 27 septembre 2026 à 09 h 09 une estimation d'environ 800 000 personnes présentes sur la place de la Concorde et dans le centre de Paris. Par ailleurs, The Straits Times mentionne le 27 septembre 2026 à 00 h 00 que le pape dirige une communauté mondiale de 1,4 milliard de catholiques.\n\nLe détail des entretiens bilatéraux entre le pape et le président français n'a pas été communiqué dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cq14d142p08do"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris"
+    }
+   ],
+   "premiere_parution": "2026-09-24T12:03:00Z",
+   "suite_de": "2026-09-26-monde-007",
+   "mots": 380,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La Chine envoie deux pandas géants vers le zoo d'Atlanta",
+   "chapeau": "Le président chinois Xi Jinping a officialisé le prêt de deux pandas géants aux États-Unis lors de sa rencontre avec Donald Trump à Washington le 24 septembre 2026. Les deux mammifères ont pris la direction du zoo d'Atlanta en Géorgie dans la nuit du samedi 26 au dimanche 27 septembre 2026.",
+   "corps": "Le président chinois Xi Jinping a annoncé le transfert imminent de deux ursidés vers les États-Unis lors d'un séjour officiel à Washington. L'annonce est intervenue le jeudi 24 septembre 2026. Ce voyage diplomatique a réuni le chef d'État chinois et le président américain Donald Trump à la Maison-Blanche.\n\nLes animaux concernés se nomment Ping Ping et Fu Shuang. Ping Ping est un mâle et Fu Shuang est une femelle. Les autorités chinoises et l'établissement zoologique américain avaient convenu dès le mois d'avril 2026 de l'envoi de ces deux bêtes. Les animaux ont quitté la République populaire de Chine aux premières heures de la journée du dimanche 27 septembre 2026. Leur départ s'est déroulé depuis les pistes de l'aéroport international de Chengdu-Shuangliu, une plateforme aérienne située dans le sud de la Chine. Un vol affrété spécialement transporte les mammifères vers leur destination finale dans l'État de Géorgie. Les informations diffusées par la télévision centrale de Chine et relayées par la presse précisent que ce partenariat implique un séjour d'une décennie sur le territoire américain.\n\nLe prêt de ces animaux s'inscrit au sein d'un programme d'échanges d'animaux nommé diplomatie du panda. Le gouvernement chinois emploie traditionnellement ces transferts pour stimuler et consolider ses rapports avec les États étrangers. Ce geste marque une recherche d'apaisement dans les relations bilatérales entre les deux premières puissances économiques du globe. Les deux dirigeants ont affiché une posture d'entente mutuelle à Washington, tout en prévoyant d'aborder des discussions techniques sur le thème de l'intelligence artificielle.\n\nLes sources ne précisent pas les détails financiers du contrat de location des animaux ni l'horaire exact d'atterrissage sur le sol américain.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-24/two-pandas-to-arrive-in-atlanta-in-a-few-days-xi-says"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/xi-says-two-giant-pandas-from-china-will-arrive-in-the-coming-days-at-atlantas-zoo/article71505366.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/chinas-xi-says-pandas-will-soon-arrive-in-atlanta"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-xi-jinping-besucht-weisses-haus-und-kuendigt-panda-geschenk-an-a-b62f24b2-2ab0-460c-b4f0-54235371828b"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/em-visita-a-trump-xi-diz-que-vai-enviar-dois-pandas-a-zoologico-dos-eua.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/27/la-chine-envoie-deux-pandas-geants-aux-etats-unis-dans-un-nouveau-geste-diplomatique_6783645_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-09-24T15:37:23Z",
+   "suite_de": null,
+   "mots": 321,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Expulsion d'une octogénaire à Madrid et manifestations contre le coût du logement",
+   "chapeau": "Plusieurs milliers de personnes ont manifesté samedi 26 septembre 2026 à Madrid pour protester contre l'expulsion de Maricarmen Abascal, une femme de 87 ans. Cette intervention policière relance le débat sur la cherté de l'immobilier en Espagne.",
+   "corps": "Une firme immobilière a racheté l'appartement où vivait Maricarmen Abascal depuis sept décennies dans le quartier du Retiro à Madrid. La société a ensuite augmenté le loyer de 275 pour cent, selon les informations publiées par The Straits Times le 26 septembre 2026. L'habitante n'a pas pu verser cette somme d'argent.\n\nLa police a forcé la porte du domicile et a évacué l'octogénaire sur une civière. Les images de cette intervention ont circulé dans les médias.\n\nLes manifestants se sont rassemblés dans les rues de la capitale espagnole samedi 26 septembre 2026. Ils ont demandé une meilleure protection juridique pour les locataires et des mesures pour limiter la hausse des loyers. Certains participants ont dressé des tentes dans le centre de la ville.\n\nCette situation accentue la pression politique sur le premier ministre Pedro Sánchez. Le dirigeant s'était engagé à faire de l'accès au logement une priorité de son administration, d'après Le Monde le 27 septembre 2026.\n\nCertaines sources évoquent des milliers de manifestants tandis que d'autres mentionnent des dizaines de milliers de participants pour le rassemblement de samedi.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cm4gjvz734w3o"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/09/o-dramatico-despejo-da-idosa-de-87-anos-que-expoe-a-gravidade-da-crise-de-moradia-na-espanha.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/spanien-87-jaehrige-maricarmen-abascal-muss-ihre-wohnung-nach-70-jahren-zwangsraeumen-a-b2af2841-556e-4ab9-b706-1f4c031236a6"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/vous-pourriez-etre-la-prochaine-maricarmen-des-milliers-de-manifestants-dans-les-rues-de-madrid-pour-soutenir-une-octogenaire-expulsee-de-son-appartement_8211455.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/thousands-march-in-spains-madrid-over-forced-eviction-of-87-year-old-woman"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/26/crise-du-logement-en-espagne-des-milliers-de-manifestants-a-madrid-pour-soutenir-une-octogenaire-expulsee-de-chez-elle_6783545_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20260926-espagne-une-octog%C3%A9naire-expuls%C3%A9e-de-son-logement-devient-le-symbole-d-un-secteur-en-crise"
+    },
+    {
+     "nom": "channelnewsasia.com",
+     "url": "https://channelnewsasia.com/world/madrid-protest-eviction-87-year-old-woman-6413036"
+    }
+   ],
+   "premiere_parution": "2026-09-24T16:45:45Z",
+   "suite_de": null,
+   "mots": 216,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump rejette la proposition iranienne pour rouvrir le détroit d'Ormuz",
+   "chapeau": "Le président américain Donald Trump a rejeté le plan proposé par l'Iran pour rouvrir le détroit d'Ormuz en sept jours. Cette décision, confirmée le 26 septembre 2026, intervient alors que Téhéran maintient ses exigences pour débloquer cette voie maritime stratégique.",
+   "corps": "Les négociateurs des deux pays ont cherché un accord progressif en marge de l'Assemblée générale des Nations unies. L'Iran a soumis sa proposition le 25 septembre 2026. Le plan prévoyait de rouvrir le détroit d'Ormuz, une voie de passage maritime essentielle pour le commerce mondial, dans un délai de sept jours après la signature de l'accord. En échange, Téhéran demandait un allègement des sanctions économiques imposées par Washington.\n\nDonald Trump a publiquement rejeté cette offre le 26 septembre 2026. Le président américain a affirmé que les dirigeants iraniens voulaient cet accord parce qu'ils étaient en train de perdre la guerre. Malgré ce refus, Donald Trump a déclaré que les discussions en cours pourraient permettre d'obtenir des progrès importants.\n\nDe son côté, le gouvernement iranien a annoncé le 27 septembre 2026 qu'il ne modifierait pas ses exigences. Téhéran maintient ses conditions initiales pour la réouverture du détroit d'Ormuz.\n\nSelon des informations publiées par le Wall Street Journal, le président des États-Unis envisage de reprendre les bombardements sur le territoire iranien. Ces opérations militaires pourraient recommencer après les élections législatives américaines de mi-mandat prévues au début du mois de novembre.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/estados-unidos-iran-negocian-acuerdo-fases-reabrir-20260924194157-nt.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20260926-trump-refuse-l-offre-iranienne-pour-rouvrir-le-d%C3%A9troit-d-ormuz-rapporte-le-wall-street-journal"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/monde/20260926-donald-trump-refuse-l-offre-iranienne-pour-rouvrir-le-d%C3%A9troit-d-ormuz"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/guerre-au-moyen-orient-donald-trump-refuse-loffre-iranienne-de-rouvrir-le-detroit-dormuz-20260926_PBWUV32UTVHEZISZFJ6YUF4LNE"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/l-iran-a-soumis-aux-etats-unis-un-plan-en-sept-jours-pour-une-reouverture-du-detroit-d-ormuz-20260925"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-a-refuse-l-offre-iranienne-pour-rouvrir-le-detroit-d-ormuz-selon-the-wall-street-journal_8210771.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/26/donald-trump-rejette-le-plan-de-reouverture-iranien-du-detroit-d-ormuz_6783275_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html"
+    }
+   ],
+   "premiere_parution": "2026-09-24T19:21:50Z",
+   "suite_de": null,
+   "mots": 228,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Maison Blanche remplace CNN par Real America's Voice dans l'avion présidentiel",
+   "chapeau": "L'administration américaine a exclu la chaîne d'information CNN du vol présidentiel à destination du Tennessee le samedi 26 septembre 2026. L'exécutif a attribué la place du média audiovisuel au canal conservateur Real America's Voice News.",
+   "corps": "La chaîne CNN devait assurer la couverture audiovisuelle mutualisée du déplacement de Donald Trump samedi 26 septembre 2026. Le président des États-Unis se rendait dans la ville de Knoxville pour assister à une rencontre de football américain universitaire.\n\nLa Maison Blanche a retiré l'accréditation du réseau d'information pour ce trajet à bord de l'appareil Air Force One. L'administration a attribué le siège réservé au pool télévisé au média conservateur Real America's Voice News. Cette décision s'inscriit dans les tensions entre la présidence et plusieurs entreprises de presse.\n\nLa semaine précédente, le gouvernement américain avait suspendu l'accès de trois médias à la présidence, dont CNN. Un juge avait ensuite ordonné le rétablissement de l'accès des journalistes de la chaîne au bâtiment officiel.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/casa-branca-impede-cnn-de-viajar-com-trump-no-air-force-one-diz-jornal.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-26/white-house-renews-media-fight-barring-cnn-from-trump-trip"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/26/witte-huis-weert-nieuwszender-cnn-uit-air-force-one-a4937595"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-cnn-von-trumps-reise-nach-tennessee-ausgeschlossen-a-944a98f6-dae4-4899-8a1d-20a843fde422"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20260926-les-journalistes-de-la-cha%C3%AEne-cnn-exclus-d-un-d%C3%A9placement-de-trump"
+    }
+   ],
+   "premiere_parution": "2026-09-26T01:08:00Z",
+   "suite_de": "2026-09-26-monde-001",
+   "mots": 156,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV effectue une visite officielle en France",
+   "chapeau": "Le pape Léon XIV est arrivé en France le vendredi 25 septembre 2026 pour un voyage officiel de quatre jours. Durant ses premières étapes à Paris, le souverain pontife a abordé plusieurs sujets politiques et sociétaux d'actualité.",
+   "corps": "Le chef de l'Église catholique a entamé son séjour par des discours à l'Élysée et à l'Unesco. Il s'est également rendu à la cathédrale Notre-Dame de Paris, devenant le premier pape à y entrer depuis sa reconstruction. Lors de ses prises de parole, Léon XIV a critiqué le recours à l'intelligence artificielle, qu'il présente comme une menace de déshumanisation. Le pape a également condamné l'avortement, la gestation pour autrui et la mort assistée, alors que le Parlement français a légalisé l'euthanasie durant l'été 2026.\n\nLe souverain pontife a plaidé pour une laïcité juste qui n'exclut pas les religions de l'espace public. Il a également qualifié la situation à Ceuta de crise humanitaire lors de son voyage en avion. Le samedi 26 septembre 2026, le pape a visité un centre d'accueil pour les migrants à Paris, où il a demandé de respecter leur dignité. Il s'est ensuite rendu à Lourdes pour prier pour la France et ses futurs dirigeants.\n\nLe samedi 26 septembre 2026, le pape a célébré une grande messe en plein air à Paris, sur la place de la Concorde. Cet événement a rassemblé une foule très importante de fidèles venus écouter son message de paix et de partage.\n\n## Ce que disent les sources\n\nLe nombre de participants à la messe parisienne du samedi 26 septembre 2026 varie selon les médias. Le journal Folha de S.Paulo et le quotidien El País rapportent la présence de 800 000 personnes. De son côté, l'agence Europa Press fait état de 700 000 fidèles, tandis qu'un autre article de Folha de S.Paulo mentionne un rassemblement de 600 000 personnes sur les Champs-Élysées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-25/el-papa-leon-xiv-aterriza-en-francia-en-plena-crisis-de-la-laicidad.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/papa-chega-a-franca-em-busca-de-restaurar-reputacao-da-igreja-apos-escandalo-de-abusos-sexuais-de-criancas.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/papa-leon-xiv-llega-francia-visita-historica-20260925102550-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.net/news/2026/9/26/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%84%D9%8A%D9%88-%D9%8A%D8%AE%D8%AA%D8%AA%D9%85-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/26/superster-leo-xiv-verbindt-seculier-frankrijk-met-twee-millennia-katholieke-geschiedenis-a4937481"
+    },
+    {
+     "nom": "Europa Press",
+     "url": "https://europapress.es/sociedad/noticia-papa-visita-centro-migrantes-paris-pide-honrar-dignidad-infinita-cada-hermano-hermana-20260926105614.html"
+    }
+   ],
+   "premiere_parution": "2026-09-25T03:30:01Z",
+   "suite_de": null,
+   "mots": 308,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Le pape Léon XIV rassemble les fidèles à Paris puis gagne Lourdes",
+   "chapeau": "Le pape Léon XIV a poursuivi samedi 26 septembre 2026 sa visite en France en célébrant une messe à Paris avant de se rendre à Lourdes. Ce déplacement s'inscrit dans le cadre de son voyage apostolique de quatre jours sur le territoire français commencé vendredi 25 septembre.",
+   "corps": "Le souverain pontife a descendu les Champs-Élysées en papamobile samedi 26 septembre 2026. Il a présidé une grande célébration religieuse sur la place de la Concorde à partir de 15 heures. Durant son homélie, il a évoqué le besoin de transcendance et a invité les croyants à partager leur foi dans la communauté.\n\nDe nombreux représentants politiques du centre, de la droite et du Rassemblement national ont pris place dans les tribunes. Sébastien Lecornu et Marine Le Pen ont notamment assisté à l'événement. Le président Emmanuel Macron n'est pas venu. Les principales personnalités de la gauche étaient également absentes et certaines ont rejoint des marches pour le climat.\n\nAprès cette cérémonie parisienne, le pape a rejoint Lourdes samedi soir. Il s'est recueilli devant la grotte de Massabielle. Lors de sa prière à la Vierge Marie, le pontife a demandé à ce que la France dispose de dirigeants sages, généreux et désireux de servir le bien commun pour soutenir les personnes défavorisées. Dimanche 27 septembre 2026, son programme prévoit une messe rassemblant 200 000 personnes, un entretien avec les évêques français ainsi qu'une rencontre avec des victimes de violences sexuelles.\n\n## Ce que disent les sources\n\nLes médias affichent des estimations différentes concernant la participation à la messe parisienne du 26 septembre 2026. La Croix mentionne près de 600 000 fidèles le 26 septembre 2026 à 22 h 55. Der Spiegel rapporte environ 700 000 personnes le 26 septembre 2026 à 19 h 01. Le Monde cite le chiffre de 800 000 participants selon le Vatican le 26 septembre 2026 à 23 h 13, un total également avancé par Le Figaro et franceinfo le 27 septembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/leo-xiv-in-frankreich-rund-700-000-menschen-feiern-papstmesse-in-paris-a-00083c2f-aa30-4a73-9c0d-c3480d3e3db5"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260926-pape-%C3%A0-paris-trois-questions-aux-jeunes-catholiques"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/religions/en-direct-le-pape-leon-xiv-en-visite-a-paris-what-a-messe-20260926_M3EIUOGP6NB5ZBHCIC2TQOIYYQ"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/religion/live-messe-pape-paris-leon-xiv-concorde-champs-elysees-lourdes-homelie-france-20260926"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/26/leon-xiv-en-pape-tranquille-et-rassembleur-fait-le-plein-a-paris-pour-la-messe-de-la-concorde_6783543_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/a-lourdes-leon-xiv-prie-pour-des-dirigeants-sages-et-genereux-pour-la-france_8211497.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/a-lourdes-leon-xiv-prie-pour-la-france-et-ses-dirigeants-20260926"
+    }
+   ],
+   "premiere_parution": "2026-09-24T12:34:21Z",
+   "suite_de": "2026-09-26-france-002",
+   "mots": 322,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump rejette le plan iranien pour rouvrir le détroit d'Ormuz",
+   "chapeau": "Le président des États-Unis Donald Trump a rejeté l'offre de l'Iran visant à rouvrir le détroit d'Ormuz en sept jours. Les autorités iraniennes ont affirmé attendre une réponse diplomatique officielle de Washington transmise par les médiateurs qataris.",
+   "corps": "Le ministre iranien des Affaires étrangères Abbas Araghchi avait proposé le 24 septembre 2026 un calendrier d'une semaine pour rouvrir le détroit d'Ormuz et cesser les combats. Le président américain Donald Trump a publiquement écarté cette initiative durant le week-end des 26 et 27 septembre 2026.\n\nLe chef de l'État américain a qualifié le projet iranien d'inacceptable. Donald Trump a affirmé que les dirigeants de Téhéran cherchent à négocier un accord en raison de leurs difficultés militaires et financières. Selon lui, les autorités iraniennes souhaitent rétablir le passage maritime pour percevoir de nouveau des revenus économiques.\n\nL'offre diplomatique de Téhéran prévoyait la réouverture sous sept jours de cette voie d'eau stratégique, passage maritime étroit entre deux côtes. En échange, le texte demandait l'allègement des sanctions économiques imposées par Washington et le déblocage des avoirs iraniens gelés.\n\nLe ministre Abbas Araghchi a indiqué à New York que son pays a soumis un projet concret à la partie américaine. La délégation iranienne a fait savoir qu'elle attend toujours une notification officielle transmise par les intermédiaires du Qatar avant de considérer les pourparlers comme clos.\n\nLe refus exprimé par la présidence américaine intervient alors que des frappes des Houthis ont visé Riyad, la capitale de l'Arabie saoudite, au cours du même week-end.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-step-up-attacks-2026-09-25"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/iran-strait-of-hormuz-reopen-us-accepts-deal"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-09-26/ty-article/.premium/trump-rejects-irans-proposal-to-open-strait-of-hormuz-in-7-days/000001a0-de03-dfbb-afa4-ff53cb510000"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-26/trump-says-he-rejected-latest-iran-proposal-to-reopen-hormuz"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-rejects-irans-proposal-to-open-strait-of-hormuz-and-end-fighting"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+    }
+   ],
+   "premiere_parution": "2026-09-24T16:21:47Z",
+   "suite_de": "2026-09-26-geopolitique-002",
+   "mots": 246,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Les États-Unis et la Chine prolongent leur trêve commerciale sans accord majeur",
+   "chapeau": "Le président américain Donald Trump et le dirigeant chinois Xi Jinping ont conclu le vendredi 25 septembre 2026 un sommet de trois jours à Washington. Les deux dirigeants ont étendu leur trêve commerciale jusqu'au 10 janvier 2026 et ont planifié deux nouvelles rencontres d'ici la fin de l'année.",
+   "corps": "À la suite de la visite officielle achevée le 25 septembre 2026 aux Archives nationales des États-Unis, les deux gouvernements ont confirmé le maintien du dialogue bilatéral. Washington et Pékin ont repoussé la fin de leur trêve commerciale au 10 janvier 2026 selon une annonce du 25 septembre 2026. Deux réunions ultérieures entre les chefs d'État sont prévues lors du sommet de l'APEC en Chine puis lors du sommet du G20 à Miami.\n\nLes discussions n'ont pas abouti à un accord d'ampleur sur les questions économiques ou sur l'encadrement de l'intelligence artificielle. Les dirigeants ont mis en avant leur relation personnelle à travers plusieurs séquences diplomatiques, dont un thé partagé et une visite guidée des textes fondateurs américains. Le président chinois a quitté la capitale américaine à l'issue de ce séjour diplomatique de trois jours.\n\nPlusieurs détails relatifs aux engagements tarifaires précis retenus pendant la trêve commerciale ne sont pas précisés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/xi-wraps-up-us-visit-with-trip-to-national-archives/live-79404511?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-chinese-leader-says-bilateral-ties-will-be-brighter"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-xi-wrap-up-summit-with-tea-and-tour-of-us-archives/article71510159.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-xi-wrap-up-summit-with-tea-and-tour-of-us-national-archives"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20260925-xi-ach%C3%A8ve-sa-visite-%C3%A0-washington-sur-une-image-d-entente-avec-trump"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20260926/0ff949b513804621b45d7e87b369c4b1/c.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-26/here-s-a-comparison-of-us-china-readouts-on-trump-xi-summit"
+    }
+   ],
+   "premiere_parution": "2026-09-24T16:54:00Z",
+   "suite_de": "2026-09-26-geopolitique-003",
+   "mots": 202,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-27-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Première rencontre entre les ministres des Affaires étrangères allemand et russe depuis 2022",
+   "chapeau": "Le ministre allemand des Affaires étrangères, Johann Wadephul, et son homologue russe, Sergueï Lavrov, se sont entretenus samedi 26 septembre 2026 à New York. Cette rencontre, organisée en marge de l'Assemblée générale des Nations unies, constitue leur premier échange direct depuis le début de l'invasion de l'Ukraine par la Russie en février 2022.",
+   "corps": "Les délégations officielles des deux pays ont confirmé la tenue de cet entretien bilatéral, selon les informations de l'agence Reuters publiées le 26 septembre 2026. Les deux ministres des Affaires étrangères ne s'étaient pas parlé directement depuis plus de quatre ans, d'après un article du Financial Times du 26 septembre 2026. Cette discussion s'est déroulée durant le cinquième jour des débats de la quatre-vingt-première session de l'Assemblée générale des Nations unies, comme l'a précisé la Deutsche Welle le 26 septembre 2026. Les relations diplomatiques entre Berlin et Moscou traversent une période de tensions accrues, qui se sont intensifiées au cours des dernières semaines.\n\nAu cours de cet entretien, que le ministre allemand a qualifié de conversation intense, les deux diplomates ont abordé la situation militaire en Ukraine ainsi que l'état des relations bilatérales, d'après les informations de Bloomberg du 26 septembre 2026. Johann Wadephul a demandé instamment à la Russie d'abandonner sa trajectoire actuelle. Le représentant allemand a désigné l'attitude de Moscou comme un chemin dangereux d'escalade avec les pays européens, selon un rapport de l'agence Al Jazeera du 27 septembre 2026.\n\nLe ministre allemand a également exprimé ses préoccupations concernant des incursions récentes de drones sur le territoire. Johann Wadephul a directement attribué au gouvernement de Moscou la responsabilité d'une attaque de drone survenue dans la ville de Leipzig, d'après les informations de Politico du 26 septembre 2026. Malgré ces accusations, le ministre allemand a exprimé une position d'ouverture concernant la participation de la Russie aux instances internationales. Il a ainsi salué l'invitation adressée au président russe Vladimir Poutine pour assister au prochain sommet du G20, forum des vingt économies majeures.\n\nDe son côté, Sergueï Lavrov a rejeté les demandes de désescalade présentées par son homologue allemand. Le ministre russe a exprimé sa position lors de son allocution officielle devant l'assemblée annuelle des dirigeants mondiaux aux Nations unies, d'après un article de The Hindu du 27 septembre 2026. Durant ce discours, le chef de la diplomatie russe a interpellé directement le gouvernement allemand. Il a demandé si les dirigeants à Berlin comprenaient les conséquences possibles de leur politique actuelle. Sergueï Lavrov a également demandé si l'Allemagne avait oublié les leçons de la Seconde Guerre mondiale.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/un-russia-germanys-top-diplomats-hold-first-talks-since-2022-2026-09-26"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_26?evenement=a3b6a659d1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-26/russia-says-lavrov-met-with-german-foreign-minister-wadephul"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/germany-calls-on-russia-to-abandon-its-dangerous-path-of-escalation-as-foreign-ministers-meet-at-un"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/germany-russia-johann-wadephul-sergey-lavrov-meeting-un"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions"
+    }
+   ],
+   "premiere_parution": "2026-09-26T12:00:00Z",
+   "suite_de": null,
+   "mots": 419,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-27-monde-001",
+  "2026-09-27-geopolitique-001",
+  "2026-09-27-monde-002",
+  "2026-09-27-monde-003",
+  "2026-09-27-geopolitique-002",
+  "2026-09-27-monde-004",
+  "2026-09-27-monde-005",
+  "2026-09-27-geopolitique-003"
+ ]
+}

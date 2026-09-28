@@ -1,0 +1,658 @@
+{
+ "date": "2026-09-28",
+ "genere_a": "2026-09-28T06:05:44Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-28-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Cinq hommes arrêtés au Royaume-Uni pour un projet terroriste près d'une base",
+   "chapeau": "La police britannique a interpellé cinq suspects dimanche 27 septembre 2026 à proximité de la base militaire de Fairford. Les autorités les soupçonnent d'avoir préparé une action terroriste et manipulé des matières explosives près de cette installation utilisée par l'armée américaine.",
+   "corps": "Les forces de l'ordre britanniques ont appréhendé cinq individus au cours d'une opération qualifiée d'incident majeur dans le comté du Gloucestershire. L'intervention s'est déroulée aux abords de la base aérienne de la Royal Air Force à Fairford. Les autorités ont placé ces hommes en garde à vue pour des infractions liées aux explosifs et pour préparation d'un acte terroriste.\n\nUne alerte donnée par un témoin a déclenché l'opération de police. Ce signalement mentionnait la présence de trois camionnettes suspectes qui se dirigeaient vers l'aérodrome militaire ou stationnaient à quelques minutes des installations. Des unités armées et des équipes de déminage ont inspecté ces véhicules sur place. Les agents ont découvert des matières explosives à l'intérieur des camionnettes selon les éléments recueillis lors des premières constatations.\n\nLes services de sécurité ont mis en place un périmètre de protection dans la localité voisine de Whelford. Les équipes de secours ont évacué plusieurs dizaines d'habitations pendant l'examen des véhicules suspects par les démineurs. La direction des unités antiterroristes britanniques a pris en charge la conduite de l'enquête pour analyser le matériel saisi et déterminer les objectifs du groupe.\n\nLa base militaire de Fairford sert de point d'appui aux forces armées des États-Unis. Le gouvernement du Royaume-Uni a autorisé l'armée américaine à utiliser ces pistes pour déployer des bombardiers et des avions de combat. Ces aéronefs mènent des frappes contre des positions de missiles en Iran qui prennent pour cible des navires marchands circulant dans le détroit d'Ormuz.\n\nLe président américain Donald Trump est intervenu publiquement au sujet de cette intervention. Selon ses déclarations, les services de renseignement surveillaient une partie des individus interpellés avant leur arrestation. Le président des États-Unis a affirmé que les suspects avaient pour projet de causer des dégâts majeurs et a indiqué qu'une coopération entre les services américains et britanniques avait permis de déjouer cette action.\n\nLes services antiterroristes britanniques vérifient l'existence d'éventuels liens entre ce projet d'attaque et l'Iran. Les enquêteurs examinent la provenance des explosifs retrouvés dans les camionnettes ainsi que les itinéraires empruntés par les véhicules avant leur neutralisation.\n\nL'identité précise des cinq suspects et la nature exacte des explosifs transportés ne sont pas précisées par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-27/trump-says-suspects-arrested-in-uk-had-been-under-surveillance"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/policia-do-reino-unido-prende-5-homens-por-suspeita-de-terrorismo-em-base-aerea-dos-eua.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-27/la-policia-britanica-detiene-a-varios-sospechosos-por-manejar-explosivos-cerca-de-la-base-militar-aerea-de-fairford.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/trump-says-men-arrested-at-us-air-base-in-uk-were-looking-to-do-big-damage"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/varios-detenidos-whelford-tras-incidente-grave-cerca-20260927122454-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us"
+    }
+   ],
+   "premiere_parution": "2026-09-27T07:12:22Z",
+   "suite_de": null,
+   "mots": 404,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le president serbe Aleksandar Vucic annonce sa demission pour les legislatives",
+   "chapeau": "Le president serbe Aleksandar Vucic a annonce sa demission le dimanche 27 septembre 2026. Cette decision ouvre la voie a des elections anticipees prevues en octobre 2026.",
+   "corps": "Le president serbe Aleksandar Vucic a officialise sa demission le dimanche 27 septembre 2026, d'apres les informations diffusees par RFI et l'Agence France-Presse reprises par franceinfo. Cette demission intervient alors que son mandat presidencial devait s'achever en mai de l'annee suivante, selon les precisions de The Guardian du 27 septembre 2026.\n\nApres l'annonce de sa demission, la presidente de l'Assemblee nationale Ana Brnabic exerce les fonctions de presidente par interim, ainsi que l'indique le portail Wikipedia le 27 septembre 2026 en citant Reuters. Aleksandar Vucic brigue des a present le poste de premier ministre en vue des prochaines elections legislatives anticipees.\n\nCe scrutin fait suite a des mouvements de contestation menes par des etudiants et a des manifestations prolongees d'apres les publications de franceinfo, Le Monde et la BBC datees des 27 et 28 septembre 2026. La Constitution interdit a Aleksandar Vucic de briguer un nouveau mandat presidentiel, selon l'article de The Guardian du 27 septembre 2026.\n\n## Ce que disent les sources\n\nCertaines sources comme Reuters et The Straits Times mentionnent des elections presidentielles anticipees, tandis que Bloomberg, RFI, Le Monde et Deutsche Welle indiquent des elections legislatives anticipees en octobre 2026 pour lesquelles Aleksandar Vucic est candidat au poste de premier ministre.\n\nCertains elements manquent concernant le calendrier precis du scrutin d'octobre 2026 et la date exacte du vote.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-27/serb-president-vucic-to-quit-in-switch-to-pm-post-echoing-putin-s-power-move"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/serbias-president-vucic-resigns-paving-way-early-elections-2026-09-27"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20260927-serbie-le-pr%C3%A9sident-aleksandar-vucic-annonce-sa-d%C3%A9mission-des-%C3%A9lections-anticip%C3%A9es-%C3%A0-venir"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/serbias-president-vucic-resigns-ahead-of-october-parliamentary-elections"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/serbien-praesident-aleksandar-vucic-tritt-zurueck-a-b00878be-2670-416c-987b-44f9df7da1e1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/le-president-serbe-aleksandar-vucic-demissionne-des-elections-anticipees-a-venir_8212511.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-09-27T07:00:00Z",
+   "suite_de": null,
+   "mots": 247,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Deux pandas géants chinois sont arrivés à Atlanta après un accord diplomatique",
+   "chapeau": "Les deux pandas géants Ping Ping et Fu Shuang sont arrivés dimanche 27 septembre 2026 à Atlanta, aux États-Unis. Cet accueil concrétise le prêt de dix ans conclu entre le gouvernement chinois et le gouvernement américain.",
+   "corps": "Le transfert s'inscrit dans la suite de l'accord officialisé le 24 septembre 2026 entre le président chinois Xi Jinping et le président américain Donald Trump lors d'un sommet de trois jours à Washington.\n\nLes deux ursidés ont quitté l'aéroport international de Chengdu-Shuangliu, dans le sud-ouest de la Chine, tôt dans la journée du dimanche 27 septembre 2026. L'agence CCTV et Le Monde ont rapporté ce départ le 27 septembre 2026.\n\nLe voyage s'est effectué à bord d'un avion cargo affrété par la compagnie FedEx. La durée du vol a atteint seize heures, selon Der Spiegel le 28 septembre 2026. Deutsche Welle et Der Spiegel ont précisé le 27 et le 28 septembre 2026 que la nourriture à bord se composait de pains de maïs vapeur, de carottes et de bambou.\n\nL'appareil a atterri à l'aéroport international Hartsfield-Jackson d'Atlanta. Les pandas ont ensuite rejoint le zoo d'Atlanta, dans l'État de Géorgie, où ils doivent passer les dix prochaines années.\n\nCette initiative relève du programme de diplomatie du panda mené par la Chine pour entretenir ses relations extérieures, d'après The Straits Times et le Corriere della Sera le 27 septembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/china-sends-two-giant-pandas-to-us-after-trump-xi-summit"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/27/la-chine-envoie-deux-pandas-geants-aux-etats-unis-dans-un-nouveau-geste-diplomatique_6783645_3210.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/china-sends-two-giant-pandas-off-to-atlanta-zoo-after-xi-trump-summit/a-79447128?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/animali/26_settembre_27/ping-ping-e-fu-shuang-in-volo-dalla-cina-verso-gli-usa-torna-la-diplomazia-del-panda-97e0c1d4-65cb-42be-a565-59c5993bfxlk.shtml"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/china-pandas-atlanta-zoo-trump-xi-jingping-ff3ac033385997ac4d07a8a5c9c2f9bb"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/northamerica/20260927/b58fe32233e241608bd56a2baa49f736/c.html"
+    }
+   ],
+   "premiere_parution": "2026-09-27T02:25:00Z",
+   "suite_de": "2026-09-27-monde-003",
+   "mots": 225,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Deux fusillades font au moins 27 morts en Afrique du Sud",
+   "chapeau": "Au moins 27 personnes ont perdu la vie lors de deux attaques armées survenues dans des établissements nocturnes près de Johannesburg et du Cap. Les faits se sont déroulés entre le samedi 26 et le dimanche 27 septembre 2026.",
+   "corps": "La police sud-africaine a fait état d'un premier massacre commis vers 21 heures 30 samedi soir dans un débit de boisson de Wedela, une municipalité située au sud-ouest de Johannesburg. Huit individus munis de fusils d'assaut ont ouvert le feu sur les personnes présentes, provoquant la mort de 17 victimes.\n\nLa seconde attaque s'est produite quelques heures plus tard dans la périphérie de la capitale provinciale du Cap, au sein d'un établissement de grillades. Dix personnes y ont trouvé la mort sous les balles des assaillants.\n\nLes autorités policières n'ont procédé à aucune arrestation pour le moment. Les enquêteurs étudient la piste de règlements de comptes entre factions rivales et l'hypothèse de conflits liés à l'extraction illégale d'or.\n\nLes données relatives aux blessés et aux motifs précis des agressions n'ont pas été détaillées par les forces de l'ordre.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/hombres-armados-ak47-asaltan-dos-locales-ocio-20260927101515-nt.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/27/27-doden-bij-twee-schietpartijen-in-cafe-en-uitgaansgelegenheid-in-zuid-afrika-a4937624"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/en-afrique-du-sud-deux-nouvelles-fusillades-de-masse-frappent-le-pays-en-quelques-heures-20260927"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/in-sudafrica-almeno-27-morti-in-due-diverse-sparatorie-in-un-video-i-rilievi-della-polizia/00785af7-3ff6-4011-8c51-ccba425bcxlk"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/afrique/afrique-du-sud/deux-fusillades-dans-des-bars-du-cap-et-de-johannesburg-en-afrique-du-sud-font-27-morts-au-total_8211866.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/south-africa-mass-shootings-update-toll-september-27-2026/article71515410.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-26T12:00:00Z",
+   "suite_de": null,
+   "mots": 177,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le pape rencontre des victimes d'abus sexuels à Lourdes",
+   "chapeau": "Le pape Léon XIV a rencontré des victimes d'abus sexuels commis par des membres de l'Église catholique le dimanche 27 septembre 2026 à Lourdes, en France. Le souverain pontife a promis d'agir pour empêcher de nouveaux faits et a demandé à l'institution de reconnaître ses erreurs.",
+   "corps": "Le chef de l'Église catholique a mené un entretien privé de deux heures avec sept victimes d'agressions sexuelles commises durant leur enfance. Cette rencontre s'est déroulée dans la ville de Lourdes, au cours d'un voyage de quatre jours du pape en France. Selon les informations publiées par le journal The Straits Times le 27 septembre 2026, environ 330 000 enfants français ont subi des abus de la part de membres du clergé et de laïcs de l'Église sur une période de soixante-dix ans.\n\nDurant cet entretien, chaque victime a pu s'exprimer individuellement. Les participants ont présenté au pape des propositions pour améliorer les dispositifs de protection au sein de l'Église. Le souverain pontife s'est engagé à mettre en œuvre des mesures pour éviter que de tels actes ne se reproduisent. Devant les évêques français, il a qualifié ces violences de fléau douloureux et a salué les décisions courageuses prises par les responsables catholiques locaux.\n\nLors d'un rassemblement en plein air près du sanctuaire de Lourdes, le pape a également prononcé un discours devant des milliers de fidèles. Il a invité l'Église à soigner ses blessures profondes et à faire face à ses manquements passés. Au cours de ce même déplacement, Léon XIV a exprimé des critiques contre l'aide active à mourir, qu'il a qualifiée de fausse compassion.\n\n## Ce que disent les sources\n\nLe journal espagnol El País affirme que le pape a évité l'autocritique en public et a félicité les évêques français pour leur gestion de la situation, avant de reconnaître en privé face aux victimes que le problème était systémique, c'est-à-dire lié au fonctionnement global de l'institution. De leur côté, les autres sources soulignent que le souverain pontife a publiquement appelé l'Église à admettre ses propres défaillances afin de guérir ses blessures.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-leo-urges-church-to-face-failings-before-meeting-french-abuse-survivors"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/papa-insta-a-igreja-a-enfrentar-falhas-antes-de-se-reunir-com-vitimas-de-abusos-na-franca.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm5y5nj8ejj8o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-09-27/el-papa-elude-la-autocritica-y-felicita-a-la-iglesia-francesa-por-su-gestion-de-los-casos-de-pederastia.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors"
+    }
+   ],
+   "premiere_parution": "2026-09-27T09:37:20Z",
+   "suite_de": null,
+   "mots": 339,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-monde-006",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des manifestants campent à Madrid après l'expulsion d'une octogénaire",
+   "chapeau": "Des centaines de manifestants occupent une place du centre de Madrid depuis la nuit du samedi 26 septembre 2026 pour protester contre la crise du logement. Ce mouvement fait suite à l'expulsion policière de Maricarmen Abascal, une habitante de 87 ans, qui a suscité de grands rassemblements dans la capitale espagnole.",
+   "corps": "Samedi 26 septembre 2026, plusieurs milliers de personnes ont manifesté à Madrid contre l'expulsion de cette femme de 87 ans.\n\nAprès ce rassemblement, des centaines de personnes ont décidé de prolonger la protestation en installant des tentes. Les militants ont passé la nuit de samedi à dimanche sur une place très fréquentée du centre de la capitale espagnole. Les protestataires demandent des mesures pour limiter la hausse des prix de l'immobilier et pour réduire le nombre d'expulsions. Ils réclament également une meilleure protection pour les locataires.\n\nCette mobilisation fait suite à l'évacuation forcée de Maricarmen Abascal de son logement. Les policiers ont forcé la porte de son appartement, et les services de secours ont évacué l'octogénaire sur une civière. Cette femme habitait dans ce logement depuis soixante-dix ans. La diffusion des images de cette intervention policière a suscité une vive émotion en Espagne. L'octogénaire est devenue le symbole des difficultés d'accès au logement dans le pays. Les manifestants affichent leur solidarité avec elle et expriment leur crainte de subir une situation similaire.\n\nLa contestation accentue la pression sur le gouvernement espagnol. Le Premier ministre Pedro Sanchez a promis d'apporter des réponses à cette crise. Le chef du gouvernement s'était engagé à faire du logement une priorité de sa politique. Le pouvoir exécutif souhaite désormais faire voter rapidement une loi pour mieux protéger les locataires.\n\n## Ce que disent les sources\n\nLes estimations sur le nombre de manifestants varient selon les médias. La chaîne allemande Deutsche Welle affirme le 27 septembre 2026 que des dizaines de milliers de personnes ont défilé dans les rues de Madrid. De son côté, le quotidien français Le Monde rapporte le 27 septembre 2026 que des centaines de personnes ont campé durant la nuit pour soutenir l'octogénaire. Le journal Libération indique le 27 septembre 2026 que le gouvernement de gauche veut faire voter rapidement une loi de protection.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/vous-pourriez-etre-la-prochaine-maricarmen-des-milliers-de-manifestants-dans-les-rues-de-madrid-pour-soutenir-une-octogenaire-expulsee-de-son-appartement_8211455.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/27/crise-du-logement-en-espagne-des-centaines-de-personnes-campent-a-madrid-pour-soutenir-une-octogenaire-expulsee-de-chez-elle_6783545_3211.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260927-crise-du-logement-en-espagne-des-milliers-de-manifestants-%C3%A0-madrid"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/wohnungsnot-in-spanien-87-jaehrige-maricarmen-wird-zur-ikone-des-protests-a-6261e28d-c3c7-4c00-8b31-87b6e9a87d12"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/spain-pm-vows-action-as-housing-protest-sparked-by-madrid-eviction-grows"
+    }
+   ],
+   "premiere_parution": "2026-09-25T17:00:00Z",
+   "suite_de": "2026-09-27-monde-004",
+   "mots": 362,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les eaux commencent à refluer à Bangkok après des inondations",
+   "chapeau": "Le niveau de l'eau a commencé à baisser dimanche dans plusieurs quartiers de la capitale thaïlandaise après une accalmie des précipitations. Cette amélioration fait suite à la déclaration de l'état de catastrophe décrété samedi par le gouverneur dans les cinquante districts de la ville.",
+   "corps": "La capitale thaïlandaise a subi d'importantes inondations après quarante-huit heures de pluies intenses. Selon les autorités locales, citées par France 24 le 27 septembre 2026, près de 300 millimètres de pluie sont tombés sur la métropole entre le jeudi après-midi et le samedi matin. Ces précipitations ont provoqué le débordement des canaux et la submersion de nombreuses routes.\n\nLe Premier ministre thaïlandais, Anutin Charnvirakul, a écourté un voyage officiel à Londres pour rentrer en Thaïlande afin de suivre la situation, d'après les informations diffusées par France 24 le 27 septembre 2026.\n\nLe dimanche 27 septembre 2026, l'intensité des pluies a diminué. Selon le journal The Straits Times, la décrue a commencé dans de nombreuses zones de la ville. Cependant, des habitants de certains quartiers inondés restent bloqués à l'intérieur de leurs habitations et évaluent les dégâts matériels.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/inondations-en-thailande-l-etat-de-catastrophe-declare-dans-toute-la-ville-de-bangkok-20260926"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/forti-piogge-in-thailandia-le-immagini-di-bangkok-sommersa-dall-acqua/58ee8bb7-bc41-439c-8cc0-14c15dae9xlk"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/canaux-qui-debordent-et-routes-submergees-inondations-catastrophiques-a-bangkok-20260926"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/bangkok-face-a-des-inondations-monstres-letat-de-catastrophe-naturelle-declare-20260926_BS7EJI26PNBK5HDQXU7ZOD3B2U"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/thailand-katastrophenfall-in-allen-50-bezirken-nach-starkregen-a-5d8384bd-00bb-4d53-a4b5-6691f560d249"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/09/26/thailande-les-images-des-graves-inondations-survenues-a-bangkok_6783207_3210.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck1wxx8n2x3zo"
+    }
+   ],
+   "premiere_parution": "2026-09-25T11:55:00Z",
+   "suite_de": "2026-09-27-monde-001",
+   "mots": 181,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le pape Léon XIV rencontre des victimes d'abus sexuels à Lourdes",
+   "chapeau": "Le pape Léon XIV s'est entretenu dimanche 27 septembre 2026 à Lourdes avec sept personnes victimes d'agressions sexuelles commises dans l'Église. Le souverain pontife a également célébré une messe et participé à pied à la procession aux flambeaux.",
+   "corps": "Après ses étapes parisiennes de samedi, le souverain pontife a poursuivi son voyage officiel dans les Hautes-Pyrénées. Durant la matinée du dimanche 27 septembre 2026, Léon XIV a célébré une messe devant la foule réunie sur la prairie du Sanctuaire Notre-Dame de Lourdes, avant de se rendre auprès de pèlerins malades et handicapés.\n\nEn fin de journée, le chef de l'Église catholique s'est entretenu à huis clos durant près de deux heures avec sept victimes de violences sexuelles. Lors de cet échange, les personnes reçues indiquent que le pape a reconnu la dimension systémique de ces agressions au sein de l'institution. Les participants ont qualifié l'écoute du pontife de profonde et ont salué sa volonté de poursuivre la quête de vérité, de justice et de réparation.\n\nEn soirée, Léon XIV a conclu la journée en effectuant la marche de la procession aux flambeaux au milieu des pèlerins. Il s'agit du premier pape à accomplir ce rite à pied.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20260927-a-lourdes-le-pape-l%C3%A9on-xiv-attendu-sur-les-abus-sexuels-de-l-eglise"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/09/27/visite-du-pape-a-lourdes-sur-les-violences-sexuelles-leon-xiv-appelle-l-eglise-a-continuer-la-recherche-de-la-verite-la-justice-le-pardon-la-reparation_6784556_3224.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/religion/texte-integral-leon-xiv-a-lourdes-la-priere-du-pape-lors-de-la-procession-aux-flambeaux-20260927"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/direct-pape-leon-xiv-visite-france-lourdes-pontife-messe-catholique-religion-concorde-metz-messe-20260927"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/vatican/pape-leon-xiv/des-victimes-de-violences-sexuelles-dans-l-eglise-saluent-l-engagement-et-l-ecoute-profonde-du-pape_8212595.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/religions/pour-les-victimes-de-violences-sexuelles-recues-par-leon-xiv-une-journee-memorable-ou-le-pape-a-reconnu-leur-caractere-systemique-dans-leglise-20260928_QUQ5M3QHSFAEHDQ35VEIOLOCFI"
+    }
+   ],
+   "premiere_parution": "2026-09-25T15:00:51Z",
+   "suite_de": "2026-09-27-france-001",
+   "mots": 196,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Téhéran maintient ses conditions pour le détroit d'Ormuz",
+   "chapeau": "Le gouvernement iranien refuse d'adoucir ses exigences pour débloquer le détroit d'Ormuz le 28 septembre 2026. Cette position répond aux déclarations du président américain Donald Trump sur les négociations en cours.",
+   "corps": "La diplomatie iranienne maintient l'ensemble de ses conditions initiales pour rétablir la circulation maritime dans le détroit d'Ormuz. Le gouvernement d'Iran assure qu'il ne fera aucune concession supplémentaire sur le texte transmis aux médiateurs qataris.\n\nCe texte prévoit la réouverture de la voie maritime et l'arrêt des combats régionaux dans un délai de sept jours. En échange, l'Iran demande la levée des sanctions américaines ainsi que le déblocage des avoirs iraniens gelés à l'étranger. L'administration américaine n'a pas encore transmis de notification écrite officielle pour rejeter ce texte, selon les déclarations des représentants iraniens.\n\nLe ministre iranien des Affaires étrangères, Abbas Araghchi, avait présenté ce programme lors de l'assemblée générale des Nations unies à New York. Le ministre a affirmé devant la presse que la décision finale revient désormais au pouvoir exécutif américain. Abbas Araghchi a également déclaré que la négociation reste le seul moyen de mettre un terme au conflit en cours.\n\nLes autorités iraniennes indiquent que leur proposition reprend les bases d'un protocole d'accord conclu entre Washington et Téhéran au cours du mois de juin. Elles ont affirmé qu'elles ne reculeraient pas devant la position exprimée par Washington.\n\nLe président Donald Trump a qualifié cette offre d'inacceptable lors de ses prises de parole publiques. Il a affirmé que Téhéran cherche un accord immédiat uniquement en raison d'une situation militaire défavorable et d'un manque d'entrées financières. Le président américain a toutefois indiqué qu'il appréciait le principe de conclure des accords.\n\nLes sources ne précisent pas la nature exacte des signaux contradictoires attribués à Donald Trump sur sa volonté de conclure une entente.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-step-up-attacks-2026-09-25"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/iran-strait-of-hormuz-reopen-us-accepts-deal"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-09-26/ty-article/.premium/trump-rejects-irans-proposal-to-open-strait-of-hormuz-in-7-days/000001a0-de03-dfbb-afa4-ff53cb510000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-rejects-irans-proposal-to-open-strait-of-hormuz-and-end-fighting"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-rejects-iranian-proposal-to-open-hormuz-and-end-fighting"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-rejects-iran-proposal-for-deal-to-reopen-hormuz/article71514089.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-25T09:54:40Z",
+   "suite_de": "2026-09-27-geopolitique-001",
+   "mots": 294,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Frappes aériennes meurtrières entre l'Ukraine et la Russie fin septembre",
+   "chapeau": "Les forces armées russes et ukrainiennes ont échangé de multiples attaques aériennes meurtrières durant le week-end des 26 et 27 septembre 2026. Ces opérations ont frappé plusieurs régions d'Ukraine ainsi que le territoire russe sur fond de tensions diplomatiques internationales.",
+   "corps": "L'intensification des tirs aériens a touché les deux pays. Les frappes russes ont utilisé des missiles de croisière, des missiles balistiques, des bombes guidées et des drones motorisés. Les attaques ont visé la capitale ukrainienne de Kiev ainsi que sa périphérie, les régions de Kharkiv et d'Odessa, la ville de Soumy et la localité d'Enerhodar sous contrôle russe. En Ukraine, les impacts ont causé des dégâts matériels dans plusieurs quartiers de Kiev, endommageant notamment des centres de données. Du côté russe, les frappes ont touché la région frontalière de Belgorod.\n\nSur le front militaire terrestre, l'avancée des troupes russes a ralenti environ quatre ans et demi après le début de l'invasion générale de l'Ukraine. Selon le président ukrainien Volodymyr Zelensky, cité le 28 septembre 2026 à 09:06 par Al Jazeera, la Russie a tiré près de 4 000 drones, bombes aériennes et missiles contre l'Ukraine au cours de la semaine précédente.\n\nCes bombardements interviennent dans un contexte d'échanges politiques tendus. Donald Trump a demandé à Volodymyr Zelensky de trouver un accord avec Vladimir Poutine. De son côté, le ministre des Affaires étrangères russe a déclaré que les pays européens faisaient obstacle aux négociations de paix avec l'Ukraine. Par ailleurs, Moscou a repoussé des demandes formulées par le gouvernement allemand pour freiner l'escalade vers les pays membres de l'Organisation du traité de l'Atlantique Nord. Les relations entre Berlin et Moscou se sont dégradées après une tentative d'attaque au drone survenue le mois précédent contre l'aéroport de Leipzig, une opération que les autorités allemandes ont attribuée aux dirigeants russes.\n\n## Ce que disent les sources\n\nLes bilans humains varient selon les rapports publiés au fil des événements. Le 26 septembre 2026 à 04:00, gazetteseries.co.uk a dénombré 7 morts au total dans les deux pays. Le même jour à 04:00, rockymounttelegram.com a fait état de 10 personnes tuées au total, dont 4 en Ukraine, un décompte de 4 morts ukrainiens également rapporté par koat.com le 26 septembre 2026 à 17:49. Al Jazeera a aussi mentionné au moins 10 morts le 26 septembre 2026 à 20:16. Le 27 septembre 2026 à 09:41, The Hindu a comptabilisé au moins 7 victimes. Plus tard, le 27 septembre 2026 à 16:36, kcra.com a relevé au moins 6 morts en Ukraine, tandis que The Hindu indiquait le 27 septembre 2026 à 21:41 un bilan de 6 morts en Ukraine et 1 en Russie. D'autres sources ont rapporté un bilan plus élevé pour cette même journée : l'Associated Press le 27 septembre 2026 à 16:00, puis wwaytv3.com le 28 septembre 2026 à 01:02, ont recensé au moins 8 personnes tuées en Ukraine et 1 en Russie. The Straits Times a chiffré les pertes ukrainiennes à 8 morts le 27 septembre 2026 à 20:12, et Al Jazeera a rapporté 8 morts ainsi que des dizaines de blessés en Ukraine le 28 septembre 2026 à 09:06.\n\nL'identité précise et le statut civil ou militaire de la plupart des victimes ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "gazetteseries.co.uk",
+     "url": "https://gazetteseries.co.uk/news/national/26584301.russia-ukraine-exchange-deadly-strikes-aerial-war-intensifies"
+    },
+    {
+     "nom": "rockymounttelegram.com",
+     "url": "https://rockymounttelegram.com/news/world/russian-and-ukrainian-strikes-leave-10-dead-as-trump-calls-on-zelenskyy-to-settle-with/article_586d63ce-fb4c-52b5-9dc4-efa512609496.html"
+    },
+    {
+     "nom": "koat.com",
+     "url": "https://koat.com/article/russia-ukraine-strikes-aerial-war-dead-intensifies/73900306"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/several-people-dead-as-russia-and-ukraine-exchange-strikes-and-aerial-war-intensifies/article71512611.ece"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-germany-drones-strikes-f91ac88ee287bad2a3c99d2608975f53"
+    },
+    {
+     "nom": "kcra.com",
+     "url": "https://kcra.com/article/russian-strikes-ukraine-moscow-rejects-german-de-escalate/73910048"
+    },
+    {
+     "nom": "crookwellgazette.com.au",
+     "url": "https://crookwellgazette.com.au/story/9358272/strikes-continue-as-moscow-rejects-german-calls-to-stop"
+    }
+   ],
+   "premiere_parution": "2026-09-26T00:00:00Z",
+   "suite_de": null,
+   "mots": 551,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les électeurs suisses rejettent le durcissement de leur neutralité",
+   "chapeau": "Les citoyens suisses ont repoussé dimanche 27 septembre 2026 une proposition visant à inscrire une neutralité stricte dans leur constitution. Ce scrutin national maintient les prérogatives actuelles de la Confédération face aux régimes de sanctions et aux partenariats extérieurs.",
+   "corps": "Le corps électoral helvétique s'est prononcé dimanche contre le projet de révision constitutionnelle relatif à la politique étrangère. Le texte soumis au vote visait à interdire la participation à des alliances militaires, sauf en cas d'attaque directe contre le territoire national. Il entendait également empêcher le pays d'appliquer des sanctions économiques autonomes sans l'aval explicite de l'ONU.\n\nL'initiative populaire émanait de la droite nationaliste, de conservateurs souverainistes et de milieux proches de l'Union démocratique du centre, désignée par le sigle SVP. Les auteurs du projet reprochaient au Conseil fédéral d'avoir affaibli la neutralité séculaire du pays en adoptant les trains de mesures de l'Union européenne contre Moscou. Selon les promoteurs de la réforme, ces décisions économiques remettaient en cause les principes fondamentaux de la diplomatie suisse.\n\nLe gouvernement suisse s'était opposé à cette modification constitutionnelle. Ses représentants et ses partisans ont défendu la préservation de la marge de manœuvre du pays face aux crises internationales. Les opposants ont qualifié cette initiative de texte favorable aux intérêts de Moscou. À l'inverse, les autorités russes avaient exprimé leur appui à la proposition, tout en accusant les sanctions suisses d'altérer la neutralité helvétique.\n\nL'échec de la votation écarte la remise en cause des mesures punitives adoptées à l'encontre de la Russie. La décision populaire évite également le blocage des actions de rapprochement avec l'Organisation du traité de l'Atlantique nord. Une approbation du texte aurait contraint les autorités fédérales à restreindre leurs programmes de coopération avec cette alliance militaire et à annuler leurs mesures économiques unilatérales.\n\n## Ce que disent les sources\n\nFinancial Times indiquait le 27 septembre 2026 à 16:42 une opposition de 68,4 % des électeurs. Al Jazeera rapportait le 27 septembre 2026 à 16:45 une proportion de refus d'environ 71 %. The Guardian précisait le 27 septembre 2026 à 19:05 que 70 % des votants et la totalité des cantons avaient repoussé le texte, selon les données de la chancellerie fédérale. Le média franceinfo mentionnait le 27 septembre 2026 à 20:52 un vote négatif supérieur à 70 %. Le quotidien ABC avançait le 27 septembre 2026 à 22:47 un score supérieur à 71 % pour le non.\n\nLe taux définitif de participation à ce scrutin national n'a pas été communiqué par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/schweiz-stimmt-gegen-radikale-neutralitaet-der-ruf-ist-trotzdem-ramponiert-a-523b7474-c094-4628-b196-b2885bc2a98a"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/swiss-reject-stricter-neutrality-principle-safeguarding-santions-against-russia"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20260927-les-suisses-rejettent-largement-une-initiative-visant-%C3%A0-durcir-la-neutralit%C3%A9-du-pays"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm750plvwy9vo"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/suisse-vers-un-rejet-de-linitiative-jugee-prorusse-sur-la-neutralite-du-pays-20260927_JE6NYLDJRRB5VJU4V7NJFLFY2A"
+    }
+   ],
+   "premiere_parution": "2026-09-25T07:00:09Z",
+   "suite_de": null,
+   "mots": 412,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump a proposé de vendre des armes américaines à la Chine",
+   "chapeau": "L'ambassadeur des États-Unis en Chine, David Perdue, a déclaré le dimanche 27 septembre 2026 que Donald Trump a proposé à Xi Jinping d'acheter des armes américaines. Cette suggestion est survenue lors de la réception du président chinois par le dirigeant américain aux États-Unis la semaine précédente.",
+   "corps": "Selon les déclarations de David Perdue sur la chaîne Fox News le 27 septembre 2026, Donald Trump a évoqué cette possibilité en réponse aux inquiétudes de Pékin concernant les livraisons d'équipements militaires américains à Taïwan. Le président des États-Unis a présenté ces transferts d'armements comme une pratique commerciale ordinaire effectuée dans le monde entier. Il a ainsi demandé au chef d'État chinois si la Chine souhaitait elle aussi acquérir des matériels militaires auprès des entreprises américaines.\n\nL'administration américaine a démenti tout retard volontaire dans l'exécution d'un contrat d'armement de 14 milliards de dollars destiné à Taïwan, selon des informations publiées par le Financial Times le 28 septembre 2026 à 00h31. L'exécutif indique ne pas avoir ralenti cette transaction dans le but de satisfaire le gouvernement chinois. L'ambassadeur David Perdue a soutenu que le président américain conservait une ligne ferme en faveur de la défense de Taïwan.\n\nCette déclaration survient alors qu'un ministre taïwanais a dénoncé la lourde menace militaire exercée par Pékin sur l'île. En juin 2026, la Chine a averti Taïwan que la recherche de son indépendance par la force militaire ou avec l'appui des États-Unis constitue une impasse. Le dossier du paquet d'armes de 14 milliards de dollars à destination de Taïwan demeure actuellement en attente d'après le Financial Times le 28 septembre 2026 à 00h31.\n\n## Ce que disent les sources\n\nL'ambassadeur américain David Perdue affirme que Donald Trump a proposé la vente d'armes directement au président Xi Jinping. En revanche, la Maison-Blanche a indiqué par la voix d'un responsable américain que les États-Unis ne prévoient pas de vendre des armes à la Chine, selon le journal The Straits Times le 28 septembre 2026 à 04h23.\n\nLes sources ne précisent pas la réaction formulée par le président Xi Jinping à la suite de cette suggestion.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "kxl.com",
+     "url": "https://kxl.com/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-offered-to-sell-arms-to-china-us-ambassador-says"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-asked-china-s-xi-if-he-wants-to-buy-us-arms-ambassador-says"
+    },
+    {
+     "nom": "beijingbulletin.com",
+     "url": "https://beijingbulletin.com/news/279336276/trump-asked-xi-to-buy-us-weapons-ambassador"
+    },
+    {
+     "nom": "channelnewsasia.com",
+     "url": "https://channelnewsasia.com/world/trump-offers-sell-arms-china-taiwan-us-6414801"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons"
+    },
+    {
+     "nom": "asiaone.com",
+     "url": "https://asiaone.com/world/trump-asked-chinas-president-if-he-wants-buy-us-arms-ambassador-says"
+    }
+   ],
+   "premiere_parution": "2026-09-27T20:31:48Z",
+   "suite_de": null,
+   "mots": 343,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-28-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump anticipe de nouveaux pourparlers avec l'Iran cette semaine",
+   "chapeau": "Le président américain Donald Trump a annoncé dimanche 27 septembre 2026 qu'il prévoyait une reprise des discussions diplomatiques avec l'Iran au cours de la semaine. Cette prise de parole intervient après le rejet par Washington d'une proposition iranienne concernant le détroit d'Ormuz.",
+   "corps": "Donald Trump a formulé ces prévisions lors d'un entretien téléphonique rapporté par le média Axios. Selon le président des États-Unis, les négociateurs américains doivent poursuivre les échanges avec la délégation iranienne cette semaine.\n\nCe positionnement s'exprime malgré le refus récent de Washington d'accepter une offre de Téhéran. Les représentants iraniens avaient apporté leur projet à New York dans le cadre de l'Assemblée générale de l'ONU. Cette feuille de route prévoyait d'abord une trêve de sept jours. Elle envisageait ensuite la réouverture du détroit d'Ormuz à la circulation maritime.\n\nD'après les explications du ministre iranien des Affaires étrangères, Abbas Araghchi, le document réclamait l'arrêt total des hostilités en Asie occidentale, y compris au Liban. Le texte suggérait également un retour aux termes de l'accord de cessez-le-feu rompu quelques mois plus tôt. Donald Trump a rejeté cette initiative globale.\n\nDu côté militaire à Téhéran, le chef de l'armée iranienne a prévenu que son pays refuse toute ingérence extérieure dans ses zones maritimes stratégiques. Le haut gradé a affirmé que personne ne pourra commercer ni vivre si l'Iran se trouve privé de ces mêmes droits. Donald Trump avait auparavant menacé de relancer des frappes aériennes.\n\nLes détails sur le lieu exact des futures négociations et sur l'agenda précis des discussions ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/iran/2026-09-27/ty-article/iran-says-u-s-could-launch-renewed-attack-warns-of-stronger-response/000001a0-e21a-dfbb-afa4-f35a210e0000"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-27/trump-says-us-expects-talks-with-iran-this-week-axios"
+    },
+    {
+     "nom": "jamaicaobserver.com",
+     "url": "https://jamaicaobserver.com/2026/09/27/trump-expects-new-iran-talks-despite-rejecting-deal-offer"
+    },
+    {
+     "nom": "lavozdegalicia.es",
+     "url": "https://lavozdegalicia.es/noticia/internacional/2026/09/28/iran-insiste-negociacion-tras-trump-propuesta-ormuz/0003_202609G28P17991.htm"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/iran-stands-firm-on-hormuz-plan-after-us-rejection/article71517156.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-27T09:07:29Z",
+   "suite_de": null,
+   "mots": 256,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-28-monde-001",
+  "2026-09-28-geopolitique-001",
+  "2026-09-28-monde-002",
+  "2026-09-28-monde-003",
+  "2026-09-28-geopolitique-002",
+  "2026-09-28-geopolitique-003",
+  "2026-09-28-geopolitique-004",
+  "2026-09-28-geopolitique-005"
+ ]
+}

@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-27T05:58:02Z",
- "derniere": "2026-09-27",
+ "maj": "2026-09-28T06:05:44Z",
+ "derniere": "2026-09-28",
  "editions": [
+  {
+   "date": "2026-09-28",
+   "genere_a": "2026-09-28T06:05:44Z",
+   "articles": 13,
+   "une": [
+    "Cinq hommes arrêtés au Royaume-Uni pour un projet terroriste près d'une base",
+    "Téhéran maintient ses conditions pour le détroit d'Ormuz",
+    "Le president serbe Aleksandar Vucic annonce sa demission pour les legislatives"
+   ],
+   "octets": 49719
+  },
   {
    "date": "2026-09-27",
    "genere_a": "2026-09-27T05:58:02Z",

@@ -1,6 +1,92 @@
 {
- "maj": "2026-09-28T21:20:16Z",
+ "maj": "2026-09-29T10:05:24Z",
  "alertes": [
+  {
+   "id": "2026-09-29-alerte-02",
+   "date": "2026-09-29",
+   "publiee_a": "2026-09-29T09:58:29Z",
+   "titre": "La Fifa accuse l'UEFA de désinformation pour influencer son élection",
+   "texte": "Mardi 29 septembre 2026, la Fifa a reproché à l'UEFA de mener une campagne de désinformation et de harcèlement devant un tribunal américain. L'instance dirigeante du football mondial réclame le rejet d'une demande de pièces liée à une proposition d'investissement.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/cqn0jdx9j01no"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/La-fifa-accuse-l-uefa-de-campagne-de-desinformation-et-de-chercher-a-influencer-la-prochaine-election-a-sa-presidence/1722027"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/la-fifa-accuse-luefa-de-campagne-de-desinformation-sur-son-projet-avorte-douverture-aux-capitaux-prives-20260929_HGO3SCAY5ZAFTBSZRVFGPGBHRA"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/giovanni-infantino/l-uefa-agit-dans-le-but-de-harceler-la-fifa-accuse-l-instance-europeenne-de-mener-une-campagne-de-desinformation-sur-son-projet-avorte-d-ouverture-aux-capitaux-prives_8214551.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/crise-a-la-fifa-campagne-de-desinformation-l-instance-dirigeante-accuse-l-uefa-sur-le-projet-avorte-d-ouverture-aux-capitaux-prives-de-gianni-infantino-20260929"
+    }
+   ],
+   "cluster": "1a56d2ddd6c715ca",
+   "urls": [
+    "https://bbc.co.uk/sport/football/articles/cqn0jdx9j01no",
+    "https://franceinfo.fr/sports/foot/giovanni-infantino/l-uefa-agit-dans-le-but-de-harceler-la-fifa-accuse-l-instance-europeenne-de-mener-une-campagne-de-desinformation-sur-son-projet-avorte-d-ouverture-aux-capitaux-prives_8214551.html",
+    "https://lefigaro.fr/sports/football/crise-a-la-fifa-campagne-de-desinformation-l-instance-dirigeante-accuse-l-uefa-sur-le-projet-avorte-d-ouverture-aux-capitaux-prives-de-gianni-infantino-20260929",
+    "https://lequipe.fr/Football/Actualites/La-fifa-accuse-l-uefa-de-campagne-de-desinformation-et-de-chercher-a-influencer-la-prochaine-election-a-sa-presidence/1722027",
+    "https://liberation.fr/sports/football/la-fifa-accuse-luefa-de-campagne-de-desinformation-sur-son-projet-avorte-douverture-aux-capitaux-prives-20260929_HGO3SCAY5ZAFTBSZRVFGPGBHRA",
+    "https://theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election"
+   ]
+  },
+  {
+   "id": "2026-09-29-alerte-03",
+   "date": "2026-09-29",
+   "publiee_a": "2026-09-29T10:05:24Z",
+   "titre": "La dette publique française atteint 119 % du PIB au deuxième trimestre",
+   "texte": "L'Insee a annoncé mardi 29 septembre que l'endettement public de la France s'élève à 3 595,5 milliards d'euros. Ce montant représente 119 % du produit intérieur brut, la valeur totale des biens et services produits.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/09/29/la-dette-publique-s-envole-a-119-du-pib-du-jamais-vu-depuis-1946_6785566_823448.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/france-la-dette-publique-a-atteint-119-du-pib-au-deuxieme-trimestre-selon-linsee-20260929_XCULYSFNR5EZNF6ODTPJCPFQMQ"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/la-dette-publique-francaise-atteint-119-du-pib-au-deuxieme-trimestre-20260929"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/l-explosion-de-la-dette-publique-francaise-expliquee-en-quatre-infographies-20260929"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/crise/crise-de-la-dette/covid-crise-energetique-choix-fiscaux-taux-d-interet-comment-expliquer-l-envolee-de-la-dette-francaise-ces-dernieres-annees_8204339.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/french-debt-reaches-119-of-gdp-hitting-new-record"
+    }
+   ],
+   "cluster": "0e9736686c68505c",
+   "urls": [
+    "https://franceinfo.fr/economie/crise/crise-de-la-dette/covid-crise-energetique-choix-fiscaux-taux-d-interet-comment-expliquer-l-envolee-de-la-dette-francaise-ces-dernieres-annees_8204339.html",
+    "https://franceinfo.fr/economie/crise/crise-de-la-dette/la-dette-publique-de-la-france-a-atteint-3-595-5-milliards-d-euros-au-deuxieme-trimestre-soit-119-du-pib-un-record_8214491.html",
+    "https://la-croix.com/economie/la-dette-publique-francaise-atteint-119-du-pib-au-deuxieme-trimestre-20260929",
+    "https://lefigaro.fr/conjoncture/3595-5-milliards-d-euros-la-dette-de-la-france-a-continue-de-se-creuser-au-deuxieme-trimestre-a-119-du-pib-20260929",
+    "https://lefigaro.fr/conjoncture/l-explosion-de-la-dette-publique-francaise-expliquee-en-quatre-infographies-20260929",
+    "https://lemonde.fr/politique/article/2026/09/29/la-dette-publique-s-envole-a-119-du-pib-du-jamais-vu-depuis-1946_6785566_823448.html",
+    "https://liberation.fr/economie/france-la-dette-publique-a-atteint-119-du-pib-au-deuxieme-trimestre-selon-linsee-20260929_XCULYSFNR5EZNF6ODTPJCPFQMQ",
+    "https://politico.eu/article/french-debt-reaches-119-of-gdp-hitting-new-record"
+   ]
+  },
   {
    "id": "2026-09-29-alerte-01",
    "date": "2026-09-29",

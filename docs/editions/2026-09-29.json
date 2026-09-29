@@ -1,0 +1,344 @@
+{
+ "date": "2026-09-29",
+ "genere_a": "2026-09-29T06:27:44Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-29-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Boeing signale un dysfonctionnement informatique sur les appareils 737 Max",
+   "chapeau": "L'entreprise aéronautique américaine Boeing a prévenu l'ensemble des compagnies aériennes utilisatrices en août 2026 concernant un problème logiciel affectant la navigation à l'atterrissage. Cette défaillance technique concerne le système de guidage de vol automatisé des avions de ligne monocouloirs.",
+   "corps": "Le constructeur aéronautique Boeing a identifié un problème informatique sur ses modèles 737 Max, selon The Straits Times du 27 septembre 2026. Ce dysfonctionnement touche une fonction de navigation et de guidage de vol automatisé en phase d'atterrissage, d'après les informations rapportées par Le Figaro le 27 septembre 2026.\n\nFace à cette situation, l'entreprise a prévenu toutes les compagnies aériennes exploitant cet appareil au cours du mois d'août 2026, d'après The Straits Times du 27 septembre 2026. Un porte-parole de la société a déclaré que des ingénieurs travaillent actuellement sur une mise à jour logicielle permanente, selon trinidadtimes.com le 27 septembre 2026.\n\nEn attendant une correction définitive, le fabricant a fourni des consignes rappelant les procédures destinées aux pilotes pour gérer ces situations de manière sécurisée, d'après trinidadtimes.com le 27 septembre 2026. The Hindu a précisé le 27 septembre 2026 que l'entreprise a émis une recommandation invitant à réinitialiser le système après une approche manquée, en guise de mesure de précaution.\n\nCette anomalie logicielle entraîne des conséquences financières et réglementaires. L'action de l'entreprise a baissé de 3 % à la suite de l'examen de ce problème par les régulateurs, d'après aol.com le 28 septembre 2026. De plus, ce souci informatique retarde l'homologation d'une nouvelle variante de l'appareil, selon Der Spiegel le 29 septembre 2026.\n\nCertaines sources mentionnent également une augmentation de la charge de travail pour les équipages et des retards potentiels pour les arrivées des récents modèles, d'après Folha de S.Paulo le 27 septembre 2026.\n\nCertains éléments précis concernant l'origine exacte du déclenchement du bug technique manquent dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/economia/trasporti/aerei/26_settembre_26/boeing-737-max-problemi-software-atterraggio-109354a4-bd1a-4a0f-ace7-7d85f5e0bxlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/boeing-meldet-softwarefehler-bei-pannen-flugzeug-737-max-a-7a41d3ef-ff38-4813-a89a-c61c55426627"
+    },
+    {
+     "nom": "trinidadtimes.com",
+     "url": "https://trinidadtimes.com/news/279335480/boeing-spokesperson-says-the-company-is-working-on-software-update-after-737-flight-guidance-issue"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/le-boeing-737-max-de-nouveau-touche-par-un-bug-20260927"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/business/Industry/boeing-finds-software-glitch-in-automated-flight-guidance-system-of-max-planes/article71516542.ece"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/09/boeing-identifica-falha-de-software-no-737-max-que-pode-causar-atrasos.shtml"
+    },
+    {
+     "nom": "aol.com",
+     "url": "https://aol.com/articles/boeing-drops-3-737-max-130009000.html"
+    }
+   ],
+   "premiere_parution": "2026-09-26T20:45:30Z",
+   "suite_de": null,
+   "mots": 304,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-29-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Cinq hommes suspectés de terrorisme libérés sous caution au Royaume-Uni",
+   "chapeau": "La police britannique a libéré sous caution cinq ressortissants britanniques arrêtés près de la base aérienne de la Royal Air Force à Fairford. Les forces de l'ordre maintiennent leur enquête active pour déterminer si ces suspects planifiaient un acte terroriste.",
+   "corps": "Les cinq individus, tous de nationalité britannique et âgés d'une vingtaine d'années, résident à Londres. Les policiers les ont interpellés tôt le dimanche matin dans la campagne du Gloucestershire. Les suspects se trouvaient à bord de trois camionnettes contenant des substances suspectes à l'arrière des véhicules. Les forces de l'ordre ont procédé à ces arrestations en vertu de la loi sur les explosifs et pour suspicion de préparation d'un acte terroriste.\n\nLa police a remis les suspects en liberté sous caution le lundi après-midi. Les enquêteurs continuent d'explorer plusieurs pistes pour comprendre la présence de ces hommes à proximité de cette base militaire. La base aérienne de Fairford est utilisée par l'armée des États-Unis pour mener des frappes sur l'Iran.\n\nLe chef de la police antiterroriste britannique, Laurence Taylor, a déclaré que les enquêteurs gardaient l'esprit ouvert concernant les motivations des suspects. Les policiers cherchent notamment à savoir si les suspects ont agi sciemment ou inconsciemment pour le compte d'un État étranger ou d'un groupe armé. L'hypothèse d'un lien avec l'Iran fait partie des pistes étudiées.\n\nÀ la suite de ces événements, le Premier ministre britannique Andy Burnham a annoncé la tenue d'une réunion d'urgence avec de hauts responsables de l'État.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "dumbartonreporter.co.uk",
+     "url": "https://dumbartonreporter.co.uk/news/national/26588786.police-keeping-open-mind-suspected-airbase-plot-five-bailed"
+    },
+    {
+     "nom": "bordertelegraph.com",
+     "url": "https://bordertelegraph.com/news/national/26588462.suspects-arrested-potential-raf-fairford-terror-plot-released-bail"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cw33kxk3707jo"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-police-release-five-men-on-bail-after-airbase-incident"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police"
+    }
+   ],
+   "premiere_parution": "2026-09-28T02:15:00Z",
+   "suite_de": null,
+   "mots": 241,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-29-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'arrivee de deux pandas geants chinois a Atlanta enoncee par les gouvernements",
+   "chapeau": "Deux pandas geants sont arrives a Atlanta le dimanche 27 septembre 2026. Ce deplacement concrétise un accord de prets entre la Chine et les Etats-Unis.",
+   "corps": "Les pandas geants Ping Ping et Fu Shuang ont quitte l'aeroport de Chengdu dans le sud de la Chine a bord d'un vol affrete selon Bloomberg le 27 septembre 2026. L'agence Deutsche Welle precise le 27 septembre 2026 que les animaux ont voyage avec des brioches de mais cuites a la vapeur, des carottes et du bambou. Le vol a dure seize heures selon Der Spiegel le 28 septembre 2026. Les animaux s'installent pour dix ans au zoo d'Atlanta en Georgie d'apres Le Monde le 27 septembre 2026.\n\nCette venue fait suite au sommet entre le president chinois Xi Jinping et le president americain Donald Trump annonce par The Guardian le 27 septembre 2026. Les sources concordent sur le deroulement de l'evenement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/china-sends-two-giant-pandas-to-us-after-trump-xi-summit"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/27/la-chine-envoie-deux-pandas-geants-aux-etats-unis-dans-un-nouveau-geste-diplomatique_6783645_3210.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-27/china-dispatches-pair-of-pandas-to-atlanta-zoo-cctv-reports"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/china-sends-two-giant-pandas-off-to-atlanta-zoo-after-xi-trump-summit/a-79447128?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/animali/26_settembre_27/ping-ping-e-fu-shuang-in-volo-dalla-cina-verso-gli-usa-torna-la-diplomazia-del-panda-97e0c1d4-65cb-42be-a565-59c5993bfxlk.shtml"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/china-pandas-atlanta-zoo-trump-xi-jingping-ff3ac033385997ac4d07a8a5c9c2f9bb"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/northamerica/20260927/b58fe32233e241608bd56a2baa49f736/c.html"
+    }
+   ],
+   "premiere_parution": "2026-09-27T02:25:00Z",
+   "suite_de": "2026-09-28-monde-003",
+   "mots": 147,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-29-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La justice américaine rouvre une enquête sur une agression à Cornell",
+   "chapeau": "La justice de l'État de New York a rouvert une enquête concernant une agression sexuelle présumée survenue en 2024. Une étudiante a déposé une plainte civile contre sept membres d'une association étudiante.",
+   "corps": "La procureure de l'État de New York a annoncé la reprise des investigations après le dépôt d'une action en justice par la victime présumée. Selon les avocats de la plaignante, les faits se sont déroulés dans une maison de la fraternité Chi Phi de l'université Cornell.\n\nLa plaignante affirme avoir subi des violences sexuelles commises par sept étudiants après avoir reçu des substances altérant son jugement, d'après les documents judiciaires cités par la presse le 28 septembre 2026. L'enquête initiale avait été abandonnée sans poursuites pénales.\n\nLa nouvelle procédure judiciaire cite également l'université pour sa gestion de l'affaire. Des associations étudiantes et des organisations de défense des droits ont exprimé des critiques concernant la réponse de l'établissement.\n\nCertaines sources mentionnent un mouvement de contestation public ayant poussé les autorités judiciaires à agir, tandis que d'autres soulignent le rôle direct de la plainte civile déposée par la victime. Certains éléments concernant le déroulement précis de l'enquête initiale manquent dans les rapports disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "nbcbayarea.com",
+     "url": "https://nbcbayarea.com/news/national-international/cornell-gang-rape-investigation-reopened-accuser-files-lawsuit/4149638"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/drogas-snapchat-negligencia-policial-reabre-violacion-grupal-20260928181040-nt.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates"
+    },
+    {
+     "nom": "wkms.org",
+     "url": "https://wkms.org/npr-news/2026-09-28/prosecutors-are-reexamining-a-cornell-fraternity-rape-case-heres-what-we-know"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/prosecutors-reopen-investigation-into-alleged-2024-gang-rape-at-cornell-university"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20260928-etats-unis-enquete-rouverte-affaire-viol-collectif-presume-universite-cornell"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-prosecutors-reopen-cornell-gang-rape-case-after-outcry/article71521578.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape"
+    }
+   ],
+   "premiere_parution": "2026-09-28T00:15:00Z",
+   "suite_de": null,
+   "mots": 193,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-29-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Le rejet américain du plan iranien bloque le détroit d'Ormuz",
+   "chapeau": "Le président américain Donald Trump a rejeté la proposition iranienne visant à rouvrir le détroit d'Ormuz et à mettre fin aux combats. Téhéran maintient ses conditions malgré ce refus.",
+   "corps": "Le gouvernement iranien a présenté un plan concret pour rouvrir le détroit d'Ormuz, un couloir maritime stratégique permettant le transport de pétrole, selon le ministre iranien des Affaires étrangères Abbas Araqchi le 26 septembre 2026 selon Haaretz. Téhéran a transmis cette initiative diplomatique par l'intermédiaire de médiateurs qataris lors de l'Assemblée générale des Nations unies à New York d'après The Guardian du 27 septembre 2026.\n\nLe président américain Donald Trump a rejeté cette proposition prévoyant une réouverture de la voie maritime en sept jours selon NPR le 27 septembre 2026. Le dirigeant américain a déclaré que l'Iran souhaitait conclure un accord de manière immédiate en raison de difficultés financières selon Nikkei Asia le 27 septembre 2026.\n\nLe gouvernement iranien refuse d'adoucir ses exigences pour débloquer le passage selon Bloomberg le 28 septembre 2026. Les autorités iraniennes affirment qu'elles privilégient toujours une issue diplomatique par l'intermédiaire de médiateurs et de nouvelles discussions sont prévues dans le courant de la semaine selon Reuters le 29 septembre 2026.\n\nCertains éléments manquent pour évaluer l'issue définitive des tractations en cours.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/iran-strait-of-hormuz-reopen-us-accepts-deal"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-09-26/ty-article/.premium/trump-rejects-irans-proposal-to-open-strait-of-hormuz-in-7-days/000001a0-de03-dfbb-afa4-ff53cb510000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-rejects-irans-proposal-to-open-strait-of-hormuz-and-end-fighting"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-rejects-iranian-proposal-to-open-hormuz-and-end-fighting"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-rejects-iran-proposal-for-deal-to-reopen-hormuz/article71514089.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmvgyyw2jeego"
+    }
+   ],
+   "premiere_parution": "2026-09-26T09:31:17Z",
+   "suite_de": "2026-09-28-geopolitique-001",
+   "mots": 205,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-29-sciences-001",
+   "rubrique": "sciences",
+   "format": "fond",
+   "titre": "La fusée Starship de SpaceX atteint l'orbite terrestre pour la première fois",
+   "chapeau": "L'entreprise américaine SpaceX a envoyé son véhicule spatial Starship en orbite terrestre lors d'un vol d'essai mené depuis le Texas le lundi 28 septembre 2026. L'appareil de plus de 120 mètres de hauteur a placé 26 satellites en orbite avant de terminer sa course de façon prématurée.",
+   "corps": "L'entreprise aéroportée SpaceX a procédé au décollage de son ensemble lourd Starship depuis sa base de lancement de Boca Chica, située dans l'État du Texas, le lundi 28 septembre 2026. Ce vol constituait le quatorzième essai réalisé pour cet engin. Lors des treize essais précédents, le lanceur avait seulement suivi des trajectoires suborbitales, c'est-à-dire sans faire le tour complet de la planète. L'appareil est parvenu cette fois à atteindre l'orbite terrestre, ce qui correspond à la trajectoire d'un corps tournant autour du globe.\n\nLe véhicule spatial mesure plus de 120 mètres de hauteur, d'après les informations publiées par le journal espagnol ABC le 28 septembre 2026 à 21 h 35 et le quotidien indien The Hindu le 29 septembre 2026 à 9 h 27. Le décollage est intervenu avec environ quarante minutes de retard sur l'horaire prévu, selon les précisions apportées par ABC. Le média italien Corriere della Sera mentionnait pour sa part, le 28 septembre 2026 à 20 h 07, une tentative programmée à 14 h 15 à l'heure italienne.\n\nDurant cette mission, le transporteur a largué une cargaison composée de 26 satellites Starlink de nouvelle génération. Le quotidien français Le Monde indiquait le 28 septembre 2026 à 20 h 13 que ce déploiement opérationnel constituait une première pour cette fusée. Ces appareils doivent alimenter le réseau de télécommunications de la société pour distribuer des connexions Internet depuis l'espace. La société entend accélérer le déploiement de ces ensembles de satellites placés en orbite basse.\n\nCe test présente des enjeux industriels majeurs pour la société d'Elon Musk. L'agence spatiale américaine, la NASA, compte sur cet appareil pour organiser le retour d'équipages humains sur la Lune et devancer les programmes spatiaux de la Chine, selon le quotidien brésilien Folha de S.Paulo dans son édition du 28 septembre 2026 à 20 h 08. L'agence spatiale américaine envisage également de confier de nouveaux contrats de transport d'équipages à cette structure, comme le souligne le journal britannique Financial Times le 29 septembre 2026 à 3 h 41. Le véhicule vise à terme le transport de personnes vers la planète Mars et le remplacement de la fusée Falcon 9 opérée par l'entreprise.\n\nLa trajectoire de vol a toutefois été perturbée par des problèmes techniques. Plusieurs médias anglo-saxons et européens ont rapporté l'arrêt inopiné d'un moteur pendant l'élévation du lanceur. Les journaux The Guardian, Bloomberg, Financial Times, Al Jazeera ainsi que le titre néerlandais NRC ont tous relevé cette panne d'un propulseur durant la phase ascensionnelle du vol d'essai.\n\nL'ancien responsable des logiciels de Starship chez SpaceX, Scott Morton, a qualifié ce vol d'étape essentielle dans un entretien accordé à Bloomberg le 28 septembre 2026 à 21 h 23. L'actuel dirigeant de Revel a expliqué le fonctionnement des systèmes informatiques et automatisés de guidage du lanceur. Il a précisé que les équipes techniques analyseront l'ensemble des données télémétriques de cet essai pendant plusieurs mois.\n\nLe voyage spatial s'est interrompu plus tôt que prévu. Le journal Corriere della Sera rapportait initialement une mission d'une durée prévisionnelle de dix heures environ. Le quotidien espagnol ABC a précisé le 28 septembre 2026 à 21 h 35 que le vol n'avait duré qu'environ trois heures, soit sept heures de moins que l'objectif fixé par la compagnie avant son retour dans les eaux océaniques.\n\n## Ce que disent les sources\n\nLe journal espagnol ABC affirme dans son édition du 28 septembre 2026 à 21 h 35 que la fusée a explosé lors de son amerrissage prématuré dans l'océan Pacifique. Le média qatari Al Jazeera évoque pour sa part, le 29 septembre 2026 à 3 h 48, une fin de mission marquée par le feu, sans préciser la nature exacte de l'impact ni mentionner explicitement une explosion. D'autres titres de presse, à l'instar du Corriere della Sera ou du quotidien néerlandais NRC, mentionnent simplement un retour prématuré ou un échec final causé par une panne de moteur, sans confirmer l'explosion de l'étage spatial lors du contact maritime.\n\nLes causes précises de l'extinction du moteur et les détails sur l'état final de la structure du vaisseau manquent dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_settembre_28/starship-oggi-per-la-prima-volta-il-mega-razzo-di-spacex-sara-lanciato-in-orbita-terrestre-bd1ebe69-924e-481b-a668-282bf6c55xlk.shtml"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ciencia/2026/09/megafoguete-starship-da-spacex-faz-primeiro-voo-orbital-e-lanca-satelites.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/09/28/elon-musk-renforce-grace-a-sa-fusee-starship-sa-constellation-starlink-avec-des-satellites-bien-plus-puissants_6785087_3234.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/science/video/2026/sep/28/spacex-spaceship-orbit-launch-video"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-09-28/starship-reaches-orbit-in-major-spacex-milestone-video"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/ciencia/starship-cohete-elon-musk-alcanza-primera-vez-20260928180022-nt.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/28/starship-raket-van-spacex-slaagt-er-voor-het-eerst-in-om-baan-om-de-aarde-te-bereiken-maar-strandt-wel-voortijdig-door-kapotte-motor-a4937742"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/weltall/elon-musk-starship-erreicht-orbit-spacex-riskiert-abschied-von-falcon-9-a-6cbcf7c2-c15b-4013-a325-1f2b553ba87c"
+    }
+   ],
+   "premiere_parution": "2026-09-27T22:46:11Z",
+   "suite_de": null,
+   "mots": 725,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-29-geopolitique-001",
+  "2026-09-29-sciences-001",
+  "2026-09-29-monde-001",
+  "2026-09-29-monde-002",
+  "2026-09-29-monde-003",
+  "2026-09-29-monde-004"
+ ]
+}

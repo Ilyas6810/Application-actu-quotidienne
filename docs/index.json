@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-28T06:05:44Z",
- "derniere": "2026-09-28",
+ "maj": "2026-09-29T06:27:45Z",
+ "derniere": "2026-09-29",
  "editions": [
+  {
+   "date": "2026-09-29",
+   "genere_a": "2026-09-29T06:27:44Z",
+   "articles": 6,
+   "une": [
+    "Le rejet américain du plan iranien bloque le détroit d'Ormuz",
+    "La fusée Starship de SpaceX atteint l'orbite terrestre pour la première fois",
+    "Boeing signale un dysfonctionnement informatique sur les appareils 737 Max"
+   ],
+   "octets": 23453
+  },
   {
    "date": "2026-09-28",
    "genere_a": "2026-09-28T06:05:44Z",

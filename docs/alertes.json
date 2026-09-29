@@ -1,6 +1,128 @@
 {
- "maj": "2026-09-29T10:05:24Z",
+ "maj": "2026-09-29T22:21:53Z",
  "alertes": [
+  {
+   "id": "2026-09-30-alerte-01",
+   "date": "2026-09-30",
+   "publiee_a": "2026-09-29T22:20:04Z",
+   "titre": "La Cour suprême américaine autorise les expulsions vers des pays tiers",
+   "texte": "La Cour suprême des États-Unis a autorisé l'administration Trump à reprendre l'expulsion de migrants vers des pays tiers mardi 29 septembre 2026. Cette décision provisoire permet d'envoyer des personnes vers des États avec lesquels elles n'ont aucun lien.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/supreme-court-lets-trump-resume-third-country-deportations"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/migracion/2026-09-29/el-tribunal-supremo-permite-a-trump-continuar-las-deportaciones-a-terceros-paises.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/264c7d6f-9f84-43b9-89de-f8e9523a41a5?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-supreme-court-lets-quick-deportations-to-third-countries-resume-for-now/article71525652.ece"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/tribunal-supremo-eeuu-avala-deportacion-inmigrantes-terceros-20260929220256-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/suprema-corte-autoriza-trump-a-deportar-imigrantes-para-paises-terceiros.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations"
+    }
+   ],
+   "cluster": "e082eb8897103a31",
+   "urls": [
+    "https://abc.es/internacional/tribunal-supremo-eeuu-avala-deportacion-inmigrantes-terceros-20260929220256-nt.html",
+    "https://aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations",
+    "https://bloomberg.com/news/articles/2026-09-29/supreme-court-lets-trump-s-third-country-deportations-resume",
+    "https://elpais.com/us/migracion/2026-09-29/el-tribunal-supremo-permite-a-trump-continuar-las-deportaciones-a-terceros-paises.html",
+    "https://ft.com/content/264c7d6f-9f84-43b9-89de-f8e9523a41a5?syn-25a6b1a6=1",
+    "https://npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+    "https://paisano-online.com/53976/opinion/commentary/trump-throws-another-tantrum-over-some-due-process",
+    "https://straitstimes.com/world/united-states/supreme-court-lets-trump-resume-third-country-deportations",
+    "https://straitstimes.com/world/united-states/us-deportations-triggering-cascade-of-rights-abuses-un-experts",
+    "https://thehindu.com/news/international/us-supreme-court-lets-quick-deportations-to-third-countries-resume-for-now/article71525652.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/09/suprema-corte-autoriza-trump-a-deportar-imigrantes-para-paises-terceiros.shtml"
+   ]
+  },
+  {
+   "id": "2026-09-30-alerte-02",
+   "date": "2026-09-30",
+   "publiee_a": "2026-09-29T22:21:53Z",
+   "titre": "Fatima Ezzahra El Mansouri devient la premiere cheffe du gouvernement marocain",
+   "texte": "Le roi Mohammed VI a nomme Fatima Ezzahra El Mansouri cheffe du gouvernement mardi 29 septembre 2026, selon le cabinet royal. Elle devient ainsi la premiere femme a diriger le gouvernement au Maroc.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/maroc-avocate-de-formation-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-a-la-tete-du-gouvernement-20260929_CY55ZCLUQZAHNLRFWI6YZOHEXA"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-29/marruecos-nombra-a-fatima-mansouri-como-primera-ministra-del-pais-la-primera-mujer-al-frente-del-gobierno-en-rabat.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/marrocos-nomeia-fatima-ezzahra-el-mansouri-como-a-1a-mulher-primeira-ministra.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/29/fatima-ezzahra-el-mansouri-wordt-de-eerste-vrouwelijke-premier-van-marokko-a4937832"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/des-bancs-d-une-fac-francaise-a-la-mairie-de-marrakech-qui-est-fatima-ezzahra-el-mansouri-la-premiere-femme-nommee-chef-du-gouvernement-au-maroc-20260929"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html"
+    }
+   ],
+   "cluster": "2a33d7f407e69beb",
+   "urls": [
+    "https://abc.es/internacional/mohamed-nombra-fatima-zahra-mansouri-primera-ministra-20260929181050-nt.html",
+    "https://aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister",
+    "https://bbc.co.uk/news/articles/c674kkjllw17o",
+    "https://bloomberg.com/news/articles/2026-09-29/morocco-names-marrakesh-mayor-as-country-s-first-female-premier",
+    "https://corriere.it/esteri/26_settembre_29/marocco-fatima-ezzahra-el-mansouri-prima-premier-donna-del-paese-9a40d504-11fb-4aed-af76-da9024739xlk.shtml",
+    "https://dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-09-29/marruecos-nombra-a-fatima-mansouri-como-primera-ministra-del-pais-la-primera-mujer-al-frente-del-gobierno-en-rabat.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_29?evenement=84558ced07",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_29?evenement=9542aa3d9d",
+    "https://france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain",
+    "https://france24.com/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-devient-premi%C3%A8re-femme-premi%C3%A8re-ministre",
+    "https://franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html",
+    "https://la-croix.com/international/maroc-fatima-ezzahra-el-mansouri-est-la-premiere-femme-nommee-cheffe-du-gouvernement-20260929",
+    "https://lefigaro.fr/international/des-bancs-d-une-fac-francaise-a-la-mairie-de-marrakech-qui-est-fatima-ezzahra-el-mansouri-la-premiere-femme-nommee-chef-du-gouvernement-au-maroc-20260929",
+    "https://lefigaro.fr/international/le-roi-du-maroc-mohammed-vi-nomme-fatima-ezzahra-el-mansouri-a-la-tete-du-gouvernement-une-premiere-pour-une-femme-20260929",
+    "https://lemonde.fr/international/article/2026/09/29/au-maroc-le-roi-nomme-pour-la-premiere-fois-une-femme-fatima-ezzahra-el-mansouri-a-la-tete-du-gouvernement_6785652_3210.html",
+    "https://liberation.fr/international/moyen-orient/maroc-avocate-de-formation-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-a-la-tete-du-gouvernement-20260929_CY55ZCLUQZAHNLRFWI6YZOHEXA",
+    "https://liberation.fr/international/pour-la-premiere-fois-de-son-histoire-le-maroc-designe-une-premiere-ministre-20260929_CMCRQ3C2DBHLDALLK3C7HRJM7I",
+    "https://nrc.nl/nieuws/2026/09/29/fatima-ezzahra-el-mansouri-wordt-de-eerste-vrouwelijke-premier-van-marokko-a4937832",
+    "https://reuters.com/world/africa/moroccos-king-appoints-first-woman-pm-following-sept-23-election-2026-09-29",
+    "https://rfi.fr/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-une-premi%C3%A8re-pour-une-femme",
+    "https://straitstimes.com/world/middle-east/moroccos-king-appoints-first-woman-prime-minister-following-election",
+    "https://www1.folha.uol.com.br/mundo/2026/09/marrocos-nomeia-fatima-ezzahra-el-mansouri-como-a-1a-mulher-primeira-ministra.shtml"
+   ]
+  },
   {
    "id": "2026-09-29-alerte-02",
    "date": "2026-09-29",
@@ -1118,181 +1240,6 @@
     "https://ec.europa.eu/commission/presscorner/detail/fr/ip_26_1941",
     "https://lemonde.fr/international/article/2026/09/23/l-ue-veut-debloquer-4-2-milliards-d-euros-pour-la-hongrie-qui-a-renforce-l-etat-de-droit-depuis-la-fin-de-l-ere-de-viktor-orban_6780887_3210.html",
     "https://politico.eu/article/commission-proposed-unlocking-funding-for-hungary-frozen-under-orban"
-   ]
-  },
-  {
-   "id": "2026-09-22-alerte-01",
-   "date": "2026-09-22",
-   "publiee_a": "2026-09-21T20:05:33Z",
-   "titre": "Paramount conclut un accord avec douze États américains pour racheter Warner",
-   "texte": "Paramount a conclu un accord amiable lundi 21 septembre 2026 avec douze États américains pour lever les poursuites contre sa fusion avec Warner Bros Discovery. Cette entente ouvre la voie à la finalisation de l'opération aux États-Unis.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/wirtschaft/paramount-und-warner-bros-einigung-im-streit-um-111-milliarden-fusion-a-6f0b6fba-c09c-4776-811d-df34a2a1f21c"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-09-21/paramount-settles-lawsuits-clearing-way-to-buy-wbd-video"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cm4gjr1qepr8o"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/paramount-settles-with-us-states-in-big-step-towards-closing-warner-bros-merger"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/economie/article/2026/09/21/rachat-de-warner-bros-accord-amiable-trouve-entre-paramount-skydance-et-douze-etats-americains_6779342_3234.html"
-    }
-   ],
-   "cluster": "05e2d415bdc3d831",
-   "urls": [
-    "https://aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros",
-    "https://bbc.co.uk/news/articles/cm4gjr1qepr8o",
-    "https://bloomberg.com/news/videos/2026-09-21/paramount-settles-lawsuits-clearing-way-to-buy-wbd-video",
-    "https://bloomberg.com/news/videos/2026-09-21/paramount-talks-include-penalty-for-missing-pledge-video",
-    "https://c-level.folha.uol.com.br/negocios/2026/09/paramount-e-procurador-da-california-negociam-para-viabilizar-compra-da-warner-por-us-110-bi.shtml",
-    "https://elpais.com/economia/2026-09-21/paramount-alcanza-un-acuerdo-con-los-fiscales-estatales-para-desbloquear-la-compra-de-warner.html",
-    "https://ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008?syn-25a6b1a6=1",
-    "https://lefigaro.fr/medias/rachat-de-warner-bros-paramount-parvient-a-un-accord-avec-la-justice-20260921",
-    "https://lemonde.fr/economie/article/2026/09/21/rachat-de-warner-bros-accord-amiable-trouve-entre-paramount-skydance-et-douze-etats-americains_6779342_3234.html",
-    "https://npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
-    "https://spiegel.de/wirtschaft/paramount-und-warner-bros-einigung-im-streit-um-111-milliarden-fusion-a-6f0b6fba-c09c-4776-811d-df34a2a1f21c",
-    "https://straitstimes.com/world/united-states/paramount-settles-with-us-states-in-big-step-towards-closing-warner-bros-merger",
-    "https://theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger"
-   ]
-  },
-  {
-   "id": "2026-09-22-alerte-02",
-   "date": "2026-09-22",
-   "publiee_a": "2026-09-21T20:05:40Z",
-   "titre": "Le basketteur français Nicolas Batum annonce la fin de sa carrière sportive",
-   "texte": "Le basketteur français Nicolas Batum a officialisé l'arrêt de sa carrière professionnelle lundi 21 septembre 2026 sur les réseaux sociaux. L'ancien capitaine de l'équipe de France quitte les parquets à l'âge de 37 ans, après dix-huit saisons disputées en NBA.",
-   "sources": [
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Basket/Actualites/-apres-21-ans-il-est-temps-pour-moi-de-rentrer-a-la-maison-l-ancien-capitaine-des-bleus-nicolas-batum-annonce-sa-retraite-a-37-ans/1720366"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/basket/nicolas-batum/nicolas-batum-double-vice-champion-olympique-et-ancien-capitaine-de-l-equipe-de-france-prend-sa-retraite-apres-18-saisons-en-nba_8203421.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/basket/basket-nicolas-batum-ancien-capitaine-des-bleus-prend-sa-retraite-20260921"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/09/21/basket-nicolas-batum-double-vice-champion-olympique-prend-sa-retraite_6779299_3242.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/nicolas-batum-ancien-capitaine-des-bleus-du-basket-et-champion-deurope-2013-prend-sa-retraite-a-37-ans-20260921_WTJWECWIDZEX7FLW4LVYTBUXGM"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20260921-apres-18-saisons-en-nba-basketteur-francais-nicolas-batum-prend-sa-retraite"
-    }
-   ],
-   "cluster": "129c1c7c314a1dba",
-   "urls": [
-    "https://france24.com/fr/sports/20260921-apres-18-saisons-en-nba-basketteur-francais-nicolas-batum-prend-sa-retraite",
-    "https://franceinfo.fr/sports/basket/nicolas-batum/nicolas-batum-double-vice-champion-olympique-et-ancien-capitaine-de-l-equipe-de-france-prend-sa-retraite-apres-18-saisons-en-nba_8203421.html",
-    "https://lefigaro.fr/sports/basket/basket-nicolas-batum-ancien-capitaine-des-bleus-prend-sa-retraite-20260921",
-    "https://lemonde.fr/sport/article/2026/09/21/basket-nicolas-batum-double-vice-champion-olympique-prend-sa-retraite_6779299_3242.html",
-    "https://lequipe.fr/Basket/Actualites/-apres-21-ans-il-est-temps-pour-moi-de-rentrer-a-la-maison-l-ancien-capitaine-des-bleus-nicolas-batum-annonce-sa-retraite-a-37-ans/1720366",
-    "https://lequipe.fr/Basket/Actualites/Nicolas-batum-une-riche-carriere-en-images/1720403",
-    "https://lequipe.fr/Basket/Article/-qu-est-ce-que-j-ai-kiffe-nicolas-batum-retrace-sa-carriere-chez-les-bleus/1511222",
-    "https://liberation.fr/sports/nicolas-batum-ancien-capitaine-des-bleus-du-basket-et-champion-deurope-2013-prend-sa-retraite-a-37-ans-20260921_WTJWECWIDZEX7FLW4LVYTBUXGM"
-   ]
-  },
-  {
-   "id": "2026-09-22-alerte-03",
-   "date": "2026-09-22",
-   "publiee_a": "2026-09-21T20:06:00Z",
-   "titre": "Le chancelier allemand Friedrich Merz refuse de démissionner après plusieurs revers électoraux",
-   "texte": "Le chancelier allemand Friedrich Merz a rejeté lundi 21 septembre les appels à quitter son poste après plusieurs échecs électoraux régionaux de son parti chrétien-démocrate en Allemagne. Les scrutins de septembre ont notamment vu la progression de l'extrême droite et de la gauche radicale à Berlin et en Mecklembourg-Poméranie-Occidentale.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/allemagne/j-assume-cette-responsabilite-apres-les-recentes-defaites-electorales-quel-avenir-pour-le-chancelier-allemand-friedrich-merz_8202602.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/allemagne-accroche-au-radeau-de-ses-reformes-merz-tente-de-ne-pas-sombrer-20260921_ILSQZ2E2EFGU3HMZKBS65IEVGA"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20260921-allemagne-pour-la-premi%C3%A8re-fois-de-son-histoire-la-cdu-va-%C3%AAtre-exclue-d-un-parlement-r%C3%A9gional"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/en-allemagne-les-partis-du-centre-plus-affaiblis-que-jamais-leur-existence-meme-est-en-jeu-20260921"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20260921-%C3%A9lections-en-allemagne-les-partis-ont-peur-que-ces-r%C3%A9sultats-se-r%C3%A9p%C3%A8tent-aux-prochaines-%C3%A9lections-au-printemps"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/allemagne-apres-le-naufrage-electoral-de-son-parti-le-chancelier-friedrich-merz-peut-il-encore-tenir-20260921"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/09/21/friedrich-merz-lutte-pour-sa-survie-politique-apres-la-debacle-de-la-cdu-la-politique-federale-a-joue-un-role-majeur-et-ma-personne-egalement_6779301_3211.html"
-    }
-   ],
-   "cluster": "39e77c1022951538",
-   "urls": [
-    "https://france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260920-jeannette-s%C3%BC%C3%9F-il-y-a-dans-les-territoires-de-l-ex-rda-un-sentiment-de-ne-pas-%C3%AAtre-%C3%A9cout%C3%A9s",
-    "https://france24.com/fr/europe/20260920-%C3%A9lections-r%C3%A9gionales-en-allemagne-deux-scrutins-%C3%A0-haut-risque-pour-merz",
-    "https://france24.com/fr/europe/20260920-elections-allemagne-friedrich-merz-cdu-mercklembourg-berlin-afd-deroute",
-    "https://france24.com/fr/europe/20260920-r%C3%A9gionales-en-allemagne-le-parti-d-extr%C3%AAme-droite-afd-progresse-les-partis-de-gauche-r%C3%A9sistent",
-    "https://france24.com/fr/vid%C3%A9o/20260919-allemagne-merz-joue-son-avenir-aux-%C3%A9lections-r%C3%A9gionales-de-dimanche",
-    "https://france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-la-cdu-menac%C3%A9e-par-l-extr%C3%AAme-droite",
-    "https://france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-merz-est-dans-une-situation-inconfortable",
-    "https://france24.com/fr/vid%C3%A9o/20260920-allemagne-des-scrutins-%C3%A0-haut-risque-pour-le-chancelier-friedrich-merz",
-    "https://france24.com/fr/vid%C3%A9o/20260921-%C3%A9lections-r%C3%A9gionales-en-allemagne-une-d%C3%A9faite-historique-du-chancelier-merz",
-    "https://france24.com/fr/vid%C3%A9o/20260921-allemagne-pour-la-premi%C3%A8re-fois-de-son-histoire-la-cdu-va-%C3%AAtre-exclue-d-un-parlement-r%C3%A9gional",
-    "https://france24.com/fr/vid%C3%A9o/20260921-la-gauche-radicale-devance-le-parti-du-chancelier-allemand-lors-d-%C3%A9lections-%C3%A0-berlin",
-    "https://franceinfo.fr/monde/europe/allemagne/j-assume-cette-responsabilite-apres-les-recentes-defaites-electorales-quel-avenir-pour-le-chancelier-allemand-friedrich-merz_8202602.html",
-    "https://franceinfo.fr/monde/europe/allemagne/le-chancelier-allemand-friedrich-merz-fait-face-une-nouvelle-fois-a-des-scrutins-a-haut-risque-lors-d-elections-locales_8201639.html",
-    "https://franceinfo.fr/monde/europe/allemagne/le-chancelier-allemand-friedrich-merz-promet-de-poursuivre-les-reformes-en-depit-d-un-desastre-electoral-pour-son-parti-apres-la-forte-progression-de-l-afd_8202077.html",
-    "https://franceinfo.fr/monde/europe/allemagne/le-parti-d-extreme-droite-afd-arrive-en-tete-dans-une-region-du-nord-est-de-l-allemagne-deux-semaines-apres-sa-victoire-historique-en-saxe-anhalt-d-apres-les-premieres-estimations_8202041.html",
-    "https://la-croix.com/international/elections-en-allemagne-l-afd-en-forte-progression-merz-reconnait-un-desastre-20260920",
-    "https://la-croix.com/international/en-allemagne-friedrich-merz-en-sursis-apres-deux-nouvelles-debacles-electorales-20260920",
-    "https://la-croix.com/international/en-allemagne-les-partis-du-centre-plus-affaiblis-que-jamais-leur-existence-meme-est-en-jeu-20260921",
-    "https://lefigaro.fr/international/allemagne-apres-le-naufrage-electoral-de-son-parti-le-chancelier-friedrich-merz-peut-il-encore-tenir-20260921",
-    "https://lefigaro.fr/international/en-allemagne-la-gauche-radicale-victorieuse-a-berlin-l-afd-en-tete-dans-le-meck-pom-20260920",
-    "https://lemonde.fr/international/article/2026/09/19/en-allemagne-le-chancelier-friedrich-merz-plus-conteste-que-jamais-avant-les-elections-regionales-du-20-septembre_6777434_3210.html",
-    "https://lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html",
-    "https://lemonde.fr/international/article/2026/09/21/en-allemagne-le-parti-de-friedrich-merz-essuie-une-defaite-historique_6778548_3210.html",
-    "https://lemonde.fr/international/article/2026/09/21/friedrich-merz-lutte-pour-sa-survie-politique-apres-la-debacle-de-la-cdu-la-politique-federale-a-joue-un-role-majeur-et-ma-personne-egalement_6779301_3211.html",
-    "https://lemonde.fr/international/article/2026/09/21/friedrich-merz-tres-fragilise-defend-le-maintien-de-son-gouvernement-pour-l-avenir-democratique-de-l-allemagne_6779165_3210.html",
-    "https://lemonde.fr/international/video/2026/09/21/allemagne-le-parti-de-friedrich-merz-a-essuye-une-defaite-historique-aux-elections-regionales_6778909_3210.html",
-    "https://liberation.fr/international/europe/allemagne-accroche-au-radeau-de-ses-reformes-merz-tente-de-ne-pas-sombrer-20260921_ILSQZ2E2EFGU3HMZKBS65IEVGA",
-    "https://liberation.fr/international/europe/allemagne-deux-elections-regionales-a-haut-risque-pour-le-chancelier-merz-ce-dimanche-lextreme-droite-en-embuscade-20260920_U3ZK6OTLOZEKBAWF6VTJDCK6P4",
-    "https://liberation.fr/international/europe/nouvelle-poussee-de-lafd-die-linke-lemporte-a-berlin-merz-sur-la-sellette-lallemagne-entre-dans-une-nouvelle-ere-politique-20260920_3NQHIWXDQRHJZMLPMNZX67ZAQA",
-    "https://rfi.fr/fr/europe/20260920-%C3%A9lections-en-allemagne-malgr%C3%A9-la-d%C3%A9faite-cuisante-de-son-parti-le-chancelier-merz-promet-de-ne-rien-changer",
-    "https://rfi.fr/fr/europe/20260920-en-allemagne-deux-%C3%A9lections-r%C3%A9gionales-d%C3%A9cisives-pour-l-avenir-de-friedrich-merz",
-    "https://rfi.fr/fr/europe/20260921-%C3%A9lections-en-allemagne-comment-la-d%C3%A9b%C3%A2cle-de-la-cdu-aux-r%C3%A9gionales-fragilise-friedrich-merz-%C3%A0-l-international",
-    "https://rfi.fr/fr/monde/20260920-%C3%A9lections-en-allemagne-la-gauche-radicale-de-die-linke-l-emporte-%C3%A0-berlin-nouvelle-pouss%C3%A9e-de-l-afd",
-    "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20260921-%C3%A9lections-en-allemagne-les-partis-ont-peur-que-ces-r%C3%A9sultats-se-r%C3%A9p%C3%A8tent-aux-prochaines-%C3%A9lections-au-printemps"
    ]
   }
  ]

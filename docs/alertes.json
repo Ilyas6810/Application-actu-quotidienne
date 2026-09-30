@@ -1,6 +1,78 @@
 {
- "maj": "2026-09-29T22:21:53Z",
+ "maj": "2026-09-30T12:42:28Z",
  "alertes": [
+  {
+   "id": "2026-09-30-alerte-03",
+   "date": "2026-09-30",
+   "publiee_a": "2026-09-30T12:42:28Z",
+   "titre": "Un vol Dubaï Tel-Aviv dérouté en urgence vers l'Arabie saoudite",
+   "texte": "Un avion de la compagnie Flydubai reliant Dubaï à Tel-Aviv a atterri en urgence à Tabuk, en Arabie saoudite, ce mercredi 30 septembre 2026. L'incident à bord implique les pilotes de l'appareil selon plusieurs médias.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/30/un-avion-qui-reliait-dubai-et-tel-aviv-a-ete-deroute-vers-l-arabie-saoudite-les-autorites-israeliennes-n-excluent-aucune-hypothese-y-compris-terroriste_6786055_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/avion-pour-tel-aviv-deroute-en-arabie-saoudite-ce-que-lon-sait-de-lincident-a-bord-dun-vol-flydubai-20260930_I4VYHU3PSRH2VC3TKTGYVLR4V4"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/incidente-dos-pilotos-vuelo-dirigia-israel-termina-20260930111339-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/diretta-live/26_settembre_30/volo-dubai-tel-aviv-dirottato-diretta.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/un-vol-dubai-israel-victime-d-une-tentative-d-attentat_8216347.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/societes/avion-de-flydubai-deroute-que-sait-on-de-cette-compagnie-emiratie-meconnue-20260930"
+    }
+   ],
+   "cluster": "060135ab5da656dd",
+   "urls": [
+    "https://abc.es/internacional/incidente-dos-pilotos-vuelo-dirigia-israel-termina-20260930111339-nt.html",
+    "https://aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert",
+    "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot",
+    "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
+    "https://corriere.it/esteri/diretta-live/26_settembre_30/volo-dubai-tel-aviv-dirottato-diretta.shtml",
+    "https://dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761",
+    "https://dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30?evenement=bc17e9026a",
+    "https://europapress.es/internacional/noticia-aterriza-arabia-saudi-avion-volaba-eau-israel-incidente-ruta-20260930101558.html",
+    "https://france24.com/fr/moyen-orient/20260930-avion-flydubai-destination-tel-aviv-contraint-atterrir-duba%C3%AF-pilotes",
+    "https://france24.com/fr/vid%C3%A9o/20260930-un-vol-duba%C3%AF-tel-aviv-d%C3%A9rout%C3%A9-suite-%C3%A0-une-bagarre-dans-le-cockpit",
+    "https://franceinfo.fr/economie/aeronautique/un-bagarre-entre-pilotes-en-plein-vol-a-l-origine-d-un-atterrissage-d-urgence-en-arabie-saoudite_8216290.html",
+    "https://franceinfo.fr/monde/israel/un-vol-dubai-israel-victime-d-une-tentative-d-attentat_8216347.html",
+    "https://ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+    "https://haaretz.com/israel-news/israel-security/2026-09-30/ty-article/suspected-terror-incident-diverts-israel-bound-flydubai-flight-to-saudi-arabia/000001a0-f0ff-d0bd-a3f5-f8ffb6970000",
+    "https://lefigaro.fr/international/en-direct-apres-un-premier-incident-en-vol-un-second-avion-de-flydubai-a-destination-de-tel-aviv-deroute-la-raison-encore-inconnue-20260930",
+    "https://lefigaro.fr/international/incident-terroriste-altercation-dans-le-cockpit-que-s-est-il-passe-a-bord-du-vol-dubai-tel-aviv-deroute-20260930",
+    "https://lefigaro.fr/societes/avion-de-flydubai-deroute-que-sait-on-de-cette-compagnie-emiratie-meconnue-20260930",
+    "https://lemonde.fr/international/article/2026/09/30/un-avion-qui-reliait-dubai-et-tel-aviv-a-ete-deroute-vers-l-arabie-saoudite-les-autorites-israeliennes-n-excluent-aucune-hypothese-y-compris-terroriste_6786055_3210.html",
+    "https://liberation.fr/international/moyen-orient/avion-pour-tel-aviv-deroute-en-arabie-saoudite-ce-que-lon-sait-de-lincident-a-bord-dun-vol-flydubai-20260930_I4VYHU3PSRH2VC3TKTGYVLR4V4",
+    "https://rfi.fr/fr/moyen-orient/20260930-un-avion-de-flydubai-%C3%A0-destination-de-tel-aviv-d%C3%A9rout%C3%A9-apr%C3%A8s-un-incident-en-vol",
+    "https://spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229",
+    "https://straitstimes.com/world/middle-east/israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots-israeli-official-says",
+    "https://theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+    "https://theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+    "https://thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/09/ministro-de-israel-diz-que-houve-tentativa-de-ataque-terrorista-em-voo-desviado-a-arabia-saudita.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/09/voo-com-destino-a-israel-e-desviado-apos-briga-entre-pilotos.shtml"
+   ]
+  },
   {
    "id": "2026-09-30-alerte-01",
    "date": "2026-09-30",

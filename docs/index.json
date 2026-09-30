@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-29T06:27:45Z",
- "derniere": "2026-09-29",
+ "maj": "2026-09-30T06:12:02Z",
+ "derniere": "2026-09-30",
  "editions": [
+  {
+   "date": "2026-09-30",
+   "genere_a": "2026-09-30T06:12:02Z",
+   "articles": 7,
+   "une": [
+    "Le directeur de la tour Eiffel quitte son poste apres une polemique",
+    "Christa Pike doit être exécutée ce mercredi dans le Tennessee",
+    "La justice rouvre l'enquête sur un viol collectif présumé à Cornell"
+   ],
+   "octets": 27909
+  },
   {
    "date": "2026-09-29",
    "genere_a": "2026-09-29T06:27:44Z",

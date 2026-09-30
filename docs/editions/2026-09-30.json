@@ -1,0 +1,388 @@
+{
+ "date": "2026-09-30",
+ "genere_a": "2026-09-30T06:12:02Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-09-30-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Christa Pike doit être exécutée ce mercredi dans le Tennessee",
+   "chapeau": "La détenue Christa Pike doit subir une injection létale ce mercredi 30 septembre 2026 dans l'État américain du Tennessee. Cette femme de 50 ans a passé trente ans dans le couloir de la mort après sa condamnation pour le meurtre d'une camarade de classe.",
+   "corps": "Christa Pike doit devenir la première femme exécutée dans le Tennessee depuis deux siècles. En 1995, alors qu'elle était âgée de 18 ans, elle a torturé et assassiné sa camarade d'école Colleen Slemmer à Knoxville. La justice l'a condamnée à la peine capitale en 1996. L'exécution doit se faire par l'injection de pentobarbital, un barbiturique utilisé pour donner la mort.\n\nLes avocats de la condamnée ont tenté plusieurs recours de dernière minute pour suspendre la sentence. Ils ont mis en avant les troubles mentaux de leur cliente ainsi qu'un passé marqué par des traumatismes graves. Selon les détails fournis par sa défense, Christa Pike a subi des agressions sexuelles durant sa petite enfance et a été victime de deux viols. Ses défenseurs affirment qu'elle est elle-même une victime.\n\nLe gouverneur du Tennessee a rejeté la demande de grâce présentée par les avocats de la détenue. De son côté, la Cour suprême des États-Unis a également refusé de suspendre l'exécution. Christa Pike a indiqué dans une lettre adressée à la chaîne NBC News qu'elle ne craignait pas de mourir mais qu'elle ressentait de la nervosité face au déroulement de l'exécution.\n\nLa mère de la victime, Colleen Slemmer, soutient fermement l'application de la peine de mort. Elle estime que cette exécution permettra de rendre justice à sa fille. Le débat national se poursuit aux États-Unis autour de cette condamnation, opposant les partisans de la sentence aux associations qui réclament une commutation de peine en raison de l'âge de l'accusée au moment des faits et de son histoire personnelle.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/tennessee-und-der-fall-christa-pike-als-teenagerin-mordete-sie-jetzt-soll-sie-sterben-a-ef58efde-5413-47f0-bf00-a948182b92a7"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/ela-tambem-e-uma-vitima-quem-e-christa-pike-que-pode-ser-a-primeira-mulher-executada-no-tennessee-em-200-anos.shtml"
+    },
+    {
+     "nom": "dagbladet.no",
+     "url": "https://dagbladet.no/nyheter/kvinne-50-skal-henrettes-forste-pa-200-ar/85216516"
+    },
+    {
+     "nom": "indiatimes.com",
+     "url": "https://economictimes.indiatimes.com/news/international/us/christa-pike-set-to-be-tennessees-first-executed-woman-in-200-years-was-sexually-abused-as-a-toddler-and-raped-twice-fresh-details-emerge/articleshow/134556784.cms"
+    },
+    {
+     "nom": "nypost.com",
+     "url": "https://nypost.com/2026/09/29/us-news/lone-woman-death-row-inmate-christa-pike-says-shes-at-peace-ahead-of-execution-as-tennessee-gov-denies-last-ditch-bid-for-clemency"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwe879654mj7o"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/30/l-americaine-christa-pike-devrait-etre-la-premiere-femme-executee-dans-l-etat-du-tennessee-depuis-200-ans_6785927_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/apres-30-ans-dans-le-couloir-de-la-mort-aux-etats-unis-christa-pike-doit-etre-executee-malgre-la-polemique-sur-sa-sante-mentale_8215187.html"
+    }
+   ],
+   "premiere_parution": "2026-09-28T14:06:00Z",
+   "suite_de": null,
+   "mots": 300,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-30-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La justice rouvre l'enquête sur un viol collectif présumé à Cornell",
+   "chapeau": "Les procureurs de l'État de New York ont annoncé la réouverture d'une enquête pour viol collectif visant sept membres d'une fraternité de l'université Cornell. Cette décision fait suite à une plainte civile déposée en septembre 2026 par une étudiante âgée de 20 ans pour des faits survenus en 2024.",
+   "corps": "La justice de l'État de New York a rouvert une enquête concernant une agression sexuelle survenue en 2024 à la suite d'une plainte civile déposée par une étudiante contre sept membres d'une association.\n\nLes procureurs de l'État de New York ont annoncé le lundi 28 septembre 2026 la réouverture des investigations relatives à un viol collectif présumé commis au sein du campus de l'université Cornell. Les faits reprochés se sont déroulés en 2024 dans le bâtiment de la fraternité étudiante Chi Phi. La victime, identifiée sous le pseudonyme juridique de Jane Doe, est une étudiante qui était âgée de 20 ans au moment des événements.\n\nSelon les éléments figurant dans la plainte civile déposée au début du mois de septembre 2026, sept membres de la fraternité Chi Phi ont fourni de l'alcool et des drogues à la jeune femme jusqu'à provoquer son intoxication. L'étudiante affirme avoir été victime d'un viol collectif par ces sept individus alors qu'elle se trouvait dans un état d'incapacité. L'affaire n'avait initialement donné lieu à aucune poursuite pénale et la plainte initiale avait été classée sans suite par les services d'enquête.\n\nLe dépôt de la plainte civile visant les sept étudiants ainsi que l'université a déclenché des réactions publiques et des accusations d'indulgence à l'encontre de l'établissement d'enseignement supérieur. Des critiques portent également sur la gestion initiale de l'affaire par les services de police, tandis que l'usage du réseau social Snapchat figure parmi les éléments mentionnés dans le dossier.\n\nÀ la suite de cette action en justice, l'écrivain et satiriste Toby Morton a mis en ligne un site internet répertoriant les noms des sept étudiants accusés dans la plainte civile, selon une information rapportée par Deutsche Welle le 29 septembre 2026. L'affaire a relancé les débats nationaux sur la prise en charge des agressions sexuelles sur les campus universitaires aux États-Unis.\n\nLes éléments d'information fournis ne précisent pas l'état d'avancement exact de la nouvelle procédure pénale ni les dates des futures audiences.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "nbcbayarea.com",
+     "url": "https://nbcbayarea.com/news/national-international/cornell-gang-rape-investigation-reopened-accuser-files-lawsuit/4149638"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/drogas-snapchat-negligencia-policial-reabre-violacion-grupal-20260928181040-nt.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates"
+    },
+    {
+     "nom": "wkms.org",
+     "url": "https://wkms.org/npr-news/2026-09-28/prosecutors-are-reexamining-a-cornell-fraternity-rape-case-heres-what-we-know"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/prosecutors-reopen-investigation-into-alleged-2024-gang-rape-at-cornell-university"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20260928-etats-unis-enquete-rouverte-affaire-viol-collectif-presume-universite-cornell"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-prosecutors-reopen-cornell-gang-rape-case-after-outcry/article71521578.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape"
+    }
+   ],
+   "premiere_parution": "2026-09-28T00:15:00Z",
+   "suite_de": "2026-09-29-monde-004",
+   "mots": 375,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-30-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le roi du Maroc nomme Fatima Ezzahra El Mansouri premiere ministre",
+   "chapeau": "Le roi Mohammed VI a designe Fatima Ezzahra El Mansouri au poste de premiere ministre du Maroc mardi 29 septembre 2026. Cette nomination intervient a la suite des elections legislative du 23 septembre 2026.",
+   "corps": "Le roi Mohammed VI a nomme Fatima Ezzahra El Mansouri a la tete du gouvernement marocain le mardi 29 septembre 2026, selon le palais royal. Le Parti de l'authenticite et de la modernite a remporte les elections legislative du 23 septembre 2026 d'apres The Straits Times du 29 septembre 2026. Fatima Ezzahra El Mansouri devient ainsi la premiere femme a occuper cette fonction dans le pays.\n\nLa nouvelle dirigeante est avocate et exerce les fonctions de maire de Marrakech d'apres le Corriere della Sera du 29 septembre 2026. Elle a egalement participe au gouvernement precedent en tant que ministre chargee des questions d'habitat et d'urbanisme d'apres ABC du 29 septembre 2026 et Libération du 29 septembre 2026. Elle doit maintenant composer une coalition gouvernementale.\n\nCertaines sources mentionnent un contexte politique particulier. Le journal NRC du 29 septembre 2026 evoque des protestations de jeunes et des evenements a Ceuta. Les autres sources ne mentionnent pas ces elements.\n\nCertains elements biographiques precis sur le parcours universitaire de la nouvelle dirigeante manquent dans l'ensemble des sources consultees.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/moroccos-king-appoints-first-woman-prime-minister-following-election"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mohamed-nombra-fatima-zahra-mansouri-primera-ministra-20260929181050-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_29/marocco-fatima-ezzahra-el-mansouri-prima-premier-donna-del-paese-9a40d504-11fb-4aed-af76-da9024739xlk.shtml"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/maroc-avocate-de-formation-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-a-la-tete-du-gouvernement-20260929_CY55ZCLUQZAHNLRFWI6YZOHEXA"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/29/fatima-ezzahra-el-mansouri-wordt-de-eerste-vrouwelijke-premier-van-marokko-a4937832"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-29/marruecos-nombra-a-fatima-mansouri-como-primera-ministra-del-pais-la-primera-mujer-al-frente-del-gobierno-en-rabat.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/09/marrocos-nomeia-fatima-ezzahra-el-mansouri-como-a-1a-mulher-primeira-ministra.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-09-29T12:00:00Z",
+   "suite_de": null,
+   "mots": 208,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-09-30-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le directeur de la tour Eiffel quitte son poste apres une polemique",
+   "chapeau": "Le directeur général de la société d'exploitation de la tour Eiffel quitte son poste à la fin de l'année 2026 à Paris. Patrick Branco Ruivo a pris cette décision le mardi 29 septembre 2026 après le retrait d'employées pendant la venue d'une délégation religieuse le 5 septembre 2026.",
+   "corps": "Patrick Branco Ruivo a annoncé son départ le mardi 29 septembre 2026. Le dirigeant quittera ses fonctions à la fin de l'année 2026. La Société d'exploitation de la tour Eiffel gère le monument parisien. Le départ fait suite à des événements survenus le 5 septembre 2026.\n\nUne délégation religieuse hindoue a visité le monument ce jour-là. La direction a écarté les salariées de la vue des visiteurs. Des hommes ont remplacé les femmes dans leurs fonctions durant la visite. La société d'exploitation de la tour Eiffel a qualifié cette mesure d'inacceptable. La décision s'opposait à la valeur d'égalité républicaine selon la société de gestion.\n\nCet événement a provoqué une réaction des salariés du monument. Les employés ont cessé le travail. Le mouvement social a entraîné la fermeture du site durant une journée entière. Les travailleurs dénonçaient aussi la gestion générale du site par la direction depuis plusieurs mois selon le journal El País le 29 septembre 2026.\n\nUne enquête interne a analysé le déroulement des faits. Les conclusions mettent en évidence plusieurs erreurs dans l'organisation des visites protocolaires. Des faiblesses d'organisation ont permis l'éviction des femmes durant la venue du groupe hindou selon le média franceinfo le 29 septembre 2026. La fin des investigations internes a précédé l'annonce du départ du directeur général.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sciences/histoire/personnel-feminin-evince-lors-dune-visite-a-la-tour-eiffel-le-directeur-annonce-son-depart-20260929_2FRSRYYLWNAQ3DKX54SQZSICXM"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/09/29/le-directeur-de-la-tour-eiffel-patrick-branco-ruivo-annonce-son-depart-a-la-fin-de-l-annee-apres-la-polemique-sur-l-eviction-du-personnel-feminin-du-monument_6785620_823448.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/religion/le-directeur-de-la-tour-eiffel-annonce-son-depart-pres-d-un-mois-apres-la-polemique-sur-la-mise-a-l-ecart-d-employees-lors-de-la-visite-d-une-delegation-hindoue_8215022.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/employees-mises-a-l-ecart-le-directeur-de-la-tour-eiffel-annonce-son-depart-20260929"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/29/eiffel-tower-chief-to-quit-female-staff-hindu-visit"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/paris-eiffel-tower-says-chief-to-step-down-after-uproar-over-removing-women-staff"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crn8e069v7p7o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/eiffelturm-chef-tritt-nach-ausschluss-von-frauen-zurueck-a-6b849ebb-003e-43ba-a148-923dacf4b582"
+    }
+   ],
+   "premiere_parution": "2026-09-29T13:47:33Z",
+   "suite_de": null,
+   "mots": 261,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-30-france-002",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Accusations d'antisémitisme contre Jordan Bardella : le Rassemblement national riposte",
+   "chapeau": "Le journal Mediapart a attribué, le lundi 28 septembre 2026 en France, des messages antisémites rédigés entre 2013 et 2015 au président du Rassemblement national Jordan Bardella. Le dirigeant politique nie ces accusations et annonce le dépôt d'une plainte pour diffamation.",
+   "corps": "Le journal en ligne Mediapart a publié une enquête le lundi 28 septembre 2026 concernant Jordan Bardella. La publication attribue au président du Rassemblement national des propos antisémites et antisionistes rédigés entre 2013 et 2015. À cette époque, le responsable politique était âgé de 17 à 18 ans et militait au sein du Front national. L'enquête fait part de commentaires ciblant les personnes juives ainsi que d'un soutien à des théories conspirationnistes. Les écrits mentionnés contiennent la phrase affirmant que toutes les banques appartiennent aux juifs et qu'ils veulent un Nouveau Ordre Mondial. La publication met aussi en lumière une période au cours de laquelle le jeune militant aurait subi l'influence de l'essayiste d'extrême droite Alain Soral.\n\nLe président du Rassemblement national rejette l'intégralité des faits reprochés. Jordan Bardella qualifie ces accusations de fabrications et annonce des poursuites judiciaires. Son avocat a déposé une plainte pour diffamation contre le journal d'investigation. Le mardi 29 septembre 2026, Jordan Bardella a déclaré que cette affaire constitue les prémices d'une guerre totale dirigée contre sa formation politique. Le même jour, les dirigeants du Rassemblement national ont manifesté leur soutien à leur président. Les cadres du parti ont ouvert de manière exceptionnelle la réunion de leur groupe parlementaire à l'Assemblée nationale devant les journalistes.\n\nMarine Le Pen a réagi publiquement aux révélations du journal. La candidate du Rassemblement national a affirmé que la rédaction de Mediapart devra enfiler un costume en Kevlar en prévision des réponses apportées par son parti. À la suite de ces propos, la direction de Mediapart a dénoncé la violence de l'extrême droite. Le journal d'investigation qualifie les déclarations de Marine Le Pen de propos menaçants d'une grande gravité.\n\nLa réaction de l'opposition politique ne s'est pas faite attendre. Les adversaires du Rassemblement national affirment que cette affaire démontre l'absence de changement réel au sein de la formation d'extrême droite. Le mercredi 30 septembre 2026, le député Rassemblement national Julien Odoul a demandé la publication complète des écrits attribués à Jordan Bardella. Le parlementaire affirme que le débat repose sur du vent et accuse le média de chercher à déstabiliser le parti.\n\nCette confrontation s'inscrit dans un contexte d'échéances politiques futures. Marine Le Pen figure en position de favorite dans la totalité des principaux sondages relatifs à l'élection présidentielle française. L'affaire suscite des interrogations sur la stratégie de normalisation engagée par la direction du parti. Sur le plan judiciaire, le journal France 24 indique le 30 septembre 2026 que Mediapart a fait l'objet de plus de 300 procédures depuis sa création, ayant abouti à 5 condamnations pénales définitives.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-28/una-investigacion-acusa-al-ultraderechista-bardella-de-escribir-mensajes-antisemitas-entre-los-17-y-los-18-anos.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_29/ebrei-nuovo-ordinefrasi-antisemite-bardella-d6f6aedb-0f41-464b-a393-4cd6adcb2xlk.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/ecrits-antisemites-attribues-a-jordan-bardella-les-debuts-du-president-du-rn-sous-les-projecteurs-20260929"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/09/29/enquete-sur-jordan-bardella-apres-la-reaction-du-president-du-rn-mediapart-denonce-la-violence-siderante-du-parti-d-extreme-droite_6785580_823449.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/antisemitismus-vorwuefe-gegen-jordan-bardella-bremst-dieser-skandal-marine-le-pen-aus-a-6adb17d4-f8fb-47bc-9310-a48c6cff49a7"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260929-la-d%C3%A9diabolisation-du-rn-mise-%C3%A0-mal"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/jordan-bardella-accuse-dantisemitisme-une-affaire-qui-fait-grincer-les-rangs-du-rn-20260929_5HWS6BVZJBEDFOF4R2Y5V7JBXA"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/front-national/accuse-d-antisemitisme-jordan-bardella-denonce-une-guerre-totale-contre-le-rn-mediapart-fustige-la-violence-siderante-de-l-extreme-droite_8215442.html"
+    }
+   ],
+   "premiere_parution": "2026-09-28T14:07:09Z",
+   "suite_de": null,
+   "mots": 469,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-30-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "De nouvelles frappes russes font trois morts à Kiev et sa région",
+   "chapeau": "L'armée russe a mené de nouvelles attaques aériennes sur la capitale ukrainienne et ses environs le mercredi 30 septembre 2026 au matin. Ces bombardements ont tué trois personnes et blessé sept autres citoyens selon les autorités locales.",
+   "corps": "Cette nouvelle offensive fait suite à une série d'attaques aériennes meurtrières menées par les forces russes et ukrainiennes durant le week-end des 26 et 27 septembre 2026.\n\nLes frappes de mercredi matin ont touché la ville de Kiev et sa périphérie. Les responsables ukrainiens rapportent qu'un enfant figure parmi les trois personnes décédées. Sept autres personnes ont subi des blessures lors de ces événements.\n\nCes hostilités s'inscrivent dans un contexte de tensions accrues. Le président ukrainien Volodymyr Zelensky a affirmé le 28 septembre 2026 que Moscou avait projeté près de 4 000 drones, bombes aériennes et missiles sur l'Ukraine au cours de la semaine précédente. De son côté, le gouvernement russe a rejeté les demandes de l'Allemagne qui l'appelait à stopper son escalade militaire face à l'OTAN, l'organisation du traité de l'Atlantique Nord.\n\nLes relations entre l'Allemagne et la Russie se sont détériorées récemment. Berlin attribue en effet au Kremlin une tentative d'attaque par drone survenue le mois dernier à l'aéroport de Leipzig.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russian-air-strikes-kill-3-injure-7-in-and-around-kyiv-officials-say"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/strikes-kill-6-in-ukraine-1-in-russia-after-moscow-rejects-german-calls-to-de-escalate/article71517092.ece"
+    },
+    {
+     "nom": "wwaytv3.com",
+     "url": "https://wwaytv3.com/strikes-kill-8-in-ukraine-1-in-russia-after-moscow-rejects-german-calls-to-de-escalate"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-germany-drones-strikes-f91ac88ee287bad2a3c99d2608975f53"
+    },
+    {
+     "nom": "kcra.com",
+     "url": "https://kcra.com/article/russian-strikes-ukraine-moscow-rejects-german-de-escalate/73910048"
+    },
+    {
+     "nom": "crookwellgazette.com.au",
+     "url": "https://crookwellgazette.com.au/story/9358272/strikes-continue-as-moscow-rejects-german-calls-to-stop"
+    }
+   ],
+   "premiere_parution": "2026-09-27T12:00:00Z",
+   "suite_de": "2026-09-28-geopolitique-002",
+   "mots": 200,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-09-30-sport-001",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Manchester City reconnu coupable de 114 infractions financières par la Premier League",
+   "chapeau": "La Premier League a annoncé mardi 29 septembre 2026 qu'une commission indépendante a reconnu le club de Manchester City coupable de graves violations des règles financières. Ces infractions se sont produites sur une période de neuf saisons, entre 2009 et 2018.",
+   "corps": "La commission indépendante a validé 114 des 115 accusations qui pesaient sur le club anglais. Selon les conclusions de l'enquête, Manchester City a mis en place des contrats fictifs avec des partenaires commerciaux pour masquer sa situation financière réelle. Ces manœuvres ont permis au club d'augmenter artificiellement ses revenus de plus de 900 millions de livres sterling, soit environ 1,08 milliard d'euros, d'après les chiffres publiés par la Premier League le 29 septembre 2026.\n\nLes enquêteurs ont établi que le club a falsifié ses comptes et réduit artificiellement ses coûts pour tromper les régulateurs du football. Ces pratiques ont permis de contourner les règles de financement du championnat anglais de manière systématique pendant près d'une décennie. Le club s'expose désormais à plusieurs sanctions possibles, allant d'une amende financière au retrait de points, voire à la destitution de ses titres remportés durant cette période.\n\nLa direction de Manchester City a réagi immédiatement après l'annonce du verdict. Le club se dit surpris et déçu par cette décision. Le directeur général du club a rejeté les conclusions de la commission et a accusé la Premier League de relayer des théories du complot. Les dirigeants maintiennent que le club est innocent de toutes les accusations portées contre lui.\n\nManchester City a annoncé son intention de contester officiellement cette décision. Le club dispose d'un délai qui court jusqu'au vendredi 2 octobre 2026 pour déposer un recours contre ce verdict.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/manchester-city/destitution-de-trophees-retrait-de-points-amende-que-risque-manchester-city-reconnu-coupable-de-114-infractions-financieres_8214866.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/09/29/manchester-city-reconnu-coupable-de-graves-violations-des-regles-financieres-du-championnat-anglais-de-football_6785679_3242.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-sport/premier-league-manchester-city-est-officiellement-reconnu-coupable-de-graves-infractions-financieres-20260929"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/futbol/2026-09-29/la-premier-league-confirma-el-veredicto-de-culpabilidad-del-manchester-city-por-saltarse-las-reglas-de-financiacion.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/manchester-city-geschaeftsfuehrer-wirft-premier-league-verschwoerungstheorien-vor-a-6c5b72e6-4d14-489a-a73b-0a751e356a96"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/09/premier-league-anuncia-que-considera-city-culpado-de-infracoes-financeiras-graves.shtml"
+    }
+   ],
+   "premiere_parution": "2026-09-28T22:29:09Z",
+   "suite_de": null,
+   "mots": 276,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-09-30-france-001",
+  "2026-09-30-monde-001",
+  "2026-09-30-monde-002",
+  "2026-09-30-france-002",
+  "2026-09-30-geopolitique-001",
+  "2026-09-30-sport-001"
+ ]
+}

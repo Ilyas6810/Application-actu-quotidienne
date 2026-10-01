@@ -1,6 +1,83 @@
 {
- "maj": "2026-10-01T00:39:23Z",
+ "maj": "2026-10-01T10:14:51Z",
  "alertes": [
+  {
+   "id": "2026-10-01-alerte-03",
+   "date": "2026-10-01",
+   "publiee_a": "2026-10-01T10:14:51Z",
+   "titre": "La contestation des lycéens s'étend aux universités françaises ce jeudi",
+   "texte": "Les blocages d'établissements scolaires se poursuivent en France ce jeudi 1er octobre 2026 avec le ralliement d'une trentaine d'universités. Des dégradations touchent plusieurs villes, dont Nantes où un incendie a endommagé le hall d'un lycée.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/la-colere-des-lyceens-setend-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-ce-jeudi-20261001_QX3LRJUBXNHJVLO6JQ7NSVKE6E"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/des-campus-universitaires-rejoignent-les-lycees-dans-la-contestation-sociale-20261001"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261001-blocus-des-lyc%C3%A9es-la-mobilisation-continue-appel-%C3%A0-un-acte-deux-jeudi"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/01/blocage-des-lycees-le-hall-d-un-etablissement-detruit-par-un-incendie-a-nantes-des-campus-universitaires-rejoignent-la-contestation-sociale_6786486_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/blocage-des-lycees-la-carte-des-etablissements-concernes-20260929"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-jeudi-matin_8217799.html"
+    }
+   ],
+   "cluster": "79a6bfc5156176de",
+   "urls": [
+    "https://etudiant.lefigaro.fr/article/lycee/blocages-de-lycees-de-nouveaux-etablissements-bloques-un-peu-partout-en-france-ce-mercredi-20260930",
+    "https://france24.com/fr/france/20260930-lyc%C3%A9es-bloqu%C3%A9es-le-mouvement-se-poursuit-des-appels-%C3%A0-la-convergence-des-luttes",
+    "https://france24.com/fr/france/20261001-blocus-des-lyc%C3%A9es-en-france-des-campus-universitaires-rejoignent-la-contestation-sociale",
+    "https://france24.com/fr/vid%C3%A9o/20260929-blocus-des-lyc%C3%A9es-en-france-les-raisons-de-la-mobilisation",
+    "https://france24.com/fr/vid%C3%A9o/20260929-france-des-lyc%C3%A9es-bloqu%C3%A9s-pour-obtenir-plus-de-moyens-pour-l-%C3%A9ducation",
+    "https://france24.com/fr/vid%C3%A9o/20260930-blocages-des-lyc%C3%A9es-la-mobilisation-se-poursuit",
+    "https://france24.com/fr/vid%C3%A9o/20261001-blocus-des-lyc%C3%A9es-la-mobilisation-continue-appel-%C3%A0-un-acte-deux-jeudi",
+    "https://franceinfo.fr/economie/greve/blocus-des-lycees-625-interpellations-selon-le-ministre-de-l-interieur_8216866.html",
+    "https://franceinfo.fr/economie/greve/blocus-des-lycees-une-journee-emaillee-d-incidents-violents_8215433.html",
+    "https://franceinfo.fr/economie/greve/lycees-bloques-la-contestation-lyceenne-gagne-du-terrain-en-france_8214824.html",
+    "https://franceinfo.fr/economie/greve/lycees-bloques-la-tension-monte_8215385.html",
+    "https://franceinfo.fr/economie/greve/nord-val-d-oise-ariege-plus-d-une-centaine-de-lycees-bloques-mardi-en-france_8214575.html",
+    "https://franceinfo.fr/societe/education/blocage-des-lycees-laurent-nunez-ministre-de-l-interieur-annonce-440-interpellations-dans-la-journee-de-mardi_8215373.html",
+    "https://franceinfo.fr/societe/education/blocus-des-lycees-la-colere-s-amplifie-le-mouvement-se-durcit_8214938.html",
+    "https://franceinfo.fr/societe/education/le-blocage-des-lycees-se-poursuit-partout-en-france-des-universites-pourraient-rejoindre-le-mouvement_8216944.html",
+    "https://franceinfo.fr/societe/education/lille-bordeaux-lyon-de-nouvelles-tensions-devant-les-lycees-bloques_8216389.html",
+    "https://franceinfo.fr/societe/education/manque-de-moyens-etablissements-insalubres-motivations-politiques-pourquoi-les-lyceens-se-mobilisent-depuis-une-semaine_8214617.html",
+    "https://franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-jeudi-matin_8217799.html",
+    "https://franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-mercredi-en-fin-de-matinee_8216045.html",
+    "https://franceinfo.fr/societe/education/reportage-la-c-est-parti-un-peu-trop-loin-a-argenteuil-des-lyceens-deplorent-les-debordements-lors-des-manifestations_8214554.html",
+    "https://franceinfo.fr/societe/education/scolarite/guide-parents/lycee/au-moins-164-interpellations-ont-eu-lieu-en-marge-de-blocages-de-lycees-lundi-annonce-le-ministre-de-l-interieur-laurent-nunez_8214077.html",
+    "https://franceinfo.fr/societe/education/scolarite/guide-parents/lycee/des-lycees-bloques-partout-en-france-des-interventions-policieres-parfois-musclees_8215361.html",
+    "https://la-croix.com/a-vif/lfi-les-limites-de-la-recuperation-20260929",
+    "https://la-croix.com/blocus-des-lycees-la-mobilisation-se-poursuit-des-tensions-dans-plusieurs-villes-20260929",
+    "https://la-croix.com/des-campus-universitaires-rejoignent-les-lycees-dans-la-contestation-sociale-20261001",
+    "https://la-croix.com/politique/blocage-des-lycees-la-france-insoumise-accusee-d-attiser-la-violence-20260929",
+    "https://la-croix.com/societe/blocage-des-lycees-440-interpellations-ce-mardi-annonce-le-ministre-de-l-interieur-20260929",
+    "https://la-croix.com/societe/blocage-des-lycees-les-etablissements-de-banlieue-sont-ils-delaisses-20260930",
+    "https://lefigaro.fr/actualite-france/blocage-des-lycees-la-carte-des-etablissements-concernes-20260929",
+    "https://lefigaro.fr/actualite-france/quand-on-fait-des-manifestations-on-ne-nous-ecoute-pas-chauffes-a-blanc-par-lfi-les-lyceens-veulent-poursuivre-les-blocages-20260929",
+    "https://lemonde.fr/societe/article/2026/09/29/blocages-des-lycees-338-etablissements-concernes-et-dix-blesses-selon-le-ministere-de-l-education-nationale_6785573_3225.html",
+    "https://lemonde.fr/societe/article/2026/09/29/blocages-des-lycees-moins-d-une-dizaine-de-lycees-concernes-a-paris-selon-le-rectorat_6785573_3224.html",
+    "https://lemonde.fr/societe/article/2026/09/29/blocus-des-lycees-en-banlieue-parisienne-les-eleves-veulent-se-faire-entendre-sur-leur-quotidien-et-contre-l-injustice_6785629_3224.html",
+    "https://lemonde.fr/societe/article/2026/09/30/blocage-des-lycees-625-interpellations-mercredi-annonce-le-ministre-de-l-interieur-qui-constate-une-extension-du-mouvement_6786023_3225.html",
+    "https://lemonde.fr/societe/article/2026/10/01/blocage-des-lycees-le-hall-d-un-etablissement-detruit-par-un-incendie-a-nantes-des-campus-universitaires-rejoignent-la-contestation-sociale_6786486_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
+    "https://liberation.fr/politique/blocages-des-lycees-face-aux-proces-en-agitation-lfi-nie-toute-recuperation-20260929_XPU73X56ZRDRBDOOTAXTUUHGDY",
+    "https://liberation.fr/societe/education/blocus-des-lycees-40-interpellations-et-10-blesses-la-mobilisation-se-poursuit-et-samplifie-20260929_Q6BT5GWKINCLTGRPEGF7IIPH3Q",
+    "https://liberation.fr/societe/education/blocus-des-lycees-de-paris-a-nantes-en-passant-par-orleans-on-souffre-tous-du-manque-criant-de-moyens-20260929_53EUIVII6JCLFK2JHUNBI5TCYY",
+    "https://liberation.fr/societe/education/la-colere-des-lyceens-setend-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-ce-jeudi-20261001_QX3LRJUBXNHJVLO6JQ7NSVKE6E",
+    "https://rfi.fr/fr/france/20260930-france-les-blocages-des-lyc%C3%A9es-se-tendent-et-font-de-nombreux-bless%C3%A9s"
+   ]
+  },
   {
    "id": "2026-10-01-alerte-02",
    "date": "2026-10-01",

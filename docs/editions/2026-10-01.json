@@ -1,0 +1,389 @@
+{
+ "date": "2026-10-01",
+ "genere_a": "2026-10-01T06:45:11Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-01-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'exécution de Christa Pike échoue après deux injections dans le Tennessee",
+   "chapeau": "La détenue Christa Pike a survécu à sa mise à mort par injection létale mercredi 30 septembre 2026 dans le Tennessee. Les autorités locales ont ensuite transféré la femme de 50 ans vers un centre hospitalier.",
+   "corps": "Condamnée pour un meurtre commis il y a trente ans, Christa Pike devait devenir la première femme exécutée dans le Tennessee depuis deux siècles.\n\nLes services pénitentiaires ont administré deux doses de pentobarbital à la prisonnière. Ce produit sert d'anesthésique mortel lors des exécutions. Selon les journalistes présents dans la salle des témoins, la condamnée respirait encore après la procédure. Des témoins rapportent qu'elle ronflait de manière audible.\n\nLes avocats de la défense indiquent que l'équipe médicale a rencontré des difficultés pour trouver les veines de leur cliente. Les représentants légaux dénoncent une souffrance non nécessaire subie par la prisonnière. La détenue a ensuite été admise dans un établissement de soins proche de la prison. Ses conseils précisent qu'ils ignorent son état de santé exact au moment de leur prise de parole.\n\nLe déroulement de cette journée a suivi plusieurs étapes judiciaires contradictoires. Une cour d'appel fédérale avait d'abord suspendu l'application de la peine par deux voix contre une. La Cour suprême des États-Unis a ensuite annulé cette décision quelques heures avant l'horaire prévu. Ce choix de la plus haute juridiction américaine a rouvert la voie à l'exécution de la peine capitale.\n\nÀ la suite de ces événements, le gouverneur du Tennessee Bill Lee a suspendu les exécutions restantes programmées pour l'année en cours dans l'État.\n\nLe bilan médical officiel de Christa Pike après son hospitalisation n'a pas été communiqué par les autorités pénitentiaires.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/01/executie-christa-pike-mocht-toch-doorgaan-maar-haar-advocaten-melden-dat-ze-nog-in-leven-is-a4937955"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/justice-proces/l-execution-de-christa-pike-autorisee-in-extremis-par-la-cour-supreme-des-etats-unis-a-echoue-selon-ses-avocats_8217682.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/etats-unis-une-femme-va-etre-executee-dans-le-tennessee-pour-la-premiere-fois-depuis-200-ans-20260930_7NBPGNXAMBCU7D2OMGQNKKQSPE"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-cour-supreme-autorise-l-execution-de-christa-pike-premiere-americaine-devant-etre-mise-a-mort-depuis-2023-20261001"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/christa-pike-lethal-injection-execution-fails-tennessee/article71531462.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/01/execution-ratee-de-christa-pike-aux-etats-unis-la-condamnee-a-survecu-a-l-injection-letale-apres-un-ultime-sursis-annule_6786327_3211.html"
+    }
+   ],
+   "premiere_parution": "2026-09-28T18:28:50Z",
+   "suite_de": "2026-09-30-monde-001",
+   "mots": 270,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-01-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un avion reliant Dubaï à Tel-Aviv dérouté après une attaque en vol",
+   "chapeau": "Un appareil de la compagnie émiratie Flydubai a effectué un atterrissage d'urgence à Tabuk, en Arabie saoudite, mercredi 30 septembre 2026. L'un des membres de l'équipage a attaqué son collègue au couteau avant d'être maîtrisé par des occupants de l'avion.",
+   "corps": "Le vol FZ1073 est parti de Dubaï mercredi 30 septembre 2026 aux alentours de 7 heures du matin. Un affrontement s'est produit à bord de l'appareil entre les deux membres du cockpit. L'un des pilotes a asséné des coups de couteau à son confrère pendant la traversée. Des passagers sont intervenus directement dans la cabine de pilotage pour neutraliser l'agresseur et prendre le contrôle de la situation.\n\nL'appareil a interrompu sa route initiale pour se poser en urgence sur le sol saoudien, à l'aéroport de Tabuk situé dans le nord-ouest du pays. L'ensemble des voyageurs est indemne. Seul le pilote blessé durant l'agression a requis des soins. À la suite de cet événement, la compagnie Flydubai a décidé de stopper l'ensemble de ses liaisons aériennes desservant le territoire israélien.\n\nLe Premier ministre d'Israël, Benyamin Nétanyahou, affirme que l'auteur des faits a cherché à provoquer la chute de l'avion. Le gouvernement israélien qualifie ces actes de tentative d'attentat djihadiste. À la suite de cet incident, les autorités israéliennes ont exprimé leur volonté de renforcer la surveillance des pilotes empruntant le couloir aérien vers leur pays. L'Arabie saoudite a accordé le droit d'atterrir d'urgence au vol commercial, mais les autorités saoudiennes ont refusé de laisser pénétrer un avion militaire dépêché par Israël.\n\nLe Premier ministre de l'Inde, Narendra Modi, a rendu hommage à la bravoure du pilote indien ciblé par l'attaque. Les récits individuels décrivent la participation de voyageurs israéliens pour stopper l'agresseur et aider au redressement de la trajectoire avant la reprise des commandes par un autre pilote présent parmi les passagers.\n\n## Ce que disent les sources\n\nLes médias décrivent différemment l'identité de l'agresseur. Der Spiegel et La Croix indiquent que l'auteur des faits est un membre de l'équipage ou l'un des pilotes. Libération, El País et France 24 déclarent que le copilote est le responsable de l'agression. Le Figaro précise que ce copilote est de nationalité omanaise. À l'inverse, Der Spiegel mentionne dans un premier temps l'intervention d'un homme armé d'un couteau neutralisé par des passagers, tandis que d'autres médias comme ABC rapportent que les premières alertes israéliennes évoquaient un possible détournement.\n\nLes détails sur le déroulement exact au sein du cockpit et le statut judiciaire de l'agresseur ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/accident-a-bord-du-vol-flydubai-israel-evoque-une-tentative-d-attaque-djihadiste-20260930"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/09/30/une-video-montre-un-passager-a-bord-du-vol-flydubai-tous-les-passagers-sont-sains-et-saufs-sauf-le-pilote_6786098_3210.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/cd4611e7-c0ee-4acf-b0dd-e820b067a9f6?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/attaque-sur-un-vol-de-flydubai-entre-dubai-et-tel-aviv-la-catastrophe-evitee-grace-aux-passagers-20260930_7RC7ASCREJGKFDC5QFK2PLN2CM"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/piloto-apunalado-companero-reaccion-pasajeros-secuencia-salvacion-20260930183736-nt.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-security/2026-10-01/ty-article/.premium/what-the-flydubai-landing-reveals-about-limits-of-israel-saudi-ties/000001a0-f3d1-dfbb-afa4-f3d174710000"
+    }
+   ],
+   "premiere_parution": "2026-09-30T03:30:00Z",
+   "suite_de": null,
+   "mots": 415,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-01-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un vol entre Dubai et Tel-Aviv dérouté après une agression dans le cockpit",
+   "chapeau": "Un vol de la compagnie Flydubai reliant Dubai à Tel-Aviv a été dérouté vers l'Arabie saoudite le 30 septembre 2026 après qu'un pilote a agressé son collègue. L'incident a impliqué plus de 170 passagers à bord de l'appareil.",
+   "corps": "Le vol opéré par la compagnie Flydubai transportait plus de 170 passagers entre Dubai et Tel-Aviv le 30 septembre 2026 selon Bloomberg le 1 octobre 2026. L'appareil a subi une perte d'altitude rapide avant que la situation ne soit stabilisée.\n\nSelon le Premier ministre israélien Benjamin Netanyahu cité par NPR le 30 septembre 2026, l'un des pilotes a poignardé le commandant de bord. L'avion a entamé une descente brutale, perdant 18 000 pieds en quatre-vingt-dix secondes selon le Financial Times le 30 septembre 2026.\n\nDes passagers et des membres de l'équipage sont entrés dans le cockpit pour maîtriser le pilote mis en cause d'après Bloomberg le 1 octobre 2026. L'appareil a ensuite atterri en Arabie saoudite selon NPR le 30 septembre 2026.\n\nLe Premier ministre israélien Benjamin Netanyahu a déclaré que l'Arabie saoudite avait arrêté le copilote selon The Hindu le 1 octobre 2026. Le ministre de la Défense israélien Israel Katz a qualifié l'événement d'attaque terroriste jihadiste selon Haaretz le 30 septembre 2026.\n\nLe gouvernement israélien a annoncé le renforcement des contrôles de sécurité concernant les pilotes selon The Straits Times le 30 septembre 2026. Une enquête a été ouverte pour déterminer les motivations de l'agression selon The Hindu le 1 octobre 2026.\n\nL'ambassade d'Israël a confirmé la présence de deux citoyens australiens de Sydney à bord selon The Guardian le 1 octobre 2026.\n\nCertains détails concernant les motivations exactes de l'agresseur restent incertains.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20260930/6592a85b93e24c49b820dc1ca581ea46/c.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-security/2026-09-30/ty-article/.premium/netanyahu-responds-flydubai-incident-israel-preparing-for-more-security-threats/000001a0-f206-d272-adf6-ffc6032f0000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/israel-to-ramp-up-pilot-checks-after-flydubai-scare"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/inside-the-dubai-airline-flight-that-made-emergency-landing-after-captain-was-stabbed/article71531306.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-30T03:30:00Z",
+   "suite_de": null,
+   "mots": 273,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-01-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Royaume-Uni accuse l'Iran dans l'incident de la base",
+   "chapeau": "Le Premier ministre britannique Andy Burnham a affirmé mardi 30 septembre 2026 que l'Iran est impliqué dans l'incident survenu près de la base aérienne de Fairford. Cinq hommes avaient été arrêtés dans la nuit de samedi à dimanche après un signalement.",
+   "corps": "Le Premier ministre britannique Andy Burnham a déclaré qu'il existe de solides indications concernant le rôle de l'Iran dans l'affaire de la base militaire de Fairford, située dans le Gloucestershire en Angleterre. S'exprimant le mardi 30 septembre 2026 à Liverpool selon The Guardian et Le Monde, il a précisé que les services de sécurité mènent une enquête. Cinq suspects ont été interpellés puis relâchés sous caution, d'après les mêmes sources.\n\nL'incident s'est produit dans la nuit de samedi à dimanche, lorsque la police locale est intervenue après un signalement concernant des véhicules suspects près de cette infrastructure militaire employée par l'armée américaine. Les autorités britanniques qualifient les faits d'enquête antiterroriste, selon ABC le 30 septembre 2026.\n\n## Ce que disent les sources\n\nLe gouvernement britannique affirme l'existence d'indices reliant l'Iran au projet d'attaque, tandis que l'Iran a catégoriquement démenti tout lien avec cet événement, qualifiant les accusations de fausses, selon Le Monde le 30 septembre 2026 et Der Spiegel le 1 octobre 2026.\n\nCertains détails sur la nature exacte des liens entre les suspects et l'État iranien manquent encore à ce stade de l'enquête.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/sep/30/strong-indications-that-iran-played-role-in-raf-fairford-incident-says-burnham"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/09/30/incident-pres-d-une-base-militaire-en-angleterre-de-fortes-indications-de-l-implication-de-l-iran-selon-le-premier-ministre-britannique_6786100_3210.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/burnham-indicios-claros-sobre-implicacion-iran-incidente-20260930195630-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-09-30/ty-article/u-k-links-iran-to-suspected-plot-outside-airbase-used-by-u-s-bombers/000001a0-f328-dfbb-afa4-f3786c3a0000"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-09-30/el-primer-ministro-britanico-asegura-que-iran-esta-detras-del-incidente-en-la-base-aerea-de-fairford.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/uk-iran-raf-fairford-incident"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20260930-projet-attaque-fairford-tout-porte-%C3%A0-croire-iran-a-jou%C3%A9-un-r%C3%B4le-affirme-burnham"
+    }
+   ],
+   "premiere_parution": "2026-09-30T01:45:00Z",
+   "suite_de": null,
+   "mots": 224,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-01-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les glaciers suisses perdent plus de cinq pour cent de leur volume en deux mille vingt-six",
+   "chapeau": "L'Académie suisse des sciences naturelles a publié son rapport annuel le premier octobre deux mille vingt-six, révélant une fonte accélérée des glaciers alpins. Cette diminution de la masse glaciaire menace les ressources en eau et les écosystèmes en Europe.",
+   "corps": "Les glaciers situés en Suisse ont perdu plus de cinq pour cent de leur volume au cours de l'année deux mille vingt-six selon un rapport publié le premier octobre deux mille vingt-six par l'Académie suisse des sciences naturelles (source : RFI, 01/10/2026). Cette réduction fait suite à des vagues de chaleur estivales enregistrées dans le pays. Sur une période de cinq ans, les masses glaciacaires ont diminué de près de vingt pour cent d'après les données de la même institution (source : Deutsche Welle, 01/10/2026).\n\nLes mois de juin à août deux mille vingt-six constituent la période estivale la plus chaude mesurée en Suisse depuis le début des relevés statistiques en 1864 selon franceinfo (source : franceinfo, 01/10/2026). Le réseau de surveillance Glamos indique que plusieurs sites, incluant le glacier du Rhône et celui d'Aletsch, enregistrent le recul le plus important de leur histoire (source : La Croix, 01/10/2026).\n\nDes experts scientifiques estiment que cette disparition rapide des réserves de glace pose des risques pour l'approvisionnement en eau des populations locales et continentales (source : NPR, 01/10/2026). Certains chercheurs avancent l'hypothèse d'une disparition totale de certains glaciers d'ici dix à quinze ans si la tendance actuelle se poursuit (source : Deutsche Welle, 01/10/2026).\n\nL'élément concernant la quantité exacte perdue sur les huit premiers mois de l'année deux mille vingt-six mentionne une baisse de cinq virgule cinq pour cent selon une étude de surveillance (source : The Guardian, 01/10/2026). D'autres rapports chiffrent la perte annuelle globale à plus de cinq pour cent sans préciser de fraction mensuelle (source : NPR, 01/10/2026).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/swiss-glaciers-lose-more-than-5-of-ice-after-record-heatwave"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6n9w0ypjwl9o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/schweizer-gletscher-forscher-sehen-2026-beispiellosen-eisschwund-a-60d1fcde-2864-46bf-bf9e-91d558075140"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/environnement/20261001-suisse-les-canicules-de-l-%C3%A9t%C3%A9-2026-ont-encore-aggrav%C3%A9-la-fonte-des-glaciers"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/la-fonte-des-glaciers-s-accelere-nouvelle-annee-catastrophique-en-suisse-20260930"
+    }
+   ],
+   "premiere_parution": "2026-09-30T23:00:00Z",
+   "suite_de": null,
+   "mots": 307,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-01-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump ordonne d'utiliser le terme superintelligence au lieu d'intelligence artificielle",
+   "chapeau": "Le président américain Donald Trump a décrété le changement de nom officiel de l'intelligence artificielle en superintelligence au sein de l'administration fédérale. Cette décision s'inscrit dans le cadre du lancement d'un nouveau portail gouvernemental et d'accords signés avec les dirigeants des entreprises du secteur informatique.",
+   "corps": "Le président des États-Unis estime que le mot artificielle attribue une valeur négative à cette technologie. Un décret présidentiel impose désormais l'usage de l'expression superintelligence dans l'ensemble des communications et des documents administratifs américains. La directive demande également d'intégrer les services publics à la plateforme America.gov.\n\nEn parallèle, le gouvernement américain a conclu un accord avec plusieurs dirigeants de grandes entreprises technologiques. L'accord repose sur le principe de l'autoregulation sans imposer de contraintes légales strictes aux acteurs du secteur.\n\nL'administration américaine a également déployé un assistant virtuel sur son nouveau site internet afin de faciliter les démarches des citoyens. Les réponses fournies par cet outil numérique contredisent toutefois certaines déclarations présidentielles relatives à l'immigration, aux tarifs douaniers, à l'inflation et aux élections.\n\nLes spécialistes de la technologie émettent des réserves quant à l'adoption globale de ce nouveau terme, estimant qu'il apporte des ambiguïtés supplémentaires. Les entreprises privées et les chercheurs conservent leurs propres usages linguistiques.\n\nCertaines informations précises concernant la liste complète des entreprises signataires de l'accord n'ont pas été communiquées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-incorpora-ia-gobierno-estados-unidos-20260929173134-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_settembre_30/intelligenza-artificiale-trump-firma-con-big-della-tecnologia-un-accordo-moralmente-vincolante-4a90be82-9995-4e02-a929-92b1c4f50xlk.shtml"
+    },
+    {
+     "nom": "openthemagazine.com",
+     "url": "https://openthemagazine.com/world/artificial-no-more-donald-trump-renames-ai-super-intelligence"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-bus-2091-rdf"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/trump-formally-replaces-artificial-intelligence-with-super-intelligence-in-an-executive-order/article71531394.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-29T19:02:17Z",
+   "suite_de": null,
+   "mots": 217,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-01-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des dirigeants saluent le pilote indien d'un vol Flydubai agressé",
+   "chapeau": "Le Premier ministre israélien et des responsables indiens ont salué l'action d'un pilote indien, le mercredi 30 septembre 2026. Il a évité un accident aérien après une agression dans le cockpit.",
+   "corps": "Le capitaine Smit Machchhar pilotait le vol FZ1073 de la compagnie Flydubai à destination d'Israël, le mercredi 30 septembre 2026. Le co-pileur a poignardé le commandant de bord dans le cockpit, selon les informations publiées le jeudi 1 octobre 2026.\n\nMalgré ses blessures, le capitaine Smit Machchhar a réussi à déverrouiller la porte de la cabine de pilotage. Des passagers, des membres d'équipage et des pilotes hors service sont intervenus pour maîtriser le co-pilote et stabiliser l'appareil.\n\nLe Premier ministre israélien Benjamin Netanyahu a remercié le pilote le mercredi 30 septembre 2026, selon Al Jazeera. Le vol transportait 174 personnes au total, dont 166 citoyens israéliens, d'après The Straits Times du jeudi 1 octobre 2026.\n\nLe Premier ministre indien Narendra Modi a qualifié le pilote de héros le jeudi 1 octobre 2026. Le porte-parole du ministère des Affaires étrangères indien, Randhir Jaiswal, a salué le courage du commandant de bord le même jour.\n\nCertaines sources mentionnent un nombre total de 174 passagers sauvés, tandis que d'autres précisent que ce nombre inclut 166 citoyens israéliens sur les 174 personnes présentes à bord, d'après The Straits Times et The Hindu du jeudi 1 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/extraordinary-bravery-israels-pm-hails-indian-pilot-of-rerouted-flydubai-flight-for-averting"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece"
+    },
+    {
+     "nom": "indiatimes.com",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/captain-smit-machchhar-is-true-hero-netanyahu-hails-pilot-after-flydubai-mid-air-attack/articleshow/134609455.cms"
+    },
+    {
+     "nom": "russiaherald.com",
+     "url": "https://russiaherald.com/news/279344650/nation-proudly-stands-with-him-india-hails-captain-smit-machchhar-after-flydubai-mid-air-attack"
+    },
+    {
+     "nom": "newyorktelegraph.com",
+     "url": "https://newyorktelegraph.com/news/279344306/india-is-proud-pm-modi-hails-captain-smit-machchhar-as-hero-for-averting-flydubai-mid-air-tragedy-prays-for-speedy-recovery"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1e6d2a9b-dc37-4b19-91e3-0a76fd01b673?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-09-30T19:47:36Z",
+   "suite_de": null,
+   "mots": 224,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-01-monde-001",
+  "2026-10-01-monde-002",
+  "2026-10-01-monde-003",
+  "2026-10-01-monde-004",
+  "2026-10-01-monde-005",
+  "2026-10-01-monde-006",
+  "2026-10-01-monde-007"
+ ]
+}

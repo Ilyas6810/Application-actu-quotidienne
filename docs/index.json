@@ -1,7 +1,18 @@
 {
- "maj": "2026-09-30T06:12:02Z",
- "derniere": "2026-09-30",
+ "maj": "2026-10-01T06:45:11Z",
+ "derniere": "2026-10-01",
  "editions": [
+  {
+   "date": "2026-10-01",
+   "genere_a": "2026-10-01T06:45:11Z",
+   "articles": 7,
+   "une": [
+    "L'exécution de Christa Pike échoue après deux injections dans le Tennessee",
+    "Un avion reliant Dubaï à Tel-Aviv dérouté après une attaque en vol",
+    "Un vol entre Dubai et Tel-Aviv dérouté après une agression dans le cockpit"
+   ],
+   "octets": 26655
+  },
   {
    "date": "2026-09-30",
    "genere_a": "2026-09-30T06:12:02Z",

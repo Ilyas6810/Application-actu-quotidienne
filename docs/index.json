@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-01T06:45:11Z",
- "derniere": "2026-10-01",
+ "maj": "2026-10-02T06:22:56Z",
+ "derniere": "2026-10-02",
  "editions": [
+  {
+   "date": "2026-10-02",
+   "genere_a": "2026-10-02T06:22:56Z",
+   "articles": 16,
+   "une": [
+    "Le Tennessee suspend ses exécutions après l'échec de l'injection de Christa Pike",
+    "Les glaciers suisses ont perdu un cinquième de leur volume en cinq ans",
+    "Andy Burnham envisage une réadhésion britannique à l Union européenne"
+   ],
+   "octets": 63362
+  },
   {
    "date": "2026-10-01",
    "genere_a": "2026-10-01T06:45:11Z",

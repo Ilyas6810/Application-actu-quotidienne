@@ -1,0 +1,794 @@
+{
+ "date": "2026-10-02",
+ "genere_a": "2026-10-02T06:22:56Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-02-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Tennessee suspend ses exécutions après l'échec de l'injection de Christa Pike",
+   "chapeau": "Le gouverneur du Tennessee a suspendu toutes les exécutions et ordonné une enquête indépendante le jeudi 1er octobre 2026. Cette mesure fait suite à la survie de la condamnée Christa Pike après une double injection létale subie le 30 septembre 2026 à Nashville.",
+   "corps": "Mercredi 30 septembre 2026, la détenue Christa Pike a survécu à l'administration de deux doses de pentobarbital au Tennessee. Selon ses avocats, la femme de 50 ans se trouve depuis dans un état critique en soins intensifs à l'hôpital. La condamnée luttait toujours pour respirer et ronflait encore quarante minutes après l'injection du produit létal.\n\nLe gouverneur républicain du Tennessee, Bill Lee, a qualifié la situation de profondément perturbante le jeudi 1er octobre 2026. L'administration d'État a suspendu l'application de la peine capitale sur son territoire et a demandé une enquête indépendante pour éclaircir le déroulement de la procédure.\n\nLa justice avait condamné Christa Pike en 1996 pour la torture et le meurtre de sa camarade de classe Colleen Slemmer, survenus en 1995. Cette procédure représentait la première tentative d'exécution d'une femme au Tennessee depuis environ deux cents ans.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/c-est-sans-precedent-aux-etats-unis-lexecution-ratee-de-christa-pike-seme-leffroi-20261001"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261001-ex%C3%A9cution-rat%C3%A9e-de-christa-pike-aux-%C3%A9tats-unis-un-fiasco-qui-ravive-de-nombreuses-questions"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/christa-pike-tennessee-verurteilte-nach-hinrichtung-offenbar-in-kritischem-zustand-a-884ad6f8-568f-4858-8906-ac110c38458a"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/etats-unis-une-femme-va-etre-executee-dans-le-tennessee-pour-la-premiere-fois-depuis-200-ans-20260930_7NBPGNXAMBCU7D2OMGQNKKQSPE"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/video-verticali/i-testimoni-dell-esecuzione-fallita-di-christa-pike-in-tennessee-mai-visto-nulla-di-simile/5d91322c-07cd-4906-80f5-900ad54a9xlk"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-inmate-christa-pike-in-critical-condition-after-botched-execution-says-lawyer"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckge4eql4q7eo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/02/etats-unis-apres-l-execution-ratee-de-christa-pike-des-suites-judiciaires-incertaines-et-un-impossible-debat-sur-la-peine-de-mort_6786790_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-09-29T19:04:51Z",
+   "suite_de": "2026-10-01-monde-001",
+   "mots": 182,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les glaciers suisses ont perdu un cinquième de leur volume en cinq ans",
+   "chapeau": "Les scientifiques du réseau de surveillance Glamos ont documenté la fonte des glaciers suisses le 1er octobre 2026. Leurs observations révèlent une réduction globale de près de vingt pour cent de la masse glaciaire alpine en cinq ans.",
+   "corps": "L'Académie suisse des sciences naturelles a publié le 1er octobre 2026 un rapport signalant une perte de plus de 5 % du volume des glaciers durant l'année. Les données du réseau suisse de surveillance Glamos, citées par La Croix le 1er octobre 2026 à 08:37, indiquent que quatre masses de glace alpines, dont les glaciers du Rhône et d'Aletsch, ont connu leur plus importante réduction mesurée à ce jour.\n\nLes informations transmises par Deutsche Welle le 1er octobre 2026 à 07:13 et par Folha de S.Paulo le 1er octobre 2026 à 18:23 établissent que l'année 2026 constitue la deuxième période de perte de glace la plus élevée jamais répertoriée dans le pays. D'après Der Spiegel le 1er octobre 2026 à 04:51 ainsi que franceinfo le 1er octobre 2026 à 10:12, les mois de juin à août 2026 ont constitué la séquence estivale la plus chaude observée en Suisse depuis l'ouverture des relevés météorologiques en 1864.\n\nLe recul des glaces transforme les zones de haute montagne en étendues minérales. Les scientifiques cités par The Guardian le 1er octobre 2026 à 08:00 décrivent des paysages désormais réduits à des rocailles comparables au sol de la Lune. La diminution du manteau neigeux durant l'hiver a précédé des vagues de chaleur successives au printemps et en été, comme l'a rapporté le quotidien NRC le 1er octobre 2026 à 12:47.\n\nCette réduction continue du volume des glaces affecte les réserves d'eau douce pour plusieurs fleuves européens. Selon NPR le 1er octobre 2026 à 03:00 et Al Jazeera le 2 octobre 2026 à 08:59, ce recul glaciaire compromet l'approvisionnement des populations locales, fragilise les écosystèmes et pèse sur les activités économiques alpines. Des experts mentionnés par Deutsche Welle le 1er octobre 2026 à 07:13 estiment qu'une disparition complète de la glace pourrait survenir d'ici dix à quinze ans dans certaines zones si le climat actuel persiste.\n\n## Ce que disent les sources\n\nSur l'ampleur exacte de la perte glaciaire enregistrée au cours de l'année 2026, l'Académie suisse des sciences naturelles et RFI, le 1er octobre 2026 à 06:55, font état d'une baisse de 5 % de la masse glaciaire. De son côté, The Guardian rapporte le 1er octobre 2026 à 08:00 une diminution chiffrée à 5,5 % sur les huit premiers mois de l'année 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/swiss-glaciers-lose-more-than-5-of-ice-after-record-heatwave"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6n9w0ypjwl9o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/schweizer-gletscher-forscher-sehen-2026-beispiellosen-eisschwund-a-60d1fcde-2864-46bf-bf9e-91d558075140"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/environnement/20261001-suisse-les-canicules-de-l-%C3%A9t%C3%A9-2026-ont-encore-aggrav%C3%A9-la-fonte-des-glaciers"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/la-fonte-des-glaciers-s-accelere-nouvelle-annee-catastrophique-en-suisse-20260930"
+    }
+   ],
+   "premiere_parution": "2026-09-30T23:00:00Z",
+   "suite_de": "2026-10-01-monde-005",
+   "mots": 427,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Andy Burnham envisage une réadhésion britannique à l Union européenne",
+   "chapeau": "Le Premier ministre Andy Burnham a déclaré que le Royaume-Uni étudie une réintégration au sein de l Union européenne. Le chef du gouvernement travailliste a présenté cette orientation à la fin du mois de septembre 2026 à l occasion du congrès de sa formation politique.",
+   "corps": "Le chef du gouvernement britannique examine une reprise formelle des liens avec les vingt-sept pays membres du bloc communautaire. Andy Burnham a indiqué que son équipe ministérielle étudie l ensemble des voies possibles pour redéfinir les rapports entre Londres et Bruxelles. Selon le dirigeant travailliste, le départ du Royaume-Uni a causé plus de préjudices économiques que de gains pour le pays depuis la consultation populaire de 2016.\n\nLe Premier ministre a tenu ces propos lors d une série d entretiens accordés dans le sillage de son discours devant les délégués travaillistes. Il a affirmé que son cabinet va peser le pour et le contre de chaque scénario afin de déterminer les choix réalisables. Cette démarche implique une réévaluation des limites que le Parti travailliste s était imposées après le Brexit. Andy Burnham a précisé qu il exposera ces différentes options lors d une rencontre au sommet programmée plus tard au cours de l année.\n\nCette position marque une rupture avec la ligne adoptée par les gouvernements britanniques successifs depuis dix ans. Selon RFI le 1er octobre 2026 à 10 h 56, le camp favorable à la sortie avait obtenu près de 52 pour cent des suffrages lors du vote de 2016. Le Premier ministre actuel devient le premier chef de l exécutif à exprimer publiquement la possibilité d une adhésion complète depuis ce scrutin.\n\nLes instances de l Union européenne manifestent une attitude prudente face aux déclarations venues de Londres. Les représentants européens attendent des mesures concrètes de la part des autorités britanniques plutôt que de simples prises de parole. Les modalités pratiques d une intégration potentielle ne sont pas encore définies et restent imprécises au niveau des instances de négociation.\n\nLe projet suscite également des interrogations sur le plan politique intérieur. Une démarche visant à annuler les effets du scrutin de 2016 représente un processus porteur de divisions au sein de la société britannique. Andy Burnham maintient néanmoins que les gains financiers d un rapprochement justifient l étude d une adhésion complète.\n\nLes sources ne précisent pas le calendrier exact du sommet ni les conditions formelles exigées par Bruxelles pour une éventuelle réintégration.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/andy-burnham-brexit-review-uk-eu-relationship-options"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/grossbritannien-andy-burnham-schliesst-rueckkehr-in-eu-nicht-aus-a-a506d778-4a5a-45c8-9f28-2ad4272ae68f"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d740f13d-38bc-4460-bcd5-2922472fc209?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/full-re-entry-into-eu-is-an-option-for-uk-says-pm-burnham/article71528942.ece"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/la-fabrique-du-monde/20261001-dix-ans-apr%C3%A8s-le-brexit-le-royaume-uni-pense-ouvertement-%C3%A0-un-retour-dans-l-union-europ%C3%A9enne"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261001-10-ans-du-brexit-un-retour-du-royaume-uni-dans-l-ue-envisag%C3%A9-par-burnham"
+    }
+   ],
+   "premiere_parution": "2026-09-29T16:19:49Z",
+   "suite_de": null,
+   "mots": 399,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les pays européens préparent leur riposte face aux exigences américaines sur le diesel",
+   "chapeau": "Les gouvernements européens et la Commission européenne ont engagé des consultations d'urgence jeudi 1er octobre 2026 à la suite d'avertissements formulés par les États-Unis au sujet des réserves de carburant. L'administration dirigée par Donald Trump exige la mise sur le marché des stocks stratégiques de diesel sous peine d'interdire ses exportations de carburant.",
+   "corps": "L'exécutif des États-Unis intensifie ses démarches auprès de ses partenaires du continent européen. Le président Donald Trump demande l'ouverture immédiate des stocks publics de carburant. Ces stocks stratégiques servent de réserves de sécurité face aux pénuries. Le pouvoir américain cible nommément les autorités de la France et de l'Allemagne.\n\nWashington accompagne cette demande d'un avertissement direct. Le gouvernement américain menace de stopper toutes ses ventes extérieures de diesel si les capitales européennes n'accèdent pas à sa requête. Une suspension des expéditions américaines priverait l'Europe d'un approvisionnement clé sur le marché pétrolier. Les États-Unis cherchent à freiner l'augmentation des prix intérieurs du carburant. Cette flambée des tarifs suscite le mécontentement de la population américaine. Le gouvernement américain tente de juguler cette hausse avant les scrutins électoraux programmés en novembre.\n\nLes capitales du continent européen organisent leur réponse. Les ministres britanniques ont échangé avec leurs homologues de la Commission européenne, d'Allemagne, de France, d'Italie et d'Irlande au cours de réunions de crise jeudi 1er octobre 2026. La France et quatre autres partenaires régionaux ont convenu d'une position commune ferme face aux demandes venues d'outre-Atlantique. Les représentants des États membres de l'Union européenne prévoient un nouveau rassemblement d'urgence ce vendredi 2 octobre 2026 afin de statuer sur le recours éventuel à leurs stocks de secours.\n\nLe contexte géopolitique explique ces fortes tensions sur l'approvisionnement en carburant. Les cours mondiaux du diesel connaissent une hausse rapide causée par le conflit armé impliquant l'Iran. Cette flambée tarifaire déstabilise les économies du continent européen, qui craignent une rupture brutale des flux en provenance du territoire américain.\n\n## Ce que disent les sources\n\nSelon The Guardian, la France, l'Allemagne, la Grande-Bretagne, l'Italie, l'Irlande et la Commission européenne ont directement participé aux pourparlers ministériels d'urgence du jeudi 1er octobre 2026. Politico Europe rapporte de son côté un accord entre la France et quatre autres pays européens pour opposer une réponse ferme à Washington, sans préciser l'ensemble de ces quatre nations dans ses résumés.\n\nSelon Bloomberg, The Guardian, le Financial Times et Deutsche Welle, le gouvernement américain a déjà formellement sommé l'Allemagne et la France de libérer leurs réserves de carburant sous peine de stopper ses exportations. À l'inverse, Al Jazeera rapporte le 2 octobre 2026 à 05:23 que Donald Trump a déclaré que les États-Unis pourraient envisager de demander à l'Europe cette libération de réserves, présentant la démarche comme une option envisagée plutôt qu'une requête déjà notifiée.\n\nLe niveau chiffré des stocks européens de diesel et le volume précis des exportations américaines menacées ne figurent pas dans les éléments fournis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/european-countries-agree-on-assertive-response-to-us-pressure-on-diesel"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-01/us-steps-up-pressure-on-eu-to-tap-emergency-diesel-stockpiles"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/eu-nations-to-hold-emergency-meeting-on-soaring-diesel-prices-amid-us-pressure"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c5zjzjgdeneeo"
+    }
+   ],
+   "premiere_parution": "2026-10-01T14:44:54Z",
+   "suite_de": null,
+   "mots": 475,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les lycéens français multiplient les blocages et les affrontements à travers le pays",
+   "chapeau": "Les élèves des lycées français manifestent et bloquent leurs établissements depuis la fin du mois de septembre 2026 pour dénoncer le manque de moyens scolaires. Le mouvement a provoqué de nombreuses dégradations, des fermetures de classes et des heurts avec les forces de l'ordre sur l'ensemble du territoire national.",
+   "corps": "Le mouvement de contestation touche l'ensemble de la France. Les lycéens ont lancé des rassemblements et des blocages durant la dernière semaine de septembre 2026. L'action s'est articulée le 29 septembre 2026 avec une grève générale de la fonction publique. Les élèves réclament une amélioration de leurs conditions d'apprentissage. Ils mettent en cause le manque d'enseignants dans les classes, la dégradation des bâtiments scolaires ainsi que les effectifs surchargés dans les salles de cours. Les élèves critiquent également les journées de cours trop longues.\n\nLa contestation a rapidement pris une tournure conflictuelle aux abords des établissements scolaires. Selon The Guardian, le 1er octobre 2026 à 21h52, les autorités comptaient environ 900 manifestations, blocages et perturbations répertoriés devant les lycées. Des dégradations matérielles ont éclaté dans plusieurs communes. Des incendies volontaires ont touché au moins deux écoles, d'après les informations rapportées par The Straits Times le 1er octobre 2026 à 15h53. Des projectiles et des feux de poubelles ont été signalés près des accès aux bâtiments. Une enseignante a été aspergée de carburant lors d'un incident décrit par The Straits Times à la même date.\n\nFace aux dégradations et aux heurts, le pouvoir exécutif a réagi au niveau ministériel. Le Premier ministre Sébastien Lecornu a convoqué une réunion de crise gouvernementale le jeudi 1er octobre 2026. Il a demandé aux membres du gouvernement d'annuler leurs déplacements prévus afin de gérer la situation. Le gouvernement a qualifié ces incidents de violences urbaines. Pour protéger le personnel éducatif et les élèves, les autorités ont décidé de basculer plusieurs établissements vers un enseignement à distance. D'après The Straits Times le 2 octobre 2026 à 09h23, environ 400 écoles restaient fermées en France en raison des événements.\n\nLe bilan humain et judiciaire s'alourdit au fil des jours. Le ministère de l'Intérieur français a fait savoir que les policiers et les gendarmes ont procédé à 1 949 interpellations sur l'ensemble du pays, d'après The Hindu le 2 octobre 2026 à 05h44. Le ministère a également recensé 305 agents blessés parmi les effectifs des forces de sécurité intérieure à cette même date. Les rassemblements ont aussi causé plusieurs dizaines de blessés parmi les manifestants au cours des journées précédentes, selon des données rapportées par la BBC et Deutsche Welle dès les 30 septembre et 1er octobre 2026.\n\nCette crise scolaire engendre des tensions sur le terrain politique. Le Premier ministre Sébastien Lecornu accuse une formation de gauche radicale d'alimenter les violences observées lors des blocages de lycées, rapporte le Financial Times le 2 octobre 2026 à 08h00. Marine Le Pen a formulé un reproche semblable à l'encontre de ce même parti politique en lui attribuant l'attisement de la contestation. Les représentants de la classe politique échangent des accusations mutuelles sur la gestion du service public de l'éducation et sur la réponse policière apportée aux défilés lycéens.\n\nLes informations disponibles n'indiquent pas la réponse du parti de gauche mis en cause ni les mesures budgétaires que le gouvernement compte adopter pour répondre aux demandes des lycéens.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/dozens-injured-in-french-student-protests-over-school-resources/article71527899.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c862epne7glyo"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/france-government-crisis-meeting-student-school-blockade"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-09-29T21:09:23Z",
+   "suite_de": null,
+   "mots": 547,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Arrestation d'un binational irano-britannique après un incident militaire au Royaume-Uni",
+   "chapeau": "La police antiterroriste britannique a appréhendé un citoyen possédant la double nationalité britannique et iranienne le jeudi 1er octobre 2026 à Westminster, dans le centre de Londres. Cette interpellation intervient dans le cadre de l'enquête ouverte après les événements survenus près de la base aérienne militaire de Fairford.",
+   "corps": "Les forces de l'ordre soupçonnent cet individu de préparer des actes terroristes. Cette arrestation porte à six le total de suspects appréhendés dans ce dossier. La police a également mené des perquisitions dans deux adresses situées dans le secteur de Westminster. Parallèlement, les enquêteurs ont procédé à l'interrogatoire sous avertissement légal d'un autre citoyen britannique.\n\nLes investigations portent sur des faits survenus le dimanche 27 septembre 2026 aux abords du site de la Royal Air Force à Fairford. Les forces armées des États-Unis exploitent ces installations militaires afin de mener des frappes aériennes vers l'Iran. Cinq premiers suspects avaient été arrêtés lors de cet événement initial, avant d'obtenir une libération sous caution.\n\nLe Premier ministre britannique Andy Burnham a affirmé que les services officiels possèdent de fortes indications quant à une implication directe des autorités de Téhéran dans cette affaire.\n\n## Ce que disent les sources\n\nLes médias présentent des éléments divergents sur l'âge exact du dernier suspect arrêté. Selon la notice de Wikipédia publiée le 1er octobre 2026 à 16h00, l'article de Politico paru le 1er octobre 2026 à 21h59 et le compte rendu de la BBC diffusé le 2 octobre 2026 à 04h20, l'homme est âgé de 25 ans. À l'inverse, le journal The Guardian indique dans son édition du 1er octobre 2026 à 21h02 que la personne interpellée est âgée de 27 ans.\n\nL'identité précise des suspects ainsi que les détails matériels de l'incident initial survenu près de la base aérienne ne sont pas communiqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_1?evenement=181b89b0f0"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-01/police-arrest-dual-british-iranian-national-over-airbase-plot"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/british-iranian-man-arrest-raf-fairford-investigation"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/police-arrest-uk-iranian-man-in-british-airbase-plot-probe"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/01/brits-iraanse-man-opgepakt-op-verdenking-van-het-voorbereiden-van-terreurdaden-na-incident-bij-luchtvaartbasis-fairford-a4938020"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uk-police-make-another-arrest-in-raf-fairford-case/a-79508050?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-01T12:00:00Z",
+   "suite_de": null,
+   "mots": 295,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le commandant indien Smit Machchhar a repoussé une agression en vol",
+   "chapeau": "Le commandant de bord indien Smit Machchhar a débloqué l'accès au cockpit après avoir reçu des coups de couteau lors du vol Flydubai FZ 1073. Cet événement s'est déroulé le mercredi 30 septembre 2026 au départ des Émirats arabes unis vers Tel-Aviv.",
+   "corps": "Le 30 septembre 2026, le pilote indien a déjoué l'attaque menée par son copilote pour sécuriser l'appareil.\n\nBlessé par arme blanche dans la cabine de pilotage, le commandant Smit Machchhar est parvenu à commander l'ouverture de la porte d'accès. Ce geste a permis aux membres de l'équipage, à des pilotes hors service et à des passagers d'entrer pour neutraliser l'assaillant. Parmi les voyageurs intervenus pour maîtriser le copilote figuraient notamment un plombier et un dentiste. L'avion, qui transportait 174 passagers, a ensuite atterri en toute sécurité après un déroutement vers l'Arabie saoudite.\n\nLe commandant Machchhar a été pris en charge dans un établissement hospitalier pour soigner ses blessures et son état demeure stable. Cet aviateur indien possède une formation initiale en ingénierie textile avant sa reconversion dans le secteur aérien. Il compte environ dix ans d'exercice dans l'aviation civile.\n\nEn Inde, les plus hautes autorités de l'État ont réagi aux actes du commandant de bord. La présidente Droupadi Murmu a souligné le courage du pilote et sa vivacité d'esprit face au danger. Le Premier ministre Narendra Modi a également loué la résistance de l'aviateur pour protéger l'appareil et les passagers.\n\n## Ce que disent les sources\n\nLe quotidien espagnol ABC rapporte le 1er octobre 2026 à 21h58 que le vol transportait 174 passagers, qu'il a quitté les Émirats arabes unis à 5h33 heure locale et que le pilote cumule plus de 9 000 heures de vol. Le journal français Libération indique le 1er octobre 2026 à 18h55 que le commandant détient près de 10 000 heures de vol.\n\nLes motivations du copilote agresseur n'ont pas été précisées par les autorités compétentes.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/south-asia/from-textile-engineering-to-cockpit-hero-indian-pilot-wins-praise-after-flydubai-drama"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1e6d2a9b-dc37-4b19-91e3-0a76fd01b673?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261001-heros-smit-machchhar-pilote-indien-vol-flydubai-attaque-modi-netanyahu"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/quem-e-o-piloto-esfaqueado-em-voo-para-israel-e-elogiado-por-ato-heroico.shtml"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/transports/attaque-a-bord-dun-vol-flydubai-qui-est-smit-machchhar-le-pilote-poignarde-par-son-collegue-erige-en-heros-20260930_2MDO63P3WVFJBKOHZXPVQPMKBE"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cje3r3z7g0zzo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece"
+    }
+   ],
+   "premiere_parution": "2026-09-30T19:47:36Z",
+   "suite_de": "2026-10-01-monde-007",
+   "mots": 312,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-008",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Benjamin Netanyahu évoque une radicalisation après l'agression à bord du vol Flydubai",
+   "chapeau": "Le Premier ministre israélien Benjamin Netanyahu a affirmé le 1er octobre 2026 que le copilote de la compagnie Flydubai avait subi une radicalisation islamiste avant d'attaquer le commandant de bord. L'appareil, qui effectuait la liaison entre Dubaï et Tel-Aviv le 30 septembre 2026, a dû se poser d'urgence en Arabie saoudite.",
+   "corps": "Un vol relié par la compagnie Flydubai entre Dubaï et Tel-Aviv a été dérouté le 30 septembre 2026 vers l'Arabie saoudite à la suite d'une agression physique survenue dans le cockpit.\n\nLors d'une intervention le 1er octobre 2026, le Premier ministre israélien Benjamin Netanyahu a déclaré que le copilote du vol FZ1073 avait l'intention manifeste de provoquer le crash de l'avion. Le chef du gouvernement israélien a affirmé que l'agresseur avait suivi un processus d'endoctrinement radical. Il a estimé qu'il restait prématuré d'affirmer si l'Iran était lié à cet acte ou d'attribuer formellement la responsabilité de l'événement. Benjamin Netanyahu a précisé n'avoir reçu aucune alerte préventive concernant cette opération. Il a indiqué que les travaux des prochains jours permettraient de déterminer si une connexion existe avec des acteurs extérieurs.\n\nL'auteur des violences se trouve actuellement sous le coup d'une procédure d'enquête menée par les autorités saoudiennes sur le territoire où l'avion a atterri. De leur côté, les Émirats arabes unis ont officialisé l'ouverture d'une enquête judiciaire sur le déroulement des faits. Benjamin Netanyahu a affirmé que l'État d'Israël comptait prendre part aux investigations sur cet évènement.\n\nUne séquence vidéo enregistrée dans la cabine par un passager identifié comme le dentiste Shota Musayev montre le copilote maintenu à genoux, les poignets attachés derrière le dos. Par ailleurs, l'ambassadeur d'Israël auprès des Nations unies, Danny Danon, a désigné l'incident comme une attaque terroriste menée par un individu radicalisé, sans désigner de responsables spécifiques.\n\n## Ce que disent les sources\n\nSelon deux responsables anonymes de la défense israélienne cités le 30 septembre 2026, les enquêteurs examinaient soit l'hypothèse d'une action terroriste, soit celle d'une tentative de suicide d'un des membres de l'équipage. Pour sa part, Benjamin Netanyahu a déclaré le 1er octobre 2026 que le copilote était guidé par des motivations suicidaires tout en cherchant délibérément à détruire l'appareil.\n\nIl manque des précisions sur la nationalité et l'identité exacte du copilote mis en cause.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/30/vliegtuig-van-dubai-naar-tel-aviv-maakt-noodlanding-mogelijk-sprake-van-geweld-tussen-bemanningsleden-israel-hield-rekening-met-kaping-a4937895"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261001-netanyahu-f%C3%A9licite-un-passager-pour-avoir-contribu%C3%A9-%C3%A0-emp%C3%AAcher-un-d%C3%A9sastre"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqgmrm7xd8wyo"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/emirados-abrem-investigacao-sobre-incidente-no-voo-da-flydubai-para-israel.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/netanyahu-says-flydubai-flight-attacker-underwent-radical-indoctrination/article71533277.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/israels-netanyahu-co-pilot-of-flydubai-plane-underwent-radical-islamist-indoctrination"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-security/2026-10-01/ty-article/netanyahu-pilot-in-flydubai-hijacking-attempt-was-influenced-by-radical-islam/000001a0-f7a3-da28-a3a7-ffa39faa0000"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote"
+    }
+   ],
+   "premiere_parution": "2026-09-30T11:40:00Z",
+   "suite_de": "2026-10-01-monde-003",
+   "mots": 371,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-009",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La famille de Renee Good poursuit le gouvernement américain après sa mort",
+   "chapeau": "La famille de la citoyenne américaine Renee Nicole Good a déposé des plaintes le jeudi 1er octobre 2026 contre le gouvernement des États-Unis. Cette action en justice fait suite au décès de cette femme de 37 ans, abattue par un agent fédéral de l'immigration à Minneapolis en janvier dernier.",
+   "corps": "Le frère et la compagne de la victime ont lancé deux procédures judiciaires distinctes devant les tribunaux. Ils poursuivent l'administration du président Donald Trump ainsi que plusieurs hauts fonctionnaires fédéraux. Les plaignants accusent les autorités de négligence, d'imprudence et de violation des droits civils. Les avocats de la famille affirment que les responsables gouvernementaux ont créé un environnement favorable à la violence étatique à Minneapolis. Selon les proches de la victime, le moment est venu d'exiger que les coupables rendent des comptes.\n\nLe drame s'est déroulé le 7 janvier dernier dans la plus grande ville de l'État du Minnesota, dans le nord du pays. Un agent de l'ICE, police fédérale de l'immigration, a fait usage de son arme à feu contre Renee Nicole Good. La victime se trouvait alors à bord de sa voiture de type SUV. Cette femme, qui exerçait la profession de poétesse, est décédée des suites de ses blessures. Elle figure parmi les deux citoyens américains qui ont perdu la vie sous les balles des agents de l'immigration en janvier à Minneapolis.\n\nLa mort de Renee Nicole Good est survenue dans un contexte de fortes tensions locales. Les agents de la police de l'immigration menaient depuis plusieurs semaines des opérations de recherche et d'arrestation dans la ville. Ces coups de filet policiers avaient provoqué de vives réactions et des mouvements de protestation de la part des habitants de Minneapolis. Le décès de la jeune femme a ensuite déclenché des vagues de manifestations de colère à travers l'ensemble du territoire des États-Unis.\n\nLa famille de la victime s'est exprimée publiquement pour la première fois depuis les faits lors de l'annonce de ces poursuites. Les plaintes visent directement les personnes qui ont conçu et mis en œuvre la politique de répression migratoire de l'administration Trump. Les avocats de la famille soutiennent que cette politique agressive a directement mené à la mort de la poétesse.\n\nL'identité de l'agent fédéral qui a tiré les coups de feu mortels n'est pas précisée dans les documents disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/renee-good-s-family-sues-trump-admin-over-fatal-ice-shooting/a-79504836?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/renee-good-hinterbliebene-klagen-gegen-die-us-regierung-a-05c09361-b9fb-4690-ae07-ea63357bedad"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/01/la-famille-de-renee-good-tuee-a-minneapolis-par-la-police-de-l-immigration-poursuit-l-administration-trump_6786564_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/la-famille-de-renee-nicole-good-abattue-par-lice-a-minneapolis-attaque-ladministration-trump-en-justice-20261001_STR47XZXVRBOHIE5OJMVULE2XU"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/migracion/2026-10-01/la-familia-de-renee-good-demanda-al-gobierno-de-ee-uu-y-a-varios-funcionarios-por-su-muerte-a-manos-de-un-agente-del-ice.html"
+    },
+    {
+     "nom": "impartialreporter.com",
+     "url": "https://impartialreporter.com/news/national/26600533.renee-goods-family-sues-us-government-officials-killing-minneapolis"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwly7y5gvxlmo"
+    }
+   ],
+   "premiere_parution": "2026-10-01T14:43:00Z",
+   "suite_de": null,
+   "mots": 383,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le MI5 accuse un institut chinois d'espionnage universitaire au Royaume-Uni",
+   "chapeau": "Le service de renseignement intérieur britannique MI5 a émis un avertissement public le 30 septembre 2026 à Londres. Il accuse un institut chinois d'exploiter des financements universitaires pour s'approprier des recherches technologiques britanniques sensibles.",
+   "corps": "Le MI5 a formellement désigné le China General Technology Research Institute comme une entité liée au ministère de la Sécurité d'État chinois. Selon les services britanniques, cette organisation sert de façade pour financer des travaux d'universitaires au Royaume-Uni. L'objectif consiste à transmettre les secrets de projets technologiques avancés aux services de renseignement de Pékin.\n\nL'alerte concerne principalement les programmes de recherche en intelligence artificielle, mais touche aussi d'autres secteurs de pointe. Le service de sécurité intérieure exhorte les universitaires et les chercheurs britanniques à mettre fin à toute collaboration avec cette entité. Il demande également aux établissements d'interrompre immédiatement la réception de subventions en provenance de cette structure.\n\nLes universités britanniques vérifient désormais leurs registres de partenariats et de subventions pour identifier d'éventuels liens directs ou indirects avec l'institut visé. Les établissements supérieurs doivent vérifier l'origine réelle de leurs financements afin de ne pas enfreindre la législation relative à la sécurité nationale.\n\nCette mise en garde intervient alors que les universités britanniques font face à des contraintes budgétaires qui les ont incitées pendant plusieurs années à accepter des fonds chinois. La décision du service de renseignement accentue la pression de conformité réglementaire pesant sur les centres de recherche travaillant dans des domaines sensibles.\n\nLa réaction officielle des autorités chinoises ou de l'institut mis en cause n'a pas été précisée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-30/mi5-accuses-chinese-institute-of-spying-on-uk-s-ai-research"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-accuses-china-of-using-academics-to-spy-on-ai-and-other-tech-research"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwy7zrljp527o"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_01/l-intelligence-britannica-accusa-la-cina-di-usare-accademici-per-spiare-ricerche-sull-ai-e-altre-tecnologie-6e1d4387-59b6-4177-a361-3a59e8ca6xlk.shtml"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/security/2026/10/01/mi5-warns-uk-academics-their-research-may-have-helped-chinese-spies/5300502"
+    }
+   ],
+   "premiere_parution": "2026-09-30T13:00:00Z",
+   "suite_de": null,
+   "mots": 253,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-011",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Une enquête est ouverte après la tentative de crash du vol Dubaï-Tel-Aviv",
+   "chapeau": "Le parquet des Émirats arabes unis a ouvert une enquête le jeudi 1er octobre 2026 après l'agression du commandant de bord d'un avion reliant Dubaï à Tel-Aviv par son copilote. Des passagers sont intervenus dans la cabine de pilotage pour neutraliser l'assaillant avant l'atterrissage d'urgence de l'appareil en Arabie saoudite le mercredi 30 septembre 2026.",
+   "corps": "Un avion de la compagnie émiratie Flydubai a effectué un atterrissage d'urgence à Tabuk le mercredi 30 septembre 2026 à la suite d'une attaque au couteau dans le cockpit. L'appareil transportait 180 personnes, dont 174 passagers et six membres d'équipage, selon le journal ABC le 1er octobre 2026 à 21 h 20.\n\nDurant l'agression contre le commandant de bord de nationalité indienne, Smit Machchhar, l'avion a perdu près de 5 000 mètres d'altitude en moins d'une minute, selon ABC le 1er octobre 2026 à 21 h 41. Plusieurs passagers israéliens, dont un plombier, un dentiste, un assureur et un banquier, se sont interposés pour maîtriser le copilote. Le plombier affirme avoir redressé l'appareil avant de passer les commandes à deux autres pilotes de la compagnie présents parmi les voyageurs. Le commandant de bord blessé est la seule victime recensée. Les voyageurs ont pu rejoindre Tel-Aviv.\n\nFace aux événements, le parquet des Émirats arabes unis a annoncé l'ouverture d'une procédure judiciaire et a demandé de ne pas relayer de renseignements non vérifiés. L'antenne de RFI signale le 1er octobre 2026 à 19 h 55 la diffusion sur les réseaux sociaux d'une fausse vidéo utilisant de manière frauduleuse le logo de la chaîne BBC et l'image d'une de ses journalistes.\n\n## Ce que disent les sources\n\nLe Premier ministre israélien Benyamin Nétanyahou déclare que le copilote a agi sous l'effet d'un endoctrinement islamiste radical dans le but de faire s'écraser l'avion. La justice des Émirats arabes unis indique quant à elle que les investigations doivent déterminer si l'agression comporte un motif terroriste.\n\nL'identité du copilote n'a pas été rendue publique par les enquêteurs.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/09/30/de-ene-piloot-stak-de-andere-neer-had-hij-een-terroristisch-motief-of-wilde-hij-de-passagiers-meeslepen-in-een-zelfgekozen-dood-a4937917"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/01/vol-de-flydubai-pour-tel-aviv-deroute-les-emirats-arabes-unis-annoncent-l-ouverture-d-une-enquete_6786474_3210.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/altercation-entre-pilotes-piste-terroriste-ce-que-l-on-sait-des-evenements-du-vol-flydubai-20261001"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/flydubai-nach-tel-aviv-augenzeuge-beschreibt-gewalttat-an-bord-und-beinahe-absturz-a-1ee7be2b-e24a-4309-8207-f82132e42b66"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-01/cautela-y-silencio-en-los-paises-del-golfo-tras-el-incidente-en-el-vuelo-de-flydubai-con-destino-a-israel.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/checknews/flydubai-comment-un-plombier-un-assureur-un-banquier-et-un-dentiste-ont-empeche-le-crash-du-vol-dubai-tel-aviv-20261001_REU2IS2D65F5ZBSQROSWEXCFFI"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/monde/20261001-vol-duba%C3%AF-tel-aviv-d%C3%A9rout%C3%A9-attention-%C3%A0-ce-deepfake-d%C3%A9tournant-le-logo-de-la-bbc"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cuatro-heroes-vuelo-muerte-tel-aviv-20261001094645-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-09-30T03:30:00Z",
+   "suite_de": "2026-10-01-monde-002",
+   "mots": 325,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La justice américaine refuse d'acquitter Lindsay Clancy après son procès nul",
+   "chapeau": "Un juge de l'État du Massachusetts a rejeté la demande d'acquittement déposée par les avocats de Lindsay Clancy. La décision a été rendue jeudi 1er octobre 2026 aux États-Unis, près d'un mois après un premier procès sans veredicto.",
+   "corps": "Lindsay Clancy, âgée de 36 ans, est accusée d'avoir étranglé ses trois enfants en 2023. Les victimes sont Cora, âgée de cinq ans, Dawson, âgé de trois ans, et Callan, âgé de huit mois. Le premier procès s'est terminé début septembre 2026 par une annulation, le jury n'ayant pas réussi à s'accorder sur un verdict.\n\nLors d'une audience tenue le mardi 29 septembre 2026, l'avocat de la défense, Kevin Reddington, a demandé l'abandon des poursuites et la prononciation d'un non-lieu. La défense a affirmé que le dossier reposait sur des spéculations et qu'aucune preuve suffisante ne démontrait que l'accusée avait tué ses enfants. Durant le procès initial, la ligne de défense s'était principalement concentrée sur la santé mentale de l'accusée, plaidant une psychose post-partum pour exempter sa responsabilité pénale.\n\nLa procureure Shanan Buckingham a qualifié cette demande de dérisoire lors de l'audience du 29 septembre 2026, affirmant que l'accusation avait apporté les preuves de la culpabilité. Le juge a tranché le 1er octobre 2026 en concluant que les procureurs avaient présenté des éléments suffisants pour qu'un jury puisse déterminer la responsabilité de l'accusée.\n\nUne séance reste programmée le 2 novembre 2026 par le magistrat afin de décider de la tenue d'un nouveau procès complet.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-09-29/el-juez-del-caso-de-lindsay-clancy-convoca-una-sesion-para-el-proximo-2-de-noviembre-para-decidir-si-se-repite-todo-el-juicio.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8046wd93l44o"
+    },
+    {
+     "nom": "whec.com",
+     "url": "https://whec.com/ap-top-news/lindsay-clancys-lawyer-now-questions-whether-there-is-proof-she-killed-her-3-children"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/abogado-lindsay-clancy-pide-archivar-pruebas-hizo-20260929214507-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/01/lindsay-clancy-not-guilty-motion-denied"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/us-judge-denies-request-to-find-lindsay-clancy-not-guilty-after-mistrial1"
+    }
+   ],
+   "premiere_parution": "2026-09-29T17:14:04Z",
+   "suite_de": null,
+   "mots": 242,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Mediapart publie des preuves d'écrits antisémites attribués à Jordan Bardella",
+   "chapeau": "Le journal en ligne Mediapart a diffusé des captures d'écran de messages antisémites qu'il attribue à Jordan Bardella, rédigés en 2013 sur Messenger. Le président du Rassemblement national conteste ces éléments et annonce une action en justice.",
+   "corps": "Le média d'investigation affirme avoir authentifié ces échanges en sollicitant l'entreprise Meta, propriétaire de la messagerie, ainsi qu'un commissaire de justice. Ces textes privés remonteraient à la période où le dirigeant politique était un jeune militant.\n\nJordan Bardella qualifie ces éléments de falsifications et annonce une plainte pour faux et usage de faux. Il soutient que la démonstration du journal ne repose sur aucun fondement valable. Le Rassemblement national maintient son soutien envers son président.\n\nDe leur côté, plusieurs opposants politiques demandent le départ de Jordan Bardella de ses fonctions à la suite de ces publications. Ces révelations font suite à de premières accusations d'antisémitisme publiées le 28 septembre 2026 par Mediapart, que le responsable politique avait déjà rejetées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261001-france-mediapart-publie-captures-ecran-messages-antisemites-attribues-a-jordan-bardella-rn"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/ecrits-antisemites-mediapart-revele-avoir-pu-authentifier-les-propos-attribues-a-jordan-bardella-20261001"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/01/jordan-bardella-denonce-des-montages-grossiers-apres-que-mediapart-a-publie-ses-elements-de-preuves_6786582_823448.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/face-aux-preuves-de-mediapart-bardella-accule-et-une-strategie-de-defense-qui-palit-20261001_FVSOGRHRN5CGLCEPVVHLE2PLWI"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/jordan-bardella/jordan-bardella-denonce-les-pseudo-preuves-de-mediapart-et-va-porter-plainte-pour-faux-et-usage-de-faux_8218723.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/messages-antisemites-jordan-bardella-denonce-les-pseudo-preuves-de-mediapart-et-va-deposer-plainte-pour-faux-et-usage-de-faux-20261001"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/antisemitismus-vorwuefe-gegen-jordan-bardella-bremst-dieser-skandal-marine-le-pen-aus-a-6adb17d4-f8fb-47bc-9310-a48c6cff49a7"
+    }
+   ],
+   "premiere_parution": "2026-09-29T16:25:02Z",
+   "suite_de": "2026-09-30-france-002",
+   "mots": 156,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-france-002",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Des blocages de lycées et d'universités entraînent de nombreuses interpellations en France",
+   "chapeau": "Des élèves et des étudiants bloquent des lycées et des universités partout en France depuis la fin du mois de septembre 2026. Le mouvement s'accompagne de fermetures d'établissements et d'interventions policières le vendredi 2 octobre 2026.",
+   "corps": "La mobilisation touche des établissements scolaires dans plusieurs grandes villes comme Marseille, Strasbourg, Nantes et en Île-de-France. Selon Le Monde le 1er octobre 2026, une trentaine de facultés ont rejoint la contestation engagée par les lycéens. Les élèves réclament la nomination de professeurs remplaçants. Ils demandent aussi des moyens financiers supplémentaires et la rénovation de locaux dégradés.\n\nLa situation s'est tendue au cours des rassemblements. Une source sécuritaire a dénombré environ 900 actions sur l'ensemble du territoire national le jeudi 1er octobre 2026, d'après La Croix et France 24. Des dégradations et des départs de feu se sont produits devant des établissements. Des membres des forces de l'ordre, des marins-pompiers et des manifestants ont subi des blessures légères lors de ces affrontements.\n\nFace à l'ampleur des blocages, le Premier ministre a réuni une cellule interministérielle de crise à Matignon le 1er octobre 2026. À la suite de cette rencontre, les préfets ont pris des arrêtes pour interdire toute manifestation aux abords des lycées fermés, notamment dans la capitale. Le gouvernement attribue une responsabilité politique au mouvement La France insoumise dans l'amplification des tensions. De son côté, la représentation syndicale Snes-FSU estime que la résolution du conflit nécessite une écoute et des engagements de la part des autorités publiques.\n\nPlusieurs lycées restent fermés à la fin de la semaine. Des cours à distance sont organisés dans certaines communes comme Marseille pour assurer la continuité de l'enseignement. Malgré la consigne d'interdiction et la hausse des contrôles, des groupes de lycéens et d'étudiants poursuivent les blocages le vendredi 2 octobre 2026.\n\n## Ce que disent les sources\n\nLes chiffres relatifs aux mesures administratives et judiciaires diffèrent selon les institutions. La chancellerie a fait état de 1 793 mesures de garde à vue décidées depuis le lundi 28 septembre 2026, selon une information rapportée par Libération le 2 octobre 2026. Le média franceinfo indique pour sa part le 1er octobre 2026 que les forces de l'ordre ont procédé à plus de 1 900 interpellations. De son côté, France 24 évoque le 2 octobre 2026 un total de près de 2 000 arrestations au cours de cette séquence de contestation.\n\nLe montant global des dégâts matériels causés dans les établissements scolaires n'a pas été communiqué.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/blocage-des-lycees-la-carte-des-etablissements-concernes-20260929"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/des-campus-universitaires-rejoignent-les-lycees-dans-la-contestation-sociale-20261001"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/blocus-des-lycees-la-sortie-de-crise-se-fera-par-l-ecoute-et-par-des-reponses-de-la-part-du-gouvernement-affirme-sophie-venetitay-du-snes-fsu_8218522.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261001-blocus-des-lyc%C3%A9es-environ-900-actions-recens%C3%A9es-jeudi-en-france"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/en-direct-blocus-des-lycees-le-mouvement-setend-les-eleves-esperent-jouer-ce-jeudi-lacte-deux-de-leur-contestation-20261001_6K4PB7THOJHMRKVFGWSNIUNNYU"
+    }
+   ],
+   "premiere_parution": "2026-09-29T17:54:27Z",
+   "suite_de": null,
+   "mots": 405,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La France et le Royaume-Uni mettent fin à leur accord migratoire",
+   "chapeau": "La France et le Royaume-Uni ont mis fin le jeudi premier octobre 2026 à leur accord d'échange de migrants. Ce dispositif visait à décourager les traversées de la Manche par des personnes sur de petites embarcations.",
+   "corps": "Les deux gouvernements n'ont pas trouvé de terrain d'entente pour prolonger ce partenariat. Selon une source du ministère français de l'Intérieur le 30 septembre 2026, Paris ne souhaitait pas renouveler ce projet pilote. Les négociations ont achoppé sur la volonté française d'obtenir un accord avec l'ensemble de l'Union européenne. La France refusait également d'accroître le nombre de personnes transférées entre les deux pays.\n\nLe programme a fonctionné pendant 423 jours selon des informations du Guardian du premier octobre 2026. Durant cette période, les autorités ont renvoyé environ 1 500 personnes vers le territoire français d'après des chiffres de la BBC du 30 septembre 2026. Le gouvernement britannique a abandonné le dispositif face à l'absence de compromis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/france-britain-in-talks-to-end-one-in-one-out-migrant-deal"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c64gvnv4eqylo"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-09-30/uk-ends-migrant-returns-deal-with-france-tackling-small-boats"
+    }
+   ],
+   "premiere_parution": "2026-09-30T11:38:04Z",
+   "suite_de": null,
+   "mots": 152,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-02-sport-001",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Cristiano Ronaldo quitte la sélection portugaise en pleine Ligue des nations",
+   "chapeau": "Le joueur portugais Cristiano Ronaldo a abandonné le rassemblement de son équipe nationale mercredi à Copenhague au Danemark. Cet événement survient après l'annonce de sa non-titularisation pour la rencontre de Ligue des nations.",
+   "corps": "Cristiano Ronaldo, âgé de 41 ans, n'a pas participé à l'entraînement du mardi précédant le match. Dimanche dernier, l'attaquant était resté sur le banc des remplaçants lors de la victoire du Portugal contre la Norvège. Il s'était échauffé pendant trente minutes sans entrer en jeu. Après avoir appris qu'il ne débuterait pas la rencontre suivante, le capitaine a quitté la concentration portugaise à bord de son jet privé.\n\nLe sélectionneur Jorge Jesus a maintenu son choix tactique concernant l'attaquant. Il s'est déplacé jusqu'à l'aéroport de Copenhague pour tenter de retenir le joueur. À la suite de cet épisode, l'entraîneur a refusé de s'exprimer sur ce départ.\n\nL'affaire a suscité des réactions institutionnelles et populaires. Le Premier ministre portugais, Luís Montenegro, s'est informé directement des motifs de ce départ. Une consultation auprès du public a rassemblé plus de 16 000 votes, indiquant une opposition majoritaire de la population à la décision du footballeur, selon le journal ABC le 2 octobre 2026.\n\nSur le terrain, la sélection portugaise a disputé son match de Ligue des nations jeudi soir à Copenhague. L'équipe du Portugal s'est imposée par quatre buts à deux face au Danemark. Les joueurs João Cancelo, Gonçalo Ramos, Vitinha et João Félix ont inscrit les quatre buts portugais.\n\n## Ce que disent les sources\n\nLes médias présentent des versions différentes concernant les relations entre les deux hommes. Le journal France 24 mentionne un différend confirmé entre Cristiano Ronaldo et le sélectionneur Jorge Jesus. À l'inverse, le média Deutsche Welle indique que l'entraîneur portugais nie toute rupture avec son joueur.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261001-le-clash-de-trop-ronaldo-claque-la-porte-de-la-sele%C3%A7ao-son-avenir-international-en-question"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/les-tribulations-de-cristiano-attrape-moi-si-tu-peux-ronaldo-la-selecao-et-la-retraite-qui-approche-20261001_CLULWN2NZBHJRNC47SC3G455II"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/01/cristiano-ronaldo-ou-la-fin-de-regne-explosive-d-une-icone-devenue-encombrante-pour-le-portugal_6786537_3242.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/01/cristiano-ronaldos-portugal-walkout-divides-a-nation-as-jorge-jesus-asserts-control"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/cristiano-ronaldo/apres-le-psychodrame-la-fin-de-l-aventure-pour-cristiano-ronaldo_8218474.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/cristiano-ronaldo-zerwuerfnis-mit-portugal-nach-jahren-des-sportlichen-verfalls-a-f8f03eb2-5258-4cc2-9208-882fad61d7a9"
+    }
+   ],
+   "premiere_parution": "2026-09-29T17:27:37Z",
+   "suite_de": null,
+   "mots": 290,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-02-monde-001",
+  "2026-10-02-monde-002",
+  "2026-10-02-monde-003",
+  "2026-10-02-monde-004",
+  "2026-10-02-monde-005",
+  "2026-10-02-monde-006",
+  "2026-10-02-monde-007",
+  "2026-10-02-sport-001"
+ ]
+}

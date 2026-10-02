@@ -1,6 +1,115 @@
 {
- "maj": "2026-10-02T09:54:31Z",
+ "maj": "2026-10-02T18:01:25Z",
  "alertes": [
+  {
+   "id": "2026-10-02-alerte-02",
+   "date": "2026-10-02",
+   "publiee_a": "2026-10-02T18:00:06Z",
+   "titre": "Espagne: le Parlement rejette les décrets du gouvernement sur le logement",
+   "texte": "Le Congrès des députés espagnol a rejeté le vendredi 2 octobre 2026 deux décrets du gouvernement sur le logement présentés par le Premier ministre Pedro Sánchez. Cette décision provoque des manifestations à Madrid et alimente des hypothèses de nouvelles élections selon les sources.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/congresso-derruba-decretos-de-habitacao-e-sanchez-estuda-antecipar-eleicoes-na-espanha.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/02/nederlaag-voor-spaanse-premier-sanchez-parlement-verwerpt-voorstellen-om-druk-op-de-woningmarkt-te-verlichten-a4938100"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/espagne-les-deputes-rejettent-le-deuxieme-texte-du-gouvernement-sur-le-logement-20261002_KT63DSQZOJHG5BX5CWMMDF2W7I"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261002-espagne-camouflet-pour-sanchez-les-d%C3%A9crets-sur-le-logement-rejet%C3%A9s-par-les-d%C3%A9put%C3%A9s"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/spagna-sanchez-sconfitto-in-parlamento-sul-piano-per-la-casa/e2555054-ed13-464f-8d2d-77def27b5xlk"
+    }
+   ],
+   "cluster": "0c369d7cd2807951",
+   "urls": [
+    "https://corriere.it/esteri/26_ottobre_02/spagna-sconfitto-governo-sanchez-elezioni-anticipate-467ad71b-ce6c-4e69-b53a-788329b3exlk.shtml",
+    "https://france24.com/fr/vid%C3%A9o/20261002-espagne-camouflet-pour-sanchez-les-d%C3%A9crets-sur-le-logement-rejet%C3%A9s-par-les-d%C3%A9put%C3%A9s",
+    "https://franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html",
+    "https://liberation.fr/international/europe/espagne-les-deputes-rejettent-le-deuxieme-texte-du-gouvernement-sur-le-logement-20261002_KT63DSQZOJHG5BX5CWMMDF2W7I",
+    "https://nrc.nl/nieuws/2026/10/02/nederlaag-voor-spaanse-premier-sanchez-parlement-verwerpt-voorstellen-om-druk-op-de-woningmarkt-te-verlichten-a4938100",
+    "https://spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2",
+    "https://video.corriere.it/esteri/crisi-abitativa-in-spagna-a-madrid-manifestanti-davanti-al-parlamento-il-video/ee88e395-501a-41d1-b48b-12608c15exlk",
+    "https://video.corriere.it/esteri/spagna-sanchez-sconfitto-in-parlamento-sul-piano-per-la-casa/e2555054-ed13-464f-8d2d-77def27b5xlk",
+    "https://www1.folha.uol.com.br/mundo/2026/10/congresso-derruba-decretos-de-habitacao-e-sanchez-estuda-antecipar-eleicoes-na-espanha.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/desgastado-premie-da-espanha-tenta-fazer-de-protestos-por-habitacao-uma-vitoria-no-congresso.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-02-alerte-03",
+   "date": "2026-10-02",
+   "publiee_a": "2026-10-02T18:01:25Z",
+   "titre": "Le G7 débloque cent millions de barils de pétrole et de diesel",
+   "texte": "Les dirigeants du G7 ont validé le déblocage de cent millions de barils issus de leurs réserves stratégiques vendredi 2 octobre 2026. Cette mesure multilatérale répond aux pressions de Washington pour freiner les prix des carburants.",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/paises-do-g7-chegam-a-acordo-para-liberar-100-milhoes-de-barris-de-petroleo-e-gas.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/economia/paises-liberaran-100-millones-barriles-diesel-crudo-20261002171732-nt.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/g-7-countries-agree-on-release-of-diesel-and-oil-stocks-after-us-pressure"
+    }
+   ],
+   "cluster": "58758b156a741b4d",
+   "urls": [
+    "https://abc.es/economia/paises-liberaran-100-millones-barriles-diesel-crudo-20261002171732-nt.html",
+    "https://aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile",
+    "https://bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
+    "https://bordertelegraph.com/news/national/26603405.g7-leaders-agree-release-up-100-million-barrels-petroleum-reserves",
+    "https://chardandilminsternews.co.uk/news/national/26603405.g7-leaders-agree-release-up-100-million-barrels-petroleum-reserves",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_2?evenement=052597e1d2",
+    "https://ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
+    "https://herefordtimes.com/news/national/26603405.g7-leaders-agree-release-up-100-million-barrels-petroleum-reserves",
+    "https://politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel",
+    "https://spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b",
+    "https://straitstimes.com/world/europe/g-7-countries-agree-on-release-of-diesel-and-oil-stocks-after-us-pressure",
+    "https://theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+    "https://theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
+    "https://thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece",
+    "https://www1.folha.uol.com.br/mercado/2026/10/paises-do-g7-chegam-a-acordo-para-liberar-100-milhoes-de-barris-de-petroleo-e-gas.shtml"
+   ]
+  },
   {
    "id": "2026-10-02-alerte-01",
    "date": "2026-10-02",

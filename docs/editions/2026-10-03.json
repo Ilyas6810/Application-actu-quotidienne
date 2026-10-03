@@ -1,0 +1,746 @@
+{
+ "date": "2026-10-03",
+ "genere_a": "2026-10-03T05:58:30Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-03-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Christa Pike reste hospitalisée sous assistance respiratoire après son exécution manquée",
+   "chapeau": "La condamnée à mort Christa Pike se trouve sous assistance respiratoire dans un centre hospitalier de Nashville depuis son exécution interrompue le 30 septembre 2026. Ses avocats ont transmis ces détails médicaux aux tribunaux le vendredi 2 octobre 2026.",
+   "corps": "Cette prise en charge médicale fait suite à la suspension de toutes les exécutions par le gouverneur du Tennessee le 1er octobre 2026, au lendemain de la tentative manquée.\n\nLes avocats de Christa Pike ont déposé un recours judiciaire d'urgence pour décrire la condition physique de leur cliente. Selon ces documents, la femme de 50 ans demeure privée de conscience dans un hôpital de Nashville, la capitale de l'État. Le personnel soignant l'a intubée et reliée à un respirateur artificiel pour maintenir ses fonctions vitales.\n\nL'équipe médicale s'efforce d'extraire de son corps le pentobarbital, un barbiturique anesthésiant à action rapide. Deux doses successives de ce produit ont été injectées à la détenue mercredi soir dans l'enceinte de la prison sans parvenir à provoquer l'arrêt de son cœur. Les praticiens tentent ainsi de contrer les effets toxiques de cette double injection pour préserver la vie de la patiente.\n\nLes représentants de Christa Pike rapportent également des atteintes physiques visibles consécutives à la procédure. Ils affirment qu'elle a été transportée au centre de soins avec des brûlures et des cloques sur les bras. Pendant l'opération au pénitencier, les deux seringues n'ont pas interrompu ses battements cardiaques et des témoins ont entendu la condamnée ronfler.\n\nLes juristes de la défense soutiennent que cette tentative a infligé des souffrances injustifiées à leur mandante. Ils estiment que la procédure a enfreint ses droits légaux fondamentaux. L'affaire relance également les discussions relatives à l'usage du pentobarbital au sein des protocoles de la peine capitale aux États-Unis.\n\nLe sort judiciaire de Christa Pike et l'issue de l'enquête indépendante ordonnée par l'exécutif de l'État ne sont pas encore connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The BMJ",
+     "url": "https://bmj.com/content/395/bmj-2026-101027.short"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/mulher-condenada-a-pena-de-morte-nos-eua-ficou-inconsciente-e-foi-intubada-apos-tentativa-de-execucao.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tennessee-execution-survivor-christa-pike-on-ventilator-attorneys-say"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/tennessee-execution-survivor-christa-pike-on-ventilator-attorneys-say/article71538490.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/02/christa-pike-la-condamnee-a-mort-se-trouve-sous-respirateur-apres-son-execution-ratee_6787220_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-02/christa-pike-inconsciente-y-conectada-a-un-respirador-tras-su-intento-de-ejecucion-fallido.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-condamnee-a-mort-christa-pike-est-inconsciente-et-a-ete-placee-sous-assistance-respiratoire-apres-son-execution-ratee-20261002"
+    }
+   ],
+   "premiere_parution": "2026-09-30T14:30:00Z",
+   "suite_de": "2026-10-02-monde-001",
+   "mots": 310,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le G7 débloque cent millions de barils de pétrole et de diesel",
+   "chapeau": "Les dirigeants des pays du Groupe des Sept ont convenu de prélever jusqu'à cent millions de barils de carburant sur leurs réserves stratégiques le 2 octobre 2026. Cette mesure multilatérale fait suite aux demandes du gouvernement des États-Unis de faire baisser les tarifs des carburants.",
+   "corps": "Les pays membres du Groupe des Sept ont conclu un accord lors d'une session de travail à distance. Cet arrangement prévoit la mise à disposition sur les marchés d'un volume atteignant cent millions de barils composés de pétrole brut et de gazole. L'opération débute sans délai et doit s'échelonner sur une durée totale de quatre mois.\n\nL'Agence internationale de l'énergie prend en charge la coordination technique de cette distribution. Cet organisme veille aux flux énergétiques mondiaux. L'initiative vise à contenir l'augmentation des prix de l'énergie qui pèse sur les budgets des ménages et sur l'activité économique générale.\n\nCe déstockage intervient après plusieurs jours d'insistance de la part du président américain Donald Trump. L'administration des États-Unis avait exercé une pression accrue sur ses partenaires européens pour qu'ils ouvrent leurs stocks de secours. Washington avait brandi l'éventualité d'une interdiction des exportations américaines de diesel pour appuyer ses requêtes.\n\nLe gouvernement français a indiqué que la conclusion de cet accord garantit le maintien des flux de carburant en provenance des États-Unis. Les autorités américaines renoncent ainsi à suspendre leurs ventes extérieures de diesel. À la suite de cette entente internationale, les cours du pétrole brut ont enregistré un repli sur les places financières.\n\nLes tarifs à la pompe atteignent des niveaux élevés sur le marché intérieur américain. Selon l'association automobile AAA, le tarif moyen national d'un gallon de diesel s'établissait à 6,37 dollars le vendredi 2 octobre 2026. Ce prix fait suite à un sommet relevé par la même source à 6,52 dollars le 22 septembre 2026.\n\nLa part exacte de carburant raffiné et de brut allouée par chaque nation participante n'est pas précisée par les déclarations du groupe.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/paises-do-g7-chegam-a-acordo-para-liberar-100-milhoes-de-barris-de-petroleo-e-gas.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/g-7-countries-agree-on-release-of-diesel-and-oil-stocks-after-us-pressure"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/economia/paises-liberaran-100-millones-barriles-diesel-crudo-20261002171732-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency"
+    }
+   ],
+   "premiere_parution": "2026-10-02T12:00:00Z",
+   "suite_de": null,
+   "mots": 323,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un copilote de Flydubai suspecté d'une attaque en vol",
+   "chapeau": "Un copilote de la compagnie Flydubai a agresse le commandant de bord lors d'un vol vers Tel-Aviv. L'homme avait fait l'objet d'une interdiction de voler en Oman pour des soupcons d'extremisme.",
+   "corps": "Le suspect identifie dans l'agression survenue a bord d'un avion de la compagnie Flydubai s'appelle Hamam Al-Hammami. L'homme est un citoyen omanais age de 29 ans. Il est ne aux Emirats arabes unis d'un pere omanais et d'une mere syrienne. Le suspect a vecu plusieurs annees aux Emirats arabes unis avant de travailler pour la compagnie Flydubai, qui siege dans ce meme pays.\n\nSelon plusieurs medias, le copilote a poignarde le commandant de bord de l'appareil. La victime est le capitaine de nationalite indienne Smit Machchhar. L'agression s'est produite alors que l'avion se dirigeait vers la ville de Tel-Aviv. L'auteur de l'attaque a tente de provoquer le crash de l'aeronef durant le trajet.\n\nDes medias americains et arabes rapportent que les autorites d'Oman avaient prealablement interdit au suspect d'exercer la profession de pilote. L'entreprise Oman Air avait licencie cet employe apres l'avoir classe comme un risque pour la securite. Les services omanais avaient releve des preoccupations concernant ses positions ideologiques extremes et sa radicalisation.\n\nLa chaine americaine CNN affirme que des images a caractere terroriste figuraient sur les comptes de reseaux sociaux du suspect. Les informations sur la procedure d'embauche du copilote par la compagnie emiratie restent incompletes. Les sources ne precisent pas dans quelle mesure les antecedents de l'individu ont ete verifies lors de son recrutement aux Emirats arabes unis.\n\nUn premier vol de rapatriement a transporte des citoyens israeliens jusqu'a Tel-Aviv tot dans la matinee du samedi 3 octobre 2026. Ces passagers etaient bloques aux Emirats arabes unis depuis le deroutement de l'avion. Cet incident perturbe le secteur du transport aerien regional et pose la question des regles de securite dans l'aviation civile en Asie occidentale, dans un contexte de conflit entre les Etats-Unis et l'Iran.\n\nLe gouvernement d'Oman n'a publie aucune communication officielle concernant ce pilote a la date du samedi 3 octobre 2026 a 04 heures 00, d'apres le media Moneycontrol.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-03/ty-article/.premium/report-flydubai-co-pilot-intended-to-crash-plane-in-israel/000001a0-feea-d518-afee-fefefc6c0000"
+    },
+    {
+     "nom": "islingtongazette.co.uk",
+     "url": "https://islingtongazette.co.uk/news/national/26604273.co-pilot-nearly-crashed-plane-barred-oman-extremism-concerns"
+    },
+    {
+     "nom": "rediff.com",
+     "url": "https://rediff.com/news/report/flydubai-stabber-identified-axed-barred-in-oman-over-extremist-views/20261003.htm"
+    },
+    {
+     "nom": "moneycontrol.com",
+     "url": "https://moneycontrol.com/world/flydubai-co-pilot-accused-of-trying-to-crash-flight-to-tel-aviv-was-banned-by-oman-over-radicalisation-concerns-report-article-14043608.html"
+    },
+    {
+     "nom": "dunyanews.tv",
+     "url": "https://dunyanews.tv/en/World/975884-terrorist-images-found-on-flydubai-suspects-social-media-claims-cnn"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/flydubai-co-pilot-who-nearly-crashed-plane-was-barred-from-flying-by-oman-over-extremism-concerns/article71539490.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/03/vol-flydubai-deroute-oman-avait-interdit-au-copilote-de-voler-en-raison-de-soupcons-d-extremisme-selon-le-wall-street-journal_6787491_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-02T10:49:19Z",
+   "suite_de": null,
+   "mots": 346,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Emmanuel Macron et Pedro Sánchez accueillent favorablement l'option britannique",
+   "chapeau": "Le président français Emmanuel Macron et le président du gouvernement espagnol Pedro Sánchez ont réagi positivement aux déclarations britanniques lors d'une conférence de presse à Madrid le 30 septembre 2026. Cette prise de position commune fait suite aux propos du Premier ministre britannique Andy Burnham sur une possible réadhésion de son pays à l'Union européenne.",
+   "corps": "Le Premier ministre Andy Burnham a récemment déclaré que le Royaume-Uni étudie une réintégration au sein de l'Union européenne.\n\nLors d'un déplacement en Espagne, Emmanuel Macron a affirmé qu'une démarche britannique vers l'Union européenne constituerait une nouvelle positive pour les Britanniques et pour les Européens. Le chef de l'État français s'exprimait en anglais puis en français aux côtés de Pedro Sánchez. Le dirigeant espagnol a également soutenu l'hypothèse d'une réintégration du Royaume-Uni dans l'organisation continentale.\n\nCette ouverture des dirigeants français et espagnol intervient après l'intervention du chef du gouvernement britannique fin septembre 2026. Andy Burnham a rouvert la discussion sur l'appartenance européenne dix ans après la consultation populaire de 2016. Selon RFI le 1er octobre 2026 à 10 h 56, les partisans du retrait avaient alors recueilli près de 52 % des voix. Le Premier ministre travailliste a justifié cette orientation par les retombées économiques et a affirmé que le départ du bloc causait davantage de tort que d'avantages à son pays.\n\nLes institutions de Bruxelles affichent une attitude plus mesurée que Paris et Madrid face aux déclarations de Londres. Les représentants européens attendent des démarches concrètes de la part du pouvoir exécutif britannique avant d'engager des discussions officielles. Les contours précis d'un éventuel retour de la diplomatie britannique au sein du marché unique ou des institutions communautaires ne sont pas encore définis.\n\nCertains observateurs politiques soulignent que le débat sur l'inversion du processus de sortie divise l'opinion publique britannique. Sébastien Maillard, conseiller spécial à l'Institut Jacques Delors, a indiqué sur France 24 qu'un retour complet reste une étape lointaine mais qu'un rapprochement intermédiaire demeure envisageable par rapport à la situation actuelle.\n\nLes modalités précises et le calendrier d'une éventuelle démarche formelle d'adhésion par le gouvernement britannique ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/macron-and-sanchez-say-uk-would-be-welcome-back-in-eu"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/full-re-entry-into-eu-is-an-option-for-uk-says-pm-burnham/article71528942.ece"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/16b9d519-faf6-4dbe-863a-5821e54021cc?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/la-fabrique-du-monde/20261001-dix-ans-apr%C3%A8s-le-brexit-le-royaume-uni-pense-ouvertement-%C3%A0-un-retour-dans-l-union-europ%C3%A9enne"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261001-10-ans-du-brexit-un-retour-du-royaume-uni-dans-l-ue-envisag%C3%A9-par-burnham"
+    }
+   ],
+   "premiere_parution": "2026-09-30T14:31:00Z",
+   "suite_de": "2026-10-02-monde-003",
+   "mots": 348,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Deux ressortissants iraniens inculpés pour un projet d'attaque terroriste à Manchester",
+   "chapeau": "La police britannique a inculpé deux hommes iraniens soupçonnés de préparer une attaque terroriste contre la communauté juive de Manchester. Les forces de l'ordre ont procédé à leurs interpellations à la veille de la célébration de Yom Kippour.",
+   "corps": "La police métropolitaine de Londres a annoncé la mise en examen de Salam Ahmadyan et de Rahman Salehi. Les autorités accusent ces deux individus de nationalité iranienne d'avoir préparé des actes à visée terroriste sur le territoire britannique. Le dossier concerne directement la communauté juive de l'agglomération de Manchester.\n\nLes services de police antiterroriste du Royaume-Uni indiquent que les deux individus ont traversé la Manche à bord de petites embarcations avant leur présence sur le sol britannique. Salam Ahmadyan réside à Liverpool. Rahman Salehi vit pour sa part à Salford. Tous deux doivent comparaître devant la justice britannique pour répondre de ces accusations formelles.\n\nSelon les éléments transmis par les forces de sécurité, les faits reprochés incluent la préparation d'actes terroristes ou l'aide apportée à des tiers pour commettre de telles actions. La police affirme également que les deux suspects ont utilisé des applications de messagerie chiffrée. Ces canaux numériques servaient à échanger avec des tiers dans le but d'acquérir les pièces indispensables à la fabrication d'une bombe artisanale. Les services d'enquête précisent que les deux hommes ont entretenu des contacts avec un intervenant basé à l'étranger. Cet interlocuteur extérieur pourrait se trouver en Iran, d'après les déclarations de la police britannique.\n\nLes policiers ont arrêté les deux suspects dans le quartier de Northern Quarter, au centre de Manchester. L'opération a eu lieu la veille de Yom Kippour, qui correspond au jour le plus saint du calendrier religieux juif. Les chefs d'accusation visent des actions planifiées en direction d'institutions ou de membres de la communauté juive locale durant cette période festive.\n\nCette procédure judiciaire survient alors que les relations diplomatiques et sécuritaires entre le Royaume-Uni et la République islamique d'Iran connaissent de vives tensions. Ces frictions résultent notamment d'un autre dossier lié à la sécurité nationale qui oppose les deux pays. Les événements s'inscrivent aussi dans un contexte local particulier, près d'un an après une attaque mortelle menée avec une arme à feu et un couteau contre une synagogue située dans le nord de Manchester.\n\n## Ce que disent les sources\n\nSelon le journal The Guardian, daté du 3 octobre 2026 à 02 h 52, Rahman Salehi est âgé de 35 ans et les arrestations ont eu lieu le 20 septembre. Selon le quotidien local Stratford Herald, daté du 3 octobre 2026 à 02 h 01, Rahman Salehi est âgé de 34 ans.\n\nL'identité précise de l'interlocuteur étranger soupçonné de guider les deux hommes depuis Téhéran n'est pas précisée par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/jewish/2026-10-02/ty-article/two-iranians-charged-with-plotting-to-target-manchesters-jewish-community/000001a0-fe1d-d350-a9ab-fe5d0d1f0000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/two-iranian-nationals-charged-over-alleged-terrorism-plot-targeting-jewish-community"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqx29nke55kno"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/05fd286f-6fac-4479-b560-848970f32af5?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "stratford-herald.com",
+     "url": "https://stratford-herald.com/national/two-men-to-appear-in-court-charged-with-suspected-terror-plot-172497"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-02/two-iranian-men-charged-over-plot-targeting-uk-jewish-community"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/03/royaume-uni-deux-iraniens-inculpes-pour-un-projet-d-acte-terroriste-contre-la-communaute-juive-a-manchester_6787225_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community"
+    }
+   ],
+   "premiere_parution": "2026-10-02T19:44:45Z",
+   "suite_de": null,
+   "mots": 449,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-006",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'épidémie d'Ebola dépasse le seuil de 4 000 morts en RDC",
+   "chapeau": "L'épidémie d'Ebola qui frappe la République démocratique du Congo a franchi la barre des 4 000 décès au début du mois d'octobre 2026. Cette dix-septième flambée enregistrée dans le pays progresse au milieu de violences armées et de destructions d'infrastructures sanitaires.",
+   "corps": "Selon les données gouvernementales rapportées le 2 octobre 2026 par The Straits Times et Libération, le bilan a dépassé les 4 000 décès. Libération indiquait le 2 octobre 2026 à 20h22 que 4 000 personnes avaient succombé sur 8 000 malades confirmés depuis la mi-mai. RFI précisait le 3 octobre 2026 à 7h53 un total supérieur à 8 300 cas confirmés pour plus de 4 000 décès. Cette vague dépasse l'épidémie survenue entre 2018 et 2020.\n\nL'Organisation mondiale de la santé a signalé une expansion géographique du virus vers de nouvelles zones de santé, ce qui pèse sur des moyens limités, d'après The Hindu le 2 octobre 2026 à 13h27. Des laboratoires mobiles fonctionnent dans l'est du pays afin de fournir des diagnostics en moins de 24 heures. Julien Harneis, coordinateur principal de l'ONU pour Ebola, a expliqué que l'ouverture de centres de transit et de soins se heurte à un manque de fonds et de personnel, selon The Hindu le 2 octobre 2026 à 16h49.\n\nL'insécurité freine les secours. En Ituri, plus de 5 000 personnes ont fui des combats armés, dont 3 000 résidents du site de déplacés de Rhoe, rapportait ONU Info le 1er octobre 2026 à 16h00. Les humanitaires ne peuvent plus entrer dans plusieurs zones de santé. Al Jazeera indiquait le 2 octobre 2026 à 16h56 que l'incendie d'un camp de transit touché par Ebola a provoqué le départ de 19 000 personnes. Un centre de traitement a aussi été brûlé.\n\nDans l'est de la République démocratique du Congo, le groupe rebelle AFC/M23 a déclaré le 2 octobre 2026 l'apparition de six nouveaux cas dans les territoires qu'il contrôle, après la sortie du seul malade actif connu jusque-là, selon The Straits Times le 2 octobre 2026 à 18h33.\n\nPour surmonter la méfiance locale, les principales confessions religieuses se sont réunies le 1er octobre 2026 à Kinshasa avec Caritas Congo. Elles préparent des actions pour freiner la transmission, combattre les rumeurs et freiner le rejet des malades. Le ministre français des Affaires étrangères, Jean-Noël Barrot, s'est rendu dans le pays afin d'apporter son appui aux autorités et aux intervenants humanitaires.\n\n## Ce que disent les sources\n\nLe ministre de la Santé congolais, Roger Kamba, a affirmé le 2 octobre 2026 lors d'une conférence de presse à Kinshasa que le pic de l'épidémie était dépassé, d'après RFI le 3 octobre 2026 à 7h53. De son côté, l'Organisation mondiale de la santé a averti que la maladie s'étendait rapidement dans de nouvelles zones sanitaires, a rapporté The Hindu le 2 octobre 2026 à 13h27.\n\nLes sources ne précisent pas les auteurs de l'incendie du centre de traitement et du camp de transit.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159585"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/afrique/20261002-rdc-face-%C3%A0-ebola-la-riposte-veut-s-appuyer-davantage-sur-les-communaut%C3%A9s-religieuses"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/congos-ebola-outbreak-records-more-than-4000-deaths/article71536483.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/congos-ebola-outbreak-has-killed-more-than-4000-government-data-shows"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261002-rd-congo-le-ministre-jean-no%C3%ABl-barrot-attendu-pour-soutenir-la-lutte-contre-ebola"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/afrique/rdc-lepidemie-debola-franchit-le-cap-des-4-000-morts-20261002_OZW22YIEWFE2ZHB6Q5B52SZHMU"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html"
+    }
+   ],
+   "premiere_parution": "2026-10-01T12:00:00Z",
+   "suite_de": null,
+   "mots": 485,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un suspect inculpe pour un projet terroriste contre Nigel Farage",
+   "chapeau": "Un homme de vingt-huit ans a ete inculpe vendredi pour preparation d'actes de terrorisme visant notamment le responsable politique Nigel Farage. Le suspect fait deja l'objet de poursuites pour le meurtre d'Ann Widdecombe.",
+   "corps": "Le service du procureur de la couronne au Royaume-Uni a annonce vendredi l'inculpation de Joshua Kerry. Cet homme de vingt-huit ans, originaire de Rotherham dans le Yorkshire du Sud, est accuse d'avoir prepare des actes terroristes entre mai 2024 et juillet de cette annee, selon la police et le Guardian le 2 octobre 2026.\n\nLe projet visait en particulier Nigel Farage, le chef du parti Reform UK, d'apres les elements communiques par Bloomberg le 2 octobre 2026. L'enquete a ete menee par la police chargee de la lutte contre le terrorisme, qualifiee d'intense par la BBC le 3 octobre 2026.\n\nLe suspect doit comparaitre devant un tribunal de magistrats a Londres le mercredi 7 octobre 2026, selon The Straits Times le 2 octobre 2026. Il est deja poursuivi pour le meurtre de l'ancienne elue Ann Widdecombe, rappellent les sources concordantes de la presse internationale.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "stratford-herald.com",
+     "url": "https://stratford-herald.com/national/widdecombe-murder-suspect-charged-with-preparing-terrorism-against-nigel-farage-172494"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/man-charged-with-preparing-terrorist-acts-against-reform-uks-nigel-farage"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage"
+    },
+    {
+     "nom": "bendigoadvertiser.com.au",
+     "url": "https://bendigoadvertiser.com.au/story/9361900/alleged-mp-killer-charged-over-farage-plot"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-02/widdecombe-suspect-charged-in-planning-terror-act-against-farage"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-02/el-presunto-asesino-de-la-diputada-britanica-widdecombe-planeaba-un-ataque-terrorista-conta-el-ultra-farage.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/royaume-uni/un-britannique-inculpe-pour-preparation-d-acte-de-terrorisme-contre-le-leader-d-extreme-droite-nigel-farage_8220346.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-02T17:24:59Z",
+   "suite_de": null,
+   "mots": 177,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pilote indien Smit Machchhar détaille l agression en vol",
+   "chapeau": "Le commandant de bord indien Smit Machchhar a raconté l agression commise par son copilote lors d un échange vidéo. Cet entretien avec le Premier ministre indien Narendra Modi s est déroulé le vendredi 2 octobre 2026 depuis un hôpital d Abou Dhabi.",
+   "corps": "Le commandant de bord indien Smit Machchhar a expliqué vendredi 2 octobre 2026 qu il a lutté pour sa survie après avoir reçu des coups de couteau de la part de son copilote omanais lors du vol Flydubai FZ 1073 du mercredi 30 septembre 2026 [2, 5, 8]. Lors d un appel vidéo retransmis en direct à la télévision, il a indiqué au Premier ministre indien Narendra Modi qu il a réussi à ouvrir la porte de la cabine de pilotage pour permettre aux passagers d intervenir [3, 5, 8]. L appareil a perdu près de 14 000 pieds en moins de trente secondes durant cet événement [1].\n\nLe pilote a déclaré qu il savait que l avion piquait du nez et qu il devait agir pour éviter la mort des passagers [5, 8]. Il se trouve actuellement en convalescence dans un établissement hospitalier d Abou Dhabi [5]. Les autorités des Émirats arabes unis et d Israël mènent une enquête qui progresse selon leurs déclarations du vendredi 2 octobre 2026 [10].\n\nL ensemble des sources consultees ne presente aucune divergence sur les faits rapportes.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/smit-machchhar-flydubai-pilot-who-is-he/article71531666.ece"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-security/2026-10-02/ty-article/indian-pilot-hailed-as-hero-after-mid-air-cockpit-stabbing-on-flydubai-flight/000001a0-f799-dbb2-a9f8-ffdb47d70000"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/c639m98gde00o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack"
+    }
+   ],
+   "premiere_parution": "2026-10-01T13:40:56Z",
+   "suite_de": "2026-10-02-monde-007",
+   "mots": 227,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les manifestations lycéennes s'intensifient en France et entraînent des fermetures d'établissements",
+   "chapeau": "Des milliers de lycéens ont perturbé le fonctionnement de centaines d'établissements scolaires en France le vendredi 2 octobre 2026. Ces rassemblements ont donné lieu à des affrontements avec les forces de l'ordre, provoquant des arrestations et des blessures.",
+   "corps": "Ce mouvement fait suite aux blocages d'établissements initiés à la fin du mois de septembre 2026 par des élèves dénonçant le manque de moyens éducatifs. Les lycéens réclament des investissements publics pour pallier la pénurie d'enseignants, la dégradation des bâtiments et les effectifs atteignant parfois quarante élèves par classe.\n\nSelon le média Deutsche Welle le 2 octobre 2026 à 21h46, environ 400 écoles ont fermé leurs portes. La chaîne BBC News indiquait le 3 octobre 2026 à 01h13 que 735 établissements subissaient des perturbations. Des incendies se sont déclarés dans plusieurs lieux scolaires et des barricades ont été montées devant les entrées.\n\nLes tensions ont provoqué des heurts directs entre les jeunes et la police. D'après Deutsche Welle le 2 octobre 2026 à 21h46, les forces de l'ordre ont procédé à environ 2 000 arrestations et ont dénombré des dizaines de blessés. La chaîne Al Jazeera rapportait le 2 octobre 2026 à 17h12 que les autorités comptabilisaient plusieurs centaines de personnes touchées.\n\nFace à la dégradation de la situation, le gouvernement français a organisé une réunion de crise. Le Premier ministre Sébastien Lecornu ainsi que la responsable politique Marine Le Pen ont accusé un parti de gauche radicale d'entretenir la contestation, selon le Financial Times le 2 octobre 2026 à 20h21. Le ministre de l'Éducation a déclaré que les élèves se trouvaient en danger. Les membres du gouvernement ont proposé la tenue d'une journée de dialogue. Les organisations lycéennes ont rejeté cette proposition et ont appelé à poursuivre les actions de grève.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/france-government-crisis-meeting-student-school-blockade"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/about-400-french-schools-closed-as-some-student-protests-turn-violent"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/france-student-protests-over-school-conditions-and-funding/article71536574.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c69wzjjxex8po"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-09-30T23:02:00Z",
+   "suite_de": "2026-10-02-monde-005",
+   "mots": 290,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une procureure spéciale désignée pour enquêter sur l'Université Cornell",
+   "chapeau": "La gouverneure de l'État de New York, Kathy Hochul, a nommé la procureure générale Letitia James pour reprendre l'enquête sur un viol collectif présumé survenu en 2024 à l'Université Cornell. Cette décision intervient après les critiques formulées contre les autorités locales et l'institution pour leur gestion de cette affaire.",
+   "corps": "Kathy Hochul a confié l'ensemble du dossier à Letitia James, magistrate ayant déjà poursuivi Donald Trump en justice pour fraude. La gouverneure a déclaré avoir perdu confiance dans la capacité du procureur de district local à superviser l'affaire de manière impartiale.\n\nLes faits portent sur l'agression sexuelle présumée d'une étudiante par sept membres d'une fraternité étudiante au sein de cette université en 2024. Le procureur local avait initialement choisi de ne pas engager de poursuites judiciaires.\n\nLa plaignante, identifiée sous le pseudonyme de Jane Doe, a déposé une plainte au civil en septembre. Cette action en justice a entraîné la réouverture de l'enquête par des procureurs fédéraux et a remis au premier plan les reproches adressés à l'université quant à l'absence de sanctions contre les suspects.\n\nKathy Hochul a affirmé que les personnes chargées de protéger la victime ont failli à leur mission. La gouverneure a également promis de combler une lacune juridique après la gestion policière et judiciaire de l'incident.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/01/letitia-james-cornell-gang-rape"
+    },
+    {
+     "nom": "z955.com",
+     "url": "https://z955.com/news/030030-ny-governor-says-cornell-rape-accuser-was-failed-by-people-obligated-to-protect-her"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/new-york-attorney-general-named-special-prosecutor-in-cornell-rape-probe"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cr1585y0y90go"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-02/la-fiscal-que-llevo-a-juicio-a-trump-investigara-la-violacion-grupal-en-la-universidad-de-cornell.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/gobernadora-nueva-york-nombra-fiscal-investigar-presunta-20261002112123-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/governadora-de-nova-york-troca-responsavel-por-investigacao-de-estupro-coletivo-em-universidade.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case"
+    }
+   ],
+   "premiere_parution": "2026-10-02T00:56:00Z",
+   "suite_de": null,
+   "mots": 210,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Londres soupçonne Téhéran après des mouvements suspects près d'une base militaire",
+   "chapeau": "Le Premier ministre britannique Andy Burnham a affirmé mercredi 30 septembre 2026 que l'Iran est lié aux événements survenus près de la base aérienne de Fairford. Cette déclaration intervient après la remise en liberté conditionnelle de cinq suspects et de nouvelles arrestations dans le cadre d'une enquête antiterroriste.",
+   "corps": "Après l'arrestation de cinq hommes dimanche dernier près du site militaire de Fairford, le chef du gouvernement britannique a déclaré disposer d'indices solides sur une implication iranienne.\n\nLes cinq personnes interpellées dans un premier temps ont obtenu une libération sous caution. Selon les autorités britanniques, ces mesures de contrôle judiciaire figurent parmi les plus strictes possibles. La police antiterroriste du Royaume-Uni a ensuite arrêté un citoyen ayant la double nationalité britannique et iranienne en lien avec cette affaire.\n\nL'enquête porte sur la présence de trois camionnettes blanches qui roulaient en direction du site militaire aux premières heures de dimanche. La base de la Royal Air Force à Fairford héberge notamment des militaires et des avions de l'armée de l'air américaine.\n\nLe Royaume-Uni collabore étroitement avec l'administration des États-Unis sur ce dossier. Des responsables américains et israéliens soutiennent également l'hypothèse d'une intervention iranienne, tout comme le secrétaire d'État américain qui a évoqué l'action d'une entité étrangère.\n\n## Ce que disent les sources\n\nLe Premier ministre britannique Andy Burnham a déclaré dans un entretien accordé à la BBC que des indices clairs relient l'Iran à ce projet présumé d'attaque qualifié de terroriste par les enquêteurs.\n\nLe gouvernement iranien a rejeté ces déclarations et nie toute participation aux événements survenus près du complexe militaire. Le ministre des Affaires étrangères d'Iran a affirmé que le chef du gouvernement britannique est sur une fausse piste.\n\nLes autorités britanniques, américaines et israéliennes n'ont pas encore rendu publics les éléments de preuve précis appuyant ces accusations.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-09-30/ty-article/u-k-links-iran-to-suspected-plot-outside-airbase-used-by-u-s-bombers/000001a0-f328-dfbb-afa4-f3786c3a0000"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/uk-iran-raf-fairford-incident"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/burnham-indicios-claros-sobre-implicacion-iran-incidente-20260930195630-nt.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20260930-projet-attaque-fairford-tout-porte-%C3%A0-croire-iran-a-jou%C3%A9-un-r%C3%B4le-affirme-burnham"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cjwyz59k5y75o"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/bb557b06-6880-4bae-a719-fbd733c63787?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/uk-pm-says-strong-indications-iran-involved-in-airbase-incident/article71530409.ece"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/politik/fairford-andy-burnham-sieht-moeglichen-iran-bezug-zu-vorfall-bei-militaerbasis-a-9dbe1df2-3fe5-491c-928a-bd0acc574ec0"
+    }
+   ],
+   "premiere_parution": "2026-09-30T15:41:32Z",
+   "suite_de": "2026-10-01-monde-004",
+   "mots": 296,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Brésil s'apprête à élire son président lors d'un scrutin serré",
+   "chapeau": "Les citoyens du Brésil se rendent aux urnes ce dimanche 4 octobre 2026 pour le premier tour de l'élection présidentielle. Ce scrutin oppose le président sortant Luiz Inácio Lula da Silva au sénateur de droite Flávio Bolsonaro.",
+   "corps": "Le premier tour de l'élection présidentielle brésilienne se déroule ce dimanche. Si aucun candidat n'obtient la majorité absolue des suffrages exprimés lors de ce premier tour, un second tour aura lieu le 25 octobre 2026.\n\nLa campagne électorale oppose deux figures politiques principales. D'un côté, le président actuel, Luiz Inácio Lula da Silva, cherche à obtenir un nouveau mandat à la tête du pays. De l'autre côté, le sénateur Flávio Bolsonaro représente l'opposition de droite.\n\nFlávio Bolsonaro est le fils de l'ancien président Jair Bolsonaro. La justice a condamné Jair Bolsonaro en septembre 2025 pour une tentative de coup d'État. Malgré cette condamnation, son fils a constitué une candidature soutenue par la droite. Cette situation intervient quatre ans après l'élection présidentielle qui avait opposé Luiz Inácio Lula da Silva à Jair Bolsonaro.\n\nLes instituts de sondage indiquent un écart faible entre les deux prétendants. Selon une étude réalisée par l'institut Datafolha et publiée le 1er octobre 2026, Luiz Inácio Lula da Silva devance Flávio Bolsonaro de trois points dans l'hypothèse d'un second tour. D'autres enquêtes diffusées à la même période décrivent une égalité entre les deux candidats.\n\nLes derniers jours avant l'élection ont donné lieu à des attaques directes. Les équipes des deux candidats ont échangé des accusations relatives à des scandales politiques avant la fin officielle de la campagne.\n\nCe vote détermine l'orientation politique future de l'État brésilien. Les électeurs doivent choisir entre le maintien de la gauche au pouvoir et le retour de la droite à la tête du gouvernement.\n\nLes programmes économiques complets des candidats et le taux d'abstention prévisionnel ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/brazil-vote-approaches-with-lula-and-bolsonaro-polling-in-close-race"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-01/lula-bolsonaro-neck-and-neck-days-before-brazil-vote-poll-shows"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy"
+    }
+   ],
+   "premiere_parution": "2026-10-01T09:08:12Z",
+   "suite_de": null,
+   "mots": 307,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Jordan Bardella conteste les accusations après la publication de messages antisémites",
+   "chapeau": "Le président du Rassemblement national fait face à de vives réactions politiques après la divulgation par Mediapart de messages antisémites datant de 2013. Jordan Bardella rejette ces éléments et prépare une riposte judiciaire contre le journal en ligne.",
+   "corps": "Après la diffusion par Mediapart de captures d'écran de conversations électroniques tenues en 2013, la classe politique française a réagi le 2 octobre 2026. Le média d'investigation affirme avoir authentifié ces échanges avec le concours de l'entreprise Meta et d'un officier ministériel.\n\nLes opposants politiques ont rapidement pris la parole. Gérald Darmanin a soutenu que le dirigeant du Rassemblement national tenait un discours mensonger. De son côté, Olivier Faure, premier secrétaire du Parti socialiste, a affirmé que Jordan Bardella ne disait pas la vérité et qu'il ne pouvait plus prétendre à la fonction de Premier ministre. En parallèle, plusieurs observateurs évoquent le nom d'Éric Ciotti pour une éventuelle succession.\n\nLe Rassemblement national maintient son soutien à son président et rejette en bloc les faits reprochés. Marine Le Pen a qualifié le site d'information d'organe d'extrême gauche. Les cadres du parti mettent en avant la thèse de l'usurpation d'identité et dénoncent des manœuvres politiques ainsi que des preuves non valables.\n\nJordan Bardella a annoncé son intention d'engager une procédure judiciaire pour faux et usage de faux afin de contester formellement l'authenticité de ces pièces numériques. Les suites de cette démarche judiciaire ainsi que la date de dépôt de la plainte ne sont pas précisées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-01/el-periodico-mediapart-publica-las-pruebas-de-los-mensajes-antisemitas-atribuidos-a-jordan-bardella.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e567ed25-d871-44ac-ad39-aee135eeb6d6?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/02/enquete-sur-jordan-bardella-gerald-darmanin-accuse-le-president-du-rn-de-mentir-ehontement_6787109_823448.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/personne-nest-vraiment-surpris-les-messages-antisemites-attribues-a-jordan-bardella-vus-par-la-presse-etrangere-20261002_UK2OS7W2HZELBMVKOVTHNZLVPA"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261002-messages-antis%C3%A9mites-attribu%C3%A9s-jordan-bardella-chemin-tortueux-matignon-mediapart-r%C3%A9v%C3%A9lations-rassemblement-national"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/jordan-bardella/barbouzerie-pseudo-preuves-usurpation-d-identite-les-lignes-de-defense-du-rn-face-aux-ecrits-antisemites-attribues-a-jordan-bardella_8219656.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/culture/affaire-bardella-retour-sur-la-methode-mediapart-20261002"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/accusations-d-antisemitisme-la-pression-monte-sur-jordan-bardella-le-rn-fait-toujours-bloc-20261002"
+    }
+   ],
+   "premiere_parution": "2026-09-30T14:24:24Z",
+   "suite_de": "2026-10-02-france-001",
+   "mots": 241,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Mobilisation lycéenne et maintien de l'ordre public en France",
+   "chapeau": "Le mouvement de protestation des lycéens provoque des tensions en France début octobre 2026. Le ministre de l'Intérieur mobilise des unités spécialisées pour faire face aux blocages.",
+   "corps": "Depuis trois jours, la contestation prend de l'ampleur devant les établissements scolaires avec le soutien des enseignants. Des adolescents et des membres des forces de l'ordre subissent des blessures lors des interventions.\n\nLe ministre de l'Intérieur, Laurent Nuñez, décide le jeudi 1er octobre 2026 de faire appel aux CRS (compagnies républicaines de sécurité, des policiers mobiles chargés de la sécurité) et aux gendarmes mobiles. Le gouvernement durcit ainsi sa réponse face aux manifestations.\n\nLa police des polices (l'inspection générale de la police nationale qui enquête sur les agents) lance trois investigations concernant des agissements non justifiés. Des syndicats de l'éducation nationale signalent des brutalités subies par les élèves.\n\nLe bilan s'établit à 170 jeunes blessés selon un décompte publié jeudi soir par franceinfo le 3 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/devant-les-lycees-eleves-et-profs-font-bloc-on-se-sent-soutenus-et-ca-rend-notre-combat-plus-credible-20261001_DTUCX6KBQVHWPGP5U6PQ7W3NKM"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/01/mobilisation-dans-les-lycees-face-a-l-aggravation-de-la-situation-le-ministre-de-l-interieur-laurent-nunez-fait-appel-aux-crs-et-aux-gendarmes-mobiles_6786588_3224.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/blocage-des-lycees-comment-la-police-assure-le-maintien-de-l-ordre-face-a-des-mineurs-20261001"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/ces-gamins-n-ont-pas-de-limites-face-a-des-manifestants-lyceens-souvent-mineurs-des-interventions-plus-delicates-pour-les-policiers_8219284.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261002-mobilisation-lyc%C3%A9enne-d%C3%A9bordements-maintien-ordre-en-question"
+    }
+   ],
+   "premiere_parution": "2026-10-01T18:55:00Z",
+   "suite_de": null,
+   "mots": 154,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-03-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Sébastien Lecornu présente le projet de budget de l'État pour 2027",
+   "chapeau": "Le Premier ministre Sébastien Lecornu a présenté le projet de budget pour l'année 2027 jeudi 1er octobre 2026 à Paris lors du Conseil des ministres. Ce texte prévoit un effort financier important et doit désormais être débattu au Parlement à partir du 13 octobre 2026.",
+   "corps": "Le gouvernement français annonce un effort de 54 milliards d'euros pour l'année prochaine, selon les informations publiées par Le Figaro le 30 septembre 2026. Sébastien Lecornu cherche à redresser les finances publiques de la France par des réductions de dépenses et de nouveaux impôts. Le Premier ministre ne dispose pas de la majorité absolue à l'Assemblée nationale et doit obtenir le soutien ou l'abstention des oppositions pour éviter le renversement de son gouvernement.\n\nLe Parti socialiste a réagi le vendredi 2 octobre 2026 en demandant des modifications immédiates du texte. Les cadres de ce parti réclament davantage de justice fiscale et menacent de voter une motion de censure si le projet reste en l'état.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/le-mois-d-octobre-est-casse-gueule-le-gouvernement-lecornu-presente-son-budget-et-entre-dans-le-dur-20260930"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/01/budget-2027-la-derniere-bataille-de-sebastien-lecornu-entre-surveillance-des-marches-et-pression-des-oppositions_6786433_823448.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/budget-2027-sebastien-lecornu-rejoue-la-methode-des-petits-pas-20260930"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/budget-2027-sebastien-lecornu-presente-le-projet-de-son-gouvernement-ce-jeudi-20261001_M2IBLKWBPVBVXLYVIH3SPFSYEY"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/budget/toutes-les-issues-restent-ouvertes-y-compris-la-voie-des-ordonnances-comment-sebastien-lecornu-veut-doter-la-france-d-un-budget-sans-etre-censure_8214587.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/podcast/playbook-paris-podcast/lecornu-a-quitte-ou-double"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_02/francia-budget-lecornu-premier-tagli-tasse-baratro-finanziario-17c8da67-4eb1-489b-82b8-8f244de7cxlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-09-30T17:50:00Z",
+   "suite_de": null,
+   "mots": 159,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-03-monde-001",
+  "2026-10-03-monde-002",
+  "2026-10-03-monde-003",
+  "2026-10-03-monde-004",
+  "2026-10-03-monde-005",
+  "2026-10-03-monde-006",
+  "2026-10-03-monde-007",
+  "2026-10-03-monde-008"
+ ]
+}

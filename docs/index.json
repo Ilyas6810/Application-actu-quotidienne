@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-02T06:22:56Z",
- "derniere": "2026-10-02",
+ "maj": "2026-10-03T05:58:30Z",
+ "derniere": "2026-10-03",
  "editions": [
+  {
+   "date": "2026-10-03",
+   "genere_a": "2026-10-03T05:58:30Z",
+   "articles": 15,
+   "une": [
+    "Christa Pike reste hospitalisée sous assistance respiratoire après son exécution manquée",
+    "Le G7 débloque cent millions de barils de pétrole et de diesel",
+    "Un copilote de Flydubai suspecté d'une attaque en vol"
+   ],
+   "octets": 55242
+  },
   {
    "date": "2026-10-02",
    "genere_a": "2026-10-02T06:22:56Z",

@@ -1,0 +1,344 @@
+{
+ "date": "2026-10-04",
+ "genere_a": "2026-10-04T06:34:53Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-04-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Attaque dans le cockpit d'un vol de Flydubai vers Tel-Aviv",
+   "chapeau": "Les autorités des Émirats arabes unis qualifient d'acte terroriste l'agression du commandant de bord par son copilote lors d'un vol vers Tel-Aviv le 3 octobre 2026. Le suspect, identifié comme le citoyen omani Hamam Al Hammami, a utilisé une hache de secours pour mener son attaque.",
+   "corps": "Un copilote de la compagnie aérienne Flydubai a agressé le commandant de bord aux commandes d'un vol reliant les Émirats arabes unis à Tel-Aviv plus tôt dans la semaine. Cet événement fait suite à un incident où le même copilote avait déjà été écarté de ses fonctions de vol en Oman en raison de soupçons d'extrémisme [1].\n\nLe procureur général des Émirats arabes unis a indiqué le samedi 3 octobre 2026 que le vol FZ1073 a fait l'objet d'une tentative d'acte terroriste menée par le copilote [8]. L'agresseur a utilisé une hache de secours présente dans le cockpit pour frapper le pilote et a tenté de prendre le contrôle de l'appareil [8].\n\nPlusieurs médias et enquêtes ont révélé que le suspect se nomme Hamam Al Hammami et est âgé de 29 ans [1]. Il avait préalablement fait l'objet d'une interdiction de vol de la part de son ancien employeur, Oman Air, en raison d'inquiétudes concernant ses opinions idéologiques radicales [1, 2].",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-03/ty-article/.premium/report-flydubai-co-pilot-intended-to-crash-plane-in-israel/000001a0-feea-d518-afee-fefefc6c0000"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/flydubai-co-pilot-who-nearly-crashed-plane-was-barred-from-flying-by-oman-over-extremism-concerns/article71539490.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack"
+    }
+   ],
+   "premiere_parution": "2026-10-02T10:49:19Z",
+   "suite_de": "2026-10-03-monde-003",
+   "mots": 207,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-04-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les Brésiliens votent ce dimanche pour élire leur nouveau président",
+   "chapeau": "Les citoyens du Brésil se rendent aux urnes ce dimanche 4 octobre 2026 pour le premier tour de l'élection présidentielle. Ce scrutin, qui désigne le vote pour élire un représentant, oppose le président de gauche sortant Luiz Inácio Lula da Silva au sénateur de droite Flávio Bolsonaro.",
+   "corps": "La veille, les observateurs annonçaient déjà un vote indécis entre les deux principaux candidats.\n\nLes derniers sondages montrent que les deux favoris se trouvent à égalité ou presque. Selon deux enquêtes d'opinion mentionnées par Bloomberg le 4 octobre 2026 à 2 h 35, l'écart entre les deux hommes s'est réduit. Al Jazeera confirme cette tendance le 4 octobre 2026 à 4 h 07 en indiquant que l'avance du président sortant a diminué. Aucun des candidats ne semble en mesure d'obtenir la majorité absolue lors de ce premier tour. France 24 précise le 4 octobre 2026 à 9 h 18 qu'aucun des deux rivaux n'approche la barre des 50 % d'intentions de vote.\n\nLa loi électorale brésilienne impose des règles précises pour remporter l'élection. Le journal The Hindu rappelle le 4 octobre 2026 à 5 h 12 qu'un candidat doit obtenir plus de la moitié des voix valides pour l'emporter directement. Les voix valides désignent les bulletins exprimant un choix clair, ce qui exclut les votes blancs et les votes nuls. Si aucun candidat ne franchit ce seuil ce dimanche, un second tour sera organisé. Ce deuxième vote entre deux candidats se tiendra le 25 octobre 2026 et opposera les deux candidats arrivés en tête.\n\nLe président sortant affronte un adversaire issu d'une famille influente. Flávio Bolsonaro est le fils de l'ancien président Jair Bolsonaro. Ce dernier a dirigé le pays de 2019 à 2023. Le journal El País indique le 4 octobre 2026 à 8 h 00 que l'ancien président se trouve actuellement en détention à domicile pour une tentative de coup d'État. Il a désigné son fils pour représenter son parti à cette élection.\n\nLa campagne électorale a été marquée par des thèmes moraux et religieux. Flávio Bolsonaro s'appuie sur le soutien des milieux évangéliques. Il mène une bataille culturelle contre la gauche. El País le décrit comme une copie sans charisme de son père. De son côté, le camp de Lula fait face à ces attaques dans un climat de tension.\n\nUn scandale bancaire de grande ampleur a également perturbé les débats. La Croix explique le 4 octobre 2026 à 9 h 01 que cette affaire a fait disparaître les programmes politiques des discussions. Les deux candidats doivent consacrer leur temps à se défendre face à des accusations financières. Cette situation suscite des doutes chez les électeurs. NPR rapporte le 4 octobre 2026 à 1 h 57 que certains citoyens refusent de choisir entre les deux favoris.\n\nL'élection brésilienne attire l'attention internationale, notamment aux États-Unis. Le président américain Donald Trump a déclaré suivre ce scrutin de très près depuis la Maison Blanche. ABC rapporte ses propos le 4 octobre 2026 à 3 h 08. Le président américain estime que ce scrutin est déterminant pour le continent. Selon lui, une victoire de Flávio Bolsonaro confirmerait un mouvement vers la droite déjà observé en Colombie, au Honduras, au Pérou et au Chili. En parallèle, Le Monde mentionne le 4 octobre 2026 à 7 h 30 des craintes d'ingérence américaine sur le processus électoral.\n\nLes résultats officiels du premier tour ne sont pas encore connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/flavio-bolsonaro-busca-domingo-reeditar-poder-padre-20261002010819-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/brazil-presidential-re-election-lula-bolsonaro-results/article71542826.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/04/au-bresil-une-campagne-presidentielle-morne-et-un-scrutin-tres-incertain-dans-l-ombre-de-l-ingerence-americaine_6787999_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-10-04/moral-panic-evangelical-fury-and-a-culture-war-the-bolsonaro-formula-threatens-lulas-re-election-bid.html"
+    }
+   ],
+   "premiere_parution": "2026-10-01T09:08:12Z",
+   "suite_de": "2026-10-03-monde-012",
+   "mots": 560,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-04-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des dizaines de milliers de manifestants défilent en Espagne pour le logement",
+   "chapeau": "Plusieurs dizaines de milliers de personnes ont manifesté samedi 3 octobre 2026 à Madrid et dans plusieurs villes espagnoles pour réclamer des mesures contre la crise du logement. Cette mobilisation fait suite au rejet par le parlement de décrets gouvernementaux sur le sujet.",
+   "corps": "Samedi 3 octobre 2026, des dizaines de milliers de manifestants sont descendus dans les rues de Madrid et d'une cinquantaine de villes en Espagne. Les participants protestent contre la cherté du logement et demandent des solutions politiques. Cette mobilisation intervient au lendemain du rejet par les députés de deux textes législatifs présentés par le gouvernement de Pedro Sánchez.\n\nLe journal Corriere della Sera rapporte des heurts et des arrestations à Valence le samedi 3 octobre 2026. Le président du gouvernement envisage la possibilité d'organiser des élections anticipées selon Politico Europe le 3 octobre 2026, tandis que ABC indique le même jour que l'exécutif réalise des sondages d'opinion pour analyser la situation.\n\n## Ce que disent les sources\n\nLes estimations du nombre de participants à Madrid divergent selon les sources. Deutsche Welle et le Corriere della Sera avancent le chiffre de 500 000 manifestants pour la journée du 3 octobre 2026, d'après les organisateurs. Le journal NRC mentionne pour sa part au moins 70 000 personnes dans la capitale.\n\nCertains détails concernant les revendications précises des manifestants manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/droit-au-logement-en-espagne-des-manifestations-monstres-dans-tout-le-pays-ce-samedi-20261003_5QVJOUZ5INBHVIEXNIZNU272OA"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261003-espagne-apr%C3%A8s-le-rejet-des-mesures-du-gouvernement-des-manifestations-monstres-pour-le-droit-au-logement"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/03/spain-housing-protest"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/espana/sanchez-encarga-encuestas-espana-lanza-calle-vivienda-20261003164215-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/spaniards-protest-housing-crisis-as-pedro-sanchez-weighs-snap-vote"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/03/a-madrid-les-images-impressionnantes-des-manifestations-contre-la-crise-du-logement_6787825_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-02T01:56:50Z",
+   "suite_de": null,
+   "mots": 223,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-04-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Demission du directeur des prisons du Tennessee apres une execution ratee",
+   "chapeau": "Le chef de l'administration penitentiaire du Tennessee a annonce son depart a la suite de l'echec de l'execution de Christa Pike. Cette detenue a survecu a deux injections lethales mercredi soir dans cet etat americain.",
+   "corps": "Le gouverneur du Tennessee, Bill Lee, a annonce samedi 3 octobre 2026 la demission du directeur de l'administration penitentiaire, Frank Strada. Cette decision intervient apres l'execution ratee de Christa Pike, une detenue agee de 50 ans.\n\nChrista Pike a recu deux injections lethales mercredi sans que cela n'entraine sa mort, selon les informations publiees samedi 3 octobre 2026 par France 24. Elle se trouve actuellement hospitalisee dans un etat critique d'apres la meme source.\n\nUn enquete independante a ete lancee pour determiner les causes de cet echec, d'apres l'annonce faite samedi 3 octobre 2026 par The Guardian. Frank Strada quittera ses fonctions plus tard dans le mois de octobre 2026, selon le gouverneur.\n\n## Ce que disent les sources\n\nFrank Strada a affirme que son equipe avait respecte le protocole en vigueur, d'apres Deutsche Welle samedi 3 octobre 2026. Les avocats de la detenue estiment pour leur part que les defaillances depassent la responsabilite d'une seule personne, selon BBC News samedi 3 octobre 2026.\n\nCertaines sources mentionnent un etat d'inconscience pour la detenue tandis que d'autres signalent un etat critique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "fox13news.com",
+     "url": "https://fox13news.com/news/christa-pike-latest-tennessee-prisons-chief-resigns-after-failed-execution"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/le-directeur-de-l-administration-penitentiaire-du-tennessee-demissionne-apres-l-echec-de-l-execution-de-la-condamnee-a-mort-christa-pike-annonce-le-gouverneur-d-etat_8221396.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/chefe-do-sistema-prisional-do-tennessee-renuncia-apos-tentativa-falha-de-execucao.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261003-%C3%A9tats-unis-tennessee-ex%C3%A9cution-rat%C3%A9e-christa-pike-d%C3%A9mission-chef-administration-p%C3%A9nitentiaire"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_03/pena-di-morte-christa-pike-come-sta-dimissioni-direttore-carceri-tennessee-c29564cf-b7c9-45c2-8d3c-7c4600202xlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tennessee-prison-chief-resigns-after-failed-execution"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution"
+    }
+   ],
+   "premiere_parution": "2026-10-03T00:00:00Z",
+   "suite_de": null,
+   "mots": 214,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-04-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Ebola en RDC : la riposte sanitaire perturbée par les attaques et les déplacements",
+   "chapeau": "Les autorités de République démocratique du Congo et les organisations internationales font face à de nouvelles contraintes dans la lutte contre le virus Ebola en octobre 2026. L'insécurité dans l'est du pays provoque des fuites de populations et ralentit le travail des équipes médicales.",
+   "corps": "L'épidémie d'Ebola a dépassé le seuil des 4 000 morts au début du mois d'octobre 2026. L'Organisation mondiale de la santé a signalé une propagation géographique rapide du virus vers de nouvelles zones de santé le 2 octobre 2026, ce qui sollicite fortement des ressources déjà limitées.\n\nEn Ituri, la résurgence des combats a contraint plus de 5 000 personnes à fuir, d'après l'ONU Info le 1er octobre 2026. Ce groupe comprend plus de 3 000 individus qui ont quitté le site de personnes déplacées de Rhoe. Ces violences font obstacle aux déplacements des agents de santé dans plusieurs secteurs médicaux.\n\nL'incendie d'un centre de transit pour malades d'Ebola a entraîné le départ de 19 000 personnes, a rapporté Al Jazeera le 2 octobre 2026. Julien Harneis, coordonnateur principal de l'ONU pour la lutte contre Ebola, a indiqué le 2 octobre 2026 que la création de centres de traitement et de transit reste difficile en raison du manque de financements et de personnel.\n\nDans les territoires contrôlés par les rebelles de l'AFC/M23, le groupe armé a déclaré la détection de six nouveaux cas d'Ebola le 2 octobre 2026. Cette annonce survient peu après la sortie d'hôpital du seul patient actif recensé auparavant dans cette zone.\n\nPour accélérer le dépistage, les autorités ont installé des laboratoires mobiles dans l'est de la République démocratique du Congo, permettant la délivrance des analyses en moins de 24 heures, selon France 24 le 2 octobre 2026. Le ministre français des Affaires étrangères, Jean-Noël Barrot, s'est rendu sur place afin de témoigner de l'appui de la France aux intervenants locaux et aux travailleurs humanitaires.\n\nLe ministre de la Santé de République démocratique du Congo, Roger Kamba, a affirmé le 3 octobre 2026 lors d'une conférence de presse à Kinshasa que le sommet de la vague épidémique était désormais dépassé. Les données du gouvernement faisaient état à cette période de plus de 8 300 cas confirmés depuis le début de la flambée épidémique en mai 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159585"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/congos-ebola-outbreak-records-more-than-4000-deaths/article71536483.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/congos-ebola-outbreak-has-killed-more-than-4000-government-data-shows"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261002-rd-congo-le-ministre-jean-no%C3%ABl-barrot-attendu-pour-soutenir-la-lutte-contre-ebola"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/afrique/rdc-lepidemie-debola-franchit-le-cap-des-4-000-morts-20261002_OZW22YIEWFE2ZHB6Q5B52SZHMU"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/afrique/article/2026/10/03/ebola-en-rdc-la-pire-epidemie-de-l-histoire-du-pays-franchit-la-barre-des-4-000-morts_6787324_3212.html"
+    }
+   ],
+   "premiere_parution": "2026-10-01T12:00:00Z",
+   "suite_de": "2026-10-03-monde-006",
+   "mots": 374,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-04-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Débris d'un avion médicalisé retrouvés au large des États-Unis",
+   "chapeau": "Les garde-côtes américains recherchent six personnes après la disparition d'un avion médicalisé au large de Nantucket, dans le Massachusetts, le samedi 3 octobre 2026. L'appareil effectuait un vol entre les Bermudes et Boston avant de perdre le contact avec les autorités aéronautiques.",
+   "corps": "Des équipes de secours ont repéré une zone de débris au large des côtes du Massachusetts, selon les garde-côtes américains le dimanche 4 octobre 2026. L'avion transportait quatre ressortissants canadiens et deux ressortissants bermudiens, d'après les informations communiquées le dimanche 4 octobre 2026 par The Straits Times [9].\n\nLes données de vol indiquent que l'appareil a chuté de plus de 9 000 pieds en deux minutes, puis s'est stabilisé avant de disparaître, selon NPR le dimanche 4 octobre 2026 [2]. Les enregistrements audio des contrôleurs aériens suggèrent que l'avion rencontrait des problèmes électriques lors de sa progression, d'après The Hindu le dimanche 4 octobre 2026 [8].\n\nLes recherches se poursuivent pour retrouver les occupants de l'appareil.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/medical-plane-carrying-six-people-missing-off-us-east-coast"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston"
+    },
+    {
+     "nom": "nvdaily.com",
+     "url": "https://nvdaily.com/associated_press_national/crews-find-debris-field-from-6-person-medical-flight-missing-over-the-atlantic-en-route/article_32f7fe9b-479d-5086-84db-fac2b1088d0a.html"
+    },
+    {
+     "nom": "mynbc5.com",
+     "url": "https://mynbc5.com/article/medical-plane-debris-search-missing-passengers/74009187"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cme3x85013llo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/bermuda-to-boston-air-ambulance-that-vanished-debris-field-found-off-nantucket/article71542952.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-03T16:39:03Z",
+   "suite_de": null,
+   "mots": 158,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-04-monde-001",
+  "2026-10-04-monde-002",
+  "2026-10-04-monde-003",
+  "2026-10-04-monde-004",
+  "2026-10-04-monde-005",
+  "2026-10-04-monde-006"
+ ]
+}

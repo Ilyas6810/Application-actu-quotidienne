@@ -1,6 +1,70 @@
 {
- "maj": "2026-10-04T05:59:25Z",
+ "maj": "2026-10-04T12:25:29Z",
  "alertes": [
+  {
+   "id": "2026-10-04-alerte-03",
+   "date": "2026-10-04",
+   "publiee_a": "2026-10-04T12:25:29Z",
+   "titre": "Max Verstappen remporte le Grand Prix de Bahreïn délocalisé en Malaisie",
+   "texte": "Max Verstappen a gagné sa première course de l'année dimanche 4 octobre sur le circuit de Sepang en Malaisie. L'épreuve officielle de Bahreïn a eu lieu sur ce tracé en raison des tensions au Moyen-Orient.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/formula-1/verstappen-brilla-caos-sepang-alonso-logra-mejor-20261004122330-nt.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Formule-1/Actualites/Max-verstappen-vainqueur-du-gp-de-bahrein-on-gagne-des-notre-premiere-annee-avec-notre-nouveau-moteur-c-est-tres-impressionnant/1723305"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/10/verstappen-se-destaca-em-prova-confusa-e-obtem-sua-primeira-vitoria-no-ano.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/04/une-eclaircie-pour-max-verstappen-et-du-brouillard-pour-esteban-ocon-au-grand-prix-de-formule-1-de-bahrein-delocalise-en-malaisie_6788258_3242.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/live/2026/oct/04/bahrain-grand-prix-formula-one-2026-live"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/formule-1/formule-1-intouchable-en-malaisie-verstappen-s-offre-une-premiere-victoire-cette-saison-20261004"
+    }
+   ],
+   "cluster": "10675a345a1985c4",
+   "urls": [
+    "https://abc.es/deportes/formula-1/verstappen-brilla-caos-sepang-alonso-logra-mejor-20261004122330-nt.html",
+    "https://aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia",
+    "https://aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang",
+    "https://bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo",
+    "https://bbc.co.uk/sport/formula1/articles/cm1j3l9867jwo",
+    "https://franceinfo.fr/sports/auto-moto/formule-1/f1-max-verstappen-s-impose-en-maitrise-au-grand-prix-de-bahrein-en-malaisie-au-terme-d-un-depart-rocambolesque_8222029.html",
+    "https://franceinfo.fr/sports/auto-moto/formule-1/max-verstappen-partira-en-pole-position-lors-du-gp-de-bahrein-en-malaisie-isack-hadjar-penalise-pour-l-ajout-de-pieces-moteur_8221030.html",
+    "https://lefigaro.fr/sports/formule-1/en-direct-formule-1-verstappen-vise-une-premiere-victoire-en-malaisie-20261004",
+    "https://lefigaro.fr/sports/formule-1/formule-1-intouchable-en-malaisie-verstappen-s-offre-une-premiere-victoire-cette-saison-20261004",
+    "https://lefigaro.fr/sports/formule-1/formule-1-verstappen-signe-sa-premiere-pole-position-de-l-annee-hadjar-troisieme-mais-retrograde-20261003",
+    "https://lemonde.fr/sport/article/2026/10/04/une-eclaircie-pour-max-verstappen-et-du-brouillard-pour-esteban-ocon-au-grand-prix-de-formule-1-de-bahrein-delocalise-en-malaisie_6788258_3242.html",
+    "https://lequipe.fr/Formule-1/Actualites/Max-verstappen-remporte-sa-premiere-victoire-de-la-saison-au-grand-prix-de-bahrein-a-sepang-devant-kimi-antonelli-et-lewis-hamilton/1723302",
+    "https://lequipe.fr/Formule-1/Actualites/Max-verstappen-signe-la-pole-position-du-gp-de-bahrein-en-malaisie-devant-lewis-hamilton-isack-hadjar-3e-avant-sa-penalite/1723060",
+    "https://lequipe.fr/Formule-1/Actualites/Max-verstappen-vainqueur-du-gp-de-bahrein-on-gagne-des-notre-premiere-annee-avec-notre-nouveau-moteur-c-est-tres-impressionnant/1723305",
+    "https://lequipe.fr/Formule-1/Article/Pole-de-verstappen-retour-en-force-d-hadjar-complicite-du-duo-ca-roucoule-chez-red-bull-avant-le-grand-prix-de-bahrein/1723108",
+    "https://theguardian.com/sport/2026/oct/03/max-verstappen-first-pole-position-this-year-bahrain-grand-prix-formula-one",
+    "https://theguardian.com/sport/2026/oct/04/max-verstappen-wins-chaotic-f1-bahrain-gp-in-malaysia-after-rain-causes-farcical-scenes",
+    "https://theguardian.com/sport/live/2026/oct/03/formula-one-2026-bahrain-grand-prix-in-malaysia-qualifying-live",
+    "https://theguardian.com/sport/live/2026/oct/04/bahrain-grand-prix-formula-one-2026-live",
+    "https://www1.folha.uol.com.br/esporte/2026/10/verstappen-se-destaca-em-prova-confusa-e-obtem-sua-primeira-vitoria-no-ano.shtml"
+   ]
+  },
   {
    "id": "2026-10-04-alerte-01",
    "date": "2026-10-04",

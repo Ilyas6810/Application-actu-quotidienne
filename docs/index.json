@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-04T06:34:53Z",
- "derniere": "2026-10-04",
+ "maj": "2026-10-05T06:26:12Z",
+ "derniere": "2026-10-05",
  "editions": [
+  {
+   "date": "2026-10-05",
+   "genere_a": "2026-10-05T06:26:12Z",
+   "articles": 7,
+   "une": [
+    "Flavio Bolsonaro devance le président Luiz Inacio Lula da Silva",
+    "Les États-Unis retirent leurs bombardiers d'une base militaire au Royaume-Uni",
+    "Enquete sur le copilote de Flydubai soupconne d'acte terroriste"
+   ],
+   "octets": 25879
+  },
   {
    "date": "2026-10-04",
    "genere_a": "2026-10-04T06:34:53Z",

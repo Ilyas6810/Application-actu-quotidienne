@@ -1,0 +1,389 @@
+{
+ "date": "2026-10-05",
+ "genere_a": "2026-10-05T06:26:12Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-05-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Flavio Bolsonaro devance le président Luiz Inacio Lula da Silva",
+   "chapeau": "Les électeurs brésiliens se sont rendus aux urnes dimanche 4 octobre 2026 pour le premier tour de l'élection présidentielle. Le sénateur Flavio Bolsonaro et le président sortant Luiz Inacio Lula da Silva s'affronteront lors d'un second tour.",
+   "corps": "Le premier tour de l'élection présidentielle brésilienne s'est tenu le dimanche 4 octobre 2026. Aucun des candidats n'a obtenu la majorité absolue fixée à plus de cinquante pour cent des suffrages exprimés, selon les données publiées le lundi 5 octobre 2026.\n\nLe sénateur Flavio Bolsonaro est arrivé en tête du scrutin. Le journal Libération indique le 5 octobre 2026 qu'il obtient 47,06 pour cent des voix. Le président sortant Luiz Inacio Lula da Silva recueille 45,12 pour cent des suffrages selon la même source. Le journal El País mentionne des pourcentages légèrement différents le 5 octobre 2026, attribuant 47,1 pour cent des voix au candidat de droite et 45 pour cent au président sortant.\n\nUn second tour est programmé le 25 octobre 2026 pour départager les deux candidats. Le scrutin oppose le sénateur Flavio Bolsonaro, fils de l'ancien président Jair Bolsonaro, au président de gauche sortant Luiz Inacio Lula da Silva.\n\n## Ce que disent les sources\n\nLe journal Le Figaro évoque le 5 octobre 2026 des chiffres provisoires recensés à minuit lors du décompte partiel, donnant Flavio Bolsonaro à 50,2 pour cent et Luiz Inacio Lula da Silva à 41,6 pour cent sur la base de 47 pour cent des bulletins dépouillés à 23h50. Les autres sources mentionnent des scores finaux établis autour de 47 pour cent pour le candidat de droite et de 45 pour cent pour le président sortant.\n\nCertains détails sur le taux exact de participation font défaut.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck1l34ed592no"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-over-lula"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-05/videoanalisis-lula-se-enfrenta-a-una-segunda-vuelta-electoral-muy-complicada.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/election-presidentielle-au-bresil-flavio-bolsonaro-largement-devant-lula-au-1er-tour-20261004"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/presidentielle-au-bresil-flavio-bolsonaro-vire-en-tete-et-se-pose-comme-favori-au-second-tour-20261005"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/bresil-le-fils-bolsonaro-devance-le-president-lula-de-deux-points-second-tour-le-25-octobre-20261005_EVXQY5SKZVHDROGUY3VIIQFD2I"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/05/lula-a-paye-le-prix-du-mecontentement-des-electeurs-au-bresil-flavio-bolsonaro-devance-lula-au-premier-tour-de-l-election-presidentielle_6788483_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/wahlen-in-brasilien-der-bolsonaro-clan-triumphiert-lula-muss-in-stichwahl-a-c1edecab-3c26-4cce-a27c-ed1e989c43e4"
+    }
+   ],
+   "premiere_parution": "2026-10-02T09:12:58Z",
+   "suite_de": "2026-10-04-monde-002",
+   "mots": 283,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-05-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Enquete sur le copilote de Flydubai soupconne d'acte terroriste",
+   "chapeau": "Les autorites des Emirats arabes unis enquetent sur l'agression du commandant de bord d'un vol de Flydubai vers Tel-Aviv survenue le 3 octobre 2026. Le suspect est designe comme Hamam Al Hammami par les medias.",
+   "corps": "Le procureur general des Emirats arabes unis a qualifie l'agression d'acte terroriste le 3 octobre 2026 selon Bloomberg. Le vol FZ1073 reliait les Emirats a Israel le 3 octobre 2026 d'apres The Guardian. Le copilote a utilise une hache de secours pour attaquer le commandant de bord d'apres Der Spiegel du 3 octobre 2026.\n\nLe suspect se nomme Hamam Al Hammami et possede la nationalite omanaise d'apres Haaretz du 3 octobre 2026. Il etait considere comme un risque pour la securite par son ancien employeur Oman Air selon Der Spiegel du 3 octobre 2026. Il avait ete interdit de vol dans son pays d'origine en raison d'un profil ideologique radical selon Haaretz du 3 octobre 2026.\n\nLe copilote a tente de prendre le controle de l'appareil pendant le vol selon The Guardian du 3 octobre 2026. Il se trouve actuellement en detention aux Emirats arabes unis selon The Straits Times du 5 octobre 2026.\n\n## Ce que disent les sources\n\nThe Hindu indique le 4 octobre 2026 que l'identite officielle du copilote n'a pas ete confirmee par les autorites, tandis que d'autres medias comme Haaretz le 3 octobre 2026 et The Straits Times le 5 octobre 2026 le nomment directement.\n\nCertains elements sur les motivations exactes du suspect manquent encore dans les enquetes en cours.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-03/ty-article/.premium/report-flydubai-co-pilot-intended-to-crash-plane-in-israel/000001a0-feea-d518-afee-fefefc6c0000"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-03/uae-says-flydubai-co-pilot-planned-terrorist-operation"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c61wv7lgex13o"
+    }
+   ],
+   "premiere_parution": "2026-10-02T10:49:19Z",
+   "suite_de": "2026-10-04-monde-001",
+   "mots": 249,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-05-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump nomme Jay Clayton chef d'un groupe sur l'intelligence artificielle",
+   "chapeau": "Le président américain Donald Trump a nommé dimanche 4 octobre 2026 le directeur du renseignement national Jay Clayton à la tête d'une nouvelle équipe sur l'intelligence artificielle. Cette instance dénommée Unité super intelligence doit coordonner la politique gouvernementale des États-Unis face aux risques technologiques tout en évitant une réglementation excessive.",
+   "corps": "Donald Trump a annoncé cette désignation sur le réseau social Truth Social le 4 octobre 2026. Jay Clayton dirigera ce groupe de travail de la Maison Blanche tout en conservant la tête des dix-huit agences du renseignement américain. L'ancien procureur fédéral de Manhattan a également présidé la Commission des opérations de bourse durant le premier mandat de Donald Trump. Lors de son audition de confirmation au Sénat, Jay Clayton a qualifié l'intelligence artificielle d'élément moteur tout en soulignant son potentiel destructeur.\n\nLe responsable dispose d'un délai de cent vingt jours pour remettre un rapport au président des États-Unis. Ce document évaluera les menaces liées à cette technologie et proposera des mesures pour limiter la régulation administrative du secteur. La mission principale de cette structure consiste à garantir le maintien de la position dominante des États-Unis dans le développement technologique. Les dirigeants des grands groupes du secteur promettent d'appliquer un code d'autorégulation.\n\nL'instance doit aussi organiser la concertation entre le pouvoir exécutif et plusieurs secteurs de la société. Le travail de coordination englobera les relations avec les entreprises technologiques, les consommateurs, les associations d'intérêt public, les organisations religieuses et les exploitants d'infrastructures critiques. Cette initiative intervient dans un contexte d'inquiétude de la communauté scientifique concernant le contrôle des outils technologiques.\n\n## Ce que disent les sources\n\nBloomberg rapporte le 4 octobre 2026 que le président de la Commission fédérale du commerce Andrew Ferguson est nommé pour coanimer ce groupe de travail avec Jay Clayton. Les autres sources citent Jay Clayton comme seul dirigeant de cette instance.\n\nLa liste intégrale des membres composant cette unité n'est pas précisée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/le-directeur-du-renseignement-americain-missionne-sur-les-menaces-de-l-ia-mais-aussi-pour-prevenir-la-surregulation-20261004"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261004-le-directeur-du-renseignement-am%C3%A9ricain-missionn%C3%A9-sur-l-ia-entre-menaces-et-pr%C3%A9vention-de-la-surr%C3%A9gulation"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-04/trump-names-clayton-ferguson-to-lead-ai-task-force"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/10/trump-indica-chefe-da-inteligencia-nacional-como-novo-czar-da-ia.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/donald-trump-nomme-le-chef-du-renseignement-americain-au-poste-de-referent-ia-20261004_5XWD67YEEFAYXNODZF6CTH73V4"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/article71544416.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_ottobre_04/trump-task-force-super-intelligenza-babc4501-217e-4201-8cd0-7a9ca313bxlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-02T16:06:15Z",
+   "suite_de": null,
+   "mots": 315,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-05-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le Parti vert britannique adopte une motion qualifiant le sionisme de racisme",
+   "chapeau": "Le Parti vert britannique a adopté une motion qualifiant le sionisme de racisme lors de son congrès à Brighton le 4 octobre 2026. Cette décision a provoqué des réactions de condamnation de la part d'Israël et de dirigeants communautaires.",
+   "corps": "Le congrès du Parti vert britannique, réuni à Brighton, a approuvé le 4 octobre 2026 une motion définissant le sionisme comme une idéologie raciste. Le texte a recueilli 1 022 voix pour et 813 voix contre, selon les informations rapportées le 4 octobre 2026 par Haaretz [3]. Le parti avait obtenu 6 pour cent des voix lors des élections nationales de 2024, d'après The Hindu le 4 octobre 2026 [8].\n\nLa motion appelle également à remplacer Israël par un État palestinien unique, une orientation combattue par la majorité des députés du parti, d'après The Guardian le 4 octobre 2026 [7]. Zack Polanski, qui dirige les Verts en Angleterre et au pays de Galles, ne s'est pas exprimé lors de ce vote, d'après les mêmes sources [7].\n\nÀ la suite de ce vote, le président israélien Isaac Herzog a qualifié la décision de déshonorante et de mensonge antisémite mettant en danger les Juifs et les Israéliens, selon des déclarations rapportées les 4 et 5 octobre 2026 par The Straits Times et Al Jazeera [5, 9]. Le gouvernement israélien a également interdit l'accès au territoire à Zack Polanski, d'après Haaretz et la BBC le 5 octobre 2026 [11, 12]. Le Parti travailliste britannique au pouvoir a condamné ce vote, estimant qu'il est regrettable de rejeter la solution à deux états, selon Haaretz le 5 octobre 2026 [11].\n\nDes responsables communautaires et des membres juifs du parti ont averti que cette politique risque d'aliéner les partisans juifs et d'accroître les divisions, d'après Haaretz et le Financial Times les 4 et 5 octobre 2026 [2, 10].\n\n## Ce que disent les sources\n\nCertaines sources indiquent que Zack Polanski a soutenu des amendements destinés à adoucir les termes de la motion [11], tandis que d'autres précisent qu'il a évité le scrutin qui s'est déroulé lors du congrès [4].\n\nL'article ne précise pas la nature exacte des poursuites judiciaires envisagées contre cette motion.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "nationalpost.com",
+     "url": "https://nationalpost.com/news/leftist-u-k-green-party-adopts-policy-that-equates-zionism-with-racism"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-10-04/ty-article/u-k-green-party-conference-debates-controversial-zionism-is-racism-motion/000001a1-06e7-d2be-a1b1-f7f704180000"
+    },
+    {
+     "nom": "irvinetimes.com",
+     "url": "https://irvinetimes.com/news/national/26605730.greens-make-zionism-racism-party-policy-polanski-skips-vote"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-green-party-adopts-zionism-is-racism-policy"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/britains-green-party-votes-to-class-zionism-as-a-form-of-racism/article71544765.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-04T06:15:00Z",
+   "suite_de": null,
+   "mots": 355,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-05-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des services australiens étudient le passé d un copilote de Flydubai",
+   "chapeau": "Les autorités australiennes enquêtent sur le séjour dans le pays du copilote de Flydubai accusé d une tentative de détournement. L incident s est produit sur un vol reliant Dubai à Tel-Aviv.",
+   "corps": "Des agences de sécurité et des services de police en Australie examinent le parcours d un copilote de la compagnie aérienne Flydubai. Cette décision intervient après une tentative d attaque dans le cockpit survenue sur un vol en direction d Israël, selon des informations publiées le dimanche 4 octobre 2026 par The Guardian, The Straits Times et Al Jazeera.\n\nL homme a passé environ deux ans en Australie en tant qu étudiant, d après les précisions de The Guardian du dimanche 4 octobre 2026. L université RMIT de Melbourne a confirmé, le lundi 5 octobre 2026 selon The Guardian, que le suspect a fréquenté son campus entre 2015 et 2017 pour un cursus d ingénierie, qu il a quitté sans obtenir son diplôme.\n\nLa police australienne a indiqué le dimanche 4 octobre 2026, d après The Straits Times, que le suspect a visité des mosquées radicales et des sites internet extrémistes durant son séjour. L tentative de prise de contrôle de l appareil a échoué le mercredi 30 septembre 2026 grâce à l intervention des passagers et de l équipage, d après The Guardian du lundi 5 octobre 2026.\n\nCertaines informations sur la nature exacte de l attaque manquée divergent entre les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb"
+    },
+    {
+     "nom": "easternriverinachronicle.com.au",
+     "url": "https://easternriverinachronicle.com.au/story/9362182/authorities-probe-flydubai-co-pilots-australian-ties"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cxly4nym57q9o"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/australia-probes-flydubai-co-pilot-links-police-say"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-05/flydubai-co-pilot-was-failed-student-at-australian-university"
+    }
+   ],
+   "premiere_parution": "2026-10-04T01:26:39Z",
+   "suite_de": null,
+   "mots": 235,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-05-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les garde-côtes américains suspendent les recherches après le crash d'un avion médicalisé",
+   "chapeau": "Les garde-côtes des États-Unis ont interrompu les recherches des six personnes disparues à bord d'un avion sanitaire au large de Nantucket. L'appareil effectuait une évacuation médicale depuis les Bermudes vers Boston samedi 3 octobre 2026 avant de s'abîmer en mer.",
+   "corps": "Un avion médicalisé s'était abîmé dans l'océan Atlantique samedi 3 octobre 2026 alors qu'il volait vers Boston.\n\nLes garde-côtes des États-Unis ont suspendu les opérations de secours destinées à retrouver les six occupants de l'appareil. Les autorités ont repéré une zone de débris au large de l'île de Nantucket, dans l'État du Massachusetts. Les débris découverts proviennent de cet aéronef de transport sanitaire immatriculé au Canada.\n\nL'appareil transportait six personnes lors de cette liaison. Selon les informations communiquées par les garde-côtes américains, quatre membres d'équipage possèdent la nationalité canadienne et deux passagers sont des ressortissants des Bermudes. L'avion réalisait une évacuation médicale au départ de l'archipel des Bermudes.\n\nL'Agence fédérale de l'aviation américaine avait alerté les garde-côtes samedi vers deux heures du matin après la perte du signal de ce jet Gulfstream. D'après NPR le 4 octobre 2026 à 02 h 31, les relevés de vol montrent que l'appareil est descendu d'au moins 9 000 pieds en deux minutes, avant de stabiliser son altitude durant plusieurs minutes puis de disparaître.\n\nDes enregistrements audio de la circulation aérienne révèlent des difficultés techniques avant l'accident. D'après ces bandes sonores, l'équipage volait peut-être à l'aveugle en raison de défaillances électriques alors qu'une tempête approchait sur sa trajectoire.\n\nLes causes précises de la panne électrique et les circonstances exactes de l'impact en mer restent inconnues.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston"
+    },
+    {
+     "nom": "nvdaily.com",
+     "url": "https://nvdaily.com/associated_press_national/crews-find-debris-field-from-6-person-medical-flight-missing-over-the-atlantic-en-route/article_32f7fe9b-479d-5086-84db-fac2b1088d0a.html"
+    },
+    {
+     "nom": "mynbc5.com",
+     "url": "https://mynbc5.com/article/medical-plane-debris-search-missing-passengers/74009187"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts"
+    },
+    {
+     "nom": "orissapost.com",
+     "url": "https://orissapost.com/medical-plane-crashes-off-us-coast-search-on-for-six-onboard"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/bermuda-to-boston-air-ambulance-that-vanished-debris-field-found-off-nantucket/article71542952.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-coast-guard-finds-debris-from-medical-plane-carrying-six-people"
+    }
+   ],
+   "premiere_parution": "2026-10-03T22:31:04Z",
+   "suite_de": "2026-10-04-monde-006",
+   "mots": 261,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-05-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Les États-Unis retirent leurs bombardiers d'une base militaire au Royaume-Uni",
+   "chapeau": "L'armée de l'air américaine a retiré tous ses bombardiers stationnés sur la base britannique de RAF Fairford au cours du week-end des 3 et 4 octobre 2026. Cette décision fait suite à la découverte d'un projet d'attentat présumé à proximité de cette installation militaire située dans le sud-ouest de l'Angleterre.",
+   "corps": "Les forces américaines ont procédé au rapatriement urgent de leurs douze bombardiers B-1 vers leur territoire d'origine. Ces appareils utilisaient la base de RAF Fairford pour mener des opérations militaires contre l'Iran. Les autorités américaines ont pris cette mesure de précaution après avoir reçu de nouvelles menaces concernant un projet d'attaque visant directement le site.\n\nL'alerte a été déclenchée à la suite d'un incident survenu à la fin du mois de septembre 2026. Les forces de l'ordre ont repéré des véhicules suspects à proximité de la base aérienne. À l'intérieur de ces voitures, les enquêteurs ont découvert de l'essence en grande quantité. Cette découverte a entraîné l'ouverture immédiate d'une enquête par les services de lutte contre le terrorisme.\n\nDans le cadre de cette affaire, la police a procédé à l'arrestation de plusieurs personnes. Six hommes ont été appréhendés pour des soupçons d'infractions liées à l'utilisation de produits explosifs. Les suspects ont été remis en liberté sous contrôle judiciaire après leur interrogatoire.\n\n## Ce que disent les sources\n\nLe Premier ministre britannique et des responsables américains affirment que l'Iran est impliqué dans la préparation de cette attaque présumée. De son côté, le gouvernement de Téhéran rejette ces accusations et nie tout lien avec l'incident ou les personnes arrêtées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/eua-retiram-as-pressas-bombardeiros-de-base-aerea-no-reino-unido-apos-novas-ameacas.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/05/les-etats-unis-retirent-leurs-bombardiers-de-la-base-britannique-pres-de-laquelle-a-eu-lieu-un-incident_6788399_3210.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran"
+    }
+   ],
+   "premiere_parution": "2026-10-04T00:00:00Z",
+   "suite_de": null,
+   "mots": 256,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-05-monde-001",
+  "2026-10-05-geopolitique-001",
+  "2026-10-05-monde-002",
+  "2026-10-05-monde-003",
+  "2026-10-05-monde-004",
+  "2026-10-05-monde-005",
+  "2026-10-05-monde-006"
+ ]
+}

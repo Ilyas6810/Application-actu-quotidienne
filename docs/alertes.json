@@ -1,6 +1,135 @@
 {
- "maj": "2026-10-05T14:46:32Z",
+ "maj": "2026-10-05T22:09:26Z",
  "alertes": [
+  {
+   "id": "2026-10-06-alerte-01",
+   "date": "2026-10-06",
+   "publiee_a": "2026-10-05T22:09:03Z",
+   "titre": "La Turquie et le Pakistan envoient des forces en Arabie saoudite",
+   "texte": "La Turquie et le Pakistan ont convenu d'envoyer rapidement des troupes en Arabie saoudite lundi 5 octobre 2026. Cette décision fait suite à des attaques attribuées aux rebelles houthis du Yémen contre le royaume.",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/forcas-do-iemen-chegam-a-estreito-disputado-com-os-houthis.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/turkey-pakistan-agree-rapid-troops-deployment-in-saudi-arabia-amid-houthi-attacks"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-05/ty-article/mecca-alliance-agrees-to-deploy-forces-to-saudi-arabia-amid-yemen-escalation/000001a1-0d51-da81-abf3-ddd344b90000"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/mekka-allianz-tuerkei-und-pakistan-entsenden-truppen-nach-saudi-arabien-a-85af32de-b1b0-40b0-a292-8eb4e3ca281a"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/05/la-turquie-et-le-pakistan-vont-envoyer-des-forces-militaires-en-arabie-saoudite_6788585_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20261005-conflit-avec-les-houthis-la-turquie-et-le-pakistan-annoncent-envoyer-des-forces-militaires-en-arabie-saoudite"
+    }
+   ],
+   "cluster": "10844a0a5e762764",
+   "urls": [
+    "https://aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
+    "https://aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia",
+    "https://haaretz.com/middle-east-news/2026-10-05/ty-article/mecca-alliance-agrees-to-deploy-forces-to-saudi-arabia-amid-yemen-escalation/000001a1-0d51-da81-abf3-ddd344b90000",
+    "https://lemonde.fr/international/article/2026/10/05/la-turquie-et-le-pakistan-vont-envoyer-des-forces-militaires-en-arabie-saoudite_6788585_3210.html",
+    "https://rfi.fr/fr/moyen-orient/20261005-conflit-avec-les-houthis-la-turquie-et-le-pakistan-annoncent-envoyer-des-forces-militaires-en-arabie-saoudite",
+    "https://spiegel.de/ausland/mekka-allianz-tuerkei-und-pakistan-entsenden-truppen-nach-saudi-arabien-a-85af32de-b1b0-40b0-a292-8eb4e3ca281a",
+    "https://straitstimes.com/world/middle-east/turkey-pakistan-agree-rapid-troops-deployment-in-saudi-arabia-amid-houthi-attacks",
+    "https://www1.folha.uol.com.br/mundo/2026/10/forcas-do-iemen-chegam-a-estreito-disputado-com-os-houthis.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-06-alerte-02",
+   "date": "2026-10-06",
+   "publiee_a": "2026-10-05T22:09:18Z",
+   "titre": "Ligue des nations : la France bat la Belgique au Stade de France",
+   "texte": "L'équipe de France a battu la Belgique quatre buts à un lundi au Stade de France lors de la quatrième journée de la Ligue des nations. Les joueurs français ont inscrit quatre buts en fin de match après avoir concédé l'ouverture du score.",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261005-ligue-nations-france-belgique"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/05/france-belgique-le-resume-du-renversant-succes-des-bleus-en-ligue-des-nations-sauves-du-piege-des-diables-rouges-par-ses-remplacants-dont-un-formidable-michael-olise_6788587_3242.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-en-video-les-quatre-buts-des-bleus-qui-ont-fait-chavirer-le-stade-de-france-20261005"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/directs/direct-france-belgique-les-bleus-retrouvent-les-diables-rouges-et-visent-une-premiere-victoire-en-france-avec-zidane-suivez-le-match-de-ligue-des-nations_8223076.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/La-france-qualifiee-en-quarts-de-finale-de-la-ligue-des-nations-a-la-prochaine-journee-si/1723685"
+    }
+   ],
+   "cluster": "e6a9d7735d55fac3",
+   "urls": [
+    "https://france24.com/fr/%C3%A9missions/sports/20261005-ligue-des-nations-la-france-affronte-la-belgique-pour-finir-en-beaut%C3%A9",
+    "https://france24.com/fr/sports/20261005-ligue-nations-france-belgique",
+    "https://france24.com/fr/sports/20261005-ligue-nations-france-zidane-qualifiee-quarts-finale-conditions",
+    "https://franceinfo.fr/sports/directs/direct-france-belgique-les-bleus-retrouvent-les-diables-rouges-et-visent-une-premiere-victoire-en-france-avec-zidane-suivez-le-match-de-ligue-des-nations_8223076.html",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-aime-jacquet-dans-les-tribunes-du-stade-de-france-20261005",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-en-video-le-contre-imparable-et-l-ouverture-du-score-qui-refroidit-le-stade-de-france-20261005",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-en-video-les-quatre-buts-des-bleus-qui-ont-fait-chavirer-le-stade-de-france-20261005",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/le-stade-de-france-qui-chavire-olise-phenomenal-et-la-surprise-aime-jacquet-france-belgique-en-images-20261005",
+    "https://lemonde.fr/sport/article/2026/10/05/france-belgique-le-resume-du-renversant-succes-des-bleus-en-ligue-des-nations-sauves-du-piege-des-diables-rouges-par-ses-remplacants-dont-un-formidable-michael-olise_6788587_3242.html",
+    "https://lemonde.fr/sport/live/2026/10/05/en-direct-france-belgique-suivez-la-quatrieme-journee-de-la-ligue-des-nations-de-football_6788561_3242.html",
+    "https://lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-france-belgique-en-ligue-des-nations/1722867",
+    "https://lequipe.fr/Football/Actualites/Aime-jacquet-present-au-stade-de-france-pour-le-match-des-bleus-contre-la-belgique/1723654",
+    "https://lequipe.fr/Football/Actualites/La-france-qualifiee-en-quarts-de-finale-de-la-ligue-des-nations-a-la-prochaine-journee-si/1723685",
+    "https://lequipe.fr/Football/Actualites/Une-frappe-limpide-apres-son-entree-en-jeu-le-but-egalisateur-de-desire-doue-pour-la-france-contre-la-belgique-en-video/1723667",
+    "https://lequipe.fr/Football/Actualites/Une-frappe-puissante-et-une-sortie-hesitante-l-ouverture-du-score-de-lukebakio-en-faveur-de-la-belgique-contre-la-france-en-video/1723660",
+    "https://photo.lefigaro.fr/sports/football/ligue-des-nations/le-stade-de-france-qui-chavire-olise-magistral-et-la-surprise-aime-jacquet-france-belgique-en-images-20261005"
+   ]
+  },
+  {
+   "id": "2026-10-06-alerte-03",
+   "date": "2026-10-06",
+   "publiee_a": "2026-10-05T22:09:26Z",
+   "titre": "L'écrivain et ancien homme politique britannique Jeffrey Archer est mort",
+   "texte": "L'auteur à succès et ancien élu conservateur Jeffrey Archer est décédé lundi 5 octobre 2026 à son domicile, à l'âge de 86 ans. Sa maison d'édition HarperCollins a annoncé qu'il s'est éteint paisiblement entre deux séances d'écriture.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c80095q7p7jo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-author-and-politician-jeffrey-archer-dies-aged-86"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/culture/l-ecrivain-britannique-jeffrey-archer-est-mort-a-86-ans-20261005"
+    }
+   ],
+   "cluster": "0824246aa39d6909",
+   "urls": [
+    "https://bbc.co.uk/news/articles/c80095q7p7jo",
+    "https://bbc.co.uk/news/articles/ckj0l401dvpgo",
+    "https://lefigaro.fr/culture/l-ecrivain-britannique-jeffrey-archer-est-mort-a-86-ans-20261005",
+    "https://straitstimes.com/world/europe/uk-author-and-politician-jeffrey-archer-dies-aged-86",
+    "https://theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86"
+   ]
+  },
   {
    "id": "2026-10-05-alerte-03",
    "date": "2026-10-05",
@@ -1247,202 +1376,6 @@
     "https://rfi.fr/fr/france/20260928-france-mediapart-rapporte-des-%C3%A9crits-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-en-2013-le-pr%C3%A9sident-du-rn-d%C3%A9ment",
     "https://spiegel.de/ausland/frankreich-antisemitismusaffaere-um-jordan-bardella-belastet-marine-le-pen-a-796c3024-11f3-4aa7-ab06-0589dcf6d89e",
     "https://straitstimes.com/world/europe/french-far-right-leader-bardella-denies-media-claim-he-made-antisemitic-remarks"
-   ]
-  },
-  {
-   "id": "2026-09-28-alerte-01",
-   "date": "2026-09-28",
-   "publiee_a": "2026-09-27T21:26:25Z",
-   "titre": "En Serbie, Aleksandar Vucic quitte la présidence pour briguer le gouvernement",
-   "texte": "Le président de la Serbie Aleksandar Vucic a quitté ses fonctions le 27 septembre 2026. L'ancien chef de l'État vise désormais la direction du gouvernement lors d'élections législatives anticipées prévues en octobre.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/serbien-praesident-aleksandar-vucic-tritt-zurueck-a-b00878be-2670-416c-987b-44f9df7da1e1"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/le-president-serbe-aleksandar-vucic-demissionne-des-elections-anticipees-a-venir_8212511.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/ckpq0g7z5pjjo"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://video.corriere.it/esteri/il-presidente-serbo-vucic-si-e-dimesso-il-momento-dell-annuncio/aa368ffb-ef2f-404f-a6a1-03612e9ffxlk"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests"
-    }
-   ],
-   "cluster": "1fb820cca6b8b20c",
-   "urls": [
-    "https://aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests",
-    "https://bbc.co.uk/news/articles/ckpq0g7z5pjjo",
-    "https://bloomberg.com/news/articles/2026-09-27/serb-president-vucic-to-quit-in-switch-to-pm-post-echoing-putin-s-power-move",
-    "https://dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_27?evenement=3a43d61145",
-    "https://france24.com/fr/europe/20260927-le-pr%C3%A9sident-serbe-aleksandar-vucic-d%C3%A9missionne-et-ouvre-la-voie-%C3%A0-des-%C3%A9lections-anticip%C3%A9es",
-    "https://franceinfo.fr/monde/europe/le-president-serbe-aleksandar-vucic-demissionne-des-elections-anticipees-a-venir_8212511.html",
-    "https://lansi-savo.fi/uutissuomalainen/9827006",
-    "https://lemonde.fr/international/article/2026/09/27/en-serbie-le-president-aleksandar-vucic-demissionne-et-vise-le-poste-de-premier-ministre_6784554_3210.html",
-    "https://panow.com/2026/09/27/serbias-populist-president-vucic-resigns-to-run-for-prime-minister-at-early-vote",
-    "https://reuters.com/world/europe/serbias-president-vucic-resigns-paving-way-early-elections-2026-09-27",
-    "https://rfi.fr/fr/europe/20260927-serbie-le-pr%C3%A9sident-aleksandar-vucic-annonce-sa-d%C3%A9mission-des-%C3%A9lections-anticip%C3%A9es-%C3%A0-venir",
-    "https://spiegel.de/ausland/serbien-praesident-aleksandar-vucic-tritt-zurueck-a-b00878be-2670-416c-987b-44f9df7da1e1",
-    "https://straitstimes.com/world/europe/serbias-president-vucic-resigns-ahead-of-october-parliamentary-elections",
-    "https://theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
-    "https://times-series.co.uk/news/national/26585624.serbias-populist-president-resigns-run-prime-minister-early-vote",
-    "https://video.corriere.it/esteri/il-presidente-serbo-vucic-si-e-dimesso-il-momento-dell-annuncio/aa368ffb-ef2f-404f-a6a1-03612e9ffxlk",
-    "https://wsbradio.com/news/world/serbias-populist/4JCIZIY6IEYX5NWY2OGHEQDJKQ"
-   ]
-  },
-  {
-   "id": "2026-09-28-alerte-02",
-   "date": "2026-09-28",
-   "publiee_a": "2026-09-27T21:27:07Z",
-   "titre": "L'Américain Brandon McNulty remporte le titre mondial sur route à Montréal",
-   "texte": "Le coureur américain Brandon McNulty a remporté la course en ligne masculine des championnats du monde de cyclisme sur route à Montréal, au Canada, ce dimanche 27 septembre 2026. L'athlète de 28 ans s'est imposé en solitaire devant l'Australien Michael Matthews et le Néerlandais Mathieu van der Poel.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/cyclisme/lamericain-brandon-mcnulty-remporte-des-mondiaux-de-cyclisme-hauts-en-rouleurs-20260927_U3FXZBB2NNDUHLHEVZUHQQE6KM"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Cyclisme-sur-route/Actualites/Le-classement-de-la-course-en-ligne-des-mondiaux-remportee-par-brandon-mcnulty/1721745"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20260927-mondiaux-de-cyclisme-brandon-mcnulty-cr%C3%A9e-la-surprise-et-remporte-le-titre-%C3%A0-montr%C3%A9al"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/cyclisme/mondiaux-de-cyclisme-brandon-mcnulty-accroche-des-etoiles-dans-l-arc-en-ciel-seixas-a-craque-20260927"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/ciclismo/2026-09-27/el-sueno-americano-del-trabajador-brandon-mcnulty-que-gana-el-mundial-en-montreal.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/sep/27/brandon-mcnulty-uci-world-championship-road-race-2026-lance-armstrong-cycling"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/cyclisme/mondiaux/direct-mondiaux-de-cyclisme-2026-paul-seixas-peut-il-devenir-le-plus-jeune-champion-du-monde-de-l-histoire-suivez-la-course-avec-nous-a-partir-de-15-heures_8211356.html"
-    }
-   ],
-   "cluster": "2649d59d9e4ab764",
-   "urls": [
-    "https://bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no",
-    "https://corriere.it/sport/ciclismo/26_settembre_27/mondiali-ciclismo-montreal-2026-risultato-91a11a04-34b0-41bf-bea7-75f9e2a65xlk.shtml",
-    "https://elpais.com/deportes/ciclismo/2026-09-27/el-sueno-americano-del-trabajador-brandon-mcnulty-que-gana-el-mundial-en-montreal.html",
-    "https://france24.com/fr/sports/20260927-cyclisme-brandon-mcnulty-champion-du-monde-surprise-paul-seixas-15e",
-    "https://franceinfo.fr/sports/cyclisme/championnat-du-monde-sur-route/video-la-surprise-brandon-mcnulty-le-festival-mathieu-van-der-poel-les-crampes-de-paul-seixas-le-resume-de-la-course-exceptionnelle-des-mondiaux-de-cyclisme_8212550.html",
-    "https://franceinfo.fr/sports/cyclisme/mondiaux/direct-mondiaux-de-cyclisme-2026-paul-seixas-peut-il-devenir-le-plus-jeune-champion-du-monde-de-l-histoire-suivez-la-course-avec-nous-a-partir-de-15-heures_8211356.html",
-    "https://franceinfo.fr/sports/cyclisme/mondiaux/l-americain-brandon-mcnulty-piege-les-favoris-et-devient-champion-du-monde-de-cyclisme-au-bout-d-une-course-d-anthologie-a-montreal_8212400.html",
-    "https://lefigaro.fr/sports/cyclisme/mondiaux-de-cyclisme-brandon-mcnulty-accroche-des-etoiles-dans-l-arc-en-ciel-seixas-a-craque-20260927",
-    "https://lemonde.fr/sport/live/2026/09/27/en-direct-mondiaux-de-cyclisme-suivez-la-course-en-ligne-hommes_6784305_3242.html",
-    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Brandon-mcnulty-champion-du-monde-a-montreal-parfois-les-miracles-arrivent/1721741",
-    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Brandon-mcnulty-est-le-troisieme-champion-du-monde-americain-apres-greg-lemond-et-lance-armstrong/1721743",
-    "https://lequipe.fr/Cyclisme-sur-route/Actualites/L-americain-brandon-mcnulty-piege-les-favoris-et-devient-champion-du-monde-paul-seixas-hors-du-top-10/1721739",
-    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Le-classement-de-la-course-en-ligne-des-mondiaux-remportee-par-brandon-mcnulty/1721745",
-    "https://liberation.fr/sports/cyclisme/lamericain-brandon-mcnulty-remporte-des-mondiaux-de-cyclisme-hauts-en-rouleurs-20260927_U3FXZBB2NNDUHLHEVZUHQQE6KM",
-    "https://rfi.fr/fr/sports/20260927-mondiaux-de-cyclisme-brandon-mcnulty-cr%C3%A9e-la-surprise-et-remporte-le-titre-%C3%A0-montr%C3%A9al",
-    "https://theguardian.com/sport/2026/sep/27/brandon-mcnulty-uci-world-championship-road-race-2026-lance-armstrong-cycling"
-   ]
-  },
-  {
-   "id": "2026-09-28-alerte-03",
-   "date": "2026-09-28",
-   "publiee_a": "2026-09-27T21:29:19Z",
-   "titre": "Cinq hommes arrêtés pour terrorisme près d'une base aérienne britannique",
-   "texte": "La police britannique a arrêté cinq hommes suspectés de préparer un acte terroriste près de la base aérienne de Fairford, dimanche 27 septembre 2026. Les forces de l'ordre ont agi après le signalement de trois véhicules suspects à proximité de ce site militaire utilisé par l'armée américaine.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/trump-says-men-arrested-at-us-air-base-in-uk-were-looking-to-do-big-damage"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/uk-london-fairford-air-base-bomb-threat/article71515604.ece"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqrm99mm9l84o"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war"
-    }
-   ],
-   "cluster": "29d77b6acf9e945e",
-   "urls": [
-    "https://14news.com/2026/09/27/uk-police-evacuate-homes-near-air-base-used-by-us-detain-men-suspected-explosives-offensives",
-    "https://aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us",
-    "https://aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot",
-    "https://bbc.co.uk/news/articles/c85ydnwqpzyzo",
-    "https://bbc.co.uk/news/articles/cqrm99mm9l84o",
-    "https://bbc.co.uk/news/videos/cxp84gq34n9zo",
-    "https://bloomberg.com/news/articles/2026-09-27/trump-says-suspects-arrested-in-uk-had-been-under-surveillance",
-    "https://bloomberg.com/news/articles/2026-09-27/uk-police-evacuate-area-near-us-air-base-at-raf-fairford-make-arrests",
-    "https://dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/uk-reports-major-incident-arrests-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_27?evenement=7ad3fde4a2",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_27?evenement=8b75c48266",
-    "https://ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
-    "https://haaretz.com/world-news/europe/2026-09-27/ty-article/arrests-made-over-suspected-explosives-near-u-k-base-used-for-u-s-iran-strikes/000001a0-e1e4-db4b-a7a5-f3f6dd790000",
-    "https://kansaspublicradio.org/npr-news/2026-09-27/5-arrested-near-a-u-k-air-base-used-by-u-s-on-suspicion-of-preparing-a-terrorist-act",
-    "https://kcra.com/article/uk-air-base-us-explosives-offensives-detainment/73907874",
-    "https://kedm.org/npr-news/2026-09-27/5-arrested-near-a-u-k-air-base-used-by-u-s-on-suspicion-of-preparing-a-terrorist-act",
-    "https://npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
-    "https://npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
-    "https://politico.eu/article/major-incident-uk-air-base-us-forces-raf-fairford",
-    "https://rockymounttelegram.com/news/world/5-men-arrested-near-uk-air-base-used-by-us-in-iran-war-on-suspicion/article_6d456b80-b7bf-5be0-ae13-84fb51caa434.html",
-    "https://straitstimes.com/world/europe/security-increased-at-us-fairford-air-base-in-england",
-    "https://straitstimes.com/world/europe/trump-says-men-arrested-at-us-air-base-in-uk-were-looking-to-do-big-damage",
-    "https://theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
-    "https://thehindu.com/news/international/uk-london-fairford-air-base-bomb-threat/article71515604.ece",
-    "https://turnto23.com/world/europe/uk-police-arrest-5-men-near-an-air-base-used-by-us-on-suspicion-of-preparing-a-terrorist-act",
-    "https://wjla.com/news/nation-world/five-men-arrested-near-us-airbase-in-uk-after-reports-of-three-suspicious-trucks-terrorism-iran-cold-war-metropolitan-police-fairford-london-explosives-act-whelford-us-air-force-chicago-president-trump",
-    "https://wsbradio.com/news/world/police-evacuate/QXMFGQ2STE5LTPIXTYUYCRNA34",
-    "https://wwaytv3.com/5-men-arrested-near-uk-air-base-used-by-us-in-iran-war-on-suspicion-of-preparing-a-terrorist-act",
-    "https://wxii12.com/article/uk-air-base-us-explosives-offensives-detainment/73907874"
    ]
   }
  ]

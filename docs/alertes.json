@@ -1,6 +1,38 @@
 {
- "maj": "2026-10-05T05:46:10Z",
+ "maj": "2026-10-05T14:46:32Z",
  "alertes": [
+  {
+   "id": "2026-10-05-alerte-03",
+   "date": "2026-10-05",
+   "publiee_a": "2026-10-05T14:46:32Z",
+   "titre": "Un avion militaire transportant trente-deux personnes s'ecrase au Nigeria",
+   "texte": "Un appareil militaire transportant trente-deux personnes s'est ecrase le lundi 5 octobre 2026 dans le sud du Nigeria. Les equipes de secours cherchent les survivants sur le site de l'accident.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/nigeria-un-avion-militaire-transportant-32-personnes-s-ecrase-20261005"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/nigeria-military-helicopter-crashes-with-32-aboard-rescue-operations-ongoing"
+    }
+   ],
+   "cluster": "08d4a5c295ad5422",
+   "urls": [
+    "https://dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
+    "https://franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html",
+    "https://lefigaro.fr/international/nigeria-un-avion-militaire-transportant-32-personnes-s-ecrase-20261005",
+    "https://straitstimes.com/world/nigeria-military-helicopter-crashes-with-32-aboard-rescue-operations-ongoing"
+   ]
+  },
   {
    "id": "2026-10-05-alerte-02",
    "date": "2026-10-05",

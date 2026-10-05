@@ -1,6 +1,60 @@
 {
- "maj": "2026-10-05T00:03:25Z",
+ "maj": "2026-10-05T05:46:10Z",
  "alertes": [
+  {
+   "id": "2026-10-05-alerte-02",
+   "date": "2026-10-05",
+   "publiee_a": "2026-10-05T05:46:10Z",
+   "titre": "Entre 400 et 500 lycées ferment en France ce lundi 5 octobre",
+   "texte": "Le ministère de l'Éducation nationale suspend les cours dans 400 à 500 établissements en France ce lundi 5 octobre 2026. Cette décision intervient en raison de la mobilisation lycéenne perturbant la sécurité des accès.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/cours-suspendus-lundi-dans-400-a-500-lycees-lundi-160-etablissements-fermes-en-ile-de-france-plusieurs-mineurs-poursuivis-par-la-justice-le-point-sur-la-mobilisation-lyceenne-20261004_DLHKYBNJFNFLFBDDFEIU7QMLPY"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/blocus-des-lycees-en-ile-de-france-et-dans-l-oise-la-liste-des-etablissements-devant-lesquels-les-rassemblements-sont-interdits-ce-lundi-20261004"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-le-gouvernement-souhaite-une-reprise-des-cours-o%C3%B9-la-s%C3%A9curit%C3%A9-le-permet"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-des-centaines-d-etablissements-perturbes-lundi-a-la-veille-d-une-nouvelle-journee-de-mobilisation-que-des-syndicats-appellent-a-rejoindre_6788487_3224.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/blocage-des-lycees-plus-de-160-lycees-fermes-en-ile-de-france-feuille-de-route-de-lecornu-20261005"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html"
+    }
+   ],
+   "cluster": "63f35b5e2fc4228d",
+   "urls": [
+    "https://france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+    "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-il-n-y-a-pas-que-la-france-insoumise-qui-nous-a-soutenus-rappelle-un-representant-des-lyceens-qui-denonce-une-volonte-d-infantiliser-le-mouvement_8221975.html",
+    "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
+    "https://franceinfo.fr/societe/education/blocage-des-lycees/les-cours-seront-suspendus-dans-400-a-500-lycees-lundi-annonce-le-ministre-de-l-education-nationale_8222266.html",
+    "https://la-croix.com/societe/blocage-des-lycees-400-a-500-etablissements-entierement-ou-en-partie-fermes-lundi-20261004",
+    "https://la-croix.com/societe/blocage-des-lycees-plus-de-160-lycees-fermes-en-ile-de-france-feuille-de-route-de-lecornu-20261005",
+    "https://lefigaro.fr/actualite-france/blocus-des-lycees-en-ile-de-france-et-dans-l-oise-la-liste-des-etablissements-devant-lesquels-les-rassemblements-sont-interdits-ce-lundi-20261004",
+    "https://lefigaro.fr/actualite-france/blocus-des-lycees-entre-400-et-500-etablissements-totalement-ou-partiellement-fermes-lundi-24-ont-ete-incendies-ou-saccages-annonce-edouard-geffray-20261004",
+    "https://lefigaro.fr/actualite-france/en-direct-blocage-des-lycees-des-centaines-de-lycees-seront-a-nouveau-fermes-au-moins-partiellement-lundi-avant-un-acte-iii-mardi-20261005",
+    "https://lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-des-centaines-d-etablissements-perturbes-lundi-a-la-veille-d-une-nouvelle-journee-de-mobilisation-que-des-syndicats-appellent-a-rejoindre_6788487_3224.html",
+    "https://liberation.fr/societe/cours-suspendus-lundi-dans-400-a-500-lycees-lundi-160-etablissements-fermes-en-ile-de-france-plusieurs-mineurs-poursuivis-par-la-justice-le-point-sur-la-mobilisation-lyceenne-20261004_DLHKYBNJFNFLFBDDFEIU7QMLPY",
+    "https://liberation.fr/societe/education/blocage-des-lycees-cours-suspendus-dans-400-a-500-etablissements-lundi-24-ont-ete-saccages-ou-incendies-selon-edouard-geffray-20261004_O2BAPA2UTNFEXD76FJUZUSBUFU",
+    "https://rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-le-gouvernement-souhaite-une-reprise-des-cours-o%C3%B9-la-s%C3%A9curit%C3%A9-le-permet"
+   ]
+  },
   {
    "id": "2026-10-05-alerte-01",
    "date": "2026-10-05",

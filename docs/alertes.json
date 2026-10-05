@@ -1,6 +1,67 @@
 {
- "maj": "2026-10-04T12:25:29Z",
+ "maj": "2026-10-05T00:03:25Z",
  "alertes": [
+  {
+   "id": "2026-10-05-alerte-01",
+   "date": "2026-10-05",
+   "publiee_a": "2026-10-05T00:03:25Z",
+   "titre": "Les États-Unis retirent leurs bombardiers de la base britannique de Fairford",
+   "texte": "L'armée américaine a rapatrié tous ses bombardiers positionnés sur le site militaire de Fairford au Royaume-Uni ce lundi 5 octobre 2026. Cette décision intervient après des arrestations liées à un projet présumé d'attentat contre l'installation.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmwyve191dlko"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/eua-retiram-as-pressas-bombardeiros-de-base-aerea-no-reino-unido-apos-novas-ameacas.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran"
+    }
+   ],
+   "cluster": "672a7725e158aba0",
+   "urls": [
+    "https://abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html",
+    "https://aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+    "https://aol.co.uk/articles/us-bombers-leave-raf-fairford-173500000.html",
+    "https://bbc.co.uk/news/articles/cmwyve191dlko",
+    "https://bloomberg.com/news/articles/2026-10-04/pentagon-redeploys-bombers-from-uk-base-at-center-of-terror-plot",
+    "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html",
+    "https://france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
+    "https://ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+    "https://kxl.com/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack",
+    "https://nbcwashington.com/news/national-international/us-air-force-removes-bombers-british-air-base-suspected-terror-plot/4163132",
+    "https://spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816",
+    "https://straitstimes.com/world/europe/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
+    "https://stratford-herald.com/national/us-withdraws-bombers-from-raf-fairford-after-suspected-terror-plot-172533",
+    "https://theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+    "https://thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
+    "https://wesh.com/article/us-air-force-bombers-return-raf-fairford-terror-plot/74019290",
+    "https://www1.folha.uol.com.br/mundo/2026/10/eua-retiram-as-pressas-bombardeiros-de-base-aerea-no-reino-unido-apos-novas-ameacas.shtml"
+   ]
+  },
   {
    "id": "2026-10-04-alerte-03",
    "date": "2026-10-04",
@@ -1296,159 +1357,6 @@
     "https://wsbradio.com/news/world/police-evacuate/QXMFGQ2STE5LTPIXTYUYCRNA34",
     "https://wwaytv3.com/5-men-arrested-near-uk-air-base-used-by-us-in-iran-war-on-suspicion-of-preparing-a-terrorist-act",
     "https://wxii12.com/article/uk-air-base-us-explosives-offensives-detainment/73907874"
-   ]
-  },
-  {
-   "id": "2026-09-27-alerte-03",
-   "date": "2026-09-27",
-   "publiee_a": "2026-09-26T23:43:52Z",
-   "titre": "Euro de volley : la Pologne bat la France en finale à Milan",
-   "texte": "La sélection polonaise a battu la France par trois manches à une samedi 26 septembre à Milan lors de la finale du championnat d'Europe masculin. Les joueurs français obtiennent la médaille d'argent après avoir cédé face aux tenants du titre.",
-   "sources": [
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Volley-ball/Actualites/Pourquoi-la-france-n-a-pas-remporte-le-premier-set-en-finale-de-l-euro-contre-la-pologne/1721538"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/volley/championnat-d-europe/logiquement-dominee-par-la-pologne-tenante-du-titre-l-equipe-de-france-s-incline-en-finale-de-l-euro-de-volley_8211530.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20260926-volley-pas-de-titre-pour-la-france-battue-en-finale-par-la-pologne-3-1"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/autres-sports/en-direct-france-pologne-le-grand-defi-des-bleus-en-quete-d-un-deuxieme-euro-de-volley-20260926"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20260926-volley-ball-la-france-s-incline-contre-la-pologne-en-finale-de-l-euro"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/09/27/euro-de-volley-la-pologne-met-fin-au-reve-des-bleus-en-finale_6783611_3242.html"
-    }
-   ],
-   "cluster": "208519ecff7db865",
-   "urls": [
-    "https://france24.com/fr/sports/20260925-volley-les-fran%C3%A7ais-en-finale-de-l-euro-apr%C3%A8s-leur-victoire-contre-la-finlande",
-    "https://france24.com/fr/sports/20260926-volley-ball-la-france-s-incline-contre-la-pologne-en-finale-de-l-euro",
-    "https://franceinfo.fr/sports/volley/championnat-d-europe/logiquement-dominee-par-la-pologne-tenante-du-titre-l-equipe-de-france-s-incline-en-finale-de-l-euro-de-volley_8211530.html",
-    "https://franceinfo.fr/sports/volley/qualifiee-pour-la-finale-de-l-euro-de-volley-la-nouvelle-equipe-de-france-a-deja-reussi-son-apprentissage-express_8210777.html",
-    "https://franceinfo.fr/sports/volley/vainqueurs-de-la-finlande-les-francais-rejoignent-la-pologne-en-finale-de-l-euro-de-volley_8210300.html",
-    "https://lefigaro.fr/sports/autres-sports/en-direct-euro-de-volley-face-a-la-finlande-les-bleus-revent-de-finale-20260925",
-    "https://lefigaro.fr/sports/autres-sports/en-direct-france-pologne-le-grand-defi-des-bleus-en-quete-d-un-deuxieme-euro-de-volley-20260926",
-    "https://lefigaro.fr/sports/autres-sports/euro-de-volley-malgre-des-finlandais-accrocheurs-la-france-se-hisse-en-finale-20260925",
-    "https://lefigaro.fr/sports/autres-sports/euro-de-volley-pas-d-exploit-pour-la-france-battue-par-la-pologne-en-finale-20260926",
-    "https://lemonde.fr/sport/article/2026/09/25/euro-de-volley-une-equipe-de-france-atypique-et-rajeunie-vise-une-place-en-finale_6782585_3242.html",
-    "https://lemonde.fr/sport/article/2026/09/26/volley-les-bleus-nouvelle-generation-se-hissent-en-finale-de-l-euro-ou-ils-retrouveront-la-pologne_6782707_3242.html",
-    "https://lemonde.fr/sport/article/2026/09/27/euro-de-volley-la-pologne-met-fin-au-reve-des-bleus-en-finale_6783611_3242.html",
-    "https://lemonde.fr/sport/live/2026/09/26/en-direct-france-pologne-suivez-la-finale-de-l-euro-de-volley_6783375_3242.html",
-    "https://lequipe.fr/Volley-ball/Actualites/Apres-la-victoire-en-demi-finales-mathis-henno-assure-que-les-bleus-ne-se-laisseront-pas-faire-contre-la-pologne-en-finale-de-l-euro/1721307",
-    "https://lequipe.fr/Volley-ball/Actualites/Fin-du-reve-pour-les-bleus-battus-par-la-pologne-en-finale-de-l-euro/1721568",
-    "https://lequipe.fr/Volley-ball/Actualites/Les-bleus-dominent-la-finlande-et-affronteront-la-pologne-en-finale-de-l-euro/1721282",
-    "https://lequipe.fr/Volley-ball/Actualites/Pourquoi-l-equipe-de-france-de-volley-joue-avec-des-rubans-adhesifs-sur-son-maillot/1721424",
-    "https://lequipe.fr/Volley-ball/Actualites/Pourquoi-la-france-n-a-pas-remporte-le-premier-set-en-finale-de-l-euro-contre-la-pologne/1721538",
-    "https://rfi.fr/fr/sports/20260926-volley-pas-de-titre-pour-la-france-battue-en-finale-par-la-pologne-3-1"
-   ]
-  },
-  {
-   "id": "2026-09-27-alerte-01",
-   "date": "2026-09-27",
-   "publiee_a": "2026-09-26T21:16:39Z",
-   "titre": "La cycliste Demi Vollering gagne les championnats du monde sur route à Montréal",
-   "texte": "La Néerlandaise Demi Vollering a remporté la course en ligne féminine des championnats du monde à Montréal, le samedi 26 septembre 2026. La coureuse a battu la Polonaise Katarzyna Niewiadoma au sprint final sur le tracé canadien.",
-   "sources": [
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/ciclismo/vollering-reina-montreal-desgracia-ceba-paula-blasi-20260926201855-nt.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20260926-championnat-du-monde-de-cyclisme-la-n%C3%A9erlandaise-demi-vollering-couronn%C3%A9e"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/sep/26/demi-vollering-seals-dramatic-womens-road-race-world-title-in-montreal"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/ciclismo/2026-09-26/demi-vollering-alcanza-en-montreal-el-arcoiris-que-corona-una-gran-carrera.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Cyclisme-sur-route/Actualites/Demi-vollering-championne-du-monde-apres-une-course-renversante-je-n-ai-jamais-renonce/1721517"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/09/26/un-premier-titre-de-championne-du-monde-pour-demi-vollering-couronnement-d-une-saison-de-tous-les-triomphes_6783544_3242.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/cyclisme/mondiaux/demi-vollering-sacree-championne-du-monde-de-cyclisme-pour-la-premiere-fois-a-montreal_8211320.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo"
-    }
-   ],
-   "cluster": "408124fa81637d19",
-   "urls": [
-    "https://abc.es/deportes/ciclismo/vollering-reina-montreal-desgracia-ceba-paula-blasi-20260926201855-nt.html",
-    "https://bbc.co.uk/sport/cycling/articles/cxr500pj7dlqo",
-    "https://elpais.com/deportes/ciclismo/2026-09-26/demi-vollering-alcanza-en-montreal-el-arcoiris-que-corona-una-gran-carrera.html",
-    "https://franceinfo.fr/sports/cyclisme/mondiaux/demi-vollering-sacree-championne-du-monde-de-cyclisme-pour-la-premiere-fois-a-montreal_8211320.html",
-    "https://lefigaro.fr/sports/cyclisme/cyclisme-la-neerlandaise-demi-vollering-sur-le-toit-du-monde-20260926",
-    "https://lemonde.fr/sport/article/2026/09/26/un-premier-titre-de-championne-du-monde-pour-demi-vollering-couronnement-d-une-saison-de-tous-les-triomphes_6783544_3242.html",
-    "https://lemonde.fr/sport/live/2026/09/26/en-direct-mondiaux-de-cyclisme-suivez-la-course-en-ligne-femmes_6783134_3242.html",
-    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Au-bout-du-suspense-la-neerlandaise-demi-vollering-sacree-championne-du-monde-pour-la-premiere-fois/1721503",
-    "https://lequipe.fr/Cyclisme-sur-route/Actualites/Demi-vollering-championne-du-monde-apres-une-course-renversante-je-n-ai-jamais-renonce/1721517",
-    "https://lequipe.fr/Cyclisme-sur-route/Article/Niewiadoma-le-court-reusser-qui-peut-empecher-l-intouchable-demi-vollering-d-etre-championne-du-monde/1721234",
-    "https://liberation.fr/sports/cyclisme/demi-vollering-championne-du-monde-de-cyclisme-au-terme-dune-saison-pleine-20260926_6A7TSQ2JGZD33NHPA2ITSAIW5A",
-    "https://nrc.nl/nieuws/2026/09/25/als-demi-vollering-het-wk-wint-betaalt-ze-haar-ploeggenoten-een-bonus-uit-eigen-zak-zo-graag-wil-ze-winnen-a4937250",
-    "https://nrc.nl/nieuws/2026/09/26/demi-vollering-grijpt-wereldtitel-wk-wielrennen-a4937609",
-    "https://rfi.fr/fr/sports/20260926-championnat-du-monde-de-cyclisme-la-n%C3%A9erlandaise-demi-vollering-couronn%C3%A9e",
-    "https://theguardian.com/sport/2026/sep/26/demi-vollering-seals-dramatic-womens-road-race-world-title-in-montreal"
-   ]
-  },
-  {
-   "id": "2026-09-27-alerte-02",
-   "date": "2026-09-27",
-   "publiee_a": "2026-09-26T21:17:52Z",
-   "titre": "Cassandre Beaugrand s'adjuge un deuxième titre mondial de triathlon en Espagne",
-   "texte": "La triathlète française Cassandre Beaugrand a gagné la finale des championnats du monde samedi à Pontevedra en Espagne. Elle décroche ainsi son deuxième sacre planétaire après son succès obtenu en 2024.",
-   "sources": [
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Triathlon/Actualites/Intouchable-cassandre-beaugrand-decroche-son-deuxieme-titre-mondial/1721500"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/triathlon/cassandre-beaugrand-sacree-championne-du-monde-de-triathlon-pour-la-deuxieme-fois-de-sa-carriere_8211443.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://video.lefigaro.fr/figaro/sports/athletisme/la-championne-olympique-de-triathlon-cassandre-beaugrand-remporte-un-deuxieme-titre-mondial-20260926"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/09/26/triathlon-un-deuxieme-titre-mondial-pour-cassandre-beaugrand-deux-ans-apres-son-triomphe-a-paris-2024_6783509_3242.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20260926-triathlon-cassandre-beaugrand-s-offre-un-2e-titre-mondial-au-terme-d-une-ann%C3%A9e-parfaite"
-    }
-   ],
-   "cluster": "11371c29a6db701e",
-   "urls": [
-    "https://france24.com/fr/sports/20260926-triathlon-cassandre-beaugrand-s-offre-un-2e-titre-mondial-au-terme-d-une-ann%C3%A9e-parfaite",
-    "https://franceinfo.fr/sports/triathlon/cassandre-beaugrand-sacree-championne-du-monde-de-triathlon-pour-la-deuxieme-fois-de-sa-carriere_8211443.html",
-    "https://lefigaro.fr/sports/athletisme/triathlon-la-francaise-cassandre-beaugrand-s-adjuge-un-deuxieme-titre-mondial-20260926",
-    "https://lemonde.fr/sport/article/2026/09/26/triathlon-un-deuxieme-titre-mondial-pour-cassandre-beaugrand-deux-ans-apres-son-triomphe-a-paris-2024_6783509_3242.html",
-    "https://lequipe.fr/Triathlon/Actualites/De-ses-detours-en-athletisme-a-la-victoire-lors-de-la-grande-finale-en-triathlon-cassandre-beaugrand-la-championne-qui-ne-sait-plus-perdre/1721552",
-    "https://lequipe.fr/Triathlon/Actualites/Intouchable-cassandre-beaugrand-decroche-son-deuxieme-titre-mondial/1721500",
-    "https://video.lefigaro.fr/figaro/sports/athletisme/la-championne-olympique-de-triathlon-cassandre-beaugrand-remporte-un-deuxieme-titre-mondial-20260926"
    ]
   }
  ]

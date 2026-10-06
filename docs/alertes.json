@@ -1,6 +1,128 @@
 {
- "maj": "2026-10-05T22:09:26Z",
+ "maj": "2026-10-06T22:47:56Z",
  "alertes": [
+  {
+   "id": "2026-10-07-alerte-01",
+   "date": "2026-10-07",
+   "publiee_a": "2026-10-06T22:43:28Z",
+   "titre": "La condamnée à mort Christa Pike est consciente dans le Tennessee",
+   "texte": "Les avocats de Christa Pike ont annoncé mardi que la détenue américaine a repris conscience et peut parler à l'hôpital. La femme de 50 ans a survécu à une tentative d'exécution par injection létale le 30 septembre dans le Tennessee.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tennessee-execution-survivor-christa-pike-is-conscious-and-speaking-lawyers-say"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/apres-son-execution-ratee-christa-pike-a-repris-connaissance-et-parle-selon-ses-avocats-20261006"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-06/christa-pike-recupera-la-conciencia-y-habla-seis-dias-despues-de-sobrevivir-a-su-ejecucion-en-tennessee.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8kgezxn54qko"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mujer-sobrevivio-ejecucion-eeuu-consciente-hablando-segun-20261006234415-nt.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261006-etats-unis-tennessee-execution-ratee-christa-pike-repris-connaissance-peut-parler"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake"
+    }
+   ],
+   "cluster": "a7a21ae03ecf8613",
+   "urls": [
+    "https://abc.es/internacional/estado-critico-conectada-respirador-medicos-luchan-desintoxicar-20261005104253-nt.html",
+    "https://abc.es/internacional/mujer-sobrevivio-ejecucion-eeuu-consciente-hablando-segun-20261006234415-nt.html",
+    "https://bbc.co.uk/news/articles/c8kgezxn54qko",
+    "https://boston.com/news/crime/2026/10/06/christa-pike-is-conscious-and-speaking-at-a-hospital-nearly-a-week-after-tennessees-failed-execution-her-attorneys-say",
+    "https://elpais.com/us/2026-10-06/christa-pike-recupera-la-conciencia-y-habla-seis-dias-despues-de-sobrevivir-a-su-ejecucion-en-tennessee.html",
+    "https://france24.com/fr/am%C3%A9riques/20261006-etats-unis-tennessee-execution-ratee-christa-pike-repris-connaissance-peut-parler",
+    "https://franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html",
+    "https://franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html",
+    "https://huntspost.co.uk/news/national/26613538.christa-pike-conscious-speaking-tennessee-failed-execution---lawyers",
+    "https://illawarramercury.com.au/story/9363967/tennessee-execution-survivor-conscious-and-speaking",
+    "https://lefigaro.fr/international/apres-son-execution-ratee-christa-pike-a-repris-connaissance-et-parle-selon-ses-avocats-20261006",
+    "https://lefigaro.fr/international/dans-un-etat-critique-apres-son-execution-ratee-christa-pike-est-toujours-hospitalisee-20261005",
+    "https://liberation.fr/international/amerique/aux-etats-unis-christa-pike-est-toujours-dans-un-etat-critique-apres-son-execution-ratee-20261004_4HQO7UE6GJEUTMZRHWD6R4626U",
+    "https://npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
+    "https://spiegel.de/ausland/tennessee-christa-pike-ist-nach-missglueckter-hinrichtung-wieder-bei-bewusstsein-a-881919ad-4489-48f1-ba78-88a33c1ff77f",
+    "https://straitstimes.com/world/united-states/tennessee-execution-survivor-christa-pike-is-conscious-and-speaking-lawyers-say",
+    "https://theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+    "https://www1.folha.uol.com.br/mundo/2026/10/mulher-que-sobreviveu-a-injecoes-letais-nos-eua-esta-consciente-e-falando-dizem-seus-advogados.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-07-alerte-02",
+   "date": "2026-10-07",
+   "publiee_a": "2026-10-06T22:47:56Z",
+   "titre": "Cristiano Ronaldo accuse Jorge Jesus de ne pas avoir tenu sa parole",
+   "texte": "Mardi 6 octobre 2026, Cristiano Ronaldo a publié un communiqué pour expliquer son départ de la sélection portugaise à Copenhague. Le footballeur accuse l'entraîneur Jorge Jesus de ne pas avoir tenu ses engagements envers lui.",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/futbol/2026-10-06/cristiano-acusa-a-jorge-jesus-de-mentir-e-incumplir-su-palabra.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Cristiano-ronaldo-explique-son-depart-precipite-du-rassemblement-du-portugal-le-selectionneur-n-a-pas-tenu-parole/1723859"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-acusa-jorge-jesus-de-quebrar-promessas-mas-deixa-em-aberto-retorno-a-selecao-de-portugal.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/cristiano-pide-perdon-portugueses-acusa-seleccionador-faltar-20261006215713-nt.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/le-selectionneur-n-a-pas-tenu-sa-parole-apres-son-depart-du-rassemblement-portugais-cristiano-ronaldo-sort-du-silence-20261006"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/cmd7qn48q13lo"
+    }
+   ],
+   "cluster": "488aeb7bcdd27e64",
+   "urls": [
+    "https://abc.es/deportes/cristiano-pide-perdon-portugueses-acusa-seleccionador-faltar-20261006215713-nt.html",
+    "https://aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus",
+    "https://aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus",
+    "https://aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise",
+    "https://bbc.co.uk/sport/football/articles/c3dxwry8vydvo",
+    "https://bbc.co.uk/sport/football/articles/cmd7qn48q13lo",
+    "https://bbc.co.uk/sport/football/videos/ckn8wjezz462o",
+    "https://elpais.com/deportes/futbol/2026-10-06/cristiano-acusa-a-jorge-jesus-de-mentir-e-incumplir-su-palabra.html",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/cristiano-ronaldo-le-pathetique-feuilleton-du-portugal-et-le-dernier-caprice-d-une-legende-20261005",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/le-selectionneur-n-a-pas-tenu-sa-parole-apres-son-depart-du-rassemblement-portugais-cristiano-ronaldo-sort-du-silence-20261006",
+    "https://lequipe.fr/Football/Actualites/-c-est-a-lui-de-decider-jorge-jesus-laisse-la-porte-ouverte-a-un-retour-de-cristiano-ronaldo-avec-le-portugal/1723466",
+    "https://lequipe.fr/Football/Actualites/Cristiano-ronaldo-explique-son-depart-precipite-du-rassemblement-du-portugal-le-selectionneur-n-a-pas-tenu-parole/1723859",
+    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261006-sele%C3%A7ao-la-fin-de-l-%C3%A8re-cristiano-ronaldo",
+    "https://theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises",
+    "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-acusa-jorge-jesus-de-quebrar-promessas-mas-deixa-em-aberto-retorno-a-selecao-de-portugal.shtml",
+    "https://www1.folha.uol.com.br/esporte/2026/10/se-cristiano-quiser-voltara-a-selecao-diz-jorge-jesus.shtml"
+   ]
+  },
   {
    "id": "2026-10-06-alerte-01",
    "date": "2026-10-06",
@@ -1223,159 +1345,6 @@
     "https://rfi.fr/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-une-premi%C3%A8re-pour-une-femme",
     "https://straitstimes.com/world/middle-east/moroccos-king-appoints-first-woman-prime-minister-following-election",
     "https://www1.folha.uol.com.br/mundo/2026/09/marrocos-nomeia-fatima-ezzahra-el-mansouri-como-a-1a-mulher-primeira-ministra.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-29-alerte-02",
-   "date": "2026-09-29",
-   "publiee_a": "2026-09-29T09:58:29Z",
-   "titre": "La Fifa accuse l'UEFA de désinformation pour influencer son élection",
-   "texte": "Mardi 29 septembre 2026, la Fifa a reproché à l'UEFA de mener une campagne de désinformation et de harcèlement devant un tribunal américain. L'instance dirigeante du football mondial réclame le rejet d'une demande de pièces liée à une proposition d'investissement.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/cqn0jdx9j01no"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/La-fifa-accuse-l-uefa-de-campagne-de-desinformation-et-de-chercher-a-influencer-la-prochaine-election-a-sa-presidence/1722027"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/la-fifa-accuse-luefa-de-campagne-de-desinformation-sur-son-projet-avorte-douverture-aux-capitaux-prives-20260929_HGO3SCAY5ZAFTBSZRVFGPGBHRA"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/giovanni-infantino/l-uefa-agit-dans-le-but-de-harceler-la-fifa-accuse-l-instance-europeenne-de-mener-une-campagne-de-desinformation-sur-son-projet-avorte-d-ouverture-aux-capitaux-prives_8214551.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/crise-a-la-fifa-campagne-de-desinformation-l-instance-dirigeante-accuse-l-uefa-sur-le-projet-avorte-d-ouverture-aux-capitaux-prives-de-gianni-infantino-20260929"
-    }
-   ],
-   "cluster": "1a56d2ddd6c715ca",
-   "urls": [
-    "https://bbc.co.uk/sport/football/articles/cqn0jdx9j01no",
-    "https://franceinfo.fr/sports/foot/giovanni-infantino/l-uefa-agit-dans-le-but-de-harceler-la-fifa-accuse-l-instance-europeenne-de-mener-une-campagne-de-desinformation-sur-son-projet-avorte-d-ouverture-aux-capitaux-prives_8214551.html",
-    "https://lefigaro.fr/sports/football/crise-a-la-fifa-campagne-de-desinformation-l-instance-dirigeante-accuse-l-uefa-sur-le-projet-avorte-d-ouverture-aux-capitaux-prives-de-gianni-infantino-20260929",
-    "https://lequipe.fr/Football/Actualites/La-fifa-accuse-l-uefa-de-campagne-de-desinformation-et-de-chercher-a-influencer-la-prochaine-election-a-sa-presidence/1722027",
-    "https://liberation.fr/sports/football/la-fifa-accuse-luefa-de-campagne-de-desinformation-sur-son-projet-avorte-douverture-aux-capitaux-prives-20260929_HGO3SCAY5ZAFTBSZRVFGPGBHRA",
-    "https://theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election"
-   ]
-  },
-  {
-   "id": "2026-09-29-alerte-03",
-   "date": "2026-09-29",
-   "publiee_a": "2026-09-29T10:05:24Z",
-   "titre": "La dette publique française atteint 119 % du PIB au deuxième trimestre",
-   "texte": "L'Insee a annoncé mardi 29 septembre que l'endettement public de la France s'élève à 3 595,5 milliards d'euros. Ce montant représente 119 % du produit intérieur brut, la valeur totale des biens et services produits.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/politique/article/2026/09/29/la-dette-publique-s-envole-a-119-du-pib-du-jamais-vu-depuis-1946_6785566_823448.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/economie/france-la-dette-publique-a-atteint-119-du-pib-au-deuxieme-trimestre-selon-linsee-20260929_XCULYSFNR5EZNF6ODTPJCPFQMQ"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/economie/la-dette-publique-francaise-atteint-119-du-pib-au-deuxieme-trimestre-20260929"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/conjoncture/l-explosion-de-la-dette-publique-francaise-expliquee-en-quatre-infographies-20260929"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/economie/crise/crise-de-la-dette/covid-crise-energetique-choix-fiscaux-taux-d-interet-comment-expliquer-l-envolee-de-la-dette-francaise-ces-dernieres-annees_8204339.html"
-    },
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.eu/article/french-debt-reaches-119-of-gdp-hitting-new-record"
-    }
-   ],
-   "cluster": "0e9736686c68505c",
-   "urls": [
-    "https://franceinfo.fr/economie/crise/crise-de-la-dette/covid-crise-energetique-choix-fiscaux-taux-d-interet-comment-expliquer-l-envolee-de-la-dette-francaise-ces-dernieres-annees_8204339.html",
-    "https://franceinfo.fr/economie/crise/crise-de-la-dette/la-dette-publique-de-la-france-a-atteint-3-595-5-milliards-d-euros-au-deuxieme-trimestre-soit-119-du-pib-un-record_8214491.html",
-    "https://la-croix.com/economie/la-dette-publique-francaise-atteint-119-du-pib-au-deuxieme-trimestre-20260929",
-    "https://lefigaro.fr/conjoncture/3595-5-milliards-d-euros-la-dette-de-la-france-a-continue-de-se-creuser-au-deuxieme-trimestre-a-119-du-pib-20260929",
-    "https://lefigaro.fr/conjoncture/l-explosion-de-la-dette-publique-francaise-expliquee-en-quatre-infographies-20260929",
-    "https://lemonde.fr/politique/article/2026/09/29/la-dette-publique-s-envole-a-119-du-pib-du-jamais-vu-depuis-1946_6785566_823448.html",
-    "https://liberation.fr/economie/france-la-dette-publique-a-atteint-119-du-pib-au-deuxieme-trimestre-selon-linsee-20260929_XCULYSFNR5EZNF6ODTPJCPFQMQ",
-    "https://politico.eu/article/french-debt-reaches-119-of-gdp-hitting-new-record"
-   ]
-  },
-  {
-   "id": "2026-09-29-alerte-01",
-   "date": "2026-09-29",
-   "publiee_a": "2026-09-28T21:20:16Z",
-   "titre": "Jordan Bardella dément des écrits antisémites et poursuit Mediapart",
-   "texte": "Le président du Rassemblement national réfute les révélations publiées lundi 28 septembre par Mediapart, qui lui prête d'anciens messages hostiles aux Juifs. En France, le responsable politique annonce le dépôt d'une plainte pour diffamation contre le site d'information.",
-   "sources": [
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/france/20260928-france-mediapart-rapporte-des-%C3%A9crits-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-en-2013-le-pr%C3%A9sident-du-rn-d%C3%A9ment"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/politique/article/2026/09/28/propos-antisemites-attribues-a-jordan-bardella-le-crif-denonce-une-illustration-des-limites-de-la-dediabolisation-du-rn_6785088_823448.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/frankreich-antisemitismusaffaere-um-jordan-bardella-belastet-marine-le-pen-a-796c3024-11f3-4aa7-ab06-0589dcf6d89e"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-09-28/una-investigacion-acusa-al-ultraderechista-bardella-de-escribir-mensajes-antisemitas-entre-los-17-y-los-18-anos.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/politique/elections/soupcons-dantisemitisme-jordan-bardella-rattrape-par-ses-propos-20260928_BTFXB4TKPBHQXG4PS5AEGJXQHE"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/societe/antisemitisme/propos-antisemites-attribues-a-jordan-bardella-le-president-du-rn-denonce-des-faux_8214026.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/elections/senatoriales/en-direct-senatoriales-2026-apres-l-entree-en-force-du-rn-jordan-bardella-veut-tendre-la-main-aux-patriotes-sinceres-de-lr-20260928"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations"
-    }
-   ],
-   "cluster": "ddb20c9ef1d2813c",
-   "urls": [
-    "https://aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations",
-    "https://elpais.com/internacional/2026-09-28/una-investigacion-acusa-al-ultraderechista-bardella-de-escribir-mensajes-antisemitas-entre-los-17-y-los-18-anos.html",
-    "https://france24.com/fr/france/20260928-mediapart-rapporte-des-propos-antis%C3%A9mites-de-bardella-qui-d%C3%A9nonce-des-faux-grossiers",
-    "https://franceinfo.fr/politique/front-national/antisemitisme-obsessionnel-ou-barbouzerie-six-questions-sur-les-propos-attribues-a-jordan-bardella-par-mediapart_8213561.html",
-    "https://franceinfo.fr/politique/jordan-bardella/des-propos-antisemites-attribues-a-jordan-bardella-par-mediapart_8214008.html",
-    "https://franceinfo.fr/politique/jordan-bardella/jordan-bardella-conteste-des-propos-parfaitement-delirants-apres-les-accusations-d-antisemitisme-portees-par-mediapart-et-annonce-porter-plainte-pour-diffamation_8213930.html",
-    "https://franceinfo.fr/politique/jordan-bardella/mediapart-rapporte-des-ecrits-antisemites-de-jordan-bardella-datant-de-2013-le-president-du-rn-dement-aupres-du-media_8213504.html",
-    "https://franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-ca-n-aurait-pas-pu-fuiter-depuis-15-ans-interroge-philippe-ballard-porte-parole-du-rn_8213984.html",
-    "https://franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-ces-ecrits-sont-bien-signes-de-la-main-de-bardella-affirme-l-une-des-co-auteurs-de-l-enquete-de-mediapart_8213873.html",
-    "https://franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-le-rn-continue-d-etre-le-parti-refuge-des-identitaires-denonce-yonathan-arfi-president-du-crif_8213951.html",
-    "https://franceinfo.fr/societe/antisemitisme/accuse-de-propos-antisemites-j-bardella-denonce-des-faux_8213975.html",
-    "https://franceinfo.fr/societe/antisemitisme/propos-antisemites-attribues-a-jordan-bardella-le-president-du-rn-denonce-des-faux_8214026.html",
-    "https://la-croix.com/politique/jordan-bardella-des-ecrits-antisemites-exhumes-par-mediapart-le-president-du-rn-dement-20260928",
-    "https://lefigaro.fr/elections/senatoriales/en-direct-senatoriales-2026-apres-l-entree-en-force-du-rn-jordan-bardella-veut-tendre-la-main-aux-patriotes-sinceres-de-lr-20260928",
-    "https://lemonde.fr/politique/article/2026/09/28/mediapart-rapporte-des-propos-antisemites-de-jordan-bardella-qui-denonce-des-faux-grossiers_6785064_823448.html",
-    "https://lemonde.fr/politique/article/2026/09/28/propos-antisemites-attribues-a-jordan-bardella-le-crif-denonce-une-illustration-des-limites-de-la-dediabolisation-du-rn_6785088_823448.html",
-    "https://lemonde.fr/politique/video/2026/09/28/propos-antisemites-de-jordan-bardella-marine-le-pen-reagit-a-l-enquete-de-mediapart_6785086_823448.html",
-    "https://liberation.fr/politique/elections/soupcons-dantisemitisme-jordan-bardella-rattrape-par-ses-propos-20260928_BTFXB4TKPBHQXG4PS5AEGJXQHE",
-    "https://liberation.fr/politique/jordan-bardella-accuse-davoir-tenu-de-nombreux-propos-antisemites-a-ses-debuts-au-fn-20260928_7EH6NTFWJRCH7IV5LWJJ4GQ6IU",
-    "https://politico.eu/article/french-far-rights-bardella-refutes-reports-of-past-antisemitic-comments",
-    "https://rfi.fr/fr/france/20260928-france-mediapart-rapporte-des-%C3%A9crits-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-en-2013-le-pr%C3%A9sident-du-rn-d%C3%A9ment",
-    "https://spiegel.de/ausland/frankreich-antisemitismusaffaere-um-jordan-bardella-belastet-marine-le-pen-a-796c3024-11f3-4aa7-ab06-0589dcf6d89e",
-    "https://straitstimes.com/world/europe/french-far-right-leader-bardella-denies-media-claim-he-made-antisemitic-remarks"
    ]
   }
  ]

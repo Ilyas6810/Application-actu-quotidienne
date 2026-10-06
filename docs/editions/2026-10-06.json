@@ -1,0 +1,344 @@
+{
+ "date": "2026-10-06",
+ "genere_a": "2026-10-06T07:05:32Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-06-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Flavio Bolsonaro devance Luiz Inacio Lula da Silva au Brésil",
+   "chapeau": "Le sénateur Flavio Bolsonaro a pris la tête du scrutin présidentiel brésilien face au président Luiz Inacio Lula da Silva lors du vote du dimanche 4 octobre 2026. Les deux prétendants préparent désormais leur confrontation électorale prévue le dimanche 25 octobre 2026.",
+   "corps": "Lors du premier tour du dimanche 4 octobre 2026, Flavio Bolsonaro a devancé le chef de l'Etat sortant.\n\nSelon les chiffres rapportés le 6 octobre 2026 à 00:06 par The Guardian, le candidat du Parti libéral a réuni 56,1 millions de suffrages, soit 47,03 % des voix. Le quotidien britannique précise que Luiz Inacio Lula da Silva a rassemblé 53,8 millions d'électeurs, ce qui équivaut à 45,16 % des votes. D'après The Hindu le 6 octobre 2026 à 07:15, l'écart global atteint environ 1,8 point de pourcentage, soit 2,2 millions de voix d'avance pour le parlementaire de 45 ans face au président de 80 ans. Les médias France 24 le 5 octobre 2026 à 22:36, ABC le 5 octobre 2026 à 23:12 et franceinfo le 6 octobre 2026 à 10:00 indiquent pour leur part un score arrondi à 47 % contre 45 % en faveur de Flavio Bolsonaro.\n\nFlavio Bolsonaro a déclaré être très heureux de cette issue avec près de 56 millions de voix, selon les propos rapportés par le journal ABC le 5 octobre 2026 à 23:12. Ce sénateur défend la fermeté face à la criminalité organisée, d'après le quotidien espagnol. Le média public franceinfo rappelle le 6 octobre 2026 à 10:00 que le candidat a formulé l'engagement d'obtenir la libération de son père Jair Bolsonaro. Ce dernier est actuellement emprisonné à la suite d'une condamnation pour tentative de coup d'Etat, mentionnent les articles du Financial Times du 5 octobre 2026 à 16:11 et de franceinfo du 6 octobre 2026 à 10:00.\n\nLes marchés financiers ont réagi dès le lendemain du vote. D'après le Financial Times le 5 octobre 2026 à 16:11, la monnaie nationale a enregistré une appréciation sur les places de change. Le journal ABC indique quant à lui le 5 octobre 2026 à 23:12 que la bourse brésilienne a affiché une progression de près de 10 % au cours des échanges matinaux consécutifs au scrutin.\n\nLe résultat a modifié les plans de l'exécutif sortant. D'après l'agence Bloomberg le 5 octobre 2026 à 23:41, le président Luiz Inacio Lula da Silva envisageait un succès dès ce vote initial. Le chef de l'Etat sortant cherche désormais à modifier sa stratégie pour mener sa campagne en vue du prochain tour, indique l'agence de presse américaine. Les partisans du président ont accusé le coup face à la progression du camp opposé, note le quotidien The Guardian le 6 octobre 2026 à 00:06. Le quotidien El Pais relève le 5 octobre 2026 à 23:41 que les chiffres du scrutin ont excédé les prévisions formulées par les enquêtes d'opinion antérieures au vote.\n\nLes deux candidats mobilisent désormais leurs équipes pour l'échéance fixée au 25 octobre 2026, rappellent France 24, Libération et le Corriere della Sera. D'après France 24 le 5 octobre 2026 à 22:36, les deux camps ciblent les réserves de voix chez les citoyens abstentionnistes ainsi que les reports venant des autres formations politiques. Les paris et les prévisions placent le sénateur en position favorable pour cette confrontation finale, ajoutent Libération le 5 octobre 2026 à 22:46 et El Pais le 5 octobre 2026 à 23:41.\n\nLes détails complets concernant les scores des autres candidats du premier tour ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/presidentielle-au-bresil-la-surprenante-ascension-de-flavio-bolsonaro-un-enfant-fidele-20261005"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261005-br%C3%A9sil-lula-peut-il-encore-gagner"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/avec-flavio-bolsonaro-le-bresil-amplifie-le-tsunami-dextreme-droite-en-amerique-latine-20261005_KDTCYIBAEFCI5JPPGBJOXRZXUQ"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mano-dura-crimen-organizado-voto-protesta-lula-20261005201903-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-05/que-decidira-brasil-en-la-segunda-vuelta-la-victoria-de-flavio-bolsonaro-y-la-caida-de-lula-en-graficos.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-05/brazil-election-2026-bolsonaro-s-lead-has-lula-looking-for-campaign-reset"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory"
+    }
+   ],
+   "premiere_parution": "2026-10-03T07:15:00Z",
+   "suite_de": "2026-10-05-monde-001",
+   "mots": 595,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-06-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le Premier ministre espagnol convoque des élections anticipées le 29 novembre",
+   "chapeau": "Le Premier ministre espagnol Pedro Sánchez a annoncé le lundi 5 octobre 2026 la convocation d'élections législatives anticipées pour le 29 novembre 2026. Cette décision intervient après le rejet par le Parlement de mesures d'urgence destinées à réguler le marché du logement en Espagne.",
+   "corps": "Le gouvernement de coalition minoritaire dirigé par Pedro Sánchez a subi un échec législatif trois jours avant cette annonce. Les partis de droite ont rejeté deux décrets-lois d'urgence présentés par l'exécutif de gauche. Ces textes prévoyaient de limiter les expulsions de locataires, de bloquer la hausse des loyers et d'interdire les acquisitions immobilières par des fonds vautours, qui sont des sociétés achetant des biens pour spéculer.\n\nLe logement constitue la préoccupation principale des citoyens espagnols depuis trois ans, selon des données publiées le 6 octobre 2026. La cherté de l'immobilier suscite une colère croissante au sein de la population. Plusieurs manifestations se sont déroulées à travers le pays pour dénoncer la crise du logement et l'échec des réformes proposées.\n\nPedro Sánchez occupe le poste de Premier ministre depuis l'année 2018. Son gouvernement de coalition minoritaire rencontre des difficultés régulières pour faire adopter ses projets de loi au Parlement. Cette situation engendre des blocages politiques et des tensions constantes au sein des institutions espagnoles.\n\nLe Premier ministre cherche à utiliser le débat sur le logement pour mobiliser les électeurs et se maintenir au pouvoir. Des analystes politiques ont indiqué le 5 octobre 2026 que cette convocation d'élections anticipées constitue une stratégie réfléchie pour sortir de l'impasse législative. Le scrutin permettra aux électeurs de trancher directement sur les orientations politiques du pays.\n\nCe scrutin présente également des enjeux importants à l'échelle de l'Union européenne. Une défaite de la coalition de gauche marquerait la fin de l'un des derniers gouvernements de cette sensibilité en Europe, alors que les partis d'extrême droite progressent dans la région. Les résultats du vote pourraient perturber les négociations sur le budget à long terme de l'Union européenne et fragiliser la majorité de la présidente de la Commission européenne, Ursula von der Leyen, au Parlement européen.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-10-05/ty-article/spains-prime-minister-calls-snap-election-as-left-wing-government-faces-ouster/000001a1-0aea-dfcd-a1a5-aaeb0e080000"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/what-know-about-spains-november-snap-election-2026-10-05"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/opinion/2026-10-05/spains-snap-elections-let-the-voters-have-their-say.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/spains-prime-minister-calls-early-election-after-housing-crisis-defeat/article71546861.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7c6bfe8f-eae2-47f7-98e5-19e714195c58?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-05/spain-s-sanchez-calls-for-snap-election-video"
+    }
+   ],
+   "premiere_parution": "2026-10-03T12:26:30Z",
+   "suite_de": null,
+   "mots": 341,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-06-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une femme arrêtée aux États-Unis pour espionnage du fils du président taïwanais",
+   "chapeau": "Le FBI a arrêté Wanying Zhang le 4 octobre 2026 à l'aéroport de Los Angeles. La justice américaine accuse cette résidente de Californie d'avoir espionné la famille du président taïwanais pour le compte de la Chine.",
+   "corps": "La police fédérale américaine a interpellé Wanying Zhang, aussi connue sous le nom de Heather, alors qu'elle s'apprêtait à prendre un vol à destination de Shanghai. Cette agente immobilière âgée de 34 ans résidait en Californie. Les autorités fédérales l'accusent de transmettre des informations confidentielles à des fonctionnaires chinois.\n\nSelon le département de la Justice des États-Unis, la suspecte a voyagé à Seattle en 2025 sur instruction d'agents de la République populaire de Chine. Durant ce déplacement, elle a collecté des données sur Lai Ting Yu, le fils du président taïwanais Lai Ching-te. Wanying Zhang a pris des photos, des vidéos et relevé des numéros de plaques d'immatriculation du fils du dirigeant et de ses proches résidant aux États-Unis. Elle a ensuite envoyé ces documents à des responsables à Pékin.\n\nLe gouvernement de Taïwan a qualifié ces actes de répression transnationale. Pékin considère Taïwan comme une de ses provinces et qualifie le président Lai Ching-te de séparatiste. La suspecte doit comparaître devant un tribunal fédéral américain.\n\nLes sources ne précisent pas la date de la fin du procès ni la peine maximale encourue par l'accusée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/une-femme-soupconnee-despionner-la-famille-du-president-taiwanais-pour-le-compte-de-la-chine-arretee-par-le-fbi-20261005_OIABT4UFKJBMZFGYXQW3ZSNCIM"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/fbi-detiene-mujer-china-acusa-espiar-pekin-20261005082603-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261005-%C3%A9tats-unis-une-chinoise-arr%C3%AAt%C3%A9e-%C3%A0-los-angeles-accus%C3%A9e-de-surveiller-la-famille-du-pr%C3%A9sident-ta%C3%AFwanais"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-frau-soll-fuer-china-sohn-von-taiwans-praesident-ausspioniert-haben-a-7ddee592-f6aa-4991-961a-71d2d160d35e"
+    }
+   ],
+   "premiere_parution": "2026-10-04T12:00:00Z",
+   "suite_de": null,
+   "mots": 221,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-06-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Premier ministre espagnol Pedro Sanchez convoque des elections legislative anticipees",
+   "chapeau": "Le Premier ministre espagnol Pedro Sanchez a annonce lundi 5 octobre 2026 la dissolution du Parlement et la convocation d'elections au 29 novembre 2026. Cette decision intervient a la suite du rejet de decrets gouvernementaux sur le logement et de rassemblements dans le pays.",
+   "corps": "Le chef du gouvernement espagnol a pris cette decision le lundi 5 octobre 2026 depuis le palais de la Moncloaa, selon les informations publiees par ABC le 6 octobre 2026. Le scrutin est fixe au dimanche 29 novembre 2026 d'apres Folha de S.Paulo le 5 octobre 2026.\n\nCette annonce succede au rejet de decrets sur la politique du logement au Parlement, ainsi qu'a des manifestations contre la crise du logement qui ont rassemble des dizaines de milliers de personnes durant le week-end du 3 et 4 octobre 2026, selon Folha de S.Paulo le 5 octobre 2026.\n\n## Ce que disent les sources\n\nCertaines sources comme le Corriere della Sera affirment le 5 octobre 2026 que le Premier ministre Pedro Sanchez a annonce sa demission, tandis que les autres publications rapportent qu'il a dissous le Parlement pour convoquer des elections anticipees sans mentionner de demission.\n\nL'article ne precise pas le detail des votes au Parlement concernant les decrets rejetes.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/video-verticali/il-premier-spagnolo-pedro-sanchez-si-dimette-e-indice-nuove-elezioni-il-video-dell-annuncio/ece14540-8482-4527-a716-83f391892xlk"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/protestos-por-moradia-fazem-sanchez-convocar-eleicoes-na-espanha.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/espana/encuestas-elecciones-generales-29n-resultados-ganador-segun-20261006053000-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/spanien-pedro-sanchez-kuendigt-nach-abstimmungsniederlage-neuwahlen-an-a-120740d7-5959-4ed5-b5e6-4857ec59857b"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/05/spaanse-premier-sanchez-kondigt-vervroegde-verkiezingen-aan-a4938199"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/mundo/articles/c58jz72rk3rmo"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/des-legislatives-anticipees-en-espagne-ultime-pari-de-pedro-sanchez-20261005_EPYCGEGSGJFC7L5FJ7O55I37QQ"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/en-espagne-pedro-sanchez-joue-son-va-tout-et-convoque-des-elections-anticipees-20261005"
+    }
+   ],
+   "premiere_parution": "2026-10-03T07:10:01Z",
+   "suite_de": null,
+   "mots": 203,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-06-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une laborantine meurt en Sibérie et provoque une mise en quarantaine",
+   "chapeau": "Une employée d'un institut de recherche sur la peste est décédée la semaine dernière en Sibérie après avoir contracté une pneumonie d'origine inconnue. Les autorités russes ont placé des dizaines de personnes en quarantaine et surveillent près de deux cents contacts dans la région d'Irkoutsk.",
+   "corps": "La victime, identifiée sous le nom de Darya Shipilova, travaillait dans un laboratoire spécialisé. Des rapports non confirmés évoquent un accident de laboratoire à l'origine de sa contamination. Suite à ce décès, la responsable de l'organisme russe de surveillance de la santé s'est rendue sur place. Plusieurs hôpitaux de l'est de la Russie appliquent désormais des mesures de quarantaine.\n\nLa peste pulmonaire est une infection bactérienne qui s'attaque aux poumons. Cette maladie s'avère très contagieuse et peut être mortelle sans traitement rapide. Entre 2019 et 2025, l'Organisation mondiale de la santé a enregistré 3 847 cas humains et 423 décès liés à la peste dans dix pays, selon des données rapportées le 6 octobre 2026.\n\nLe gouvernement des États-Unis suit la situation avec attention. Le secrétaire d'État américain, Marco Rubio, a déclaré le 5 octobre 2026 que ce cas méritait de la vigilance sans pour autant susciter d'alarme. Le président américain Donald Trump a également affirmé le même jour que les États-Unis étaient prêts à aider la Russie face à cette situation.\n\n## Ce que disent les sources\n\nLes autorités russes nient tout lien entre le décès de l'employée et une infection par la peste. Elles affirment que la victime a succombé à une pneumonie dont la cause reste indéterminée. À l'inverse, des rapports locaux et des observateurs extérieurs suspectent un cas de peste pulmonaire contracté au sein de l'institut de recherche.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case"
+    },
+    {
+     "nom": "lancasteronline.com",
+     "url": "https://lancasteronline.com/news/health/russia-reports-a-worker-at-a-siberian-plague-institute-got-pneumonia-from-an-unknown-cause/article_b8afa54b-d4ba-5cdd-86fa-9b12c7ada6c2.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/0a45595f-4889-4436-847f-1bddce813009?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/dozens-quarantined-in-siberia-after-plague-institute-lab-worker-dies"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/health/woman-dies-of-plague-in-siberia-regional-official/article71546206.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-04T12:00:00Z",
+   "suite_de": null,
+   "mots": 276,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-06-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Retrait des bombardiers américains au Royaume-Uni après une enquête antiterroriste",
+   "chapeau": "L'armée de l'air des États-Unis a retiré ses bombardiers stratégiques de la base britannique de RAF Fairford au cours du week-end des 3 et 4 octobre 2026. Cette décision fait suite à une enquête antiterroriste consécutive à l'arrestation de six personnes fin septembre.",
+   "corps": "L'armée américaine a ordonné le rapatriement de ses appareils B-1 stationnés sur la base aérienne de RAF Fairford, située dans le sud-ouest de l'Angleterre, selon les informations confirmées par le Pentagone dimanche 5 octobre 2026 (source : Haaretz, 05/10/2026 à 21:48). Cette mesure intervient après l'interpellation de six suspects à la fin du mois de septembre (source : Franceinfo, 05/10/2026 à 09:56). Parmi ces interpellations figurent cinq hommes arrêtés à bord de trois camionnettes à proximité de l'installation militaire, ainsi qu'un sixième individu de nationalité britannico-iranienne (source : The Guardian, 05/10/2026 à 19:45). Toutes ces personnes ont été remises en liberté sous caution, ce qui a suscité des critiques de la part du Pentagone (source : The Guardian, 05/10/2026 à 19:45).\n\n## Ce que disent les sources\n\nLe président américain Donald Trump a déclaré que le déplacement des bombardiers était motivé par des menaces d'attaques terroristes fraîches, contredisant ainsi son chef de la diplomatie qui avait qualifié ce mouvement de rotation régulière, d'après Bloomberg du 5 octobre 2026 à 23:48. Le Premier ministre britannique Andy Burnham et son porte-parole ont affirmé que la base militaire demeurait sûre, tout en suspectant une implication de l'Iran dans ce projet d'attentat présumé, selon des propos rapportés par Franceinfo le 5 octobre 2026 à 09:56 et The Straits Times le 5 octobre 2026 à 21:38. De son côté, le gouvernement iranien a catégoriquement nié tout lien avec ce dossier, d'après Le Figaro du 5 octobre 2026 à 09:38.\n\nCertains détails concernant la nature exacte des menaces et l'implication précise des suspects demeurent non élucidés dans les rapports fournis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/incident-pres-d-une-base-americaine-au-royaume-uni-washington-retire-ses-bombardiers-20261005"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/royaume-uni/les-etats-unis-retirent-tous-leurs-bombardiers-de-la-base-britannique-de-fairford-apres-la-recente-alerte-qui-a-conduit-a-l-ouverture-d-une-enquete-antiterroriste_8222920.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-us-moved-bombers-from-british-base-after-threats"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/iran/2026-10-05/ty-article/report-u-s-withdraws-b-1-bombers-from-u-k-base-after-suspected-terror-plot/000001a1-0b44-d441-aff5-1b4e0ac80000"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-05/trump-says-terror-threats-forced-b-1-bombers-out-of-uk-base"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261005-washington-rapatrie-ses-bombardiers-d%C3%A9ploy%C3%A9s-dans-une-base-anglaise-sur-fond-de-menace-d-attaque-iranienne"
+    }
+   ],
+   "premiere_parution": "2026-10-04T00:00:00Z",
+   "suite_de": "2026-10-05-geopolitique-001",
+   "mots": 318,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-06-monde-001",
+  "2026-10-06-geopolitique-001",
+  "2026-10-06-monde-002",
+  "2026-10-06-monde-003",
+  "2026-10-06-monde-004",
+  "2026-10-06-monde-005"
+ ]
+}

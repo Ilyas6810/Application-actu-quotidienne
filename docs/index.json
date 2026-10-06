@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-05T06:26:12Z",
- "derniere": "2026-10-05",
+ "maj": "2026-10-06T07:05:32Z",
+ "derniere": "2026-10-06",
  "editions": [
+  {
+   "date": "2026-10-06",
+   "genere_a": "2026-10-06T07:05:32Z",
+   "articles": 6,
+   "une": [
+    "Flavio Bolsonaro devance Luiz Inacio Lula da Silva au Brésil",
+    "Retrait des bombardiers américains au Royaume-Uni après une enquête antiterroriste",
+    "Le Premier ministre espagnol convoque des élections anticipées le 29 novembre"
+   ],
+   "octets": 24165
+  },
   {
    "date": "2026-10-05",
    "genere_a": "2026-10-05T06:26:12Z",

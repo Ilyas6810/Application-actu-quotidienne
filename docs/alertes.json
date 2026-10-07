@@ -1,6 +1,161 @@
 {
- "maj": "2026-10-07T06:07:26Z",
+ "maj": "2026-10-07T20:44:35Z",
  "alertes": [
+  {
+   "id": "2026-10-08-alerte-01",
+   "date": "2026-10-08",
+   "publiee_a": "2026-10-07T20:42:54Z",
+   "titre": "Espagne : décès de la retraitée expulsée devenue symbole de la contestation",
+   "texte": "La retraitée espagnole Maricarmen Abascal est morte mercredi 7 octobre à Madrid à l'âge de 87 ans, a annoncé un syndicat de locataires. Son expulsion de son domicile le 23 septembre avait déclenché d'importantes manifestations citoyennes à travers le pays.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/maricarmen-abascal-la-retraitee-espagnole-expulsee-de-son-logement-a-l-origine-d-un-immense-mouvement-de-protestation-est-morte_8227408.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/espagne-maricarmen-abscal-la-retraitee-expulsee-a-lorigine-du-mouvement-de-protestation-sur-le-logement-est-morte-20261007_6UK4KXVRHRHOXMCOB27BYRSAIQ"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6e3x21ev9wwo"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_07/spagna-morta-maricarmen-abascal-la-donna-che-innesco-la-protesta-per-la-casa-af8ac4e0-e217-4fb8-89d0-3a6a53294xlk.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/07/crise-du-logement-en-espagne-l-octogenaire-expulsee-a-l-origine-du-mouvement-de-protestation-est-morte_6789653_3210.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/espana/muere-maricarmen-anciana-anos-desahuciada-casa-madrid-20261007202828-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/espana/2026-10-07/la-lucha-de-maricarmen-en-imagenes.html"
+    }
+   ],
+   "cluster": "0122f9884395e3ee",
+   "urls": [
+    "https://abc.es/espana/muere-maricarmen-anciana-anos-desahuciada-casa-madrid-20261007202828-nt.html",
+    "https://aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election",
+    "https://bbc.co.uk/news/articles/c6e3x21ev9wwo",
+    "https://corriere.it/esteri/26_ottobre_07/spagna-morta-maricarmen-abascal-la-donna-che-innesco-la-protesta-per-la-casa-af8ac4e0-e217-4fb8-89d0-3a6a53294xlk.shtml",
+    "https://dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/espana/2026-10-07/la-lucha-de-maricarmen-en-imagenes.html",
+    "https://elpais.com/espana/2026-10-07/muere-maricarmen-la-mujer-que-encendio-la-lucha-contra-los-desahucios-en-espana.html",
+    "https://elpais.com/espana/madrid/2026-10-07/cronologia-del-caso-maricarmen-de-cuatro-intentos-de-desahucio-a-un-movimiento-nacional-por-la-vivienda.html",
+    "https://elpais.com/espana/madrid/2026-10-07/maricarmen-murio-horas-antes-de-firmar-su-contrato-de-alquiler-para-ocho-anos-y-recuperar-su-casa.html",
+    "https://elpais.com/videos/2026-10-07/las-imagenes-de-la-vida-de-maricarmen-y-su-lucha-por-evitar-los-desahucios.html",
+    "https://english.elpais.com/spain/2026-10-07/maricarmen-the-woman-who-became-a-symbol-of-spains-housing-crisis-dies-at-87.html",
+    "https://france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte",
+    "https://franceinfo.fr/monde/espagne/maricarmen-abascal-la-retraitee-espagnole-expulsee-de-son-logement-a-l-origine-d-un-immense-mouvement-de-protestation-est-morte_8227408.html",
+    "https://lemonde.fr/international/article/2026/10/07/crise-du-logement-en-espagne-l-octogenaire-expulsee-a-l-origine-du-mouvement-de-protestation-est-morte_6789653_3210.html",
+    "https://liberation.fr/international/europe/espagne-maricarmen-abscal-la-retraitee-expulsee-a-lorigine-du-mouvement-de-protestation-sur-le-logement-est-morte-20261007_6UK4KXVRHRHOXMCOB27BYRSAIQ",
+    "https://spiegel.de/ausland/maricarmen-spanierin-deren-wohnung-zwangsgeraeumt-wurde-ist-tot-a-48477cc5-ef2d-40b8-9d5b-b23d6d3e7b56",
+    "https://straitstimes.com/world/europe/evicted-spanish-octogenarian-maricarmen-abascal-heart-of-spains-housing-protests-has-died",
+    "https://www1.folha.uol.com.br/mundo/2026/10/morre-maricarmen-abascal-idosa-de-87-anos-que-foi-despejada-na-espanha.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-08-alerte-02",
+   "date": "2026-10-08",
+   "publiee_a": "2026-10-07T20:44:13Z",
+   "titre": "Le golfeur Jon Rahm quitte la ligue professionnelle LIV Golf",
+   "texte": "Le joueur espagnol Jon Rahm a décidé de quitter la ligue LIV Golf le mercredi 7 octobre 2026. Son avocat a qualifié d'inacceptables les conditions proposées pour la nouvelle version du circuit lors d'une audience de faillite.",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/2026-10-07/nuevo-terremoto-en-el-golf-jon-rahm-no-seguira-en-liv.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Golf/Actualites/Jon-rahm-va-quitter-le-liv-golf-apres-trois-titres-de-champion-en-trois-saisons/1724072"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/jon-rahm-desvincula-liv-golf-20261007194227-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-07/liv-golf-loses-jon-rahm-in-blow-to-league-s-bankruptcy-exit-plan"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/2026/oct/07/former-world-no-1-jon-rahm-quits-liv-ahead-of-breakway-series-relaunch"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/golf/articles/c65yngj00477o"
+    }
+   ],
+   "cluster": "56ef53045eea0fef",
+   "urls": [
+    "https://abc.es/deportes/jon-rahm-desvincula-liv-golf-20261007194227-nt.html",
+    "https://bbc.co.uk/sport/golf/articles/c65yngj00477o",
+    "https://bloomberg.com/news/articles/2026-10-07/liv-golf-loses-jon-rahm-in-blow-to-league-s-bankruptcy-exit-plan",
+    "https://elpais.com/deportes/2026-10-07/nuevo-terremoto-en-el-golf-jon-rahm-no-seguira-en-liv.html",
+    "https://lequipe.fr/Golf/Actualites/Jon-rahm-va-quitter-le-liv-golf-apres-trois-titres-de-champion-en-trois-saisons/1724072",
+    "https://theguardian.com/sport/2026/oct/07/former-world-no-1-jon-rahm-quits-liv-ahead-of-breakway-series-relaunch"
+   ]
+  },
+  {
+   "id": "2026-10-08-alerte-03",
+   "date": "2026-10-08",
+   "publiee_a": "2026-10-07T20:44:35Z",
+   "titre": "Sébastien Lecornu annonce des mesures pour les lycées et les carburants",
+   "texte": "Le Premier ministre Sébastien Lecornu s'est exprimé mercredi 7 octobre à Matignon sur la contestation lycéenne et les prix de l'énergie. Le chef du gouvernement promet cinq chantiers scolaires d'ici fin octobre et une baisse de 12 à 18 centimes par litre de carburant selon France 24 le 7 octobre 2026.",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261007-lecornu-joue-l-apaisement-avec-les-lyc%C3%A9ens-annonce-des-mesures-pour-faire-baisser-le-prix-de-l-essence"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/07/en-direct-mobilisation-lyceenne-sebastien-lecornu-annonce-le-lancement-de-cinq-chantiers-avec-de-premieres-decisions-fin-octobre_6788487_3224.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/blocage-des-lycees-sebastien-lecornu-tente-de-ramener-le-calme-20261007"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/lycees-carburants-budget-emmanuel-macron-et-sebastien-lecornu-cherchent-les-voies-de-l-apaisement-20261007"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/allocution-de-sebastien-lecornu-quatre-crises-et-une-mesure-20261007_3QSWOUHA2ZDJXB3WHQGO56H6VE"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html"
+    }
+   ],
+   "cluster": "4d03ed546a7b2387",
+   "urls": [
+    "https://france24.com/fr/france/20261007-lecornu-joue-l-apaisement-avec-les-lyc%C3%A9ens-annonce-des-mesures-pour-faire-baisser-le-prix-de-l-essence",
+    "https://franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
+    "https://franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html",
+    "https://franceinfo.fr/politique/sebastien-lecornu-s-exprimera-mercredi-soir-sur-les-lycees-au-lendemain-d-une-journee-de-mobilisation-massive_8226373.html",
+    "https://franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-pas-toutes-les-cartes-en-main-pourquoi-le-gouvernement-peine-a-trouver-la-solution-face-a-la-mobilisation-lyceenne_8226505.html",
+    "https://la-croix.com/politique/blocage-des-lycees-sebastien-lecornu-tente-de-ramener-le-calme-20261007",
+    "https://lefigaro.fr/politique/colere-lyceenne-carburants-electricite-ce-qu-il-faut-retenir-de-l-intervention-de-sebastien-lecornu-20261007",
+    "https://lefigaro.fr/politique/lycees-carburants-budget-emmanuel-macron-et-sebastien-lecornu-cherchent-les-voies-de-l-apaisement-20261007",
+    "https://lefigaro.fr/politique/lycees-carburants-crise-agricole-situation-financiere-sebastien-lecornu-va-s-exprimer-mercredi-soir-lors-d-une-allocution-20261007",
+    "https://lemonde.fr/politique/article/2026/10/07/sebastien-lecornu-s-exprimera-mercredi-soir-sur-la-mobilisation-lyceenne-le-prix-des-carburants-la-crise-agricole-et-la-dette_6789550_823448.html",
+    "https://lemonde.fr/politique/live/2026/10/07/en-direct-allocution-de-sebastien-lecornu-mobilisation-des-lyceens-budget-prix-du-carburant-le-premier-ministre-va-prendre-la-parole_6789634_823448.html",
+    "https://lemonde.fr/politique/video/2026/10/07/les-premieres-decisions-du-gouvernement-en-reponse-aux-revendications-des-lyceens-seront-presentees-a-la-fin-du-mois-d-octobre-annonce-sebastien-lecornu_6789652_823448.html",
+    "https://lemonde.fr/societe/article/2026/10/07/face-au-mouvement-lyceen-le-gouvernement-se-donne-du-temps-au-risque-de-l-enlisement_6789649_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/07/en-direct-mobilisation-lyceenne-sebastien-lecornu-annonce-le-lancement-de-cinq-chantiers-avec-de-premieres-decisions-fin-octobre_6788487_3224.html",
+    "https://liberation.fr/politique/allocution-de-sebastien-lecornu-quatre-crises-et-une-mesure-20261007_3QSWOUHA2ZDJXB3WHQGO56H6VE"
+   ]
+  },
   {
    "id": "2026-10-07-alerte-03",
    "date": "2026-10-07",
@@ -1205,200 +1360,6 @@
     "https://theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
     "https://video.lefigaro.fr/figaro/sports/alors-que-ronaldo-zappe-l-entrainement-et-quitte-le-stade-le-selectionneur-portugais-affirme-qu-il-n-y-a-aucun-incident-20260930",
     "https://www1.folha.uol.com.br/esporte/2026/09/cristiano-ronaldo-abandona-selecao-portuguesa-apos-entrevista-de-jesus.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-30-alerte-03",
-   "date": "2026-09-30",
-   "publiee_a": "2026-09-30T12:42:28Z",
-   "titre": "Un vol Dubaï Tel-Aviv dérouté en urgence vers l'Arabie saoudite",
-   "texte": "Un avion de la compagnie Flydubai reliant Dubaï à Tel-Aviv a atterri en urgence à Tabuk, en Arabie saoudite, ce mercredi 30 septembre 2026. L'incident à bord implique les pilotes de l'appareil selon plusieurs médias.",
-   "sources": [
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/09/30/un-avion-qui-reliait-dubai-et-tel-aviv-a-ete-deroute-vers-l-arabie-saoudite-les-autorites-israeliennes-n-excluent-aucune-hypothese-y-compris-terroriste_6786055_3210.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/moyen-orient/avion-pour-tel-aviv-deroute-en-arabie-saoudite-ce-que-lon-sait-de-lincident-a-bord-dun-vol-flydubai-20260930_I4VYHU3PSRH2VC3TKTGYVLR4V4"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/incidente-dos-pilotos-vuelo-dirigia-israel-termina-20260930111339-nt.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/diretta-live/26_settembre_30/volo-dubai-tel-aviv-dirottato-diretta.shtml"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/israel/un-vol-dubai-israel-victime-d-une-tentative-d-attentat_8216347.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/societes/avion-de-flydubai-deroute-que-sait-on-de-cette-compagnie-emiratie-meconnue-20260930"
-    }
-   ],
-   "cluster": "060135ab5da656dd",
-   "urls": [
-    "https://abc.es/internacional/incidente-dos-pilotos-vuelo-dirigia-israel-termina-20260930111339-nt.html",
-    "https://aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert",
-    "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot",
-    "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
-    "https://corriere.it/esteri/diretta-live/26_settembre_30/volo-dubai-tel-aviv-dirottato-diretta.shtml",
-    "https://dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761",
-    "https://dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30?evenement=bc17e9026a",
-    "https://europapress.es/internacional/noticia-aterriza-arabia-saudi-avion-volaba-eau-israel-incidente-ruta-20260930101558.html",
-    "https://france24.com/fr/moyen-orient/20260930-avion-flydubai-destination-tel-aviv-contraint-atterrir-duba%C3%AF-pilotes",
-    "https://france24.com/fr/vid%C3%A9o/20260930-un-vol-duba%C3%AF-tel-aviv-d%C3%A9rout%C3%A9-suite-%C3%A0-une-bagarre-dans-le-cockpit",
-    "https://franceinfo.fr/economie/aeronautique/un-bagarre-entre-pilotes-en-plein-vol-a-l-origine-d-un-atterrissage-d-urgence-en-arabie-saoudite_8216290.html",
-    "https://franceinfo.fr/monde/israel/un-vol-dubai-israel-victime-d-une-tentative-d-attentat_8216347.html",
-    "https://ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
-    "https://haaretz.com/israel-news/israel-security/2026-09-30/ty-article/suspected-terror-incident-diverts-israel-bound-flydubai-flight-to-saudi-arabia/000001a0-f0ff-d0bd-a3f5-f8ffb6970000",
-    "https://lefigaro.fr/international/en-direct-apres-un-premier-incident-en-vol-un-second-avion-de-flydubai-a-destination-de-tel-aviv-deroute-la-raison-encore-inconnue-20260930",
-    "https://lefigaro.fr/international/incident-terroriste-altercation-dans-le-cockpit-que-s-est-il-passe-a-bord-du-vol-dubai-tel-aviv-deroute-20260930",
-    "https://lefigaro.fr/societes/avion-de-flydubai-deroute-que-sait-on-de-cette-compagnie-emiratie-meconnue-20260930",
-    "https://lemonde.fr/international/article/2026/09/30/un-avion-qui-reliait-dubai-et-tel-aviv-a-ete-deroute-vers-l-arabie-saoudite-les-autorites-israeliennes-n-excluent-aucune-hypothese-y-compris-terroriste_6786055_3210.html",
-    "https://liberation.fr/international/moyen-orient/avion-pour-tel-aviv-deroute-en-arabie-saoudite-ce-que-lon-sait-de-lincident-a-bord-dun-vol-flydubai-20260930_I4VYHU3PSRH2VC3TKTGYVLR4V4",
-    "https://rfi.fr/fr/moyen-orient/20260930-un-avion-de-flydubai-%C3%A0-destination-de-tel-aviv-d%C3%A9rout%C3%A9-apr%C3%A8s-un-incident-en-vol",
-    "https://spiegel.de/panorama/israel-saudi-arabien-piloten-pruegeln-sich-auf-linienflug-von-dubai-nach-tel-aviv-a-9f066d62-2af4-47f5-b836-11ee10761229",
-    "https://straitstimes.com/world/middle-east/israel-bound-flight-diverted-to-saudi-arabia-after-brawl-between-pilots-israeli-official-says",
-    "https://theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-    "https://theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
-    "https://thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/09/ministro-de-israel-diz-que-houve-tentativa-de-ataque-terrorista-em-voo-desviado-a-arabia-saudita.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/09/voo-com-destino-a-israel-e-desviado-apos-briga-entre-pilotos.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-30-alerte-01",
-   "date": "2026-09-30",
-   "publiee_a": "2026-09-29T22:20:04Z",
-   "titre": "La Cour suprême américaine autorise les expulsions vers des pays tiers",
-   "texte": "La Cour suprême des États-Unis a autorisé l'administration Trump à reprendre l'expulsion de migrants vers des pays tiers mardi 29 septembre 2026. Cette décision provisoire permet d'envoyer des personnes vers des États avec lesquels elles n'ont aucun lien.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/supreme-court-lets-trump-resume-third-country-deportations"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/migracion/2026-09-29/el-tribunal-supremo-permite-a-trump-continuar-las-deportaciones-a-terceros-paises.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/264c7d6f-9f84-43b9-89de-f8e9523a41a5?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/us-supreme-court-lets-quick-deportations-to-third-countries-resume-for-now/article71525652.ece"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/tribunal-supremo-eeuu-avala-deportacion-inmigrantes-terceros-20260929220256-nt.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/09/suprema-corte-autoriza-trump-a-deportar-imigrantes-para-paises-terceiros.shtml"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations"
-    }
-   ],
-   "cluster": "e082eb8897103a31",
-   "urls": [
-    "https://abc.es/internacional/tribunal-supremo-eeuu-avala-deportacion-inmigrantes-terceros-20260929220256-nt.html",
-    "https://aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations",
-    "https://bloomberg.com/news/articles/2026-09-29/supreme-court-lets-trump-s-third-country-deportations-resume",
-    "https://elpais.com/us/migracion/2026-09-29/el-tribunal-supremo-permite-a-trump-continuar-las-deportaciones-a-terceros-paises.html",
-    "https://ft.com/content/264c7d6f-9f84-43b9-89de-f8e9523a41a5?syn-25a6b1a6=1",
-    "https://npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
-    "https://paisano-online.com/53976/opinion/commentary/trump-throws-another-tantrum-over-some-due-process",
-    "https://straitstimes.com/world/united-states/supreme-court-lets-trump-resume-third-country-deportations",
-    "https://straitstimes.com/world/united-states/us-deportations-triggering-cascade-of-rights-abuses-un-experts",
-    "https://thehindu.com/news/international/us-supreme-court-lets-quick-deportations-to-third-countries-resume-for-now/article71525652.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/09/suprema-corte-autoriza-trump-a-deportar-imigrantes-para-paises-terceiros.shtml"
-   ]
-  },
-  {
-   "id": "2026-09-30-alerte-02",
-   "date": "2026-09-30",
-   "publiee_a": "2026-09-29T22:21:53Z",
-   "titre": "Fatima Ezzahra El Mansouri devient la premiere cheffe du gouvernement marocain",
-   "texte": "Le roi Mohammed VI a nomme Fatima Ezzahra El Mansouri cheffe du gouvernement mardi 29 septembre 2026, selon le cabinet royal. Elle devient ainsi la premiere femme a diriger le gouvernement au Maroc.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/moyen-orient/maroc-avocate-de-formation-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-a-la-tete-du-gouvernement-20260929_CY55ZCLUQZAHNLRFWI6YZOHEXA"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-09-29/marruecos-nombra-a-fatima-mansouri-como-primera-ministra-del-pais-la-primera-mujer-al-frente-del-gobierno-en-rabat.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/09/marrocos-nomeia-fatima-ezzahra-el-mansouri-como-a-1a-mulher-primeira-ministra.shtml"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/09/29/fatima-ezzahra-el-mansouri-wordt-de-eerste-vrouwelijke-premier-van-marokko-a4937832"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/des-bancs-d-une-fac-francaise-a-la-mairie-de-marrakech-qui-est-fatima-ezzahra-el-mansouri-la-premiere-femme-nommee-chef-du-gouvernement-au-maroc-20260929"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html"
-    }
-   ],
-   "cluster": "2a33d7f407e69beb",
-   "urls": [
-    "https://abc.es/internacional/mohamed-nombra-fatima-zahra-mansouri-primera-ministra-20260929181050-nt.html",
-    "https://aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister",
-    "https://bbc.co.uk/news/articles/c674kkjllw17o",
-    "https://bloomberg.com/news/articles/2026-09-29/morocco-names-marrakesh-mayor-as-country-s-first-female-premier",
-    "https://corriere.it/esteri/26_settembre_29/marocco-fatima-ezzahra-el-mansouri-prima-premier-donna-del-paese-9a40d504-11fb-4aed-af76-da9024739xlk.shtml",
-    "https://dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-09-29/marruecos-nombra-a-fatima-mansouri-como-primera-ministra-del-pais-la-primera-mujer-al-frente-del-gobierno-en-rabat.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_29?evenement=84558ced07",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_29?evenement=9542aa3d9d",
-    "https://france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260929-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-marocain",
-    "https://france24.com/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-devient-premi%C3%A8re-femme-premi%C3%A8re-ministre",
-    "https://franceinfo.fr/monde/afrique/maroc/au-maroc-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement_8215427.html",
-    "https://la-croix.com/international/maroc-fatima-ezzahra-el-mansouri-est-la-premiere-femme-nommee-cheffe-du-gouvernement-20260929",
-    "https://lefigaro.fr/international/des-bancs-d-une-fac-francaise-a-la-mairie-de-marrakech-qui-est-fatima-ezzahra-el-mansouri-la-premiere-femme-nommee-chef-du-gouvernement-au-maroc-20260929",
-    "https://lefigaro.fr/international/le-roi-du-maroc-mohammed-vi-nomme-fatima-ezzahra-el-mansouri-a-la-tete-du-gouvernement-une-premiere-pour-une-femme-20260929",
-    "https://lemonde.fr/international/article/2026/09/29/au-maroc-le-roi-nomme-pour-la-premiere-fois-une-femme-fatima-ezzahra-el-mansouri-a-la-tete-du-gouvernement_6785652_3210.html",
-    "https://liberation.fr/international/moyen-orient/maroc-avocate-de-formation-fatima-ezzahra-el-mansouri-devient-la-premiere-femme-nommee-a-la-tete-du-gouvernement-20260929_CY55ZCLUQZAHNLRFWI6YZOHEXA",
-    "https://liberation.fr/international/pour-la-premiere-fois-de-son-histoire-le-maroc-designe-une-premiere-ministre-20260929_CMCRQ3C2DBHLDALLK3C7HRJM7I",
-    "https://nrc.nl/nieuws/2026/09/29/fatima-ezzahra-el-mansouri-wordt-de-eerste-vrouwelijke-premier-van-marokko-a4937832",
-    "https://reuters.com/world/africa/moroccos-king-appoints-first-woman-pm-following-sept-23-election-2026-09-29",
-    "https://rfi.fr/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-nomm%C3%A9e-cheffe-du-gouvernement-une-premi%C3%A8re-pour-une-femme",
-    "https://straitstimes.com/world/middle-east/moroccos-king-appoints-first-woman-prime-minister-following-election",
-    "https://www1.folha.uol.com.br/mundo/2026/09/marrocos-nomeia-fatima-ezzahra-el-mansouri-como-a-1a-mulher-primeira-ministra.shtml"
    ]
   }
  ]

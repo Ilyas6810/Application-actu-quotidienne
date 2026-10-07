@@ -1,6 +1,60 @@
 {
- "maj": "2026-10-06T22:47:56Z",
+ "maj": "2026-10-07T06:07:26Z",
  "alertes": [
+  {
+   "id": "2026-10-07-alerte-03",
+   "date": "2026-10-07",
+   "publiee_a": "2026-10-07T06:07:26Z",
+   "titre": "Israël commémore les victimes de l'attaque du Hamas du 7 octobre 2023",
+   "texte": "Les citoyens israéliens observent une minute de silence ce mercredi 7 octobre 2026 pour marquer le troisième anniversaire de l'offensive menée par le Hamas. Des hommages se déroulent sur les sites touchés ainsi qu'au siège des Nations Unies, sur fond de divisions politiques et d'enquêtes sur les défaillances sécuritaires.",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159617"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/huella-indeleble-israel-sabido-iba-ver-pedido-20261004011805-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/apos-3-anos-7-de-outubro-mobiliza-memoria-politica-e-medos-de-judeus-em-israel.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/trois-ans-apres-le-7-octobre-israel-mine-par-le-deuil-la-guerre-et-les-divisions-20261007"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/en-israel-trois-ans-apres-le-7-octobre-le-climat-d-insecurite-demeure-nous-sommes-encore-dans-le-trauma-20261006"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/dans-la-presse/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-face-%C3%A0-l-ab%C3%AEme"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html"
+    }
+   ],
+   "cluster": "6a84ef4afaedf8f3",
+   "urls": [
+    "https://abc.es/internacional/huella-indeleble-israel-sabido-iba-ver-pedido-20261004011805-nt.html",
+    "https://france24.com/fr/%C3%A9missions/dans-la-presse/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-face-%C3%A0-l-ab%C3%AEme",
+    "https://france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261006-comment-le-7-octobre-a-transform%C3%A9-isra%C3%ABl",
+    "https://france24.com/fr/moyen-orient/20261007-trois-ans-apres-israel-commemore-attaques-7-octobre-elections-netanyahu",
+    "https://franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html",
+    "https://la-croix.com/international/en-israel-trois-ans-apres-le-7-octobre-le-climat-d-insecurite-demeure-nous-sommes-encore-dans-le-trauma-20261006",
+    "https://lefigaro.fr/international/trois-ans-apres-le-7-octobre-israel-mine-par-le-deuil-la-guerre-et-les-divisions-20261007",
+    "https://lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
+    "https://news.un.org/feed/view/fr/story/2026/10/1159617",
+    "https://www1.folha.uol.com.br/mundo/2026/10/apos-3-anos-7-de-outubro-mobiliza-memoria-politica-e-medos-de-judeus-em-israel.shtml"
+   ]
+  },
   {
    "id": "2026-10-07-alerte-01",
    "date": "2026-10-07",

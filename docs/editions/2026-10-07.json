@@ -1,0 +1,148 @@
+{
+ "date": "2026-10-07",
+ "genere_a": "2026-10-07T06:41:34Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-07-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le Kenya enregistre son premier décès dû au virus Ebola",
+   "chapeau": "Le ministère de la Santé kényan a confirmé le premier cas importé et mortel de maladie à virus Ebola sur son territoire le mardi 6 octobre 2026. La victime est un citoyen kényan en provenance de République démocratique du Congo, décédé dans un hôpital de Nairobi le lundi 5 octobre 2026.",
+   "corps": "Le ministre de la Santé du Kenya a officialisé le premier cas d'Ebola sur le sol national lors d'une déclaration faite le 6 octobre 2026. L'homme touché résidait en République démocratique du Congo. Il s'agit d'une souche Bundibugyo du virus, comme l'indique l'agence Reuters.\n\nLe patient a commencé à développer des signes de l'infection alors qu'il se trouvait encore sur le territoire congolais. Il a ensuite rejoint l'Ouganda par la route. Il est enfin monté à bord d'un vol à destination de la capitale kényane le samedi 3 octobre 2026. L'homme est décédé deux jours plus tard, le lundi 5 octobre 2026, au sein d'une structure hospitalière de Nairobi. Le ministère a signalé le repérage de 28 personnes contacts, placées sous surveillance médicale immédiate.\n\nLes services sanitaires du Kenya appliquent une vigilance renforcée dans la capitale et aux points d'entrée du pays. Des démarches ciblées de prévention et de sensibilisation sont menées auprès des populations locales afin de limiter tout risque de chaîne de transmission secondaire.\n\nCe cas s'inscrit dans le cadre d'un foyer épidémique actif en République démocratique du Congo, officialisé en mai 2026 dans le nord-est de cet État. Il constitue la dix-septième vague épidémique déclarée dans ce pays. Selon des données arrêtées au 2 octobre 2026 et rapportées par The Guardian le 6 octobre 2026 à 16 h 46, le bilan congolais atteignait 4 082 décès pour 8 463 cas confirmés. Les autorités congolaises dénombrent pour leur part plus de 4 000 morts, comme le rapportent El País et la BBC le 6 octobre 2026.\n\nLes répercussions sociales de cette flambée virale touchent les ménages dans les provinces orientales de la RDC. L'UNICEF a relevé le 6 octobre 2026 à 16 h 00 que plus de 1 900 enfants se retrouvent orphelins de l'un de leurs parents ou des deux, ou subissent une séparation d'avec leurs proches.\n\nLes autorités sanitaires n'ont pas communiqué l'identité du patient ni la liste des établissements de soins impliqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159613"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/business/healthcare-pharmaceuticals/kenya-confirms-first-ebola-case-imported-congo-patient-has-died-2026-10-06"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/afrique/video/2026/10/06/ebola-le-kenya-confirme-son-tout-premier-mort_6789005_3212.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sante/maladie/ebola/le-kenya-annonce-un-mort-d-ebola-le-premier-jamais-recense-sur-son-sol_8225251.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/planeta-futuro/2026-10-06/kenia-confirma-la-primera-muerte-por-ebola-en-el-pais.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqzrd7v1j163o"
+    }
+   ],
+   "premiere_parution": "2026-10-06T08:38:57Z",
+   "suite_de": null,
+   "mots": 378,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-07-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le gouvernement espagnol adopte ses décrets sur le logement avant le scrutin",
+   "chapeau": "Le gouvernement espagnol a validé mardi 6 octobre 2026 à Madrid deux textes réglementaires sur le logement. Cette décision intervient au lendemain de l'annonce d'élections législatives anticipées fixées au 29 novembre 2026 par Pedro Sánchez.",
+   "corps": "Le Premier ministre espagnol Pedro Sánchez a convoqué un scrutin anticipé le 5 octobre 2026 après l'échec parlementaire de ses mesures sur le logement.\n\nLe gouvernement espagnol a approuvé mardi 6 octobre 2026 les deux décrets d'urgence sur l'immobilier, selon The Straits Times. Ces deux textes avaient pourtant été rejetés par le Parlement espagnol la semaine précédente. Ce vote négatif des députés avait poussé le chef de l'exécutif à dissoudre la chambre. Le contenu initial des deux décrets visait à encadrer le marché résidentiel face à la hausse des prix. Les mesures prévoyaient le gel des loyers, l'interdiction de certaines expulsions locatives et le blocage des acquisitions d'immeubles par des fonds spéculatifs, rapporte Reuters le 5 octobre 2026.\n\nLa décision de l'exécutif s'inscrit dans un contexte de contestation populaire. Des manifestations citoyennes ont eu lieu dans plusieurs villes d'Espagne pour protester contre la cherté des logements. Le blocage des réformes par les partis de droite au Parlement a suscité la colère des manifestants, selon The Hindu et The Guardian. Pedro Sánchez gouverne à la tête d'une coalition minoritaire depuis 2018. Les oppositions de droite ont rejeté ses réformes d'urgence trois jours avant l'annonce du vote anticipé, précise The Guardian.\n\nLa campagne pour le scrutin du 29 novembre 2026 s'organise autour de plusieurs thématiques. La crise immobilière figure au premier plan des débats politiques. Les questions migratoires ainsi que la progression de la formation politique Vox occuperont également l'espace public, indique Deutsche Welle le 7 octobre 2026. L'issue du vote met en jeu l'avenir de la coalition de gauche espagnole, dans une période marquée par des gains électoraux des partis de droite en Europe, rappelle Haaretz.\n\nLes sources n'indiquent pas la forme juridique précise retenue par le gouvernement le 6 octobre 2026 pour appliquer ces décrets après leur rejet par le Parlement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-10-05/ty-article/spains-prime-minister-calls-snap-election-as-left-wing-government-faces-ouster/000001a1-0aea-dfcd-a1a5-aaeb0e080000"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/what-know-about-spains-november-snap-election-2026-10-05"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/opinion/2026-10-05/spains-snap-elections-let-the-voters-have-their-say.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/spains-prime-minister-calls-early-election-after-housing-crisis-defeat/article71546861.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7c6bfe8f-eae2-47f7-98e5-19e714195c58?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-05/spain-s-sanchez-calls-for-snap-election-video"
+    }
+   ],
+   "premiere_parution": "2026-10-05T07:12:00Z",
+   "suite_de": "2026-10-06-monde-002",
+   "mots": 336,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-07-monde-001",
+  "2026-10-07-monde-002"
+ ]
+}

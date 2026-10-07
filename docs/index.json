@@ -1,7 +1,17 @@
 {
- "maj": "2026-10-06T07:05:32Z",
- "derniere": "2026-10-06",
+ "maj": "2026-10-07T06:41:34Z",
+ "derniere": "2026-10-07",
  "editions": [
+  {
+   "date": "2026-10-07",
+   "genere_a": "2026-10-07T06:41:34Z",
+   "articles": 2,
+   "une": [
+    "Le Kenya enregistre son premier décès dû au virus Ebola",
+    "Le gouvernement espagnol adopte ses décrets sur le logement avant le scrutin"
+   ],
+   "octets": 8508
+  },
   {
    "date": "2026-10-06",
    "genere_a": "2026-10-06T07:05:32Z",

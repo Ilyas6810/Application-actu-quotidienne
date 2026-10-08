@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-07T06:41:34Z",
- "derniere": "2026-10-07",
+ "maj": "2026-10-08T06:53:33Z",
+ "derniere": "2026-10-08",
  "editions": [
+  {
+   "date": "2026-10-08",
+   "genere_a": "2026-10-08T06:53:33Z",
+   "articles": 8,
+   "une": [
+    "Christa Pike reprend conscience après l'échec de son exécution au Tennessee",
+    "Le Kenya renforce ses contrôles sanitaires après un premier décès lié au virus Ebola",
+    "Maricarmen Abascal est décédée mercredi à Madrid à l'âge de 87 ans"
+   ],
+   "octets": 34280
+  },
   {
    "date": "2026-10-07",
    "genere_a": "2026-10-07T06:41:34Z",

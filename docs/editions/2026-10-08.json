@@ -1,0 +1,442 @@
+{
+ "date": "2026-10-08",
+ "genere_a": "2026-10-08T06:53:33Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-08-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Christa Pike reprend conscience après l'échec de son exécution au Tennessee",
+   "chapeau": "La condamnée à mort Christa Pike s'est réveillée mardi à l'hôpital après avoir survécu à une procédure létale au Tennessee. Ses avocats et les autorités judiciaires ont détaillé son état de santé mercredi devant un tribunal de l'État.",
+   "corps": "Le gouverneur du Tennessee a suspendu les exécutions après la tentative ratée du 30 septembre 2026 contre Christa Pike.\n\nChrista Pike a repris conscience mardi 6 octobre 2026 dans sa chambre d'hôpital. Ses avocats ont annoncé cette évolution mercredi 7 octobre 2026 lors d'une audience judiciaire. La détenue se trouvait auparavant dans un état critique sous assistance respiratoire. Les soignants envisageaient de couper ces appareils avant son réveil soudain selon son avocat Randy Spivey.\n\nLa prisonnière a prononcé quelques paroles dès son retour à la conscience. Son avocat rapporte que sa première question demandait où elle se trouvait. Ses conseils juridiques la décrivent comme réveillée, en colère et désorientée par les événements récents. Ils indiquent qu'elle comprend la tentative d'exécution manquée menée par les autorités de l'État.\n\nChrista Pike reste hospitalisée sous surveillance policière stricte. Les surveillants la maintiennent attachée et menottée à son lit médical. Son équipe juridique affirme que le personnel médical a demandé le retrait des menottes. Les agents pénitentiaires ont rejeté cette demande selon les informations transmises par la défense.\n\nUne audience s'est tenue mercredi devant un tribunal du Tennessee pour traiter de la procédure. Un juge local a ordonné aux responsables de l'État de préserver tous les éléments matériels liés à la chambre d'exécution. Les avocats ont justifié cette démarche par un impératif de transparence sur les faits survenus.\n\nLa détenue a reçu deux injections létales de barbituriques lors de la procédure du 30 septembre 2026. Ce produit correspond à un sédatif puissant qui endort le cerveau. Le journal The Hindu précisait le 8 octobre 2026 à 09h43 que Christa Pike a 50 ans et qu'elle a reçu deux doses létales de pentobarbital le 30 septembre 2026. Elle purgeait cette peine pour une condamnation pour meurtre et torture datant de 1995.\n\n## Ce que disent les sources\n\nLes sources divergent sur l'identité de l'avocat ayant qualifié l'état psychologique de la détenue. Le quotidien espagnol ABC attribue ces propos à une avocate nommée Luke Ihnen le 8 octobre 2026 à 00h18. Le quotidien français Le Figaro cite quant à lui l'avocat Randy Spivey le 8 octobre 2026 à 00h40 pour décrire cette prise de parole.\n\nLes sources ne précisent pas la date exacte fixée pour une prochaine audience judiciaire.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/christa-pike-esta-nervosa-e-confusa-apos-sobreviver-a-execucao-diz-advogado.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/07/christa-pike-botched-execution-evidence-judge"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/elle-est-la-premiere-personne-a-survivre-christa-pike-a-repris-connaissance-apres-lechec-de-son-execution-par-injection-letale-20261007_E4MMWI2PCVEXHANQUAXZYXP57U"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/christa-pike-mujer-sobrevivio-ejecucion-encuentra-despierta-20261007214818-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_8227456.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/execution-ratee-aux-etats-unis-christa-pike-a-failli-etre-debranchee-avant-son-reveil-selon-son-avocat-20261007"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/christa-pike-angry-and-confused-about-tennessees-failed-execution-effort-lawyers-say"
+    }
+   ],
+   "premiere_parution": "2026-10-05T19:34:47Z",
+   "suite_de": "2026-10-02-monde-001",
+   "mots": 410,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Kenya renforce ses contrôles sanitaires après un premier décès lié au virus Ebola",
+   "chapeau": "Le ministère kényan de la Santé a officialisé le décès d'un citoyen infecté par le virus Ebola le mardi 6 octobre 2026 à Nairobi. Cet événement sanitaire entraîne la mise en place de mesures de surveillance accrues aux frontières du pays.",
+   "corps": "Le président kényan William Ruto a annoncé le mardi 6 octobre 2026 une série de mesures préventives à la suite du premier cas mortel enregistré sur le territoire national. Selon le journal The Straits Times du 7 octobre 2026, la victime présentait des symptômes avancés lors de son arrivée à l'aéroport de Nairobi. Le patient avait quitté la République démocratique du Congo par la route en traversant l'Ouganda avant d'embarquer à bord d'un avion le samedi 3 octobre 2026, d'après les informations diffusées par la BBC le 7 octobre 2026.\n\nLes autorités sanitaires recensent vingt-huit personnes ayant eu des contacts avec le malade, selon les déclarations du ministre kényan de la Santé relayées par The Guardian le 6 octobre 2026. Dix de ces individus ont été placés en quarantaine, d'après la BBC du 7 octobre 2026. L'Organisation mondiale de la santé apporte son soutien logistique pour retrouver l'ensemble des personnes exposées, ainsi que l'a indiqué un responsable onusien à ONU Info le 7 octobre 2026.\n\nL'épidémie en cours en République démocratique du Congo constitue le contexte de cette importation de virus. Le média Franceinfo a rappelé le 6 octobre 2026 que cette épidémie a causé plus de 4 000 morts, un chiffre également mentionné par El País le 6 octobre 2026. Le journal The Guardian précise quant à lui que 4 082 personnes sont décédées sur un total de 8 463 cas confirmés au 2 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/afrique/video/2026/10/06/ebola-le-kenya-confirme-son-tout-premier-mort_6789005_3212.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sante/maladie/ebola/le-kenya-annonce-un-mort-d-ebola-le-premier-jamais-recense-sur-son-sol_8225251.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/planeta-futuro/2026-10-06/kenia-confirma-la-primera-muerte-por-ebola-en-el-pais.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/kenya-ebola-case-exposes-gaps-in-border-screenings"
+    },
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168542"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6eq3x3v11d5o"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/afrique/20261007-ebola-le-kenya-renforce-ses-mesures-et-sa-surveillance-apr%C3%A8s-l-annonce-d-un-mort-sur-son-sol"
+    }
+   ],
+   "premiere_parution": "2026-10-06T08:38:57Z",
+   "suite_de": "2026-10-07-monde-001",
+   "mots": 278,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Maricarmen Abascal est décédée mercredi à Madrid à l'âge de 87 ans",
+   "chapeau": "La retraitée espagnole María del Carmen Abascal est décédée mercredi 7 octobre 2026 à l'hôpital. Un syndicat de locataires a annoncé sa mort deux semaines après son expulsion de son logement à Madrid.",
+   "corps": "Des policiers et des travailleurs sociaux ont expulsé María del Carmen Abascal de son logement le 23 septembre 2026. La femme de 87 ans vivait depuis plus de 70 ans dans cet appartement du centre de Madrid. Une agence immobilière et investisseur immobilier avait racheté le bien avant cette éviction. Les forces de l'ordre et les services sociaux ont évacué la retraitée sur un brancard.\n\nAprès cette intervention, María del Carmen Abascal a rejoint l'hôpital. Elle y est restée hospitalisée jusqu'à son décès le mercredi 7 octobre 2026.\n\nSon expulsion avait déclenché un mouvement de protestation dans toute l'Espagne. Des milliers de personnes ont manifesté contre la crise du logement. Les contestataires ont organisé des rassemblements et des campements dans le pays. Cette situation a provoqué une crise politique. La crise a entraîné la dissolution du Parlement espagnol et l'organisation d'élections législatives anticipées.\n\nLes causes précises de sa mort ne sont pas précisées dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/espagne-maricarmen-abscal-la-retraitee-expulsee-a-lorigine-du-mouvement-de-protestation-sur-le-logement-est-morte-20261007_6UK4KXVRHRHOXMCOB27BYRSAIQ"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/spain/2026-10-07/maricarmen-the-woman-who-became-a-symbol-of-spains-housing-crisis-dies-at-87.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/espagne-la-retraitee-expulsee-a-l-origine-des-manifestations-contre-la-crise-du-logement-est-morte-20261007"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/maricarmen-abascal-symbole-de-la-crise-du-logement-en-espagne-est-decedee-a-87-ans_8227495.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/evicted-spanish-octogenarian-maricarmen-abascal-heart-of-spains-housing-protests-has-died/article71557243.ece"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/07/maricarmen-abascal-87-het-gezicht-van-de-gekte-op-de-woningmarkt-bracht-spanje-op-de-been-a4938473"
+    }
+   ],
+   "premiere_parution": "2026-10-07T01:15:00Z",
+   "suite_de": null,
+   "mots": 189,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des lycéens et des enseignants manifestent en France pour réclamer des moyens",
+   "chapeau": "Des dizaines de milliers de lycéens et d'enseignants ont défilé mardi 6 octobre 2026 dans plusieurs villes de France pour réclamer des moyens supplémentaires pour les établissements scolaires. Les rassemblements ont donné lieu à des affrontements avec les forces de l'ordre et à des centaines d'interpellations.",
+   "corps": "Le mouvement de contestation scolaire a débuté à la fin du mois de septembre 2026. Des lycéens ont mis en place des blocages devant les entrées de centaines d'établissements scolaires à travers le pays. Les syndicats d'enseignants ont rejoint les cortèges d'élèves lors de la journée de mobilisation organisée mardi 6 octobre 2026. Des centaines de lycées sont restés fermés ce jour-là.\n\nLes manifestants dénoncent le manque de moyens alloués à l'éducation nationale. Leurs revendications portent sur le manque de personnel, le nombre élevé d'élèves par classe, la vétusté des bâtiments et la rémunération des enseignants. Les contestataires réclament des investissements financiers de l'État dans les infrastructures scolaires et dénoncent un manque de perspectives pour la jeunesse. Cette crise illustre les arbitrages budgétaires de l'exécutif entre le contrôle de la dépense publique et le financement des missions de service public.\n\nDes défilés et des blocages se sont déroulés dans plusieurs grandes agglomérations, notamment à Paris, Lyon et Rennes. Les cortèges ont brandi des pancartes et allumé des fumigènes. En marge de ces rassemblements, des affrontements ont éclaté entre des manifestants et les forces de l'ordre. Près de 500 personnes ont été interpellées par la police.\n\nDes manifestants ont subi des blessures causées par des armes de maintien de l'ordre. Lundi 5 octobre 2026, un adolescent âgé de 15 ans a perdu une main après l'explosion apparente d'une grenade de désencerclement utilisée par les forces de sécurité. Une grenade de désencerclement est un engin explosif projetant des plots en caoutchouc. Le ministre de l'Intérieur, Laurent Nuñez, a défendu l'action des forces de l'ordre face aux débordements. Le président de la République sortant, Emmanuel Macron, a convoqué ses ministres pour répondre à la situation.\n\n## Ce que disent les sources\n\nLe ministère de l'Intérieur a comptabilisé 256 000 manifestants dans plus de 40 villes de France, dont 56 000 à Paris, selon les données publiées par Folha de S.Paulo le 7 octobre 2026 à 00h36. À la même date et à la même heure, les organisations étudiantes et lycéennes USL, FAGE, Union étudiante et UNEF ont affirmé que la journée avait rassemblé 450 000 manifestants sur tout le territoire national, dont 100 000 à Paris.\n\nLes sources ne précisent pas la répartition géographique des arrestations ni l'issue de la réunion ministérielle convoquée par le président de la République.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/06/nx-s1-5991807/they-dont-invest-in-us-french-students-protest-for-more-resources-in-schools"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/school-protests-france-teachers-students-clashes-police-october-6-2026/article71551195.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/frankreich-sorge-vor-eskalation-bei-schuelerprotesten-gegen-missstaende-a-943100ff-7924-4450-885e-8a515b27e276"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/06/europe-french-school-protests-paris-germany-afd-bulgaria-drones-russia-ukraine-latest-news-updates"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/hundreds-arrested-in-french-school-protests-as-macron-summons-ministers"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/protestos-de-estudantes-na-franca-chegam-a-dia-mais-grave-e-poem-governo-de-emmanuel-macron-em-alerta.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-07/french-school-protests-draw-more-than-250-000-video"
+    }
+   ],
+   "premiere_parution": "2026-10-05T15:50:50Z",
+   "suite_de": null,
+   "mots": 432,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'OMS demande des comptes à Moscou après un décès suspect",
+   "chapeau": "L'Organisation mondiale de la santé et plusieurs chancelleries réclament jeudi 8 octobre 2026 des éclaircissements sur une suspicion de peste en Sibérie. Moscou affirme qu'aucun cas de cette maladie infectieuse n'a été recensé sur son sol.",
+   "corps": "La semaine dernière, une employée d'un institut de recherche sur la peste est morte en Sibérie après avoir contracté une pneumonie d'origine inconnue.\n\nLa victime s'appelait Daria Chipilova. Cette femme de 28 ans travaillait au sein de l'institut de recherche anti-peste d'Irkoutsk. Elle a succombé le 2 octobre, deux jours après son admission dans un établissement hospitalier, après l'apparition de symptômes semblables à ceux d'un rhume.\n\nL'Organisation mondiale de la santé juge le danger d'une épidémie de peste faible. L'agence sanitaire des Nations unies affirme toutefois qu'elle ne dispose pas d'une vue d'ensemble de la situation. Elle demande aux autorités russes de faire preuve de transparence et de communiquer des données précises pour évaluer les risques.\n\nLes États-Unis et l'Union européenne ont également invité la Russie à partager ses données de santé. Donald Trump a par ailleurs indiqué qu'il ne considérait pas cet événement comme l'effet d'une arme biologique, une maladie disséminée intentionnellement pour nuire.\n\nDes rumeurs font état d'une seconde contamination possible dans la région. Les autorités russes ont qualifié ces signalements de fausses informations. Moscou assure que la population ne fait face à aucun danger et réfute la mise en place de dispositions sanitaires contre la peste.\n\n## Ce que disent les sources\n\nL'Organisation mondiale de la santé rapporte que la Russie lui a déclaré l'absence totale de cas de peste en Sibérie. Les responsables sanitaires russes soutiennent que la technicienne est morte d'une pneumonie dont la cause reste indéterminée. À l'inverse, l'agence onusienne et plusieurs observateurs internationaux continuent de traiter le dossier comme un cas suspect de peste pulmonaire en l'attente de résultats complets.\n\nLes conclusions finales des analyses biologiques sur la cause exacte du décès de la laborantine ne sont pas connues.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-10-06/what-authorities-have-said-about-plague-alert-after-death-of-a-laboratory-worker-in-russia.html"
+    },
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168547"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/89a7f4f6-2c7a-45bb-9a09-b9d94a9c7944?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The BMJ",
+     "url": "https://bmj.com/content/395/bmj-2026-101084.short"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/russia-who-not-able-to-fully-assess-plague-situation/a-79584532?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/trump-says-we-dont-think-russian-plague-is-bio-weapon"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute"
+    }
+   ],
+   "premiere_parution": "2026-10-05T15:36:37Z",
+   "suite_de": "2026-10-06-monde-005",
+   "mots": 321,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des attaques de rebelles yéménites font trois morts en Arabie saoudite",
+   "chapeau": "Les rebelles houthis du Yémen ont mené des attaques de drones et de missiles contre deux aéroports en Arabie saoudite entre le lundi 5 et le mardi 6 octobre 2026. Ces bombardements survenus à Riyad et Abha ont causé la mort de trois personnes et fait plusieurs dizaines de blessés.",
+   "corps": "Le conflit qui oppose les rebelles houthis au gouvernement yéménite s'étend de nouveau au-delà des frontières du Yémen. Les forces houthies, qui bénéficient du soutien de l'Iran, ont dirigé des frappes aériennes vers le territoire de l'Arabie saoudite. Cette dernière soutient militairement le pouvoir yéménite face aux insurgés. Les assauts ont visé des installations de transport civil au cours de la nuit du lundi 5 octobre et de la journée du mardi 6 octobre 2026.\n\nLes projectiles ont atteint deux infrastructures majeures du royaume saoudien. Le premier site touché est l'aéroport international King Khalid. Cet établissement se situe à Riyad, la capitale du pays. Le second site est l'aéroport d'Abha, localisé dans une région du sud de l'Arabie saoudite. Les assaillants ont employé des drones, qui sont des appareils volants sans pilote, ainsi que des missiles, qui désignent des projectiles guidés à propulsion.\n\nLes victimes de ces frappes sont des résidents de nationalité étrangère vivant en Arabie saoudite. Selon les informations diffusées par la chaîne qatarie Al Jazeera le mercredi 7 octobre 2026, les personnes décédées à l'aéroport d'Abha sont deux femmes. L'une possédait la nationalité marocaine et l'autre la nationalité algérienne. La troisième victime décédée est un homme de nationalité soudanaise. Ce dernier a perdu la vie lors de l'attaque menée contre l'aéroport de la capitale saoudienne.\n\nLe groupe armé des Houthis a revendiqué la responsabilité de ces opérations militaires peu après leur exécution. Les représentants des rebelles ont affirmé que les frappes avaient perturbé le fonctionnement normal des activités aéroportuaires à Riyad. De son côté, l'administration saoudienne a réagi par l'intermédiaire de son Autorité générale de l'aviation civile. Cette institution a confirmé le mercredi 7 octobre 2026 la réalité des attaques et le bilan humain. Toutefois, selon le journal indien The Hindu dans son édition du jeudi 8 octobre 2026, cette autorité n'a pas désigné de coupable dans ses premières communications officielles.\n\nCes événements marquent une nouvelle étape dans la dégradation de la situation sécuritaire régionale. La guerre civile au Yémen a connu une reprise majeure des affrontements pour le contrôle du territoire au cours du mois de juillet 2026. Les Houthis combattent les forces fidèles au gouvernement yéménite, qui reçoivent l'appui direct d'une coalition militaire sous direction saoudienne.\n\n## Ce que disent les sources\n\nLes données chiffrées concernant les blessés et la localisation des décès divergent selon les médias.\n\nConcernant le nombre de blessés, le quotidien brésilien Folha de S.Paulo faisait état le mercredi 7 octobre 2026 de 33 personnes blessées. À l'opposé, la chaîne Al Jazeera le mercredi 7 octobre 2026, le site américain wisn.com le jeudi 8 octobre 2026 et le site pakistanais arynews.tv le jeudi 8 octobre 2026 ont dénombré 36 blessés.\n\nLa répartition géographique des décès varie également. Le site arynews.tv affirmait le jeudi 8 octobre 2026 qu'une personne avait été tuée et huit autres blessées à l'aéroport de Riyad, tandis que deux personnes avaient trouvé la mort à l'aéroport d'Abha. Pour sa part, la radio allemande Deutsche Welle déclarait le jeudi 8 octobre 2026 qu'une frappe de missile sur l'aéroport de Riyad avait causé à elle seule la mort de trois personnes.\n\nLes sources ne précisent pas le nombre exact de projectiles tirés ni l'ampleur des dégâts matériels subis par les deux aéroports.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/rebeldes-do-iemen-atacam-aeroportos-na-arabia-saudita.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261007-yemen-s-houthis-claim-new-attacks-on-saudi-airports-as-conflict-deepens"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-07/houthis-kill-three-in-attacks-on-two-airports-in-saudi-arabia"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/saudi-arabia-says-three-dead-at-airports-after-houthis-claim-attacks"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/attacks-on-saudi-airports-claimed-by-houthi-rebels-kill-several/article71557187.ece"
+    },
+    {
+     "nom": "wisn.com",
+     "url": "https://wisn.com/article/deadly-attacks-houthis-saudi-airports-yemen-conflict/74070963"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwn8d5rx22rdo"
+    }
+   ],
+   "premiere_parution": "2026-10-06T13:34:00Z",
+   "suite_de": null,
+   "mots": 594,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Israël commémore les trois ans de l'attaque du Hamas",
+   "chapeau": "Les Israéliens se sont rassemblés mercredi 7 octobre 2026 pour rendre hommage aux victimes de l'attaque menée par le Hamas trois ans auparavant. Ces commémorations se déroulent dans un contexte de guerre persistante et de destructions dans la bande de Gaza.",
+   "corps": "Des familles et des proches se sont réunis à l'aube sur le site du festival de musique Nova, près de Réïm, ainsi que sur d'autres lieux des attaques. Les participants ont observé un moment de recueillement à l'heure précise où l'assaut a débuté le 7 octobre 2023. Lors de cette attaque initiale, environ 1 200 personnes ont perdu la vie et 251 autres ont été emmenées comme otages, selon les données publiées par la BBC le 7 octobre 2026.\n\nEn parallèle des hommages, l'armée israélienne a mené des frappes sur la bande de Gaza mercredi 7 octobre 2026. Selon des responsables locaux cités par le quotidien The Hindu le même jour, ces bombardements ont causé la mort de trois personnes. Les détonations des explosions étaient audibles depuis le site de commémoration de Réïm.\n\nLa riposte militaire israélienne commencée en 2023 a détruit une grande partie du territoire de Gaza. Le ministère de la Santé de Gaza, dirigé par le Hamas, indique le 7 octobre 2026 que plus de 74 200 personnes ont été tuées dans la bande de Gaza depuis le début du conflit. Malgré l'existence d'un cessez-le-feu établi depuis un an pour mettre fin aux hostilités, la situation humanitaire sur place demeure précaire.\n\nÀ l'échelle internationale, les dirigeants européens ont marqué cet anniversaire en rendant hommage aux victimes et en évoquant la hausse de l'antisémitisme. Aux États-Unis, plusieurs membres du Parti démocrate ont profité de cette date pour commémorer les victimes tout en critiquant la gestion de la guerre par le gouvernement israélien. Ces commémorations interviennent également en Israël alors que des élections nationales se préparent.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/live/cq2e9kyzer2nt"
+    },
+    {
+     "nom": "news-gazette.com",
+     "url": "https://news-gazette.com/news/nation-world/israelis-mourn-oct-7-attack-as-palestinians-in-gaza-languish-in-ruins-of-the-war/article_0f5f7fa9-aeca-5572-ad98-f8dd8702fd67.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/israelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-10-07/ty-article/.premium/we-will-never-forget-them-european-leaders-pay-tribute-to-october-7-victims/000001a1-15b7-dd5c-a1f9-57b764450000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/07/first-thing-israel-marks-third-anniversary-7-october-hamas-attacks"
+    }
+   ],
+   "premiere_parution": "2026-10-07T00:45:00Z",
+   "suite_de": null,
+   "mots": 308,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-08-sport-001",
+   "rubrique": "sport",
+   "format": "standard",
+   "titre": "Lionel Messi prend sa retraite internationale après un dernier match avec l'Argentine",
+   "chapeau": "L'attaquant argentin Lionel Messi a fait ses adieux à l'équipe nationale de football lors d'un match amical contre le Bénin à Buenos Aires. Le capitaine de l'Argentine a disputé sa dernière rencontre sous le maillot de la sélection au stade Monumental.",
+   "corps": "Lionel Messi a mis fin à sa carrière internationale lors d'une victoire de l'Argentine contre le Bénin sur le score de trois buts à zéro. Durant cette rencontre amicale, le capitaine argentin a inscrit un but sur penalty et a délivré deux passes décisives pour ses partenaires. Cette confrontation marque la fin d'un parcours de vingt-et-un ans sous les couleurs de l'équipe nationale.\n\nAprès le coup de sifflet final, le joueur a pris la parole devant le public pour exprimer sa gratitude envers ses partenaires et ses supporters. Lionel Messi a qualifié cette journée de plus triste jour de sa carrière sportive. Le ciel de la capitale argentine s'est ensuite éclairé pour retracer le parcours du numéro dix de l'équipe nationale. Le joueur, habituellement décrit par les médias comme un homme de peu de mots, a prononcé un discours qui a ému le public présent.\n\nLe lendemain de cette rencontre, le joueur a publié un message sur le réseau social Instagram. Lionel Messi y a écrit que le maillot de l'Argentine lui manquait déjà. Cette déclaration prolonge les adieux du joueur à ses supporters après une carrière internationale marquée par des moments difficiles, dont quatre finales perdues, avant de remporter des titres majeurs avec son pays.\n\nSelon les informations publiées par le journal italien Corriere della Sera le 7 octobre 2026, Lionel Messi a inscrit à cette occasion son 126e but en sélection. Le quotidien espagnol El País a rapporté le même jour que le joueur avait qualifié ce moment de jour le plus triste de sa carrière. Les supporters présents dans le stade ont salué le départ de l'octuple vainqueur du Ballon d'or, un trophée qui récompense le meilleur joueur de football de l'année.\n\nLe parcours de Lionel Messi avec l'équipe nationale argentine se termine ainsi sur une victoire collective. Le joueur a partagé ses émotions avec le public, affirmant que jouer pour son pays était la plus belle chose possible dans une vie. Les médias ont également souligné que le joueur avait chanté l'hymne national en entier et versé des larmes dans le bus de l'équipe.\n\nAucun élément ne manque pour relater cet événement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/argentina/2026-10-07/messi-se-despide-de-la-seleccion-argentina-ovacionado-por-una-multitud-es-el-dia-mas-triste-de-mi-carrera.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/je-nai-rien-dautre-que-des-remerciements-lionel-messi-et-largentine-se-font-leurs-adieux-20261007_MTW3LYUKERC5DFNAGHLSTLAIHI"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/07/lionel-messi-ends-argentina-career-saddest-day"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/calcio/26_ottobre_07/messi-addio-argentina-ultimo-tango-nazionale-fc63a676-7ffc-454d-b210-eac827d0bxlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/lionel-messi-abschied-in-argentinien-wie-sehr-werden-wir-ihn-vermissen-mein-gott-a-31744f98-9167-4b37-9d25-5212a9751b6b"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/lionel-messi/en-images-sa-premiere-selection-son-premier-but-les-titres-et-les-deceptions-lionel-messi-21-ans-d-emotions-sous-le-maillot-de-l-argentine_8226595.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/07/je-doute-qu-il-y-ait-un-autre-messi-prochainement-en-argentine-les-fans-de-football-ont-fait-des-adieux-emouvants-a-la-pulga-pour-sa-derniere-selection_6789591_3242.html"
+    }
+   ],
+   "premiere_parution": "2026-10-05T18:20:14Z",
+   "suite_de": null,
+   "mots": 397,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-08-monde-001",
+  "2026-10-08-monde-002",
+  "2026-10-08-monde-003",
+  "2026-10-08-monde-004",
+  "2026-10-08-geopolitique-001",
+  "2026-10-08-sport-001",
+  "2026-10-08-monde-005",
+  "2026-10-08-geopolitique-002"
+ ]
+}

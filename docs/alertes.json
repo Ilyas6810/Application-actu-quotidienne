@@ -1,6 +1,112 @@
 {
- "maj": "2026-10-07T20:44:35Z",
+ "maj": "2026-10-09T01:22:07Z",
  "alertes": [
+  {
+   "id": "2026-10-09-alerte-01",
+   "date": "2026-10-09",
+   "publiee_a": "2026-10-09T01:17:12Z",
+   "titre": "Le Pentagone annonce la diffusion en direct de l'exécution de Nidal Hasan",
+   "texte": "Le ministère de la Défense des États-Unis prévoit de retransmettre en direct la mise à mort de Nidal Hasan le 3 décembre 2026. Un peloton d'exécution militaire fusillera l'auteur de la tuerie perpétrée sur la base texane de Fort Hood.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/fort-hood-pentagon-plant-livestream-der-hinrichtung-von-nidal-hasas-a-9a9f55b1-378a-40a2-a52b-9c24a6524ac5"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261008-fusillade-fort-hood-armee-americaine-veut-diffuser-en-direct-execution-peloton-tireur-nidal-hasan"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pentagon-says-firing-squad-execution-of-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed/article71561622.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmy0r96xygx6o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html"
+    }
+   ],
+   "cluster": "06be798f60d0d2b3",
+   "urls": [
+    "https://abc.es/internacional/estados-unidos-retransmitira-fusilamiento-autor-matanza-base-20261008235938-nt.html",
+    "https://aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public",
+    "https://bbc.co.uk/news/articles/cmy0r96xygx6o",
+    "https://bloomberg.com/news/articles/2026-10-08/hegseth-vows-public-firing-squad-execution-for-fort-hood-shooter",
+    "https://dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_8?evenement=db86f0f912",
+    "https://france24.com/fr/am%C3%A9riques/20261008-fusillade-fort-hood-armee-americaine-veut-diffuser-en-direct-execution-peloton-tireur-nidal-hasan",
+    "https://ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
+    "https://houstonpublicmedia.org/articles/news/texas/2026/10/08/563969/firing-squad",
+    "https://idahostatejournal.com/news/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_9e663ece-c29f-51eb-84e5-b9069043cafb.html",
+    "https://lefigaro.fr/actualite-france/une-technique-associee-au-far-west-l-armee-americaine-va-recourir-au-peloton-d-execution-pour-la-premiere-fois-depuis-1945-20261008",
+    "https://lefigaro.fr/international/etats-unis-la-mise-a-mort-par-peloton-d-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire-en-2009-sera-publique-et-diffusee-en-direct-20261008",
+    "https://lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html",
+    "https://spiegel.de/ausland/fort-hood-pentagon-plant-livestream-der-hinrichtung-von-nidal-hasas-a-9a9f55b1-378a-40a2-a52b-9c24a6524ac5",
+    "https://straitstimes.com/world/united-states/public-execution-by-firing-squad-for-military-base-shooter-nidal-hasan-says-us-hegseth",
+    "https://theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
+    "https://thehindu.com/news/international/pentagon-says-firing-squad-execution-of-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed/article71561622.ece",
+    "https://thetimes-tribune.com/2026/10/08/fort-hood-shooting-execution",
+    "https://wbtv.com/2026/10/08/pentagon-says-firing-squad-execution-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed",
+    "https://www1.folha.uol.com.br/mundo/2026/10/eua-vao-transmitir-execucao-de-ex-major-por-fuzilamento-aprovada-por-trump.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-09-alerte-02",
+   "date": "2026-10-09",
+   "publiee_a": "2026-10-09T01:22:07Z",
+   "titre": "Un agent de l'ICE blesse un homme par balle à New York",
+   "texte": "Un agent de la police fédérale de l'immigration a blessé un homme par balle jeudi après-midi à New York. Un enfant de cinq ans se trouvait dans le véhicule lors des faits.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-08/ice-agents-shoot-person-in-new-york-victim-taken-to-hospital"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/new-york-ice-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html"
+    }
+   ],
+   "cluster": "1069d13828b0d85c",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-10-08/ice-agents-shoot-person-in-new-york-victim-taken-to-hospital",
+    "https://dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-xml-mrss",
+    "https://lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html",
+    "https://spiegel.de/ausland/new-york-ice-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae",
+    "https://straitstimes.com/world/united-states/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says",
+    "https://theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
+   ]
+  },
   {
    "id": "2026-10-08-alerte-01",
    "date": "2026-10-08",
@@ -1132,234 +1238,6 @@
     "https://spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d",
     "https://spiegel.de/ausland/flydubai-pilot-erzaehlt-in-telefonat-mit-narendra-modi-was-ihm-mut-gemacht-hat-a-0ebf3044-d8c4-4a7a-96b5-b8ed12578618",
     "https://straitstimes.com/asia/indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack"
-   ]
-  },
-  {
-   "id": "2026-10-01-alerte-03",
-   "date": "2026-10-01",
-   "publiee_a": "2026-10-01T10:14:51Z",
-   "titre": "La contestation des lycéens s'étend aux universités françaises ce jeudi",
-   "texte": "Les blocages d'établissements scolaires se poursuivent en France ce jeudi 1er octobre 2026 avec le ralliement d'une trentaine d'universités. Des dégradations touchent plusieurs villes, dont Nantes où un incendie a endommagé le hall d'un lycée.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/education/la-colere-des-lyceens-setend-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-ce-jeudi-20261001_QX3LRJUBXNHJVLO6JQ7NSVKE6E"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/des-campus-universitaires-rejoignent-les-lycees-dans-la-contestation-sociale-20261001"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261001-blocus-des-lyc%C3%A9es-la-mobilisation-continue-appel-%C3%A0-un-acte-deux-jeudi"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/article/2026/10/01/blocage-des-lycees-le-hall-d-un-etablissement-detruit-par-un-incendie-a-nantes-des-campus-universitaires-rejoignent-la-contestation-sociale_6786486_3224.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/actualite-france/blocage-des-lycees-la-carte-des-etablissements-concernes-20260929"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-jeudi-matin_8217799.html"
-    }
-   ],
-   "cluster": "79a6bfc5156176de",
-   "urls": [
-    "https://etudiant.lefigaro.fr/article/lycee/blocages-de-lycees-de-nouveaux-etablissements-bloques-un-peu-partout-en-france-ce-mercredi-20260930",
-    "https://france24.com/fr/france/20260930-lyc%C3%A9es-bloqu%C3%A9es-le-mouvement-se-poursuit-des-appels-%C3%A0-la-convergence-des-luttes",
-    "https://france24.com/fr/france/20261001-blocus-des-lyc%C3%A9es-en-france-des-campus-universitaires-rejoignent-la-contestation-sociale",
-    "https://france24.com/fr/vid%C3%A9o/20260929-blocus-des-lyc%C3%A9es-en-france-les-raisons-de-la-mobilisation",
-    "https://france24.com/fr/vid%C3%A9o/20260929-france-des-lyc%C3%A9es-bloqu%C3%A9s-pour-obtenir-plus-de-moyens-pour-l-%C3%A9ducation",
-    "https://france24.com/fr/vid%C3%A9o/20260930-blocages-des-lyc%C3%A9es-la-mobilisation-se-poursuit",
-    "https://france24.com/fr/vid%C3%A9o/20261001-blocus-des-lyc%C3%A9es-la-mobilisation-continue-appel-%C3%A0-un-acte-deux-jeudi",
-    "https://franceinfo.fr/economie/greve/blocus-des-lycees-625-interpellations-selon-le-ministre-de-l-interieur_8216866.html",
-    "https://franceinfo.fr/economie/greve/blocus-des-lycees-une-journee-emaillee-d-incidents-violents_8215433.html",
-    "https://franceinfo.fr/economie/greve/lycees-bloques-la-contestation-lyceenne-gagne-du-terrain-en-france_8214824.html",
-    "https://franceinfo.fr/economie/greve/lycees-bloques-la-tension-monte_8215385.html",
-    "https://franceinfo.fr/economie/greve/nord-val-d-oise-ariege-plus-d-une-centaine-de-lycees-bloques-mardi-en-france_8214575.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees-laurent-nunez-ministre-de-l-interieur-annonce-440-interpellations-dans-la-journee-de-mardi_8215373.html",
-    "https://franceinfo.fr/societe/education/blocus-des-lycees-la-colere-s-amplifie-le-mouvement-se-durcit_8214938.html",
-    "https://franceinfo.fr/societe/education/le-blocage-des-lycees-se-poursuit-partout-en-france-des-universites-pourraient-rejoindre-le-mouvement_8216944.html",
-    "https://franceinfo.fr/societe/education/lille-bordeaux-lyon-de-nouvelles-tensions-devant-les-lycees-bloques_8216389.html",
-    "https://franceinfo.fr/societe/education/manque-de-moyens-etablissements-insalubres-motivations-politiques-pourquoi-les-lyceens-se-mobilisent-depuis-une-semaine_8214617.html",
-    "https://franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-jeudi-matin_8217799.html",
-    "https://franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-mercredi-en-fin-de-matinee_8216045.html",
-    "https://franceinfo.fr/societe/education/reportage-la-c-est-parti-un-peu-trop-loin-a-argenteuil-des-lyceens-deplorent-les-debordements-lors-des-manifestations_8214554.html",
-    "https://franceinfo.fr/societe/education/scolarite/guide-parents/lycee/au-moins-164-interpellations-ont-eu-lieu-en-marge-de-blocages-de-lycees-lundi-annonce-le-ministre-de-l-interieur-laurent-nunez_8214077.html",
-    "https://franceinfo.fr/societe/education/scolarite/guide-parents/lycee/des-lycees-bloques-partout-en-france-des-interventions-policieres-parfois-musclees_8215361.html",
-    "https://la-croix.com/a-vif/lfi-les-limites-de-la-recuperation-20260929",
-    "https://la-croix.com/blocus-des-lycees-la-mobilisation-se-poursuit-des-tensions-dans-plusieurs-villes-20260929",
-    "https://la-croix.com/des-campus-universitaires-rejoignent-les-lycees-dans-la-contestation-sociale-20261001",
-    "https://la-croix.com/politique/blocage-des-lycees-la-france-insoumise-accusee-d-attiser-la-violence-20260929",
-    "https://la-croix.com/societe/blocage-des-lycees-440-interpellations-ce-mardi-annonce-le-ministre-de-l-interieur-20260929",
-    "https://la-croix.com/societe/blocage-des-lycees-les-etablissements-de-banlieue-sont-ils-delaisses-20260930",
-    "https://lefigaro.fr/actualite-france/blocage-des-lycees-la-carte-des-etablissements-concernes-20260929",
-    "https://lefigaro.fr/actualite-france/quand-on-fait-des-manifestations-on-ne-nous-ecoute-pas-chauffes-a-blanc-par-lfi-les-lyceens-veulent-poursuivre-les-blocages-20260929",
-    "https://lemonde.fr/societe/article/2026/09/29/blocages-des-lycees-338-etablissements-concernes-et-dix-blesses-selon-le-ministere-de-l-education-nationale_6785573_3225.html",
-    "https://lemonde.fr/societe/article/2026/09/29/blocages-des-lycees-moins-d-une-dizaine-de-lycees-concernes-a-paris-selon-le-rectorat_6785573_3224.html",
-    "https://lemonde.fr/societe/article/2026/09/29/blocus-des-lycees-en-banlieue-parisienne-les-eleves-veulent-se-faire-entendre-sur-leur-quotidien-et-contre-l-injustice_6785629_3224.html",
-    "https://lemonde.fr/societe/article/2026/09/30/blocage-des-lycees-625-interpellations-mercredi-annonce-le-ministre-de-l-interieur-qui-constate-une-extension-du-mouvement_6786023_3225.html",
-    "https://lemonde.fr/societe/article/2026/10/01/blocage-des-lycees-le-hall-d-un-etablissement-detruit-par-un-incendie-a-nantes-des-campus-universitaires-rejoignent-la-contestation-sociale_6786486_3224.html",
-    "https://lemonde.fr/societe/live/2026/10/01/en-direct-blocus-des-lycees-des-etablissements-affectes-partout-en-france-une-trentaine-de-facultes-rejoignent-la-contestation_6786491_3224.html",
-    "https://liberation.fr/politique/blocages-des-lycees-face-aux-proces-en-agitation-lfi-nie-toute-recuperation-20260929_XPU73X56ZRDRBDOOTAXTUUHGDY",
-    "https://liberation.fr/societe/education/blocus-des-lycees-40-interpellations-et-10-blesses-la-mobilisation-se-poursuit-et-samplifie-20260929_Q6BT5GWKINCLTGRPEGF7IIPH3Q",
-    "https://liberation.fr/societe/education/blocus-des-lycees-de-paris-a-nantes-en-passant-par-orleans-on-souffre-tous-du-manque-criant-de-moyens-20260929_53EUIVII6JCLFK2JHUNBI5TCYY",
-    "https://liberation.fr/societe/education/la-colere-des-lyceens-setend-les-etudiants-appeles-a-un-acte-deux-de-la-mobilisation-ce-jeudi-20261001_QX3LRJUBXNHJVLO6JQ7NSVKE6E",
-    "https://rfi.fr/fr/france/20260930-france-les-blocages-des-lyc%C3%A9es-se-tendent-et-font-de-nombreux-bless%C3%A9s"
-   ]
-  },
-  {
-   "id": "2026-10-01-alerte-02",
-   "date": "2026-10-01",
-   "publiee_a": "2026-10-01T00:39:23Z",
-   "titre": "La Cour suprême autorise l'exécution de Christa Pike au Tennessee",
-   "texte": "La Cour suprême des États-Unis a autorisé l'exécution de la condamnée à mort Christa Pike dans le Tennessee. Cette décision annule la suspension accordée quelques heures plus tôt par une cour d'appel fédérale.",
-   "sources": [
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_settembre_30/christa-pike-condanna-morte-5c15e215-fe5e-462c-b089-c4f72df4exlk.shtml"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/am%C3%A9riques/20260930-aux-%C3%A9tats-unis-la-condamnation-%C3%A0-mort-imminente-de-christa-pike-suspendue-au-dernier-moment"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/justiz/tennessee-supreme-court-erlaubt-hinrichtung-von-christa-pike-a-25e2b508-4b04-41ce-80d2-dfd5c9103488"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/autorizan-ejecucion-christa-pike-primera-mujer-recibir-20261001020617-nt.html"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cq8r6rjdvlx6o"
-    }
-   ],
-   "cluster": "66df890cff0c8584",
-   "urls": [
-    "https://abc.es/internacional/autorizan-ejecucion-christa-pike-primera-mujer-recibir-20261001020617-nt.html",
-    "https://abc.es/internacional/tennessee-ejecutara-mujer-primera-vez-dos-siglos-20260930160701-nt.html",
-    "https://aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike",
-    "https://bbc.co.uk/news/articles/ckr50yyddljlo",
-    "https://bbc.co.uk/news/articles/cq8r6rjdvlx6o",
-    "https://bbc.co.uk/news/articles/cw20vxxn876no",
-    "https://bbc.co.uk/news/articles/cwe879654mj7o",
-    "https://corriere.it/esteri/26_settembre_30/christa-pike-condanna-morte-5c15e215-fe5e-462c-b089-c4f72df4exlk.shtml",
-    "https://economictimes.indiatimes.com/news/international/us/christa-pike-set-to-be-tennessees-first-executed-woman-in-200-years-was-sexually-abused-as-a-toddler-and-raped-twice-fresh-details-emerge/articleshow/134556784.cms",
-    "https://elpais.com/us/2026-09-30/el-caso-de-christa-pike-la-primera-mujer-que-sera-ejecutada-en-tennessee-en-mas-de-dos-siglos.html",
-    "https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html",
-    "https://elpais.com/us/2026-09-30/la-ejecucion-de-christa-pike-es-frenada-por-una-corte-federal-de-apelaciones-en-tennessee.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30?evenement=fc97822d48",
-    "https://english.elpais.com/usa/2026-09-30/the-case-of-christa-pike-the-first-woman-due-to-be-executed-in-tennessee-in-over-200-years.html",
-    "https://france24.com/en/live-news/20260930-court-halts-tennessee-s-first-execution-of-woman-in-200-years",
-    "https://france24.com/fr/am%C3%A9riques/20260930-aux-%C3%A9tats-unis-la-condamnation-%C3%A0-mort-imminente-de-christa-pike-suspendue-au-dernier-moment",
-    "https://franceinfo.fr/monde/usa/apres-30-ans-dans-le-couloir-de-la-mort-aux-etats-unis-christa-pike-doit-etre-executee-malgre-la-polemique-sur-sa-sante-mentale_8215187.html",
-    "https://guardian-series.co.uk/news/national/26596465.us-court-halts-execution-christa-pike-murder-committed-aged-18",
-    "https://idahopress.com/ap_news/us/us-supreme-court-allows-christa-gail-pike-s-execution-in-tennessee-to-go-forward/article_942d27bc-fb24-53ea-90c2-f07a484a48ba.html",
-    "https://juneesoutherncross.com.au/story/9360627/us-court-halts-womans-execution-one-hour-before",
-    "https://kmxt.org/2026-09-28/tennessee-is-set-to-execute-a-woman-for-the-first-time-in-200-years",
-    "https://ksat.com/news/national/2026/09/28/tennessee-is-set-to-execute-a-woman-for-the-first-time-in-200-years",
-    "https://ksbw.com/article/tennessee-to-execute-woman-first-time-200-years/73946538",
-    "https://lbc.co.uk/article/christa-pike-death-sentence-5HjdjH7_2",
-    "https://lemonde.fr/international/article/2026/09/30/l-americaine-christa-pike-devrait-etre-la-premiere-femme-executee-dans-l-etat-du-tennessee-depuis-200-ans_6785927_3210.html",
-    "https://lemonde.fr/international/article/2026/09/30/la-justice-americaine-suspend-l-execution-de-christa-pike-quelques-minutes-avant-l-injection-letale-prevue_6786094_3210.html",
-    "https://liberation.fr/idees-et-debats/opinions/peine-de-mort-aux-etats-unis-laffaire-christa-pike-illustre-lindignite-dun-instinct-primaire-institutionnalise-20260930_QYY3RS5I3ZAJ5L4TEAEQMZJP3Q",
-    "https://liberation.fr/international/amerique/etats-unis-une-femme-va-etre-executee-dans-le-tennessee-pour-la-premiere-fois-depuis-200-ans-20260930_7NBPGNXAMBCU7D2OMGQNKKQSPE",
-    "https://newstalk1400online.iheart.com/content/2026-09-30-christa-pikes-execution-stayed-by-appeals-court",
-    "https://npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
-    "https://reuters.com/world/us/tennessee-due-execute-woman-first-time-two-centuries-2026-09-30",
-    "https://rfi.fr/fr/am%C3%A9riques/20260929-%C3%A9tats-unis-le-tennessee-s-appr%C3%AAte-%C3%A0-ex%C3%A9cuter-une-femme-pour-la-premi%C3%A8re-fois-en-200-ans",
-    "https://rfi.fr/fr/am%C3%A9riques/20260930-%C3%A9tats-unis-la-justice-suspend-in-extremis-l-ex%C3%A9cution-de-christa-pike-dans-le-tennessee",
-    "https://spiegel.de/ausland/christa-pike-todesstrafe-gouverneur-lehnt-gnadengesuch-vor-hinrichtung-ab-a-f90c166f-ed25-4469-a779-fd784cbb3801",
-    "https://spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe",
-    "https://spiegel.de/ausland/tennessee-und-der-fall-christa-pike-als-teenagerin-mordete-sie-jetzt-soll-sie-sterben-a-ef58efde-5413-47f0-bf00-a948182b92a7",
-    "https://spiegel.de/panorama/justiz/tennessee-supreme-court-erlaubt-hinrichtung-von-christa-pike-a-25e2b508-4b04-41ce-80d2-dfd5c9103488",
-    "https://straitstimes.com/world/united-states/appeals-court-halts-tennessees-first-execution-of-a-woman-in-two-centuries",
-    "https://thecourier.com.au/story/9359529/tennessee-to-execute-a-woman-for-first-time-since-1820",
-    "https://theguardian.com/us-news/2026/sep/28/tennessee-woman-execution-christa-pike",
-    "https://theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-    "https://thehindu.com/news/international/christa-pike-set-for-execution-as-tennessee-prepares-for-first-womans-death-in-two-centuries/article71526970.ece",
-    "https://ualrpublicradio.org/npr-news/2026-09-29/tennessee-is-set-to-execute-a-woman-for-the-first-time-in-200-years",
-    "https://wmuk.org/npr-news/2026-09-29/tennessee-is-set-to-execute-a-woman-for-the-first-time-in-200-years",
-    "https://www1.folha.uol.com.br/mundo/2026/09/ela-tambem-e-uma-vitima-quem-e-christa-pike-que-pode-ser-a-primeira-mulher-executada-no-tennessee-em-200-anos.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-01-alerte-01",
-   "date": "2026-10-01",
-   "publiee_a": "2026-09-30T20:09:47Z",
-   "titre": "Cristiano Ronaldo quitte la sélection portugaise avant le match contre le Danemark",
-   "texte": "Le joueur Cristiano Ronaldo a quitté le rassemblement de la sélection portugaise mercredi 30 septembre 2026, selon L'Équipe. Cette décision intervient à la veille d'une rencontre de Ligue des nations contre le Danemark.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/09/30/cristiano-ronaldo-quitte-la-selection-portugaise-a-la-veille-d-un-match-contre-le-danemark-apres-avoir-ete-laisse-sur-le-banc-lors-de-la-derniere-rencontre_6786124_3242.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Apres-le-psychodrame-avec-le-selectionneur-jorge-jesus-cristiano-ronaldo-a-quitte-le-rassemblement-du-portugal/1722427"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://video.lefigaro.fr/figaro/sports/alors-que-ronaldo-zappe-l-entrainement-et-quitte-le-stade-le-selectionneur-portugais-affirme-qu-il-n-y-a-aucun-incident-20260930"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/cristiano-ronaldo-annonce-quil-quitte-le-rassemblement-de-lequipe-du-portugal-20260930_OFHLRJQWD5D7LHOPJWCTIX5DHA"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/sport/fussball/cristiano-ronaldo-verlaesst-portugals-nationalteam-ruecktritt-weiter-offen-a-34318352-5380-4fe2-8266-460eb2614a26"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/ligue-des-nations/cristiano-ronaldo-annonce-qu-il-quitte-le-rassemblement-de-l-equipe-du-portugal-la-veille-du-match-contre-le-danemark_8216941.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20260930-fin-de-partie-cristiano-ronaldo-quitte-rassemblement-%C3%A9quipe-portugal"
-    }
-   ],
-   "cluster": "ec2a4a718dcfbf55",
-   "urls": [
-    "https://aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift",
-    "https://bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo",
-    "https://elpais.com/deportes/futbol/2026-09-30/cristiano-abandona-la-concentracion-de-la-seleccion-portuguesa.html",
-    "https://france24.com/fr/sports/20260930-fin-de-partie-cristiano-ronaldo-quitte-rassemblement-%C3%A9quipe-portugal",
-    "https://franceinfo.fr/sports/foot/ligue-des-nations/cristiano-ronaldo-annonce-qu-il-quitte-le-rassemblement-de-l-equipe-du-portugal-la-veille-du-match-contre-le-danemark_8216941.html",
-    "https://lefigaro.fr/sports/football/ligue-des-nations-jorge-jesus-dement-tout-incident-avec-cristiano-ronaldo-20260930",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-une-premiere-depuis-18-ans-la-statistique-qui-en-dit-long-sur-cristiano-ronaldo-20260928",
-    "https://lemonde.fr/sport/article/2026/09/30/cristiano-ronaldo-quitte-la-selection-portugaise-a-la-veille-d-un-match-contre-le-danemark-apres-avoir-ete-laisse-sur-le-banc-lors-de-la-derniere-rencontre_6786124_3242.html",
-    "https://lequipe.fr/Football/Actualites/Apres-le-psychodrame-avec-le-selectionneur-jorge-jesus-cristiano-ronaldo-a-quitte-le-rassemblement-du-portugal/1722427",
-    "https://lequipe.fr/Football/Actualites/Gestion-hesitante-colere-et-reconciliation-la-presse-portugaise-revient-sur-le-differend-entre-cristiano-ronaldo-et-jorge-jesus/1722290",
-    "https://lequipe.fr/Football/Actualites/Le-psychodrame-entre-ronaldo-et-le-portugal-continue-cr7-a-quitte-le-stade-avant-le-debut-de-l-entrainement/1722403",
-    "https://lequipe.fr/Football/Actualites/Ligue-des-nations-l-absence-de-cristiano-ronaldo-a-l-entrainement-du-portugal-suscite-de-nombreuses-interrogations/1722192",
-    "https://lequipe.fr/Football/Actualites/Mobilite-et-intensite-avec-ou-sans-sa-benediction-le-portugal-post-cristiano-ronaldo-est-peut-etre-deja-ne/1722297",
-    "https://liberation.fr/sports/football/cristiano-ronaldo-annonce-quil-quitte-le-rassemblement-de-lequipe-du-portugal-20260930_OFHLRJQWD5D7LHOPJWCTIX5DHA",
-    "https://spiegel.de/sport/fussball/cristiano-ronaldo-verlaesst-portugals-nationalteam-ruecktritt-weiter-offen-a-34318352-5380-4fe2-8266-460eb2614a26",
-    "https://theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-    "https://video.lefigaro.fr/figaro/sports/alors-que-ronaldo-zappe-l-entrainement-et-quitte-le-stade-le-selectionneur-portugais-affirme-qu-il-n-y-a-aucun-incident-20260930",
-    "https://www1.folha.uol.com.br/esporte/2026/09/cristiano-ronaldo-abandona-selecao-portuguesa-apos-entrevista-de-jesus.shtml"
    ]
   }
  ]

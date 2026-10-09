@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-08T06:53:33Z",
- "derniere": "2026-10-08",
+ "maj": "2026-10-09T06:53:14Z",
+ "derniere": "2026-10-09",
  "editions": [
+  {
+   "date": "2026-10-09",
+   "genere_a": "2026-10-09T06:53:14Z",
+   "articles": 8,
+   "une": [
+    "Les États-Unis vont retransmettre en direct l'exécution d'un ancien militaire",
+    "Une frappe russe contre deux bus tue au moins trente civils à Kramatorsk",
+    "Des rassemblements et des débats politiques suivent le décès de Maricarmen Abascal"
+   ],
+   "octets": 31788
+  },
   {
    "date": "2026-10-08",
    "genere_a": "2026-10-08T06:53:33Z",

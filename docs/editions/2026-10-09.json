@@ -1,0 +1,438 @@
+{
+ "date": "2026-10-09",
+ "genere_a": "2026-10-09T06:53:14Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-09-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des rassemblements et des débats politiques suivent le décès de Maricarmen Abascal",
+   "chapeau": "Des milliers de personnes ont manifesté à Madrid le jeudi 8 octobre 2026 pour rendre hommage à Maricarmen Abascal et réclamer des réformes du logement. L'octogénaire est décédée le mercredi 7 octobre 2026 dans un hôpital madrilène deux semaines après son expulsion.",
+   "corps": "María del Carmen Abascal est décédée à l'âge de 87 ans à l'hôpital Gregorio Marañón de Madrid, après son expulsion sur un brancard le 23 septembre 2026. Elle résidait depuis plus de soixante-dix ans dans cet appartement racheté par un fonds d'investissement qui voulait augmenter son loyer. Selon franceinfo le 9 octobre 2026 à 10h00, un accord devait pourtant lui permettre de réintégrer son logement.\n\nLe décès de la retraitée a relancé les manifestations nationales sur la crise du logement. Les rassemblements organisés le jeudi 8 octobre 2026 au soir dans le centre de la capitale espagnole ont réuni des milliers de participants. Les manifestants exigent un encadrement des loyers et une lutte contre la spéculation immobilière. Selon Al Jazeera le 9 octobre 2026 à 5h15, des hommages rendus au Parlement espagnol ont également provoqué des échanges tendus entre les députés.\n\nCette affaire influence le début de la campagne pour les élections législatives anticipées prévues le 29 novembre 2026. Le refus de la droite de voter deux textes du gouvernement renforçant la protection des locataires a causé la convocation de ce scrutin.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6e3x21ev9wwo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/08/crise-du-logement-en-espagne-l-octogenaire-symbole-du-mouvement-de-protestation-est-morte_6790168_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/spain/2026-10-08/timeline-of-the-maricarmen-case-from-four-eviction-attempts-to-a-housing-movement-that-shook-spain.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261008-espagne-la-mort-de-maricarmen-ravive-la-col%C3%A8re-sur-le-logement"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/espagne-mort-de-mariacarmen-l-octogenaire-expulsee-dont-lhistoire-a-embrase-le-pays-20261008"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/mort-de-maricarmen-etincelle-du-mouvement-de-protestation-sur-le-logement-en-espagne-un-electrochoc-pour-la-societe-et-le-monde-politique-20261008_JXURXKZMXJFZLGD6LYXJTSHLXA"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/maria-del-carmen-abascal-spanien-trauert-um-87-jaehrige-a-5142aa54-cd64-4d80-b268-923ce4a6aade"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/le-destin-tragique-de-maricarmen-cette-retraitee-decedee-visage-de-la-crise-du-logement-en-espagne-20261008"
+    }
+   ],
+   "premiere_parution": "2026-10-07T01:15:00Z",
+   "suite_de": "2026-10-08-monde-003",
+   "mots": 224,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Parti travailliste conserve la circonscription de Holborn et St Pancras",
+   "chapeau": "La candidate travailliste Sagal Abdi-Wali a remporté l'élection législative partielle de Holborn et St Pancras à Londres le 9 octobre 2026. Elle a devancé le chef du Parti vert Zack Polanski dans le secteur autrefois représenté par Keir Starmer.",
+   "corps": "Le Parti travailliste conserve son siège au Parlement britannique à l'issue du scrutin partiel organisé dans la circonscription de Holborn et St Pancras. Cette consultation électorale s'est déroulée à la suite de la démission de l'ancien Premier ministre Keir Starmer en septembre 2026.\n\nSagal Abdi-Wali, dirigeante du conseil local, a emporté l'élection pour le parti au pouvoir dirigé par le Premier ministre Andy Burnham. Elle a devancé le chef des Verts, Zack Polanski. Selon les données publiées le 9 octobre 2026 par le journal Impartial Reporter, la candidate du Parti travailliste a obtenu une majorité de 3 364 voix. Ce même média précise qu'un basculat de 13 % des suffrages s'est produit en faveur du Parti vert lors de ce scrutin.\n\nCette élection partielle constituait un test électoral pour le gouvernement d'Andy Burnham face aux écologistes. Le Parti vert cherchait à s'imposer sur l'aile gauche de la politique britannique et à capter les électeurs déçus par les positions passées du Parti travailliste concernant le Moyen-Orient. Selon des informations rapportées le 9 octobre 2026 par The Guardian, des militants locaux et des élus ont indiqué que le vote par les Verts d'une motion antisioniste le week-end précédent avait détourné certains électeurs de leur candidature. Malgré sa défaite, Zack Polanski a affirmé son intention de rester à la tête de sa formation politique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-pm-burnhams-labour-party-faces-challenge-from-greens-in-starmers-old-seat"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-07/burnham-bounce-threatens-to-sink-green-leader-s-uk-commons-bid"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/2026-10-08/ty-article/u-k-pm-burnhams-labour-party-faces-challenge-from-greens-in-starmers-old-seat/000001a1-1a22-d042-a9e9-1a2210b00000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party"
+    },
+    {
+     "nom": "impartialreporter.com",
+     "url": "https://impartialreporter.com/news/national/26620984.labour-retains-starmers-holborn-seat-defeating-green-leader-zack-polanski"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/uk-pm-burnhams-labour-fends-off-left-wing-greens-in-local-election/article71562547.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-07T14:49:12Z",
+   "suite_de": null,
+   "mots": 259,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des agents de l'immigration tirent sur un homme à New York",
+   "chapeau": "Un agent du service de contrôle de l'immigration a blessé par balle un homme à New York le jeudi 8 octobre 2026 dans l'après-midi. L'incident s'est produit dans un quartier résidentiel en présence d'un enfant de cinq ans qui se trouvait dans le véhicule de la victime.",
+   "corps": "Des agents du service de l'immigration et du contrôle des douanes, appelé ICE, ont mené une opération policière dans la ville de New York. Selon les déclarations du maire de la ville, Zohran Mamdani, les agents ont encerclé un homme et un enfant de cinq ans qui se trouvaient dans une voiture avant de tirer plusieurs coups de feu. L'enfant s'en est sorti sans blessure physique.\n\nLa victime, originaire de la République dominicaine, a été transportée dans un hôpital local. Les autorités médicales indiquent que l'homme est conscient et reçoit des soins. Cet événement a provoqué des manifestations de protestation dans la ville de New York.\n\nLe maire Zohran Mamdani, la gouverneure et des parlementaires américains ont condamné l'action de l'agence fédérale. Le maire a exigé le départ de cette police de la ville. Il a également déclaré avoir mené des négociations infructueuses avec Donald Trump pour obtenir la libération de l'homme blessé.\n\nLe département de la sécurité intérieure, le DHS, a affirmé de son côté que l'opération visait à arrêter un étranger en situation irrégulière ayant un casier judiciaire. Selon cette administration, il s'agit du premier incident avec usage d'une arme à feu impliquant ses agents dans ce secteur.\n\nLes sources divergent sur le lieu exact de l'incident dans la ville de New York.\n\n## Ce que disent les sources\n\nLe département de la police de New York et le département de la sécurité intérieure situent les faits dans le quartier du Bronx. Le journal espagnol ABC affirme pour sa part que les tirs ont eu lieu vers 16 heures dans le quartier de Marble Hill, une zone résidentielle située entre le Bronx et le Haut Manhattan.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ktul.com",
+     "url": "https://ktul.com/news/nation-world/federal-law-enforcement-agents-shoot-person-in-nyc-police-say-new-york-city-bronx-shooting-guns-us-immigration-and-customs-enforcement-department-of-homeland-security"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says"
+    },
+    {
+     "nom": "pajhwok.com",
+     "url": "https://pajhwok.com/2026/10/09/ice-agent-shoots-and-injures-man-in-new-york-city"
+    },
+    {
+     "nom": "digi24.ro",
+     "url": "https://digi24.ro/stiri/externe/sua/agentii-ice-au-impuscat-un-barbat-la-new-york-in-masina-acestuia-se-afla-un-copil-de-5-ani-newyorkezii-sunt-revoltati-3984851"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/migracion/2026-10-08/un-agente-del-ice-dispara-y-hiere-a-una-persona-en-la-ciudad-de-nueva-york.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c59vzk9yypn3o"
+    }
+   ],
+   "premiere_parution": "2026-10-08T22:11:55Z",
+   "suite_de": null,
+   "mots": 324,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les États-Unis suspendent plusieurs entreprises technologiques d'un programme de visas",
+   "chapeau": "Le gouvernement américain a suspendu jeudi 8 octobre 2026 plusieurs grandes entreprises informatiques d'un programme d'accès à la résidence permanente pour leurs salariés étrangers. Le vice-président JD Vance a annoncé cette mesure de restriction sur le territoire des États-Unis.",
+   "corps": "L'administration américaine accuse les sociétés ciblées de fraudes et d'abus concernant le système de travailleurs qualifiés. Les autorités reprochent à ces groupes de contourner les règles pour réduire les coûts salariaux au détriment des employés américains.\n\nLa décision vise notamment les entreprises Microsoft, Adobe, Infosys, Cognizant, Tata, Wipro et HCL. Le Département du Travail suspend pour une durée indéterminée leur droit de parrainer des employés titulaires d'un visa H-1B dans le cadre du programme PERM. Ce dispositif permettait aux salariés qualifiés d'obtenir une carte de résident permanent, appelée green card.\n\nL'action gouvernementale s'étend également au milieu universitaire. Les autorités américaines ont ouvert des enquêtes sur neuf universités de premier plan. L'administration les soupçonne d'exploiter les étudiants internationaux pour abaisser les rémunérations dans le secteur.\n\nCe blocage prive les travailleurs étrangers du secteur technologique d'une voie courante vers la résidence permanente. La mesure s'inscrit dans la politique stricte de limitation de l'immigration menée par l'administration présidentielle depuis le début de son mandat.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/tec/2026/10/governo-trump-restringe-microsoft-e-outras-big-techs-de-contratar-estrangeiros-via-green-card.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-freezes-microsoft-adobe-infosys-green-card-applications-over-alleged-fraud"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-suspends-microsoft-adobe-from-filing-for-green-cards/a-79605053?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "advocateanddemocrat.com",
+     "url": "https://advocateanddemocrat.com/news/national/article_91f7f2b6-85c0-5a15-8260-d8bc4237aee1.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/ussuspends-microsoft-adobe-and-major-it-firms-from-perm-green-card-programme/article71560826.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-08T14:49:55Z",
+   "suite_de": null,
+   "mots": 200,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Au Tennessee, la condamnée Christa Pike recommence à marcher après son exécution ratée",
+   "chapeau": "La détenue américaine Christa Pike se rétablit dans un hôpital de Nashville au Tennessee après avoir survécu à deux injections létales administrées le 30 septembre 2026. Ses avocats ont annoncé le 8 octobre 2026 que la femme de 50 ans a recommencé à marcher dans sa chambre d'hôpital tout en restant attachée à son lit.",
+   "corps": "La condamnée à mort s'est réveillée mardi après l'échec de sa procédure d'exécution au Tennessee.\n\nL'équipe médicale et les conseils de la prison envisageaient de débrancher les systèmes d'assistance respiratoire de Christa Pike avant son réveil soudain. Son avocat Randy Spivey a déclaré lors d'une audience devant un tribunal du Tennessee que la patiente s'est remise à parler à la surprise générale. Ses premières paroles ont été pour demander où elle se trouvait. Selon ses défenseurs, la détenue s'est déclarée en colère et désorientée après avoir pris conscience de la tentative d'exécution.\n\nLes membres de son équipe juridique ont apporté des précisions sur l'évolution de son état de santé le 8 octobre 2026. L'avocat Stephen Ferrell a expliqué à la presse que la prisonnière a réussi à se lever et à faire quelques pas dans sa chambre d'hôpital. Il a souligné que sa cliente reste toutefois confuse sur le plan mental et présente un état psychologique instable.\n\nLa détenue avait reçu deux doses létales de pentobarbital le 30 septembre 2026 avant de survivre. Cette procédure manquée constitue un événement inédit selon l'organisme Death Penalty Information Center. À la suite de cet événement, le gouverneur du Tennessee, Bill Lee, a ordonné la suspension de l'ensemble des exécutions prévues dans l'État.\n\nUn juge du Tennessee a imposé aux autorités locales de conserver toutes les preuves relatives à cette procédure d'exécution manquée. La justice doit étudier les circonstances de cet échec alors que la condamnée reste sous surveillance médicale continue à l'hôpital de Nashville.\n\nChrista Pike purgeait une peine de mort prononcée pour un meurtre perpétré en 1995. Son avenir judiciaire et son maintien en détention font désormais l'objet d'un examen par les autorités judiciaires de l'État.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_8227456.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/execution-ratee-aux-etats-unis-christa-pike-a-failli-etre-debranchee-avant-son-reveil-selon-son-avocat-20261007"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c617kdle01k9o"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/christa-pikes-first-words-after-surviving-execution-where-am-i-attorney-says/article71557194.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/8/christa-pike-almost-taken-off-life-support-before-she-woke-up"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261008-%C3%A9tats-unis-l-affaire-christa-pike-peut-elle-relancer-le-d%C3%A9bat-sur-la-peine-de-mort"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/08/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-recommence-a-marcher-mais-reste-quelque-peu-confuse-selon-son-avocat_6790229_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-06T20:49:00Z",
+   "suite_de": "2026-10-08-monde-001",
+   "mots": 339,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Les États-Unis vont retransmettre en direct l'exécution d'un ancien militaire",
+   "chapeau": "Le département de la Défense des États-Unis a annoncé la diffusion en direct de l'exécution de Nidal Hasan prévue le 3 décembre 2026. Cet ancien psychiatre de l'armée a tué treize personnes sur la base militaire de Fort Hood au Texas en 2009.",
+   "corps": "Le secrétaire à la Défense Pete Hegseth a déclaré lors d'un entretien accordé au média Real America's Voice que la sentence contre Nidal Hasan serait exécutée en public par un peloton de soldats. Un responsable du Pentagone a confirmé ensuite que la mise à mort ferait l'objet d'une retransmission vidéo en direct sur Internet.\n\nL'ancien major Nidal Hasan a été condamné pour l'attaque par arme à feu perpétrée en 2009 dans le complexe militaire texan de Fort Hood. L'intervention du peloton d'exécution militaire constitue une première pour l'armée américaine depuis 1961 selon Deutsche Welle le 9 octobre 2026. L'agence Reuters indique le 9 octobre 2026 qu'un représentant du Pentagone qualifie cette retransmission en direct de démarche inédite.\n\n## Ce que disent les sources\n\nLes sources présentent des dates différentes concernant la précédente application de la peine de mort par fusillement au sein des forces armées. Le journal El País rapporte le 9 octobre 2026 que le Pentagone réalise sa première exécution par peloton depuis 1945. Le quotidien The Hindu indique le 9 octobre 2026 que Pete Hegseth situe la dernière exécution d'un militaire par fusillement pendant la Seconde Guerre mondiale. Le média Deutsche Welle affirme pour sa part le 9 octobre 2026 qu'il s'agit de la première exécution par l'armée américaine depuis 1961.\n\nLes précisions juridiques encadrant la diffusion publique de la sentence ne sont pas détaillées dans les déclarations officielles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/eua-vao-transmitir-execucao-de-ex-major-por-fuzilamento-aprovada-por-trump.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/fort-hood-pentagon-plant-livestream-der-hinrichtung-von-nidal-hasas-a-9a9f55b1-378a-40a2-a52b-9c24a6524ac5"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pentagon-says-firing-squad-execution-of-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed/article71561622.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/en/international-news/20261009-us-military-to-livestream-firing-squad-execution-of-fort-hood-shooter"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-07T19:08:48Z",
+   "suite_de": null,
+   "mots": 273,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Une frappe russe contre deux bus tue au moins trente civils à Kramatorsk",
+   "chapeau": "Les forces russes ont bombardé la ville de Kramatorsk le jeudi 8 octobre 2026 dans la matinée. Le tir a atteint deux bus de transport en commun et a coûté la vie à au moins trente personnes.",
+   "corps": "La frappe a atteint une artère de Kramatorsk le jeudi 8 octobre 2026 aux alentours de dix heures du matin. Deux véhicules de transport collectif qui circulaient dans la rue ont subi le souffle de l'explosion. Les autorités locales ont immédiatement ordonné l'arrêt complet des transports publics urbains.\n\nLes débris ont également endommagé un bâtiment d'habitation situé sur la même voie. Les corps de plusieurs habitants gisaient le long du trottoir à proximité d'une carcasse de véhicule calciné. La ville de Kramatorsk, qui sert de centre administratif à la région de Donetsk, a décrété une journée de deuil officiel pour le vendredi 9 octobre 2026.\n\nLes bilans humains transmis par les représentants officiels font état d'un nombre élevé de victimes parmi les usagers des transports. Les services judiciaires de la région de Donetsk ont recensé au moins trente décès dans les heures qui ont suivi l'impact. En parallèle, des bombardements distincts ont tué trois autres résidents dans une localité voisine.\n\nLe président ukrainien Volodymyr Zelensky a effectué un déplacement sur place pour rencontrer les victimes et leur rendre hommage. Le chef de l'État ukrainien a affirmé que les forces de Moscou avaient visé intentionnellement un arrêt de transport ordinaire afin de faucher un maximum de vies civiles. L'Organisation des Nations unies a réagi en publiant une condamnation formelle de cette opération armée.\n\nDans le même intervalle, des bombardements ont visé la capitale ukrainienne, Kiev. Ces actions ont provoqué une aggravation des pannes du réseau électrique local. Pendant ce temps, les forces de Kiev poursuivent et augmentent leurs propres opérations offensives contre des cibles situées à l'intérieur du territoire de la Russie.\n\n## Ce que disent les sources\n\nLes comptes rendus divergent sur la nature exacte du projectile et sur le nombre total de personnes touchées.\n\nSur le bilan humain, The Hindu (08/10/2026 à 14:43), Le Figaro (08/10/2026 à 16:09), The Financial Times (08/10/2026 à 16:38), The Straits Times (08/10/2026 à 18:10) et Le Monde (08/10/2026 à 19:17) signalent au moins trente morts. NPR (08/10/2026 à 15:25), The Guardian (08/10/2026 à 18:00) et ABC (08/10/2026 à 21:48) comptabilisent au moins trente morts et dix-huit blessés. De son côté, Al Jazeera (08/10/2026 à 21:07) annonce un bilan plus lourd d'au moins trente-trois personnes tuées. Enfin, franceinfo (09/10/2026 à 09:57) fait état d'au moins trente morts et de vingt-deux blessés.\n\nSur l'arme employée, Le Figaro, Le Monde et France 24 mentionnent l'usage d'une bombe planante, projectile aérien doté d'ailes repliables. The Guardian évoque au contraire un missile dans son titre avant de citer le parquet régional qui parle d'une bombe larguée depuis les airs.\n\nLe ministère russe de la Défense n'a fourni aucune déclaration sur les faits décrits.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/death-toll-russian-strike-in-eastern-ukraine/article71559309.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/08/g-s1-147106/russia-ukraine-war"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-une-frappe-russe-sur-un-bus-fait-au-moins-12-morts-dans-l-est-du-pays-20261008"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/fb4d6b18-3b72-473c-90a5-3864c1dad27e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261008-ukraine-kramatorsk-frapp%C3%A9e-zelensky-au-chevet-des-victimes"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russian-strike-on-buses-kills-30-in-frontline-ukrainian-city"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/08/ukraine-les-images-des-degats-a-kramatorsk-apres-l-attaque-russe-de-deux-bus_6790243_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-08T08:15:00Z",
+   "suite_de": null,
+   "mots": 511,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-09-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump exclut toute attaque contre l'Iran avant le scrutin de novembre",
+   "chapeau": "Le président américain Donald Trump a annoncé que les forces armées des États-Unis n'attaqueront pas l'Iran avant les élections de mi-mandat prévues le 3 novembre 2026. Cette décision a été communiquée via le réseau social Truth Social le 8 octobre 2026.",
+   "corps": "Le président américain Donald Trump a déclaré le jeudi 8 octobre 2026 sur le réseau social Truth Social que les États-Unis ne mèneront pas de nouvelles frappes contre l'Iran avant les élections de mi-mandat du 3 novembre 2026 (Associated Press, 08/10/2026). Il a affirmé que les deux nations ont des discussions productives concernant la fin de leur conflit (The Straits Times, 08/10/2026). Cette guerre dure depuis six mois (The Straits Times, 08/10/2026). Un accord intérimaire de courte durée avait été signé en juin pour établir un cessez-le-feu de soixante jours et un cadre de paix permanent (The Hindu, 09/10/2026).\n\nCette déclaration intervient après la publication d'un article dans The Atlantic indiquant que le Pentagone avait reçu l'ordre de préparer une frappe potentielle avant les élections (Haaretz, 08/10/2026). Selon Le Monde du 8 octobre 2026, les cours du pétrole ont augmenté jeudi en raison de ces informations de presse, dans un contexte de mécontentement des électeurs face à la hausse des prix des carburants (Le Monde, 08/10/2026). Des préoccupations similaires concernant l'inflation et le coût de la vie ont été soulignées par Deutsche Welle le 8 octobre 2026.\n\nBloomberg rapporte le 9 octobre 2026 que cette décision est prise alors que l'Iran intensifie ses attaques contre des navires citernes dans le détroit d'Hormuz. Des militants soutenus par Téhéran au Yémen ont également ciblé des installations énergétiques en Arabie saoudite (Bloomberg, 09/10/2026). De plus, les États-Unis maintiennent un blocus naval et ont déplacé des bombardiers depuis une base au Royaume-Uni en raison de menaces liées à l'Iran (Bloomberg, 09/10/2026).\n\n## Ce que disent les sources\n\nLe représentant américain Raja Krishnamoorthi estime que l'Iran pourrait tirer un avantage militaire et économique de cette annonce présidentielle (Bloomberg, 09/10/2026). Il met en doute la réalité de discussions productives avec l'Iran et affirme que le conflit profite à la Chine et à la Russie en mobilisant les forces et les munitions américaines au Moyen-Orient (Bloomberg, 09/10/2026). Par ailleurs, l'ancien diplomate américain Brett Bruen indique que l'Iran pourrait ne pas suivre la volonté de Donald Trump d'apaiser les tensions et pourvoie l'usage d'autres actions (Bloomberg, 09/10/2026).\n\nCertaines informations précises sur le contenu exact des discussions diplomatiques entre Washington et Téhéran manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/trump-iran-war-midterms-attack-422b1799a1a06466279ac265f560e014"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-10-08/ty-article/.premium/trump-u-s-will-not-attack-iran-before-midterms/000001a1-1c52-d3ad-a3b7-bd7e04920000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-says-us-will-not-attack-iran-before-midterm-elections-in-november"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-us-will-not-resume-military-strikes-on-iran-before-nov-3-midterm-elections/article71561624.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-08/balance-of-power-late-edition-10-08-2026-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-08T00:00:00Z",
+   "suite_de": null,
+   "mots": 429,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-09-geopolitique-001",
+  "2026-10-09-geopolitique-002",
+  "2026-10-09-monde-001",
+  "2026-10-09-geopolitique-003",
+  "2026-10-09-monde-002",
+  "2026-10-09-monde-003",
+  "2026-10-09-monde-004",
+  "2026-10-09-monde-005"
+ ]
+}

@@ -1,6 +1,78 @@
 {
- "maj": "2026-10-09T01:22:07Z",
+ "maj": "2026-10-09T10:39:28Z",
  "alertes": [
+  {
+   "id": "2026-10-09-alerte-03",
+   "date": "2026-10-09",
+   "publiee_a": "2026-10-09T10:39:28Z",
+   "titre": "La juriste sud-africaine Navi Pillay reçoit le prix Nobel de la paix",
+   "texte": "Le comité Nobel norvégien a attribué le prix Nobel de la paix 2026 à Navanethem Pillay ce vendredi 9 octobre à Oslo. L'institution récompense l'action de l'ancienne magistrate sud-africaine en faveur de la paix et des règles juridiques internationales.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/un-human-rights-office-welcomes-nobel-prize-winner-pillay-as-staunch-defender-of-human-rights"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261009-le-nobel-de-la-paix-2026-d%C3%A9cern%C3%A9-%C3%A0-la-sud-africaine-navanethem-navi-pillay"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/lavocate-sud-africaine-navanethem-pillay-recoit-le-prix-nobel-de-la-paix-20261009_UW5SGIQO3NAGRANNFXYLPSZSRM"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/sigue-directo-anuncio-premio-nobel-paz-2026-20261009101339-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020"
+    }
+   ],
+   "cluster": "02e5589e83c21412",
+   "urls": [
+    "https://abc.es/internacional/sigue-directo-anuncio-premio-nobel-paz-2026-20261009101339-nt.html",
+    "https://aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay",
+    "https://aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize",
+    "https://bloomberg.com/news/articles/2026-10-09/nobel-peace-prize-awarded-to-international-jurist-navi-pillay",
+    "https://bloomberg.com/news/videos/2026-10-09/nobel-peace-prize-goes-to-jurist-navi-pillay-video",
+    "https://dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020",
+    "https://dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-10-09/premio-nobel-de-la-paz.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_9?evenement=a94b6bc8fb",
+    "https://france24.com/fr/europe/20261009-le-prix-nobel-de-la-paix-est-d%C3%A9cern%C3%A9-%C3%A0-navanethem-pillay",
+    "https://france24.com/fr/vid%C3%A9o/20261009-le-nobel-de-la-paix-2026-d%C3%A9cern%C3%A9-%C3%A0-la-sud-africaine-navanethem-navi-pillay",
+    "https://franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-la-paix-est-decerne-a-la-sud-africaine-navanethem-navi-pillay-pour-ses-efforts-en-faveur-de-la-promotion-de-la-paix-et-du-droit-international_8229787.html",
+    "https://ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
+    "https://la-croix.com/international/prix-nobel-de-la-paix-2026-la-sud-africaine-navanethem-navi-pillay-recompensee-20261009",
+    "https://lefigaro.fr/international/le-prix-nobel-de-la-paix-2026-decerne-a-navanethem-pillay-20261009",
+    "https://lemonde.fr/international/article/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay-pour-ses-efforts-en-faveur-de-la-paix-et-du-droit-international_6790542_3210.html",
+    "https://liberation.fr/international/lavocate-sud-africaine-navanethem-pillay-recoit-le-prix-nobel-de-la-paix-20261009_UW5SGIQO3NAGRANNFXYLPSZSRM",
+    "https://nbcdfw.com/news/national-international/navi-pillay-wins-nobel-peace-prize-international-justice/4088875",
+    "https://npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+    "https://nrc.nl/nieuws/2026/10/09/oud-vn-mensenrechtenchef-navanethem-pillay-wint-nobelprijs-voor-de-vrede-a4938594",
+    "https://rfi.fr/fr/afrique/20261009-le-prix-nobel-2026-de-la-paix-d%C3%A9cern%C3%A9-%C3%A0-la-sud-africaine-navanethem-navi-pillay",
+    "https://rockymounttelegram.com/news/world/navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice/article_d27477ed-40a0-5c1d-8862-7f99d9998f64.html",
+    "https://spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet-a-dc9b7b39-2edc-4ba3-9796-3f9adad4d34d",
+    "https://straitstimes.com/world/europe/south-africas-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+    "https://straitstimes.com/world/europe/un-human-rights-office-welcomes-nobel-prize-winner-pillay-as-staunch-defender-of-human-rights",
+    "https://theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+    "https://thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/10/nobel-da-paz-premia-navanethem-pillay.shtml"
+   ]
+  },
   {
    "id": "2026-10-09-alerte-01",
    "date": "2026-10-09",

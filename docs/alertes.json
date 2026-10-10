@@ -1,6 +1,86 @@
 {
- "maj": "2026-10-10T01:00:17Z",
+ "maj": "2026-10-10T09:57:11Z",
  "alertes": [
+  {
+   "id": "2026-10-10-alerte-03",
+   "date": "2026-10-10",
+   "publiee_a": "2026-10-10T09:57:11Z",
+   "titre": "L'astronaute Sophie Adenot s'exprime publiquement après son retour sur Terre",
+   "texte": "L'astronaute française Sophie Adenot a réalisé sa première intervention publique samedi 10 octobre 2026 à Cologne, en Allemagne. La spationaute a achevé jeudi sa mission en orbite à bord de la Station spatiale internationale.",
+   "sources": [
+    {
+     "nom": "ESA",
+     "url": "https://esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sciences/espace/de-retour-sur-terre-sophie-adenot-defend-une-precieuse-planete-que-nous-partageons-tous-20261010_SLEKXNG7WBAU5NUU6CYU6JEI6A"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sciences/c-etait-beaucoup-plus-facile-la-haut-decouvrez-les-premiers-mots-de-l-astronaute-francaise-sophie-adenot-a-son-retour-sur-terre-20261010"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sciences/article/2026/10/10/de-retour-sur-la-terre-ferme-sophie-adenot-dit-etre-passee-par-toutes-les-emotions-dans-l-espace_6790969_1650684.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/l-astronaute-francaise-sophie-adenot-de-retour-sur-terre-ferme-est-passee-par-toutes-les-emotions-dans-l-espace-20261010"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/science/20261010-espace-je-suis-pass%C3%A9e-par-toutes-les-%C3%A9motions-humaines-dit-sophie-adenot-de-retour-en-europe"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-suivez-le-depart-de-l-iss-de-l-astronaute-francaise-et-de-son-equipage-prevu-a-14h05_8223154.html"
+    }
+   ],
+   "cluster": "40dadae63b491c8e",
+   "urls": [
+    "https://esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot",
+    "https://france24.com/fr/%C3%A9co-tech/20261007-l-astronaute-sophie-adenot-de-retour-sur-terre",
+    "https://france24.com/fr/%C3%A9co-tech/20261008-apr%C3%A8s-espace-nombreux-d%C3%A9fis-physiques-qui-attendent-sophie-adenot",
+    "https://france24.com/fr/%C3%A9co-tech/20261008-en-direct-retour-sur-terre-sophie-adenot-nasa",
+    "https://france24.com/fr/%C3%A9co-tech/20261010-pass%C3%A9e-par-toutes-les-%C3%A9motions-les-premiers-mots-de-sophie-adenot-apr%C3%A8s-son-retour-sur-terre",
+    "https://france24.com/fr/vid%C3%A9o/20261008-espace-sophie-adenot-bient%C3%B4t-de-retour-sur-terre",
+    "https://france24.com/fr/vid%C3%A9o/20261008-sophie-adenot-que-se-passe-t-il-pour-les-astronautes-lors-du-retour-sur-terre",
+    "https://france24.com/fr/vid%C3%A9o/20261010-l-astronaute-fran%C3%A7aise-sophie-adenot-de-retour-sur-terre-ferme",
+    "https://franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-sophie-adenot-enfin-les-pieds-sur-terre_8229460.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/apres-huit-mois-dans-l-espace-la-francaise-sophie-adenot-est-de-retour-sur-terre_8228875.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/apres-une-mission-de-huit-mois-sophie-adenot-est-en-route-pour-la-terre_8227930.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/capsule-chauffee-a-1900-c-retour-a-haut-risque-de-sophie-adenot_8227141.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/equilibre-muscle-taille-les-defis-qui-attendent-sophie-adenot-apres-son-retour-sur-terre_8228971.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/l-emouvant-discours-de-sophie-adenot-apres-son-retour-sur-terre_8231359.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/les-larmes-suivent-l-apesanteur-maintenant-sophie-adenot-prononce-un-emouvant-discours-apres-son-retour-sur-la-terre-ferme_8231197.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/235-jours-dans-l-espace-sophie-adenot-de-retour-sur-terre_8228998.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-l-astronaute-francaise-doit-amerrir-au-large-de-la-californie-a-17h34_8219959.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-suivez-le-depart-de-l-iss-de-l-astronaute-francaise-et-de-son-equipage-prevu-a-14h05_8223154.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-suivez-son-arrivee-a-cologne-et-sa-prise-de-parole-avant-de-rejoindre-le-centre-europeen-des-astronautes_8228074.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/retour-de-sophie-adenot-sur-terre-on-n-a-pas-le-droit-de-conduire-de-faire-du-velo-de-la-moto-explique-un-astronaute-a-propos-de-la-readaptation_8228554.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/surveiller-son-c-ur-retrouver-l-equilibre-quel-est-le-programme-de-readaptation-pour-sophie-adenot-apres-son-retour-sur-terre_8218453.html",
+    "https://franceinfo.fr/sciences/espace/sophie-adenot/video-l-astronaute-francaise-sophie-adenot-a-amerri-en-californie-apres-une-mission-historique-de-huit-mois_8228764.html",
+    "https://la-croix.com/a-vif/affaire-bardella-comment-annoncer-les-choses-avec-douceur-a-sophie-adenot-20261007",
+    "https://la-croix.com/l-astronaute-francaise-sophie-adenot-de-retour-sur-terre-ferme-est-passee-par-toutes-les-emotions-dans-l-espace-20261010",
+    "https://la-croix.com/planete/iss-la-capsule-transportant-sophie-adenot-et-ses-coequipiers-a-amerri-dans-le-pacifique-20261008",
+    "https://la-croix.com/planete/retour-sur-terre-de-sophie-adenot-ce-que-l-espace-fait-a-lame-des-astronautes-20261007",
+    "https://lefigaro.fr/international/l-astronaute-francaise-sophie-adenot-de-retour-sur-terre-apres-huit-mois-a-bord-de-l-iss-20261008",
+    "https://lefigaro.fr/sciences/c-etait-beaucoup-plus-facile-la-haut-decouvrez-les-premiers-mots-de-l-astronaute-francaise-sophie-adenot-a-son-retour-sur-terre-20261010",
+    "https://lefigaro.fr/sciences/vingt-sept-heures-de-voyage-28-000-km-h-et-1900-0c-le-recit-du-retour-reussi-de-sophie-adenot-sur-terre-20261008",
+    "https://lemonde.fr/sciences/article/2026/10/08/sophie-adenot-a-amerri-jeudi-apres-un-sejour-record-dans-la-station-spatiale-internationale_6790250_1650684.html",
+    "https://lemonde.fr/sciences/article/2026/10/08/suivez-en-direct-le-retour-sur-terre-de-sophie-adenot-apres-huit-mois-passes-a-bord-de-l-iss_6790242_1650684.html",
+    "https://lemonde.fr/sciences/article/2026/10/10/de-retour-sur-la-terre-ferme-sophie-adenot-dit-etre-passee-par-toutes-les-emotions-dans-l-espace_6790969_1650684.html",
+    "https://lemonde.fr/videos/video/2026/10/08/les-images-du-retour-de-sophie-adenot-sur-terre-apres-huit-mois-a-bord-de-l-iss_6790272_1669088.html",
+    "https://liberation.fr/sciences/espace/cest-comme-un-vieillissement-accelere-mais-reversible-comment-le-corps-de-sophie-adenot-va-t-il-se-readapter-a-la-vie-sur-terre-20261008_6HVEKGWHAVAOXBECPLWLR2SU4I",
+    "https://liberation.fr/sciences/espace/de-retour-sur-terre-sophie-adenot-defend-une-precieuse-planete-que-nous-partageons-tous-20261010_SLEKXNG7WBAU5NUU6CYU6JEI6A",
+    "https://liberation.fr/sciences/espace/suivez-en-direct-lamerrissage-de-lastronaute-sophie-adenot-apres-son-sejour-dans-liss-20261008_J5SY63QWA5DTPAOW4NUBSOL7AE",
+    "https://liberation.fr/sciences/histoire/retour-de-sophie-adenot-en-martinique-quand-les-reves-despace-sont-des-souhaits-de-liberte-20261008_PJCUULNJEBGDVMFVKBVIR4JAMI",
+    "https://rfi.fr/fr/france/20261007-apr%C3%A8s-235-jours-pass%C3%A9s-dans-l-espace-sophie-adenot-ach%C3%A8ve-une-mission-de-tous-les-records-dans-l-iss",
+    "https://rfi.fr/fr/france/20261008-l-astronaute-fran%C3%A7aise-sophie-adenot-est-de-retour-sur-terre-apr%C3%A8s-huit-mois-dans-l-espace",
+    "https://rfi.fr/fr/science/20261010-espace-je-suis-pass%C3%A9e-par-toutes-les-%C3%A9motions-humaines-dit-sophie-adenot-de-retour-en-europe"
+   ]
+  },
   {
    "id": "2026-10-10-alerte-01",
    "date": "2026-10-10",

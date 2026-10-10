@@ -1,6 +1,188 @@
 {
- "maj": "2026-10-10T09:57:11Z",
+ "maj": "2026-10-10T21:48:18Z",
  "alertes": [
+  {
+   "id": "2026-10-11-alerte-01",
+   "date": "2026-10-11",
+   "publiee_a": "2026-10-10T21:47:16Z",
+   "titre": "Donald Trump demande le remplacement du président ukrainien Volodymyr Zelensky",
+   "texte": "Donald Trump a réclamé samedi le départ de Volodymyr Zelensky afin de conclure un accord de paix avec la Russie. Le président américain conteste l'attitude du dirigeant ukrainien après avoir conclu une entente pétrolière avec Moscou.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraine-needs-a-new-president-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-rompe-zelenski-dice-hora-ucrania-nuevo-20261010190655-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_10/trump-contro-zelensky-nuovo-leader-ucraina-267d32dd-2281-4a6a-a21d-b074aaa46xlk.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-face-a-donald-trump-qui-reclame-un-nouveau-president-a-kiev-le-royaume-uni-assure-volodymyr-zelensky-de-sa-totale-solidarite_6787996_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-pour-parvenir-a-un-accord-avec-la-russie_8231842.html"
+    }
+   ],
+   "cluster": "5591d5883f0a382e",
+   "urls": [
+    "https://abc.es/internacional/trump-rompe-zelenski-dice-hora-ucrania-nuevo-20261010190655-nt.html",
+    "https://aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war",
+    "https://aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine",
+    "https://bbc.co.uk/news/articles/cqe8r5l7n92jo",
+    "https://bbc.co.uk/news/videos/cwkg50dgpml7o",
+    "https://bloomberg.com/news/articles/2026-10-10/trump-suggests-ukraine-needs-a-new-president-blasting-zelenskyy",
+    "https://bnnbloomberg.ca/markets/oil/2026/10/10/trump-blames-zelenskyy-for-us-diesel-prices",
+    "https://corriere.it/esteri/26_ottobre_10/trump-contro-zelensky-nuovo-leader-ucraina-267d32dd-2281-4a6a-a21d-b074aaa46xlk.shtml",
+    "https://corriere.it/esteri/diretta-live/26_ottobre_10/guerra-ucraina-russia-le-notizie-in-diretta-trump-una-telefonata-di-grande-successo-con-putin-accordi-sui-carburanti-zelensky-i.shtml",
+    "https://dailyadvance.com/news/world/trump-says-i-think-its-time-for-ukraine-to-get-a-new-president-as-he/article_a3de147f-6484-5504-9497-7f71f4a340ba.html",
+    "https://dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-xml-mrss",
+    "https://france24.com/fr/europe/20261010-ukraine-en-direct-les-discussions-ont-%C3%A9t%C3%A9-constructives-%C3%A0-miami-selon-steve-witkoff",
+    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-pour-parvenir-a-un-accord-avec-la-russie_8231842.html",
+    "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html",
+    "https://hexham-courant.co.uk/news/national/26625655.trump-says-ukraine-needs-new-president-blames-zelensky-diesel-prices",
+    "https://lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010",
+    "https://lefigaro.fr/international/volodymyr-zelensky-merite-d-etre-soutenu-les-reactions-se-multiplient-apres-les-propos-de-trump-en-faveur-d-un-nouveau-president-ukrainien-20261010",
+    "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-face-a-donald-trump-qui-reclame-un-nouveau-president-a-kiev-le-royaume-uni-assure-volodymyr-zelensky-de-sa-totale-solidarite_6787996_3210.html",
+    "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-les-dernieres-informations_6787996_3210.html",
+    "https://rfi.fr/fr/europe/20261010-donald-trump-s-en-prend-%C3%A0-volodymyr-zelensky-et-veut-un-nouveau-pr%C3%A9sident-pour-l-ukraine",
+    "https://spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f",
+    "https://straitstimes.com/world/europe/ukraine-needs-a-new-president-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
+    "https://theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+    "https://video.corriere.it/esteri/trump-e-il-momento-che-l-ucraina-abbia-un-nuovo-presidente/d10f4994-3e7e-4210-9e37-5cf5d8a6cxlk",
+    "https://yasstribune.com.au/story/9366083/trump-says-ukraine-should-get-a-new-president"
+   ]
+  },
+  {
+   "id": "2026-10-11-alerte-02",
+   "date": "2026-10-11",
+   "publiee_a": "2026-10-10T21:47:24Z",
+   "titre": "L'Arabie saoudite suspend les vols à Riyad après une frappe",
+   "texte": "Les autorités saoudiennes ont interrompu le trafic aérien à l'aéroport international de Riyad samedi 10 octobre 2026 après une attaque de missile attribuée aux Houthis yéménites. Cette frappe contre les installations aéroportuaires a fait plusieurs dizaines de blessés selon différentes sources médiatiques.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-authority-says"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw33x4y8k82no"
+    }
+   ],
+   "cluster": "67bb7f009bd35f17",
+   "urls": [
+    "https://aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+    "https://aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week",
+    "https://bbc.co.uk/news/articles/cw33x4y8k82no",
+    "https://bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack",
+    "https://dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_10?evenement=64a15a4891",
+    "https://enfieldindependent.co.uk/news/national/26625435.many-wounded-missile-strikes-terminal-riyadh-airport",
+    "https://ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+    "https://harwichandmanningtreestandard.co.uk/news/national/26625435.many-wounded-missile-strikes-terminal-riyadh-airport",
+    "https://ketv.com/article/the-airport-in-the-capital-of-saudi-arabia-has-been-attacked-again-officials-say/74098618",
+    "https://manilatimes.net/2026/10/11/world/missile-strikes-a-passenger-terminal-at-riyadh-airport-and-many-are-wounded-official-says/2443191",
+    "https://military.com/missile-strikes-passenger-terminal-riyadh-airport-many-are-wounded-official-says",
+    "https://reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10",
+    "https://straitstimes.com/world/middle-east/several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-authority-says",
+    "https://the-messenger.com/news/world/article_88d90298-9791-5ea4-8acd-05c015a52898.html",
+    "https://theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+    "https://thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece"
+   ]
+  },
+  {
+   "id": "2026-10-11-alerte-03",
+   "date": "2026-10-11",
+   "publiee_a": "2026-10-10T21:48:18Z",
+   "titre": "Un individu perd la vie après l'assaut d'un félin au Royaume-Uni",
+   "texte": "Un visiteur a succombé à ses blessures samedi après s'être introduit dans l'espace des tigres au Yorkshire Wildlife Park près de Doncaster. Les responsables ont fait évacuer les lieux puis ont ordonné la fermeture du complexe pour le week-end.",
+   "sources": [
+    {
+     "nom": "echo-news.co.uk",
+     "url": "https://echo-news.co.uk/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/c6n9r3n7858zo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/man-seriously-injured-in-tiger-attack-at-uk-zoo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_10/regno-unito-scavalca-le-protezioni-dello-zoo-uomo-muore-sbranato-da-una-tigre-siberiana-9b367f8f-8b0a-4634-a208-18290d1b0xlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0"
+    }
+   ],
+   "cluster": "43b90ab0c1521f2f",
+   "urls": [
+    "https://bbc.co.uk/news/articles/c6n9r3n7858zo",
+    "https://bbc.com/news/articles/c6n9r3n7858zo",
+    "https://corriere.it/esteri/26_ottobre_10/regno-unito-scavalca-le-protezioni-dello-zoo-uomo-muore-sbranato-da-una-tigre-siberiana-9b367f8f-8b0a-4634-a208-18290d1b0xlk.shtml",
+    "https://eastlothiancourier.com/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park",
+    "https://eastlothiancourier.com/news/national/26625670.man-dies-entering-tiger-enclosure-yorkshire-wildlife-park",
+    "https://echo-news.co.uk/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_10?evenement=511316fd5d",
+    "https://franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html",
+    "https://hexham-courant.co.uk/news/national/26625670.man-dies-entering-tiger-enclosure-yorkshire-wildlife-park",
+    "https://spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0",
+    "https://straitstimes.com/world/europe/man-seriously-injured-in-tiger-attack-at-uk-zoo",
+    "https://theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
+   ]
+  },
   {
    "id": "2026-10-10-alerte-03",
    "date": "2026-10-10",
@@ -1199,182 +1381,6 @@
     "https://lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-kiev-affirme-avoir-regagne-du-terrain-dans-la-region-du-donbass_6787996_3210.html",
     "https://politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war",
     "https://straitstimes.com/world/europe/germanys-merz-arrives-in-kyiv-to-finalize-drone-deal-release-aid"
-   ]
-  },
-  {
-   "id": "2026-10-03-alerte-01",
-   "date": "2026-10-03",
-   "publiee_a": "2026-10-02T22:20:32Z",
-   "titre": "Royaume-Uni : un homme poursuivi pour un projet terroriste visant Nigel Farage",
-   "texte": "La justice britannique poursuit Joshua Kerry pour la préparation d'actes terroristes ciblant le dirigeant politique Nigel Farage. Les autorités judiciaires ont annoncé cette décision au Royaume-Uni le 2 octobre 2026.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-02/widdecombe-suspect-charged-in-planning-terror-act-against-farage"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-02/el-presunto-asesino-de-la-diputada-britanica-widdecombe-planeaba-un-ataque-terrorista-conta-el-ultra-farage.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/royaume-uni/un-britannique-inculpe-pour-preparation-d-acte-de-terrorisme-contre-le-leader-d-extreme-droite-nigel-farage_8220346.html"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/02/royaume-uni-un-homme-de-28-ans-inculpe-pour-un-projet-terroriste-visant-notamment-nigel-farage_6787223_3210.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/538ea132-4021-4095-8da3-9db41d42b19d?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cv1j3lgrl6gko"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6"
-    }
-   ],
-   "cluster": "0f91870006dd0cad",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cv1j3lgrl6gko",
-    "https://bendigoadvertiser.com.au/story/9361900/alleged-mp-killer-charged-over-farage-plot",
-    "https://bloomberg.com/news/articles/2026-10-02/widdecombe-suspect-charged-in-planning-terror-act-against-farage",
-    "https://cotswoldjournal.co.uk/news/national/26604167.widdecombe-murder-suspect-charged-preparing-terrorism-nigel-farage",
-    "https://dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-10-02/el-presunto-asesino-de-la-diputada-britanica-widdecombe-planeaba-un-ataque-terrorista-conta-el-ultra-farage.html",
-    "https://franceinfo.fr/monde/royaume-uni/un-britannique-inculpe-pour-preparation-d-acte-de-terrorisme-contre-le-leader-d-extreme-droite-nigel-farage_8220346.html",
-    "https://ft.com/content/538ea132-4021-4095-8da3-9db41d42b19d?syn-25a6b1a6=1",
-    "https://lemonde.fr/international/article/2026/10/02/royaume-uni-un-homme-de-28-ans-inculpe-pour-un-projet-terroriste-visant-notamment-nigel-farage_6787223_3210.html",
-    "https://spiegel.de/ausland/grossbritannien-verdaechtiger-im-mordfall-ann-widdecombe-soll-auch-anschlag-auf-nigel-farage-geplant-haben-a-8fc4323c-61f9-41a9-a515-e9b1aa96efb6",
-    "https://straitstimes.com/world/europe/man-charged-with-preparing-terrorist-acts-against-reform-uks-nigel-farage",
-    "https://stratford-herald.com/national/widdecombe-murder-suspect-charged-with-preparing-terrorism-against-nigel-farage-172494",
-    "https://theguardian.com/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage"
-   ]
-  },
-  {
-   "id": "2026-10-03-alerte-02",
-   "date": "2026-10-03",
-   "publiee_a": "2026-10-02T22:20:40Z",
-   "titre": "Deux Iraniens inculpés au Royaume-Uni pour un projet d'attentat antisémite",
-   "texte": "La police britannique a inculpé Rahman Salehi et Salam Ahmadyan pour préparation d'actes terroristes contre la communauté juive de Manchester. Les forces de l'ordre avaient arrêté ces deux ressortissants iraniens le 20 septembre dans le nord de l'Angleterre.",
-   "sources": [
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/jewish/2026-10-02/ty-article/two-iranians-charged-with-plotting-to-target-manchesters-jewish-community/000001a0-fe1d-d350-a9ab-fe5d0d1f0000"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/two-iranian-nationals-charged-over-alleged-terrorism-plot-targeting-jewish-community"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqx29nke55kno"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/05fd286f-6fac-4479-b560-848970f32af5?syn-25a6b1a6=1"
-    }
-   ],
-   "cluster": "043586bc1c788c7f",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cqx29nke55kno",
-    "https://ft.com/content/05fd286f-6fac-4479-b560-848970f32af5?syn-25a6b1a6=1",
-    "https://haaretz.com/jewish/2026-10-02/ty-article/two-iranians-charged-with-plotting-to-target-manchesters-jewish-community/000001a0-fe1d-d350-a9ab-fe5d0d1f0000",
-    "https://straitstimes.com/world/europe/two-iranian-nationals-charged-over-alleged-terrorism-plot-targeting-jewish-community",
-    "https://theguardian.com/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community"
-   ]
-  },
-  {
-   "id": "2026-10-03-alerte-03",
-   "date": "2026-10-03",
-   "publiee_a": "2026-10-02T22:20:44Z",
-   "titre": "Ligue des nations : l'équipe de France et l'Italie se neutralisent",
-   "texte": "L'équipe de France de football a fait match nul un partout contre l'Italie lors de la Ligue des nations. La rencontre s'est déroulée au Stade de France le vendredi 2 octobre 2026 sous la direction du sélectionneur Zinédine Zidane.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/du-terrain-delection-au-terrain-de-selection-zinedine-zidane-de-retour-au-stade-de-france-contre-litalie-20261002_GFTRRRXIZRFTFKVB7IKZMAI5UU"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/sport/football-france-italie-retour-sur-trois-chocs-historiques-entre-les-bleus-et-les-azzurri-20261002"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20261002-ligue-des-nations-zidane-retrouve-le-stade-de-france-les-bleus-butent-sur-la-squadra-azzurra"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/10/02/france-italie-le-resume-du-premier-accroc-rencontre-par-les-bleus-de-zinedine-zidane-repris-par-les-azzurri-en-ligue-des-nations_6787224_3242.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/france-italie-la-frustration-des-bleus-tenus-en-echec-pour-le-retour-de-zidane-au-stade-de-france-20261002"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Zinedine-zidane-apres-le-match-nul-des-bleus-face-a-l-italie-je-sais-qu-on-va-s-ameliorer/1723011"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/ligue-des-nations/direct-france-italie-soir-de-premiere-au-stade-de-france-pour-zinedine-zidane-suivez-et-commentez-le-match-avec-nous_8218459.html"
-    }
-   ],
-   "cluster": "410caa7cc27a1fd3",
-   "urls": [
-    "https://france24.com/fr/%C3%A9missions/sports/20261002-ligue-des-nations-zidane-retrouve-l-italie-et-le-stade-de-france",
-    "https://france24.com/fr/%C3%A9missions/sports/20261002-ligue-des-nations-zidane-retrouve-l-italie-et-le-stade-de-france-1",
-    "https://france24.com/fr/sports/20261001-ligue-nations-pour-zinedine-zidane-france-italie-go%C3%BBt-si-particulier",
-    "https://france24.com/fr/sports/20261002-football-ligue-des-nations-r%C3%A9sum%C3%A9-%C3%A9quipe-de-france-bleus-italie",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/france-italie-je-t-aime-moi-non-plus_8218633.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/je-n-ai-pas-de-regrets-vingt-ans-apres-son-coup-de-tete-zinedine-zidane-retrouve-l-italie-qui-a-aussi-faconne-sa-legende_8218771.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/l-equipe-de-france-concede-le-match-nul-contre-l-italie-pour-la-premiere-de-zinedine-zidane-au-stade-de-france-comme-selectionneur_8220424.html",
-    "https://franceinfo.fr/sports/foot/equipe-de-france/zinedine-zidane-foule-la-pelouse-du-stade-de-france-pour-la-premiere-fois-en-tant-que-selectionneur_8219401.html",
-    "https://franceinfo.fr/sports/foot/ligue-des-nations/direct-france-italie-soir-de-premiere-au-stade-de-france-pour-zinedine-zidane-suivez-et-commentez-le-match-avec-nous_8218459.html",
-    "https://franceinfo.fr/sports/foot/zinedine-zidane/je-ne-suis-pas-fier-zidane-revient-sur-la-finale-france-italie-2006_8219770.html",
-    "https://franceinfo.fr/sports/foot/zinedine-zidane/les-turinois-toujours-aussi-fans-de-zinedine-zidane_8219380.html",
-    "https://la-croix.com/sport/football-france-italie-retour-sur-trois-chocs-historiques-entre-les-bleus-et-les-azzurri-20261002",
-    "https://lefigaro.fr/sports/football/equipe-de-france/froid-polaire-double-de-legende-centenaire-en-10-photos-les-matchs-marquants-de-zinedine-zidane-au-stade-de-france-20261002",
-    "https://lefigaro.fr/sports/football/il-y-a-28-ans-le-tout-premier-but-du-stade-de-france-portait-deja-la-signature-de-zidane-20261002",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/coup-de-boule-materazzi-equipe-de-fou-retour-au-stade-de-france-les-verites-de-zidane-avant-le-choc-face-a-l-italie-20261001",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-italie-6-changements-dembele-et-olise-alignes-une-surprise-les-choix-de-zidane-pour-la-compo-des-bleus-20261002",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-italie-la-frustration-des-bleus-tenus-en-echec-pour-le-retour-de-zidane-au-stade-de-france-20261002",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-italie-zinedine-zidane-brouille-encore-les-pistes-pour-son-onze-de-depart-20261001",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/le-retour-triomphal-de-zidane-un-stade-de-france-en-fusion-des-bleus-offensifs-les-plus-belles-images-de-france-italie-20261002",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-enjeux-souvenirs-pour-zidane-compo-probable-cinq-questions-avant-france-italie-20261002",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/premier-accroc-zizoumania-dembele-bleus-psg-les-verites-de-zidane-apres-france-italie-20261002",
-    "https://lemonde.fr/sport/article/2026/10/02/france-italie-le-resume-du-premier-accroc-rencontre-par-les-bleus-de-zinedine-zidane-repris-par-les-azzurri-en-ligue-des-nations_6787224_3242.html",
-    "https://lemonde.fr/sport/live/2026/10/02/en-direct-france-italie-suivez-la-troisieme-journee-de-la-ligue-des-nations-de-football_6787197_3242.html",
-    "https://lequipe.fr/Football/Actualites/-je-n-ai-pas-de-regret-cela-fait-partie-de-ma-carriere-vingt-ans-apres-zinedine-zidane-assume-son-coup-de-boule-contre-l-italie/1722655",
-    "https://lequipe.fr/Football/Actualites/-une-grosse-emotion-beaucoup-de-souvenirs-et-une-seance-dirigee-les-retrouvailles-de-zinedine-zidane-avec-le-stade-de-france/1722709",
-    "https://lequipe.fr/Football/Actualites/Coup-de-boule-but-en-or-et-interminables-disettes-les-5-matches-les-plus-marquants-entre-la-france-et-l-italie/1722430",
-    "https://lequipe.fr/Football/Actualites/France-italie-et-france-belgique-tous-les-deux-a-guichets-fermes-pour-les-premieres-de-zinedine-zidane-au-stade-de-france/1722433",
-    "https://lequipe.fr/Football/Actualites/Notez-les-joueurs-de-l-equipe-de-france-apres-le-match-nul-contre-l-italie/1722997",
-    "https://lequipe.fr/Football/Actualites/Premier-accroc-de-l-ere-zidane-l-equipe-de-france-frustree-par-l-italie-au-stade-de-france/1722990",
-    "https://lequipe.fr/Football/Actualites/Vers-un-retour-des-cadres-des-bleus-face-a-l-italie/1722464",
-    "https://lequipe.fr/Football/Actualites/Zinedine-zidane-apres-le-match-nul-des-bleus-face-a-l-italie-je-sais-qu-on-va-s-ameliorer/1723011",
-    "https://lequipe.fr/Football/Actualites/Zinedine-zidane-brouille-les-pistes-sur-la-compo-des-bleus-a-la-veille-de-la-reception-de-l-italie-au-stade-de-france/1722664",
-    "https://lequipe.fr/Football/Article/Zinedine-zidane-et-l-italie-une-histoire-sans-fin-qui-reprend-au-stade-de-france-un-peu-plus-de-vingt-ans-apres-la-finale-de-la-coupe-du-monde-2006-a-berlin/1722690",
-    "https://lequipe.fr/explore/wf161-explore-2006",
-    "https://liberation.fr/sports/football/du-terrain-delection-au-terrain-de-selection-zinedine-zidane-de-retour-au-stade-de-france-contre-litalie-20261002_GFTRRRXIZRFTFKVB7IKZMAI5UU",
-    "https://photo.lefigaro.fr/sports/football/ligue-des-nations/le-retour-triomphal-de-zidane-un-stade-de-france-en-fusion-des-bleus-offensifs-les-plus-belles-images-de-france-italie-20261002",
-    "https://photo.lefigaro.fr/sports/football/ligue-des-nations/les-matchs-marquants-de-zidane-au-stade-de-france-en-images-20261001",
-    "https://rfi.fr/fr/sports/20261002-football-zidane-retrouve-le-stade-de-france-th%C3%A9%C3%A2tre-de-ses-exploits-en-bleu",
-    "https://rfi.fr/fr/sports/20261002-ligue-des-nations-zidane-retrouve-le-stade-de-france-les-bleus-butent-sur-la-squadra-azzurra",
-    "https://video.lefigaro.fr/figaro/sports/france-italie-les-choix-de-zidane-pour-la-composition-des-bleus-20261002",
-    "https://video.lefigaro.fr/figaro/sports/une-grosse-emotion-pour-zidane-a-la-veille-de-son-retour-au-stade-de-france-a-la-tete-des-bleus-20261001",
-    "https://video.lefigaro.fr/figaro/sports/zinedine-zidane-garde-le-secret-de-son-onze-de-depart-face-a-l-italie-20261001"
    ]
   }
  ]

@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-09T06:53:14Z",
- "derniere": "2026-10-09",
+ "maj": "2026-10-10T06:37:03Z",
+ "derniere": "2026-10-10",
  "editions": [
+  {
+   "date": "2026-10-10",
+   "genere_a": "2026-10-10T06:37:03Z",
+   "articles": 18,
+   "une": [
+    "Donald Trump annonce un accord énergétique avec Vladimir Poutine",
+    "La juriste sud-africaine Navi Pillay reçoit le prix Nobel de la paix",
+    "Le copilote de Flydubai projetait un attentat suicide à Tel-Aviv"
+   ],
+   "octets": 73131
+  },
   {
    "date": "2026-10-09",
    "genere_a": "2026-10-09T06:53:14Z",

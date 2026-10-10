@@ -1,0 +1,874 @@
+{
+ "date": "2026-10-10",
+ "genere_a": "2026-10-10T06:37:03Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-10-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La juriste sud-africaine Navi Pillay reçoit le prix Nobel de la paix",
+   "chapeau": "Le comité Nobel norvégien a décerné le prix Nobel de la paix 2026 à la juriste sud-africaine Navanethem Pillay le vendredi 9 octobre à Oslo. L'institution récompense son engagement continu pour la promotion de la paix et le respect du droit international.",
+   "corps": "Le comité Nobel norvégien a attribué le prix Nobel de la paix 2026 à la juriste Navanethem Pillay, connue sous le nom de Navi Pillay. Selon le comité, cette magistrate sud-africaine démontre que les voies du droit aident à prévenir les actes de guerre et la violence armée. L'institution honore ainsi son action en faveur du droit international et de la paix.\n\nNavi Pillay a exercé de nombreuses fonctions au sein des juridictions internationales au fil de sa carrière. Elle a notamment siégé comme juge à la Cour pénale internationale, qui juge les personnes accusées de crimes graves. Elle a aussi présidé le Tribunal pénal international pour le Rwanda et a dirigé le Haut-Commissariat des Nations unies aux droits de l'homme.\n\nÂgée de 85 ans selon Le Monde et ABC le 9 octobre 2026, la lauréate continue d'exercer des activités judiciaires de haut niveau. Elle occupe un poste de juge à la Cour internationale de justice, la plus haute juridiction civile des Nations unies. Son mandat actuel concerne le traitement des actions relatives aux accusations de génocide portées devant cette cour.\n\nNavi Pillay a également dirigé une commission d'enquête mandatée par l'Organisation des Nations unies au sujet de la situation dans la bande de Gaza. Selon Le Figaro le 10 octobre 2026 à 01:17 et franceinfo le 10 octobre 2026 à 09:35, cette instance a conclu qu'Israël a commis des actes constitutifs de génocide dans ce territoire au cours des opérations militaires.\n\nL'attribution de cette récompense a suscité des réactions contrastées parmi les acteurs internationaux et les observateurs du droit. Le gouvernement israélien déplore ce choix et y voit une validation des accusations portées contre lui par la commission que Navi Pillay dirigeait. À l'opposé, la secrétaire générale de l'organisation Amnesty International, Agnès Callamard, a salué une désignation légitime et majeure pour la défense des règles juridiques communes.\n\n## Ce que disent les sources\n\nLes sources présentent de manière différente le statut exact de Navi Pillay à la Cour internationale de justice. The Guardian écrit le 9 octobre 2026 à 20:30 qu'elle siège comme juge au sein de cette cour. De son côté, le quotidien espagnol ABC rapporte le 9 octobre 2026 à 23:16 qu'elle intervient comme juge temporaire nommé pour une affaire spécifique dans ce tribunal.\n\nLes sources ne précisent pas le détail de la composition du vote au sein du comité Nobel ni le montant exact de la dotation financière accompagnant le prix.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm9wz5kng0x1o"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/nobel-de-la-paix-a-navi-pillay-un-signal-fort-dans-un-monde-marque-par-les-reculs-en-matiere-de-droits-humains-20261009_NZ4VRXBLBRB63GPNMLGNOHOPZU"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/navanethem-navi-pillay-facts-about-2026-nobel-peace-prize-winner/article71564112.ece"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/oslo-convierte-nobel-paz-pulso-trump-20261009211639-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/navi-pillay-un-prix-nobel-tres-politique-et-polemique-20261009"
+    }
+   ],
+   "premiere_parution": "2026-10-08T18:41:00Z",
+   "suite_de": null,
+   "mots": 450,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le copilote de Flydubai projetait un attentat suicide à Tel-Aviv",
+   "chapeau": "Le procureur général des Émirats arabes unis a annoncé vendredi 9 octobre 2026 les résultats de l'enquête sur l'agression survenue à bord d'un avion reliant Dubaï à Tel-Aviv. L'auteur des faits, un copilote omanais, tentait de précipiter l'appareil contre l'aéroport Ben Gourion.",
+   "corps": "Le procureur général des Émirats arabes unis, Hamad Saïf Al-Chamsi, a présenté les conclusions judiciaires lors d'un point presse tenu le 9 octobre 2026. L'enquête concerne le vol de la compagnie Flydubai qui reliait Dubaï à Tel-Aviv le mercredi 30 septembre 2026. Ce jour-là, le copilote de l'avion a tenté de s'emparer des commandes en plein vol. L'incident a forcé l'appareil à effectuer un atterrissage d'urgence sur le territoire de l'Arabie saoudite.\n\nSelon les déclarations du magistrat émirati, le copilote projetait une attaque suicide contre le terminal des passagers de l'aéroport international Ben Gourion, situé près de Tel-Aviv en Israël. L'homme visait à provoquer la perte du plus grand nombre possible de vies humaines. Les autorités judiciaires ont affirmé que l'auteur des faits s'inspirait des attentats perpétrés le 11 septembre 2001 aux États-Unis.\n\nLe suspect a été identifié sous le nom de Hammam al-Hammami. Cet homme de nationalité omanaise a attaqué le pilote de l'avion, de nationalité indienne, à l'aide d'une hache de secours. Il a également poignardé son collègue dans la cabine de pilotage, le cockpit, espace réservé à la conduite. Malgré des blessures sérieuses, le commandant de bord est parvenu à empêcher le copilote de prendre le contrôle de l'aéronef.\n\nLe procureur général a indiqué que le suspect a affirmé avoir agi seul, sans complice ni soutien extérieur. L'agresseur a déclaré s'être préparé physiquement et psychologiquement à accomplir cette attaque. L'homme avait utilisé deux vols précédents entre Dubaï et Tel-Aviv afin d'étudier l'itinéraire de navigation et d'observer la configuration du site aéroportuaire israélien.\n\nLes services d'enquête des Émirats arabes unis ont retracé le parcours du suspect. Selon le procureur général, l'homme a entamé une dérive vers l'extrémisme et le terrorisme alors qu'il se trouvait en Australie. Malgré cette évolution, le suspect respectait l'ensemble des critères de sécurité imposés par la compagnie aérienne au moment de son embauche, a précisé Hamad Saïf Al-Chamsi.\n\n## Ce que disent les sources\n\nLibération a rapporté que le copilote a poignardé son collègue lors du vol du mercredi 30 septembre 2026. The Guardian a indiqué que le copilote a attaqué le pilote indien à l'aide d'une hache d'urgence.\n\nLe nombre de passagers présents à bord de l'appareil lors du vol du 30 septembre 2026 n'a pas été communiqué.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/le-copilote-du-vol-flydubai-qui-a-agresse-son-commandant-de-bord-planifiait-une-attaque-suicide-sur-l-aeroport-de-tel-aviv-en-israel-affirme-le-procureur-general-des-emirats-arabes-unis_8230636.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/vol-flydubai-inspire-par-les-attentats-du-11-septembre-le-copilote-planifiait-une-attaque-suicide-sur-l-aeroport-de-tel-aviv-20261009"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/09/vol-flydubai-deroute-le-copilote-planifiait-une-attaque-suicide-sur-l-aeroport-de-tel-aviv-selon-le-procureur-general-des-emirats-arabes-unis_6790628_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/attaque-pendant-le-vol-flydubai-le-copilote-planifiait-une-attaque-sur-laeroport-de-tel-aviv-20261009_3AZ3D4RX6RFFFAD5FBBNW5XC3E"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20261009-vol-flydubai-le-co-pilote-omanais-planifiait-une-attaque-suicide-sur-l-a%C3%A9roport-de-tel-aviv-selon-le-procureur-%C3%A9mirien"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/piloto-da-flydubai-se-inspirou-em-11-de-setembro-ao-planejar-atentado-contra-israel-diz-procurador-dos-emirados-arabes-unidos.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says"
+    }
+   ],
+   "premiere_parution": "2026-10-09T16:24:18Z",
+   "suite_de": null,
+   "mots": 416,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Tirs d'agents fédéraux à New York : vives tensions politiques et manifestations",
+   "chapeau": "Des manifestations et des tensions politiques secouent New York depuis le vendredi 9 octobre 2026 après des tirs d'agents fédéraux de l'immigration sur un automobiliste. Le maire de la ville Zohran Mamdani et le gouvernement de Donald Trump s'opposent publiquement sur la légitimité de cette intervention policière.",
+   "corps": "Ce dossier fait suite aux tirs d'un agent de l'immigration sur un homme le jeudi 8 octobre 2026 à New York en présence d'un enfant.\n\nL'homme blessé se nomme Oscar Belgal. Cet homme âgé de 28 ans selon The Guardian et BBC News a reçu une balle dans le cou. Les faits se sont déroulés dans le quartier de Marble Hill, situé entre le nord de Manhattan et le Bronx. Un voisin, Orlando Perez, a vu l'arrestation d'Oscar Belgal à l'angle de la 225e Rue et de Marble Hill Avenue. Oscar Belgal est d'origine dominicaine selon The Straits Times. Après avoir reçu des soins dans un hôpital proche où il était conscient, Oscar Belgal se trouve désormais dans un centre de détention situé hors de New York, ont indiqué des responsables officiels cités par BBC News le 10 octobre 2026.\n\nUne vidéo de surveillance montre le moment où les agents ont ouvert le feu pendant qu'Oscar Belgal conduisait son véhicule avec son enfant sur le siège arrière selon Al Jazeera le 10 octobre 2026. L'enfant présent dans le véhicule a cinq ans, selon les déclarations du maire de la ville. Les responsables de l'immigration ont indiqué que l'enfant est probablement le fils du conducteur, rapporte The Straits Times.\n\nCet événement a déclenché des manifestations dans les rues de New York. Des habitants et des manifestants ont exprimé leur colère contre le service de l'immigration et des douanes, appelé ICE, en scandant le départ de cette agence fédérale. Les résidents de Marble Hill ont aussi fait part de leur peur après ces tirs survenus dans leur quartier résidentiel.\n\nLe maire de New York Zohran Mamdani a fermement condamné les agissements des agents fédéraux. L'élu a demandé au président américain Donald Trump de mettre fin aux opérations de l'ICE dans la métropole. Zohran Mamdani a précisé qu'il avait échangé directement avec Donald Trump pour obtenir la libération d'Oscar Belgal. Le maire a déclaré que ces discussions n'ont pas abouti.\n\nLes responsables de l'immigration américaine et le département de la Sécurité intérieure ont pris la défense des agents fédéraux. Ils ont critiqué les déclarations de Zohran Mamdani. Les responsables fédéraux ont aussi attaqué les politiques locales de ville sanctuaire. Une ville sanctuaire désigne une commune qui limite sa coopération avec les autorités fédérales de l'immigration. Le département de la Sécurité intérieure a qualifié Oscar Belgal d'étranger en situation irrégulière avec un casier judiciaire selon BBC News.\n\n## Ce que disent les sources\n\nLe déroulement précis de l'action policière fait l'objet de versions différentes entre les parties.\n\nLe maire Zohran Mamdani affirme dans un communiqué que les agents de l'immigration ont encerclé le véhicule d'Oscar Belgal et de l'enfant avant d'effectuer de multiples tirs en leur direction.\n\nLe département de la Sécurité intérieure affirme que les agents ont ouvert le feu parce qu'ils estimaient être en danger de mort au cours de l'arrestation, selon des propos rapportés par Al Jazeera le 9 octobre 2026.\n\nLa séquence vidéo mentionnée par Al Jazeera montre pour sa part les tirs d'agents sur le véhicule alors qu'Oscar Belgal était en train de conduire.\n\nL'état de santé actuel d'Oscar Belgal après son transfert en détention n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c59vzk9yypn3o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/immigration-agents-shoot-a-man-during-arrest-in-new-york-city/article71562432.ece"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/agente-ice-dispara-hiere-hombre-nueva-york-20261009065706-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-10-09/ice-out-new-yorkers-protest-shooting-of-a-migrant-in-the-city.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/ice-officials-defend-shooting-of-new-york-man-attack-sanctuary-policies"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction"
+    }
+   ],
+   "premiere_parution": "2026-10-08T22:11:55Z",
+   "suite_de": "2026-10-09-monde-003",
+   "mots": 578,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump désigne Katie Zacharia comme porte-parole de la Maison Blanche",
+   "chapeau": "Le président américain Donald Trump a annoncé vendredi 9 octobre 2026 à Washington la désignation de Katie Zacharia au poste de porte-parole de la Maison Blanche. La commentatrice politique prend la suite de Karoline Leavitt avant les élections législatives prévues en novembre.",
+   "corps": "Donald Trump a officialisé le choix de Katie Zacharia vendredi devant des journalistes réunis à l'extérieur de la présidence américaine. Le président s'exprimait avant de se rendre à Syracuse, dans l'État de New York, pour la campagne électorale des élections de mi-mandat. Il a également publié son annonce sur le réseau social Truth Social. Le chef de l'État a présenté la commentatrice conservatrice comme une partisane dévouée.\n\nKatie Zacharia succède à Karoline Leavitt. Cette dernière a quitté ses fonctions à la fin du mois d'août 2026 après la naissance de son second enfant. Depuis ce départ, le poste de porte-parole principal de la présidence restait vacant. Katie Zacharia doit ainsi représenter l'exécutif face à la presse au sein du gouvernement fédéral.\n\nKatie Zacharia est juriste et originaire de Californie. Elle intervient régulièrement comme analyste politique sur les chaînes de télévision Fox News et Newsmax. Elle a également occupé des fonctions officielles au sein de l'administration américaine. Entre février et avril 2026, elle a exercé comme porte-parole du département de la Sécurité intérieure, l'organisme fédéral chargé de la protection civile et des frontières. Elle travaillait dernièrement comme conseillère en communication pour l'entreprise Trump Media & Technology Group, la société propriétaire du réseau social Truth Social.\n\nCette nomination intervient avant les élections législatives du Congrès prévues le mois prochain. L'administration présidentielle évolue dans un contexte marqué par de faibles indices de popularité pour Donald Trump, liés aux opérations militaires menées par les États-Unis contre l'Iran.\n\n## Ce que disent les sources\n\nCertaines sources affirment que la nomination est conclue, tandis que d'autres indiquent une proposition de poste en attente de réponse. Les médias bignewsnetwork.com, Bloomberg, Der Spiegel et Deutsche Welle rapportent que Donald Trump a nommé Katie Zacharia à cette fonction. À l'opposé, ABC et Folha de S.Paulo écrivent, d'après un responsable de la présidence le 9 octobre 2026, que le poste a été proposé à Katie Zacharia. The Hindu rapporte le 10 octobre 2026 que l'intéressée n'avait pas immédiatement répondu à une demande de commentaire et qu'elle entrerait en fonction si elle acceptait cette offre.\n\nLa date d'entrée en fonction effective de Katie Zacharia n'a pas été communiquée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "bignewsnetwork.com",
+     "url": "https://bignewsnetwork.com/news/279362844/trump-appoints-katie-zacharia-as-white-house-press-secretary-replacing-karoline-leavitt"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-09/katie-zacharia-to-succeed-leavitt-as-white-house-press-secretary"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-elige-katie-zacharia-nueva-portavoz-casa-20261009205212-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/comentarista-politica-dos-eua-sera-nova-secretaria-de-imprensa-de-trump.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses-a-dd18d829-65f2-4bbb-866e-3ba13dceca0e"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/donald-trump-choisit-la-commentatrice-conservatrice-katie-zacharia-comme-porte-parole_8230702.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump"
+    }
+   ],
+   "premiere_parution": "2026-10-09T00:00:00Z",
+   "suite_de": null,
+   "mots": 399,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'ouragan Isaias touche terre en Floride sur la côte américaine",
+   "chapeau": "L'ouragan Isaias a touché la côte du golfe du Mexique en Floride dans la nuit du vendredi 9 octobre 2026. Ce premier ouragan de la saison atlantique menace plusieurs États du sud des États-Unis.",
+   "corps": "Le centre américain des ouragans a localisé l'arrivée de la tempête près de Destin, en Floride, le vendredi 9 octobre 2026. Selon The Guardian le 10 octobre 2026 à 07h56, les vents soutenus atteignaient 169 kilomètres par heure à son arrivée à terre. L'organisme météorologique a ensuite signalé que le phénomène a faibli en catégorie 1 après avoir touché le sol, selon The Straits Times le 10 octobre 2026 à 07h24.\n\nLes autorités météorologiques américaines signalent des ondes de tempête, de fortes précipitations, des inondations et des vents violents. Une onde de tempête désigne une montée anormale du niveau marin causée par le vent. Deutsche Welle a également mentionné un risque de tornades le 10 octobre 2026 à 06h58. Le centre météorologique américain a prévenu que des coupures de lignes électriques menacent le sud du pays.\n\nFace à l'avancée de la perturbation, les gouverneurs de l'Alabama, de la Floride et du Mississippi ont décrété l'état d'urgence. Des millions d'habitants de plusieurs États, dont la Floride, la Géorgie et l'Alabama, ont reçu des consignes d'évacuation, selon The Guardian le 10 octobre 2026 à 05h50. Les services publics prévoient des coupures de courant prolongées. La tempête perturbe aussi le secteur de l'énergie. L'industrie du pétrole et du gaz enregistre des arrêts de production sur le golfe du Mexique, d'après le Financial Times le 10 octobre 2026 à 07h37.\n\n## Ce que disent les sources\n\nLes médias rapportent des classifications différentes de la puissance de la tempête avant son arrivée sur les côtes. Associated Press le 9 octobre 2026 à 16h00, Al Jazeera le 9 octobre 2026 à 19h25, BBC News le 9 octobre 2026 à 20h46 et The Hindu le 10 octobre 2026 à 02h35 qualifient Isaias d'ouragan de catégorie 3 au cours de sa progression maritime. En revanche, The Guardian le 10 octobre 2026 à 04h18 et à 07h56, ainsi que Deutsche Welle le 10 octobre 2026 à 06h58, indiquent que la tempête a frappé la côte en tant qu'ouragan de catégorie 2.\n\nLes sources ne fournissent aucun bilan matériel précis ni bilan humain sur le passage de la tempête.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/hurricane-isaias-landfall-gulf-alabama-mississippi-919a46d4bd705726b4e57f18ce677ac5"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cmewe552de72o"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/hurricane-isaias-lashes-us-gulf-coast-with-wind-and-rain-hours-before-it-comes-ashore/article71566000.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/isaias-weakens-to-category-1-hurricane-after-florida-landfall-nhc-says"
+    }
+   ],
+   "premiere_parution": "2026-10-07T19:27:23Z",
+   "suite_de": null,
+   "mots": 382,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-006",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un puissant séisme secoue le Panama et cause des dégâts matériels",
+   "chapeau": "Un tremblement de terre a secoué le sud du Panama le vendredi 9 octobre 2026. Le président José Raul Mulino a proclamé l'état de catastrophe majeure face aux destructions matérielles signalées dans le pays.",
+   "corps": "Le président José Raul Mulino a qualifié la situation de grand désastre lors d'une prise de parole rapportée par Le Monde le 10 octobre 2026 à 03:51. Le chef de l'État a signalé l'effondrement complet de plusieurs axes routiers dans les secteurs les plus touchés.\n\nL'institut géologique américain USGS a situé l'épicentre du phénomène dans une zone à faible densité de population, à environ 200 kilomètres de la capitale Panama City, selon The Guardian le 10 octobre 2026 à 04:13. Cet organisme a mesuré la profondeur de la secousse à 12,6 kilomètres. Le quotidien espagnol ABC a précisé le 10 octobre 2026 à 05:08 que l'épicentre se trouvait à 10 kilomètres de la localité de Pitaloza Arriba, dans le centre-sud du territoire.\n\nLe tremblement de terre a provoqué des mouvements de panique parmi la population de la capitale. Des milliers d'habitants se sont rassemblés dans les rues après les secousses. Les autorités ont temporairement suspendu les liaisons aériennes d'après Deutsche Welle le 9 octobre 2026 à 23:03. Les pouvoirs publics ont également émis un avis d'alerte au tsunami pour plusieurs nations côtières de la région, avant de lever cette mesure de précaution.\n\n## Ce que disent les sources\n\nLes données techniques sur la puissance du séisme varient selon les publications. D'après franceinfo le 10 octobre 2026 à 01:12, Le Monde à 03:51 et RFI à 07:07, l'événement a atteint une magnitude de 7,7. Pour sa part, Le Figaro a rapporté le 10 octobre 2026 à 00:49 une magnitude fixée à 7,6 par l'USGS, tout comme The Hindu à 02:40. Le quotidien ABC a expliqué le 10 octobre 2026 à 05:08 que l'institut américain avait initialement calculé une valeur de 8,0 avant de la corriger à 7,6.\n\nLe nombre et l'intensité des secousses secondaires font aussi l'objet de descriptions différentes. La chaîne Al Jazeera a évoqué deux séismes distincts dans le sud du pays le 10 octobre 2026 à 04:53. De son côté, ABC a fait état de répliques mesurées à des magnitudes de 6,1 et 6,0 le 10 octobre 2026 à 05:08. Le journal néerlandais NRC a comptabilisé plusieurs dizaines de répliques le 10 octobre 2026 à 06:05, tandis que RFI a mentionné plus d'une centaine de secousses le 10 octobre 2026 à 07:07.\n\nL'ampleur des dégâts physiques suscite des présentations contrastées. Alors que le président panaméen a parlé d'un grand désastre avec des routes écroulées d'après Le Monde le 10 octobre 2026 à 03:51, The Guardian a souligné à 04:13 que le Panama semblait avoir évité des destructions généralisées. La radio RFI a également qualifié les dommages de limités le 10 octobre 2026 à 07:07. Enfin, El País à 00:39 et RFI à 07:07 ont affirmé qu'aucune victime humaine n'était constatée, alors que Le Monde a relevé à 03:51 que le chef de l'État n'avait fourni aucune précision sur le bilan humain lors de son intervention.\n\nLe bilan définitif des dégâts matériels sur l'ensemble des infrastructures n'est pas encore connu.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/panama-un-seisme-de-magnitude-8-0-ressenti-dans-la-capitale-un-risque-de-tsunami-evoque-20261009"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c620r39zdp9wo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/09/panama-earthquake"
+    }
+   ],
+   "premiere_parution": "2026-10-09T12:00:00Z",
+   "suite_de": null,
+   "mots": 551,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La contestation sur le logement s'étend en Espagne après la mort d'une retraitée",
+   "chapeau": "Des manifestants se sont réunis à Barcelone le vendredi 9 octobre 2026 pour rendre hommage à Maricarmen Abascal. Ce nouveau rassemblement prolonge la mobilisation citoyenne et politique déclenchée en Espagne par la disparition de cette femme de 87 ans.",
+   "corps": "Ce rassemblement en Catalogne fait suite au décès de Maricarmen Abascal, survenu le mercredi 7 octobre 2026 à Madrid après son expulsion locative.\n\nÀ Barcelone, les participants au cortège ont défilé vendredi soir pour saluer la mémoire de l'octogénaire. Les personnes présentes ont mis en cause les groupes de pression du secteur immobilier dans la fin tragique de la retraitée.\n\nCette affaire s'inscrit au cœur du débat politique national alors que le pays prépare un scrutin anticipé. Les électeurs espagnols doivent se rendre aux urnes pour des élections législatives le 29 novembre 2026, d'après les informations rapportées par Libération le 8 octobre 2026 et Folha de S.Paulo le 9 octobre 2026. L'impossibilité de faire voter les textes protégeant les locataires, face au refus de la droite, a conduit à la convocation de ce vote selon Libération.\n\nLes hommages rendus à la défunte ont provoqué des discussions vives au Parlement espagnol, comme l'a rapporté Al Jazeera le 9 octobre 2026. L'opposition conservatrice et la majorité s'opposent sur la gestion des loyers pendant cette campagne électorale.\n\n## Ce que disent les sources\n\nSelon La Croix le 8 octobre 2026, Maricarmen Abascal vivait dans son logement depuis soixante et onze ans. BBC News le 8 octobre 2026, tout comme franceinfo le 9 octobre 2026, indiquent qu'elle y résidait depuis plus de soixante-dix ans ou soixante-dix ans.\n\nLe nombre de participants à la manifestation de Barcelone n'a pas été précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6e3x21ev9wwo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/08/crise-du-logement-en-espagne-l-octogenaire-symbole-du-mouvement-de-protestation-est-morte_6790168_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/spain/2026-10-08/timeline-of-the-maricarmen-case-from-four-eviction-attempts-to-a-housing-movement-that-shook-spain.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/espagne-mort-de-mariacarmen-l-octogenaire-expulsee-dont-lhistoire-a-embrase-le-pays-20261008"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/mort-de-maricarmen-etincelle-du-mouvement-de-protestation-sur-le-logement-en-espagne-un-electrochoc-pour-la-societe-et-le-monde-politique-20261008_JXURXKZMXJFZLGD6LYXJTSHLXA"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/le-destin-tragique-de-maricarmen-cette-retraitee-decedee-visage-de-la-crise-du-logement-en-espagne-20261008"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/morte-de-idosa-despejada-inflama-protestos-no-comeco-da-corrida-eleitoral-na-espanha.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-07T18:02:47Z",
+   "suite_de": "2026-10-09-monde-001",
+   "mots": 278,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Chine s'engage à réduire ses ventes d'automobiles hybrides vers l'Union européenne",
+   "chapeau": "L'Union européenne et la Chine ont conclu un compromis commercial à Pékin le vendredi 9 octobre 2026. Cet arrangement vise à freiner les envois de véhicules hybrides chinois vers le marché européen durant les quatre prochaines années.",
+   "corps": "Le commissaire européen au Commerce, Maroš Šefčovič, a conduit deux jours de pourparlers dans la capitale chinoise. Cette mission s'inscrit dans un dialogue lancé depuis plusieurs mois, notamment depuis juin, afin de répondre aux inquiétudes sur les emplois industriels européens.\n\nLe représentant de Bruxelles a affirmé que les expéditions chinoises de voitures hybrides pourraient diminuer de moitié sur quatre ans. Selon l'estimation rapportée par The Guardian le 9 octobre 2026 à 19h05, les discussions cherchaient à contenir un déficit commercial bilatéral s'élevant à 1,18 milliard d'euros par an. Le compromis aborde également la question des terres rares, dont les exportations vers l'Europe seraient facilitées.\n\nLes dirigeants européens doivent se réunir la semaine prochaine pour débattre des mesures futures à adopter envers la Chine. Les autorités cherchent ainsi à éviter une montée des tensions douanières entre les deux partenaires.\n\n## Ce que disent les sources\n\nLes médias rapportent des périmètres techniques légèrement différents selon les déclarations européennes. El País, La Croix et NRC indiquent que la baisse programmée concerne spécifiquement les automobiles hybrides. Deutsche Welle affirme le 9 octobre 2026 à 21h09 que la réduction maximale de 50 % cible à la fois les véhicules électriques et les hybrides rechargeables.\n\nLes détails complets du mécanisme de contrôle des flux et la position officielle des négociateurs chinois ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-09/eu-says-accord-with-china-could-cut-hybrid-car-exports-by-half"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-10-09/la-ue-alcanza-un-entendimiento-con-china-para-reducir-la-importacion-de-coches-hibridos-a-la-mitad.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/09/china-stemt-in-met-beperking-uitvoer-hybride-autos-naar-europa-a4938644"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/union-europeenne/la-chine-accepte-de-contenir-ses-exportations-de-vehicules-hybrides-vers-l-ue-annonce-le-commissaire-europeen-au-commerce_8230396.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/china-kompromiss-bei-hybridautos-was-der-deal-fuer-europas-industrie-bedeutet-a-b8fedffa-9981-4588-8095-60d192baa13f"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/voitures-hybrides-la-chine-accepte-de-freiner-ses-exportations-vers-l-ue-20261009"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-07T16:56:00Z",
+   "suite_de": null,
+   "mots": 258,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump met en place un comité pour enquêter sur Lisa Cook",
+   "chapeau": "Le président américain Donald Trump a annoncé la création d'un comité d'enquête visant la gouverneure de la Réserve fédérale Lisa Cook, vendredi 9 octobre 2026 à Washington. Cette procédure examine des soupçons d'irrégularités sur des prêts immobiliers afin de déterminer si des motifs justifient son renvoi de la banque centrale.",
+   "corps": "La Maison Blanche a publié un texte vendredi 9 octobre 2026 pour officialiser ce comité. L'instance examinera les éléments reprochés à la responsable et consultera des représentants du département de la Justice. Elle remettra ses conclusions au président américain pour indiquer si des raisons légales permettent d'acter une destitution.\n\nLe chef de l'État a ordonné à Lisa Cook de se présenter à une audition fixée le 5 novembre 2026 au siège de la présidence. Cette convocation doit permettre à la dirigeante de présenter ses arguments face au groupe de travail.\n\nLes avocats de la gouverneure ont exprimé de fortes réserves quant à la légalité de cette démarche administrative. Lisa Cook a toutefois indiqué qu'elle acceptait cette audition pour laver son honneur.\n\nCette initiative relance une confrontation débutée en 2025. Donald Trump avait tenté une première fois de licencier Lisa Cook en août 2025. La Cour suprême des États-Unis avait rejeté cette démarche en juin 2026 en jugeant cette décision anticonstitutionnelle. Le litige judiciaire entre les deux parties se poursuit en parallèle.\n\nLe président formule ces accusations sans qu'aucune mise en examen formelle n'ait été retenue par la justice ordinaire contre la responsable financière.\n\nLa composition précise des membres siégeant dans ce comité d'enquête n'est pas précisée par les documents publiés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "idahostatejournal.com",
+     "url": "https://idahostatejournal.com/news/national/the-latest-trump-establishes-committee-to-investigate-fed-s-lisa-cook-in-latest-effort-to/article_735976b8-9511-5993-ae8a-44e4f2219ac0.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-09/white-house-forms-committee-to-probe-federal-reserve-s-cook"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-10-09/trump-crea-un-comite-para-investigar-a-lisa-cook-la-gobernadora-de-la-fed-que-quiere-despedir-pese-a-la-oposicion-del-supremo.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/lisa-cook-trump-will-fed-direktorin-per-untersuchungsausschuss-loswerden-a-37d8dc7f-6e0a-49cd-9d15-9abdb64e84f0"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-constituye-comite-investigar-lisa-cook-gobernadora-20261009171218-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/trump-cria-comite-para-investigar-novamente-diretora-do-fed.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-09T00:00:00Z",
+   "suite_de": null,
+   "mots": 260,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Christa Pike recommence à s'alimenter après son exécution manquée au Tennessee",
+   "chapeau": "La détenue américaine Christa Pike se nourrit de nouveau et progresse physiquement dans un hôpital de Nashville le 9 octobre 2026. La femme de 50 ans avait survécu le 30 septembre 2026 à deux injections de pentobarbital.",
+   "corps": "Hospitalisée après avoir survécu à son exécution, la prisonnière Christa Pike présente des signes de rétablissement physique tout en subissant des complications respiratoires.\n\nLes avocats de la condamnée à mort ont annoncé qu'elle parvient désormais à manger et à marcher avec de l'aide. L'équipe médicale surveillant son cas exprime de l'optimisme concernant son état corporel, selon le collectif de défense cité par la radio américaine NPR et le journal espagnol ABC. Ses conseils décrivent néanmoins une pensée ralentie. Le quotidien espagnol El País rapporte que la patiente a développé une pneumonie, une infection pulmonaire, après avoir repris ses esprits le 6 octobre 2026. L'un de ses avocats, Stephen Ferrell, a indiqué qu'elle demeure confuse sur le plan intellectuel.\n\nLes représentants de Christa Pike ont précisé qu'elle a posé des questions simples à son réveil, demandant où elle se trouvait. Elle a failli perdre l'assistance respiratoire artificielle avant son retour à la conscience, d'après les déclarations de ses conseils relayées par la chaîne Al Jazeera. L'organisme Death Penalty Information Center qualifie la situation d'inédite. Le gouverneur du Tennessee, Bill Lee, a ordonné l'arrêt de toutes les exécutions prévues dans l'État.\n\n## Ce que disent les sources\n\nLa radio française RFI indique que Christa Pike a reçu une condamnation pour un meurtre perpétré en 1995. Le journal espagnol ABC écrit pour sa part que l'homicide d'une camarade d'école a eu lieu en 1996, alors que l'accusée avait 19 ans.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/christa-pikes-first-words-after-surviving-execution-where-am-i-attorney-says/article71557194.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/8/christa-pike-almost-taken-off-life-support-before-she-woke-up"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261008-%C3%A9tats-unis-l-affaire-christa-pike-peut-elle-relancer-le-d%C3%A9bat-sur-la-peine-de-mort"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/08/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-recommence-a-marcher-mais-reste-quelque-peu-confuse-selon-son-avocat_6790229_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/execution-ratee-aux-etats-unis-christa-pike-a-recommence-a-marcher-selon-son-avocat-20261008_2EOAEXFG25AHBHGS3YC2ZKQPMY"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/after-botched-us-execution-christa-pike-walking-mentally-foggy-says-lawyer"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/christa-pike-ja-consegue-caminhar-apos-sobreviver-a-execucao-fracassada-diz-advogado.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-08/christa-pike-desarrolla-neumonia-tras-sobrevivir-a-dos-inyecciones-letales-en-tennessee.html"
+    }
+   ],
+   "premiere_parution": "2026-10-07T18:45:00Z",
+   "suite_de": "2026-10-09-monde-005",
+   "mots": 273,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Parti travailliste conserve la circonscription de Holborn et St Pancras",
+   "chapeau": "La candidate travailliste Sagal Abdi-Wali a remporté l'élection législative partielle de Holborn et St Pancras, à Londres, organisée le jeudi 8 octobre 2026. Cette victoire écarte Zack Polanski, chef des Verts britanniques, qui tentait d'obtenir ce siège parlementaire.",
+   "corps": "Sagal Abdi-Wali, responsable du conseil municipal de Camden et issue d'une famille d'origine somalienne, conserve ainsi cette circonscription pour le Parti travailliste. Le siège de la Chambre des communes était vacant depuis le départ de l'ancien Premier ministre britannique Keir Starmer.\n\nZack Polanski briguait ce mandat pour entrer au Parlement britannique. Malgré son échec électoral, le dirigeant des Verts a déclaré qu'il conservait la direction de sa formation politique.\n\nCette défaite s'inscrit dans un contexte de tensions internes au sein du Parti vert. L'organisation a récemment approuvé une motion qui qualifie le sionisme d'idéologie raciste. Selon des militants locaux à Camden ainsi que des élus municipaux travaillistes et libéraux-démocrates, cités par l'agence Press Association, ce vote a dissuadé plusieurs électeurs de soutenir le candidat écologiste.\n\nLe responsable des Verts juifs a ensuite réclamé le départ de Zack Polanski de la direction du mouvement. Il lui reproche un manquement à ses devoirs à la suite de cette controverse et de l'issue du scrutin. De plus, selon un sondage mentionné par The Guardian le 9 octobre 2026 à 20h32, la popularité du dirigeant écologiste se situe à un niveau inférieur à celle de Nigel Farage.\n\nCe revers marque un arrêt pour Zack Polanski, qui revendiquait le rôle de principale force d'opposition aux travaillistes. En février 2026, la candidate verte Hannah Spencer avait pourtant décroché un mandat parlementaire lors d'une élection partielle à Gorton et Denton, dans le Grand Manchester.\n\nLes résultats chiffrés complets ainsi que le taux de participation à ce scrutin n'ont pas été précisés par les publications disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/zack-polanski-greens-final-pitch-in-holborn-by-election-ill-keep-labour-andy-burnham-honest"
+    },
+    {
+     "nom": "stratford-herald.com",
+     "url": "https://stratford-herald.com/national/polanski-vows-to-carry-on-as-greens-leader-after-by-election-defeat-to-labour-172734"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/09/partijleider-zack-polanski-van-de-groenen-grijpt-naast-vrijgekomen-lagerhuiszetel-van-oud-premier-starmer-a4938584"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-09/el-lider-del-partido-verde-britanico-polanski-fracasa-en-su-intento-de-sorpasso-al-laborismo.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-10-09/ty-article/u-k-greens-zack-polanski-loses-parliament-bid-to-labour-in-london-by-election/000001a1-1f40-d10a-a5b1-bf4c01560000"
+    },
+    {
+     "nom": "impartialreporter.com",
+     "url": "https://impartialreporter.com/news/national/26623419.jewish-greens-leader-calls-polanski-resign-dereliction-duty"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmewe5lvl2rqo"
+    }
+   ],
+   "premiere_parution": "2026-10-08T02:00:00Z",
+   "suite_de": null,
+   "mots": 296,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Inquiétudes internationales après le décès d'une technicienne en Sibérie",
+   "chapeau": "L'Organisation mondiale de la santé, l'Union européenne et les États-Unis demandent à la Russie des informations supplémentaires. Cette requête intervient après la mort d'une laborantine d'un institut de lutte contre la peste à Irkoutsk survenue le 1er octobre 2026.",
+   "corps": "Une employée d'un institut de recherche sur la peste est décédée d'une pneumonie d'origine indéterminée en Sibérie, selon les informations rapportées le 8 octobre 2026 par France 24. Ce décès entraîne des soupçons de peste pulmonaire et conduit l'Organisation mondiale de la santé, ainsi que les États-Unis et l'Union européenne, à réclamer plus de transparence à la Russie, d'après les données publiées le 7 octobre 2026 par Le Figaro. Face à ces demandes, les autorités russes démentent tout risque épidémique.\n\nLe gouverneur de la région d'Irkoutsk indique le 8 octobre 2026, dans un article du Monde, que près de 5 000 analyses effectuées sur les cas contacts n'ont révélé la présence d'aucun micro-organisme pathogène dangereux. Par ailleurs, environ 200 personnes ont été placées en quarantaine d'après ABC le 10 octobre 2026.\n\n## Ce que disent les sources\n\nL'Organisation mondiale de la santé, l'Union européenne et les États-Unis estiment le 7 octobre 2026, selon Le Figaro, que les données manquent pour évaluer complètement les risques pour la santé publique. En revanche, les autorités russes affirment le 8 octobre 2026, d'après Le Monde, qu'aucune pathologie infectieuse n'a été détectée chez les cas contacts. De plus, le Kremlin dénonce des fausses informations selon RFI le 9 octobre 2026.\n\nCertains détails sur la nature exacte de l'infection de la laborantine manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://sante.lefigaro.fr/social/sante-publique/soupcon-de-peste-en-russie-l-oms-n-est-pas-en-mesure-d-evaluer-completement-des-risques-pour-la-sante-publique-20261007"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/08/soupcons-de-peste-en-russie-aucune-pathologie-infectieuse-n-a-ete-detectee-apres-l-analyse-de-tous-les-cas-contacts-d-une-laborantine-morte-d-une-pneumonie_6790255_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261009-russie-faut-il-craindre-un-cas-de-peste-pulmonaire"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/sociedad/cesar-fuente-experto-resistencia-antibiotica-autoridades-rusas-20261008012510-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-10-07/la-oms-ofrece-ayuda-tecnica-a-rusia-para-el-caso-sospechoso-de-peste-en-siberia.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/who-verlangt-informationen-von-russland-ueber-moegliche-pest-infektion-a-c51c6670-e2cc-4d87-9ead-3808b7bf1292"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/la-russie-dement-tout-risque-epidemique-en-siberie-apres-la-mort-d-une-laborantine-d-un-institut-travaillant-sur-la-peste_8227513.html"
+    }
+   ],
+   "premiere_parution": "2026-10-07T15:40:53Z",
+   "suite_de": null,
+   "mots": 259,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Le maire de Saint-Denis aspergé de gaz lacrymogène lors d'un rassemblement étudiant",
+   "chapeau": "Le maire de Saint-Denis, Bally Bagayoko, a reçu du gaz lacrymogène lors d'une marche de lycéens mardi 6 octobre 2026. L'élu s'est interposé devant les forces de l'ordre pour protéger les jeunes manifestants dans les rues de la capitale.",
+   "corps": "Bally Bagayoko, membre du parti La France insoumise, accompagnait un cortège de lycéens quand le groupe a fait face à un cordon de policiers. Des images diffusées sur les réseaux sociaux montrent l'élu debout face aux forces de l'ordre. L'édile criait le mot stop en tentant d'abriter des participants derrière lui. Après avoir été atteint par des gaz lacrymogènes, l'élu a quitté les lieux. Des soignants lui ont administré un collyre, un médicament liquide pour les yeux.\n\nCe rassemblement s'inscrit dans un mouvement scolaire actif depuis le vendredi 2 octobre 2026. Les élèves défilent dans plusieurs grandes villes pour réclamer des moyens dans les établissements scolaires. Selon les informations publiées par le journal espagnol ABC le 7 octobre 2026 à 21 heures 08, les heurts ont causé des centaines de blessés parmi les manifestants ainsi que dans les rangs des forces de l'ordre. Le quotidien relève également des milliers d'interpellations de mineurs depuis le début des mobilisations. Le journal note que des parents se placent parfois entre leurs enfants et les policiers pour limiter les contacts directs.\n\nBally Bagayoko dénonce une riposte policière excessive. L'élu a déclaré que la présence d'une minorité d'individus violents ne validait pas ce recours aux armes lacrymogènes par l'État. Il a affirmé que ces jeunes en détresse pouvaient être ses propres enfants. Dans un entretien accordé au quotidien espagnol El País, le responsable politique a jugé que le pouvoir exécutif sous Emmanuel Macron devait apporter des réponses matérielles aux lycéens plutôt qu'un encadrement armé. Il estime que le mouvement dans la rue va s'amplifier faute de décisions concrètes.\n\n## Ce que disent les sources\n\nEl País indique le 7 octobre 2026 que les faits et l'intervention des agents se sont déroulés à Saint-Denis, ville de la banlieue parisienne où l'élu exerce ses fonctions de maire. À l'inverse, The Straits Times, Libération et The Guardian affirment que l'affrontement et les tirs de gaz lacrymogène ont eu lieu lors d'une manifestation située dans la ville de Paris.\n\nLe ministère de l'Intérieur n'a pas communiqué de bilan officiel détaillé sur le nombre exact de blessés et de gardes à vue.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/videos/2026-10-07/la-policia-francesa-gasea-al-alcalde-de-saint-denis-durante-las-protestas-de-estudiantes.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/bally-bagayoko-alcalde-saintdenis-puso-escudo-estudiantes-20261007160622-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/french-mayor-caught-in-viral-video-clash-says-student-protesters-could-be-my-children"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/licone-de-la-revolte-dans-les-medias-etrangers-bally-bagayoko-erige-en-figure-emblematique-des-manifestations-lyceennes-20261008_2NCMS4I72ZBQJOEB3NMC67DESA"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/video/2026/oct/09/french-mayor-teargassed-after-shielding-student-protesters-from-police-video"
+    }
+   ],
+   "premiere_parution": "2026-10-07T16:20:07Z",
+   "suite_de": null,
+   "mots": 390,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La gauche sociale-démocrate organise le premier tour de sa primaire présidentielle",
+   "chapeau": "Les électeurs de la gauche sociale-démocrate votent en France depuis le vendredi 9 octobre 2026 pour choisir leur candidat présidentiel. Cinq prétendants participent à cette consultation organisée par plusieurs formations politiques.",
+   "corps": "Selon La Croix le 9 octobre 2026 à 07h32, 140 282 personnes se sont inscrites pour participer au vote. Le Monde précise le 9 octobre 2026 à 07h30 que plus de 42 000 participants figurent sur la plateforme en ligne Choisir 2027.\n\nLe scrutin oppose Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal. Le Parti socialiste, Place publique et la Gauche républicaine et socialiste portent cette désignation.\n\nSelon La Croix le 9 octobre 2026 à 22h22, un piratage informatique intervenu vendredi prolonge les votes jusqu'au dimanche 11 octobre à 18 heures.\n\n## Ce que disent les sources\n\nSelon France 24 le 9 octobre 2026 à 14h12, le premier tour s'étendait de vendredi à dimanche et le second tour devait se tenir le week-end suivant. Selon La Croix le 9 octobre 2026 à 07h32, le premier tour était initialement prévu uniquement les 9 et 10 octobre.\n\nLe résultat du scrutin et les détails sur l'origine du piratage ne sont pas précisés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/podcast/playbook-paris-podcast/une-primaire-qui-va-laisser-des-traces"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/primaires-gauche/avec-plus-de-140-000-inscrits-la-primaire-de-la-gauche-face-a-l-inconnue-du-corps-electoral-20261008"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-avec-plus-de-140-000-votants-pour-designer-leur-candidat-a-la-presidentielle-une-election-plus-incertaine-que-prevu_6790500_823448.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/primaire-de-la-gauche-un-nombre-d-inscrits-au-dela-des-attentes-mais-pas-de-veritable-elan-20261008"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/primaire-sociale-democrate-raphael-glucksmann-se-sent-favori-de-pied-en-cap-clair-20261009_DJUNKU53WJCU3NLYFGJJ4P2Z24"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/qui-sera-le-candidat-de-la-gauche-sociale-democrate-a-la-presidentielle-2027-le-vote-pour-la-primaire-socialiste-est-ouvert_8229478.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261009-primaire-des-sociale-d%C3%A9mocrates-un-scrutin-plus-incertin-que-pr%C3%A9vu"
+    }
+   ],
+   "premiere_parution": "2026-10-08T13:02:14Z",
+   "suite_de": null,
+   "mots": 193,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Gabriel Attal tient une réunion publique à Lyon ce samedi",
+   "chapeau": "Gabriel Attal organise un rassemblement politique ce samedi 10 octobre à Lyon dans le cadre de sa campagne électorale. Le candidat du parti Renaissance intervient pendant un mouvement de contestation dans les lycées.",
+   "corps": "Le prétendant à l'élection présidentielle prévoit d'aborder les questions scolaires et la jeunesse lors de cette étape lyonnaise. Gabriel Attal souhaite entamer une série de rassemblements en région jusqu'à la fin de l'année. Cette initiative vise à concurrencer Édouard Philippe et à cibler Jean-Luc Mélenchon.\n\nLe ministère de l'Éducation a dénombré 141 établissements scolaires fermés le vendredi 9 octobre 2026. La plateforme Parcoursup concentre les critiques des élèves en grève.\n\nJean-Luc Mélenchon accuse Gabriel Attal d'avoir une part de responsabilité directe dans cette colère lycéenne. Le chef de file de La France insoumise prendra la parole dimanche au cours d'un rassemblement à Clermont-Ferrand.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/presidentielle-le-match-attal-philippe-setend-au-mouvement-lyceen-20261009_TTFXUMOOINCCZANITUQK7KSFK4"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-gabriel-attal-rejoue-la-carte-jeune-pour-trouver-le-rebond-sondagier-20261009"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-gabriel-attal-jean-luc-melenchon-la-mobilisation-lyceenne-et-la-jeunesse-au-programme-des-grands-meetings-politiques-du-week-end_8231161.html"
+    }
+   ],
+   "premiere_parution": "2026-10-09T14:51:20Z",
+   "suite_de": null,
+   "mots": 136,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Des rassemblements en France contre le projet européen de dérégulation des pesticides",
+   "chapeau": "Des collectifs de soignants et des organisations non gouvernementales organisent des manifestations en France ce samedi 10 et dimanche 11 octobre 2026. Ces acteurs contestent un projet de règlement européen qui assouplit les autorisations de mise sur le marché des pesticides.",
+   "corps": "Le projet législatif de la Commission européenne, nommé Omnibus X, propose de prolonger la période d'approbation de ces substances chimiques dans l'Union européenne. Selon les opposants au texte, cette mesure permettrait de valider de façon permanente des produits dangereux pour l'environnement et la population.\n\nUne centaine d'organisations, comprenant des mutuelles, des scientifiques et des associations, appellent le public à protester durant ce week-end. Les soignants justifient cette contestation par des impératifs de santé publique, après les récentes réformes agricoles françaises comme la loi Duplomb.\n\nLe Parlement européen examine actuellement ce texte législatif soutenu par la Commission européenne ainsi que par des élus de droite et d'extrême droite. Le nombre total des rassemblements prévus sur le territoire national n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/sante/face-a-la-menace-dun-recul-de-leurope-sur-les-pesticides-les-medecins-se-reveillent-20261009_F7RJWKATKZFHNHIHJED4L6VBVQ"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/10/10/pesticides-a-vie-non-merci-partout-en-france-des-mobilisations-contre-un-projet-europeen-de-deregulation-devastateur_6790949_3244.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/c-est-une-loi-duplomb-puissance-10-des-ong-appellent-a-manifester-contre-un-texte-europeen-sur-les-pesticides_8226775.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/plus-dangereux-que-la-loi-duplomb-l-omnibus-sur-les-pesticides-federe-contre-lui-ong-medecins-et-mutuelles-20261009"
+    }
+   ],
+   "premiere_parution": "2026-10-09T11:07:38Z",
+   "suite_de": null,
+   "mots": 164,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump annonce un accord énergétique avec Vladimir Poutine",
+   "chapeau": "Le président américain Donald Trump a annoncé un accord avec le président russe Vladimir Poutine pour acheminer du carburant russe vers les États-Unis et le marché international. Cette décision intervient le vendredi 9 octobre 2026 à Washington, à l'approche du scrutin parlementaire américain.",
+   "corps": "Donald Trump a convenu avec Vladimir Poutine d'autoriser l'arrivée de gazole en provenance de Russie. Le chef d'État américain a précisé que cet arrangement découle d'un échange téléphonique entre les deux dirigeants. Il a qualifié cette discussion de fructueuse. Donald Trump a également adressé des remerciements au président russe pour cette entente.\n\nCette initiative vise à réduire les tarifs des carburants à la pompe avant le vote de mi-mandat. Le calendrier électoral place le pouvoir exécutif américain sous tension face au coût de la vie. Pour rendre possible ces arrivages, le gouvernement américain prévoit la levée des sanctions économiques appliquées sur les ventes de carburant russe. La mesure rompt avec les pressions diplomatiques et financières exercées depuis plusieurs années par Washington contre Moscou.\n\nL'annonce survient au moment où des diplomates mènent des pourparlers sur le conflit militaire entre Moscou et Kiev. Des négociateurs ukrainiens et des représentants des pays européens se trouvent actuellement à Miami. Ils y rencontrent les émissaires du gouvernement américain, Jared Kushner et Steve Witkoff.\n\nLes autorités ukrainiennes ont réagi immédiatement à cette décision. Le président ukrainien Volodymyr Zelensky a qualifié l'accord de décision indigne, horrible, et de cadeau fait à la Russie. Il a affirmé que les présents n'apportent pas la paix et constituent un investissement en faveur de la guerre. Quelques heures après l'officialisation du pacte entre Washington et Moscou, l'Ukraine a mené un bombardement contre un site de stockage pétrolier russe.\n\nAux États-Unis, des représentants démocrates et plusieurs républicains ont exprimé leur désaccord face à la suppression des sanctions. L'élue démocrate Debbie Wasserman Schultz a qualifié cet accord de manœuvre politique désespérée. Selon elle, le président américain privilégie le destin électoral de son camp politique plutôt que la gestion durable du coût de la vie. En Europe, l'initiative a suscité la consternation parmi les gouvernements alliés.\n\n## Ce que disent les sources\n\nLes chiffres concernant les volumes de gazole promis par la Russie divergent selon les organes de presse. Le Monde rapporte le 10 octobre 2026 à 07:41 que la Russie s'engage à livrer près de 5 millions de tonnes de gazole sous peu. Le journal ABC indique le 10 octobre 2026 à 09:53 que les volumes atteindront des millions de tonnes. À l'opposé, Le Figaro indique le 10 octobre 2026 à 09:28 que Moscou fournira immédiatement 300 000 tonnes de gazole. Le quotidien Corriere della Sera rapporte le 10 octobre 2026 à 09:57 que les volumes annoncés dépassent 300 000 tonnes de combustible.\n\nLes sources ne précisent pas le calendrier exact d'application ni les modalités logistiques du transport de ce carburant.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/trump-annonce-des-livraisons-massives-de-diesel-russe-a-quelques-semaines-des-elections-de-mi-mandat_8230807.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-09/balance-of-power-late-edition-10-09-2026-video"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261010-donald-trump-annonce-un-accord-avec-vladimir-poutine-pour-fournir-du-diesel-au-march%C3%A9-am%C3%A9ricain-et-mondial"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip"
+    }
+   ],
+   "premiere_parution": "2026-10-09T00:00:00Z",
+   "suite_de": null,
+   "mots": 474,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-10-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Le Pentagone confirme l'exécution de Nidal Hasan par peloton d'exécution",
+   "chapeau": "Le secrétaire à la Défense américain Pete Hegseth a précisé que la mise à mort de Nidal Hasan se déroulerait devant le public par un peloton d'exécution. L'ancien psychiatre militaire doit être exécuté le 3 décembre 2026 à Fort Hood, au Texas, après la confirmation de cette procédure par Donald Trump.",
+   "corps": "Le département de la Défense des États-Unis avait déjà annoncé la diffusion en direct de la mise à mort de Nidal Hasan, auteur de l'attaque ayant causé la mort de treize personnes en 2009 sur la base militaire de Fort Hood.\n\nLe secrétaire à la Défense Pete Hegseth a ensuite déclaré que l'exécution se ferait par un peloton d'exécution. Il s'agit d'un groupe de militaires armés qui tirent simultanément. Le responsable américain a affirmé que cet acte serait visible par le public. Donald Trump a confirmé le recours à cette méthode de peloton d'exécution, selon une publication d'Al Jazeera le 10 octobre 2026 à 01h53.\n\nCe projet suscite des réactions politiques aux États-Unis et à l'étranger. Le vice-président JD Vance a émis des doutes sur cette modalité et a déclaré qu'il ne regarderait pas la retransmission, selon BBC News le 10 octobre 2026 à 01h50. Une opposition républicaine plus large s'est également manifestée contre la diffusion en continu de la peine de mort, tandis que Donald Trump examine encore la situation, d'après The Straits Times le 10 octobre 2026 à 02h59. Des détracteurs mentionnés par The Guardian le 9 octobre 2026 à 20h32 ont condamné cette procédure et l'ont qualifiée de barbare envers un homme handicapé, en établissant des comparaisons avec l'Iran et l'Afghanistan.\n\nCette annonce intervient après des débats sur la peine capitale provoqués par une injection létale ratée au Tennessee la semaine précédente, d'après les informations de Haaretz le 9 octobre 2026 à 11h57.\n\n## Ce que disent les sources\n\nLes sources divergent sur la date de la dernière application de la peine de mort par les forces armées américaines. Deutsche Welle a affirmé le 9 octobre 2026 à 03h48 qu'il s'agirait de la première exécution menée par l'armée américaine depuis 1961, une durée de plus de soixante ans reprise par BBC News le 10 octobre 2026 à 01h50. En revanche, The Hindu a rapporté le 9 octobre 2026 à 03h28 que, selon Pete Hegseth, aucune exécution par peloton n'a eu lieu dans l'armée depuis la Seconde Guerre mondiale. Haaretz et El País ont précisé le 9 octobre 2026 que cette méthode n'avait plus été employée par les forces armées américaines depuis 1945. Enfin, NPR a indiqué le 9 octobre 2026 à 22h55 que les États-Unis n'avaient pas tenu d'exécution publique depuis une autre décennie au siècle dernier.\n\nLa décision finale concernant le maintien de la diffusion publique en direct n'est pas précisée par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-08/hegseth-vows-public-firing-squad-execution-for-fort-hood-shooter"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pentagon-says-firing-squad-execution-of-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed/article71561622.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/en/international-news/20261009-us-military-to-livestream-firing-squad-execution-of-fort-hood-shooter"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-10-09/ty-article/u-s-to-livestream-firing-squad-execution-of-fort-hood-shooter-pentagon-says/000001a1-1f78-d10a-a5b1-bf7caeb80000"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-10-09/the-pentagon-will-broadcast-the-first-firing-squad-execution-since-1945.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/09/live-stream-execution-fort-hood-shooter"
+    }
+   ],
+   "premiere_parution": "2026-10-07T19:08:48Z",
+   "suite_de": "2026-10-09-geopolitique-001",
+   "mots": 458,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-10-geopolitique-001",
+  "2026-10-10-monde-001",
+  "2026-10-10-monde-002",
+  "2026-10-10-monde-003",
+  "2026-10-10-monde-004",
+  "2026-10-10-geopolitique-002",
+  "2026-10-10-monde-005",
+  "2026-10-10-monde-006"
+ ]
+}

@@ -1,6 +1,144 @@
 {
- "maj": "2026-10-09T10:39:28Z",
+ "maj": "2026-10-10T01:00:17Z",
  "alertes": [
+  {
+   "id": "2026-10-10-alerte-01",
+   "date": "2026-10-10",
+   "publiee_a": "2026-10-10T00:56:52Z",
+   "titre": "Donald Trump annonce un accord avec Vladimir Poutine pour importer du carburant russe",
+   "texte": "Donald Trump a conclu un accord avec Vladimir Poutine pour acheminer du diesel russe vers les États-Unis le 9 octobre 2026. Cette entente vise à faire baisser les prix de l'énergie sur le marché américain avant les élections de mi-mandat.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/trump-annonce-des-livraisons-massives-de-diesel-russe-a-quelques-semaines-des-elections-de-mi-mandat_8230807.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-09/balance-of-power-late-edition-10-09-2026-video"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_09/guerra-ucraina-russia-notizie.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno"
+    }
+   ],
+   "cluster": "3bfce1338cbe5802",
+   "urls": [
+    "https://abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html",
+    "https://abc.es/internacional/zelenski-regalo-putin-pacto-trump-suministrar-millones-20261009224507-nt.html",
+    "https://aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
+    "https://bbc.co.uk/news/articles/cm1dwgr666wno",
+    "https://bignewsnetwork.com/news/279362846/trump-hails-russia-deal-to-supply-diesel-as-big-deal-amid-zelenskyy-criticism",
+    "https://bloomberg.com/news/articles/2026-10-09/trump-says-putin-agreed-to-release-diesel-into-global-market-mv1bqka7",
+    "https://bloomberg.com/news/videos/2026-10-09/balance-of-power-late-edition-10-09-2026-video",
+    "https://bloomberg.com/news/videos/2026-10-09/wasserman-schultz-russia-diesel-deal-is-desperate-video",
+    "https://channel3000.com/news/trump-strikes-deal-with-putin-to-get-diesel-in-sharp-reversal-of-us-policy-weeks/article_63953c0c-213b-545d-b06c-216a30365017.html",
+    "https://corriere.it/esteri/diretta-live/26_ottobre_09/guerra-ucraina-russia-notizie.shtml",
+    "https://dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-10-09/trump-llega-a-un-acuerdo-con-putin-para-que-rusia-libere-miles-de-barriles-de-diesel-en-los-mercados-mundiales.html",
+    "https://france24.com/fr/am%C3%A9riques/20261009-trump-annonce-accord-avec-poutine-pour-des-livraisons-massives-diesel-%C3%A9tats-unis-russie",
+    "https://franceinfo.fr/monde/usa/midterms-2018/trump-annonce-des-livraisons-massives-de-diesel-russe-a-quelques-semaines-des-elections-de-mi-mandat_8230807.html",
+    "https://ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+    "https://kfoxtv.com/news/nation-world/trump-announces-major-russian-diesel-supply-deal-after-putin-call-ukraine-war-plague-outbreak-midterms-gas-prices-sanctions-energy-sector-natural-gas-treasury-department",
+    "https://kpbs.org/news/environment/2026/10/09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "https://kyuk.org/2026-10-09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "https://lefigaro.fr/conjoncture/donald-trump-assure-que-la-russie-va-fournir-immediatement-300-000-tonnes-de-gazole-aux-marches-americain-et-mondial-20261009",
+    "https://lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-le-kremlin-confirme-l-accord-entre-donald-trump-et-vladimir-poutine-sur-des-livraisons-massives-de-diesel-russe_6787996_3210.html",
+    "https://liberation.fr/international/a-quelques-semaines-des-midterms-donald-trump-negocie-avec-vladimir-poutine-des-livraisons-massives-de-diesel-russe-20261009_RCBZUJXY35EXDBJKSJWYPZRGW4",
+    "https://littleapplepost.com/posts/fc2d7419-2aa2-4bad-8c6d-5a0c8a20575d",
+    "https://npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "https://politico.com/news/2026/10/09/trump-diesel-sanctions-lifted-russia-01114977",
+    "https://spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55",
+    "https://straitstimes.com/world/europe/ukraines-zelensky-says-letting-russia-sell-diesel-to-us-is-investment-in-war",
+    "https://straitstimes.com/world/united-states/trump-says-russia-to-supply-diesel-to-us-and-global-market",
+    "https://theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+    "https://thehindu.com/news/international/trump-says-russia-to-immediately-supply-diesel-to-us-after-talks-with-putin/article71565812.ece",
+    "https://thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+    "https://wdsu.com/article/us-diesel-from-russia-trump-says-prices-midterms/74094381",
+    "https://wjla.com/news/nation-world/trump-announces-major-russian-diesel-supply-deal-after-putin-call-ukraine-war-plague-outbreak-midterms-gas-prices-sanctions-energy-sector-natural-gas-treasury-department",
+    "https://wmuk.org/npr-news/2026-10-09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "https://www1.folha.uol.com.br/mercado/2026/10/trump-fecha-acordo-com-putin-para-liberar-diesel-russo-no-mercado-global.shtml",
+    "https://ynetnews.com/article/h1rcd6ljmx"
+   ]
+  },
+  {
+   "id": "2026-10-10-alerte-02",
+   "date": "2026-10-10",
+   "publiee_a": "2026-10-10T01:00:17Z",
+   "titre": "Un séisme puissant frappe le sud du Panama vendredi",
+   "texte": "Un tremblement de terre a touché le sud du Panama vendredi 9 octobre 2026. L'institut géologique américain et les autorités locales ont signalé des dégradations sur des routes et des bâtiments.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/terremoto-magnitud-sacude-panama-20261009203248-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/panama-un-seisme-de-magnitude-8-0-ressenti-dans-la-capitale-un-risque-de-tsunami-evoque-20261009"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c620r39zdp9wo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/09/panama-earthquake"
+    }
+   ],
+   "cluster": "55612abdfa919534",
+   "urls": [
+    "https://abc.es/internacional/terremoto-magnitud-sacude-panama-20261009203248-nt.html",
+    "https://aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits",
+    "https://bbc.co.uk/news/articles/c620r39zdp9wo",
+    "https://dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_9?evenement=15c5585912",
+    "https://france24.com/fr/am%C3%A9riques/20261009-panama-un-s%C3%A9isme-de-magnitude-8-provoque-la-panique-dans-la-capitale",
+    "https://franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html",
+    "https://lefigaro.fr/international/panama-un-seisme-de-magnitude-8-0-ressenti-dans-la-capitale-un-risque-de-tsunami-evoque-20261009",
+    "https://lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html",
+    "https://reuters.com/business/environment/strong-80-magnitude-earthquake-felt-panama-usgs-2026-10-09",
+    "https://straitstimes.com/world/7-6-magnitude-earthquake-felt-in-panama-usgs",
+    "https://theguardian.com/world/2026/oct/09/panama-earthquake",
+    "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-76-atinge-o-panama.shtml"
+   ]
+  },
   {
    "id": "2026-10-09-alerte-03",
    "date": "2026-10-09",
@@ -1157,159 +1295,6 @@
     "https://video.lefigaro.fr/figaro/sports/france-italie-les-choix-de-zidane-pour-la-composition-des-bleus-20261002",
     "https://video.lefigaro.fr/figaro/sports/une-grosse-emotion-pour-zidane-a-la-veille-de-son-retour-au-stade-de-france-a-la-tete-des-bleus-20261001",
     "https://video.lefigaro.fr/figaro/sports/zinedine-zidane-garde-le-secret-de-son-onze-de-depart-face-a-l-italie-20261001"
-   ]
-  },
-  {
-   "id": "2026-10-02-alerte-02",
-   "date": "2026-10-02",
-   "publiee_a": "2026-10-02T18:00:06Z",
-   "titre": "Espagne: le Parlement rejette les décrets du gouvernement sur le logement",
-   "texte": "Le Congrès des députés espagnol a rejeté le vendredi 2 octobre 2026 deux décrets du gouvernement sur le logement présentés par le Premier ministre Pedro Sánchez. Cette décision provoque des manifestations à Madrid et alimente des hypothèses de nouvelles élections selon les sources.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/congresso-derruba-decretos-de-habitacao-e-sanchez-estuda-antecipar-eleicoes-na-espanha.shtml"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/10/02/nederlaag-voor-spaanse-premier-sanchez-parlement-verwerpt-voorstellen-om-druk-op-de-woningmarkt-te-verlichten-a4938100"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/espagne-les-deputes-rejettent-le-deuxieme-texte-du-gouvernement-sur-le-logement-20261002_KT63DSQZOJHG5BX5CWMMDF2W7I"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261002-espagne-camouflet-pour-sanchez-les-d%C3%A9crets-sur-le-logement-rejet%C3%A9s-par-les-d%C3%A9put%C3%A9s"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://video.corriere.it/esteri/spagna-sanchez-sconfitto-in-parlamento-sul-piano-per-la-casa/e2555054-ed13-464f-8d2d-77def27b5xlk"
-    }
-   ],
-   "cluster": "0c369d7cd2807951",
-   "urls": [
-    "https://corriere.it/esteri/26_ottobre_02/spagna-sconfitto-governo-sanchez-elezioni-anticipate-467ad71b-ce6c-4e69-b53a-788329b3exlk.shtml",
-    "https://france24.com/fr/vid%C3%A9o/20261002-espagne-camouflet-pour-sanchez-les-d%C3%A9crets-sur-le-logement-rejet%C3%A9s-par-les-d%C3%A9put%C3%A9s",
-    "https://franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html",
-    "https://liberation.fr/international/europe/espagne-les-deputes-rejettent-le-deuxieme-texte-du-gouvernement-sur-le-logement-20261002_KT63DSQZOJHG5BX5CWMMDF2W7I",
-    "https://nrc.nl/nieuws/2026/10/02/nederlaag-voor-spaanse-premier-sanchez-parlement-verwerpt-voorstellen-om-druk-op-de-woningmarkt-te-verlichten-a4938100",
-    "https://spiegel.de/ausland/spanien-pedro-sanchez-kassiert-niederlage-bei-abstimmung-zur-wohnungsnot-a-776f9618-a2f3-46a3-ac3d-3043747f9ec2",
-    "https://video.corriere.it/esteri/crisi-abitativa-in-spagna-a-madrid-manifestanti-davanti-al-parlamento-il-video/ee88e395-501a-41d1-b48b-12608c15exlk",
-    "https://video.corriere.it/esteri/spagna-sanchez-sconfitto-in-parlamento-sul-piano-per-la-casa/e2555054-ed13-464f-8d2d-77def27b5xlk",
-    "https://www1.folha.uol.com.br/mundo/2026/10/congresso-derruba-decretos-de-habitacao-e-sanchez-estuda-antecipar-eleicoes-na-espanha.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/10/desgastado-premie-da-espanha-tenta-fazer-de-protestos-por-habitacao-uma-vitoria-no-congresso.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-02-alerte-03",
-   "date": "2026-10-02",
-   "publiee_a": "2026-10-02T18:01:25Z",
-   "titre": "Le G7 débloque cent millions de barils de pétrole et de diesel",
-   "texte": "Les dirigeants du G7 ont validé le déblocage de cent millions de barils issus de leurs réserves stratégiques vendredi 2 octobre 2026. Cette mesure multilatérale répond aux pressions de Washington pour freiner les prix des carburants.",
-   "sources": [
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/10/paises-do-g7-chegam-a-acordo-para-liberar-100-milhoes-de-barris-de-petroleo-e-gas.shtml"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/economia/paises-liberaran-100-millones-barriles-diesel-crudo-20261002171732-nt.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/g-7-countries-agree-on-release-of-diesel-and-oil-stocks-after-us-pressure"
-    }
-   ],
-   "cluster": "58758b156a741b4d",
-   "urls": [
-    "https://abc.es/economia/paises-liberaran-100-millones-barriles-diesel-crudo-20261002171732-nt.html",
-    "https://aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile",
-    "https://bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
-    "https://bordertelegraph.com/news/national/26603405.g7-leaders-agree-release-up-100-million-barrels-petroleum-reserves",
-    "https://chardandilminsternews.co.uk/news/national/26603405.g7-leaders-agree-release-up-100-million-barrels-petroleum-reserves",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_2?evenement=052597e1d2",
-    "https://ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
-    "https://herefordtimes.com/news/national/26603405.g7-leaders-agree-release-up-100-million-barrels-petroleum-reserves",
-    "https://politico.eu/article/trump-says-europe-agrees-to-release-massive-amount-of-diesel",
-    "https://spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b",
-    "https://straitstimes.com/world/europe/g-7-countries-agree-on-release-of-diesel-and-oil-stocks-after-us-pressure",
-    "https://theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
-    "https://theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-    "https://thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece",
-    "https://www1.folha.uol.com.br/mercado/2026/10/paises-do-g7-chegam-a-acordo-para-liberar-100-milhoes-de-barris-de-petroleo-e-gas.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-02-alerte-01",
-   "date": "2026-10-02",
-   "publiee_a": "2026-10-02T09:54:31Z",
-   "titre": "Un pilote de Flydubai blessé décrit son agression au dirigeant indien",
-   "texte": "Le commandant de bord indien Smit Machchhar a décrit vendredi son agression en plein vol lors d'un échange vidéo avec son Premier ministre Narendra Modi depuis son lit d'hôpital à Abou Dabi. Le pilote de la compagnie Flydubai avait été poignardé mercredi par son copilote dans la cabine de pilotage d'un avion reliant Dubaï à Tel-Aviv.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.com/news/articles/c639m98gde00o"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/asia/indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-02/el-piloto-apunalado-en-el-vuelo-de-flydubai-entre-dubai-y-tel-aviv-me-dije-que-la-puerta-estaba-ahi-que-solo-tenia-que-abrirla.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/comandante-vuelo-israel-afirma-modi-abrio-puerta-20261002095256-nt.html"
-    },
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/middle-east-news/2026-10-02/ty-article/flydubai-pilot-i-opened-cockpit-door-letting-passengers-overpower-co-pilot/000001a0-fbcd-d2b3-a1b8-fbcf0d6c0000"
-    }
-   ],
-   "cluster": "ff8d433174c26e81",
-   "urls": [
-    "https://abc.es/internacional/comandante-vuelo-israel-afirma-modi-abrio-puerta-20261002095256-nt.html",
-    "https://bbc.co.uk/news/articles/c639m98gde00o",
-    "https://bbc.com/news/articles/c639m98gde00o",
-    "https://elpais.com/internacional/2026-10-02/el-piloto-apunalado-en-el-vuelo-de-flydubai-entre-dubai-y-tel-aviv-me-dije-que-la-puerta-estaba-ahi-que-solo-tenia-que-abrirla.html",
-    "https://haaretz.com/middle-east-news/2026-10-02/ty-article/flydubai-pilot-i-opened-cockpit-door-letting-passengers-overpower-co-pilot/000001a0-fbcd-d2b3-a1b8-fbcf0d6c0000",
-    "https://spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d",
-    "https://spiegel.de/ausland/flydubai-pilot-erzaehlt-in-telefonat-mit-narendra-modi-was-ihm-mut-gemacht-hat-a-0ebf3044-d8c4-4a7a-96b5-b8ed12578618",
-    "https://straitstimes.com/asia/indian-pilot-tells-pm-modi-he-opened-flydubai-cockpit-door-during-attack"
    ]
   }
  ]

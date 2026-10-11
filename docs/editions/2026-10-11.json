@@ -1,0 +1,1322 @@
+{
+ "date": "2026-10-11",
+ "genere_a": "2026-10-11T06:36:19Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-11-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Frappe contre l'aéroport de Riyad : douze morts et plus de trois cents blessés",
+   "chapeau": "Un tir de missiles a visé l'aéroport international Roi-Khaled de Riyad le samedi 10 octobre 2026. Les autorités saoudiennes rapportent la mort de douze personnes et dénombrent plus de trois cents blessés sur place.",
+   "corps": "Une frappe militaire a touché l'aéroport international Roi-Khaled dans la capitale de l'Arabie saoudite. L'attaque s'est déroulée le samedi 10 octobre 2026. L'agence Bloomberg indique le 10 octobre 2026 à 20 h 47 que le gouvernement saoudien a dénombré 12 morts et 309 blessés, tout en annonçant l'arrêt temporaire des activités aéroportuaires.\n\nLe média américain NPR rapporte le 11 octobre 2026 à 03 h 44 le bilan officiel saoudien concernant l'identité des douze victimes décédées. Les autorités recensent quatre citoyens d'Arabie saoudite, deux ressortissants du Bangladesh, un citoyen des États-Unis, un Égyptien, un Jordanien, un Palestinien, un Syrien et un Soudanais. Le journal Haaretz précise le 11 octobre 2026 à 00 h 55 que les personnes tuées proviennent au total de onze pays distincts. NPR ajoute que plusieurs blessés se trouvent dans un état grave.\n\nLe journal brésilien Folha de S.Paulo rapporte les déclarations de témoins transmises par l'agence Reuters le 10 octobre 2026. Ces observateurs ont constaté l'évacuation des passagers de certains secteurs de l'aérogare. Plus de dix ambulances ont rejoint les lieux après l'explosion. Les autorités saoudiennes ont interrompu les vols sur l'ensemble de la plateforme aéroportuaire, selon les informations publiées par El País le 11 octobre 2026 à 05 h 21.\n\nL'attaque a provoqué des réactions internationales sur le plan de la sécurité des transports. Le gouvernement allemand a émis une recommandation déconseillant les déplacements en avion transitant par la ville de Riyad, d'après les éléments rapportés par Der Spiegel le 10 octobre 2026 à 20 h 47. L'ambassade des États-Unis a indiqué le 11 octobre 2026 suivre les événements touchant l'infrastructure, d'après la BBC à 07 h 57.\n\nL'infrastructure aéroportuaire de Riyad a subi plusieurs perturbations récentes. Le média Bloomberg relève le 10 octobre 2026 qu'il s'agit du troisième blocage du trafic aérien enregistré au cours de la semaine. Haaretz confirme le 11 octobre 2026 qu'il s'agit de la troisième frappe visant l'aéroport de la capitale en sept jours. L'événement se produit alors que le pays prépare l'organisation de sommets consacrés à l'énergie et aux investissements.\n\n## Ce que disent les sources\n\nLes médias présentent des éléments différents concernant la responsabilité revendiquée et l'origine de l'attaque. L'agence Bloomberg mentionne le 10 octobre 2026 à 20 h 47 que l'Arabie saoudite dénonce une frappe ennemie liée à la montée des tensions avec les Houthis du Yémen. The Straits Times indique le 10 octobre 2026 à 22 h 17 qu'aucune revendication immédiate n'a été formulée pour cette action. Deutsche Welle affirme le 11 octobre 2026 à 02 h 07 que les responsables saoudiens attribuent l'assaut à la milice houthie soutenue par l'Iran. La coalition militaire sous commandement saoudien a promis une riposte décisive, selon Haaretz et Deutsche Welle le 11 octobre 2026.\n\nLe quotidien italien Corriere della Sera mentionne le 11 octobre 2026 à 10 h 13 qu'un deuxième aéroport a fait l'objet d'un bombardement, une situation non évoquée par les autres publications.\n\nL'identité des auteurs directs des tirs et le type précis des engins balistiques utilisés ne sont pas précisés par l'ensemble des sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab-a-9c214d82-2e3e-4b10-8637-4020e9e23dd6"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-authority-says"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/explosao-em-aeroporto-da-arabia-saudita-deixa-feridos-e-voos-sao-cancelados-diz-agencia.shtml"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-10/ty-article/riyadh-airport-attack-wounds-several-halts-flights-as-trump-weighs-u-s-role/000001a1-2791-d0ca-a7b7-bfb3d6de0000"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say"
+    }
+   ],
+   "premiere_parution": "2026-10-08T15:12:55Z",
+   "suite_de": null,
+   "mots": 541,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un homme meurt attaqué par un tigre dans un zoo britannique",
+   "chapeau": "Un homme a perdu la vie samedi 10 octobre 2026 après être entré dans un enclos pour félins au Yorkshire Wildlife Park, près de Doncaster, en Angleterre. Les secours sont intervenus rapidement sur les lieux après l'agression mortelle commise par l'animal.",
+   "corps": "Un individu a franchi les délimitations de la zone réservée aux tigres au sein du Yorkshire Wildlife Park, un parc animalier situé près de Doncaster dans le Yorkshire du Sud. Selon les déclarations de la police britannique rapportées par The Guardian le 10 octobre 2026 à 21 h 13, les témoins ont prévenu les secours peu après 13 h 30 samedi après l'intrusion de la victime dans l'espace réservé aux prédateurs.\n\nLe grand félin a pris pour cible l'homme dès son arrivée à l'intérieur de la zone clôturée. Les services d'urgence ont constaté le décès de la victime directement sur place.\n\nLes responsables de l'établissement ont évacué l'ensemble des visiteurs présents dans l'enceinte dès la survenue des faits. La direction a maintenu les grilles closes pour le reste du week-end afin de permettre le déroulement des premières constatations.\n\nDes enregistrements diffusés sur les réseaux internet montrent le déroulement de l'agression par l'animal au sein de son lieu de vie.\n\n## Ce que disent les sources\n\nLes publications présentent des divergences sur les détails physiques de l'animal et sur le mode d'accès à l'enclos.\n\nLe journal italien Corriere della Sera mentionne l'intervention spécifique d'un tigre de Sibérie. Les autres médias comme BBC News, The Guardian, Der Spiegel ou Le Figaro évoquent uniquement un tigre, sans spécifier sa sous-espèce.\n\nWikipédia, The Guardian et Corriere della Sera affirment que l'homme a sauté par-dessus les protections ou les barrières. D'autres sources, dont Le Figaro, Der Spiegel et The Straits Times, indiquent seulement que la victime a pénétré à l'intérieur de l'enclos.\n\nLes premières dépêches d'echo-news.co.uk le 10 octobre 2026 à 04 h 30 faisaient état de blessures graves subies par la victime. Les publications ultérieures, notamment BBC News le 10 octobre 2026 à 16 h 00 et The Guardian le 10 octobre 2026 à 21 h 13, ont établi la mort de l'homme sur les lieux.\n\nL'identité de la victime, son âge et les raisons précises de son entrée dans l'enclos ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "echo-news.co.uk",
+     "url": "https://echo-news.co.uk/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park"
+    },
+    {
+     "nom": "eastlothiancourier.com",
+     "url": "https://eastlothiancourier.com/news/national/26625670.man-dies-entering-tiger-enclosure-yorkshire-wildlife-park"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/c6n9r3n7858zo"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_10?evenement=511316fd5d"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/man-seriously-injured-in-tiger-attack-at-uk-zoo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_10/regno-unito-scavalca-le-protezioni-dello-zoo-uomo-muore-sbranato-da-una-tigre-siberiana-9b367f8f-8b0a-4634-a208-18290d1b0xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-10T00:30:00Z",
+   "suite_de": null,
+   "mots": 376,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Manifestations en Inde : la police interpelle des dirigeants d'un mouvement de jeunesse",
+   "chapeau": "Les forces de police ont interpellé des dirigeants et des manifestants du mouvement des Cafards à New Delhi le 10 octobre 2026. Les autorités ont instauré un verrouillage de la capitale pour empêcher un rassemblement exigeant la démission du responsable des élections.",
+   "corps": "Le groupe nommé parti Cockroach Janata mène une contestation axée sur les listes électorales. Cette organisation rassemble des jeunes et ne possède pas le statut de parti politique reconnu en Inde selon BBC News le 10 octobre 2026. L'organisation réclame des réformes du système électoral avant la tenue de scrutins régionaux. Ses membres demandent le départ du chef de la commission électorale.\n\nLes autorités policières ont ciblé les cadres de l'organisation avant le rassemblement prévu sur le site de Jantar Mantar. Les forces de l'ordre ont intercepté le fondateur du mouvement Abhijeet Dipke à sa sortie d'un avion à New Delhi selon le Financial Times le 10 octobre 2026. La police a également arrêté deux porte-parole du groupe, Saurav Das et Ashutosh Ranka, d'après les informations rapportées par Bloomberg le 10 octobre 2026.\n\nL'administration de la capitale a déployé un important dispositif sécuritaire pour bloquer l'accès à la ville. Des milliers d'agents de sécurité surveillaient les voies publiques selon BBC News le 10 octobre 2026. Les agents ont empêché l'arrivée de délégations de protestataires venues de différentes régions du pays. Les restrictions de circulation sont restées en place dans plusieurs quartiers de New Delhi le dimanche 11 octobre 2026 selon Bloomberg.\n\nUn tribunal indien a ordonné la remise en liberté des cadres du mouvement selon Deutsche Welle le 11 octobre 2026. Malgré les interventions policières et les mesures d'isolement urbain, le collectif a renouvelé son appel à manifester le 11 octobre 2026 selon Bloomberg et Deutsche Welle.\n\n## Ce que disent les sources\n\nLes sources ne s'accordent pas sur l'ampleur numérique des interpellations menées à New Delhi.\n\nAl Jazeera indique dans sa dépêche du 10 octobre 2026 à 17h23 que la police a arrêté des dizaines de protestataires.\n\nBBC News mentionne des centaines de personnes retenues par les autorités dans ses articles du 10 octobre 2026 à 16h29 et 18h13.\n\nThe Guardian affirme pour sa part, le 10 octobre 2026 à 15h17 et à 18h44, que les forces de l'ordre ont placé en détention des dizaines de milliers de personnes.\n\nConcernant le motif du rassemblement, The Guardian rapporte le 10 octobre 2026 que le mouvement conteste l'effacement de 130 millions de noms des registres de vote. Les autres publications citent une révision conflictuelle des listes électorales ou une demande globale de réforme sans donner ce total.\n\nL'identité de la juridiction qui a exigé la libération des responsables et l'issue immédiate des nouveaux appels à manifester ne sont pas précisées dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/south-asia/indian-police-detain-cockroach-movement-founder-abhijeet-dipke-protesters-ahead-of-rally"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/c65yn7xvde7vo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-10/cockroach-party-leaders-detained-to-stop-protests-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/india-court-orders-release-of-cockroach-movement-leaders/live-79631190?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-08T10:34:57Z",
+   "suite_de": null,
+   "mots": 454,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Huit personnes tuées par balle dans une maison en Pennsylvanie",
+   "chapeau": "Un homme a tué huit personnes par balle à Erie en Pennsylvanie le vendredi 9 octobre 2026. L'auteur présumé des tirs a ensuite mis fin à ses jours à l'intérieur du logement.",
+   "corps": "Les forces de l'ordre de la ville d'Erie sont intervenues vendredi vers 17 heures après des signalements de tirs. Les policiers ont découvert deux femmes mortes sur la voie publique à leur arrivée sur les lieux. L'agresseur armé s'est ensuite retranché dans une habitation. Cette situation a provoqué un face-à-face avec les agents locaux et des équipes tactiques spécialisées.\n\nL'assaillant âgé de 45 ans a été retrouvé sans vie dans le bâtiment. Les autorités locales ont précisé lors d'une conférence de presse le samedi 10 octobre 2026 que le tireur s'était suicidé avec son arme. Les responsables municipaux ont indiqué que la zone ne fait face à aucun danger persistant.\n\nLe bilan s'élève à huit victimes abattues par le suspect. Parmi les défunts figurent deux enfants ainsi qu'une femme enceinte de huit mois. Selon les données communiquées par les policiers d'Erie le 11 octobre 2026 à 03 h 21, l'auteur des coups de feu avait un lien de parenté avec sept des personnes tuées. Le journal brésilien Folha de S.Paulo a rapporté le 11 octobre 2026 à 05 h 53 que la huitième victime était un ami de la famille.\n\nLe gouverneur de l'État de Pennsylvanie, Josh Shapiro, a exprimé son soutien aux habitants de cette commune située au bord d'un lac. Les secours et les représentants de l'État ont pris en charge les suites de l'événement.\n\n## Ce que disent les sources\n\nCertains médias ont mentionné un total de neuf victimes tuées par le tireur. Townhall a écrit le 10 octobre 2026 à 17 h 02 que le drame comptait neuf défunts dont deux enfants. À l'opposé, les forces de police citées par The Straits Times le 11 octobre 2026 à 00 h 05 et Deutsche Welle le 11 octobre 2026 à 05 h 52 ont établi que huit personnes avaient été tuées par l'agresseur avant son propre suicide, portant le nombre global de cadavres à neuf.\n\nL'identité du tireur de 45 ans et les motifs de son passage à l'acte restent inconnus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "townhall.com",
+     "url": "https://townhall.com/news/scott-mcclallen/2026/10/10/nine-dead-including-two-children-in-erie-mass-shooting-n2684472"
+    },
+    {
+     "nom": "10news.com",
+     "url": "https://10news.com/us-news/crime/erie-pennsylvania-shooting-kills-9-including-2-children"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/ocho-muertos-tiroteo-ciudad-norte-eeuu-20261010184403-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/nine-dead-in-erie-pennsylvania-mass-shooting"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-neun-tote-nach-schuessen-in-pennsylvania-a-1645da9a-48de-45b2-bb49-3098a90c9ec2"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-10/un-tirador-mata-a-ocho-personas-en-una-vivienda-en-pensilvania.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_11/pennsylvania-un-uomo-uccide-8-persone-e-poi-si-toglie-la-vita-cb1619ba-176a-443c-8a74-50245d0b1xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-09T12:00:00Z",
+   "suite_de": null,
+   "mots": 366,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Mahmoud Abbas reporte les élections palestiniennes au mois de septembre 2027",
+   "chapeau": "Le président de l'Autorité palestinienne Mahmoud Abbas a annoncé samedi 10 octobre 2026 le report des élections législatives initialement prévues en novembre. Il convoque un scrutin législatif et présidentiel simultané pour le 11 septembre 2027 depuis Ramallah.",
+   "corps": "Mahmoud Abbas a publié un décret officiel samedi 10 octobre 2026. Ce texte décale le renouvellement du Parlement prévu pour novembre 2026 vers le 11 septembre 2027. Le dirigeant adjoint à ce vote l'organisation d'un scrutin présidentiel le même jour.\n\nLe président palestinien motive cette décision par les obstacles liés aux mesures israéliennes et par la dégradation du contexte sécuritaire dans les territoires palestiniens. Selon lui, le cadre actuel ne permet pas l'ouverture normale des bureaux de vote.\n\nCette annonce suscite la contestation de plusieurs opposants politiques palestiniens. Ces derniers affirment que le chef de l'Autorité palestinienne utilise ce motif pour prolonger son autorité sans solliciter l'avis des électeurs. Mahmoud Abbas occupe la présidence depuis 2005, selon les précisions publiées par The Hindu le 10 octobre 2026 à 21h04. Le Financial Times rappelle également dans son édition du 10 octobre 2026 à 20h18 que le responsable dirige le territoire depuis 21 ans. Le dernier vote démocratique général remonte à 2006, d'après les éléments rapportés par Haaretz le 10 octobre 2026 à 17h43.\n\nLa tenue d'un scrutin parlementaire formait l'une des exigences des partenaires internationaux pour appuyer les réformes locales. Plusieurs pays, dont la France, posent cette consultation électorale comme condition préalable à la reconnaissance officielle d'un État palestinien.\n\nLes autorités israéliennes n'ont pas encore communiqué de réaction officielle aux accusations portées par la présidence palestinienne.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/palestine-mahmoud-abbas-convoque-une-election-presidentielle-en-septembre-2027-et-decale-les-legislatives-a-cette-date-20261010_5WLR4ZZM4ZHCJCGHKJOVQ5ODLE"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/palestine/le-president-palestinien-reporte-l-organisation-de-pres-d-un-an-des-elections-legislatives-a-septembre-2027_8231596.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/palestinians/2026-10-10/ty-article/report-palestinian-president-abbas-postpones-elections-by-a-further-year/000001a1-25cb-d0ca-a7b7-bfeb2c2e0000"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/autorite-palestinienne-mahmoud-abbas-reporte-les-elections-a-septembre-2027-20261010"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/palaestina-mahmoud-abbas-verschiebt-wahlen-auf-2027-a-27bca8bc-3566-4072-9eda-ae3c126e35e6"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/autoridade-palestina-marca-eleicoes-para-setembro-de-2027-apos-novo-adiamento.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-09T10:44:43Z",
+   "suite_de": null,
+   "mots": 262,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Washington enquête sur le boycott télévisé des déplacements de Donald Trump",
+   "chapeau": "Le département de la Justice des États-Unis a ouvert une enquête sur cinq grandes chaînes de télévision américaines le dimanche 11 octobre 2026. Les autorités fédérales vérifient si leur refus concerté de couvrir les activités du président Donald Trump enfreint les règles de la concurrence.",
+   "corps": "Le département de la Justice des États-Unis examine l'action collective des réseaux de télévision membres du groupe de couverture partagée de la Maison-Blanche. Les enquêteurs fédéraux cherchent à déterminer si l'interruption des retransmissions enfreint les lois antitrust, qui sanctionnent les ententes illicites commerciales.\n\nCinq entreprises audiovisuelles font l'objet de cette procédure administrative. Deutsche Welle a précisé le 11 octobre 2026 qu'il s'agit des chaînes ABC, CBS, CNN, NBC et Fox News. Ces diffuseurs assuraient jusqu'alors la mise en commun des images des déplacements présidentiels pour l'ensemble des médias.\n\nCette suspension coordonnée de la couverture audiovisuelle a débuté le mois dernier en réaction à des sanctions gouvernementales. L'administration présidentielle avait auparavant interdit l'accès à ses locaux à plusieurs médias indépendants. The Guardian et la BBC ont indiqué que ces interdictions d'accès visaient la chaîne CNN, le média MS Now et le journal d'information Politico.\n\nPour protester contre ces exclusions ordonnées par les services présidentiels, les cinq réseaux d'information avaient cessé d'alimenter le dispositif commun de diffusion des apparitions de Donald Trump. Le pouvoir fédéral utilise désormais les dispositions du droit de la concurrence pour contester la légalité de cette décision commune des entreprises audiovisuelles.\n\nLes sources ne précisent pas la durée prévisible de cette procédure administrative ni les sanctions encourues par les chaînes d'information.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-11/doj-probes-tv-networks-over-white-house-coverage-decisions"
+    },
+    {
+     "nom": "abc6onyourside.com",
+     "url": "https://abc6onyourside.com/news/nation-world/justice-department-probes-whether-white-house-tv-press-pool-boycott-violated-antitrust-law"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/11/justice-department-investigates-tv-networks-trump-pool-coverage"
+    },
+    {
+     "nom": "wpbf.com",
+     "url": "https://wpbf.com/article/doj-investigating-white-house-tv-pools-coverage-halt-antitrust-law/74100482"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage"
+    }
+   ],
+   "premiere_parution": "2026-10-11T00:05:00Z",
+   "suite_de": null,
+   "mots": 258,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-007",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'ouragan Isaias traverse le sud des États-Unis et fait des victimes",
+   "chapeau": "L'ouragan Isaias a touché les côtes de Floride et d'Alabama vendredi soir avant de poursuivre sa course vers l'intérieur des terres samedi 10 octobre 2026. Le phénomène météorologique a provoqué des inondations, des coupures d'électricité et la mort de plusieurs personnes dans le sud des États-Unis.",
+   "corps": "Isaias a abordé les terres américaines en Floride sous la forme d'un ouragan de catégorie 2, à proximité de Destin. Les autorités locales et les services météorologiques ont ensuite constaté son affaiblissement progressif au fil de son avancée continentale. Le système a été reclassé en cyclone post-tropical, c'est-à-dire une tempête sans cœur chaud. Le Centre national américain des ouragans prévoit son passage vers le nord et le nord-est, puis sa diminution dans les vallées du Tennessee et de l'Ohio au cours du week-end.\n\nLes chutes d'arbres et les ruptures de câbles ont désorganisé la vie quotidienne dans plusieurs États. Des routes ont subi des inondations et le secteur de l'énergie a enregistré des perturbations dans les installations pétrolières et gazières. Le gouverneur de Floride, Ron DeSantis, a indiqué sur la chaîne Fox News que ses services n'avaient enregistré aucune demande d'opération de recherche ou de secours. Il a relié cette absence d'appels au respect des consignes de sécurité par la population.\n\n## Ce que disent les sources\n\nLe bilan humain et le nombre d'usagers privés d'électricité varient selon le moment de publication des informations. Les premiers rapports publiés le 10 octobre 2026 faisaient état d'au moins deux décès, selon ABC 7 Amarillo à 19 h 32, Al Jazeera à 19 h 45, NPR à 21 h 14 et le Financial Times le 11 octobre à 00 h 26. Les dépêches suivantes, publiées par Le Monde le 11 octobre 2026 à 02 h 11, The Guardian à 02 h 18 et Deutsche Welle à 03 h 09, portent le nombre de morts à quatre. Concernant le réseau électrique, Al Jazeera comptait plus de 664 000 foyers sans courant le 10 octobre à 12 h 33, avant d'ajuster ce total à 800 000 à 19 h 45, un chiffre également avancé par Bloomberg le 10 octobre à 13 h 32 et par le Financial Times le 11 octobre à 00 h 26. The Guardian mentionnait près d'un million de personnes touchées le 11 octobre à 03 h 20, tandis qu'Al Jazeera recensait plus de 650 000 abonnés affectés en Floride le 11 octobre à 08 h 28.\n\nL'identité complète des victimes et le montant des dégâts matériels ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-10/isaias-leaves-thousands-without-power-after-striking-gulf-coast"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3vgx4450v2lo"
+    },
+    {
+     "nom": "abc7amarillo.com",
+     "url": "https://abc7amarillo.com/news/nation-world/hurricane-isaias-blamed-for-deaths-in-florida-alabama-as-flooding-and-outages-persist-ron-desantis-woman-died-tree-fell-escambia-county-birmingham-power-outage-tropical-storm-panhandle"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates"
+    }
+   ],
+   "premiere_parution": "2026-10-10T08:33:44Z",
+   "suite_de": null,
+   "mots": 417,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Christa Pike quitte l'hôpital et retourne en prison au Tennessee",
+   "chapeau": "La détenue américaine Christa Pike a quitté l'hôpital samedi 10 octobre 2026 pour regagner sa prison dans le Tennessee. Ses avocats ont annoncé cette sortie dix jours après sa tentative d'exécution par injection létale.",
+   "corps": "La condamnée à mort de 50 ans avait survécu le 30 septembre 2026 à deux injections d'un produit létal.\n\nSes avocats ont précisé le 10 octobre 2026 qu'elle a rejoint l'établissement pénitentiaire où elle réside depuis trois décennies. Les services pénitentiaires poursuivent les soins médicaux derrière les barreaux.\n\nLa défense décrit une santé fragile. Christa Pike marche à nouveau mais conserve des marques sévères sur les bras, selon ses représentants légaux. Son avocat affirme aussi qu'elle reste confuse sur le plan mental et n'exclut pas des séquelles durables.\n\nLes conseils de la détenue indiquent que leur cliente exprime sa reconnaissance envers les soignants et les premiers intervenants qui l'ont prise en charge pendant son hospitalisation. La justice l'avait condamnée à la peine capitale pour le meurtre d'une camarade d'école.\n\n## Ce que disent les sources\n\nFranceinfo indique le 10 octobre 2026 à 20 h 57 que Christa Pike a avalé deux doses d'un puissant barbiturique. Les autres médias rapportent des injections létales reçues lors de la procédure.\n\nLe sort judiciaire réservé à la prisonnière après cet échec d'exécution reste non précisé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/christa-pike-mujer-sobrevivio-inyeccion-letal-tennessee-20261010175250-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-10/christa-pike-recibe-el-alta-en-el-hospital-y-es-trasladada-de-nuevo-a-prision.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/10/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-est-sortie-de-l-hopital-et-est-de-retour-en-prison_6791020_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-lethal-injection-survivor-christa-pike-returns-to-prison"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmlyle97pqd7o"
+    }
+   ],
+   "premiere_parution": "2026-10-08T09:14:51Z",
+   "suite_de": "2026-10-10-monde-010",
+   "mots": 214,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-009",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Panama : le séisme fait au moins vingt-sept blessés",
+   "chapeau": "Les autorités panaméennes ont dénombré au moins vingt-sept blessés et plus de quatre cents bâtiments endommagés après le tremblement de terre survenu le vendredi 9 octobre 2026 dans le sud du pays. Aucun décès n'a été recensé alors que les opérations de déblaiement se poursuivent et que les secousses secondaires se multiplient.",
+   "corps": "Le vendredi 9 octobre 2026, un séisme avait provoqué d'importants dégâts matériels dans le sud du Panama et conduit le président José Raul Mulino à déclarer l'état de catastrophe majeure.\n\nLe dernier bilan communiqué par les autorités panaméennes le 10 octobre 2026 à 14 h 37, relayé par ABC, fait état d'au moins 27 blessés légers et d'environ 300 personnes évacuées. Selon ce même bilan officiel, plus de 400 constructions ont subi des dommages à travers plusieurs provinces. Ces dégradations concernent 188 établissements scolaires ainsi que 142 habitations privées. Des hôpitaux, des lieux de culte, des locaux administratifs, des ponts et des voies de circulation présentent également des dégradations.\n\nL'institut géologique américain, l'USGS, a mesuré le foyer du séisme à une profondeur de 12,6 kilomètres. Le centre de la secousse se situe à environ 200 kilomètres de la capitale, Panama, dans un secteur à faible densité de population. La secousse a également été localisée à 10 kilomètres à l'ouest de Pitaloza Arriba, le long du littoral méridional.\n\nLes secousses secondaires ont poussé des milliers de résidents à quitter leurs logements pour se regrouper sur la voie publique. Certains habitants ont choisi de passer la nuit à l'extérieur. Le quotidien Le Monde a rapporté le 11 octobre 2026 à 04 h 10 que plus de cent répliques ont été enregistrées depuis la secousse initiale. Ce média indique également qu'une trentaine de blessés légers ont été répertoriés par les services officiels, sans aucune perte de vie humaine confirmée.\n\n## Ce que disent les sources\n\nL'institut géologique américain a évalué la secousse principale à une magnitude de 7,6, selon Le Figaro le 10 octobre 2026 à 00 h 49, le Corriere della Sera à 00 h 52 et The Hindu à 02 h 40. En revanche, franceinfo le 10 octobre 2026 à 01 h 12, la BBC à 01 h 26, The Guardian à 04 h 13, NRC à 06 h 05, ABC à 14 h 37, Folha de S.Paulo à 17 h 12, France 24 à 17 h 17 et Le Monde le 11 octobre 2026 à 04 h 10 ont attribué à ce tremblement de terre une magnitude de 7,7.\n\nPar ailleurs, Al Jazeera a évoqué la survenue de deux séismes distincts dans le sud du pays le 10 octobre 2026 à 04 h 53, tandis que les autres médias mentionnent une secousse majeure suivie de répliques terrestres.\n\nLe coût total des dégradations matérielles causées par la catastrophe n'a pas été précisé par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/panama-un-seisme-de-magnitude-8-0-ressenti-dans-la-capitale-un-risque-de-tsunami-evoque-20261009"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/trema-la-terra-a-panama-persone-in-strada-dopo-il-terremoto-di-magnitudo-7-6/b5aecf45-5ae2-437a-98da-491622f98xlk"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c620r39zdp9wo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/09/panama-earthquake"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/10/zware-aardbeving-in-panama-veroorzaakt-schade-en-paniek-a4938674"
+    }
+   ],
+   "premiere_parution": "2026-10-09T12:00:00Z",
+   "suite_de": "2026-10-10-monde-006",
+   "mots": 469,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-010",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le monde salue le prix Nobel décerné à Navi Pillay",
+   "chapeau": "Le comité Nobel norvégien a attribué le prix Nobel de la paix 2026 à Navanethem Pillay le vendredi 9 octobre à Oslo. Les réactions internationales mettent en valeur son travail juridique pour la protection des droits humains et le droit international.",
+   "corps": "La juriste sud-africaine a obtenu cette distinction pour son action continue en faveur des règles juridiques mondiales.\n\nEn Afrique du Sud, les acteurs politiques et la société civile accueillent la décision avec fierté selon le journal La Croix le 9 octobre 2026. Cette reconnaissance survient durant une période de relations difficiles avec le dirigeant américain Donald Trump, rapporte également le quotidien français. Cécile Aptel, ancienne collaboratrice de la magistrate, estime dans Libération que ce choix envoie un message clair contre les reculs des libertés.\n\nLe comité Nobel norvégien a expliqué que les instruments juridiques aident à empêcher les guerres et les violences, d'après The Guardian le 9 octobre 2026. La lauréate a dirigé une mission des Nations unies sur les violences dans la bande de Gaza. Cette commission d'enquête avait conclu à la culpabilité d'Israël pour des actes de génocide, précisent The Guardian et franceinfo.\n\nLa juriste âgée de 85 ans travaille actuellement comme juge ad hoc à la Cour internationale de justice de La Haya, note ABC le 9 octobre 2026. Ce mandat désigne un juge temporaire nommé pour une affaire précise. Elle a également siégé à la Cour pénale internationale et a dirigé le Tribunal pénal international pour le Rwanda selon Le Monde et Folha de S.Paulo. Elle a exercé les fonctions de haute-commissaire des Nations unies aux droits de l'homme.\n\nLe quotidien brésilien Folha de S.Paulo rappelle le 10 octobre 2026 que la Cour pénale internationale et la Cour internationale de justice figuraient aussi parmi les prétendants identifiés par l'Institut de recherche sur la paix d'Oslo. L'attribution du prix met en avant la défense des institutions mondiales face aux contestations politiques actuelles, commente ce journal.\n\nLes détails sur les déclarations directes des autorités israéliennes et américaines n'apparaissent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/nobel-de-la-paix-navanethem-navi-pillay-recompensee-une-fierte-pour-l-afrique-du-sud-20261009"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm9wz5kng0x1o"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/nobel-de-la-paix-a-navi-pillay-un-signal-fort-dans-un-monde-marque-par-les-reculs-en-matiere-de-droits-humains-20261009_NZ4VRXBLBRB63GPNMLGNOHOPZU"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/oslo-convierte-nobel-paz-pulso-trump-20261009211639-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize"
+    }
+   ],
+   "premiere_parution": "2026-10-08T18:41:00Z",
+   "suite_de": "2026-10-10-monde-001",
+   "mots": 338,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Katie Zacharia prend la parole pour Donald Trump à Washington",
+   "chapeau": "Katie Zacharia a réagi publiquement à sa désignation au poste de porte-parole présidentiel américain à Washington. Cette intervention fait suite à la proposition transmise par Donald Trump le 9 octobre 2026.",
+   "corps": "Donald Trump a désigné Katie Zacharia pour diriger la communication quotidienne de la Maison Blanche en remplacement de Karoline Leavitt. Cette dernière avait quitté ses fonctions à la fin du mois d'août 2026 à la suite de l'accouchement de son deuxième enfant.\n\nL'intéressée a qualifié cette mission d'honneur d'une vie au service de Donald Trump et des citoyens. Elle a souligné la portée symbolique du deux cent cinquantième anniversaire du pays célébré cette année. Le chef de l'État a présenté sa nouvelle recrue comme une admiratrice investie ainsi qu'une partenaire fidèle depuis ses débuts politiques.\n\nOriginaire de Californie, la juriste conservatrice possède une expérience gouvernementale préalable. Elle a exercé la fonction de porte-parole au sein du département de la Sécurité intérieure entre février et avril 2026. L'intervenante apparaît également sur les antennes de Fox News et de Newsmax. Elle travaillait dernièrement comme conseillère en communication auprès de l'entreprise Trump Media and Technology Group.\n\nCette arrivée intervient avant la tenue du scrutin législatif prévu en novembre 2026. La présidence fait face à des indices de popularité dégradés en raison du conflit armé impliquant les forces américaines contre l'Iran, d'après les éléments rapportés par Deutsche Welle le 10 octobre 2026 à 03h12.\n\n## Ce que disent les sources\n\nSelon un responsable de la présidence cité par Folha de S.Paulo et ABC le 9 octobre 2026, la Maison Blanche a offert le rôle à Katie Zacharia. Le quotidien The Hindu précisait le 10 octobre 2026 que la commentatrice n'avait pas répondu sur-le-champ pour signifier son accord officiel. De leur côté, Le Monde, Le Figaro et Der Spiegel présentent l'attribution de la charge comme un choix directement acté et entériné par la déclaration publique de l'intéressée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-elige-katie-zacharia-nueva-portavoz-casa-20261009205212-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/comentarista-politica-dos-eua-sera-nova-secretaria-de-imprensa-de-trump.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-katie-zacharia-wird-neue-sprecherin-des-weissen-hauses-a-dd18d829-65f2-4bbb-866e-3ba13dceca0e"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/donald-trump-choisit-la-commentatrice-conservatrice-katie-zacharia-comme-porte-parole_8230702.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c5rmy73zr0rro"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/katie-zacharia-picked-as-white-house-press-secretary/article71565837.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/10/donald-trump-nomme-katie-zacharia-membre-devouee-du-mouvement-maga-nouvelle-porte-parole-de-la-maison-blanche_6790670_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-09T00:00:00Z",
+   "suite_de": "2026-10-10-monde-004",
+   "mots": 313,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le gouvernement israélien condamne l'attribution du Nobel de la paix à Navi Pillay",
+   "chapeau": "Le gouvernement israélien a vivement rejeté l'attribution du prix Nobel de la paix 2026 à Navanethem Pillay le vendredi 9 octobre à Oslo. Cette juriste sud-africaine a récemment qualifié de génocide les opérations militaires conduites dans la bande de Gaza.",
+   "corps": "Le comité norvégien a décerné sa distinction annuelle à Navanethem Pillay le 9 octobre 2026 pour son action en faveur du droit international. Cette magistrate de 85 ans, selon Libération le 9 octobre 2026 à 17 h 51, a occupé par le passé les fonctions de juge au Tribunal pénal international et de Haute-Commissaire des Nations unies aux droits de l'homme.\n\nLe gouvernement dirigé par Benyamin Netanyahou a critiqué ce choix dès le vendredi 9 octobre 2026. Les autorités israéliennes affirment que cette récompense légitime la haine envers leur pays. L'exécutif a déclaré que l'ancien ministre nazi Joseph Goebbels applaudit depuis l'enfer cette décision. Israël reproche à la lauréate ses conclusions rendues à la tête d'une commission d'enquête mandatée par l'Organisation des Nations unies.\n\nCette commission d'enquête indépendante a qualifié de génocide les actions de l'armée israélienne dans la bande de Gaza. Le terme désigne l'anéantissement délibéré d'un groupe humain. Israël conteste cette qualification et accuse l'avocate de propager des mensonges. De son côté, le comité Nobel a refusé de valider ou de commenter le terme de génocide utilisé dans les rapports de la lauréate.\n\nL'Organisation des Nations unies et plusieurs capitales ont salué la désignation de la juriste sud-africaine. Cette attribution met en lumière les tensions répétées entre Israël et les structures juridiques internationales chargées de surveiller les conflits armés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "idahostatejournal.com",
+     "url": "https://idahostatejournal.com/news/national/israels-scorn-of-nobel-peace-prize-laureate-highlights-its-combative-relationship-with-un-bodies/article_eb84b4ff-0dae-54f2-8b12-fd7300a25805.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/afrique/20261009-navanethem-pillay-prix-nobel-de-la-paix-la-notion-de-g%C3%A9nocide-au-coeur-des-r%C3%A9actions"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/nobel-da-paz-a-navi-pillay-e-celebrado-por-onu-e-criticado-por-israel-veja-repercussao.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/israel-afirma-joseph-goebbels-aplaude-infierno-nobel-20261009143416-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/prix-nobel-de-la-paix-navi-pillay-saluee-par-la-communaute-internationale-israel-fait-un-parallele-avec-les-nazis-20261009_RF7FZ6LFBVHIZECDJHBVLHOMLM"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/navi-pillay-friedensnobelpreistraegerin-kritisiert-israel-fuer-vorgehen-in-gaza-a-c3590c37-65d6-458c-9787-97279def1ced"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/navi-pillay-un-prix-nobel-tres-politique-et-polemique-20261009"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/opinion/2026-10-10/ty-article-opinion/.premium/goebbels-isnt-applauding-navi-pillay-hes-applauding-what-israel-has-become/000001a1-2749-d0ca-a7b7-bf6bd53c0000"
+    }
+   ],
+   "premiere_parution": "2026-10-09T02:45:00Z",
+   "suite_de": "2026-10-10-monde-001",
+   "mots": 261,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Deux toiles de Renoir dérobées à Cagnes-sur-Mer retrouvées par les enquêteurs",
+   "chapeau": "Les enquêteurs ont retrouvé vendredi 9 octobre 2026 deux toiles du peintre Pierre-Auguste Renoir dérobées un mois plus tôt à Cagnes-sur-Mer. Les autorités ont procédé à plusieurs interpellations dans le cadre de cette affaire.",
+   "corps": "Le maire de la commune a annoncé la récupération des toiles le vendredi 9 octobre 2026. Les deux peintures sont « Jeune femme au puits » et « Portrait de Madame Colonna Romano ». L'ancien domicile de l'artiste accueille aujourd'hui ces œuvres dans les Alpes-Maritimes.\n\nLe cambriolage s'est déroulé dans la matinée du 8 septembre 2026. Deux cambrioleurs ont découpé un grillage avant de casser une vitre pour entrer dans le musée Renoir. Les individus ont scié les fixations de quatre toiles. Ils ont emporté deux tableaux et ont abandonné les deux autres dans le jardin pendant leur fuite. Selon Deutsche Welle le 9 octobre 2026 à 15 h 42, les quatre pièces représentaient une valeur supérieure à dix millions de dollars. Les représentants officiels ont salué le travail de localisation des toiles. Ils n'ont pas détaillé les démarches ayant permis de retrouver les biens.\n\nLa justice a engagé des poursuites après les arrestations menées durant la semaine. Le principal suspect a fait l'objet d'une mise en examen.\n\n## Ce que disent les sources\n\nLes médias divergent sur le nombre de personnes appréhendées par les forces de l'ordre. Reuters le 9 octobre 2026 à 16 h 00 et France 24 le 10 octobre 2026 à 13 h 58 rapportent l'arrestation de six suspects. The Straits Times indique pour sa part le 9 octobre 2026 à 16 h 20 l'arrestation de cinq suspects.\n\nL'état de conservation des deux tableaux retrouvés n'a pas été communiqué par les enquêteurs.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/lifestyle/renoir-paintings-stolen-riviera-museum-recovered-six-people-arrested-2026-10-09"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/renoir-paintings-stolen-from-riviera-museum-recovered-six-people-arrested"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/nice/les-deux-tableaux-d-auguste-renoir-voles-a-cagnes-sur-mer-finalement-retrouves-20261009"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/cultura/2026-10-09/recuperados-un-mes-despues-los-dos-cuadros-robados-del-museo-renoir-en-francia.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/09/les-deux-tableaux-de-renoir-voles-sur-la-cote-d-azur-ont-ete-retrouves_6790577_3224.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/obras-de-auguste-renoir-sao-recuperadas-um-mes-apos-roubo-na-franca.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwkg50v1vn07o"
+    }
+   ],
+   "premiere_parution": "2026-10-08T09:31:13Z",
+   "suite_de": null,
+   "mots": 275,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La primaire sociale-démocrate clôture son premier tour de vote dimanche",
+   "chapeau": "Les électeurs de la gauche sociale-démocrate achèvent ce dimanche 11 octobre 2026 en France le vote du premier tour de leur primaire présidentielle. Les organisateurs attendent les premiers résultats dans la soirée après la clôture des opérations fixée à 18 heures.",
+   "corps": "Ce vote fait suite à l'ouverture du premier tour le 9 octobre 2026 entre cinq prétendants pour désigner un candidat commun.\n\nLe scrutin se prolonge jusqu'à ce dimanche à 18 heures selon une information publiée par Le Figaro le 11 octobre 2026. Les chiffres recensés par Le Monde le 9 octobre 2026 font état de plus de 140 000 inscrits, dont plus de 42 000 participants enregistrés sur la plateforme « Choisir 2027 ». Les cinq personnalités en lice pour cette consultation sont Raphaël Glucksmann, Olivier Faure, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal. Raphaël Glucksmann, eurodéputé et responsable du mouvement Place publique, souhaite remporter cette consultation dès ce premier scrutin selon Le Figaro.\n\nLe positionnement politique face à La France insoumise constitue un point central de confrontation entre les prétendants. Deux des postulants, dont Raphaël Glucksmann, refusent toute forme d'entente avec ce mouvement. À l'opposé, trois autres candidats, dont le premier secrétaire du Parti socialiste Olivier Faure, défendent le principe d'une union avec cette formation.\n\n## Ce que disent les sources\n\nFrance 24 indiquait le 9 octobre 2026 que le vote devait se tenir de vendredi à dimanche avec un second tour prévu le week-end suivant. De leur côté, Libération et Le Monde mentionnaient le 9 octobre 2026 des opérations de vote prévues pour s'achever dès le samedi 10 octobre 2026, avant la confirmation dominicale rapportée par Le Figaro.\n\nLes chiffres de participation globale et les scores précis des candidats manquent encore.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/primaire-a-gauche-malgre-un-favori-un-scrutin-qui-rend-flou-20261008_H47UROEGIJF53POGYWXWA3ITMI"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-avec-plus-de-140-000-votants-pour-designer-leur-candidat-a-la-presidentielle-une-election-plus-incertaine-que-prevu_6790500_823448.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/qui-sera-le-candidat-de-la-gauche-sociale-democrate-a-la-presidentielle-2027-le-vote-pour-la-primaire-socialiste-est-ouvert_8229478.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261009-primaire-des-sociale-d%C3%A9mocrates-un-scrutin-plus-incertin-que-pr%C3%A9vu"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261010-la-primaire-une-machine-%C3%A0-perdre"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-actu/primaire-de-la-gauche-glucksmann-compte-gagner-des-le-premier-tour-mais-le-suspens-reste-entier-20261011"
+    }
+   ],
+   "premiere_parution": "2026-10-08T17:40:00Z",
+   "suite_de": "2026-10-10-france-002",
+   "mots": 281,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La primaire de la gauche prolongée après une cyberattaque informatique",
+   "chapeau": "La commission d'organisation de la primaire de la gauche sociale-démocrate a prolongé le vote en ligne en France jusqu'au dimanche 11 octobre 2026 à 18 heures. Cette décision intervient après une cyberattaque survenue vendredi 9 octobre 2026 dès le début des opérations.",
+   "corps": "La plateforme e-votez a subi un piratage informatique dès l'ouverture des votes vendredi 9 octobre 2026 à 8 heures. Une cyberattaque désigne une agression contre un système informatique. Selon les organisateurs de l'élection entre le Parti socialiste et Place publique, de fausses connexions ont saturé le site internet.\n\nLa commission d'organisation a annoncé vendredi 9 octobre 2026 un report de la fin du premier tour de 24 heures. Le scrutin, qui devait se terminer samedi, reste ainsi accessible jusqu'à dimanche à 18 heures. L'équipe organisatrice affirme que l'incident n'a pas interrompu le service et que les suffrages déjà exprimés conservent leur validité.\n\nL'attaque a toutefois ralenti le déroulement des opérations au cours du premier jour. Selon la commission d'organisation citée par Le Monde le 9 octobre 2026 à 21 h 49, seulement 20 000 électeurs avaient voté vendredi à 19 heures, sur une liste de 140 000 inscrits.\n\nLa participation a ensuite progressé durant la journée de samedi. D'après Le Monde le 10 octobre 2026 à 14 h 26, plus de 91 000 personnes avaient validé leur choix. Selon Libération le 10 octobre 2026 à 20 h 59, le cap des 100 000 participants a été dépassé samedi à 18 heures. Enfin, selon Le Monde le 11 octobre 2026 à 2 h 15, plus de 105 000 inscrits avaient voté samedi à 20 heures.\n\nLes électeurs doivent départager cinq candidats lors de cette consultation politique.\n\nL'origine de l'attaque informatique et l'identité de ses auteurs ne sont pas précisées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/primaire-de-la-gauche-la-plateforme-de-vote-victime-d-une-cyberattaque-20261009"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/la-plateforme-de-vote-pour-la-primaire-socialiste-victime-d-une-cyberattaque-depuis-son-ouverture-annonce-la-commission-d-organisation_8229811.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/primaire-a-gauche-la-plateforme-de-vote-victime-dune-cyberattaque-20261009_ZT2BXQYMPFAKXO4LSCDOABMER4"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/primaires-gauche/primaire-de-la-gauche-la-plateforme-de-vote-subit-une-cyberattaque-a-son-ouverture-20261009"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/09/primaire-a-gauche-le-vote-prolonge-jusqu-a-dimanche-18-heures-en-raison-de-la-cyberattaque-qui-a-vise-la-plateforme_6790554_823449.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261010-primaire-sociale-d%C3%A9mocrate-le-vote-prolong%C3%A9-jusqu-%C3%A0-dimanche-soir"
+    }
+   ],
+   "premiere_parution": "2026-10-09T10:29:32Z",
+   "suite_de": null,
+   "mots": 290,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Gabriel Attal présente à Lyon son projet pour la jeunesse",
+   "chapeau": "Gabriel Attal a exposé ses propositions éducatives lors d'un rassemblement politique samedi 10 octobre à Lyon. Le candidat de Renaissance intervient en pleine mobilisation lycéenne.",
+   "corps": "Ce rassemblement à Lyon donne le départ d'une tournée de réunions régionales. Gabriel Attal a présenté un ensemble de mesures nommé pacte pour la jeunesse afin de modifier le modèle scolaire. L'ancien Premier ministre affirme vouloir incarner le dirigeant capable de comprendre les nouvelles générations.\n\nLe candidat a formulé ses propositions en réponse aux critiques formulées le même jour par Jean-Luc Mélenchon. Selon Le Monde le 11 octobre 2026 à 03h16, Jean-Luc Mélenchon devance Gabriel Attal chez les électeurs de 18 à 24 ans. Selon La Croix le 10 octobre 2026 à 11h00, Édouard Philippe devance aussi Gabriel Attal dans les intentions de vote au sein du bloc central.\n\nLe détail des mesures éducatives du programme ne figure pas dans les déclarations transmises.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/presidentielle-le-match-attal-philippe-setend-au-mouvement-lyceen-20261009_TTFXUMOOINCCZANITUQK7KSFK4"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-gabriel-attal-rejoue-la-carte-jeune-pour-trouver-le-rebond-sondagier-20261009"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/election-presidentielle-2027/article/2026/10/10/presidentielle-2027-en-plein-mouvement-lyceen-gabriel-attal-mise-sur-l-affrontement-avec-jean-luc-melenchon-pour-relancer-sa-campagne_6790958_6205049.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/presidentielle-2027-avec-son-pacte-pour-la-jeunesse-gabriel-attal-espere-relancer-sa-campagne-20261009"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/gabriel-attal/je-veux-etre-le-president-qui-parlera-a-la-jeunesse-parce-qu-il-la-comprend-en-meeting-a-lyon-gabriel-attal-tente-de-relancer-sa-campagne-en-pleine-mobilisation-lyceenne_8231377.html"
+    }
+   ],
+   "premiere_parution": "2026-10-09T14:51:20Z",
+   "suite_de": "2026-10-10-france-003",
+   "mots": 148,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La police évacue un bâtiment universitaire occupé sur le campus de Nantes",
+   "chapeau": "Les forces de l'ordre ont délogé des manifestants occupant un secteur universitaire à Nantes le samedi 10 octobre au matin. Cette intervention policière a mis fin à un blocage continu entamé au milieu de la semaine précédente sur le campus du Tertre.",
+   "corps": "Des manifestants tenaient le bâtiment nommé Censive depuis le mercredi précédent. Les occupants restaient sur les lieux sans interruption, de jour comme de nuit, selon Le Figaro le 10 octobre 2026. La police a mis un terme à cette présence continue samedi matin.\n\nAprès le départ des occupants, la présidente de Nantes Université a visité le site. La responsable d'établissement a dénoncé l'ampleur des dégâts matériels constatés sur place. Elle a qualifié son sentiment d'écœurement face aux dégradations visibles dans les espaces universitaires. La dirigeante a souligné que les sommes nécessaires aux réparations ne serviront pas aux besoins des étudiants de la faculté, selon les précisions rapportées par franceinfo le 10 octobre 2026.\n\nLes sources ne précisent ni le montant financier exact des dégradations constatées ni le nombre d'individus délogés lors de l'opération policière.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/nantes/nantes-les-incroyables-images-des-degradations-sur-le-campus-occupe-20261010"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/un-batiment-de-l-universite-de-nantes-evacue-par-la-police-apres-plusieurs-jours-d-occupation-par-des-manifestants_8231527.html"
+    }
+   ],
+   "premiere_parution": "2026-10-10T08:18:24Z",
+   "suite_de": null,
+   "mots": 176,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Les opposants à l'A69 manifestent dans le Tarn avant son ouverture",
+   "chapeau": "Des militants écologistes ont défilé samedi 10 octobre 2026 dans le Tarn contre la future autoroute A69 reliant Toulouse à Castres. Ce rassemblement précède la mise en service du tronçon routier prévue au début du mois de novembre 2026.",
+   "corps": "Le cortège s'est déplacé dans le calme sur des sites emblématiques de cette contestation menée depuis trois ans. Plusieurs collectifs écologistes, parmi lesquels les Soulèvements de la Terre, Extinction Rebellion ainsi que l'association La Voie est libre, ont soutenu ce défilé.\n\nDurant la mobilisation, le militant Thomas Brail a demandé un boycott national de cette voie rapide. Les participants ont ainsi exprimé leur intention de refuser d'emprunter l'infrastructure une fois les voies ouvertes à la circulation.\n\n## Ce que disent les sources\n\nLes organisateurs ont dénombré 1 500 manifestants selon franceinfo le 10 octobre à 19 h 43. Le quotidien Libération mentionne environ un millier de participants le 10 octobre à 22 h 41. Le Monde rapporte le 11 octobre à 7 h 42 une affluence située entre 1 100 et 1 500 personnes.\n\nLe décompte officiel de la préfecture n'est pas précisé par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/le-militant-ecologiste-thomas-brail-appelle-a-un-boycott-national-de-l-autoroute-a69-qui-sera-mise-en-service-debut-novembre_8231533.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/environnement/on-sera-la-jusqua-la-derniere-goutte-de-bitume-un-millier-dopposants-a-la69-rassembles-dans-le-tarn-20261010_I2AEGGTGTZCUBI33BWHG5ON5AM"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/10/11/autoroute-a69-une-derniere-manifestation-des-opposants-avant-la-mise-en-service-debut-novembre_6791234_3244.html"
+    }
+   ],
+   "premiere_parution": "2026-10-10T10:58:50Z",
+   "suite_de": null,
+   "mots": 185,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-007",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le système scolaire français fait face à des contestations et dégradations",
+   "chapeau": "Les élèves en France manifestent depuis plusieurs semaines pour dénoncer les défaillances de leur système éducatif. En parallèle, des adolescents ciblent et vandalisent d'anciens établissements primaires.",
+   "corps": "Selon Deutsche Welle, les élèves dénoncent la gestion globale de l'enseignement scolaire. La France consacre d'importants moyens financiers à ce secteur par rapport à d'autres pays. Des voix critiques affirment toutefois que la répartition de ces fonds manque d'équité.\n\nEn marge de ces protestations, des adolescents commettent des dégradations matérielles dans leurs anciennes écoles. The Guardian rapporte des actes de vandalisme et des départs d'incendie dans des salles de classe. Par exemple, deux mineurs de treize ans ont forcé l'entrée d'une école fermée dans la banlieue de Lyon le 19 juin 2024.\n\n## Ce que disent les sources\n\nDeutsche Welle met en avant la contestation des élèves contre les défaillances du système éducatif et la mauvaise répartition des budgets. The Guardian évoque de son côté des violences de jeunes ciblant des écoles primaires et mentionne la pauvreté, l'influence des réseaux sociaux ou l'ennui comme facteurs possibles de ces actes.\n\nLes sources ne précisent pas les montants exacts des budgets contestés ni les mesures prises par les autorités.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers"
+    }
+   ],
+   "premiere_parution": "2026-10-09T19:52:00Z",
+   "suite_de": null,
+   "mots": 192,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-france-008",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Lycéen blessé à Lens par une grenade : le parquet et la défense s'opposent",
+   "chapeau": "Un adolescent de 15 ans a perdu une main après l'explosion d'une grenade policière à Lens le lundi 5 octobre 2026. Le procureur de Béthune et la défense du jeune homme s'opposent sur le déroulement précis des faits.",
+   "corps": "La mère du lycéen hospitalisé a déposé une plainte pour les lésions causées à son fils. L'Inspection générale de la police nationale conduit les investigations sur cet événement. Selon La Croix le 10 octobre 2026, l'organisme de contrôle policier comptabilise 24 enquêtes ouvertes depuis le début de la mobilisation lycéenne.\n\n## Ce que disent les sources\n\nLe procureur de la République de Béthune déclare que le jet de l'arme a respecté les règles d'intervention. Le magistrat avance que le projectile a touché terre avant que le lycéen ne le saisisse, en s'appuyant sur la quasi-totalité des dépositions recueillies.\n\nL'avocate de la victime, Christine Bouquet-Wattez, affirme que son client nie expressément avoir pris l'engin en main. Le conseil ajoute que le mineur rejette toute implication dans des actes violents et rappelle son statut de victime.\n\nLes investigations en cours n'ont pas encore arrêté les circonstances exactes de la détonation.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/lyceen-ampute-d-une-main-a-lens-le-parquet-juge-le-tir-de-grenade-conforme-20261009"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/le-tir-de-grenade-qui-a-mutile-un-lyceen-a-lens-juge-conforme-par-le-parquet_8230618.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/lyceen-ampute-d-une-main-a-lens-le-tir-de-grenade-etait-conforme-selon-le-parquet-20261010"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/10/le-lyceen-ampute-d-une-main-a-lens-dement-avoir-ramasse-la-grenade-et-nie-toute-participation-a-des-violences-affirme-son-avocate_6791026_3224.html"
+    }
+   ],
+   "premiere_parution": "2026-10-09T16:47:12Z",
+   "suite_de": null,
+   "mots": 185,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'accord énergétique russo-américain suscite de vives critiques internationales",
+   "chapeau": "Les réactions diplomatiques se multiplient le samedi 10 octobre 2026 après l'annonce par Donald Trump d'un approvisionnement en carburant russe pour les États-Unis. Les dirigeants ukrainiens et européens dénoncent une mesure favorable à l'effort militaire de Moscou, tandis que plusieurs analystes doutent de ses retombées sur les tarifs pétroliers.",
+   "corps": "Le président des États-Unis a fait savoir le vendredi 9 octobre 2026 qu'il avait conclu une entente avec Vladimir Poutine pour faire venir du gazole russe sur le sol américain et sur les places internationales. Cette initiative survient alors que les cours du carburant restent élevés aux États-Unis et que des échéances électorales législatives approchent.\n\nL'Union européenne a déclaré le 10 octobre 2026 que cette entente procure au gouvernement russe les moyens de poursuivre ses opérations armées. Le président ukrainien Volodymyr Zelensky a formulé une critique similaire le même jour. Il qualifie l'arrangement de soutien financier aux actions militaires russes et affirme qu'il prolonge le conflit au lieu de le clore. Donald Trump a répliqué le 10 octobre 2026 en jugeant que l'Ukraine devrait changer de dirigeant, selon les informations diffusées par franceinfo le 10 octobre 2026 à 22 h 53.\n\nCe rapprochement implique un assouplissement de certaines mesures punitives imposées contre la Russie, d'après NPR et franceinfo. L'annonce prend place alors qu'une législation américaine prévoyait des droits de douane élevés contre les acheteurs principaux d'hydrocarbures russes, note The Hindu.\n\nSur le terrain économique, les spécialistes interrogés doutent de la capacité de ce plan à faire baisser le coût du gazole. Chris Kennedy, analyste chez Bloomberg Economics, a expliqué le 10 octobre 2026 à 20 h 03 que le volume prévu pour le mois de novembre représente environ une seule journée de la consommation intérieure américaine. Cet expert souligne également les dégâts subis par les raffineries russes, les difficultés de transport maritime et de possibles obstacles légaux pour acheminer le combustible. The Straits Times indique que cette initiative ne suffira sans doute pas à compenser les manques créés par le conflit impliquant les États-Unis en Iran. Selon Francis Perrin, chercheur à l'Institut de relations internationales et stratégiques interrogé par Libération le 11 octobre 2026 à 8 h 00, ce pacte relève avant tout d'un calcul électoral destiné aux électeurs américains.\n\n## Ce que disent les sources\n\nLe Figaro rapporte le 10 octobre 2026 à 17 h 19 que la Russie va acheminer sans délai 300 000 tonnes de gazole. Pour sa part, le quotidien ABC indique le 10 octobre 2026 à 16 h 22 que l'accord prévoit des millions de tonnes de combustible, mentionnant un volume de cinq millions de tonnes dans les termes discutés.\n\nLes détails complets relatifs aux voies de transport employées et aux modalités juridiques de la levée des sanctions ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/10/trump-en-poetin-sluiten-een-dieselbond-vooral-voor-rusland-kunnen-de-voordelen-groot-zijn-a4938686"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/donald-trump-assure-que-la-russie-va-fournir-immediatement-300-000-tonnes-de-gazole-aux-marches-americain-et-mondial-20261009"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-russia-to-immediately-supply-diesel-to-us-after-talks-with-putin/article71565812.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-09T00:00:00Z",
+   "suite_de": "2026-10-10-geopolitique-001",
+   "mots": 458,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump demande le remplacement du président ukrainien Volodymyr Zelensky",
+   "chapeau": "Donald Trump a réclamé samedi 10 octobre 2026 le départ de Volodymyr Zelensky et l'élection d'un nouveau dirigeant en Ukraine. Le chef d'État américain accuse son homologue de bloquer un accord de paix avec Moscou et de perturber le marché du carburant.",
+   "corps": "Donald Trump a vivement critiqué Volodymyr Zelensky samedi 10 octobre 2026. Le président des États-Unis a déclaré que le moment était venu pour l'Ukraine d'avoir un nouveau président. Selon lui, ce changement à la tête de l'État permettrait de conclure un accord pour achever le conflit avec la Russie. Donald Trump reproche au président ukrainien de ne pas consentir aux efforts nécessaires pour parvenir à la paix.\n\nCette prise de position publique fait suite à la conclusion d'un accord bilatéral vendredi 9 octobre 2026 entre Washington et Moscou. Donald Trump a signé une entente avec Vladimir Poutine pour acheter de grandes quantités de diesel russe. Ces volumes doivent approvisionner les États-Unis et calmer la montée des cours énergétiques mondiaux. Donald Trump tente d'abaisser les tarifs intérieurs du carburant. Le président américain accuse les frappes menées par l'armée ukrainienne contre les raffineries russes d'alimenter la pénurie mondiale de diesel.\n\nDonald Trump a ainsi intimé l'ordre à Kiev de stopper ses attaques contre les sites de raffinage de pétrole en Russie. Il a expliqué que ces complexes industriels doivent approvisionner le marché américain. Le négociateur de la Fédération de Russie a salué les déclarations du président des États-Unis.\n\nVolodymyr Zelensky a rejeté l'accord conclu entre Donald Trump et Vladimir Poutine. Le dirigeant ukrainien affirme que les revenus issus de la vente de carburant financent l'effort militaire de Moscou. Selon lui, ces rentrées d'argent aident la Russie à poursuivre son agression. Volodymyr Zelensky a estimé que les récentes frappes russes contre l'Ukraine constituent des remerciements de Moscou pour le pacte commercial signé par Donald Trump.\n\nLes opérations militaires russes se sont poursuivies en parallèle des échanges diplomatiques. Selon le quotidien The Straits Times le 10 octobre 2026 à 23 h 30, des frappes russes ont fait au moins 21 morts en Ukraine, dont quatre enfants.\n\nLe gouvernement ukrainien a répondu aux exigences politiques formulées par la Maison-Blanche. Le ministre des Affaires étrangères ukrainien, Andrii Sybiha, a déclaré que la désignation du président relève de la décision souveraine des citoyens d'Ukraine. Le ministre a réaffirmé que seul le peuple ukrainien peut choisir qui le gouverne.\n\nLes partenaires européens de Kiev ont réagi à la demande de Donald Trump. Le Premier ministre britannique, Andy Burnham, a fait part de son soutien total à Volodymyr Zelensky. Le chef du gouvernement du Royaume-Uni a souligné que l'Ukraine venait de traverser une journée rude. Plusieurs autres dirigeants européens ont réitéré leur engagement envers les autorités ukrainiennes face à la position américaine.\n\nLa presse internationale analyse les motivations économiques et politiques de Washington. Le journal espagnol ABC indique que Donald Trump recherche un soulagement électoral par une diminution des tarifs du carburant à la pompe. Le journal indien The Hindu relève que Donald Trump attribue le niveau record des cours du diesel aux actions ukrainiennes plutôt qu'au conflit mené en Iran sous la direction des États-Unis, qui tire les prix énergétiques vers le haut.\n\nLes sources ne précisent pas la nature ni les modalités pratiques du processus que Donald Trump suggère pour désigner un nouveau président ukrainien.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261010-donald-trump-s-en-prend-%C3%A0-volodymyr-zelensky-et-veut-un-nouveau-pr%C3%A9sident-pour-l-ukraine"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraine-needs-a-new-president-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-face-a-donald-trump-qui-reclame-un-nouveau-president-a-kiev-le-royaume-uni-assure-volodymyr-zelensky-de-sa-totale-solidarite_6787996_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-pour-parvenir-a-un-accord-avec-la-russie_8231842.html"
+    }
+   ],
+   "premiere_parution": "2026-10-10T00:00:00Z",
+   "suite_de": null,
+   "mots": 550,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Séoul rappelle son ambassadeur en Ukraine après un différend diplomatique",
+   "chapeau": "Le gouvernement sud-coréen a rappelé son ambassadeur en poste en Ukraine le jeudi 8 octobre 2026. Cette décision fait suite à un désaccord public entre les deux capitales au sujet de combattants nord-coréens.",
+   "corps": "Le représentant diplomatique de la Corée du Sud est rentré à Séoul le samedi 10 octobre 2026. Ce départ concrétise la décision prise deux jours plus tôt par le ministère sud-coréen des Affaires étrangères.\n\nLa tension est née après une prise de parole du président ukrainien Volodymyr Zelensky devant l'Organisation des Nations unies en septembre 2026. Le chef d'État a mentionné l'envoi vers la Corée du Sud de militaires de Corée du Nord capturés sur le champ de bataille. Selon les informations publiées le 8 octobre 2026 par Wikipédia, Politico Europe et BBC News, cette opération concernait deux prisonniers de guerre. Un prisonnier de guerre désigne un combattant capturé par l'ennemi.\n\nSéoul reproche à Kiev d'avoir rendu cette information publique à la tribune de l'Organisation des Nations unies. Les autorités sud-coréennes estiment que cette révélation viole un engagement de non-divulgation. Un engagement de non-divulgation impose de garder le secret. Avant d'ordonner le retour de son diplomate, le président sud-coréen Lee Jae Myung avait exigé des excuses officielles de la part de l'Ukraine. Il avait également menacé de prendre des mesures punitives sans en préciser la nature, selon une dépêche diffusée le 8 octobre 2026 par NPR. Les excuses demandées ne sont pas parvenues à Séoul, d'après Deutsche Welle le 8 octobre 2026.\n\nDu côté de l'Ukraine, les autorités affirment vouloir maintenir un dialogue constructif au sujet de cette affaire. Le gouvernement ukrainien conteste cependant l'existence d'un quelconque accord de confidentialité avec Séoul sur ce dossier.\n\n## Ce que disent les sources\n\nLes médias divergent sur le motif déclencheur de ce rappel diplomatique. Der Spiegel, Al Jazeera, Deutsche Welle, Wikipédia, Politico Europe, BBC News, The Straits Times, RFI et le Financial Times relient directement cette mesure à la controverse sur le transfert des captifs nord-coréens et à la prise de parole ukrainienne. En revanche, Le Monde rapporte le 9 octobre 2026 que le départ de l'ambassadeur sud-coréen est survenu après la diffusion d'informations selon lesquelles la Corée du Sud a expédié du carburant vers la Russie. Par ailleurs, Wikipédia affirme le 8 octobre 2026 que l'Ukraine nie l'existence d'un accord secret, alors que d'autres publications présentent la rupture de cette entente comme l'argument exclusif formulé par la Corée du Sud.\n\nLes sources ne précisent pas les mesures de rétorsion concrètes que le gouvernement sud-coréen envisage d'appliquer.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/politik/ukraine-krieg-suedkorea-ruft-botschafter-nach-streit-um-nordkoreanische-soldaten-zurueck-a-f7869da5-475a-49af-8912-7f1695039e2f"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_8?evenement=294726c77f"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/south-korea-recalls-ambassador-from-ukraine-amid-prisoner-of-war-scandal"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckwy48rrz95vo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/south-korea-recalls-ambassador-from-ukraine-amid-n-korea-prisoners-wrangle"
+    }
+   ],
+   "premiere_parution": "2026-10-08T10:06:00Z",
+   "suite_de": null,
+   "mots": 417,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Frappes contre l'aéroport de Riyad et riposte saoudienne au Yémen",
+   "chapeau": "Les forces houthies ont frappé l'aéroport de Riyad en Arabie saoudite dans la nuit du 10 au 11 octobre 2026. L'attaque fait suite à plusieurs jours d'échanges de tirs entre la coalition saoudienne et le mouvement yéménite.",
+   "corps": "Un missile a touché un complexe de l'aéroport international King Khalid de Riyad abritant les terminaux 3 et 4. Selon les autorités de l'aviation civile saoudienne citées par The Guardian le 11 octobre 2026 à 03:37, le bilan s'élève à 12 morts et plus de 300 blessés. Des victimes se trouvent dans un état critique. D'après The Hindu le 11 octobre 2026 à 03:16, l'engin a directement atteint un terminal réservé aux passagers.\n\nLa coalition dirigée par l'Arabie saoudite attribue ce tir aux rebelles houthis du Yémen. Cette offensive s'inscrit dans une série d'opérations militaires croisées. Selon NPR le 11 octobre 2026 à 01:32, les Houthis ont multiplié les frappes de missiles contre d'autres aéroports saoudiens, des installations militaires et des infrastructures pétrolières depuis une semaine. Cette hausse des attaques fait suite au lancement d'une vaste offensive militaire par la coalition saoudienne contre les positions houthies.\n\nLe 10 octobre 2026, l'Arabie saoudite et les Houthis ont procédé à des frappes mutuelles visant les aéroports de leurs capitales respectives. Dès le 9 octobre 2026, le gouvernement des États-Unis a appelé les ressortissants américains présents au Moyen-Orient à une vigilance accrue. Washington a motivé cet avertissement par la volonté affichée des Houthis de bloquer l'espace aérien saoudien au moyen de tirs de missiles répétés.\n\nFace à cette situation, le président des États-Unis Donald Trump a réagi publiquement. Devant des journalistes, le dirigeant américain a déclaré qu'il évaluait la possibilité d'associer les forces armées américaines aux frappes menées par l'Arabie saoudite contre les rebelles yéménites. Le président américain a indiqué que Washington pourrait intervenir militairement aux côtés de la coalition.\n\n## Ce que disent les sources\n\nLes sources rapportent des bilans différents concernant les tirs récents sur la capitale saoudienne. Haaretz indiquait le 9 octobre 2026 à 15:52 et le 10 octobre 2026 à 18:47 qu'une frappe antérieure des Houthis contre l'aéroport de Riyad avait causé la mort de trois personnes. Pour l'attaque signalée dans la nuit du 10 au 11 octobre 2026, The Hindu et The Guardian dénombrent 12 morts et plus de 300 blessés.\n\nLes sources ne précisent pas l'état actuel des infrastructures touchées à l'aéroport de Sanaa.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-09/ty-article/u-s-issues-regional-security-alert-after-houthi-strikes-on-riyadh-kill-three/000001a1-200f-d90c-a7bd-a90fb7190000"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us"
+    }
+   ],
+   "premiere_parution": "2026-10-09T11:52:30Z",
+   "suite_de": null,
+   "mots": 398,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Les États-Unis imposent des sanctions à la Cour pénale internationale",
+   "chapeau": "Le gouvernement des États-Unis a instauré des sanctions contre la Cour pénale internationale à Washington le vendredi 9 octobre 2026. Cette initiative gouvernementale intervient le jour de l'attribution du prix Nobel de la paix à une ancienne magistrate de cette juridiction.",
+   "corps": "Le secrétaire d'État des États-Unis, Marco Rubio, a exprimé l'intention de démanteler l'institution judiciaire. Le responsable américain a conditionné l'arrêt de ces démarches à la fin de ce que Washington qualifie de menace pour ses ressortissants. La Cour pénale internationale, tribunal mondial permanent pour juger les crimes graves, juge notamment les crimes de guerre, les crimes contre l'humanité et les actes de génocide.\n\nL'administration dirigée par Donald Trump a adopté ces mesures restrictives quelques heures après l'annonce du comité Nobel. Le comité a récompensé Navi Pillay, ancienne juge de la juridiction basée à La Haye, pour son action en faveur des poursuites relatives aux crimes internationaux. La lauréate a qualifié les sanctions américaines d'inacceptables et a souligné leur caractère inédit selon ses déclarations rapportées par BBC News le 10 octobre 2026.\n\nLa juridiction internationale a réagi par un communiqué officiel. L'institution a affirmé que ces sanctions représentent une attaque contre l'état de droit et contre le principe d'égalité devant la loi. La cour a également lancé un appel direct à la communauté internationale. Elle a rappelé que son avenir dépend désormais des États signataires de son traité fondateur pour faire face aux décisions de Washington.\n\nLe secrétaire général de l'Organisation des Nations unies, António Guterres, a réprouvé les mesures prises par la Maison Blanche. Plusieurs gouvernements alliés des États-Unis, dont des pays européens, le Canada et le Japon, ont également exprimé leur soutien à la juridiction internationale. Ces partenaires ont appelé à préserver l'institution judiciaire face aux pressions exercées par Washington.\n\nLes sources ne précisent pas la nature exacte ni les modalités d'application des sanctions financières ou administratives adoptées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168562"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-09/us-adds-sanctions-to-international-criminal-court"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-10-09/ty-article/u-s-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/000001a1-2112-da49-a5e9-29ba95fb0000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/icc-rejects-us-sanctions-says-history-will-judge-this-moment/article71565060.ece"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/editor-s-picks/interview/nobel-laureate-pillay-calls-us-sanctions-on-icc-judges-shocking"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions"
+    }
+   ],
+   "premiere_parution": "2026-10-09T12:00:00Z",
+   "suite_de": null,
+   "mots": 310,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-geopolitique-006",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des frappes russes meurtrières touchent l'Ukraine après l'accord énergétique américain",
+   "chapeau": "Les forces russes ont mené plusieurs attaques contre des zones ukrainiennes les 9 et 10 octobre 2026, notamment à Zaporijia. Ces bombardements surviennent au lendemain de l'entente pétrolière conclue entre Donald Trump et Vladimir Poutine.",
+   "corps": "Cet épisode fait suite à l'accord annoncé le 9 octobre 2026 par Donald Trump pour acheminer du carburant russe vers les États-Unis.\n\nLes frappes russes ont visé la région de Zaporijia ainsi que l'ouest du pays. Le responsable de l'administration militaire régionale de Zaporijia, Mykhailo Semikin, a rapporté des tirs contre des zones d'habitation dès le matin du 9 octobre 2026. La responsable régionale Svitlana Onyshchuk a également signalé un mort à Ivano-Frankivsk le même jour. De nouvelles frappes aériennes, incluant des bombes guidées (bombes larguées avec des ailettes), ont ensuite touché plusieurs endroits de Zaporijia dans la nuit et la matinée du samedi 10 octobre 2026.\n\nEn réponse, l'armée ukrainienne a bombardé un site pétrolier russe quelques heures après l'annonce de l'accord sur le diesel entre Washington et Moscou. Le président américain Donald Trump a critiqué les frappes menées par l'Ukraine contre les raffineries russes.\n\nLe président ukrainien Volodymyr Zelensky a qualifié l'accord conclu entre les États-Unis et la Russie de décision faible qui aide Moscou à prolonger le conflit. Il a affirmé que ces attaques meurtrières constituaient les remerciements de la Russie pour l'allègement des sanctions américaines sur le carburant.\n\n## Ce que disent les sources\n\nLe bilan des victimes varie selon les déclarations et les publications successives.\n\nLe 9 octobre 2026 à 10h00, indiatimes.com et kurv.com rapportaient trois morts au total en Ukraine, dont une victime et cinq blessés à Zaporijia selon Mykhailo Semikin. The Hindu rapportait le même chiffre le 9 octobre à 21h54.\n\nPour la journée du 10 octobre 2026, stcatharinesstandard.ca mentionnait à 04h00 au moins 11 morts à Zaporijia d'après les autorités ukrainiennes. À 11h09, The Hindu rapportait les propos du gouverneur Mykhailo Semikin faisant état de sept morts et dix blessés. À 15h44, The Straits Times annonçait 17 morts en Ukraine.\n\nÀ 15h56, Politico Europe rapportait un bilan de 17 morts à Zaporijia incluant au moins trois enfants. À 16h11, Folha de S.Paulo citait le président Volodymyr Zelensky évoquant au moins 12 morts à Zaporijia, dont trois enfants. À 19h18, krcgtv.com faisait état d'au moins 17 morts dans cette même région selon des officiels ukrainiens. Enfin, le 10 octobre à 20h15 selon The Hindu et le 11 octobre à 00h51 selon BBC News, le bilan atteignait au moins 20 morts, parmi lesquels trois enfants selon les autorités ukrainiennes.\n\nLes sources ne précisent pas l'emplacement exact du site pétrolier russe touché par l'Ukraine.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "indiatimes.com",
+     "url": "https://economictimes.indiatimes.com/news/defence/ukraine-battles-deadly-russian-strikes-seeks-more-nato-support/articleshow/134840377.cms"
+    },
+    {
+     "nom": "kurv.com",
+     "url": "https://kurv.com/russian-strikes-across-ukraine-kill-3-people-as-kyiv-struggles-to-counter-escalating-attacks"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/russian-strikes-across-ukraine-kill-3-people-as-kyiv-struggles-to-counter-escalating-attacks/article71565673.ece"
+    },
+    {
+     "nom": "stcatharinesstandard.ca",
+     "url": "https://stcatharinesstandard.ca/news/world/europe/russian-attacks-kill-7-in-ukraine-after-trump-strikes-diesel-deal-with-putin/article_21b61dfe-8070-5db8-87a0-4607955f7c50.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russian-attack-on-ukrainian-city-kills-12-a-day-after-trump-eases-diesel-sanctions-on-moscow"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russia-strike-eastern-ukraine-kills-11-regional-authorities-state"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/ataques-da-russia-matam-12-diz-ucrania-horas-apos-acordo-entre-trump-e-putin.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-09T06:00:00Z",
+   "suite_de": "2026-10-10-geopolitique-001",
+   "mots": 438,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-economie-001",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Un centre de données du groupe Yandex touché par un drone",
+   "chapeau": "Une frappe de drone ukrainien a visé une infrastructure informatique de l'entreprise Yandex en Russie au début du mois d'octobre 2026. Cette attaque a provoqué des dégâts sur les services informatiques distants du groupe technologique russe.",
+   "corps": "L'entreprise Yandex exploite le principal moteur de recherche en langue russe ainsi que des services de transport et de livraison.\n\nLa société a indiqué le 8 octobre 2026 à 14h14 qu'un incendie a touché son infrastructure. Le groupe a affirmé le 9 octobre 2026 à 04h08 que la remise en service de cette zone de traitement de données pourrait être impossible.\n\n## Ce que disent les sources\n\nL'entreprise Yandex a déclaré le 8 octobre 2026 à 14h14 que l'attaque s'est produite à Sassovo sans faire de victimes. Le gouverneur Vladislav Chapcha a soutenu le 9 octobre 2026 à 17h15 que des frappes nocturnes ont touché des infrastructures à Kalouga et fait neuf blessés.\n\nDes éléments manquent sur l'étendue exacte des perturbations.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/russie-un-centre-de-donnees-du-geant-de-la-tech-yandex-surnomme-le-google-russe-touche-par-une-frappe-de-drone-ukrainienne-20261008"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/en-russie-une-nouvelle-attaque-de-drone-ukrainienne-contre-un-centre-du-geant-de-la-tech-yandex_8229913.html"
+    }
+   ],
+   "premiere_parution": "2026-10-08T10:14:38Z",
+   "suite_de": null,
+   "mots": 156,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "L entreprise Anthropic interdit les comportements cruels envers son assistant",
+   "chapeau": "L entreprise Anthropic a interdit les comportements abusifs continus envers son assistant conversationnel Claude le jeudi 8 octobre 2026 selon la Folha de S.Paulo. Cette nouvelle règle vise à empêcher les mauvais traitements numériques infligés au système informatique.",
+   "corps": "L entreprise technologique Anthropic a actualisé ses règles d utilisation pour interdire les agissements cruels et inutiles envers son robot conversationnel Claude, d après The Guardian le 9 octobre 2026. Cette modification interdit explicitement aux utilisateurs d adopter une conduite agressive de manière prolongée.\n\nLe journal ABC indique le 10 octobre 2026 que les personnes qui violent cette interdiction risquent une suspension de leur compte. L entreprise a introduit cette clause alors que ses dirigeants réfléchissent à la conscience des machines, rapporte The Guardian le 9 octobre 2026.\n\nLa mise à jour intègre également des interdictions concernant la création d armes, la surveillance et l interférence électorale, selon The Register le 9 octobre 2026. L année précédente, l organisation avait déjà permis à l intelligence artificielle d interrompre les échanges en cas d interactions nuisibles répétées, d après The Hindu le 10 octobre 2026.\n\nCertains détails manquent sur la définition précise des critères caractérisant un comportement abusif.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/tecnologia/2026-10-09/se-puede-ser-cruel-con-una-ia-anthropic-prohibe-insultar-de-manera-sostenida-a-su-chatbot-claude.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/10/anthropic-proibe-comportamento-cruel-de-usarios-contra-sua-ia-claude.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6j9k1l72wkgo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/tecnologia/anthropic-pide-trates-bien-claude-nueva-politica-20261009175025-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/anthropic-bans-cruel-behaviour-against-its-claude-ai/article71562464.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-09T01:25:42Z",
+   "suite_de": null,
+   "mots": 196,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-tech-002",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "La revue The Lancet répertorie 17 menaces majeures pour l'humanité",
+   "chapeau": "Une commission scientifique internationale a publié une étude sur les risques majeurs pour la santé humaine d'ici l'année 2100. Ce travail de prospection est paru dans la revue The Lancet le 11 octobre 2026.",
+   "corps": "Des chercheurs ont identifié dix-sept facteurs susceptibles d'entraîner une dégradation de la santé mondiale au cours des soixante-quinze prochaines années. Le rapport place l'utilisation malveillante de l'intelligence artificielle et les affrontements nucléaires parmi les risques susceptibles de provoquer l'extinction de l'espèce humaine d'ici la fin du siècle.\n\nLes spécialistes mentionnent également le réchauffement climatique, la malnutrition infantile ainsi que la baisse des budgets d'aide au développement versés par les pays riches. L'étude prend aussi en compte des problèmes sanitaires comme l'obésité.\n\nCette liste de menaces vise à inciter les dirigeants politiques à mettre en place des mesures de prévention adaptées. Les auteurs de l'évaluation affirment qu'il existe un parcours réalisable pour faire face à chacun de ces enjeux identifiés.\n\nLes informations relatives aux projections d'impacts précis au-delà du XXIe siècle manquent dans les résumés des sources disponibles.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/10/11/des-scientifiques-etablissent-la-liste-des-17-principales-menaces-pesant-sur-la-sante-humaine-d-ici-a-2100_6791095_3244.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/salud-y-bienestar/2026-10-11/un-conflicto-nuclear-y-el-uso-malicioso-de-la-inteligencia-artificial-se-cuelan-entre-las-amenazas-para-la-salud-mundial-seria-un-apocalipsis.html"
+    }
+   ],
+   "premiere_parution": "2026-10-10T23:00:03Z",
+   "suite_de": null,
+   "mots": 171,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-11-tech-003",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "L'administration américaine interdit à Microsoft de parrainer des travailleurs étrangers",
+   "chapeau": "L'administration de Donald Trump a suspendu l'accès de Microsoft à un programme d'obtention de cartes de résidence permanente pour ses salariés étrangers aux États-Unis. La décision annoncée le 9 octobre 2026 touche l'entreprise technologique américaine ainsi que plusieurs groupes informatiques indiens.",
+   "corps": "Le gouvernement américain accuse l'entreprise de violer les règles d'immigration et de remplacer les travailleurs locaux par des employés de nationalité étrangère. Le vice-président américain a reproché à l'entreprise de pénaliser la main-d'œuvre nationale. L'exécutif a bloqué les procédures permettant la conversion des visas temporaires H-1B en permis d'établissement permanent, un mécanisme qui sert à employer des spécialistes hautement qualifiés.\n\nMicrosoft conteste ces accusations de fraude aux règles migratoires. La firme a affirmé que 80 % de ses 6 000 demandes de visas H-1B au cours du dernier exercice fiscal concernaient des salariés déjà en poste et non de nouveaux recrutements. Selon ces chiffres cités par ianslive.in, orissapost.com et Corriere della Sera le 9 octobre 2026, ces démarches visaient en majorité à maintenir des employés actuels.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck5yngl2y4gpo"
+    },
+    {
+     "nom": "ianslive.in",
+     "url": "https://ianslive.in/microsoft-defends-h-1b-hiring-amid-us-action--20261009064202"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/microsoft-prive-de-permis-de-residence-permanente-pour-ses-salaries-aux-etats-unis-par-l-administration-trump-20261009"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "orissapost.com",
+     "url": "https://orissapost.com/microsoft-defends-h-1b-hiring-amid-us-action"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_ottobre_09/vance-accusa-microsoft-di-sostituire-i-lavoratori-americani-con-stranieri-bloccate-le-green-card-ma-trump-premia-nadella-b8a28904-7b4f-48da-aae3-fc8c609f9xlk.shtml"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown"
+    }
+   ],
+   "premiere_parution": "2026-10-08T21:37:35Z",
+   "suite_de": null,
+   "mots": 168,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-11-monde-001",
+  "2026-10-11-geopolitique-001",
+  "2026-10-11-geopolitique-002",
+  "2026-10-11-monde-002",
+  "2026-10-11-monde-003",
+  "2026-10-11-monde-004",
+  "2026-10-11-monde-005",
+  "2026-10-11-geopolitique-003"
+ ]
+}

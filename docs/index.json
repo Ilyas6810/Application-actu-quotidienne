@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-10T06:37:03Z",
- "derniere": "2026-10-10",
+ "maj": "2026-10-11T06:36:19Z",
+ "derniere": "2026-10-11",
  "editions": [
+  {
+   "date": "2026-10-11",
+   "genere_a": "2026-10-11T06:36:19Z",
+   "articles": 30,
+   "une": [
+    "Frappe contre l'aéroport de Riyad : douze morts et plus de trois cents blessés",
+    "L'accord énergétique russo-américain suscite de vives critiques internationales",
+    "Donald Trump demande le remplacement du président ukrainien Volodymyr Zelensky"
+   ],
+   "octets": 109037
+  },
   {
    "date": "2026-10-10",
    "genere_a": "2026-10-10T06:37:03Z",

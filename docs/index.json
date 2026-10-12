@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-11T06:36:19Z",
- "derniere": "2026-10-11",
+ "maj": "2026-10-12T06:43:35Z",
+ "derniere": "2026-10-12",
  "editions": [
+  {
+   "date": "2026-10-12",
+   "genere_a": "2026-10-12T06:43:35Z",
+   "articles": 3,
+   "une": [
+    "L accord sur le diesel russe conclu par Donald Trump suscite la contestation",
+    "Donald Trump proclame un arrêt des frappes énergétiques russo-ukrainiennes",
+    "Le Premier ministre britannique accuse la Russie d'ingérence lors du Brexit"
+   ],
+   "octets": 13728
+  },
   {
    "date": "2026-10-11",
    "genere_a": "2026-10-11T06:36:19Z",

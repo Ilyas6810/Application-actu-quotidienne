@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-12",
+ "genere_a": "2026-10-12T06:43:35Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-12-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Premier ministre britannique accuse la Russie d'ingérence lors du Brexit",
+   "chapeau": "Le Premier ministre britannique Andy Burnham a affirmé que la Russie s'est ingérée dans le référendum sur le Brexit de 2016. Il s'agit de la première fois que le gouvernement de Downing Street reconnaît publiquement une action de Moscou lors de ce scrutin.",
+   "corps": "Le chef du gouvernement du Royaume-Uni, Andy Burnham, a déclaré qu'il était clair que la Russie s'était ingérée dans le vote sur le Brexit déroulé en 2016. Dès son arrivée au 10 Downing Street, le Premier ministre a demandé à ses services si Moscou avait tenté d'influencer le résultat du référendum. Il a indiqué avoir obtenu une confirmation explicite de cette intervention, sans toutefois révéler l'identité de la personne ou du service lui ayant fourni cette réponse.\n\nCette position marque une rupture avec celle de son prédécesseur Boris Johnson, qui avait rejeté l'idée d'une ingérence russe dans la consultation populaire de 2016. Andy Burnham devient ainsi le premier chef de gouvernement britannique à pointer officiellement la responsabilité du Kremlin dans ce processus électoral.\n\nLe Premier ministre estime que les citoyens n'ont pas été suffisamment informés de l'ampleur des tentatives étrangères visant à perturber le fonctionnement démocratique. Il a lancé un avertissement aux électeurs européens, en mentionnant spécifiquement la France et l'Allemagne, afin qu'ils soient pleinement conscients des manœuvres menées depuis l'étranger pour déstabiliser les scrutins.\n\nL'identité de la source ayant confirmé l'ingérence à Andy Burnham n'est pas précisée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "irvinetimes.com",
+     "url": "https://irvinetimes.com/news/national/26626150.burnham-says-clear-russia-interfered-brexit-referendum"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/grossbritannien-andy-burnham-bestaetigt-russische-einmischung-beim-brexit-votum-a-d76e541e-338e-4b56-bfda-0045ea8d12c6"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-11/burnham-acusa-directamente-a-rusia-de-interferir-en-la-campana-del-referendum-del-brexit.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote"
+    }
+   ],
+   "premiere_parution": "2026-10-11T03:00:00Z",
+   "suite_de": null,
+   "mots": 231,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-12-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L accord sur le diesel russe conclu par Donald Trump suscite la contestation",
+   "chapeau": "Le président américain Donald Trump a conclu un accord énergétique avec le président russe Vladimir Poutine pour importer du diesel aux États-Unis. Cette annonce survenue le vendredi 9 octobre 2026 provoque de vives oppositions politiques et juridiques à Washington et sur la scène internationale.",
+   "corps": "Le président des États-Unis a annoncé avoir négocié une entente avec son homologue russe après un échange qualifié de très fructueux. Selon France 24 le 11 octobre 2026, la Russie a accepté d expédier immédiatement plus de 300 000 tonnes de diesel vers les marchés américain et mondial. La mesure implique la levée temporaire de sanctions imposées à Moscou par Washington, d après The Guardian le 11 octobre 2026 et franceinfo le 12 octobre 2026.\n\nCette décision intervient trois semaines avant les élections américaines de mi-mandat, indique Der Spiegel le 12 octobre 2026. Selon The Straits Times le 11 octobre 2026, le gouvernement américain cherche à faire face aux pénuries de carburant provoquées par la guerre menée par Donald Trump en Iran. D après The Hindu le 10 octobre 2026, cette entente survient alors qu un texte de loi américain prévoyait d imposer des droits de douane élevés aux grands acheteurs de pétrole et de gaz russes.\n\nLa légalité de cette initiative est remise en cause au Congrès américain. D après Libération et franceinfo le 12 octobre 2026, des sénateurs républicains et démocrates rappellent qu une loi adoptée par les élus américains après l invasion de l Ukraine en 2022 interdit toute importation d énergie en provenance de Russie.\n\nPlusieurs experts en énergie et en politique étrangère doutent de l efficacité économique du dispositif. D après The Guardian le 11 octobre 2026, l acheminement par bateau nécessitera plusieurs semaines et le volume promis demeure trop faible pour réduire les prix à la pompe. Le quotidien britannique précise aussi que l état des raffineries russes endommagées rend peu probable le respect complet des volumes annoncés. Les analyses de NRC le 10 octobre 2026, de Der Spiegel le 12 octobre 2026 et de The Straits Times le 11 octobre 2026 soulignent également l impact très limité de cet accord sur les cours du carburant.\n\nSur le plan diplomatique, le président ukrainien Volodymyr Zelensky a vivement rejeté l accord, selon la BBC le 10 octobre 2026, en le qualifiant d investissement dans la guerre. D après Bloomberg le 11 octobre 2026, l ancien ambassadeur américain en Ukraine William Taylor estime que cet arrangement fournit des revenus supplémentaires à Moscou pour poursuivre les combats tout en fragilisant les sanctions économiques. Selon Bloomberg le 11 octobre 2026, les alliés européens accroissent leur soutien à Kyiv, qui réclame un accès étendu aux technologies militaires.\n\nParallèlement aux discussions sur le carburant, Donald Trump a affirmé avoir conclu un cessez-le-feu partiel, mentionne The Guardian le 11 octobre 2026. Le président ukrainien a répondu ne pas être informé d un tel accord. Le samedi 10 octobre 2026, des bombardements russes dans le sud-est de l Ukraine ont causé la mort d au moins quinze personnes, dont trois enfants, rapporte La Croix le 10 octobre 2026.\n\nCertaines précisions sur l application concrète du cessez-le-feu et sur le calendrier des livraisons ne sont pas connues.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/10/trump-en-poetin-sluiten-een-dieselbond-vooral-voor-rusland-kunnen-de-voordelen-groot-zijn-a4938686"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-russia-to-immediately-supply-diesel-to-us-after-talks-with-putin/article71565812.ece"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/guerre-en-ukraine-accord-entre-trump-et-poutine-sur-le-diesel-nouvelles-frappes-mortelles-a-zaporijjia-20261010"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-announces-deal-with-putin-for-russian-diesel-but-what-is-its-most-consequential-element"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/approuvez-vous-la-decision-de-trump-de-sceller-un-accord-avec-poutine-pour-faire-baisser-les-prix-du-diesel-20261011"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261011-accord-moscou-washington-sur-le-p%C3%A9role-quel-impact-en-france"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-11/trump-s-russia-diesel-deal-deepens-ukraine-rift-video"
+    }
+   ],
+   "premiere_parution": "2026-10-09T18:54:03Z",
+   "suite_de": "2026-10-11-geopolitique-001",
+   "mots": 528,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-12-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump proclame un arrêt des frappes énergétiques russo-ukrainiennes",
+   "chapeau": "Le dirigeant des États-Unis a proclamé dimanche une trêve immédiate visant les infrastructures d'énergie en Ukraine et en Russie. Les autorités ukrainiennes ont accueilli cette déclaration avec surprise et ont signalé de nouveaux bombardements russes sur leur territoire.",
+   "corps": "Le président des États-Unis a diffusé sur son réseau numérique une directive affirmant une suspension des tirs mutuels contre les installations pétrolières et électriques. Il a demandé à chaque camp de respecter cette entente sans la rompre.\n\nVolodymyr Zelensky a réagi publiquement en déclarant qu'il découvrait l'existence de ce projet par ce message. Le dirigeant de l'Ukraine a précisé qu'il soutiendrait cette démarche si la direction russe choisissait d'appliquer les mêmes limites. Il a qualifié l'idée de nouvelle favorable pour chaque camp mais a affirmé que l'armée de Moscou continuait de bombarder des unités électriques.\n\nLes autorités de Kyiv rapportent des tirs russes sur des centrales de la capitale et de Kharkiv juste après la publication américaine. La police ukrainienne a déclaré, le 12 octobre 2026 à 08h30 selon Le Monde, qu'une frappe menée près de Kharkiv a causé la mort de trois personnes, dont un mineur de 16 ans, ainsi que vingt-cinq blessés.\n\nLe contexte diplomatique entre Washington et Kyiv montre de vives tensions récentes. Donald Trump a récemment allégé certaines sanctions frappant la Russie pour tenter de juguler la hausse du prix des carburants sur le marché intérieur américain. Volodymyr Zelensky a critiqué cet assouplissement commercial. En réponse, Donald Trump a réclamé la tenue d'un scrutin présidentiel pour remplacer le dirigeant ukrainien. Volodymyr Zelensky a ensuite indiqué qu'il organiserait des élections si la Russie accordait une trêve intégrale de soixante jours.\n\nLa Commission européenne a apporté sa position par la voix d'Ursula von der Leyen. La responsable européenne a téléphoné à Volodymyr Zelensky pour lui exprimer son appui sans réserve dans cette séquence.\n\n## Ce que disent les sources\n\nDonald Trump certifie que les deux gouvernements belligérants ont formellement validé cette entente bilatérale.\n\nVolodymyr Zelensky a contredit cette affirmation auprès du site Axios en assurant qu'il n'avait pas connaissance d'un tel pacte avant sa divulgation par Washington.\n\nL'agence ANSA et le quotidien Corriere della Sera indiquent que le pouvoir russe n'a souscrit à aucun texte de suspension des combats et n'a confirmé aucun cessez-le-feu.\n\nLe gouvernement de Moscou n'a publié aucune déclaration officielle détaillée pour expliciter sa position sur cet arrêt des attaques.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates"
+    },
+    {
+     "nom": "ANSA",
+     "url": "https://ansa.it/sito/notizie/mondo/2026/10/11/zelensky-mosca-ha-colpito-una-centrale-elettrica-dopo-lannuncio-trump-sulla_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/zelenski-responde-trump-convocara-elecciones-putin-acepta-20261011155841-nt.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-dites-a-poutine-de-nous-accorder-60-jours-de-cessez-le-feu-total-et-nous-organiserons-des-elections-assure-volodymyr-zelensky-20261011"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-russia-and-ukraine-agree-to-energy-ceasefire/article71572265.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-11/zelenski-ofrece-a-putin-una-tregua-energetica-en-plena-escalada-verbal-con-trump.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6pvg4jyz1m0o"
+    }
+   ],
+   "premiere_parution": "2026-10-11T00:00:00Z",
+   "suite_de": null,
+   "mots": 392,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-12-geopolitique-001",
+  "2026-10-12-geopolitique-002",
+  "2026-10-12-monde-001"
+ ]
+}

@@ -1,6 +1,59 @@
 {
- "maj": "2026-10-12T11:09:02Z",
+ "maj": "2026-10-12T21:21:45Z",
  "alertes": [
+  {
+   "id": "2026-10-13-alerte-01",
+   "date": "2026-10-13",
+   "publiee_a": "2026-10-12T21:21:45Z",
+   "titre": "L'actrice Selma Blair arrêtée après des violences à bord d'un avion",
+   "texte": "La police a interpellé la comédienne Selma Blair dimanche soir à l'aéroport JFK de New York. Les autorités lui reprochent d'avoir agressé des membres d'équipage pendant un vol de Delta Air Lines reliant Los Angeles à New York.",
+   "sources": [
+    {
+     "nom": "calgarysun.com",
+     "url": "https://calgarysun.com/entertainment/celebrity/actress-selma-blair-arrested-in-mid-air-plane-incident"
+    },
+    {
+     "nom": "fox23maine.com",
+     "url": "https://fox23maine.com/news/entertainment/selma-blair-arrested-after-allegedly-trying-to-bite-flight-crew-open-plane-door-report"
+    },
+    {
+     "nom": "vg.no",
+     "url": "https://vg.no/rampelys/i/kvdRGB/selma-blair-54-paagrepet-etter-dramatisk-flytur"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw80z7edrk80o"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/selma-blair-e-presa-apos-morder-comissaria-de-bordo-em-voo.shtml"
+    }
+   ],
+   "cluster": "05b1095c82486c30",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cw80z7edrk80o",
+    "https://calgarysun.com/entertainment/celebrity/actress-selma-blair-arrested-in-mid-air-plane-incident",
+    "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html",
+    "https://f5.folha.uol.com.br/celebridades/2026/10/selma-blair-e-presa-apos-morder-comissaria-de-bordo-em-voo.shtml",
+    "https://fox23maine.com/news/entertainment/selma-blair-arrested-after-allegedly-trying-to-bite-flight-crew-open-plane-door-report",
+    "https://nebraska.tv/news/entertainment/selma-blair-arrested-after-allegedly-trying-to-bite-flight-crew-open-plane-door-report",
+    "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69",
+    "https://theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+    "https://vg.no/rampelys/i/kvdRGB/selma-blair-54-paagrepet-etter-dramatisk-flytur"
+   ]
+  },
   {
    "id": "2026-10-12-alerte-01",
    "date": "2026-10-12",
@@ -1207,153 +1260,6 @@
     "https://lefigaro.fr/culture/l-ecrivain-britannique-jeffrey-archer-est-mort-a-86-ans-20261005",
     "https://straitstimes.com/world/europe/uk-author-and-politician-jeffrey-archer-dies-aged-86",
     "https://theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86"
-   ]
-  },
-  {
-   "id": "2026-10-05-alerte-03",
-   "date": "2026-10-05",
-   "publiee_a": "2026-10-05T14:46:32Z",
-   "titre": "Un avion militaire transportant trente-deux personnes s'ecrase au Nigeria",
-   "texte": "Un appareil militaire transportant trente-deux personnes s'est ecrase le lundi 5 octobre 2026 dans le sud du Nigeria. Les equipes de secours cherchent les survivants sur le site de l'accident.",
-   "sources": [
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/nigeria-un-avion-militaire-transportant-32-personnes-s-ecrase-20261005"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/nigeria-military-helicopter-crashes-with-32-aboard-rescue-operations-ongoing"
-    }
-   ],
-   "cluster": "08d4a5c295ad5422",
-   "urls": [
-    "https://dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
-    "https://franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html",
-    "https://lefigaro.fr/international/nigeria-un-avion-militaire-transportant-32-personnes-s-ecrase-20261005",
-    "https://straitstimes.com/world/nigeria-military-helicopter-crashes-with-32-aboard-rescue-operations-ongoing"
-   ]
-  },
-  {
-   "id": "2026-10-05-alerte-02",
-   "date": "2026-10-05",
-   "publiee_a": "2026-10-05T05:46:10Z",
-   "titre": "Entre 400 et 500 lycées ferment en France ce lundi 5 octobre",
-   "texte": "Le ministère de l'Éducation nationale suspend les cours dans 400 à 500 établissements en France ce lundi 5 octobre 2026. Cette décision intervient en raison de la mobilisation lycéenne perturbant la sécurité des accès.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/cours-suspendus-lundi-dans-400-a-500-lycees-lundi-160-etablissements-fermes-en-ile-de-france-plusieurs-mineurs-poursuivis-par-la-justice-le-point-sur-la-mobilisation-lyceenne-20261004_DLHKYBNJFNFLFBDDFEIU7QMLPY"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/actualite-france/blocus-des-lycees-en-ile-de-france-et-dans-l-oise-la-liste-des-etablissements-devant-lesquels-les-rassemblements-sont-interdits-ce-lundi-20261004"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-le-gouvernement-souhaite-une-reprise-des-cours-o%C3%B9-la-s%C3%A9curit%C3%A9-le-permet"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-des-centaines-d-etablissements-perturbes-lundi-a-la-veille-d-une-nouvelle-journee-de-mobilisation-que-des-syndicats-appellent-a-rejoindre_6788487_3224.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/blocage-des-lycees-plus-de-160-lycees-fermes-en-ile-de-france-feuille-de-route-de-lecornu-20261005"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html"
-    }
-   ],
-   "cluster": "63f35b5e2fc4228d",
-   "urls": [
-    "https://france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-il-n-y-a-pas-que-la-france-insoumise-qui-nous-a-soutenus-rappelle-un-representant-des-lyceens-qui-denonce-une-volonte-d-infantiliser-le-mouvement_8221975.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-cours-totalement-ou-partiellement-suspendus-dans-400-a-500-etablissements-lundi_8222821.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/les-cours-seront-suspendus-dans-400-a-500-lycees-lundi-annonce-le-ministre-de-l-education-nationale_8222266.html",
-    "https://la-croix.com/societe/blocage-des-lycees-400-a-500-etablissements-entierement-ou-en-partie-fermes-lundi-20261004",
-    "https://la-croix.com/societe/blocage-des-lycees-plus-de-160-lycees-fermes-en-ile-de-france-feuille-de-route-de-lecornu-20261005",
-    "https://lefigaro.fr/actualite-france/blocus-des-lycees-en-ile-de-france-et-dans-l-oise-la-liste-des-etablissements-devant-lesquels-les-rassemblements-sont-interdits-ce-lundi-20261004",
-    "https://lefigaro.fr/actualite-france/blocus-des-lycees-entre-400-et-500-etablissements-totalement-ou-partiellement-fermes-lundi-24-ont-ete-incendies-ou-saccages-annonce-edouard-geffray-20261004",
-    "https://lefigaro.fr/actualite-france/en-direct-blocage-des-lycees-des-centaines-de-lycees-seront-a-nouveau-fermes-au-moins-partiellement-lundi-avant-un-acte-iii-mardi-20261005",
-    "https://lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html",
-    "https://lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-des-centaines-d-etablissements-perturbes-lundi-a-la-veille-d-une-nouvelle-journee-de-mobilisation-que-des-syndicats-appellent-a-rejoindre_6788487_3224.html",
-    "https://liberation.fr/societe/cours-suspendus-lundi-dans-400-a-500-lycees-lundi-160-etablissements-fermes-en-ile-de-france-plusieurs-mineurs-poursuivis-par-la-justice-le-point-sur-la-mobilisation-lyceenne-20261004_DLHKYBNJFNFLFBDDFEIU7QMLPY",
-    "https://liberation.fr/societe/education/blocage-des-lycees-cours-suspendus-dans-400-a-500-etablissements-lundi-24-ont-ete-saccages-ou-incendies-selon-edouard-geffray-20261004_O2BAPA2UTNFEXD76FJUZUSBUFU",
-    "https://rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-le-gouvernement-souhaite-une-reprise-des-cours-o%C3%B9-la-s%C3%A9curit%C3%A9-le-permet"
-   ]
-  },
-  {
-   "id": "2026-10-05-alerte-01",
-   "date": "2026-10-05",
-   "publiee_a": "2026-10-05T00:03:25Z",
-   "titre": "Les États-Unis retirent leurs bombardiers de la base britannique de Fairford",
-   "texte": "L'armée américaine a rapatrié tous ses bombardiers positionnés sur le site militaire de Fairford au Royaume-Uni ce lundi 5 octobre 2026. Cette décision intervient après des arrestations liées à un projet présumé d'attentat contre l'installation.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmwyve191dlko"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/eua-retiram-as-pressas-bombardeiros-de-base-aerea-no-reino-unido-apos-novas-ameacas.shtml"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran"
-    }
-   ],
-   "cluster": "672a7725e158aba0",
-   "urls": [
-    "https://abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html",
-    "https://aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
-    "https://aol.co.uk/articles/us-bombers-leave-raf-fairford-173500000.html",
-    "https://bbc.co.uk/news/articles/cmwyve191dlko",
-    "https://bloomberg.com/news/articles/2026-10-04/pentagon-redeploys-bombers-from-uk-base-at-center-of-terror-plot",
-    "https://elpais.com/internacional/2026-10-04/el-pentagono-retira-sus-bombarderos-de-la-base-britanica-de-fairford-tras-el-presunto-intento-de-atentado.html",
-    "https://france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
-    "https://ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
-    "https://kxl.com/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack",
-    "https://nbcwashington.com/news/national-international/us-air-force-removes-bombers-british-air-base-suspected-terror-plot/4163132",
-    "https://spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816",
-    "https://straitstimes.com/world/europe/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
-    "https://stratford-herald.com/national/us-withdraws-bombers-from-raf-fairford-after-suspected-terror-plot-172533",
-    "https://theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
-    "https://thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
-    "https://wesh.com/article/us-air-force-bombers-return-raf-fairford-terror-plot/74019290",
-    "https://www1.folha.uol.com.br/mundo/2026/10/eua-retiram-as-pressas-bombardeiros-de-base-aerea-no-reino-unido-apos-novas-ameacas.shtml"
    ]
   }
  ]

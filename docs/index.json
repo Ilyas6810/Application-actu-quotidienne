@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-12T06:43:35Z",
- "derniere": "2026-10-12",
+ "maj": "2026-10-13T07:21:00Z",
+ "derniere": "2026-10-13",
  "editions": [
+  {
+   "date": "2026-10-13",
+   "genere_a": "2026-10-13T07:21:00Z",
+   "articles": 12,
+   "une": [
+    "Des agents fédéraux perquisitionnent le domicile de la députée démocrate Ilhan Omar",
+    "L accord pétrolier de Donald Trump avec Moscou suscite de vives contestations",
+    "L'actrice américaine Selma Blair arrêtée à New York après des violences en vol"
+   ],
+   "octets": 49095
+  },
   {
    "date": "2026-10-12",
    "genere_a": "2026-10-12T06:43:35Z",

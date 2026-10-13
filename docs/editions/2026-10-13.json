@@ -1,0 +1,625 @@
+{
+ "date": "2026-10-13",
+ "genere_a": "2026-10-13T07:21:00Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-13-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des agents fédéraux perquisitionnent le domicile de la députée démocrate Ilhan Omar",
+   "chapeau": "Des agents fédéraux ont perquisitionné le domicile de la représentante démocrate Ilhan Omar à Washington le lundi 12 octobre 2026 au matin. L'opération judiciaire s'inscrit dans une enquête relative aux modalités d'obtention de sa nationalité américaine.",
+   "corps": "Des membres des services fédéraux ont exécuté un mandat de perquisition dans la résidence de la parlementaire située dans la capitale américaine. Le ministère de la Justice a validé ce mandat et a déclaré que cette démarche relevait d'une enquête fédérale en cours. Les responsables de la Sécurité intérieure ont pour leur part ouvert une procédure pénale visant l'élue du Minnesota.\n\nCette intervention des forces de l'ordre concerne les conditions dans lesquelles la parlementaire a obtenu la citoyenneté américaine. L'équipe du président Donald Trump soutient depuis plusieurs mois que la députée a commis une fraude liée aux règles d'immigration, sans toutefois fournir de pièces justificatives.\n\nIlhan Omar est née en Somalie et est arrivée aux États-Unis avec le statut de réfugiée durant son enfance. Elle siège au Congrès pour représenter l'État du Minnesota et appartient au courant progressiste du Parti démocrate. Elle critique ouvertement la politique menée par Donald Trump depuis plusieurs années.\n\nL'opération policière survient trois semaines avant les élections législatives de mi-mandat prévues en novembre. La représentante brigue un nouveau mandat lors de ce scrutin fédéral.\n\nIlhan Omar a réagi en qualifiant cette perquisition de manœuvre destinée à viser des adversaires politiques. La parlementaire a dénoncé une campagne d'intimidation orchestrée selon elle par le chef de l'État et a affirmé qu'elle ne garderait pas le silence.\n\nLes responsables du Parti démocrate à la Chambre des représentants ont apporté leur soutien à leur collègue. Le chef de la minorité Hakeem Jeffries, la coordinatrice du groupe Katherine Clark et le président du groupe Pete Aguilar ont publiquement contesté l'intervention des services fédéraux. Ces cadres parlementaires ont dénoncé un abus de pouvoir et un détournement des institutions gouvernementales contre les opposants de l'administration présidentielle.\n\nLe ministère de la Justice et les services de la Sécurité intérieure n'ont pas rendu publics les éléments matériels qui motivent l'ouverture de cette enquête criminelle.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-federal-agents-search-home-of-trump-critic-ilhan-omar/a-79643360?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/12/l-elue-democrate-ilhan-omar-visee-par-une-perquisition-dans-une-enquete-sur-les-conditions-de-l-acquisition-de-sa-nationalite-americaine_6792685_3210.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e05d76f8-2ced-4acc-a449-926b49559f9b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/washington-perquisition-du-domicile-de-lelue-democrate-ilhan-omar-que-donald-trump-execre-20261012_VMA5CAQI2VE2PEDKATN4AE44TQ"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-12/el-departamento-de-justicia-de-estados-unidos-registra-la-vivienda-de-la-legisladora-progresista-ilhan-omar.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents"
+    }
+   ],
+   "premiere_parution": "2026-10-12T01:45:00Z",
+   "suite_de": null,
+   "mots": 345,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Elon Musk finance la campagne électorale des républicains aux États-Unis",
+   "chapeau": "Elon Musk a versé plusieurs centaines de millions de dollars aux comités républicains avant le scrutin législatif américain de novembre 2026. L'homme d'affaires cherche à maintenir les majorités républicaines à la Chambre des représentants et au Sénat.",
+   "corps": "Elon Musk s'impose comme le premier contributeur financier déclaré pour les élections législatives américaines de mi-mandat. Les registres officiels de financement de campagne révèlent cette position dominante, selon une information rapportée par The Hindu le 13 octobre 2026 à 06h45. Le propriétaire de Tesla soutient les structures partisanes conservatrices depuis le mois de juillet 2026.\n\nLes fonds alimentent principalement des comités d'action politique indépendants. Ces organisations, appelées super PAC, collectent des fonds sans limite de montant pour soutenir des candidats. D'après Folha de S.Paulo le 13 octobre 2026 à 01h00, ces versements financent un vaste dispositif de mobilisation citoyenne sur le terrain. L'opération vise à mobiliser les électeurs en vue du vote de novembre.\n\nCe soutien financier intervient dans un contexte politique particulier pour le parti conservateur. La formation tente de surmonter la baisse de popularité de Donald Trump. Les candidats républicains affrontent également l'inquiétude des citoyens face au coût de la vie quotidienne. Par le passé, l'entrepreneur avait déjà soutenu la campagne présidentielle de Donald Trump, note Der Spiegel le 13 octobre 2026 à 08h50, alors que les dons individuels directs font l'objet d'un encadrement juridique strict.\n\n## Ce que disent les sources\n\nLe montant total des dépenses varie selon les médias. Huit rédactions, dont mprnews.org le 12 octobre 2026 à 19h15, wtop.com à 20h49, Folha de S.Paulo le 13 octobre 2026 à 01h00, et The Hindu à 06h45, indiquent qu'Elon Musk a versé plus de 276 millions de dollars. Le journal The Straits Times mentionne une contribution de 276 millions de dollars dans son titre le 12 octobre 2026 à 20h10, mais son adresse électronique évoque 366 millions de dollars. De son côté, le Financial Times rapporte un montant de 275 millions de dollars le 12 octobre 2026 à 22h04. Enfin, Al Jazeera affirme le 12 octobre 2026 à 23h48 que l'homme d'affaires a alloué 366 millions de dollars au Parti républicain.\n\nLa répartition exacte de ces sommes entre chaque organisation politique n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "mprnews.org",
+     "url": "https://mprnews.org/story/2026/10/12/elon-musk-becomes-biggest-known-donor-in-midterms-for-republicans"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/musk-has-spent-366-million-to-help-republicans-retain-control-of-congress"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/midterms-in-den-usa-elon-musk-ist-groesster-bekannter-spender-bei-den-us-zwischenwahlen-a-d3fb69ac-47da-4ef5-9bc7-8fc67bdd601c"
+    },
+    {
+     "nom": "wtop.com",
+     "url": "https://wtop.com/national/2026/10/elon-musk-quietly-becomes-biggest-known-donor-in-midterm-contests-as-he-tries-to-save-republicans"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections"
+    },
+    {
+     "nom": "nebraska.tv",
+     "url": "https://nebraska.tv/news/nation-world/musk-gives-276-million-to-republican-super-pacs-over-3-months-for-midterms-president-trump-republicans-democrats-elections"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/elon-musk-doou-r-14-bilhao-para-republicanos-que-disputam-eleicao-em-novembro.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-12T15:15:00Z",
+   "suite_de": null,
+   "mots": 370,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des cyberattaques ciblent les réfrigérateurs de supermarchés en France",
+   "chapeau": "Des pirates informatiques ont visé des centaines de supermarchés en France dans la nuit de dimanche à lundi. Cette intrusion a provoqué la hausse des températures des installations frigorifiques.",
+   "corps": "Des cyberattaques ont touché plusieurs centaines de supermarchés en France dans la nuit de dimanche 11 à lundi 12 octobre 2026 selon Bloomberg le 12 octobre 2026. L'opération a consisté à désactiver ou à modifier les systèmes de réfrigération de grandes enseignes comme Intermarché, Coopérative U, Carrefour et Leclerc d'après The Straits Times le 13 octobre 2026.\n\nLes températures des appareils connectés ont augmenté pour atteindre parfois cinquante degrés Celsius d'après The Guardian le 12 octobre 2026. Cette situation a entraîné des pertes de produits frais et surgelés ainsi que des débuts d'incendies dans certains magasins selon The Guardian le 12 octobre 2026.\n\nLe parquet de Paris a indiqué le 12 octobre 2026 qu'une enquête est ouverte sur cette intervention informatique de grande ampleur touchant les enseignes alimentaires d'après The Guardian le 12 octobre 2026. L'agence française de cybersécurité coordonne ses actions avec des partenaires européens d'après Politico Europe le 12 octobre 2026.\n\nJulien Freret, directeur d'un magasin Intermarché, a présenté ses excuses aux clients et a confirmé la destruction totale des stocks de denrées à la suite de la hausse de la température des meubles frigorifiques constatée le 13 octobre 2026 d'après The Guardian le 13 octobre 2026. Les estimations financières concernant les denrées détruites atteignent plusieurs millions d'euros selon BBC News le 12 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/french-supermarkets-face-food-crisis-after-cyberattack-hits-refrigerators"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crq5nzxv9q4yo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/hackers-hit-french-supermarkets-in-attack-disabling-fridges"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/hackers-aquecem-geladeiras-de-supermercado-na-franca-provocando-incendios-e-perdas-de-alimentos.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-hackers-piratent-les-refrigerateurs-des-supermarches_8234497.html"
+    }
+   ],
+   "premiere_parution": "2026-10-12T12:00:00Z",
+   "suite_de": null,
+   "mots": 246,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump réclame le départ du président ukrainien Volodymyr Zelensky",
+   "chapeau": "Le président américain Donald Trump accentue sa pression sur son homologue ukrainien Volodymyr Zelensky depuis Washington en octobre 2026. Le dirigeant des États-Unis demande la tenue d'élections en Ukraine et la fin des frappes contre les raffineries russes.",
+   "corps": "Donald Trump exige un changement à la tête de l'État ukrainien. Le président américain réclame formellement le remplacement de Volodymyr Zelensky. Il demande également l'organisation d'un nouveau scrutin en Ukraine. La législation ukrainienne en vigueur interdit pourtant un tel vote dans le contexte actuel. Volodymyr Zelensky conserve néanmoins des soutiens sur la scène internationale.\n\nCette position américaine surprend les gouvernements européens. Les critiques publiques de Donald Trump rappellent d'anciennes altercations au sein du Bureau ovale. Le dirigeant américain conteste de longue date l'aide militaire que Washington fournit aux forces ukrainiennes. Ses reproches à l'égard de Volodymyr Zelensky remontent à son premier mandat à la Maison Blanche.\n\nDonald Trump demande par ailleurs l'arrêt immédiat des opérations militaires ukrainiennes visant les infrastructures pétrolières de la Russie. Le président américain surveille l'évolution des tarifs des carburants, notamment ceux du gazole, avant les prochaines élections américaines de mi-mandat. Cette stratégie énergétique crée une confrontation directe entre Washington et le pouvoir à Kyiv.\n\nLe gouvernement ukrainien refuse de céder à ces demandes. Une telle résistance expose Kyiv au risque de perdre l'aide militaire américaine. Les alliés de Washington encouragent pourtant le président des États-Unis à poursuivre son soutien à l'Ukraine. Donald Trump conserve pour sa part l'objectif d'aboutir à un accord tripartite impliquant le président russe Vladimir Poutine et le dirigeant chinois Xi Jinping.\n\nLes détails exacts sur la date d'éventuelles élections ukrainiennes ou sur les mesures précises envisagées par Washington en cas de refus ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/sq/presidenti-ukrainas-zelensky-n%c3%abn-presionin-e-donald-trump/a-79631545"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_11/trump-attacco-zelensky-retroscena-7f54f829-0b3e-494e-a68e-d9eefea33xlk.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-11/trump-calls-for-zelenskyy-to-step-aside-video"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-takes-out-political-frustrations-on-zelensky-ukraine"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/zelenskyy-trump-ukraine-war-diesel-sanctions-russia"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-11T00:30:00Z",
+   "suite_de": null,
+   "mots": 285,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV subit une opération pulmonaire à Rome",
+   "chapeau": "Le pape Léon XIV entre à l'hôpital ce mardi 13 octobre 2026 à Rome pour subir une intervention chirurgicale au poumon. Le souverain pontife âgé de 71 ans doit faire retirer une petite lésion détectée récemment.",
+   "corps": "Le chef de l'Église catholique a partagé cette nouvelle le dimanche 11 octobre 2026 devant les pèlerins réunis sur la place Saint-Pierre lors de sa bénédiction hebdomadaire. Les médecins ont repéré un nodule pulmonaire, terme désignant une petite grosseur anormale, lors de récents examens médicaux de routine. L'évêque de Rome a précisé que cette formation apparaissait à un stade très précoce et restait bien délimitée.\n\nLe Vatican a indiqué que l'opération se déroulerait dans les premiers jours de la semaine courante. Les services du Saint-Siège prévoient une période de convalescence d'une durée d'environ une semaine. Cette intervention médicale précède un voyage pastoral programmé par le souverain pontife sur le continent sud-américain.\n\nAvant son hospitalisation prévue ce mardi 13 octobre 2026, l'activité de l'évêque de Rome s'est poursuivie normalement. Le Vatican a indiqué le 12 octobre 2026 à 13h40 via The Straits Times que le pape avait honoré sept audiences de travail durant la seule matinée du lundi, maintenant son agenda initial.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6m2dnngvw8xo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pope-leo-to-undergo-surgery-for-growth-on-lung/article71572904.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-leo-sticks-to-normal-schedule-ahead-of-surgery-to-remove-lung-nodule"
+    }
+   ],
+   "premiere_parution": "2026-10-11T10:45:10Z",
+   "suite_de": null,
+   "mots": 197,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Pakistan suspend le gouvernement provincial de Khyber Pakhtunkhwa et arrête des opposants",
+   "chapeau": "Le pouvoir fédéral pakistanais a décrété l'état d'urgence dans la province de Khyber Pakhtunkhwa le dimanche 11 octobre 2026. Cette décision écarte l'exécutif local dirigé par la formation de l'ancien premier ministre emprisonné Imran Khan.",
+   "corps": "Le président Asif Ali Zardari a proclamé l'état d'urgence dans la région du nord-ouest le 11 octobre 2026. Cette mesure suspend le seul gouvernement provincial dirigé par le Mouvement du Pakistan pour la justice, le parti d'Imran Khan. Le pouvoir central prend ainsi la direction directe de ce territoire.\n\nCe territoire constitue le centre d'influence de l'ancien dirigeant détenu depuis 2023. Des milliers de ses partisans défilaient dans la région depuis une semaine. Les manifestants réclamaient la sortie de prison de l'ancien chef du gouvernement. Le cortège exprimait aussi des critiques contre l'exécutif fédéral au sujet des difficultés économiques du pays.\n\nLes forces de l'ordre ont ensuite interpellé des centaines de membres de cette formation politique dans la province. Des responsables de la police ont confirmé ces arrestations le lundi 12 octobre 2026, selon des déclarations rapportées par RFI le 12 octobre 2026 à 17 h 47. Des dirigeants politiques locaux figurent parmi les personnes privées de liberté.\n\nUn porte-parole du Mouvement du Pakistan pour la justice a qualifié cette intervention de coup d'État déguisé en état d'urgence, d'après les informations publiées par The Guardian le 12 octobre 2026 à 14 h 48. Le gouvernement central justifie l'application de ce régime d'exception par la hausse des attaques armées et la dégradation de la sécurité locale, selon des éléments présentés par The Hindu le 13 octobre 2026 à 9 h 51.\n\nLe nombre précis de personnes arrêtées et l'identité de l'ensemble des responsables politiques détenus ne sont pas précisés par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-11/pakistan-imposes-emergency-in-stronghold-of-imran-khan-s-party"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/pakistan-apres-des-manifestations-l-etat-d-urgence-impose-dans-un-bastion-de-lopposition-20261011"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/pakistan-suspends-imran-khan-followers-provincial-government"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/pakistan-province-leaders-of-ex-pm-imran-khans-party-detained-minister-says"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/en/international-news/20261012-pakistan-detains-hundreds-from-ex-pm-khan-s-party-as-protests-falter"
+    }
+   ],
+   "premiere_parution": "2026-10-11T08:32:06Z",
+   "suite_de": null,
+   "mots": 286,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Andy Burnham défend ses accusations contre la Russie devant les députés britanniques",
+   "chapeau": "Le Premier ministre Andy Burnham a précisé ses déclarations sur l'ingérence russe de 2016 devant les parlementaires britanniques à Londres le 12 octobre 2026. Cette intervention suit ses récentes affirmations inédites accusant Moscou d'avoir agi lors du référendum sur le Brexit.",
+   "corps": "Le chef de l'exécutif travailliste a assuré aux députés qu'il ne remettait pas en cause la légitimité du résultat de 2016. Andy Burnham a maintenu qu'il jugeait inconcevable d'écarter une tentative d'ingérence de Moscou lors de cette consultation électorale.\n\nLe Premier ministre a expliqué avoir posé la question dès son installation au 10 Downing Street. Il a affirmé avoir obtenu une réponse positive claire confirmant l'action russe, sans dévoiler l'identité de l'interlocuteur qui lui a transmis cette information.\n\nCes propos tranchent avec la position de son prédécesseur Boris Johnson, qui avait rejeté l'existence d'une ingérence russe dans ce vote. Un ministre de l'actuel gouvernement britannique a cherché à minimiser la portée des propos d'Andy Burnham, dans un contexte de discussions sur un rapprochement entre le Royaume-Uni et l'Union européenne.\n\nAndy Burnham a soutenu que les électeurs britanniques n'avaient pas été assez avertis des tentatives étrangères destinées à perturber la démocratie nationale. Il a estimé que les gouvernements précédents avaient manqué à leur devoir d'information sur ces manœuvres après le scrutin de 2016. Le dirigeant a également appelé à mieux informer les citoyens en France et en Allemagne face aux opérations attribuées au pouvoir russe.\n\n## Ce que disent les sources\n\nSelon Bloomberg le 12 octobre 2026, un ministre du gouvernement a cherché à atténuer la portée des affirmations d'Andy Burnham. Selon BBC News le 12 octobre 2026, le Premier ministre maintient ses accusations devant les parlementaires tout en rejetant toute contestation de la validité du vote.\n\nLe Premier ministre n'a pas précisé le service ou la personne ayant confirmé cette ingérence au sein de l'appareil d'État.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/grossbritannien-andy-burnham-bestaetigt-russische-einmischung-beim-brexit-votum-a-d76e541e-338e-4b56-bfda-0045ea8d12c6"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-pm-burnham-says-russia-interfered-in-2016-brexit-vote"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-11/burnham-acusa-directamente-a-rusia-de-interferir-en-la-campana-del-referendum-del-brexit.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6jdm3zggl0ko"
+    }
+   ],
+   "premiere_parution": "2026-10-11T03:00:00Z",
+   "suite_de": "2026-10-12-monde-001",
+   "mots": 306,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L accord pétrolier de Donald Trump avec Moscou suscite de vives contestations",
+   "chapeau": "Le président américain Donald Trump affronte les critiques de ses alliés et du Congrès après son entente avec Vladimir Poutine sur le diesel russe. Les réactions internationales et politiques se multiplient à Washington, à Berlin et à Kiev depuis le week-end du 11 octobre 2026.",
+   "corps": "Le président Donald Trump a convenu le 9 octobre 2026 avec le président russe Vladimir Poutine d'importer du carburant russe aux États-Unis.\n\nLes spécialistes du secteur énergétique estiment que cette mesure ne fera pas baisser les prix à la pompe de manière sensible. Le transport maritime du carburant demandera plusieurs semaines. Le volume prévu reste trop faible pour modifier le marché américain. Les raffineries russes ont subi des dégradations matérielles. Ces dommages empêchent la Russie d'honorer la totalité des livraisons prévues.\n\nLe chancelier allemand Friedrich Merz a rejeté toute initiative similaire pour son pays. Le chef du gouvernement allemand a déclaré qu'un tel arrangement restait exclu pour l'Allemagne et pour l'Union européenne. L'exécutif allemand traverse également une démission au sein de sa coalition gouvernementale.\n\nÀ Washington, des parlementaires républicains et démocrates contestent la décision de la Maison-Blanche. Un sénateur républicain affirme que la suspension temporaire des sanctions pourrait enfreindre la loi fédérale. Les élus du Congrès expriment leurs craintes à l'approche des élections de mi-mandat. Des membres du parti républicain critiquent ouvertement les propos favorables tenus par Donald Trump à l'égard de Vladimir Poutine.\n\nLes autorités ukrainiennes dénoncent cette entente bilatérale. Le parlementaire ukrainien Oleksandr Merezhko qualifie cet accord de trahison envers son pays. Le président Donald Trump a mentionné un cessez-le-feu partiel entre les belligérants. Le président ukrainien Volodymyr Zelensky a répliqué qu'il ignorait l'existence d'une telle trêve.\n\nDes sources gouvernementales rapportent que Washington espérait assouplir la position de Moscou lors de pourparlers de paix. Le président américain cherche à limiter le coût des carburants avant les scrutins électoraux nationaux.\n\nLe volume précis de carburant négocié et le montant financier de l'accord ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cjn5v21py07vo"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/12/wat-gaat-de-dieseldeal-tussen-trump-en-poetin-betekenen-voor-de-prijzen-a4938796"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5bc438a0-26b7-4893-9d62-1f45d2963eef?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say"
+    }
+   ],
+   "premiere_parution": "2026-10-10T12:32:36Z",
+   "suite_de": "2026-10-12-geopolitique-001",
+   "mots": 325,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Volodymyr Zelensky accuse Moscou d'ignorer la trêve énergétique de Donald Trump",
+   "chapeau": "Le président ukrainien Volodymyr Zelensky a dénoncé le 12 octobre de nouveaux tirs russes contre le réseau électrique de son pays. Cette mise en cause intervient après l'annonce par Donald Trump d'un arrêt concerté de ces bombardements.",
+   "corps": "Donald Trump avait affirmé le 11 octobre l'entrée en vigueur d'une trêve des frappes contre les installations d'énergie en Russie et en Ukraine.\n\nVolodymyr Zelensky a déclaré lundi 12 octobre que l'armée russe ne respectait pas cet accord. Le chef d'État ukrainien affirme avoir pris connaissance de cette initiative par la presse. Il a précisé lors d'une intervention à distance que son homologue russe ne consulte pas la plateforme Truth Social. Donald Trump avait choisi ce réseau numérique pour publier son annonce initiale.\n\nLe pouvoir ukrainien annonce que la Russie a visé six installations énergétiques sur son sol depuis la prise de parole américaine, selon des propos de Volodymyr Zelensky rapportés par la BBC le 13 octobre 2026 à 01:20. Moins de 24 heures après la publication de Donald Trump, des bombardements ont touché les secteurs de Kyiv, de Kharkiv ainsi que de Donetsk, d'après les indications communiquées par les autorités ukrainiennes et diffusées par Deutsche Welle le 12 octobre 2026 à 15:54. Les services ukrainiens ont signalé des impacts contre des centrales électriques. Les habitants de la capitale ukrainienne ont exprimé des doutes quant à la réalité d'une telle accalmie.\n\nL'Ukraine a prévenu qu'elle poursuivrait ses opérations militaires à longue distance vers le sol russe si Moscou rejetait cette mesure. Volodymyr Zelensky a rappelé qu'il reste favorable à une protection mutuelle des installations de production électrique. Il a toutefois demandé à l'administration des États-Unis de contraindre le gouvernement russe à appliquer cette consigne. Le dirigeant ukrainien avait formulé une autre offre prévoyant une interruption complète des hostilités durant 60 jours. Cette suspension générale devait permettre l'organisation du vote présidentiel en Ukraine.\n\nLes deux armées continuent d'échanger des tirs d'artillerie et de missiles. Moscou maintient une position discrète au sujet de ce dispositif bilatéral. L'administration russe a toutefois indiqué qu'elle examinerait seulement une suspension des combats limitée à une seule journée pour le déroulement d'un scrutin.\n\n## Ce que disent les sources\n\nDonald Trump soutient que les présidents ukrainien et russe ont validé l'arrêt des frappes contre les infrastructures énergétiques. Le chef d'État américain affirme le 13 octobre 2026 que cette trêve reste en vigueur. Il demande aux deux dirigeants d'interrompre le conflit armé. À l'opposé, Volodymyr Zelensky affirme que l'Ukraine n'a jamais été associée aux discussions préalables. Il soutient que la Russie refuse dans les faits d'interrompre ses attaques. La présidence de la Fédération de Russie n'a pas confirmé l'existence d'un accord avec Washington.\n\nLes sources ne précisent pas la liste exacte des six sites énergétiques endommagés ni le détail des réponses militaires apportées par Moscou.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20261012/055818e6dce34136823acb0a3d4eb745/c.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-12/zelenskyy-says-strikes-to-continue-if-putin-rejects-energy-truce"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/zelenskyy-urges-us-to-ensure-russia-respects-energy-ceasefire/article71574496.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cjx2359qekrdo"
+    }
+   ],
+   "premiere_parution": "2026-10-11T00:00:00Z",
+   "suite_de": "2026-10-12-geopolitique-002",
+   "mots": 465,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'aéroport de Riyad subit de nouvelles frappes revendiquées par les Houthis",
+   "chapeau": "Les rebelles yéménites houthis ont visé l'aéroport international Roi-Khaled de Riyad pour les deuxième et troisième jours consécutifs, les 11 et 12 octobre 2026. Ces attaques répétées ont fait au moins un mort et plusieurs blessés dans la capitale saoudienne.",
+   "corps": "Un tir de missiles avait déjà tué douze personnes le samedi 10 octobre 2026 sur cette plateforme aéroportuaire.\n\nLe dimanche 11 octobre 2026, un projectile non identifié a touché le terminal 4 de l'aéroport international Roi-Khaled de Riyad. L'assaut a provoqué la mort d'un ressortissant pakistanais et a blessé onze personnes, selon les autorités saoudiennes citées par Al Jazeera le 12 octobre 2026 à 06:11. Les rebelles houthis ont revendiqué cette nouvelle opération contre l'infrastructure de la capitale.\n\nL'aéroport de Riyad demeure fermé aux vols commerciaux. Selon Deutsche Welle, le site restera inaccessible au moins jusqu'à la fin de la semaine. Les autorités saoudiennes ont toutefois maintenu le calendrier des grands rassemblements publics prévus dans le pays, d'après les informations rapportées par The Straits Times le 12 octobre 2026 à 03:00. Les tirs touchent des installations clés alors que le gouvernement tente d'attirer des investissements internationaux.\n\nUne troisième offensive a eu lieu le lundi 12 octobre 2026. Les insurgés yéménites ont affirmé avoir lancé un missile balistique contre l'aéroport pour le troisième jour consécutif, d'après Reuters le 12 octobre 2026 à 16:00. De leur côté, les forces armées saoudiennes ont assuré avoir intercepté un missile balistique tiré en direction de Riyad, a précisé Al Jazeera le 13 octobre 2026 à 03:54.\n\nLes réactions internationales se sont multipliées après cette série de frappes. Le Premier ministre israélien Benyamin Netanyahou a qualifié l'événement du 11 octobre d'attaque terroriste, a indiqué Haaretz le 11 octobre 2026 à 20:12. Par ailleurs, les États-Unis ont déclaré qu'ils étudiaient la possibilité de participer aux opérations militaires conduites par l'Arabie saoudite, selon Deutsche Welle le 12 octobre 2026 à 14:41.\n\n## Ce que disent les sources\n\nLe bilan global des victimes varie selon les médias. Pour l'attaque du samedi 10 octobre 2026, Bloomberg (11 octobre 2026 à 18:47) et The Straits Times (12 octobre 2026 à 03:00) dénombrent 12 morts. En revanche, Haaretz (11 octobre 2026 à 20:12) et The Guardian (12 octobre 2026 à 02:28) font état de 13 personnes tuées lors de cette première frappe. Pour l'ensemble du week-end, BBC News comptabilise 13 décès le 12 octobre 2026 à 02:45. De son côté, The Hindu mentionne le 12 octobre 2026 à 17:10 un total d'au moins 18 morts causés par les frappes de la semaine passée.\n\nL'identité précise de la personne tuée le dimanche 11 octobre et les détails sur l'état de santé des onze blessés ne sont pas précisés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-10-11/ty-article/after-houthi-threat-attack-at-saudi-airport-sparks-fire-saudi-coalition-says/000001a1-2b90-d1b4-a5fb-afdcc7bb0000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cr93znyk44e1o"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/one-dead-as-saudi-airport-hit-again-riyadh-going-ahead-with-major-events"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1d85912b-7a70-4ba1-87df-3b683adee91e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-10T12:00:00Z",
+   "suite_de": "2026-10-11-monde-001",
+   "mots": 456,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump annonce un cessez-le-feu énergétique après son accord pétrolier",
+   "chapeau": "Le président américain a annoncé une trêve énergétique entre Moscou et Kiev après avoir conclu des importations de carburant russe. Cette initiative menée par Washington suscite depuis plusieurs jours des contestations politiques et institutionnelles.",
+   "corps": "Donald Trump a convenu avec Vladimir Poutine d'importer du gazole russe pour freiner la hausse des prix du carburant aux États-Unis. Deux jours après cette annonce initiale, le dirigeant américain a affirmé la conclusion d'un cessez-le-feu énergétique entre la Russie et l'Ukraine, selon France 24 le 12 octobre 2026 à 19 h 32.\n\nEn réponse à cet arrangement commercial, le gouvernement russe a assoupli son interdiction sur les exportations de diesel, d'après Der Spiegel le 10 octobre 2026 à 23 h 10. Les autorités américaines prévoient la levée de certaines sanctions imposées au secteur énergétique russe pour permettre l'acheminement de ce combustible, selon franceinfo et Le Figaro le 12 octobre 2026.\n\nAu Congrès américain, des élus démocrates et républicains dénoncent une entente illégale, selon Le Figaro le 12 octobre 2026 à 11 h 45. Le Parlement avait voté des mesures punitives contre les acheteurs de pétrole et de gaz russes, rapporte The Hindu le 10 octobre 2026 à 20 h 23. Plusieurs parlementaires reprochent à l'exécutif de contourner ces textes à l'approche des élections parlementaires de mi-mandat, d'après Le Monde le 13 octobre 2026 à 07 h 31.\n\nDes analystes interrogés par les médias prévoient un effet limité sur les tarifs à la pompe, rapporte La Croix le 12 octobre 2026 à 19 h 05. Tatiana Mitrova, chercheuse à l'Université Columbia, estime dans Libération le 12 octobre 2026 à 19 h 06 que l'entente ne stabilisera pas les marchés sur la durée et constitue un gain diplomatique pour Moscou.\n\nLes modalités concrètes d'application du cessez-le-feu énergétique entre Moscou et Kiev ne sont pas précisées par les déclarations officielles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-russia-to-immediately-supply-diesel-to-us-after-talks-with-putin/article71565812.ece"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-hebt-verbot-von-diesel-exporten-teilweise-auf-a-2a2f3424-b3a5-4423-a58a-99ce4ddfaf4f"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/oriente-occidente-federico-rampini/26_ottobre_11/diesel-tre-contraddizioni-accordo-bea513d3-9f03-430f-99be-7e1bb6702xlk.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/des-elus-americains-jugent-l-accord-entre-washington-et-moscou-sur-le-diesel-contraire-a-la-loi_8233276.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/etats-unis-des-elus-democrates-et-republicains-jugent-l-accord-sur-le-diesel-entre-washington-et-moscou-contraire-a-la-loi-20261012"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/diesel-russe-l-accord-trump-poutine-suffira-t-il-a-faire-baisser-les-prix-20261012"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/accord-washington-moscou-sur-le-diesel-il-sagit-dun-gain-diplomatique-important-pour-la-russie-20261012_3PJQUFJILFEQVEAILDMSPWV6JA"
+    }
+   ],
+   "premiere_parution": "2026-10-10T07:06:20Z",
+   "suite_de": "2026-10-12-geopolitique-001",
+   "mots": 302,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-13-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "L'actrice américaine Selma Blair arrêtée à New York après des violences en vol",
+   "chapeau": "La police a arrêté l'actrice américaine Selma Blair à l'aéroport John F. Kennedy de New York dans la nuit du dimanche 11 octobre 2026. Les autorités lui reprochent des violences physiques contre le personnel d'un avion de Delta Air Lines reliant Los Angeles à New York, puis contre des soignants et des agents au sol.",
+   "corps": "La police a intercepté l'actrice Selma Blair lors de l'atterrissage d'un appareil de la compagnie Delta Air Lines à New York. L'avion effectuait la liaison entre Los Angeles et l'aéroport John F. Kennedy. Les forces de l'ordre sont intervenues vers 23 heures dimanche soir après le signalement de violences physiques à bord par l'équipage. Les autorités ont ensuite transféré l'actrice vers un établissement hospitalier pour un examen médical.\n\nLes autorités judiciaires accusent la passagère d'avoir blessé deux membres du personnel de cabine pendant le trajet. Selon les rapports d'intervention cités par les médias, l'actrice a tenté d'ouvrir une issue de secours pendant le vol. Elle a ensuite frappé un membre de l'équipage et mordu une autre employée de la compagnie aérienne. La police portuaire a précisé qu'un membre du personnel navigant a également rejoint un centre hospitalier pour des soins après l'atterrissage.\n\nLe dossier judiciaire comprend aussi des faits commis après la sortie de l'appareil. La justice poursuit Selma Blair pour deux agressions distinctes survenues au sol. Les chefs d'accusation indiquent qu'elle a asséné des coups de pied à un agent de police et à une infirmière. L'actrice a comparu devant un tribunal du quartier de Queens tard dans la journée de lundi pour répondre de ces accusations. L'agence fédérale du FBI mène une enquête sur l'ensemble des événements survenus à bord de l'aéronef.\n\nLa compagnie Delta Air Lines a rappelé sa politique de tolérance zéro face aux comportements violents et a affirmé donner la priorité à la sécurité des usagers et de ses salariés. Les représentants de Selma Blair ont réagi publiquement par un communiqué officiel. L'équipe de la comédienne explique son comportement à bord par la survenue soudaine d'une urgence médicale personnelle durant le trajet aérien.\n\n## Ce que disent les sources\n\nLes médias rapportent des précisions divergentes sur le déroulement exact des violences dans l'avion. Le site Folha de S.Paulo, citant le média TMZ le 13 octobre 2026 à 01h11, affirme que Selma Blair a donné un coup de poing à une hôtesse de l'air et mordu une seconde employée. Les journaux El País le 13 octobre 2026 à 00h21 et Corriere della Sera le 13 octobre 2026 à 09h01 rapportent que l'actrice a tenté d'ouvrir la porte de l'avion en plein vol avant de s'en prendre physiquement à deux membres de l'équipage. Les communiqués de la police portuaire cités par NPR le 13 octobre 2026 à 00h18 mentionnent des violences physiques ayant blessé deux membres du personnel de cabine sans détailler la tentative d'ouverture de l'issue de secours.\n\nL'état de santé exact de l'actrice et la nature de son problème médical demeurent non précisés par les autorités médicales.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "sbsun.com",
+     "url": "https://sbsun.com/2026/10/12/selma-blair-flight"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html"
+    },
+    {
+     "nom": "whec.com",
+     "url": "https://whec.com/ap-top-news/selma-blair-arrested-in-new-york-after-an-alleged-assault-on-a-delta-flight"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/selma-blair-e-presa-apos-morder-comissaria-de-bordo-em-voo.shtml"
+    },
+    {
+     "nom": "indiatimes.com",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/actor-selma-blair-arrested-in-new-york-after-an-alleged-assault-on-a-delta-flight/articleshow/134905799.cms"
+    },
+    {
+     "nom": "watfordobserver.co.uk",
+     "url": "https://watfordobserver.co.uk/news/national/26630279.selma-blair-arrested-new-york-alleged-assault-delta-flight"
+    }
+   ],
+   "premiere_parution": "2026-10-12T02:00:00Z",
+   "suite_de": null,
+   "mots": 497,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-13-monde-001",
+  "2026-10-13-geopolitique-001",
+  "2026-10-13-culture-001",
+  "2026-10-13-geopolitique-002",
+  "2026-10-13-geopolitique-003",
+  "2026-10-13-geopolitique-004",
+  "2026-10-13-monde-002"
+ ]
+}

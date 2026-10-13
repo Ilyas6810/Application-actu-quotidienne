@@ -1,6 +1,53 @@
 {
- "maj": "2026-10-13T02:41:12Z",
+ "maj": "2026-10-13T10:45:21Z",
  "alertes": [
+  {
+   "id": "2026-10-13-alerte-03",
+   "date": "2026-10-13",
+   "publiee_a": "2026-10-13T10:45:21Z",
+   "titre": "Greta Thunberg rejoint les lycéens mobilisés en France ce mardi",
+   "texte": "La militante suédoise Greta Thunberg s'est rendue mardi 13 octobre 2026 devant un lycée de Saint-Denis pour soutenir la contestation scolaire en France. Les élèves réclament une amélioration de leurs conditions d'apprentissage avant des défilés prévus dans plusieurs villes du pays.",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-13/nuevas-manifestaciones-de-los-estudiantes-en-francia-ante-el-silencio-del-gobierno-frente-a-sus-reivindicaciones.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/greta-thunberg-se-junta-a-estudantes-em-protestos-na-franca.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/activista-greta-thunberg-suma-protestas-estudiantiles-francia-20261013103759-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/greta-thunberg-joins-french-teens-on-new-day-of-school-protests"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_13/francia-anche-greta-thunberg-tra-gli-studenti-in-protesta-il-governo-spera-nelle-vacanze-scolastiche-ma-tornano-i-gilet-gialli-0e8f04b7-cd1b-4e7b-9ded-2b01154d4xlk.shtml"
+    }
+   ],
+   "cluster": "32a6125041041ea3",
+   "urls": [
+    "https://abc.es/internacional/activista-greta-thunberg-suma-protestas-estudiantiles-francia-20261013103759-nt.html",
+    "https://aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests",
+    "https://corriere.it/esteri/26_ottobre_13/francia-anche-greta-thunberg-tra-gli-studenti-in-protesta-il-governo-spera-nelle-vacanze-scolastiche-ma-tornano-i-gilet-gialli-0e8f04b7-cd1b-4e7b-9ded-2b01154d4xlk.shtml",
+    "https://elpais.com/internacional/2026-10-13/nuevas-manifestaciones-de-los-estudiantes-en-francia-ante-el-silencio-del-gobierno-frente-a-sus-reivindicaciones.html",
+    "https://straitstimes.com/world/europe/greta-thunberg-joins-french-teens-on-new-day-of-school-protests",
+    "https://theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france",
+    "https://www1.folha.uol.com.br/mundo/2026/10/greta-thunberg-se-junta-a-estudantes-em-protestos-na-franca.shtml"
+   ]
+  },
   {
    "id": "2026-10-13-alerte-02",
    "date": "2026-10-13",

@@ -1,6 +1,61 @@
 {
- "maj": "2026-10-12T21:21:45Z",
+ "maj": "2026-10-13T02:41:12Z",
  "alertes": [
+  {
+   "id": "2026-10-13-alerte-02",
+   "date": "2026-10-13",
+   "publiee_a": "2026-10-13T02:41:12Z",
+   "titre": "L'acteur américain RJ Mitte est mort à l'âge de 34 ans",
+   "texte": "Le comédien américain RJ Mitte est mort à l'âge de 34 ans à Brownsville, au Texas. Son agent a confirmé sa disparition ce lundi 12 octobre 2026.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/rj-mitte-ist-tot-breaking-bad-schauspieler-mit-34-jahren-gestorben-a-3ef6ae8c-d90b-493c-8b04-3831e9b63d7b"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-10-12/muere-rj-mitte-el-actor-que-era-el-hijo-de-walter-white-en-breaking-bad-a-los-34-anos.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/tv/l-acteur-americain-rj-mitte-connu-pour-avoir-joue-le-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_8234557.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/culture/article/2026/10/13/l-acteur-rj-mitte-revele-par-son-role-du-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_6792909_3246.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmn045en7d88o"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/spettacoli/26_ottobre_12/morto-rj-mitte-il-walter-white-jr-di-breaking-bad-aveva-34-anni-c879ba39-456e-4b0d-a4ef-a9bb46360xlk.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/culture/20261013-acteur-rj-mitte-fils-walter-white-breaking-bad-mort-deces"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "cluster": "302c062d4c861256",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cmn045en7d88o",
+    "https://corriere.it/spettacoli/26_ottobre_12/morto-rj-mitte-il-walter-white-jr-di-breaking-bad-aveva-34-anni-c879ba39-456e-4b0d-a4ef-a9bb46360xlk.shtml",
+    "https://dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/entretenimiento/2026-10-12/muere-rj-mitte-el-actor-que-era-el-hijo-de-walter-white-en-breaking-bad-a-los-34-anos.html",
+    "https://france24.com/fr/culture/20261013-acteur-rj-mitte-fils-walter-white-breaking-bad-mort-deces",
+    "https://franceinfo.fr/culture/tv/l-acteur-americain-rj-mitte-connu-pour-avoir-joue-le-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_8234557.html",
+    "https://lemonde.fr/culture/article/2026/10/13/l-acteur-rj-mitte-revele-par-son-role-du-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_6792909_3246.html",
+    "https://rfi.fr/fr/culture/20261012-cin%C3%A9ma-l-acteur-rj-mitte-c%C3%A9l%C3%A8bre-notamment-pour-son-r%C3%B4le-dans-la-s%C3%A9rie-breaking-bad-est-mort",
+    "https://spiegel.de/panorama/rj-mitte-ist-tot-breaking-bad-schauspieler-mit-34-jahren-gestorben-a-3ef6ae8c-d90b-493c-8b04-3831e9b63d7b",
+    "https://theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+    "https://www1.folha.uol.com.br/ilustrada/2026/10/morre-o-ator-rj-mitte-que-fez-walter-white-jr-em-breaking-bad-aos-34-anos.shtml"
+   ]
+  },
   {
    "id": "2026-10-13-alerte-01",
    "date": "2026-10-13",

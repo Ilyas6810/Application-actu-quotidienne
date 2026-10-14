@@ -1,0 +1,438 @@
+{
+ "date": "2026-10-14",
+ "genere_a": "2026-10-14T05:39:03Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-14-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Duane Davis condamné à quarante ans de prison pour meurtre",
+   "chapeau": "L'ancien chef de gang Duane Davis a écopé d'une peine de quarante ans à la réclusion à perpétuité pour le meurtre du rappeur Tupac Shakur. La condamnation a été prononcée mardi 13 octobre 2026 dans un tribunal de Nevada aux États-Unis.",
+   "corps": "Un tribunal de Nevada a condamné Duane Davis, ancien dirigeant d'un gang de rue, à une peine allant de quarante ans à la prison à vie mardi 13 octobre 2026 selon Le Monde. Cette décision fait suite à sa reconnaissance de culpabilité pour le meurtre en premier degré du rappeur américain Tupac Shakur, commis en 1996, prononcée en août 2026 d'après Folha de S.Paulo du 14 octobre 2026.\n\nLe procès a examiné les déclarations faites par l'accusé dans ses mémoires concernant la nuit des faits, selon Libération du 14 octobre 2026. Les autorités ont établi que l'assassinat résultait de rivalités entre des groupes rivaux de Los Angeles, d'après The Hindu du 14 octobre 2026.\n\nLa défense de l'accusé a indiqué son intention de faire appel de la décision, selon Le Monde du 14 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c60rln2jvv2zo"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/meurtre-de-2pac-duane-davis-ancien-membre-dun-gang-de-compton-condamne-a-au-moins-40-ans-de-prison-20261013_OYVHDGAGTRBCPBD2TQZ3KKUY2Q"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/duane-davis-e-condenado-a-40-anos-de-prisao-por-morte-do-rapper-tupac-shakur.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261013-trente-ans-apr%C3%A8s-meurtre-tupac-shakur-son-meurtrier-condamn%C3%A9-40-ans-prison-minimum-duane-keffe-d-davis-gangs-las-vegas"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/tupac-shakur-bandenchef-duane-davis-erhaelt-mindestens-40-jahre-gefaengnis-a-6ddc434f-4147-428f-8520-367581648c02"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/13/oud-bendeleider-krijgt-veertig-jaar-cel-voor-de-moord-op-tupac-a4938904"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_13/omicidio-tupac-duane-davis-condannato-40-anni-carcere-b6d7143e-c7f0-4e47-82fd-ff24955bexlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-13T04:45:00Z",
+   "suite_de": null,
+   "mots": 177,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV opéré avec succès d'un cancer du poumon à Rome",
+   "chapeau": "Le Saint-Siège a annoncé le déroulement favorable de l'intervention chirurgicale subie par le pape Léon XIV le mardi 13 octobre 2026 à Rome. Les médecins ont retiré une tumeur cancéreuse située dans le poumon droit du souverain pontife âgé de 71 ans.",
+   "corps": "L'opération chirurgicale du pape Léon XIV s'est déroulée mardi après-midi à l'hôpital Gemelli de Rome. L'intervention a duré 90 minutes. Les chirurgiens ont extrait le lobe inférieur du poumon droit du chef de l'Église catholique pour retirer une croissance cancéreuse. Le Vatican a confirmé que l'acte médical s'est achevé conformément aux prévisions, sans complication.\n\nLe souverain pontife avait révélé lui-même sa situation médicale dimanche lors de la prière de l'Angélus sur la place Saint-Pierre. Il avait informé les fidèles de la présence d'un petit nodule pulmonaire localisé et détecté tôt. Il s'agit du premier séjour hospitalier du pape depuis son élection à la tête de l'Église catholique le 8 mai 2025.\n\nLe pape Léon XIV poursuit actuellement sa période de convalescence au sein de l'établissement hospitalier romain.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-leos-lung-operation-successfully-completed-vatican"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck1wvd9dvv22o"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pope-leo-xiv-cancer-surgery-current-health-update/article71582161.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-11T10:45:10Z",
+   "suite_de": "2026-10-13-monde-005",
+   "mots": 169,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Russie place en détention un journaliste japonais accusé d'espionnage",
+   "chapeau": "Les autorités russes ont arrêté un reporter japonais sur l'île de Sakhaline le 13 octobre 2026. Le Service fédéral de sécurité accuse ce correspondant de rassembler des renseignements sur les capacités militaires nationales au profit de Tokyo.",
+   "corps": "Le Service fédéral de sécurité russe, nommé FSB, a annoncé l'interpellation d'un journaliste japonais sur son site officiel le 13 octobre 2026. Une juridiction russe a ordonné le placement en détention provisoire de ce citoyen étranger pour une durée de deux mois. Les forces de l'ordre ont appréhendé le suspect sur l'île de Sakhaline, située dans l'Extrême-Orient russe. Les autorités ont ensuite transféré la personne arrêtée vers Moscou.\n\nLe FSB affirme que l'informateur tentait d'obtenir des données sur le potentiel de défense russe pour le compte des services de renseignement du Japon. La porte-parole du ministère des affaires étrangères de Russie, Maria Zakharova, a identifié le journaliste sous le nom de Yuki Imai. Cette responsable a confirmé son appartenance au quotidien régional japonais Hokkaido Shimbun. Le ministère russe lui reproche officiellement des opérations d'espionnage.\n\nLe reporter détenait une accréditation professionnelle selon les éléments rapportés le 13 octobre 2026. Avant son arrestation, il préparait une enquête sur les personnes résidant dans l'archipel des Kouriles. Son travail portait sur les volontaires issus de ces îles déployés sur la ligne de front dans la guerre en Ukraine. L'ancien président russe Dmitri Medvedev a mentionné la nécessité de renouveler la réserve de détenus occidentaux en vue de futurs échanges de prisonniers.\n\nLe gouvernement de Tokyo a demandé des précisions aux autorités russes après l'annonce de cette mesure coercitive. L'arrestation s'inscrit dans un cadre de relations diplomatiques tendues entre Moscou et Tokyo. Les observateurs relèvent que cette capture suit d'autres arrestations qualifiées d'actes à motifs politiques.\n\nLa réaction directe du journal Hokkaido Shimbun ainsi que celle de l'avocat du journaliste ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-13/russia-arrests-japanese-journalist-for-espionage-interfax-says"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-detains-japanese-journalist-on-suspicion-of-spying"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-13/rusia-encarcela-a-un-periodista-japones-bajo-el-pretexto-de-supuesto-espionaje.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/la-russie-arrete-un-journaliste-japonais-accuse-despionnage-20261013_76HFUQEURFFQPB4UDVXPS7YYKU"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/spionage-russland-japanischer-journalist-wegen-recherchen-auf-kurilen-festgenommen-a-19596101-0bd1-4be7-9797-44def526985d"
+    },
+    {
+     "nom": "en.people.cn",
+     "url": "https://en.people.cn/n3/2026/1014/c90000-20508230.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
+    }
+   ],
+   "premiere_parution": "2026-10-13T15:45:45Z",
+   "suite_de": null,
+   "mots": 309,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un homme meurt après une chute sur une attraction en Géorgie",
+   "chapeau": "Un homme a perdu la vie lundi 12 octobre 2026 dans une attraction du parc Six Flags Over Georgia situé près d'Atlanta aux États-Unis. Plusieurs autres usagers ont subi des blessures durant cet événement survenu sur le grand huit Goliath.",
+   "corps": "La police du comté de Cobb a identifié la victime mardi 13 octobre 2026. L'homme décédé se nommait Hassan Jihad Ibn Kariem. Cet habitant de la ville d'Atlanta avait 42 ans. Sa famille a précisé qu'il travaillait dans le domaine de l'éducation. Il était le père d'une fille âgée de 10 ans. Ses proches ont également indiqué qu'il avait surmonté deux cancers au cours de sa vie.\n\nLes services de police locaux indiquent que l'homme a été éjecté de son siège pendant que le manège était en marche. La victime est tombée au sol lors de ce déplacement. Les secours ont constaté son décès sur les lieux de l'attraction. Des témoins présents sur le site ont rapporté la scène aux médias locaux et à la police.\n\nL'entreprise Six Flags gère ce parc d'attractions situé dans la localité de Mableton en Géorgie. Après le drame, la direction du groupe a ordonné l'arrêt de neuf manèges comparables répartis dans six parcs différents aux États-Unis. Un représentant de la société a affirmé que cette mesure temporaire répondait à un principe de précaution. Le journal allemand Der Spiegel a rappelé le 13 octobre 2026 à 13 heures 12 que ce parc avait déjà connu un accident mortel par le passé.\n\n## Ce que disent les sources\n\nLe bilan précis des personnes blessées varie selon les comptes rendus disponibles.\n\nLe portail d'actualité Wikipédia comptabilisait quatre personnes blessées lors de son point du 12 octobre 2026 à 16 heures 00.\n\nLe quotidien britannique The Guardian indiquait le 13 octobre 2026 à 08 heures 27 que plusieurs usagers avaient subi des lésions, sans publier de chiffre précis. Le journal brésilien Folha de S.Paulo le 13 octobre 2026 à 16 heures 45 et la chaîne britannique BBC News le 14 octobre 2026 à 03 heures 42 ont également employé le terme de plusieurs blessés.\n\nLe journal espagnol ABC a précisé le 13 octobre 2026 à 10 heures 29 que la police du comté de Cobb refusait pour le moment de détailler la nature exacte des traumatismes subis par ces usagers.\n\nL'enquête en cours n'a pas encore déterminé la cause mécanique ou humaine de l'éjection de la victime.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_12?evenement=0741a2c11e"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/muere-persona-tras-caer-montana-rusa-parque-20261013082939-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/six-flags-freizeitpark-schliesst-mehrere-achterbahnen-nach-toedlichem-unfall-a-2f51a33a-abec-4376-9876-1f147cc8cf50"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/o-acidente-em-montanha-russa-do-six-flags-que-deixou-um-morto-e-varios-feridos-nos-estados-unidos.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6n4ejx8x1z7o"
+    },
+    {
+     "nom": "theboneonline.com",
+     "url": "https://theboneonline.com/news/trending/man-who-died-six-flags-over-georgia-roller-coaster-incident-identified/A5GBL6NLTVG73KMDLQKUAVNL3E"
+    }
+   ],
+   "premiere_parution": "2026-10-12T12:00:00Z",
+   "suite_de": null,
+   "mots": 399,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Katie Zacharia prend ses fonctions de porte parole de la Maison Blanche",
+   "chapeau": "Katie Zacharia a tenu sa première conférence de presse mardi 13 octobre 2026 à Washington. La nouvelle porte-parole du président américain Donald Trump a succédé à Karoline Leavitt.",
+   "corps": "Katie Zacharia a fait sa première apparition officielle devant les journalistes mardi 13 octobre 2026 (source iheart.com, 13/10/2026). La nouvelle porte-parole de la Maison Blanche a prononcé une brève allocution et a pris un petit nombre de questions avant de quitter le pupitre (source chicagotribune.com, 13/10/2026). Sa prestation a duré quatorze minutes selon The Guardian (source The Guardian, 13/10/2026).\n\nAvant d'occuper ce poste, Katie Zacharia a travaillé pour une entreprise de Donald Trump et a été porte-parole du Département pour la Sécurité intérieure (sources NPR, 13/10/2026 et Corriere della Sera, 13/10/2026). Elle remplace Karoline Leavitt à l'approche des élections de mi-mandat prévues en novembre (sources iheart.com, 13/10/2026 et Al Jazeera, 13/10/2026).\n\nCertaines sources décrivent son intervention comme nerveuse et manquant d'assurance (source El País, 13/10/2026), tandis que d'autres évoquent une diffusion de théories du complot par le passé (source NPR, 13/10/2026).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga"
+    },
+    {
+     "nom": "iheart.com",
+     "url": "https://ktok.iheart.com/content/2026-10-12-new-white-house-press-secretary-to-hold-first-presser-tuesday"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-13/la-nueva-portavoz-de-la-casa-blanca-se-estrena-en-una-breve-y-torpe-comparecencia-sin-apenas-preguntas.html"
+    },
+    {
+     "nom": "chicagotribune.com",
+     "url": "https://chicagotribune.com/2026/10/13/katie-zacharia-new-trump-press-secretary"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/il-primo-punto-stampa-della-nuova-portavoce-di-trump-katie-zacharia-onorata-di-lavorare-per-il-presidente-e-per-il-popolo-americano/2f11d793-7e87-4e5f-ac57-2deae335fxlk"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing"
+    },
+    {
+     "nom": "boston.com",
+     "url": "https://boston.com/news/politics/2026/10/13/katie-zacharia-trumps-new-white-house-press-secretary-makes-a-brief-appearance-before-reporters"
+    }
+   ],
+   "premiere_parution": "2026-10-12T22:17:43Z",
+   "suite_de": null,
+   "mots": 190,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'ambassadrice américaine en Grèce Kimberly Guilfoyle démissionne après des accusations",
+   "chapeau": "La Maison Blanche a demandé mardi 13 octobre 2026 la démission de Kimberly Guilfoyle, ambassadrice des États-Unis en Grèce. La diplomate a quitté ses fonctions à la suite de révélations sur des manquements éthiques et des soupçons de corruption.",
+   "corps": "La présidence américaine a mis fin à la mission diplomatique de Kimberly Guilfoyle à Athènes. La nouvelle porte-parole de la Maison Blanche, Katie Zacharia, a formulé cette requête mardi 13 octobre 2026 au matin. La décision est intervenue après la diffusion de plusieurs articles de presse mettant en cause la représentante officielle des États-Unis.\n\nKimberly Guilfoyle a publié un message sur le réseau social X ce même mardi pour annoncer son départ. Elle a affirmé que l'exercice de cette fonction constituait l'honneur de sa vie. Elle a rejeté l'ensemble des reproches formulés contre elle et a qualifié ces imputations de fausses.\n\nDes organes de presse américains, dont The Wall Street Journal, ont documenté les agissements reprochés à la diplomate avant et pendant son mandat en Grèce. Les enquêtes journalistiques rapportent que l'ambassadrice aurait sollicité des sommes d'argent, des cadeaux inappropriés ainsi que des faveurs diverses. Selon ces publications, elle proposait en contrepartie d'ouvrir des accès directs auprès de hauts fonctionnaires de l'administration fédérale dirigée par Donald Trump.\n\nLe quotidien espagnol ABC rapporte le 13 octobre 2026 à 21 h 34 qu'un donateur républicain s'est vu demander de verser 100 000 dollars sur la carte de crédit de Kimberly Guilfoyle. Le journal italien Corriere della Sera mentionne également ce 13 octobre 2026 à 19 h 44 une demande de prêt de 100 000 dollars adressée à un donateur. Ce même titre d'information relève des interventions liées à des lobbyistes, l'usage d'avions privés et la promotion d'une entreprise commerciale grecque.\n\nLe président américain Donald Trump a exprimé son mécontentement face aux comptes rendus publiés dans les journaux sur cette affaire de pots-de-vin et d'écarts aux règles éthiques. Donald Trump avait auparavant indiqué qu'il envisageait de renvoyer la diplomate de son poste. Mardi, le chef de l'État a salué le travail accompli par Kimberly Guilfoyle tout en manifestant sa contrariété concernant les faits étalés par les médias.\n\nLa diplomate comptait parmi les fidèles de longue date du chef de l'État américain. Donald Trump l'avait désignée pour ce poste d'ambassadrice en Grèce au mois de décembre 2024. À cette période, Kimberly Guilfoyle était fiancée avec le fils aîné du président, Donald Trump Jr. Cette ancienne animatrice de la chaîne de télévision Fox News a également partagé la vie de Gavin Newsom, l'actuel gouverneur de Californie.\n\nLes révélations de presse ont provoqué de vives critiques au sein du monde politique quant à la légalité des actions menées par la diplomate durant son affectation européenne. La porte-parole Katie Zacharia a officialisé ce départ lors de ses premières interventions publiques au nom de la présidence américaine. Cette éviction clôt le parcours diplomatique de l'ancienne présentatrice en Grèce.\n\nLes détails complets sur l'issue judiciaire de ces accusations de corruption ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_13/chi-e-guilfoyle-ambasciatrice-usa-grecia-9ed1e992-623d-4000-bfca-a09e020edxlk.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-10-13/us-ambassador-to-greece-resigns-over-corruption-after-pressure-from-trump.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/acusaciones-corrupcion-trump-exige-dimision-embajadora-grecia-20261013183331-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/trump-demite-embaixadora-dos-eua-na-grecia-apos-suspeita-de-corrupcao.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-11T18:34:10Z",
+   "suite_de": null,
+   "mots": 497,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump maintient son projet d importation de diesel russe",
+   "chapeau": "Le président américain Donald Trump défend son projet commercial avec Moscou malgré les alertes de ses alliés et du Congrès. Cette initiative vise à freiner les tarifs des carburants aux États-Unis à l approche d échéances électorales.",
+   "corps": "Donald Trump a convenu avec Vladimir Poutine d autoriser l arrivée de carburant russe sur les marchés américain et mondial, ce qui suscite de vives oppositions internationales depuis le week-end du 11 octobre 2026.\n\nDonald Trump soutient toujours cette transaction énergétique avec la Russie. Le chef d État lie cette mesure à la hausse des coûts du carburant. Le prix du diesel a atteint un niveau record aux États-Unis en septembre selon NPR le 14 octobre 2026 à 00h03. Donald Trump cherche à faire baisser ces montants avant les élections de mi-mandat prévues dans trois semaines selon Le Monde le 13 octobre 2026 à 07h31. Les analystes interrogés par les médias jugent toutefois improbable une diminution marquée des cours.\n\nDes sénateurs démocrates et républicains contestent cette décision. Ces élus soulignent un risque de violation des textes législatifs relatifs aux sanctions. Le projet suscite également des désaccords avec les partenaires européens de Washington et accentue les tensions avec Kiev. Selon The Straits Times, des sources indiquent que Washington espère adoucir la position russe et favoriser une reprise des négociations de paix. Donald Trump a également évoqué un arrêt des frappes énergétiques entre Moscou et Kiev d après The Hindu.\n\nUne rumeur a circulé sur les réseaux sociaux au sujet d une première cargaison de carburant russe déjà acheminée par la mer vers le territoire américain. Des comptes favorables à Moscou ont relayé cette affirmation. Le navire mis en cause transportait en réalité des fertilisants agricoles et n a pas déchargé de diesel.\n\n## Ce que disent les sources\n\nLa Croix indique le 12 octobre 2026 à 19h05 que Donald Trump a annoncé l accord le samedi 10 octobre 2026. France 24 mentionne de son côté le 13 octobre 2026 à 19h57 une annonce présidentielle formulée le 9 octobre 2026.\n\nLe volume exact de carburant prévu par cet arrangement reste non précisé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/12/wat-gaat-de-dieseldeal-tussen-trump-en-poetin-betekenen-voor-de-prijzen-a4938796"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/diesel-russe-l-accord-trump-poutine-suffira-t-il-a-faire-baisser-les-prix-20261012"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5bc438a0-26b7-4893-9d62-1f45d2963eef?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/deal-sur-le-diesel-avec-donald-trump-vladimir-poutine-a-encore-rafle-la-mise-20261012_PYZZVH4V75FHFBDFV5Z4VEE3JU"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-us-senatoren-kritisieren-trumps-diesel-deal-mit-russland-a-383b9a00-b9e4-4901-9a7b-41e3a2aeaa5a"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-13/trump-s-diesel-deal-irks-allies-and-is-unlikely-to-reduce-prices"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-11T09:37:38Z",
+   "suite_de": "2026-10-13-geopolitique-001",
+   "mots": 346,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-14-culture-001",
+   "rubrique": "culture",
+   "format": "breve",
+   "titre": "L actress americaine Selma Blair comparaît apres des violences en vol",
+   "chapeau": "L actrice Selma Blair a comparu lundi 12 octobre 2026 a New York apres des faits de violence commis dans un avion. Les autorites judiciaires l accusent d agressions sur le personnel navigant et sur des agents au sol.",
+   "corps": "Arretee a l aeroport international John Fitzgerald Kennedy dans la nuit du dimanche 11 octobre 2026, l actrice Selma Blair a comparu devant un tribunal du borough de Queens lundi 13 octobre 2026, selon whec.com du 13 octobre 2026 a 01:10. La police locale l accuse d avoir frappe et mordu deux membres du personnel navigant d un appareil de la compagnie Delta Air Lines reliant Los Angeles a New York, d apres The Guardian du 13 octobre 2026 a 07:28.\n\nLes enqueteurs imputent egalement a l actrice des tentatives d ouverture d une porte de l avion en plein vol, d apres El Pais du 13 octobre 2026 a 00:21. Le Federal Bureau of Investigation (bureau federal d enquetes americain) mene des investigations sur cet incident, d apres BBC News du 13 octobre 2026 a 08:52.\n\nEn outre, la justice poursuit Selma Blair pour deux chefs d inculpation supplementaires pour des faits de violence contre un agent de police et un infirmier intervenus apres l atterrissage, d apres The Guardian du 13 octobre 2026 a 07:28. L actrice et un membre du personnel navigant ont ete conduits dans un hopital pour des examens medicaux, d apres watfordobserver.co.uk du 13 octobre 2026 a 04:00.\n\n## Ce que disent les sources\n\nLe management de Selma Blair attribue le comportement de l actrice a une urgence medicale survenue a bord de l appareil, d apres Der Spiegel du 13 octobre 2026 a 00:06.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html"
+    },
+    {
+     "nom": "whec.com",
+     "url": "https://whec.com/ap-top-news/selma-blair-arrested-in-new-york-after-an-alleged-assault-on-a-delta-flight"
+    },
+    {
+     "nom": "watfordobserver.co.uk",
+     "url": "https://watfordobserver.co.uk/news/national/26630279.selma-blair-arrested-new-york-alleged-assault-delta-flight"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw80z7edrk80o"
+    },
+    {
+     "nom": "sbsun.com",
+     "url": "https://sbsun.com/2026/10/12/selma-blair-flight"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation"
+    }
+   ],
+   "premiere_parution": "2026-10-12T02:00:00Z",
+   "suite_de": "2026-10-13-culture-001",
+   "mots": 289,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-14-geopolitique-001",
+  "2026-10-14-monde-001",
+  "2026-10-14-monde-002",
+  "2026-10-14-monde-003",
+  "2026-10-14-monde-004",
+  "2026-10-14-geopolitique-002",
+  "2026-10-14-culture-001",
+  "2026-10-14-monde-005"
+ ]
+}

@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-13T07:21:00Z",
- "derniere": "2026-10-13",
+ "maj": "2026-10-14T05:39:03Z",
+ "derniere": "2026-10-14",
  "editions": [
+  {
+   "date": "2026-10-14",
+   "genere_a": "2026-10-14T05:39:03Z",
+   "articles": 8,
+   "une": [
+    "L'ambassadrice américaine en Grèce Kimberly Guilfoyle démissionne après des accusations",
+    "Duane Davis condamné à quarante ans de prison pour meurtre",
+    "Le pape Léon XIV opéré avec succès d'un cancer du poumon à Rome"
+   ],
+   "octets": 29689
+  },
   {
    "date": "2026-10-13",
    "genere_a": "2026-10-13T07:21:00Z",

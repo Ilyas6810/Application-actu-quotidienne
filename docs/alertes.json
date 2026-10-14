@@ -1,6 +1,76 @@
 {
- "maj": "2026-10-14T00:23:32Z",
+ "maj": "2026-10-14T23:58:58Z",
  "alertes": [
+  {
+   "id": "2026-10-15-alerte-01",
+   "date": "2026-10-15",
+   "publiee_a": "2026-10-14T23:58:58Z",
+   "titre": "Le Paris Saint-Germain bat Manchester City en Ligue des champions",
+   "texte": "Le Paris Saint-Germain a battu Manchester City quatre buts à deux, mercredi 14 octobre 2026 en Angleterre, lors de la deuxième journée de la compétition européenne. Les Parisiens menaient trois buts à zéro après une demi-heure de jeu avant de concéder deux réalisations d'Erling Haaland.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/champions-league-manchester-city-unterliegt-paris-saint-germain-a-3cdd5311-497b-4346-b072-e6ce37f8d725"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/14/manchester-city-psg-le-resume-de-la-victoire-spectaculaire-du-paris-saint-germain-resistant-face-aux-cityzens-en-ligue-des-champions_6793830_3242.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261014-ligue-champions-psg-remporte-nouveau-choc-europeen-face-manchester-city-fc-barcelone-football-desire-doue-ousmane-dembele-vitinha"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Article/L-un-des-plus-beaux-matches-de-l-histoire-de-la-phase-de-ligue-de-la-c1-ce-manchester-city-psg-a-ete-un-condense-du-meilleur-du-football-europeen/1735853"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/les-notes-du-psg-a-manchester-city-la-classe-de-doue-et-vitinha-pour-des-parisiens-aux-deux-visages-20261014"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/futbol/psg-deja-sello-campeon-ante-city-20261014230932-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/directs/direct-manchester-city-psg-les-parisiens-face-a-leur-premier-gros-test-de-la-saison-suivez-et-commentez-le-match-de-ligue-des-champions-avec-nous_8237326.html"
+    }
+   ],
+   "cluster": "662cb512c77a0873",
+   "urls": [
+    "https://abc.es/deportes/futbol/psg-deja-sello-campeon-ante-city-20261014230932-nt.html",
+    "https://aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams",
+    "https://aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller",
+    "https://bbc.co.uk/sport/football/videos/cqp8gn9x801po",
+    "https://france24.com/fr/sports/20261014-ligue-champions-psg-remporte-nouveau-choc-europeen-face-manchester-city-fc-barcelone-football-desire-doue-ousmane-dembele-vitinha",
+    "https://franceinfo.fr/sports/directs/direct-manchester-city-psg-les-parisiens-face-a-leur-premier-gros-test-de-la-saison-suivez-et-commentez-le-match-de-ligue-des-champions-avec-nous_8237326.html",
+    "https://franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-brillant-puis-bouscule-le-psg-s-offre-un-succes-de-prestige-sur-la-pelouse-de-manchester-city_8237701.html",
+    "https://franceinfo.fr/sports/foot/ligue-des-champions/pourquoi-le-choc-de-ligue-des-champions-contre-manchester-city-sera-le-premier-barometre-de-la-saison-du-psg_8235658.html",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/les-notes-du-psg-a-manchester-city-la-classe-de-doue-et-vitinha-pour-des-parisiens-aux-deux-visages-20261014",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-grace-a-un-premier-acte-merveilleux-le-psg-s-adjuge-le-choc-contre-manchester-city-20261014",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/manchester-city-psg-en-video-le-but-du-ballon-d-or-dembele-qui-met-les-anglais-k-o-debout-20261014",
+    "https://lefigaro.fr/sports/football/live/ligue-des-champions/2026/2685402/man-city-paris-sg",
+    "https://lefigaro.fr/sports/football/manchester-city-psg-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-en-direct-20261014",
+    "https://lemonde.fr/sport/article/2026/10/14/manchester-city-psg-le-resume-de-la-victoire-spectaculaire-du-paris-saint-germain-resistant-face-aux-cityzens-en-ligue-des-champions_6793830_3242.html",
+    "https://lemonde.fr/sport/article/2026/10/14/manchester-city-psg-longtemps-la-risee-des-anglais-paris-est-desormais-redoute-outre-manche_6793752_3242.html",
+    "https://lemonde.fr/sport/live/2026/10/14/en-direct-manchester-city-psg-suivez-le-match-de-ligue-des-champions_6793781_3242.html",
+    "https://lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-manchester-city-psg-en-ligue-des-champions/1725476",
+    "https://lequipe.fr/Football/Actualites/Bien-que-largement-devant-face-a-manchester-city-le-psg-concede-beaucoup-d-occasions/1735831",
+    "https://lequipe.fr/Football/Actualites/Deux-buts-en-1-39-un-doue-tres-inspire-comment-le-psg-a-assomme-manchester-city-des-le-premier-quart-d-heure/1735813",
+    "https://lequipe.fr/Football/Actualites/Face-a-manchester-city-le-trio-du-psg-doue-dembele-akliouche-a-connu-100-de-reussite-sur-ses-frappes/1735850",
+    "https://lequipe.fr/Football/Actualites/Souverain-en-premiere-periode-puis-bouscule-le-psg-s-impose-largement-sur-la-pelouse-de-manchester-city/1735834",
+    "https://lequipe.fr/Football/Article/L-un-des-plus-beaux-matches-de-l-histoire-de-la-phase-de-ligue-de-la-c1-ce-manchester-city-psg-a-ete-un-condense-du-meilleur-du-football-europeen/1735853",
+    "https://lequipe.fr/Football/Article/Les-notes-de-manchester-city-psg-la-lumiere-doue-le-phare-haaland/1735839",
+    "https://rfi.fr/fr/sports/20261014-ligue-des-champions-le-psg-domine-manchester-city-au-terme-d-un-match-de-folie",
+    "https://spiegel.de/sport/fussball/champions-league-manchester-city-unterliegt-paris-saint-germain-a-3cdd5311-497b-4346-b072-e6ce37f8d725",
+    "https://www1.folha.uol.com.br/esporte/2026/10/psg-domina-o-city-na-inglaterra-e-vira-lider-da-champions-league.shtml"
+   ]
+  },
   {
    "id": "2026-10-14-alerte-01",
    "date": "2026-10-14",
@@ -1182,182 +1252,6 @@
     "https://lemonde.fr/societe/article/2026/10/07/face-au-mouvement-lyceen-le-gouvernement-se-donne-du-temps-au-risque-de-l-enlisement_6789649_3224.html",
     "https://lemonde.fr/societe/live/2026/10/07/en-direct-mobilisation-lyceenne-sebastien-lecornu-annonce-le-lancement-de-cinq-chantiers-avec-de-premieres-decisions-fin-octobre_6788487_3224.html",
     "https://liberation.fr/politique/allocution-de-sebastien-lecornu-quatre-crises-et-une-mesure-20261007_3QSWOUHA2ZDJXB3WHQGO56H6VE"
-   ]
-  },
-  {
-   "id": "2026-10-07-alerte-03",
-   "date": "2026-10-07",
-   "publiee_a": "2026-10-07T06:07:26Z",
-   "titre": "Israël commémore les victimes de l'attaque du Hamas du 7 octobre 2023",
-   "texte": "Les citoyens israéliens observent une minute de silence ce mercredi 7 octobre 2026 pour marquer le troisième anniversaire de l'offensive menée par le Hamas. Des hommages se déroulent sur les sites touchés ainsi qu'au siège des Nations Unies, sur fond de divisions politiques et d'enquêtes sur les défaillances sécuritaires.",
-   "sources": [
-    {
-     "nom": "ONU Info",
-     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159617"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/huella-indeleble-israel-sabido-iba-ver-pedido-20261004011805-nt.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/apos-3-anos-7-de-outubro-mobiliza-memoria-politica-e-medos-de-judeus-em-israel.shtml"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/trois-ans-apres-le-7-octobre-israel-mine-par-le-deuil-la-guerre-et-les-divisions-20261007"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/en-israel-trois-ans-apres-le-7-octobre-le-climat-d-insecurite-demeure-nous-sommes-encore-dans-le-trauma-20261006"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/%C3%A9missions/dans-la-presse/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-face-%C3%A0-l-ab%C3%AEme"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html"
-    }
-   ],
-   "cluster": "6a84ef4afaedf8f3",
-   "urls": [
-    "https://abc.es/internacional/huella-indeleble-israel-sabido-iba-ver-pedido-20261004011805-nt.html",
-    "https://france24.com/fr/%C3%A9missions/dans-la-presse/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-face-%C3%A0-l-ab%C3%AEme",
-    "https://france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261006-comment-le-7-octobre-a-transform%C3%A9-isra%C3%ABl",
-    "https://france24.com/fr/moyen-orient/20261007-trois-ans-apres-israel-commemore-attaques-7-octobre-elections-netanyahu",
-    "https://franceinfo.fr/monde/israel/direct-commemorations-du-7-octobre-israel-rend-hommage-aux-victimes-de-l-attaque-trois-ans-apres_8226256.html",
-    "https://la-croix.com/international/en-israel-trois-ans-apres-le-7-octobre-le-climat-d-insecurite-demeure-nous-sommes-encore-dans-le-trauma-20261006",
-    "https://lefigaro.fr/international/trois-ans-apres-le-7-octobre-israel-mine-par-le-deuil-la-guerre-et-les-divisions-20261007",
-    "https://lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
-    "https://news.un.org/feed/view/fr/story/2026/10/1159617",
-    "https://www1.folha.uol.com.br/mundo/2026/10/apos-3-anos-7-de-outubro-mobiliza-memoria-politica-e-medos-de-judeus-em-israel.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-07-alerte-01",
-   "date": "2026-10-07",
-   "publiee_a": "2026-10-06T22:43:28Z",
-   "titre": "La condamnée à mort Christa Pike est consciente dans le Tennessee",
-   "texte": "Les avocats de Christa Pike ont annoncé mardi que la détenue américaine a repris conscience et peut parler à l'hôpital. La femme de 50 ans a survécu à une tentative d'exécution par injection létale le 30 septembre dans le Tennessee.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/tennessee-execution-survivor-christa-pike-is-conscious-and-speaking-lawyers-say"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/apres-son-execution-ratee-christa-pike-a-repris-connaissance-et-parle-selon-ses-avocats-20261006"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-10-06/christa-pike-recupera-la-conciencia-y-habla-seis-dias-despues-de-sobrevivir-a-su-ejecucion-en-tennessee.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c8kgezxn54qko"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/mujer-sobrevivio-ejecucion-eeuu-consciente-hablando-segun-20261006234415-nt.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/am%C3%A9riques/20261006-etats-unis-tennessee-execution-ratee-christa-pike-repris-connaissance-peut-parler"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake"
-    }
-   ],
-   "cluster": "a7a21ae03ecf8613",
-   "urls": [
-    "https://abc.es/internacional/estado-critico-conectada-respirador-medicos-luchan-desintoxicar-20261005104253-nt.html",
-    "https://abc.es/internacional/mujer-sobrevivio-ejecucion-eeuu-consciente-hablando-segun-20261006234415-nt.html",
-    "https://bbc.co.uk/news/articles/c8kgezxn54qko",
-    "https://boston.com/news/crime/2026/10/06/christa-pike-is-conscious-and-speaking-at-a-hospital-nearly-a-week-after-tennessees-failed-execution-her-attorneys-say",
-    "https://elpais.com/us/2026-10-06/christa-pike-recupera-la-conciencia-y-habla-seis-dias-despues-de-sobrevivir-a-su-ejecucion-en-tennessee.html",
-    "https://france24.com/fr/am%C3%A9riques/20261006-etats-unis-tennessee-execution-ratee-christa-pike-repris-connaissance-peut-parler",
-    "https://franceinfo.fr/monde/usa/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle-annoncent-ses-avocats_8225854.html",
-    "https://franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html",
-    "https://huntspost.co.uk/news/national/26613538.christa-pike-conscious-speaking-tennessee-failed-execution---lawyers",
-    "https://illawarramercury.com.au/story/9363967/tennessee-execution-survivor-conscious-and-speaking",
-    "https://lefigaro.fr/international/apres-son-execution-ratee-christa-pike-a-repris-connaissance-et-parle-selon-ses-avocats-20261006",
-    "https://lefigaro.fr/international/dans-un-etat-critique-apres-son-execution-ratee-christa-pike-est-toujours-hospitalisee-20261005",
-    "https://liberation.fr/international/amerique/aux-etats-unis-christa-pike-est-toujours-dans-un-etat-critique-apres-son-execution-ratee-20261004_4HQO7UE6GJEUTMZRHWD6R4626U",
-    "https://npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
-    "https://spiegel.de/ausland/tennessee-christa-pike-ist-nach-missglueckter-hinrichtung-wieder-bei-bewusstsein-a-881919ad-4489-48f1-ba78-88a33c1ff77f",
-    "https://straitstimes.com/world/united-states/tennessee-execution-survivor-christa-pike-is-conscious-and-speaking-lawyers-say",
-    "https://theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
-    "https://www1.folha.uol.com.br/mundo/2026/10/mulher-que-sobreviveu-a-injecoes-letais-nos-eua-esta-consciente-e-falando-dizem-seus-advogados.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-07-alerte-02",
-   "date": "2026-10-07",
-   "publiee_a": "2026-10-06T22:47:56Z",
-   "titre": "Cristiano Ronaldo accuse Jorge Jesus de ne pas avoir tenu sa parole",
-   "texte": "Mardi 6 octobre 2026, Cristiano Ronaldo a publié un communiqué pour expliquer son départ de la sélection portugaise à Copenhague. Le footballeur accuse l'entraîneur Jorge Jesus de ne pas avoir tenu ses engagements envers lui.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/futbol/2026-10-06/cristiano-acusa-a-jorge-jesus-de-mentir-e-incumplir-su-palabra.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Cristiano-ronaldo-explique-son-depart-precipite-du-rassemblement-du-portugal-le-selectionneur-n-a-pas-tenu-parole/1723859"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-acusa-jorge-jesus-de-quebrar-promessas-mas-deixa-em-aberto-retorno-a-selecao-de-portugal.shtml"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/cristiano-pide-perdon-portugueses-acusa-seleccionador-faltar-20261006215713-nt.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/le-selectionneur-n-a-pas-tenu-sa-parole-apres-son-depart-du-rassemblement-portugais-cristiano-ronaldo-sort-du-silence-20261006"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/cmd7qn48q13lo"
-    }
-   ],
-   "cluster": "488aeb7bcdd27e64",
-   "urls": [
-    "https://abc.es/deportes/cristiano-pide-perdon-portugueses-acusa-seleccionador-faltar-20261006215713-nt.html",
-    "https://aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus",
-    "https://aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus",
-    "https://aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise",
-    "https://bbc.co.uk/sport/football/articles/c3dxwry8vydvo",
-    "https://bbc.co.uk/sport/football/articles/cmd7qn48q13lo",
-    "https://bbc.co.uk/sport/football/videos/ckn8wjezz462o",
-    "https://elpais.com/deportes/futbol/2026-10-06/cristiano-acusa-a-jorge-jesus-de-mentir-e-incumplir-su-palabra.html",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/cristiano-ronaldo-le-pathetique-feuilleton-du-portugal-et-le-dernier-caprice-d-une-legende-20261005",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/le-selectionneur-n-a-pas-tenu-sa-parole-apres-son-depart-du-rassemblement-portugais-cristiano-ronaldo-sort-du-silence-20261006",
-    "https://lequipe.fr/Football/Actualites/-c-est-a-lui-de-decider-jorge-jesus-laisse-la-porte-ouverte-a-un-retour-de-cristiano-ronaldo-avec-le-portugal/1723466",
-    "https://lequipe.fr/Football/Actualites/Cristiano-ronaldo-explique-son-depart-precipite-du-rassemblement-du-portugal-le-selectionneur-n-a-pas-tenu-parole/1723859",
-    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261006-sele%C3%A7ao-la-fin-de-l-%C3%A8re-cristiano-ronaldo",
-    "https://theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises",
-    "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-acusa-jorge-jesus-de-quebrar-promessas-mas-deixa-em-aberto-retorno-a-selecao-de-portugal.shtml",
-    "https://www1.folha.uol.com.br/esporte/2026/10/se-cristiano-quiser-voltara-a-selecao-diz-jorge-jesus.shtml"
    ]
   }
  ]

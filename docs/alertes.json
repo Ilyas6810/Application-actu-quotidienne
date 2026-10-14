@@ -1,6 +1,131 @@
 {
- "maj": "2026-10-13T10:45:21Z",
+ "maj": "2026-10-14T00:23:32Z",
  "alertes": [
+  {
+   "id": "2026-10-14-alerte-01",
+   "date": "2026-10-14",
+   "publiee_a": "2026-10-14T00:22:08Z",
+   "titre": "Andy Burnham reçoit Volodymyr Zelensky à Londres ce mercredi pour réaffirmer son soutien",
+   "texte": "Le premier ministre britannique Andy Burnham accueille le président ukrainien Volodymyr Zelensky à Downing Street ce mercredi 14 octobre 2026. Cette rencontre à Londres vise à confirmer l'aide du Royaume-Uni à l'Ukraine après des tensions récentes avec les États-Unis.",
+   "sources": [
+    {
+     "nom": "herefordtimes.com",
+     "url": "https://herefordtimes.com/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-13/burnham-hosts-zelenskyy-as-uk-grapples-with-trump-russia-policy"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq98z59xdny5o"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/zelenskiy-visits-britain-as-burnham-pledges-fresh-support-for-ukraine"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-actu/andy-burnham-recoit-volodymyr-zelensky-a-downing-street-mercredi-soucieux-de-marquer-son-soutien-a-l-ukraine-20261013"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece"
+    }
+   ],
+   "cluster": "5aef7260820915d9",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cq98z59xdny5o",
+    "https://bloomberg.com/news/articles/2026-10-13/burnham-hosts-zelenskyy-as-uk-grapples-with-trump-russia-policy",
+    "https://chardandilminsternews.co.uk/news/national/26634184.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow",
+    "https://herefordtimes.com/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow",
+    "https://lefigaro.fr/flash-actu/andy-burnham-recoit-volodymyr-zelensky-a-downing-street-mercredi-soucieux-de-marquer-son-soutien-a-l-ukraine-20261013",
+    "https://straitstimes.com/world/europe/zelenskiy-visits-britain-as-burnham-pledges-fresh-support-for-ukraine",
+    "https://thecomet.net/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow",
+    "https://theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+    "https://thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece"
+   ]
+  },
+  {
+   "id": "2026-10-14-alerte-02",
+   "date": "2026-10-14",
+   "publiee_a": "2026-10-14T00:22:17Z",
+   "titre": "Lisandro Martinez critique les dirigeants de Manchester United après une défaite",
+   "texte": "Le défenseur Lisandro Martinez a vivement critiqué la direction de Manchester United le 14 octobre 2026. Ses reproches sur le recrutement suivent un revers contre l'Atlético de Madrid en Ligue des champions.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/crlykw9eevx3o"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/-je-m-attendais-a-ce-qu-on-recrute-plus-de-joueurs-lisandro-martinez-dezingue-la-politique-sportive-de-manchester-united/1725624"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment"
+    }
+   ],
+   "cluster": "32fb0b69d7af1a79",
+   "urls": [
+    "https://aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment",
+    "https://bbc.co.uk/sport/football/articles/crlykw9eevx3o",
+    "https://lequipe.fr/Football/Actualites/-je-m-attendais-a-ce-qu-on-recrute-plus-de-joueurs-lisandro-martinez-dezingue-la-politique-sportive-de-manchester-united/1725624",
+    "https://theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid"
+   ]
+  },
+  {
+   "id": "2026-10-14-alerte-03",
+   "date": "2026-10-14",
+   "publiee_a": "2026-10-14T00:23:32Z",
+   "titre": "Frappes russes sur Kiev sans alerte préalable des alliés selon Volodymyr Zelensky",
+   "texte": "Les partenaires de l'Ukraine n'ont transmis aucun renseignement avant les tirs de missiles balistiques russes sur Kiev les 12 et 13 octobre 2026. Le président Volodymyr Zelensky a déploré cette absence d'avertissement après ces attaques contre des infrastructures de la capitale.",
+   "sources": [
+    {
+     "nom": "rockymounttelegram.com",
+     "url": "https://rockymounttelegram.com/news/world/zelenskyy-says-ukraine-received-no-intelligence-from-partners-about-missiles-headed-to-kyiv/article_a4679f00-330e-5a3b-9f25-2af467669404.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/no-warning-for-russian-missile-strike-kyiv-zelenskyy"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/allies-failed-to-warn-ukraine-of-impending-missile-attack-zelenskiy-says"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck20r9qpw505o"
+    }
+   ],
+   "cluster": "6b6d957d54deac8d",
+   "urls": [
+    "https://bbc.co.uk/news/articles/ck20r9qpw505o",
+    "https://ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1",
+    "https://politico.eu/article/no-warning-for-russian-missile-strike-kyiv-zelenskyy",
+    "https://rockymounttelegram.com/news/world/zelenskyy-says-ukraine-received-no-intelligence-from-partners-about-missiles-headed-to-kyiv/article_a4679f00-330e-5a3b-9f25-2af467669404.html",
+    "https://straitstimes.com/world/europe/allies-failed-to-warn-ukraine-of-impending-missile-attack-zelenskiy-says",
+    "https://straitstimes.com/world/europe/russian-missile-attack-on-kyiv-kills-one",
+    "https://theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+    "https://yahoo.com/news/world/articles/zelenskyy-says-ukraine-received-no-112128424.html"
+   ]
+  },
   {
    "id": "2026-10-13-alerte-03",
    "date": "2026-10-13",
@@ -1233,135 +1358,6 @@
     "https://theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises",
     "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-acusa-jorge-jesus-de-quebrar-promessas-mas-deixa-em-aberto-retorno-a-selecao-de-portugal.shtml",
     "https://www1.folha.uol.com.br/esporte/2026/10/se-cristiano-quiser-voltara-a-selecao-diz-jorge-jesus.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-06-alerte-01",
-   "date": "2026-10-06",
-   "publiee_a": "2026-10-05T22:09:03Z",
-   "titre": "La Turquie et le Pakistan envoient des forces en Arabie saoudite",
-   "texte": "La Turquie et le Pakistan ont convenu d'envoyer rapidement des troupes en Arabie saoudite lundi 5 octobre 2026. Cette décision fait suite à des attaques attribuées aux rebelles houthis du Yémen contre le royaume.",
-   "sources": [
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/forcas-do-iemen-chegam-a-estreito-disputado-com-os-houthis.shtml"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/middle-east/turkey-pakistan-agree-rapid-troops-deployment-in-saudi-arabia-amid-houthi-attacks"
-    },
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/middle-east-news/2026-10-05/ty-article/mecca-alliance-agrees-to-deploy-forces-to-saudi-arabia-amid-yemen-escalation/000001a1-0d51-da81-abf3-ddd344b90000"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/mekka-allianz-tuerkei-und-pakistan-entsenden-truppen-nach-saudi-arabien-a-85af32de-b1b0-40b0-a292-8eb4e3ca281a"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/05/la-turquie-et-le-pakistan-vont-envoyer-des-forces-militaires-en-arabie-saoudite_6788585_3210.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/moyen-orient/20261005-conflit-avec-les-houthis-la-turquie-et-le-pakistan-annoncent-envoyer-des-forces-militaires-en-arabie-saoudite"
-    }
-   ],
-   "cluster": "10844a0a5e762764",
-   "urls": [
-    "https://aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
-    "https://aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia",
-    "https://haaretz.com/middle-east-news/2026-10-05/ty-article/mecca-alliance-agrees-to-deploy-forces-to-saudi-arabia-amid-yemen-escalation/000001a1-0d51-da81-abf3-ddd344b90000",
-    "https://lemonde.fr/international/article/2026/10/05/la-turquie-et-le-pakistan-vont-envoyer-des-forces-militaires-en-arabie-saoudite_6788585_3210.html",
-    "https://rfi.fr/fr/moyen-orient/20261005-conflit-avec-les-houthis-la-turquie-et-le-pakistan-annoncent-envoyer-des-forces-militaires-en-arabie-saoudite",
-    "https://spiegel.de/ausland/mekka-allianz-tuerkei-und-pakistan-entsenden-truppen-nach-saudi-arabien-a-85af32de-b1b0-40b0-a292-8eb4e3ca281a",
-    "https://straitstimes.com/world/middle-east/turkey-pakistan-agree-rapid-troops-deployment-in-saudi-arabia-amid-houthi-attacks",
-    "https://www1.folha.uol.com.br/mundo/2026/10/forcas-do-iemen-chegam-a-estreito-disputado-com-os-houthis.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-06-alerte-02",
-   "date": "2026-10-06",
-   "publiee_a": "2026-10-05T22:09:18Z",
-   "titre": "Ligue des nations : la France bat la Belgique au Stade de France",
-   "texte": "L'équipe de France a battu la Belgique quatre buts à un lundi au Stade de France lors de la quatrième journée de la Ligue des nations. Les joueurs français ont inscrit quatre buts en fin de match après avoir concédé l'ouverture du score.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20261005-ligue-nations-france-belgique"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/10/05/france-belgique-le-resume-du-renversant-succes-des-bleus-en-ligue-des-nations-sauves-du-piege-des-diables-rouges-par-ses-remplacants-dont-un-formidable-michael-olise_6788587_3242.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-en-video-les-quatre-buts-des-bleus-qui-ont-fait-chavirer-le-stade-de-france-20261005"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/directs/direct-france-belgique-les-bleus-retrouvent-les-diables-rouges-et-visent-une-premiere-victoire-en-france-avec-zidane-suivez-le-match-de-ligue-des-nations_8223076.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/La-france-qualifiee-en-quarts-de-finale-de-la-ligue-des-nations-a-la-prochaine-journee-si/1723685"
-    }
-   ],
-   "cluster": "e6a9d7735d55fac3",
-   "urls": [
-    "https://france24.com/fr/%C3%A9missions/sports/20261005-ligue-des-nations-la-france-affronte-la-belgique-pour-finir-en-beaut%C3%A9",
-    "https://france24.com/fr/sports/20261005-ligue-nations-france-belgique",
-    "https://france24.com/fr/sports/20261005-ligue-nations-france-zidane-qualifiee-quarts-finale-conditions",
-    "https://franceinfo.fr/sports/directs/direct-france-belgique-les-bleus-retrouvent-les-diables-rouges-et-visent-une-premiere-victoire-en-france-avec-zidane-suivez-le-match-de-ligue-des-nations_8223076.html",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-aime-jacquet-dans-les-tribunes-du-stade-de-france-20261005",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-en-video-le-contre-imparable-et-l-ouverture-du-score-qui-refroidit-le-stade-de-france-20261005",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-belgique-en-video-les-quatre-buts-des-bleus-qui-ont-fait-chavirer-le-stade-de-france-20261005",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/le-stade-de-france-qui-chavire-olise-phenomenal-et-la-surprise-aime-jacquet-france-belgique-en-images-20261005",
-    "https://lemonde.fr/sport/article/2026/10/05/france-belgique-le-resume-du-renversant-succes-des-bleus-en-ligue-des-nations-sauves-du-piege-des-diables-rouges-par-ses-remplacants-dont-un-formidable-michael-olise_6788587_3242.html",
-    "https://lemonde.fr/sport/live/2026/10/05/en-direct-france-belgique-suivez-la-quatrieme-journee-de-la-ligue-des-nations-de-football_6788561_3242.html",
-    "https://lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-france-belgique-en-ligue-des-nations/1722867",
-    "https://lequipe.fr/Football/Actualites/Aime-jacquet-present-au-stade-de-france-pour-le-match-des-bleus-contre-la-belgique/1723654",
-    "https://lequipe.fr/Football/Actualites/La-france-qualifiee-en-quarts-de-finale-de-la-ligue-des-nations-a-la-prochaine-journee-si/1723685",
-    "https://lequipe.fr/Football/Actualites/Une-frappe-limpide-apres-son-entree-en-jeu-le-but-egalisateur-de-desire-doue-pour-la-france-contre-la-belgique-en-video/1723667",
-    "https://lequipe.fr/Football/Actualites/Une-frappe-puissante-et-une-sortie-hesitante-l-ouverture-du-score-de-lukebakio-en-faveur-de-la-belgique-contre-la-france-en-video/1723660",
-    "https://photo.lefigaro.fr/sports/football/ligue-des-nations/le-stade-de-france-qui-chavire-olise-magistral-et-la-surprise-aime-jacquet-france-belgique-en-images-20261005"
-   ]
-  },
-  {
-   "id": "2026-10-06-alerte-03",
-   "date": "2026-10-06",
-   "publiee_a": "2026-10-05T22:09:26Z",
-   "titre": "L'écrivain et ancien homme politique britannique Jeffrey Archer est mort",
-   "texte": "L'auteur à succès et ancien élu conservateur Jeffrey Archer est décédé lundi 5 octobre 2026 à son domicile, à l'âge de 86 ans. Sa maison d'édition HarperCollins a annoncé qu'il s'est éteint paisiblement entre deux séances d'écriture.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c80095q7p7jo"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/uk-author-and-politician-jeffrey-archer-dies-aged-86"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/culture/l-ecrivain-britannique-jeffrey-archer-est-mort-a-86-ans-20261005"
-    }
-   ],
-   "cluster": "0824246aa39d6909",
-   "urls": [
-    "https://bbc.co.uk/news/articles/c80095q7p7jo",
-    "https://bbc.co.uk/news/articles/ckj0l401dvpgo",
-    "https://lefigaro.fr/culture/l-ecrivain-britannique-jeffrey-archer-est-mort-a-86-ans-20261005",
-    "https://straitstimes.com/world/europe/uk-author-and-politician-jeffrey-archer-dies-aged-86",
-    "https://theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86"
    ]
   }
  ]

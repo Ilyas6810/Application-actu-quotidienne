@@ -1,6 +1,70 @@
 {
- "maj": "2026-10-15T04:43:51Z",
+ "maj": "2026-10-15T11:32:38Z",
  "alertes": [
+  {
+   "id": "2026-10-15-alerte-03",
+   "date": "2026-10-15",
+   "publiee_a": "2026-10-15T11:32:38Z",
+   "titre": "L'effondrement du toit d'une école fait des dizaines de morts au Pakistan",
+   "texte": "Le toit d'un établissement scolaire s'est écroulé jeudi 15 octobre 2026 à Peshawar, dans le nord-ouest du Pakistan. L'accident a causé la mort d'au moins vingt-sept élèves et d'un enseignant pendant les cours.",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261015-pakistan-27-enfants-et-un-enseignant-tu%C3%A9s-dans-l-effondrement-du-toit-de-leur-%C3%A9cole"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/pakistan-mindestens-29-tote-bei-einsturz-von-schuldach-a-437a0fb3-daf1-406a-b2da-159d3cc3f1cc"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/asie/au-pakistan-27-enfants-et-un-enseignant-tues-dans-l-effondrement-du-toit-de-leur-ecole_8238436.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/desabamento-de-teto-de-escola-mata-27-alunos-e-um-professor-no-paquistao.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-15/decenas-de-ninos-mueren-al-derrumbarse-el-techo-de-una-escuela-en-pakistan.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/live/crvgynp501y3t"
+    }
+   ],
+   "cluster": "16440c4d0359ca6c",
+   "urls": [
+    "https://abc.es/internacional/mueren-alumnos-profesor-derrumbarse-techo-colegio-pakistan-20261015101329-nt.html",
+    "https://aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people",
+    "https://aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv",
+    "https://aol.com/articles/school-roof-collapse-kills-least-062503000.html",
+    "https://bbc.com/news/live/crvgynp501y3t",
+    "https://dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-10-15/decenas-de-ninos-mueren-al-derrumbarse-el-techo-de-una-escuela-en-pakistan.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_15?evenement=73b027f797",
+    "https://france24.com/fr/asie-pacifique/20261015-pakistan-effondrement-toit-%C3%A9cole-tue-27-enfants-un-enseignant",
+    "https://franceinfo.fr/monde/asie/au-pakistan-27-enfants-et-un-enseignant-tues-dans-l-effondrement-du-toit-de-leur-ecole_8238436.html",
+    "https://kmuw.org/2026-10-15/school-roof-collapse-kills-at-least-29-injures-more-than-3-dozen-in-pakistan",
+    "https://lemonde.fr/international/article/2026/10/15/au-pakistan-27-enfants-et-un-enseignant-tues-par-l-effondrement-du-toit-d-une-ecole_6794355_3210.html",
+    "https://liberation.fr/international/asie-pacifique/pakistan-27-enfants-et-un-enseignant-tues-dans-leffondrement-du-toit-dune-ecole-20261015_WPVWV5XVXJHAVEZSETKNPY5JLY",
+    "https://npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+    "https://rfi.fr/fr/asie-pacifique/20261015-pakistan-27-enfants-et-un-enseignant-tu%C3%A9s-dans-l-effondrement-du-toit-de-leur-%C3%A9cole",
+    "https://spiegel.de/panorama/pakistan-mindestens-29-tote-bei-einsturz-von-schuldach-a-437a0fb3-daf1-406a-b2da-159d3cc3f1cc",
+    "https://straitstimes.com/asia/pakistan-school-roof-collapse-kills-27-students-one-teacher",
+    "https://thehindu.com/news/international/students-teacher-killed-in-school-roof-collapse-in-pakistan-peshwar/article71586942.ece",
+    "https://wsls.com/news/world/2026/10/15/school-roof-collapse-kills-at-least-18-people-injures-more-than-3-dozen-in-pakistan",
+    "https://www1.folha.uol.com.br/mundo/2026/10/desabamento-de-teto-de-escola-mata-27-alunos-e-um-professor-no-paquistao.shtml"
+   ]
+  },
   {
    "id": "2026-10-15-alerte-02",
    "date": "2026-10-15",

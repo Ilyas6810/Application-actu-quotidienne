@@ -1,6 +1,48 @@
 {
- "maj": "2026-10-14T23:58:58Z",
+ "maj": "2026-10-15T04:43:51Z",
  "alertes": [
+  {
+   "id": "2026-10-15-alerte-02",
+   "date": "2026-10-15",
+   "publiee_a": "2026-10-15T04:43:51Z",
+   "titre": "Le Parlement brésilien vote l'abaissement de la durée hebdomadaire du travail",
+   "texte": "Les parlementaires brésiliens ont validé jeudi 15 octobre le passage de la semaine de travail de quarante-quatre à quarante heures. Cette mesure soutenue par Luiz Inacio Lula da Silva intervient avant le second tour de l'élection présidentielle fixé au 25 octobre.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/15/au-bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-promise-par-lula_6793931_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/bresil-le-parlement-approuve-la-reduction-du-temps-de-travail-promise-par-lula-20261015"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7f14509d-5807-4fff-b4a2-74f5429aaec2?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/brazil-senate-approves-bill-to-shorten-work-week-in-election-boost-for-lula"
+    }
+   ],
+   "cluster": "001814dca88ac15a",
+   "urls": [
+    "https://dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-xml-mrss",
+    "https://ft.com/content/7f14509d-5807-4fff-b4a2-74f5429aaec2?syn-25a6b1a6=1",
+    "https://lefigaro.fr/international/bresil-le-parlement-approuve-la-reduction-du-temps-de-travail-promise-par-lula-20261015",
+    "https://lemonde.fr/international/article/2026/10/15/au-bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-promise-par-lula_6793931_3210.html",
+    "https://straitstimes.com/world/brazil-senate-approves-bill-to-shorten-work-week-in-election-boost-for-lula",
+    "https://theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
+   ]
+  },
   {
    "id": "2026-10-15-alerte-01",
    "date": "2026-10-15",

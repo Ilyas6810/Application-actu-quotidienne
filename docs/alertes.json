@@ -1,6 +1,59 @@
 {
- "maj": "2026-10-15T11:32:38Z",
+ "maj": "2026-10-15T21:28:22Z",
  "alertes": [
+  {
+   "id": "2026-10-16-alerte-01",
+   "date": "2026-10-16",
+   "publiee_a": "2026-10-15T21:28:22Z",
+   "titre": "Dix-neuf blessés dans une collision entre un bus et un train à Coquelles",
+   "texte": "Un minibus transportant des chauffeurs routiers a heurté un train de marchandises jeudi 15 octobre au soir sur le terminal d'Eurotunnel à Coquelles, dans le Pas-de-Calais. Les autorités françaises recensent dix-neuf personnes blessées lors de cet événement, mais aucun pronostic vital n'est engagé.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/15/tunnel-sous-la-manche-un-accident-entre-un-bus-et-un-train-de-fret-fait-dix-neuf-blesses_6794797_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/accident/un-grave-accident-entre-un-bus-et-un-train-s-est-produit-a-l-entree-du-tunnel-sous-la-manche-pres-de-calais-et-a-fait-une-vingtaine-de-blesses_8239282.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/tunnel-de-la-manche-collision-entre-un-bus-et-un-train-19-blesses-dont-5-en-urgence-absolue-20261015_SCJJ6TEZ3NBZ5BW3RWLDHTDIH4"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6wyrnmgzn01o"
+    }
+   ],
+   "cluster": "2850242d2780a23d",
+   "urls": [
+    "https://abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html",
+    "https://bbc.co.uk/news/articles/c6wyrnmgzn01o",
+    "https://dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss",
+    "https://franceinfo.fr/faits-divers/accident/un-grave-accident-entre-un-bus-et-un-train-s-est-produit-a-l-entree-du-tunnel-sous-la-manche-pres-de-calais-et-a-fait-une-vingtaine-de-blesses_8239282.html",
+    "https://lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015",
+    "https://lemonde.fr/societe/article/2026/10/15/tunnel-sous-la-manche-un-accident-entre-un-bus-et-un-train-de-fret-fait-dix-neuf-blesses_6794797_3224.html",
+    "https://liberation.fr/international/europe/tunnel-de-la-manche-collision-entre-un-bus-et-un-train-19-blesses-dont-5-en-urgence-absolue-20261015_SCJJ6TEZ3NBZ5BW3RWLDHTDIH4",
+    "https://straitstimes.com/world/europe/nineteen-injured-after-train-and-coach-collide-in-northern-france",
+    "https://theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais"
+   ]
+  },
   {
    "id": "2026-10-15-alerte-03",
    "date": "2026-10-15",
@@ -1203,161 +1256,6 @@
     "https://spiegel.de/ausland/new-york-ice-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae",
     "https://straitstimes.com/world/united-states/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says",
     "https://theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
-   ]
-  },
-  {
-   "id": "2026-10-08-alerte-01",
-   "date": "2026-10-08",
-   "publiee_a": "2026-10-07T20:42:54Z",
-   "titre": "Espagne : décès de la retraitée expulsée devenue symbole de la contestation",
-   "texte": "La retraitée espagnole Maricarmen Abascal est morte mercredi 7 octobre à Madrid à l'âge de 87 ans, a annoncé un syndicat de locataires. Son expulsion de son domicile le 23 septembre avait déclenché d'importantes manifestations citoyennes à travers le pays.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/espagne/maricarmen-abascal-la-retraitee-espagnole-expulsee-de-son-logement-a-l-origine-d-un-immense-mouvement-de-protestation-est-morte_8227408.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/espagne-maricarmen-abscal-la-retraitee-expulsee-a-lorigine-du-mouvement-de-protestation-sur-le-logement-est-morte-20261007_6UK4KXVRHRHOXMCOB27BYRSAIQ"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6e3x21ev9wwo"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_07/spagna-morta-maricarmen-abascal-la-donna-che-innesco-la-protesta-per-la-casa-af8ac4e0-e217-4fb8-89d0-3a6a53294xlk.shtml"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/07/crise-du-logement-en-espagne-l-octogenaire-expulsee-a-l-origine-du-mouvement-de-protestation-est-morte_6789653_3210.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/espana/muere-maricarmen-anciana-anos-desahuciada-casa-madrid-20261007202828-nt.html"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/espana/2026-10-07/la-lucha-de-maricarmen-en-imagenes.html"
-    }
-   ],
-   "cluster": "0122f9884395e3ee",
-   "urls": [
-    "https://abc.es/espana/muere-maricarmen-anciana-anos-desahuciada-casa-madrid-20261007202828-nt.html",
-    "https://aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election",
-    "https://bbc.co.uk/news/articles/c6e3x21ev9wwo",
-    "https://corriere.it/esteri/26_ottobre_07/spagna-morta-maricarmen-abascal-la-donna-che-innesco-la-protesta-per-la-casa-af8ac4e0-e217-4fb8-89d0-3a6a53294xlk.shtml",
-    "https://dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/espana/2026-10-07/la-lucha-de-maricarmen-en-imagenes.html",
-    "https://elpais.com/espana/2026-10-07/muere-maricarmen-la-mujer-que-encendio-la-lucha-contra-los-desahucios-en-espana.html",
-    "https://elpais.com/espana/madrid/2026-10-07/cronologia-del-caso-maricarmen-de-cuatro-intentos-de-desahucio-a-un-movimiento-nacional-por-la-vivienda.html",
-    "https://elpais.com/espana/madrid/2026-10-07/maricarmen-murio-horas-antes-de-firmar-su-contrato-de-alquiler-para-ocho-anos-y-recuperar-su-casa.html",
-    "https://elpais.com/videos/2026-10-07/las-imagenes-de-la-vida-de-maricarmen-y-su-lucha-por-evitar-los-desahucios.html",
-    "https://english.elpais.com/spain/2026-10-07/maricarmen-the-woman-who-became-a-symbol-of-spains-housing-crisis-dies-at-87.html",
-    "https://france24.com/fr/europe/20261007-espagne-maricarmen-retrait%C3%A9e-devenue-symbole-crise-logement-morte",
-    "https://franceinfo.fr/monde/espagne/maricarmen-abascal-la-retraitee-espagnole-expulsee-de-son-logement-a-l-origine-d-un-immense-mouvement-de-protestation-est-morte_8227408.html",
-    "https://lemonde.fr/international/article/2026/10/07/crise-du-logement-en-espagne-l-octogenaire-expulsee-a-l-origine-du-mouvement-de-protestation-est-morte_6789653_3210.html",
-    "https://liberation.fr/international/europe/espagne-maricarmen-abscal-la-retraitee-expulsee-a-lorigine-du-mouvement-de-protestation-sur-le-logement-est-morte-20261007_6UK4KXVRHRHOXMCOB27BYRSAIQ",
-    "https://spiegel.de/ausland/maricarmen-spanierin-deren-wohnung-zwangsgeraeumt-wurde-ist-tot-a-48477cc5-ef2d-40b8-9d5b-b23d6d3e7b56",
-    "https://straitstimes.com/world/europe/evicted-spanish-octogenarian-maricarmen-abascal-heart-of-spains-housing-protests-has-died",
-    "https://www1.folha.uol.com.br/mundo/2026/10/morre-maricarmen-abascal-idosa-de-87-anos-que-foi-despejada-na-espanha.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-08-alerte-02",
-   "date": "2026-10-08",
-   "publiee_a": "2026-10-07T20:44:13Z",
-   "titre": "Le golfeur Jon Rahm quitte la ligue professionnelle LIV Golf",
-   "texte": "Le joueur espagnol Jon Rahm a décidé de quitter la ligue LIV Golf le mercredi 7 octobre 2026. Son avocat a qualifié d'inacceptables les conditions proposées pour la nouvelle version du circuit lors d'une audience de faillite.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/2026-10-07/nuevo-terremoto-en-el-golf-jon-rahm-no-seguira-en-liv.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Golf/Actualites/Jon-rahm-va-quitter-le-liv-golf-apres-trois-titres-de-champion-en-trois-saisons/1724072"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/jon-rahm-desvincula-liv-golf-20261007194227-nt.html"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-07/liv-golf-loses-jon-rahm-in-blow-to-league-s-bankruptcy-exit-plan"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/oct/07/former-world-no-1-jon-rahm-quits-liv-ahead-of-breakway-series-relaunch"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/golf/articles/c65yngj00477o"
-    }
-   ],
-   "cluster": "56ef53045eea0fef",
-   "urls": [
-    "https://abc.es/deportes/jon-rahm-desvincula-liv-golf-20261007194227-nt.html",
-    "https://bbc.co.uk/sport/golf/articles/c65yngj00477o",
-    "https://bloomberg.com/news/articles/2026-10-07/liv-golf-loses-jon-rahm-in-blow-to-league-s-bankruptcy-exit-plan",
-    "https://elpais.com/deportes/2026-10-07/nuevo-terremoto-en-el-golf-jon-rahm-no-seguira-en-liv.html",
-    "https://lequipe.fr/Golf/Actualites/Jon-rahm-va-quitter-le-liv-golf-apres-trois-titres-de-champion-en-trois-saisons/1724072",
-    "https://theguardian.com/sport/2026/oct/07/former-world-no-1-jon-rahm-quits-liv-ahead-of-breakway-series-relaunch"
-   ]
-  },
-  {
-   "id": "2026-10-08-alerte-03",
-   "date": "2026-10-08",
-   "publiee_a": "2026-10-07T20:44:35Z",
-   "titre": "Sébastien Lecornu annonce des mesures pour les lycées et les carburants",
-   "texte": "Le Premier ministre Sébastien Lecornu s'est exprimé mercredi 7 octobre à Matignon sur la contestation lycéenne et les prix de l'énergie. Le chef du gouvernement promet cinq chantiers scolaires d'ici fin octobre et une baisse de 12 à 18 centimes par litre de carburant selon France 24 le 7 octobre 2026.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261007-lecornu-joue-l-apaisement-avec-les-lyc%C3%A9ens-annonce-des-mesures-pour-faire-baisser-le-prix-de-l-essence"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/live/2026/10/07/en-direct-mobilisation-lyceenne-sebastien-lecornu-annonce-le-lancement-de-cinq-chantiers-avec-de-premieres-decisions-fin-octobre_6788487_3224.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/politique/blocage-des-lycees-sebastien-lecornu-tente-de-ramener-le-calme-20261007"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/politique/lycees-carburants-budget-emmanuel-macron-et-sebastien-lecornu-cherchent-les-voies-de-l-apaisement-20261007"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/politique/allocution-de-sebastien-lecornu-quatre-crises-et-une-mesure-20261007_3QSWOUHA2ZDJXB3WHQGO56H6VE"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html"
-    }
-   ],
-   "cluster": "4d03ed546a7b2387",
-   "urls": [
-    "https://france24.com/fr/france/20261007-lecornu-joue-l-apaisement-avec-les-lyc%C3%A9ens-annonce-des-mesures-pour-faire-baisser-le-prix-de-l-essence",
-    "https://franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
-    "https://franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html",
-    "https://franceinfo.fr/politique/sebastien-lecornu-s-exprimera-mercredi-soir-sur-les-lycees-au-lendemain-d-une-journee-de-mobilisation-massive_8226373.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-pas-toutes-les-cartes-en-main-pourquoi-le-gouvernement-peine-a-trouver-la-solution-face-a-la-mobilisation-lyceenne_8226505.html",
-    "https://la-croix.com/politique/blocage-des-lycees-sebastien-lecornu-tente-de-ramener-le-calme-20261007",
-    "https://lefigaro.fr/politique/colere-lyceenne-carburants-electricite-ce-qu-il-faut-retenir-de-l-intervention-de-sebastien-lecornu-20261007",
-    "https://lefigaro.fr/politique/lycees-carburants-budget-emmanuel-macron-et-sebastien-lecornu-cherchent-les-voies-de-l-apaisement-20261007",
-    "https://lefigaro.fr/politique/lycees-carburants-crise-agricole-situation-financiere-sebastien-lecornu-va-s-exprimer-mercredi-soir-lors-d-une-allocution-20261007",
-    "https://lemonde.fr/politique/article/2026/10/07/sebastien-lecornu-s-exprimera-mercredi-soir-sur-la-mobilisation-lyceenne-le-prix-des-carburants-la-crise-agricole-et-la-dette_6789550_823448.html",
-    "https://lemonde.fr/politique/live/2026/10/07/en-direct-allocution-de-sebastien-lecornu-mobilisation-des-lyceens-budget-prix-du-carburant-le-premier-ministre-va-prendre-la-parole_6789634_823448.html",
-    "https://lemonde.fr/politique/video/2026/10/07/les-premieres-decisions-du-gouvernement-en-reponse-aux-revendications-des-lyceens-seront-presentees-a-la-fin-du-mois-d-octobre-annonce-sebastien-lecornu_6789652_823448.html",
-    "https://lemonde.fr/societe/article/2026/10/07/face-au-mouvement-lyceen-le-gouvernement-se-donne-du-temps-au-risque-de-l-enlisement_6789649_3224.html",
-    "https://lemonde.fr/societe/live/2026/10/07/en-direct-mobilisation-lyceenne-sebastien-lecornu-annonce-le-lancement-de-cinq-chantiers-avec-de-premieres-decisions-fin-octobre_6788487_3224.html",
-    "https://liberation.fr/politique/allocution-de-sebastien-lecornu-quatre-crises-et-une-mesure-20261007_3QSWOUHA2ZDJXB3WHQGO56H6VE"
    ]
   }
  ]

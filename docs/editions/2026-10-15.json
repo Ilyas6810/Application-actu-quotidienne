@@ -1,0 +1,1226 @@
+{
+ "date": "2026-10-15",
+ "genere_a": "2026-10-15T05:23:37Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-15-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Moscou accuse d'espionnage un journaliste japonais, Tokyo rejette les allégations",
+   "chapeau": "Les autorités russes maintiennent en détention le journaliste japonais Yuki Imai sur l'île de Sakhaline depuis le 13 octobre 2026. Le gouvernement japonais a contesté ces accusations le 15 octobre 2026 et a demandé des explications diplomatiques.",
+   "corps": "Le Service fédéral de sécurité russe retient Yuki Imai, correspondant du quotidien Hokkaido Shimbun, interpellé sur l'île de Sakhaline le 13 octobre 2026.\n\nLe ministère des affaires étrangères russe a communiqué l'identité de l'intéressé par la voix de sa porte-parole Maria Zakharova. Moscou affirme que ce reporter effectuait des missions de renseignement sur le territoire de la Fédération de Russie. Les services russes soutiennent que l'homme cherchait à obtenir des données sur les moyens militaires nationaux pour les transmettre aux autorités de Tokyo.\n\nLe gouvernement japonais a formellement rejeté les reproches formulés contre son ressortissant. La première ministre Sanae Takaichi a réfuté toute implication du journaliste dans des opérations de surveillance illégale. Le ministère japonais des affaires étrangères a convoqué le représentant diplomatique de Moscou pour réclamer des éclaircissements sur cette incarcération.\n\nCette procédure judiciaire intervient dans un climat de relations bilatérales tendues entre les deux pays d'Asie orientale. Les deux États revendiquent la souveraineté sur l'archipel des îles Kouriles, que contrôle actuellement Moscou. Le président russe Vladimir Poutine a effectué un déplacement sur ces îles en août 2026, ce qui a accentué les désaccords entre les gouvernements.\n\n## Ce que disent les sources\n\nLe quotidien Der Spiegel rapporte que le reporter enquêtait sur des habitants des îles Kouriles envoyés au front lors du conflit en Ukraine. De leur côté, les médias The Guardian, Libération, BBC News, The Straits Times, Le Monde et franceinfo indiquent que les accusations du Kremlin portent plus généralement sur la collecte de données relatives aux capacités de défense et à des activités d'espionnage sur le territoire russe, au profit des services secrets japonais selon Al Jazeera.\n\nLe sort judiciaire précis réservé au journaliste et le lieu exact de sa détention actuelle ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/spionage-russland-japanischer-journalist-wegen-recherchen-auf-kurilen-festgenommen-a-19596101-0bd1-4be7-9797-44def526985d"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/international-relations/tokyo-seeks-information-on-russia-s-detention-of-japanese-reporter"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/japanese-journalist-arrested-in-russias-sakhalin-region-on-spying-charges/article71582418.ece"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/la-russie-arrete-un-journaliste-japonais-accuse-despionnage-20261013_76HFUQEURFFQPB4UDVXPS7YYKU"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwp9g1el7x9zo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-13T15:45:45Z",
+   "suite_de": "2026-10-14-monde-003",
+   "mots": 329,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Katie Zacharia affronte des contestations sur ses qualifications professionnelles",
+   "chapeau": "Katie Zacharia a essuyé des vérifications publiques sur son statut juridique à Washington cette semaine. La nouvelle porte-parole de Donald Trump a dirigé sa première séance de presse mardi.",
+   "corps": "Katie Zacharia a succédé à Karoline Leavitt au pupitre de la présidence américaine le mardi 13 octobre 2026.\n\nDes vérifications publiques portent désormais sur ses qualifications professionnelles. Katie Zacharia s'est présentée comme avocate. Les registres publics ne montrent aucune licence d'avocat à son nom dans les États où elle a résidé. La BBC a rapporté le 15 octobre 2026 à 07 h 03 qu'elle ne figure sur aucun tableau de l'ordre des avocats dans ces territoires. La Maison Blanche a pris sa défense face à ces interrogations.\n\nCe débat intervient juste après sa première prise de parole publique comme porte-parole présidentielle. La séance s'est tenue mardi 13 octobre 2026 dans la salle de presse de la Maison Blanche. Katie Zacharia a quitté la tribune après une intervention courte. Selon le quotidien The Guardian le 13 octobre 2026 à 23 h 22, cette intervention a duré 14 minutes. Durant cet échange, Katie Zacharia a répondu à trois questions posées par les journalistes.\n\nKatie Zacharia a consacré la majorité de son propos à vanter l'action du président américain. Elle a affirmé son honneur de servir le chef de l'État et les citoyens des États-Unis. Les observateurs présents ont relevé un débit rigide et un contact visuel limité avec l'auditoire. Elle a ensuite interrompu la rencontre de manière soudaine.\n\nLe parcours professionnel de Katie Zacharia compte plusieurs fonctions auprès du camp républicain. Donald Trump l'a choisie pour ce poste le vendredi 10 octobre 2026. Elle a travaillé récemment pour l'entreprise de médias sociaux de Donald Trump. Plus tôt au cours de l'année 2026, elle a exercé la fonction de porte-parole pour le département de la Sécurité intérieure des États-Unis. Elle a également bâti sa visibilité par des interventions régulières dans des émissions de débat d'orientation conservatrice.\n\nKatie Zacharia a relayé par le passé des thèses complotistes issues de la droite américaine. Elle soutient que l'élection présidentielle de 2020 a fait l'objet d'un vol électoral. Des commentaires l'associent également à la diffusion de théories affirmant que Donald Trump combat des réseaux pédo-sataniques.\n\nCette nomination s'inscrit dans un contexte politique particulier pour l'exécutif républicain. L'administration prépare les élections de mi-mandat. Katie Zacharia doit défendre le bilan présidentiel face à des électeurs mécontents de la hausse du coût de la vie.\n\nLes détails sur la réponse formelle de Katie Zacharia concernant l'absence d'inscription au barreau ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga"
+    },
+    {
+     "nom": "boston.com",
+     "url": "https://boston.com/news/politics/2026/10/13/katie-zacharia-trumps-new-white-house-press-secretary-makes-a-brief-appearance-before-reporters"
+    },
+    {
+     "nom": "chicagotribune.com",
+     "url": "https://chicagotribune.com/2026/10/13/katie-zacharia-new-trump-press-secretary"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/il-primo-punto-stampa-della-nuova-portavoce-di-trump-katie-zacharia-onorata-di-lavorare-per-il-presidente-e-per-il-popolo-americano/2f11d793-7e87-4e5f-ac57-2deae335fxlk"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/newsletters/2026-10-13/trump-tries-a-new-press-secretary-with-midterm-problems-mounting"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/new-white-house-spokeswoman-katie-zacharia-heavy-on-trump-praise-light-on-questions-in-debut"
+    }
+   ],
+   "premiere_parution": "2026-10-12T22:17:43Z",
+   "suite_de": "2026-10-14-monde-005",
+   "mots": 425,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le pape Léon XIV commence sa convalescence après son opération",
+   "chapeau": "Le pape Léon XIV récupère favorablement à l'hôpital Gemelli de Rome le mercredi 14 octobre 2026. L'équipe médicale et le Vatican ont communiqué les premières étapes de son rétablissement après son intervention chirurgicale.",
+   "corps": "Le souverain pontife avait subi le mardi 13 octobre 2026 l'ablation d'une tumeur cancéreuse située dans le lobe inférieur de son poumon droit.\n\nLe Vatican a indiqué que l'évêque de Rome a passé une première nuit calme dans l'établissement hospitalier. Les médecins du centre universitaire Gemelli ont ensuite constaté une évolution conforme à leurs prévisions. Le patient a quitté son lit au cours de la journée de mercredi. Il a recommencé à marcher à l'intérieur de sa chambre après avoir suivi des séances de rééducation respiratoire. Les praticiens ont également précisé que le chef de l'Église catholique s'alimente désormais de façon ordinaire.\n\nL'intervention chirurgicale de mardi a duré 90 minutes selon les informations transmises par la BBC le 14 octobre 2026 à 19 heures 12. Les chirurgiens ont retiré le nodule cancéreux ainsi qu'une partie du tissu pulmonaire adjacent. Le diagnostic précis de cancer du poumon a été confirmé à l'issue de cet acte médical. Le Saint-Siège avait auparavant fait part de la tenue de cette opération planifiée, dont le déroulement a respecté le calendrier prévu.\n\nLe souverain pontife, âgé de 71 ans selon les précisions publiées par Al Jazeera le 14 octobre 2026 à 19 heures 09, s'était lui-même exprimé sur son état de santé. Il avait informé les fidèles rassemblés sur la place Saint-Pierre de la nécessité de cette chirurgie avant son admission à la clinique. Les autorités vaticanes ont souligné cette démarche directe, inhabituelle pour les chefs de l'Église catholique.\n\nDes messages de soutien sont parvenus à Rome depuis plusieurs capitales étrangères. Le roi Charles du Royaume-Uni a notamment adressé ses vœux de rétablissement au responsable religieux. Les équipes soignantes poursuivent la surveillance clinique habituelle pour ce type d'exérèse pulmonaire. Le terme exérèse désigne le retrait d'un organe.\n\nLe corps médical n'a pas encore communiqué la durée prévisible du séjour hospitalier du pape.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/what-we-know-about-pope-leos-lung-cancer-operation"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pope-leo-has-lung-cancer-lower-lobe-of-right-lung-removed-vatican/article71581183.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/14/nx-s1-6000696/what-to-know-about-pope-leos-lung-cancer-diagnosis"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck1wvd9dvv22o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned"
+    }
+   ],
+   "premiere_parution": "2026-10-12T16:10:01Z",
+   "suite_de": "2026-10-14-monde-002",
+   "mots": 339,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump suggère d'exécuter les auteurs de fuites gouvernementales",
+   "chapeau": "Le président des États-Unis Donald Trump a déclaré que les personnes coupables de fuites d'informations secrètes vers la presse devraient être fusillées. Il a tenu ces propos lors d'une réunion de campagne organisée avant le scrutin législatif du 3 novembre 2026.",
+   "corps": "Le président américain a abordé le sujet de la transmission d'informations confidentielles aux médias pendant un rassemblement électoral. Donald Trump a soutenu que les fonctionnaires ou individus divulguant des dossiers gouvernementaux méritent de recevoir des tirs d'armes à feu en guise de punition.\n\nLe chef d'État a fait référence aux pratiques anciennes en affirmant que les exécutions par peloton constituaient une règle courante par le passé pour punir la trahison. Selon ses termes, la transmission non autorisée d'éléments sur des opérations militaires de l'armée américaine justifie l'application de la peine capitale contre leurs auteurs.\n\nCes déclarations s'inscrivent dans une relation conflictuelle durable entre l'administration présidentielle et les organes de presse. Donald Trump exprime de manière répétée son opposition aux révélations de faits internes issues de ses services. Lors de cette réunion, le président s'est ainsi écarté de ses présentations habituelles sur les questions économiques pour cibler directement les lanceurs d'alerte et les journalistes qui diffusent des informations classifiées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "biobiochile.cl",
+     "url": "https://biobiochile.cl/noticias/internacional/eeuu/2026/10/14/en-plena-pugna-con-prensa-trump-dice-que-se-deberia-disparar-a-filtradores-de-informacion-secreta.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-leakers-should-be-shot-straying-from-economic-pitch"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-donald-trump-wuerde-informanten-fuer-geheimnisverrat-erschiessen-lassen-a-0714e940-291d-49d3-92ac-1da6cbacbe51"
+    }
+   ],
+   "premiere_parution": "2026-10-14T22:20:55Z",
+   "suite_de": null,
+   "mots": 199,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La défense de Duane Davis conteste sa condamnation en appel",
+   "chapeau": "Les avocats de Duane Davis ont annoncé un recours après le verdict rendu mardi 13 octobre 2026 au Nevada. L'ancien dirigeant de gang a reçu une peine minimale de quarante ans de réclusion pour l'assassinat du musicien Tupac Shakur.",
+   "corps": "Ce jugement confirme la décision du jury de la fin du mois d'août 2026 qui déclarait le prévenu coupable d'homicide avec préméditation.\n\nLes représentants légaux du condamné refusent cette décision judiciaire. Ils prévoient de contester l'ensemble de la procédure devant une cour supérieure.\n\nLa justice américaine reproche à cet ancien membre des South Side Compton Crips d'avoir dirigé l'expédition armée contre l'artiste. Les débats ont établi son rôle de chef de file lors de la fusillade en voiture commise en 1996. Les poursuites judiciaires ont fait suite à des affrontements directs entre deux factions rivales de Los Angeles.\n\nLes propres déclarations du prévenu ont constitué les éléments centraux de l'accusation. La cour a utilisé les passages de son livre de souvenirs autobiographique publié antérieurement. L'auteur y décrivait les événements survenus au cours de la soirée de l'homicide. Ses propos ont servi à démontrer sa participation personnelle à la préparation du crime.\n\nCe verdict judiciaire intervient trois décennies après la disparition de la victime survenue lors d'une agression par balle à Las Vegas.\n\n## Ce que disent les sources\n\nLes publications ne s'accordent pas sur l'âge exact de Duane Davis au moment de son procès. Le journal Folha de S.Paulo indique le 14 octobre 2026 à 00 h 14 que le prévenu a 63 ans. Le quotidien néerlandais NRC affirme pour sa part le 14 octobre 2026 à 01 h 11 que l'homme est âgé de 69 ans.\n\nLes textes ne précisent pas la date d'examen de la demande d'appel déposée par les conseils de la défense.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/meurtre-de-2pac-duane-davis-ancien-membre-dun-gang-de-compton-condamne-a-au-moins-40-ans-de-prison-20261013_OYVHDGAGTRBCPBD2TQZ3KKUY2Q"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/duane-davis-e-condenado-a-40-anos-de-prisao-por-morte-do-rapper-tupac-shakur.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261013-trente-ans-apr%C3%A8s-meurtre-tupac-shakur-son-meurtrier-condamn%C3%A9-40-ans-prison-minimum-duane-keffe-d-davis-gangs-las-vegas"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/tupac-shakur-bandenchef-duane-davis-erhaelt-mindestens-40-jahre-gefaengnis-a-6ddc434f-4147-428f-8520-367581648c02"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_13/omicidio-tupac-duane-davis-condannato-40-anni-carcere-b6d7143e-c7f0-4e47-82fd-ff24955bexlk.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/13/oud-bendeleider-krijgt-veertig-jaar-cel-voor-de-moord-op-tupac-a4938904"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/ex-gang-leader-sentenced-to-40-years-to-life-in-prison-for-tupac-shakur-murder/article71581327.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/14/meurtre-de-tupac-shakur-duane-keffe-d-davis-condamne-a-quarante-ans-de-prison-minimum_6793214_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-13T04:45:00Z",
+   "suite_de": "2026-10-14-monde-001",
+   "mots": 295,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-006",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump suscite une vive opposition avec son accord pétrolier russe",
+   "chapeau": "Le président américain Donald Trump défend son projet commercial avec Moscou sur les carburants à l approche du scrutin législatif de novembre. Cette initiative déclenche de fortes réticences au Congrès américain et chez les partenaires étrangers des États-Unis en cette mi-octobre.",
+   "corps": "Le président américain a confirmé son intention d autoriser la mise en circulation de carburant russe pour tenter d atténuer la hausse des prix de l énergie sur le sol américain.\n\nCe choix politique répond à une pression interne immédiate. Le coût du carburant a atteint un sommet inédit aux États-Unis en septembre selon la radio NPR le 14 octobre 2026. L échéance électorale du 3 novembre approche pour le Parti républicain. Donald Trump a indiqué sur les réseaux sociaux que la baisse des tarifs représentait son objectif premier, selon l agence Bloomberg le 14 octobre 2026. Cette stratégie cherche à soulager les électeurs face à l inflation du coût de la vie.\n\nL initiative suscite pourtant une contestation grandissante à Washington. Des sénateurs des deux partis politiques dénoncent un risque juridique au regard des règles actuelles. Les parlementaires rappellent l existence d un texte de sanctions adopté récemment contre la Russie. L élu démocrate de Virginie Don Beyer a affirmé que cet arrangement ne constituait pas la bonne méthode pour réduire les dépenses des ménages. Il a rappelé que cette manœuvre contredit la législation votée par les représentants.\n\nLes critiques portent également sur le volet diplomatique et le sort de la guerre en Europe de l Est. Le gouvernement ukrainien et ses alliés expriment leur inquiétude devant cette décision commerciale. Des observateurs et des membres du Congrès estiment que cette mesure avantage le président russe Vladimir Poutine. Selon eux, l initiative affaiblit la position de Kiev face à Moscou. Des sources indiquent toutefois que l exécutif américain espérait inciter la Russie à reprendre des pourparlers de paix par ce geste économique.\n\n## Ce que disent les sources\n\nDonald Trump a déclaré que ce carburant n est pas réservé au marché des États-Unis mais qu il est mis à la disposition du monde entier, selon le quotidien The Hindu le 14 octobre 2026. À l inverse, le président avait initialement annoncé le 9 octobre un pacte permettant à la Russie d approvisionner le marché intérieur américain en plus du marché international, selon l agence Bloomberg le 14 octobre 2026.\n\nLes détails contractuels complets et le volume exact des cargaisons de carburant autorisées ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5bc438a0-26b7-4893-9d62-1f45d2963eef?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/deal-sur-le-diesel-avec-donald-trump-vladimir-poutine-a-encore-rafle-la-mise-20261012_PYZZVH4V75FHFBDFV5Z4VEE3JU"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/us-hopes-diesel-deal-can-soften-moscow-on-peace-talks-sources-say"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-us-senatoren-kritisieren-trumps-diesel-deal-mit-russland-a-383b9a00-b9e4-4901-9a7b-41e3a2aeaa5a"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261013-%C3%A9tats-unis-russie-que-cache-cet-accord-sur-le-diesel"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-13/-es-legal-el-plan-de-trump-para-importar-diesel-de-rusia-mv76ma5g"
+    }
+   ],
+   "premiere_parution": "2026-10-12T16:16:32Z",
+   "suite_de": "2026-10-14-geopolitique-002",
+   "mots": 409,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Volodymyr Zelensky déplore l'accord pétrolier américain et les restrictions sur Starlink",
+   "chapeau": "Le président ukrainien Volodymyr Zelensky a exprimé son sentiment de trahison face aux récentes décisions du gouvernement américain lors d'une visite à Londres le 14 octobre 2026. Il a critiqué les accords économiques conclus par Donald Trump avec Moscou ainsi que les limitations imposées au réseau de télécommunications Starlink.",
+   "corps": "Le président ukrainien a accordé un entretien au journaliste britannique Piers Morgan lors de son passage à Londres. Au cours de cet échange, Volodymyr Zelensky a répondu par l'affirmative lorsqu'il a été interrogé sur un sentiment de trahison venant de l'administration américaine. Le dirigeant a affirmé que les États-Unis choisissaient un camp opposé à celui de l'Ukraine.\n\nVolodymyr Zelensky a ciblé les récents accords d'importation de carburant russe conclus par le président américain Donald Trump avec Vladimir Poutine. Selon lui, cette entente sur le gazole place Washington du mauvais côté de l'histoire. Il a qualifié la relation d'affaires entre Donald Trump et Vladimir Poutine d'erreur. Le président ukrainien a également estimé que la Russie manifestait un manque de respect visible envers l'idée d'un cessez-le-feu énergétique avancée par Donald Trump.\n\nLe chef d'État a aussi contesté les nouvelles limitations d'accès imposées aux terminaux du réseau Starlink, propriété d'Elon Musk et de son entreprise SpaceX. Ces terminaux désignent des récepteurs satellite pour se connecter. Selon le dirigeant ukrainien, ces restrictions américaines réduisent l'accès de ses forces armées et perturbent directement les missions de leurs drones militaires.\n\nVolodymyr Zelensky a néanmoins affirmé qu'il continuait de compter sur le partenariat avec Washington. Il a rappelé que l'Ukraine accepterait une position neutre des États-Unis, tout en déplorant le risque d'éloignement d'un allié aux capacités majeures après plus de quatre ans de conflit armé.\n\nLes détails techniques des restrictions appliquées aux terminaux Starlink ne sont pas précisés par les déclarations officielles rapportées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-14/russia-hits-ukraine-energy-plants-in-blow-to-trump-s-truce-claim"
+    },
+    {
+     "nom": "newsweek.com",
+     "url": "https://newsweek.com/russia-showing-trump-ostentatious-disrespect-zelensky-12566225"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-nous-sommes-en-train-de-perdre-un-partenaire-puissant-deplore-volodymyr-zelensky-qui-se-sent-trahi-apres-l-accord-conclu-par-donald-trump-sur-le-gazole-russe_6791198_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-compter-sur-le-partenariat-avec-washington-meme-s-il-s-est-senti-trahi-par-les-recentes-annonces-de-donald-trump_8237677.html"
+    },
+    {
+     "nom": "ktvz.com",
+     "url": "https://ktvz.com/news/national-world/cnn-world/2026/10/14/zelensky-says-he-feels-betrayed-by-trump-after-russia-fuel-deal"
+    },
+    {
+     "nom": "localnews8.com",
+     "url": "https://localnews8.com/news/national-world/cnn-world/2026/10/14/zelensky-says-he-feels-betrayed-by-trump-after-russia-fuel-deal"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261014-depuis-londres-zelensky-exprime-son-amertume-apr%C3%A8s-avoir-%C3%A9t%C3%A9-trahi-par-trump-et-musk"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
+    }
+   ],
+   "premiere_parution": "2026-10-14T07:42:30Z",
+   "suite_de": null,
+   "mots": 295,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les livres de Sally Rooney sont retirés des librairies britanniques",
+   "chapeau": "L'auteure irlandaise Sally Rooney voit ses romans retirés de la vente au Royaume-Uni le 14 octobre 2026. Cette mesure fait suite à ses déclarations de soutien financier envers l'organisation militante interdite Palestine Action.",
+   "corps": "Les ouvrages de la romancière irlandaise Sally Rooney ne figurent plus dans les commerces du Royaume-Uni. L'écrivaine s'est fait connaître grâce à des romans comme Normal People, Conversations With Friends et Intermezzo. Elle a choisi de verser les revenus de ses droits d'auteur au collectif Palestine Action. Cette organisation fait l'objet d'une interdiction légale sur le sol britannique depuis le mois de juillet 2025.\n\nSally Rooney a déclaré publiquement qu'elle assumait les retombées de ses engagements. Elle a affirmé avoir cherché la franchise avec le public concernant ses intentions. L'auteure redoute que la diffusion de ses textes sur le territoire britannique ne constitue un délit de financement d'une entité terroriste. L'État britannique réprime en effet toute assistance matérielle accordée à des groupes inscrits sur la liste des mouvements proscrits.\n\n## Ce que disent les sources\n\nLes médias rapportent des explications distinctes concernant l'origine directe de ce retrait commercial. Selon le quotidien britannique Financial Times et le journal français Libération, l'écrivaine a elle-même choisi d'arrêter la commercialisation de ses volumes afin d'éviter une infraction pénale. Le journal allemand Der Spiegel indique aussi que l'auteure stoppe la vente de ses livres par précaution juridique. En revanche, le titre brésilien Folha de S.Paulo affirme que la Cour d'appel de Londres a prononcé l'interdiction de vente de ces ouvrages en Grande-Bretagne.\n\nPar ailleurs, le journal italien Corriere della Sera mentionne que les autorités ont classé l'association parmi les groupes terroristes après des actes violents. Les autres publications rappellent seulement la mesure d'interdiction décidée durant l'été 2025, sans préciser la nature des actions reprochées au collectif.\n\nLe texte de la décision judiciaire mentionnée par le quotidien brésilien n'est pas précisé dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "southwalesguardian.co.uk",
+     "url": "https://southwalesguardian.co.uk/news/national/26637172.sally-rooneys-books-withdrawn-uk-support-palestine-action"
+    },
+    {
+     "nom": "irishnews.com",
+     "url": "https://irishnews.com/news/ireland/sally-rooneys-books-withdrawn-from-uk-over-her-support-of-palestine-action-YQNPBBVKIZFLXPKW3FJFOX62H4"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/literatur/sally-rooney-stoppt-verkauf-ihrer-buecher-in-grossbritannien-a-f34e07d0-1f44-4b2c-9960-369654ce5c96"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/culture/livres/a-cause-de-son-soutien-a-palestine-action-lecrivaine-irlandaise-sally-rooney-decide-de-ne-plus-vendre-ses-livres-au-royaume-uni-20261014_G3FSQMY4V5FCJF7A3KZQ4NWELQ"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmx23q4g307vo"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/14/sally-rooneys-boeken-worden-niet-meer-verkocht-in-het-vk-vanwege-haar-steun-aan-palestine-action-a4938975"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/9209fd59-386b-4399-a870-0a3451548251?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support"
+    }
+   ],
+   "premiere_parution": "2026-10-14T01:00:00Z",
+   "suite_de": null,
+   "mots": 312,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La justice américaine émet des assignations visant Ilhan Omar après la perquisition",
+   "chapeau": "Le ministère de la Justice des États-Unis a délivré de nouvelles assignations judiciaires dans le cadre d'une procédure pénale visant l'élue Ilhan Omar. Cette étape fait suite à la fouille de son domicile de Washington effectuée le 12 octobre 2026.",
+   "corps": "Des agents fédéraux avaient inspecté la résidence de la parlementaire démocrate le 12 octobre 2026 au sujet des conditions de sa naturalisation.\n\nLe ministère de la Justice a validé le mandat de recherche exécuté dans le logement de la représentante du Minnesota. L'institution judiciaire indique que cette mesure relève d'une enquête fédérale en cours. Des agents chargés de l'immigration et des membres du ministère de la Sécurité intérieure participent à cette procédure pénale non détaillée par les autorités.\n\nLe ministère de la Justice a également envoyé des assignations à comparaître. Une assignation exige la remise de documents officiels ou le témoignage d'une personne devant un tribunal.\n\nDonald Trump et plusieurs de ses proches reprochent à Ilhan Omar des fraudes liées à son statut d'immigrée. Ils réclament son expulsion du territoire américain.\n\nL'élue du Minnesota a réagi publiquement après l'intervention des forces de l'ordre. Elle accuse l'administration en place d'instrumentaliser les services judiciaires afin de s'en prendre à des opposants politiques. La députée démocrate brigue un nouveau mandat lors du scrutin prévu en novembre 2026. Elle affirme par message sur les réseaux sociaux qu'elle refusera de se taire face à ces actions gouvernementales.\n\n## Ce que disent les sources\n\nConcernant l'agence responsable de l'opération du 12 octobre 2026, foxreno.com affirme que le FBI a mené la perquisition au domicile de l'élue, tandis qu'Al Jazeera et BBC News désignent des agents des services d'immigration et que Financial Times attribue l'enquête aux fonctionnaires du ministère de la Sécurité intérieure.\n\nLe contenu précis des assignations délivrées et la nature des éléments saisis lors de la perquisition ne sont pas précisés par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e05d76f8-2ced-4acc-a449-926b49559f9b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cvp8glg97393o"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/an-attempt-to-target-political-enemies-fury-as-us-agents-search-anti-trump-lawmakers-home"
+    },
+    {
+     "nom": "foxreno.com",
+     "url": "https://foxreno.com/news/nation-world/questions-mount-over-fbi-raid-at-rep-ilhan-omars-washington-home-amid-new-allegations-minnesota-fraud-somalia-refugee-immigrant-vice-president-jd-vance-president-donald-trump-politics"
+    }
+   ],
+   "premiere_parution": "2026-10-12T16:20:42Z",
+   "suite_de": "2026-10-13-monde-001",
+   "mots": 309,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Andy Burnham reçoit Volodymyr Zelensky à Londres et promet des missiles",
+   "chapeau": "Le premier ministre britannique Andy Burnham a accueilli le président ukrainien Volodymyr Zelensky à Londres le mercredi 14 octobre 2026. Cette rencontre officielle visait à renouveler l'appui du Royaume-Uni à l'Ukraine face à la Russie et aux tensions avec Washington.",
+   "corps": "Le chef du gouvernement britannique a organisé cette entrevue au 10 Downing Street. Andy Burnham a assuré Volodymyr Zelensky de l'engagement continu de son pays aux côtés de l'Ukraine. Le dirigeant travailliste a affirmé que le Royaume-Uni resterait présent aussi longtemps que la situation l'exigerait.\n\nLondres s'est engagé à fournir un nouvel ensemble de missiles sol-air. Le gouvernement britannique a précisé qu'il allait intensifier l'acheminement de ces armes de défense aérienne au cours des semaines à venir. Ces engins ciblent en vol les aéronefs adverses. Cette promesse militaire intervient alors que les forces russes ont lancé de nouveaux assauts de drones et de projectiles contre les installations énergétiques ukrainiennes.\n\nDurant son déplacement dans la capitale britannique, Volodymyr Zelensky a également rencontré le roi Charles III. Les autorités britanniques ont déployé un cérémonial officiel pour marquer l'importance accordée à ce partenariat européen.\n\nCe sommet bilatéral intervient au cours de la cinquième année du conflit armé mené par Moscou sur le sol ukrainien. Les pourparlers se sont tenus dans un climat d'incertitude diplomatique, alors que le président américain Donald Trump a conclu un accord commercial portant sur le carburant diesel avec la Russie. En réaction à ce rapprochement russo-américain, les autorités de Kiev et plusieurs capitales occidentales tentent d'organiser une réponse commune.\n\nLes désaccords entre Kiev et Washington se sont accentués ces derniers jours. Le samedi précédant la rencontre, Donald Trump a déclaré que l'Ukraine devrait désigner un nouveau responsable à sa tête. Le président des États-Unis a ainsi explicitement appelé au remplacement de Volodymyr Zelensky, renforçant la pression politique exercée sur le gouvernement ukrainien.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-13/burnham-hosts-zelenskyy-as-uk-grapples-with-trump-russia-policy"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/zelenskiy-visits-britain-as-burnham-pledges-fresh-support-for-ukraine"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-actu/andy-burnham-recoit-volodymyr-zelensky-a-downing-street-mercredi-soucieux-de-marquer-son-soutien-a-l-ukraine-20261013"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece"
+    },
+    {
+     "nom": "dunfermlinepress.com",
+     "url": "https://dunfermlinepress.com/news/national/26634184.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/uk-rolls-out-king-charles-welcome-zelenskyy-after-trump-rift"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c65yngxdzdd5o"
+    }
+   ],
+   "premiere_parution": "2026-10-13T09:45:00Z",
+   "suite_de": null,
+   "mots": 303,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump annonce de futures explorations de ressources au Groenland",
+   "chapeau": "Le président des États-Unis Donald Trump a communiqué à Washington des projets d'exploration de ressources au Groenland à la mi-octobre 2026. Cette déclaration vise les réserves de pétrole, de gaz et de minerais de ce territoire autonome danois.",
+   "corps": "Donald Trump a publié ses intentions sur le réseau Truth Social. Il affirme que des opérations d'exploration pétrolière, gazière et minière vont débuter sur l'île arctique. Le dirigeant américain qualifie cette région de stratégique pour la sécurité des États-Unis et de l'Europe. Il soutient que le territoire contient de larges réserves d'hydrocarbures faciles d'accès. Il ne fournit pas de preuves techniques ni d'éléments détaillés pour appuyer ses déclarations.\n\nCette annonce intervient trois semaines après la signature d'un accord de sécurité conclu le 22 septembre 2026 entre les États-Unis, le Danemark et le Groenland. Cet arrangement élargit l'ancrage militaire américain dans la zone arctique. Donald Trump avait auparavant formulé des menaces de prise de contrôle par la force sur cette île danoise.\n\nCe projet rencontre toutefois des restrictions réglementaires locales. Le gouvernement du Groenland a interdit la production de nouveaux hydrocarbures en 2021. L'entité autonome refuse les nouveaux forages de brut sur son sol. Selon Le Monde le 14 octobre 2026, la société américaine Greenland Energy cherche cependant à acquérir trois licences d'exploration et d'exploitation pétrolières qui restent valides dans la région. Des obstacles d'ordre financier, technique et juridique entravent aussi l'exploitation des gisements.\n\n## Ce que disent les sources\n\nLa Croix indique que Donald Trump a fait cette annonce le mardi 13 octobre 2026. ABC, Folha de S.Paulo et The Straits Times affirment que le président américain s'est exprimé le mercredi 14 octobre 2026.\n\nLes détails sur le calendrier opérationnel et sur les compagnies qui mèneraient ces forages n'ont pas été communiqués par la présidence américaine.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/northamerica/20261014/6566200bc6dc4937b5565f109c5de9ae/c.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/trump-annonce-qu-une-exploration-petroliere-gaziere-et-miniere-massive-se-prepare-dans-notre-groenland-20261014"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-anuncia-eeuu-comenzara-exploracion-masiva-petroleo-20261014093523-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/groenland-donald-trump-kuendigt-baldige-erschliessung-von-rohstoffen-an-a-cb62c452-a2e6-4df8-953b-b0c3b486ff61"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/groenland/donald-trump-annonce-qu-une-exploration-petroliere-gaziere-et-miniere-massive-se-prepare-dans-notre-groenland_8236807.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/14/groenland-donald-trump-annonce-qu-une-exploration-petroliere-gaziere-et-miniere-massive-se-prepare_6793673_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland"
+    }
+   ],
+   "premiere_parution": "2026-10-14T00:00:00Z",
+   "suite_de": null,
+   "mots": 294,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La police turque prend le contrôle de la chaîne d'opposition Halk TV",
+   "chapeau": "Les forces de l'ordre turques ont fait une descente dans les locaux de Halk TV à Istanbul le mercredi 14 octobre 2026. Les autorités ont placé ce média audiovisuel d'opposition sous administration judiciaire et ont interrompu ses émissions.",
+   "corps": "La police est intervenue à l'aube dans les studios de l'antenne stambouliote. Les agents ont coupé le signal en direct pendant la diffusion des programmes. Le parquet a ensuite nommé un administrateur judiciaire pour diriger la chaîne. Un administrateur judiciaire gère une société sous tutelle. Une procédure judiciaire vise la direction du média.\n\nLe pouvoir accuse le propriétaire de l'entreprise de corruption et de blanchiment d'argent selon NRC le 14 octobre 2026. L'opération a entraîné l'interpellation de onze employés de la chaîne d'après Folha de S.Paulo le 15 octobre 2026 à 02:07.\n\nCette chaîne d'information privée diffuse régulièrement des contenus critiques envers le président Recep Tayyip Erdogan. L'intervention policière s'est déroulée alors que le diffuseur comptait diffuser en direct la prise de parole d'Ekrem Imamoglu. Ekrem Imamoglu occupe la fonction de maire suspendu d'Istanbul. Cette saisie survient aussi deux semaines après l'arrêt officiel du portail d'actualité en ligne T24.\n\nLes formations politiques de l'opposition et les syndicats de journalistes ont dénoncé cette prise de contrôle. Des pays occidentaux et des organisations de défense des droits humains ont également contesté la légitimité de cette intervention policière.\n\nLe gouvernement turque mène en parallèle des actions contre plusieurs groupes critiques. Les forces de l'ordre ont organisé des descentes dans des débits de boisson et ont fouillé les sièges de plusieurs associations de la communauté LGBT. Les autorités ont aussi bloqué un site d'information lié à ces mouvements.\n\nL'identité précise de l'administrateur désigné par la justice n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-14/turkey-seizes-popular-opposition-tv-broadcaster-in-dawn-raid"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/0c178261-2c29-4677-9649-5b9257662d7e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/tv/tuerkei-polizei-stuermt-oppositionellen-fernsehsender-halk-tv-a-5b5c9c99-ac9a-4edc-80ee-2d6ba93fbd73"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-14/turquia-interviene-uno-de-los-ultimos-canales-opositores-en-medio-de-una-nueva-ola-censora.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/crx23y3d970vo"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_14/turchia-halk-tv-6d06e416-3eea-4079-835b-bfa991decxlk.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/14/turkse-autoriteiten-vallen-binnen-bij-oppositiegezinde-tv-zender-en-stellen-bewindvoerder-aan-a4938958"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-14T05:40:39Z",
+   "suite_de": null,
+   "mots": 288,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Raphaël Glucksmann gagne la primaire socialiste en vue de la présidentielle",
+   "chapeau": "Raphaël Glucksmann a remporté la primaire organisée par le Parti socialiste et Place publique le dimanche 11 octobre 2026 en France. Le député européen représentera ces deux formations lors de l'élection présidentielle de 2027.",
+   "corps": "Le dirigeant de Place publique a obtenu 66 % des voix au premier tour de cette consultation interne, selon le quotidien La Croix le 12 octobre 2026 à 20 heures 07. Le Monde a précisé le 15 octobre 2026 à 7 heures que l'élu a dépassé ce niveau de 66 % des suffrages face à quatre adversaires. Parmi ses concurrents figurait Olivier Faure, le premier secrétaire du Parti socialiste.\n\nLe scrutin a désigné le candidat commun des socialistes et de Place publique pour le scrutin national de 2027. Raphaël Glucksmann a indiqué qu'il souhaitait mettre fin à la domination politique exercée par Jean-Luc Mélenchon sur la gauche. L'eurodéputé a également formulé l'objectif de battre le Rassemblement national, ainsi que la volonté de marquer une séparation politique nette avec le pouvoir du président Emmanuel Macron.\n\nLe candidat désigné refuse toute entente politique avec La France insoumise. Cette position structure sa ligne pour le scrutin présidentiel à venir. Face à cette annonce, Jean-Luc Mélenchon s'est déplacé aux côtés de lycéens le mardi 13 octobre sans exprimer de commentaire public sur le résultat du vote socialiste.\n\nL'élu doit maintenant rassembler plusieurs sensibilités pour faire campagne. Le chercheur Olivier Guyottot souligne la difficulté d'unir les forces de gauche tout en rejetant une coalition avec les représentants de La France insoumise. La faible participation électorale relevée pendant le vote interne suscite des interrogations sur cette capacité d'union.\n\nRaphaël Glucksmann doit aussi préciser les détails de ses propositions programmatiques avant l'échéance électorale. L'élu n'avait pas souhaité au départ participer à une primaire avant de s'y soumettre et de l'emporter dès la première phase du vote.\n\nLe total précis des votants ainsi que le score chiffré de chacun des concurrents ne sont pas indiqués par les éléments transmis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/vainqueur-de-la-primaire-raphael-glucksmann-reinstalle-l-hypothese-dune-gauche-de-gouvernement-20261012"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/comment-raphael-glucksmann-peut-il-transformer-sa-victoire-a-la-primaire-en-dynamique-de-campagne-20261012_IVZDIXG2ZZBC5MB4TR56TIXI2Q"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-13/glucksmann-la-ultima-bala-de-la-socialdemocracia-francesa-para-frenar-a-le-pen-y-a-melenchon.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/idees/article/2026/10/13/presidentielle-2027-raphael-glucksmann-doit-sortir-du-flou-programmatique_6793086_3232.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/presidentielle-2027-jean-luc-melenchon-tente-d-invisibiliser-raphael-glucksmann-pour-regner-en-seul-maitre-a-gauche-20261013"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261014-pr%C3%A9sidentielle-2027-le-plus-dur-commence-pour-rapha%C3%ABl-glusksmann"
+    }
+   ],
+   "premiere_parution": "2026-10-12T16:07:22Z",
+   "suite_de": null,
+   "mots": 323,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-002",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "L'Assemblée nationale commence l'examen du projet de budget 2027",
+   "chapeau": "Les députés français ont entamé l'examen du projet de loi de finances pour 2027 à Paris le mardi 13 octobre 2026. Le gouvernement de Sébastien Lecornu défend ce texte devant une Assemblée nationale sans majorité absolue.",
+   "corps": "Les discussions dans l'hémicycle portent d'abord sur la première partie du texte, consacrée aux recettes de l'État. La commission des finances avait rejeté cette copie initiale la semaine précédant les débats en séance publique. Selon Le Monde le 14 octobre 2026 à 07h00, les députés ont déposé 3 878 amendements sur ce premier volet.\n\nLe gouvernement vise la réduction du déficit public pour atteindre un niveau équivalent à 5 % de la production nationale, rapporte France 24 le 14 octobre 2026 à 03h18. Cette même source indique que le texte comprend un effort de 43 milliards d'euros de mesures nouvelles. L'exécutif affirme chercher des compromis tout en maintenant cette cible chiffrée.\n\nDès l'ouverture des séances, les députés du Parti socialiste ont présenté une motion de rejet préalable. Cette procédure législative vise à stopper immédiatement les débats sans examiner les articles. La représentation nationale a repoussé cette motion mardi soir. Le groupe Rassemblement national a voté contre cette initiative socialiste avec le camp gouvernemental, ce qui a permis la poursuite des débats.\n\nLe Parti socialiste justifie sa démarche par son refus des orientations financières de l'exécutif. Il souhaitait transmettre directement le texte au Sénat après son rejet en commission. Les députés socialistes tentent d'afficher une position commune face au pouvoir exécutif après leur primaire interne. Les oppositions attribuent la dégradation des finances publiques aux dix années de gestion du président Emmanuel Macron.\n\nLe pouvoir exécutif fait face à l'absence de majorité parlementaire stable depuis 2024. Le Premier ministre Sébastien Lecornu dispose de voies constitutionnelles pour faire aboutir son budget si les votes échouent. Il peut recourir à l'article 49.3 de la Constitution ou utiliser une promulgation directe par ordonnance. L'article 49.3 permet l'adoption d'un texte sans vote des députés. Une ordonnance permet d'appliquer une loi par décision directe du gouvernement. Ces deux options exposent le gouvernement à des motions de censure susceptibles de le renverser.\n\nLes discussions se déroulent dans un climat marqué par des contestations lycéennes et des inquiétudes liées au pouvoir d'achat. L'échéance de l'élection présidentielle, prévue moins de sept mois plus tard, influe également sur l'attitude des forces politiques.\n\nLe décompte précis des voix lors du vote sur la motion de rejet socialiste n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/tous-les-outils-sont-sur-la-table-a-l-assemblee-nationale-la-grande-bataille-du-budget-2027-s-engage-dans-un-climat-degrade-20261012"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261013-france-toujours-aussi-divis%C3%A9e-l-assembl%C3%A9e-nationale-entame-l-examen-du-budget-2027-sur-fond-de-crises-multiples"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/budget/retraites-taxe-zucman-pouvoir-d-achat-le-volet-recettes-du-projet-de-budget-arrive-a-l-assemblee_8235067.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/live/2026/10/13/en-direct-budget-2027-suivez-les-debats-a-l-assemblee-nationale-ou-les-deputes-commencent-l-examen-du-projet-de-loi-de-finances_6793072_823448.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/budget-2027-entre-le-ps-et-le-gouvernement-un-dialogue-de-sourds-20261013"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261013-budget-2027-debat-ouvert-assemblee-nationale-deficit-dette-retraites"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/budget-lassemblee-vote-contre-la-motion-de-rejet-prealable-franc-desaccord-entre-le-ps-et-le-gouvernement-20261014_MGWCNVBH6NCQFJF6NF4UJ22K3E"
+    }
+   ],
+   "premiere_parution": "2026-10-12T18:00:00Z",
+   "suite_de": null,
+   "mots": 408,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Lycéen blessé à Lens : la famille dépose une nouvelle plainte",
+   "chapeau": "L'avocat d'Evan a annoncé mercredi 14 octobre 2026 le dépôt d'une plainte avec constitution de partie civile pour violences volontaires ayant entraîné une infirmité permanente. Cet adolescent de 15 ans a subi l'amputation de sa main gauche après l'explosion d'une grenade policière à Lens début octobre.",
+   "corps": "Maître Bertrand Wattez a tenu une conférence de presse mercredi pour exposer la démarche des proches du jeune homme. Selon son conseil, la victime a répondu mardi aux questions de l'Inspection générale de la police nationale depuis sa chambre au centre hospitalier régional de Lille.\n\n## Ce que disent les sources\n\nSelon Le Figaro du 14 octobre 2026 à 14 h 58, l'avocat a expliqué lors du point presse les raisons pour lesquelles l'adolescent ramassait des débris. Selon Le Monde du 14 octobre 2026 à 16 h 06, la défense affirme que l'élève en seconde professionnelle nie avoir ramassé l'engin explosif.\n\nPar ailleurs, l'avocat conteste les déclarations du procureur de Béthune, lequel soutient que les forces de l'ordre ont employé la munition selon les règles d'intervention prévues.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/des-faits-de-nature-criminelle-l-avocat-du-lyceen-a-la-main-arrachee-a-lens-a-depose-plainte-pour-violences-volontaires-ayant-entraine-une-infirmite-permanente_8236930.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/ce-sont-des-blessures-de-guerre-l-avocat-du-lyceen-a-la-main-arrachee-a-lens-explique-pourquoi-il-ramassait-des-debris-20261014"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/14/lyceen-ampute-d-une-main-a-lens-la-famille-s-est-constituee-partie-civile-pour-connaitre-la-verite_6793734_3224.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/mutilation-dun-lyceen-a-lens-ramassee-ou-pas-quest-ce-quelle-foutait-la-cette-grenade-20261014_PFGMJC43NJAPJH3QU7TLXSJNZI"
+    }
+   ],
+   "premiere_parution": "2026-10-14T10:34:03Z",
+   "suite_de": null,
+   "mots": 172,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "L'Assemblée nationale vote la proposition de loi contre les violences sexuelles",
+   "chapeau": "Les députés ont adopté le texte contre les violences sexistes et sexuelles le 13 octobre 2026 à Paris. Cette proposition de loi poursuit son parcours au Sénat.",
+   "corps": "Le texte vise à identifier plus tôt les violences et à accompagner les femmes et les enfants victimes. Il prévoit des structures de justice spécialisées et une accélération des procédures. Dans le code pénal, l'inceste reçoit une qualification autonome, qui intègre les cousins germains, selon l'association Face à l'inceste.\n\nCe projet trouve son origine dans une mobilisation féministe déclenchée par la mort de Lyhanna. D'après franceinfo le 14 octobre 2026 à 12h43, le texte initial contenait 78 articles et en réunit 133 après les débats entamés le 1er octobre. Le Sénat étudiera le document à partir de janvier.\n\nLe montant des crédits affectés à l'application de ces dispositions reste inconnu.\n\n## Ce que disent les sources\n\nLes médias présentent des bilans différents sur le scrutin. La Croix et France 24 mentionnent un vote à l'unanimité. Selon franceinfo le 14 octobre 2026 à 11h27, le vote s'est fait à l'unanimité des votants. Libération indique le 13 octobre 2026 à 22h01 que 67 parlementaires ont choisi l'abstention. Mathilde Panot, présidente du groupe La France insoumise, a affirmé sur franceinfo le 14 octobre 2026 à 11h07 que ses députés ont rejeté le texte en raison d'un manque de budget et de mesures de prévention.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/harcelement-sexuel/infraction-sur-l-inceste-juridictions-specialisees-quelles-sont-les-mesures-retenues-par-l-assemblee-nationale-dans-la-proposition-de-loi-integrale-contre-les-violences-sexuelles_8233648.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/violences-sexistes-et-sexuelles-l-assemblee-nationale-adopte-la-proposition-de-loi-integrale-20261013"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/droits-des-femmes/la-loi-integrale-contre-les-violences-faites-aux-femmes-et-aux-enfants-passe-un-premier-cap-a-lassemblee-20261013_UVLHZ7FQWJFGZN6YZDG4GBNQGI"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/idees/article/2026/10/14/loi-integrale-contre-les-violences-sexuelles-un-premier-pas-pour-rester-dans-l-histoire_6793712_3232.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261014-violences-sexuelles-les-nouvelles-mesures-pour-accompagner-les-victimes-en-france"
+    }
+   ],
+   "premiere_parution": "2026-10-12T22:11:48Z",
+   "suite_de": null,
+   "mots": 227,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le gouvernement évalue les aides publiques aux entreprises pour l'année 2024",
+   "chapeau": "Le gouvernement français a publié mardi 13 octobre 2026 une première évaluation officielle des soutiens financiers accordés au secteur privé. Ce bilan chiffré répond aux exigences de clarté exprimées par une commission d'enquête sénatoriale.",
+   "corps": "Le ministère des Finances a intégré ce document inédit aux textes budgétaires. L'exécutif y évalue les concours publics versés en 2024 à 166 milliards d'euros, selon le rapport officiel mentionné le 13 octobre 2026 par franceinfo et Le Figaro. Le pouvoir exécutif avait initié ces travaux à la fin de l'année 2025. Les sénateurs regrettaient alors le manque d'un cadre légal unifié pour qualifier ces soutiens. L'État renouvellera ce recensement financier chaque année.\n\n## Ce que disent les sources\n\nFrance 24 indique le 14 octobre 2026 à 21:25 que le montant total varie entre 60 milliards et 166 milliards d'euros selon les modes de calcul retenus. La Croix rapporte le 14 octobre 2026 à 21:50 le seul montant de 166 milliards d'euros, qu'elle met en regard des 465 milliards d'euros de prélèvements obligatoires pesant sur les sociétés en 2024.\n\nLe détail des méthodes retenues pour fixer la borne basse à 60 milliards d'euros n'est pas précisé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/budget/le-gouvernement-estime-a-166-milliards-d-euros-les-aides-publiques-apportees-aux-entreprises-en-2024_8235373.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/le-gouvernement-va-chiffrer-les-aides-aux-entreprises-chaque-annee-evaluees-a-166-milliards-d-euros-en-2024-20261013"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261014-france-premier-chiffrage-officiel-aides-publiques-aux-entreprises-166-milliards-euros"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/aides-publiques-aux-entreprises-bercy-chiffre-et-decrypte-les-166-milliards-d-euros-verses-par-letat-20261014"
+    }
+   ],
+   "premiere_parution": "2026-10-13T11:37:46Z",
+   "suite_de": null,
+   "mots": 191,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Les lycéens maintiennent des blocages avant une rencontre ministérielle",
+   "chapeau": "Des élèves et des étudiants ont poursuivi le blocage de plusieurs établissements scolaires en France le mercredi 14 octobre 2026. Cette mobilisation intervient avant un rendez-vous prévu jeudi entre leurs représentants et deux ministres.",
+   "corps": "Selon le ministère de l'Éducation nationale le 14 octobre 2026, 4 % des lycées restaient fermés mercredi. Le gouvernement a affirmé que 96 % des établissements demeuraient ouverts ce même jour. Le quotidien Le Monde a rapporté le 14 octobre 2026 un total de 7 950 gardes à vue depuis le début de la contestation.\n\nLes organisations de jeunesse ont rendez-vous ce jeudi 15 octobre 2026 à 17 h 30 avec les ministres de l'Éducation nationale et de l'Enseignement supérieur. Certains collectifs appellent aussi à manifester le samedi 17 octobre 2026 avec les gilets jaunes.\n\n## Ce que disent les sources\n\nPour les manifestations du mardi 13 octobre 2026, les autorités ont dénombré 161 000 participants selon La Croix et 161 500 selon Le Figaro et franceinfo. Les organisateurs ont compté 480 000 personnes pour cette même journée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/en-direct-manifestation-mardi-13-octobre-blocus-lycees-mobilisation-lyceen-aujourdhui-20261013"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/mobilisations-des-facs-aux-anciens-gilets-jaunes-on-prend-le-relais-des-lyceens-20261013_PKTFHXJZRVCTLMHOKE7HZOXIP4"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/reportage-france/20261013-mobilisation-lyc%C3%A9enne-en-france-un-d%C3%A9clic-politique-pour-des-jeunes-avant-la-pr%C3%A9sidentielle"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/le-mouvement-lyceen-s-essouffle-malgre-l-activisme-d-une-minorite-militante-20261013"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/budget-le-gouvernement-pas-ferme-a-l-idee-de-soutenir-davantage-la-jeunesse-mais-il-faudra-equilibrer_8236771.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/14/mouvement-lyceen-96-des-lycees-sont-ouverts-mercredi-selon-edouard-geffray-le-ministre-de-l-education-nationale_6793637_3224.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261014-france-des-lyc%C3%A9es-toujours-bloqu%C3%A9s-mais-la-mobilisation-en-baisse"
+    }
+   ],
+   "premiere_parution": "2026-10-12T18:25:00Z",
+   "suite_de": null,
+   "mots": 169,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-007",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Attaque dans un collège à Aubagne : le tireur de 14 ans écroué",
+   "chapeau": "La justice a mis en examen et placé en détention provisoire un élève de 14 ans mercredi 14 octobre 2026 à Paris. Le parquet national antiterroriste poursuit le suspect pour des tirs commis le 12 octobre contre deux membres du personnel dans son collège d'Aubagne.",
+   "corps": "Le juge antiterroriste reproche au collégien des tentatives d'assassinats liées à un projet terroriste. L'adolescent avait blessé avec une arme à feu le principal et une professeure au sein de l'établissement situé dans les Bouches-du-Rhône.\n\nLe suspect a reconnu le déroulement de l'agression. Le parquet national antiterroriste précise qu'il réfute toutefois l'intention de donner la mort. L'adolescent justifie aussi son geste par une volonté de représailles face à des brimades d'enseignants et d'élèves. Les enquêteurs n'ont pas confirmé cette allégation.\n\nLe prévenu a préparé son passage à l'acte durant plusieurs mois d'après ses aveux. Il concède avoir subi l'ascendant d'un collectif virtuel nommé True Crime Community, un espace en ligne valorisant les meurtriers collectifs. Selon les calculs présentés le 14 octobre 2026 par le chercheur Alexandre Rodde, neuf agressions en milieu éducatif en France pourraient découler de cette mouvance depuis 2008.\n\nL'origine de l'arme employée lors de l'agression reste non précisée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/une-fascination-adolescente-pour-les-tueries-de-masse-quest-ce-que-la-true-crime-community-a-laquelle-pourrait-adherer-lauteur-de-lattaque-du-college-daubagne-20261013_MSAUKQ562FBFFOQOHV4W2WIB4Q"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/terrorisme/antiterrorisme/ils-veulent-se-placer-dans-une-lignee-d-assaillant-un-specialiste-decrypte-la-true-crime-community-la-mouvance-de-l-adolescent-auteur-de-tirs-dans-un-college_8236825.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/fusillade-a-aubagne-l-influence-de-la-true-crime-community-fascinee-par-lextreme-violence-20261014"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/marseille/fusillade-d-aubagne-le-tireur-de-14-ans-presente-a-la-justice-antiterroriste-20261014"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/14/aubagne-l-adolescent-de-14-ans-mis-en-examen-pour-tentatives-d-assassinats-en-relation-avec-une-entreprise-terroriste_6793727_3225.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261014-fusillade-%C3%A0-aubagne-la-mouvance-true-crime-community-est-un-ph%C3%A9nom%C3%A8ne-qui-se-mondialise-tr%C3%A8s-vite"
+    }
+   ],
+   "premiere_parution": "2026-10-13T12:13:21Z",
+   "suite_de": null,
+   "mots": 196,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-france-008",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Un instituteur de Charente mis en examen pour agressions sexuelles",
+   "chapeau": "La justice a mis en examen et incarcéré un enseignant de maternelle de 60 ans en Charente, mercredi 14 octobre 2026. L'homme fait face à des accusations d'atteintes sexuelles sur de jeunes élèves d'un établissement de Soyaux.",
+   "corps": "Le parquet a requis le placement en détention provisoire lors de la présentation de l'enseignant devant un juge le 14 octobre 2026. La juridiction a ordonné son incarcération le jour même.\n\nLes services de police avaient déjà retenu cet instituteur en garde à vue au cours du mois de juillet. Les enquêteurs lui reprochaient alors la prise d'une photographie d'une écolière durant le temps de repos.\n\n## Ce que disent les sources\n\nfranceinfo indique le 14 octobre 2026 à 14 h 04 que les investigations portent sur des agressions sexuelles et un viol visant plusieurs enfants. Le Monde précise le 14 octobre 2026 à 23 h 46 que la mise en examen concerne des agressions sexuelles commises contre quatre fillettes.\n\nL'identité précise du mis en cause n'est pas mentionnée dans les éléments disponibles.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/harcelement-sexuel/un-instituteur-d-une-ecole-maternelle-en-charente-vise-par-une-enquete-pour-agressions-sexuelles-et-viol-sur-plusieurs-enfants_8237044.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/14/charente-un-instituteur-mis-en-examen-pour-agressions-sexuelles-sur-quatre-fillettes_6793796_3224.html"
+    }
+   ],
+   "premiere_parution": "2026-10-14T10:04:02Z",
+   "suite_de": null,
+   "mots": 169,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "La Corée du Nord teste des missiles de croisière tirés depuis des sous-marins",
+   "chapeau": "La Corée du Nord a annoncé jeudi 15 octobre 2026 le tir d'essai de deux types d'engins depuis des sous-marins vers la mer du Japon. L'agence officielle nord-coréenne KCNA a précisé que ces opérations se sont déroulées au large de la côte est mercredi.",
+   "corps": "L'agence d'État KCNA a officialisé ces tirs d'entraînement jeudi matin. Les autorités nord-coréennes ont lancé deux modèles distincts d'engins guidés à longue portée. L'expression missile de croisière désigne une arme guidée volant à basse altitude. Les vecteurs sont partis depuis des bâtiments sous-marins vers les eaux orientales.\n\nDes officiers supérieurs de l'armée ont supervisé le déroulement des opérations en mer. Les médias officiels ont diffusé des photographies montrant un projectile en vol horizontal au-dessus des flots. L'agence de presse gouvernementale a affirmé que ces manœuvres n'ont causé aucun impact négatif pour la sécurité des pays voisins.\n\nLes médias d'État ont détaillé les objectifs de ces essais militaires. Les tirs visaient à mesurer l'état de préparation des dispositifs de combat sous-marins. L'état-major nord-coréen souhaitait également évaluer l'aptitude de sa marine à accomplir des tâches stratégiques. KCNA a soutenu que l'exercice visait à démontrer la fiabilité de sa force de dissuasion nucléaire et ses capacités de dissuasion régionale de guerre.\n\nCes lancements interviennent après plusieurs séries de tests d'armes menées par l'armée nord-coréenne au fil des dernières semaines. Les essais surviennent également dans un contexte de nouvelles propositions de rencontre formulées par Donald Trump à destination du dirigeant Kim Jong Un.\n\nLes sources ne précisent pas le modèle exact des sous-marins utilisés ni la distance franchie par les missiles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-actu/la-coree-du-nord-procede-a-des-essais-de-tirs-de-missiles-de-croisiere-strategiques-20261014"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/north-korea-says-it-tested-submarine-launched-cruise-missiles-kcna-says"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/asie-pacifique/20261014-pyongyang-coree-nord-procede-essais-tir-de-missiles-croisiere-depuis-sous-marins-kcna-kim-jong-un-mer-japon"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/15/la-coree-du-nord-annonce-proceder-a-des-tests-de-missiles-de-croisiere-strategiques-depuis-des-sous-marins_6793897_3210.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-15/kim-tests-submarine-launched-missiles-after-trump-floats-meeting"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports"
+    }
+   ],
+   "premiere_parution": "2026-10-14T21:35:23Z",
+   "suite_de": null,
+   "mots": 261,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "L'Ukraine accuse SpaceX de restreindre l'usage militaire de Starlink",
+   "chapeau": "Les autorités ukrainiennes ont accusé mercredi 14 octobre 2026 la société américaine SpaceX de brider son service internet Starlink sur leur territoire. Cette mesure perturbe le pilotage des drones et les transmissions militaires dans l'ensemble du pays.",
+   "corps": "Le gouvernement ukrainien affirme que la société dirigée par Elon Musk restreint l'accès à son réseau de télécommunications par satellite. Ce bridage, qui signifie une réduction volontaire du débit technique, affecte les terminaux déployés sur la ligne de front depuis la nuit du mardi 13 au mercredi 14 octobre 2026.\n\nCes perturbations limitent directement le fonctionnement des aéronefs sans pilote ukrainiens. Les appareils qui dépassent une certaine vitesse de vol perdent leur liaison avec les opérateurs. Les missions d'attaque à moyenne portée et les opérations d'interception contre les drones russes subissent des dysfonctionnements majeurs. L'organisation logistique des forces armées rencontre également de lourdes difficultés.\n\nLe président ukrainien Volodymyr Zelensky a formellement demandé à Elon Musk de rétablir les connexions initiales. Selon les autorités de Kyiv, ces coupures interviennent au moment où la Russie mène des tirs de missiles balistiques contre le réseau électrique sans alerte préalable des États-Unis. Le président Zelensky a qualifié ces frappes russes de manque de respect affiché envers Donald Trump.\n\nLes restrictions surviennent dans un contexte de tensions politiques avec Washington. L'administration américaine accentue sa pression sur Kyiv afin d'obtenir l'arrêt immédiat des attaques ukrainiennes contre les raffineries de pétrole en Russie. Les analystes soulignent que ces limitations illustrent la vulnérabilité d'une armée face aux décisions d'une entreprise privée étrangère.\n\nLa réaction de l'entreprise SpaceX et les explications techniques détaillées de sa direction ne figurent pas dans les éléments disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraine-says-spacex-limits-starlink-operations-disrupting-military"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261014-ukraine-la-d%C3%A9pendance-de-l-arm%C3%A9e-%C3%A0-starlink-en-question"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-drones-ukrainiens-prives-de-connexion-au-reseau-starlink-un-coup-dur-sur-lequel-plane-l-ombre-de-washington_8236924.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/avec-la-perte-du-reseau-starlink-en-ukraine-beaucoup-plus-de-civils-mourront-20261014_KTJBQXH6FRHBRPCAWULQG5OZ3A"
+    }
+   ],
+   "premiere_parution": "2026-10-14T08:17:25Z",
+   "suite_de": null,
+   "mots": 271,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "La Chine et la Corée du Nord ouvrent un nouveau pont frontalier",
+   "chapeau": "Les autorités chinoises et nord-coréennes ouvrent ce jeudi 15 octobre 2026 une nouvelle voie routière au-dessus du fleuve Yalu. L'ouvrage relie la localité chinoise de Dandong à la ville nord-coréenne de Sinuiju.",
+   "corps": "L'inauguration rassemble des représentants des deux pays lors d'un événement commun ce jeudi. Des camions forment déjà des files d'attente pour franchir la frontière. L'agence officielle Chine nouvelle a annoncé cette mise en service la veille.\n\nCet ouvrage à haubans, soutenu par des câbles d'acier, assure une liaison routière directe entre les deux territoires. Il traverse le fleuve Yalu sur la frontière commune dans la province du Liaoning. L'infrastructure devient opérationnelle après un retard de douze ans sur le calendrier initial.\n\nLe gouvernement chinois présente cette route comme un moyen de développer le trafic transfrontalier. Selon Pékin, cette voie vise à encourager les flux économiques et les échanges de marchandises avec son voisin. La Chine constitue le principal partenaire commercial de la Corée du Nord.\n\nCe point de passage routier renforce les liens bilatéraux entre les deux capitales. Les échanges commerciaux via ce corridor offrent à Pyongyang un appui face aux régimes de sanctions internationales en vigueur.\n\nLe coût total de construction du pont et le volume précis de marchandises attendu quotidiennement ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/china-north-korea-bridge-to-open-on-october-15"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/coree-du-nord/un-nouveau-pont-va-ouvrir-jeudi-entre-la-chine-et-la-coree-du-nord_8236819.html"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_14?evenement=34d12567ba"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261014-inauguration-d-un-nouveau-pont-reliant-la-chine-%C3%A0-la-cor%C3%A9e-du-nord"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/international-relations/china-north-korea-traffic-to-increase-with-new-bridge-opening"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/ck1exgw3j115o"
+    }
+   ],
+   "premiere_parution": "2026-10-14T02:35:43Z",
+   "suite_de": null,
+   "mots": 211,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Elon Musk attribue au gouvernement américain le ralentissement du réseau Starshield",
+   "chapeau": "Le président ukrainien Volodymyr Zelensky a interrogé Washington le 14 octobre 2026 sur les restrictions du système Internet par satellite Starshield. Elon Musk a répondu que l'administration américaine dirigeait ce réseau militaire.",
+   "corps": "Le dirigeant ukrainien Volodymyr Zelensky a exprimé ses inquiétudes le 14 octobre 2026 concernant la diminution du soutien américain. Il a réclamé des explications sur les limites d'accès au réseau Starshield, une version militaire du système Starlink mise au point par l'entreprise d'Elon Musk.\n\nEn réponse, le milliardaire a déclaré sur le réseau social X que le gouvernement des États-Unis possède et contrôle le système utilisé par les forces ukrainiennes. Selon France 24 le 14 octobre 2026, Elon Musk a affirmé que l'autorité directe revenait au président américain Donald Trump.\n\nL'Ukraine a rapporté que ces restrictions techniques perturbent le fonctionnement de ses drones aériens et de ses capacités de défense antiaérienne. D'après Franceinfo le 15 octobre 2026, ces entraves compliquent les actions menées dans le cadre du conflit armé contre la Russie.\n\nLa BBC a indiqué le 15 octobre 2026 que l'accès au service s'est amélioré, mais que des limitations de vitesse persistent et nuisent aux opérations militaires sur le terrain. L'entreprise SpaceX rejette la responsabilité de ces dysfonctionnements sur les autorités américaines, selon l'agence BGNES le 15 octobre 2026.\n\nCertains éléments manquent pour connaître la nature exacte des ordres émis par Washington.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261014-direct-ukraine-attaque-russe-massive-sites-%C3%A9nerg%C3%A9tiques-au-moins-six-morts-guerre-chemin-fer"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/musk-suggests-us-govt-behind-any-slowdown-in-ukraines-starshield-system"
+    },
+    {
+     "nom": "dailymirror.lk",
+     "url": "https://dailymirror.lk/international/Musk-says-US-government-may-be-behind-slowdown-of-Ukraine-drone-speeds/107-352529"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-elon-musk-suggere-que-le-gouvernement-americain-est-responsable-d-un-potentiel-ralentissement-du-reseau-militaire-starshield_8238058.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo"
+    },
+    {
+     "nom": "bgnes.com",
+     "url": "https://bgnes.com/conflicts/musk-suggests-us-behind-any-slowdown-of-starshield-in-ukraine"
+    }
+   ],
+   "premiere_parution": "2026-10-14T06:09:23Z",
+   "suite_de": null,
+   "mots": 225,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'Ukraine subit des bombardements russes meurtriers contre son réseau énergétique",
+   "chapeau": "Les forces russes ont bombardé plusieurs régions ukrainiennes entre le 13 et le 15 octobre 2026. Ces frappes répétées ont touché des infrastructures énergétiques et des zones résidentielles à travers le pays.",
+   "corps": "Dans la capitale, les tirs ont endommagé le réseau de distribution d'électricité. Le président Volodymyr Zelensky a affirmé que 600 000 personnes manquaient d'électricité à Kiev au matin du 14 octobre 2026, selon France 24 le 14 octobre 2026 à 13h17. Plusieurs bâtiments ont pris feu. Parmi les blessés se trouve un enfant âgé de huit ans, selon le Corriere della Sera le 14 octobre 2026 à 10h02.\n\nLes bombardements ont continué la nuit suivante dans le centre et l'est du pays. Les administrations militaires locales ont annoncé au moins cinq morts dans la nuit de mercredi à jeudi, d'après Le Monde le 15 octobre 2026 à 08h57. Trois personnes sont mortes et six ont été blessées dans la région de Kirovohrad, selon le responsable militaire régional Andriy Raikovych cité par Le Monde le 15 octobre 2026 à 03h27. Deux personnes ont aussi perdu la vie dans l'oblast de Dnipropetrovsk, d'après Le Monde le 15 octobre 2026 à 08h57.\n\nLes autorités ukrainiennes ont déclaré qu'elles n'avaient pas pu anticiper l'assaut nocturne du 14 octobre 2026. Elles ont évoqué un manque de données transmises par les alliés et des restrictions appliquées aux satellites civils Starlink. Ces satellites sont des relais de télécommunication spatiale en orbite basse. Des responsables ukrainiens suggèrent que le gouvernement américain restreint ses renseignements pour obtenir l'arrêt des frappes de Kiev contre les raffineries russes, d'après France 24 le 14 octobre 2026 à 19h03. Volodymyr Zelensky a qualifié ces attaques sur Kiev de mépris russe envers les États-Unis, en rappelant l'annonce préalable d'une trêve par Donald Trump, d'après Le Monde le 14 octobre 2026 à 17h06. Le président ukrainien s'est aussi dit trahi par de récentes annonces américaines sur le diesel, d'après La Croix le 14 octobre 2026 à 23h03.\n\n## Ce que disent les sources\n\nLes bilans humains des frappes de la nuit du 13 au 14 octobre 2026 varient selon les médias. Le Corriere della Sera mentionne au moins trois morts à Kiev le 14 octobre 2026 à 10h02. France 24 et Libération font état d'au moins six morts en Ukraine le 14 octobre 2026 à 13h17 et 15h33. franceinfo rapporte au moins sept morts dans le pays le 14 octobre 2026 à 17h41. France 24 dénombre ensuite au moins 12 morts à Kiev le 14 octobre 2026 à 17h49. Enfin, La Croix relève au moins 13 morts pour l'ensemble du pays le 14 octobre 2026 à 23h03.\n\nLes autorités américaines et les représentants de l'entreprise Starlink n'ont pas formulé de réponse publique sur les limitations de renseignement rapportées par Kiev.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159659"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/ucraina-nuovo-attacco-russo-a-kiev-almeno-3-i-morti-in-fiamme-diversi-edifici/c33add7e-56e7-4eec-9a08-46177300bxlk"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261014-ukraine-plusieurs-quartiers-de-kiev-priv%C3%A9s-d-%C3%A9lectricit%C3%A9-apr%C3%A8s-une-nuit-meurtri%C3%A8re"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/ukraine-des-infrastructures-energetiques-encore-frappees-par-la-russie-au-moins-6-morts-dans-le-pays-20261014_VX43GGFVEJC3RFAUYSFJHJNQ7Q"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-apres-les-attaques-russes-sur-kiev-volodymyr-zelensky-denonce-une-demonstration-de-mepris-de-la-part-de-la-russie-envers-l-amerique_6791198_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-7-morts-en-ukraine-apres-une-attaque-sans-alerte_8237266.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1694-point-conflit-ukrainien-poutine-aujourdhui-20261014"
+    }
+   ],
+   "premiere_parution": "2026-10-13T12:00:00Z",
+   "suite_de": null,
+   "mots": 456,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-economie-001",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Le gouvernement américain inflige une amende au Bank of America",
+   "chapeau": "Les autorités américaines ont condamné le Bank of America à verser plus de 1,2 milliard de dollars le 14 octobre 2026. L'établissement financier est sanctionné pour des manquements aux lois contre le blanchiment d'argent.",
+   "corps": "Le département du Trésor des États-Unis et des régulateurs fédéraux ont imposé cette sanction financière de 1,2 milliard de dollars, selon les déclarations publiées le 14 octobre 2026 par le Financial Times et The Guardian. Cette pénalité constitue la troisième plus importante de l'histoire du département du Trésor, d'après les informations du Guardian du même jour.\n\nL'institution bancaire n'a pas signalé correctement plus de 5 milliards de dollars de flux financiers suspects, d'après le département du Trésor cité par le Financial Times le 14 octobre 2026. Ces opérations financières provenaient de réseaux potentiels de blanchiment d'argent situés en Chine et à la frontière sud des États-Unis, selon les précisions de la BBC le 14 octobre 2026.\n\nLe Bank of America a reconnu des infractions délibérées aux réglementations, d'après ibtimes.com.au le 14 octobre 2026. La direction de la banque a indiqué que cette sanction financière réduira ses bénéfices pour le troisième trimestre, selon The Guardian le 14 octobre 2026.\n\n## Ce que disent les sources\n\nLe montant exact de la pénalité varie légèrement selon les publications. Le Financial Times et d'autres médias mentionnent une amende de 1,2 milliard de dollars au 14 octobre 2026, tandis que Bloomberg et The Guardian évoquent une somme supérieure à 1,21 milliard de dollars à la même date. Concernant le statut de l'établissement, Al Jazeera et Der Spiegel le présentent comme la deuxième plus grande banque des États-Unis le 14 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "4029tv.com",
+     "url": "https://4029tv.com/article/bank-of-america-12-billion-fine-money-laundering-sanctions/74124119"
+    },
+    {
+     "nom": "livemint.com",
+     "url": "https://livemint.com/focus/us-hits-bank-of-america-with-usd-1-2-billion-fine-says-it-violated-money-laundering-sanctions-laws-11791925506200.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/tesouro-dos-eua-multa-bank-of-america-em-us-12-bilhao-por-falhas-no-combate-a-lavagem-de-dinheiro.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-13/bofa-fined-more-than-1-2-billion-for-money-laundering-video"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm3wvxy6n3z8o"
+    }
+   ],
+   "premiere_parution": "2026-10-13T20:00:06Z",
+   "suite_de": null,
+   "mots": 275,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-15-economie-002",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "La hausse des prix aux Etats-Unis atteint 3,7 pour cent en septembre",
+   "chapeau": "Les prix à la consommation ont augmenté de 3,7 pour cent sur un an aux Etats-Unis en septembre 2026, selon un rapport gouvernemental publié le 14 octobre. Cette accélération intervient à quelques semaines des élections législatives de mi-mandat.",
+   "corps": "Le Bureau of Labor Statistics a publié ses chiffres mercredi 14 octobre 2026. L'inflation est passée de 3,4 pour cent en août à 3,7 pour cent en septembre, d'après The Guardian (14/10/2026). Cette hausse provient principalement des coûts de l'énergie et des carburants.\n\nLe coût de l'énergie a progressé de 20 pour cent sur une année, selon Le Monde (14/10/2026). Le Financial Times (15/10/2026) indique que la guerre menée par l'Iran pousse les tarifs du pétrole à la hausse. Le taux d'intérêt de la dette souveraine américaine a augmenté sur les marchés financiers, d'après Le Figaro (14/10/2026).\n\nCette situation économique pèse sur le Parti républicain et sur le président Donald Trump avant les votes du 3 novembre 2026, selon The Guardian (14/10/2026), Der Spiegel (14/10/2026) et Folha de S.Paulo (14/10/2026). Les électeurs manifestent leur mécontentement face au coût de la vie, relève The Guardian (14/10/2026).\n\n## Ce que disent les sources\n\nAl Jazeera (14/10/2026) rapporte que les analystes économiques sont partagés concernant une possible augmentation des taux directeurs par la Réserve fédérale, la banque centrale américaine, à la suite de ces données. Les autres sources ne mentionnent pas cette division précise.\n\nCertains détails sur les votes précis des électeurs manquent dans les rapports financiers.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/economia/2026-10-14/la-inflacion-se-acelera-en-septiembre-y-suma-mas-frustracion-por-el-coste-de-vida-antes-de-las-elecciones-en-ee-uu.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/etats-unis-le-taux-d-interet-de-la-dette-flambe-face-a-l-acceleration-de-l-inflation-20261014"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/14/inflation-numbers-september"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/inflation-in-den-usa-preise-steigen-im-september-um-3-7-prozent-a-c35996d7-2cf5-4426-90de-177a5d164580"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/10/14/us-inflation-rises-before-midterm-elections-fuelling-rate-hike-fears"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/inflacao-nos-eua-acelera-em-setembro-e-chega-a-37-nos-ultimos-12-meses.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/10/14/aux-etats-unis-l-inflation-atteint-3-7-en-septembre-portee-par-la-flambee-des-cours-du-petrole_6793785_3234.html"
+    }
+   ],
+   "premiere_parution": "2026-10-14T12:44:01Z",
+   "suite_de": null,
+   "mots": 263,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-15-monde-001",
+  "2026-10-15-monde-002",
+  "2026-10-15-monde-003",
+  "2026-10-15-monde-004",
+  "2026-10-15-monde-005",
+  "2026-10-15-monde-006",
+  "2026-10-15-geopolitique-001",
+  "2026-10-15-monde-007"
+ ]
+}

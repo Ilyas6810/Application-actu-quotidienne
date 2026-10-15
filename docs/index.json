@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-14T05:39:03Z",
- "derniere": "2026-10-14",
+ "maj": "2026-10-15T05:23:37Z",
+ "derniere": "2026-10-15",
  "editions": [
+  {
+   "date": "2026-10-15",
+   "genere_a": "2026-10-15T05:23:37Z",
+   "articles": 27,
+   "une": [
+    "Moscou accuse d'espionnage un journaliste japonais, Tokyo rejette les allégations",
+    "Katie Zacharia affronte des contestations sur ses qualifications professionnelles",
+    "Le pape Léon XIV commence sa convalescence après son opération"
+   ],
+   "octets": 97051
+  },
   {
    "date": "2026-10-14",
    "genere_a": "2026-10-14T05:39:03Z",

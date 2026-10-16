@@ -1,6 +1,78 @@
 {
- "maj": "2026-10-15T21:28:22Z",
+ "maj": "2026-10-16T04:39:25Z",
  "alertes": [
+  {
+   "id": "2026-10-16-alerte-02",
+   "date": "2026-10-16",
+   "publiee_a": "2026-10-16T04:39:25Z",
+   "titre": "Une fusillade fait plusieurs morts dans une école primaire en Oregon",
+   "texte": "Un adolescent armé a tué quatre personnes dans un établissement scolaire de la ville de Bend le 15 octobre 2026. Un témoin a ensuite abattu le suspect à l'intérieur du bâtiment.",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_15/oregon-sparatoria-scuola-elementare-402dbd21-4c2b-4f4e-923c-823b83febxlk.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/16/zeker-vijf-doden-bij-schietpartij-op-amerikaanse-basisschool-a4939089"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/etats-unis-un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-20261015"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm89zp48k4kzo"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html"
+    }
+   ],
+   "cluster": "0698a73c505dc4cb",
+   "urls": [
+    "https://abc.es/internacional/cuatro-muertos-tiroteo-escuela-oregon-eeuu-20261016005748-nt.html",
+    "https://aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting",
+    "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-b0642ec5cd3da0db24227a2798e2c6ce",
+    "https://bbc.co.uk/news/articles/cm89zp48k4kzo",
+    "https://bbc.co.uk/news/videos/cwe8r29mjd05o",
+    "https://corriere.it/esteri/26_ottobre_15/oregon-sparatoria-scuola-elementare-402dbd21-4c2b-4f4e-923c-823b83febxlk.shtml",
+    "https://dunfermlinepress.com/news/national/26641802.three-children-teacher-killed-us-school-shooting-police-say",
+    "https://dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_15?evenement=6557bc243e",
+    "https://france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
+    "https://franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html",
+    "https://irishexaminer.com/world/arid-41924839.html",
+    "https://lefigaro.fr/international/etats-unis-un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-20261015",
+    "https://lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
+    "https://nrc.nl/nieuws/2026/10/16/zeker-vijf-doden-bij-schietpartij-op-amerikaanse-basisschool-a4939089",
+    "https://rfi.fr/fr/am%C3%A9riques/20261015-%C3%A9tats-unis-quatre-morts-dont-trois-enfants-dans-une-fusillade-dans-une-%C3%A9cole-primaire-de-l-oregon",
+    "https://rhyljournal.co.uk/news/national/26641802.three-children-teacher-killed-us-school-shooting-police-say",
+    "https://spiegel.de/panorama/oregon-fuenf-tote-nach-gewalttat-an-grundschule-im-westen-der-usa-a-7cbb1a35-5486-409b-b682-60c9508d7a00",
+    "https://straitstimes.com/world/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance",
+    "https://straitstimes.com/world/united-states/multiple-victims-in-oregon-elementary-school-shooting-police",
+    "https://taylorvilledailynews.com/reports-3-kids-1-adult-dead-after-active-shooter-at-oregon-elementary-school",
+    "https://taylorvilledailynews.com/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance",
+    "https://thecourier.com.au/story/9369623/three-children-and-teacher-killed-in-us-school-shooting",
+    "https://theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+    "https://thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/10/atirador-ataca-escola-nos-eua-e-mata-3-criancas-e-1-adulto-diz-imprensa.shtml",
+    "https://zocalo.com.mx/tres-ninos-de-entre-5-y-11-anos-mueren-junto-a-un-profesor-en-el-tiroteo-de-una-primaria-en-oregon-el-atacante-fue-abatido"
+   ]
+  },
   {
    "id": "2026-10-16-alerte-01",
    "date": "2026-10-16",

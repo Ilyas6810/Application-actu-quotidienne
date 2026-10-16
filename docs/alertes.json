@@ -1,6 +1,60 @@
 {
- "maj": "2026-10-16T04:39:25Z",
+ "maj": "2026-10-16T16:49:48Z",
  "alertes": [
+  {
+   "id": "2026-10-16-alerte-03",
+   "date": "2026-10-16",
+   "publiee_a": "2026-10-16T16:49:48Z",
+   "titre": "Le pape Leon XIV demande a Poutine un cessez le feu pour Olechky",
+   "texte": "Le pontife discute par telephone le vendredi 16 octobre 2026 avec le president russe depuis l hopital Gemelli pour reclamer une trve dans la ville d Olechky.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1696-point-conflit-ukrainien-poutine-aujourdhui-20261016"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/kremlin-says-putin-told-pope-leo-he-backs-vatican-idea-to-help-civilians-in-oleshky"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/papa-habla-telefono-putin-pide-tregua-permitir-20261016174931-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_16/ucraina-russia-news-guerra.shtml"
+    }
+   ],
+   "cluster": "a5fe36c9ea6b6397",
+   "urls": [
+    "https://abc.es/internacional/papa-habla-telefono-putin-pide-tregua-permitir-20261016174931-nt.html",
+    "https://corriere.it/esteri/diretta-live/26_ottobre_16/ucraina-russia-news-guerra.shtml",
+    "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html",
+    "https://la-croix.com/international/ukraine-russie-jour-1696-point-conflit-ukrainien-poutine-aujourdhui-20261016",
+    "https://lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016",
+    "https://lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-il-est-plus-facile-de-communiquer-avec-donald-trump-qu-avec-vladimir-poutine-affirme-volodymyr-zelensky_6791198_3210.html",
+    "https://roma.corriere.it/notizie/politica/26_ottobre_16/telefonata-tra-putin-e-papa-leone-20f40ae8-b964-4133-b885-d8a05e060xlk.shtml",
+    "https://spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27",
+    "https://straitstimes.com/world/europe/kremlin-says-putin-told-pope-leo-he-backs-vatican-idea-to-help-civilians-in-oleshky",
+    "https://theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+   ]
+  },
   {
    "id": "2026-10-16-alerte-02",
    "date": "2026-10-16",

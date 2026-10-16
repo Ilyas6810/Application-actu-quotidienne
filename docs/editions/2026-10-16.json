@@ -1,0 +1,678 @@
+{
+ "date": "2026-10-16",
+ "genere_a": "2026-10-16T05:12:33Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-16-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Quatre personnes meurent dans une fusillade scolaire en Oregon",
+   "chapeau": "Un adolescent de 16 ans a ouvert le feu dans une école primaire de Bend jeudi 15 octobre 2026. L'attaque a coûté la vie à trois écoliers et un enseignant avant qu'un civil armé n'abatte le tireur.",
+   "corps": "Une fusillade a frappé un établissement scolaire de l'ouest des États-Unis. Les faits se sont déroulés au sein de l'école primaire Silver Rail, située dans la ville de Bend, dans l'État de l'Oregon. Les forces de l'ordre locales ont immédiatement réagi aux premiers signalements d'urgence envoyés depuis les lieux.\n\nLe bilan humain s'établit à quatre victimes tuées par l'assaillant. Les personnes décédées sont trois élèves mineurs ainsi qu'un instituteur en poste dans cette école. Deux blessés graves se trouvent également hospitalisés dans une structure médicale selon les informations publiées par le quotidien The Guardian le 16 octobre 2026 à 05:53.\n\nL'assaillant est un jeune homme âgé de seize ans. Ce tireur s'est introduit avec une arme à feu à l'intérieur du bâtiment éducatif pour commettre son agression. Un membre du public armé a remarqué l'individu lors de son entrée dans les locaux. Ce témoin a pris la décision de suivre le suspect à l'intérieur de l'école primaire. L'homme extérieur a ensuite tiré sur l'assaillant et a neutralisé ce dernier.\n\nLes services de la police municipale de Bend sont arrivés sur les lieux après ces échanges de tirs. Les fonctionnaires de police ont découvert le suspect déjà mort à leur arrivée dans l'enceinte de l'école. Les autorités policières locales ont expliqué les détails de l'intervention civile lors de leurs premières déclarations officielles à la presse.\n\nLes secours médicaux d'urgence ont pris en charge plusieurs autres blessés sur les lieux de l'attaque. Les services d'ambulance ont transféré au moins deux blessés vers un centre hospitalier pour des soins intensifs d'après le journal ABC le 16 octobre 2026 à 04:48. Les équipes médicales maintiennent ces deux patients sous étroite surveillance clinique.\n\nLes responsables de la police de Bend poursuivent leurs constatations matérielles sur le site de l'école primaire. Les inspecteurs examinent le parcours exact de l'adolescent de seize ans. Les enquêteurs recherchent l'origine de l'arme utilisée lors de ce passage à l'acte. Le personnel enseignant et les enfants de la ville de Bend reçoivent un soutien psychologique organisé par la municipalité.\n\n## Ce que disent les sources\n\nLe rôle et la chronologie de l'action policière font l'objet de divergences selon les médias. Le quotidien Le Monde indique le 16 octobre 2026 à 02:51 que le tireur a été tué par un civil armé avant l'arrivée des policiers dans le bâtiment. Le site d'information The Hindu affirme pour sa part le 16 octobre 2026 à 05:26 que l'assaillant a été abattu et s'est effondré peu de temps après l'arrivée des forces de police.\n\nLe total global des victimes directes présente aussi des variations d'écriture. Le journal NRC rapporte le 16 octobre 2026 à 05:46 qu'au moins cinq personnes sont mortes lors de cet événement, chiffre englobant l'assaillant et des élèves. Les médias Le Monde, France 24, Le Figaro, El País et BBC News dénombrent pour leur part quatre victimes assassinées, réparties entre trois enfants et un professeur, en plus du tireur adolescent abattu.\n\nL'identité précise de l'auteur des tirs et le motif de son acte demeurent inconnus à ce stade de l'enquête.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cuatro-muertos-tiroteo-escuela-oregon-eeuu-20261016005748-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/16/zeker-vijf-doden-bij-schietpartij-op-amerikaanse-basisschool-a4939089"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/etats-unis-un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-20261015"
+    }
+   ],
+   "premiere_parution": "2026-10-15T12:00:00Z",
+   "suite_de": null,
+   "mots": 549,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Effondrement du toit d'une école à Peshawar au Pakistan",
+   "chapeau": "Un toit d'école s'est effondré le jeudi 15 octobre 2026 à Peshawar, au Pakistan, causant la mort de dizaines d'élèves et d'au moins un enseignant. Les secours et les habitants ont fouillé les décombres pour retrouver les survivants piégés.",
+   "corps": "Le jeudi 15 octobre 2026, la toiture d'un établissement scolaire privé nommé al-Khair s'est effondrée pendant les cours du matin à Peshawar, dans le nord ouest du Pakistan selon The Guardian du 15/10/2026 et Der Spiegel du 15/10/2026. Des parents et des proches se sont rassemblés sur les lieux de la catastrophe pour participer aux recherches et retrouver leurs proches d'après The Guardian du 15/10/2026.\n\nLes équipes de secours ont passé des heures à dégager les enfants des décombres selon The Guardian du 15/10/2026. La police a arrêté le propriétaire de l'établissement d'après El País du 15/10/2026 et The Hindu du 15/10/2026, qui exploitait l'institution sous la forme d'une fiducie éducative selon The Hindu du 15/10/2026. Des funérailles ont rassemblé des milliers de personnes le vendredi 16 octobre 2026 selon Al Jazeera du 16/10/2026.\n\n## Ce que disent les sources\n\nLe nombre de victimes varie selon les médias. Libération du 15/10/2026, RFI du 15/10/2026, franceinfo du 15/10/2026 et El País du 15/10/2026 font état de vingt-sept enfants et un enseignant tués. Der Spiegel du 15/10/2026 mentionne au moins vingt-neuf morts. Folha de S.Paulo du 15/10/2026 indique trente-deux élèves et un professeur décédés. Corriere della Sera du 10/15/2026 rapporte trente-trois enfants et deux enseignants morts. BBC News du 16/10/2026 compte au moins trente-trois élèves et un enseignant tués. The Guardian du 15/10/2026, The Hindu du 15/10/2026 et Al Jazeera du 16/10/2026 annoncent au moins trente-quatre enfants et un enseignant décédés. Concernant les blessés, Libération du 15/10/2026 évoque plus de trente blessés dont six dans un état critique, tandis que Deutsche Welle du 15/10/2026 cite les autorités locales pour mentionner plus de cinquante blessés, et The Guardian du 15/10/2026 indique trois élèves dans un état critique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/pakistan-27-enfants-et-un-enseignant-tues-dans-leffondrement-du-toit-dune-ecole-20261015_WPVWV5XVXJHAVEZSETKNPY5JLY"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261015-pakistan-27-enfants-et-un-enseignant-tu%C3%A9s-dans-l-effondrement-du-toit-de-leur-%C3%A9cole"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/pakistan-mindestens-29-tote-bei-einsturz-von-schuldach-a-437a0fb3-daf1-406a-b2da-159d3cc3f1cc"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/asie/au-pakistan-27-enfants-et-un-enseignant-tues-dans-l-effondrement-du-toit-de-leur-ecole_8238436.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/desabamento-de-teto-de-escola-mata-27-alunos-e-um-professor-no-paquistao.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-15/decenas-de-ninos-mueren-al-derrumbarse-el-techo-de-una-escuela-en-pakistan.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-15T06:25:03Z",
+   "suite_de": null,
+   "mots": 367,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV reprend ses activités depuis sa chambre d'hôpital",
+   "chapeau": "Le souverain pontife poursuit sa convalescence à l'hôpital Gemelli de Rome le jeudi 15 octobre 2026 après son opération du poumon. Il a repris ses activités professionnelles en rencontrant un proche collaborateur.",
+   "corps": "Le pape Léon XIV a repris le travail depuis sa chambre de l'hôpital Gemelli de Rome, selon une information publiée par Al Jazeera le 15 octobre 2026 à 21:25. Le chef de l'Église catholique a rencontré un proche collaborateur du Vatican.\n\nLe pontife âgé de 71 ans récupère d'une intervention chirurgicale subie le mardi 13 octobre 2026, au cours de laquelle une partie de son poumon droit a été retirée en raison d'une tumeur cancéreuse, d'après les informations communiquées par The Guardian le 16 octobre 2026 à 08:00. Les médecins ont qualifié cette opération de lobectomie, qui consiste à enlever un lobe pulmonaire.\n\nL'équipe médicale a indiqué le 15 octobre 2026 à 02:31, selon The Guardian, que la convalescence se déroule conformément aux prévisions. Le patient a commencé à marcher dans sa chambre après des séances de kinésithérapie respiratoire et s'alimente normalement.\n\nLe roi Charles III du Royaume-Uni ainsi que d'autres personnalités internationales ont adressé des messages de prompt rétablissement au souverain pontife, d'après The Guardian du 15 octobre 2026 à 02:31.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwx28r0zvm6lo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-out-of-bed-progress-normal-doctors-say"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/health/popes-recovery-on-track-after-surgery-vatican-says/article71588173.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-13T19:50:00Z",
+   "suite_de": "2026-10-15-monde-003",
+   "mots": 208,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les livres de Sally Rooney retirés de la vente au Royaume-Uni",
+   "chapeau": "Les ouvrages de l'écrivaine irlandaise Sally Rooney ne sont plus commercialisés sur le territoire britannique depuis le 14 octobre 2026. Cette situation découle de sa volonté de verser ses gains financiers au collectif interdit Palestine Action.",
+   "corps": "Cette mesure fait suite à la décision prise le 14 octobre 2026 de retirer des rayons britanniques les romans de cette autrice connue pour Normal People, Intermezzo et Conversations entre amis.\n\nLa maison d'édition Faber et Sally Rooney ont expliqué que les textes ne peuvent plus être diffusés en Grande-Bretagne car les lois locales bloquent la transmission de ses revenus à l'organisation ciblée. L'éditrice a précisé qu'elle se trouve dans l'impossibilité de reverser à la romancière les recettes perçues au Royaume-Uni. Sally Rooney a indiqué que le maintien de ses contrats d'édition sur le sol britannique risquerait de représenter une infraction pénale majeure.\n\nL'État britannique a inscrit Palestine Action sur la liste des entités terroristes en 2025, interdisant de fait ses activités sur son sol après plusieurs actions violentes. Ce réseau militant pratique la désobéissance civile et s'oppose à l'aide militaire fournie par les autorités britanniques à Israël. En juillet dernier, Sally Rooney avait annoncé son intention d'attribuer à ce groupe les droits d'auteur issus de ses livres ainsi que les montants générés par les adaptations télévisées diffusées par la BBC.\n\n## Ce que disent les sources\n\nFolha de S.Paulo affirme que la cour d'appel de Londres a formellement ordonné l'arrêt de la commercialisation des livres. Les autres médias rapportent une démarche concertée entre l'écrivaine et son éditeur Faber en raison des contraintes juridiques imposées par la législation antiterroriste.\n\nLe montant exact des droits d'auteur concernés par ce blocage n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmx23q4g307vo"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/14/sally-rooneys-boeken-worden-niet-meer-verkocht-in-het-vk-vanwege-haar-steun-aan-palestine-action-a4938975"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/9209fd59-386b-4399-a870-0a3451548251?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_14/scrittrice-sally-rooney-ritira-libri-regno-unito-sostegno-palestine-action-cd7eb036-ce6b-49d5-b10e-114771702xlk.shtml"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/livros-de-sally-rooney-sao-barrados-no-reino-unido-apos-apoio-a-grupo-palestino.shtml"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/europe/2026-10-15/ty-article/sally-rooneys-books-no-longer-sold-in-u-k-over-banned-pro-palestinian-group/000001a1-3e92-de23-a5fb-be97c1030000"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/cultura/2026-10-15/la-escritora-sally-rooney-ya-no-vendera-sus-libros-en-el-reino-unido-por-su-activismo-propalestino.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/livres/les-livres-de-sally-rooney-ne-peuvent-plus-etre-vendus-au-royaume-uni-suite-a-son-soutien-a-palestine-action_8238421.html"
+    }
+   ],
+   "premiere_parution": "2026-10-14T01:00:00Z",
+   "suite_de": "2026-10-15-monde-008",
+   "mots": 281,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La porte-parole de Donald Trump visée par un signalement professionnel",
+   "chapeau": "L'organisation Campaign for Accountability a demandé mercredi au barreau de Californie d'enquêter sur Katie Zacharia à Washington. La nouvelle porte-parole de Donald Trump a réaffirmé son statut d'avocate malgré l'absence de licence officielle répertoriée.",
+   "corps": "Katie Zacharia avait affronté des contestations sur ses qualifications professionnelles après sa première prise de parole mardi.\n\nL'association Campaign for Accountability a saisi l'ordre des avocats de Californie le 15 octobre 2026. L'organisme souhaite faire examiner les déclarations de Katie Zacharia concernant sa profession juridique. Le barreau est l'ordre professionnel des avocats. Aucun registre public n'indique son inscription dans les États américains où elle a résidé, selon The Guardian le 14 octobre 2026 à 23 h 12 et la BBC le 15 octobre 2026 à 12 h 41.\n\nLa Maison-Blanche a pris la défense de Katie Zacharia face à ces vérifications. La porte-parole a déclaré avoir exercé comme avocate même sans posséder de licence, d'après Folha de S.Paulo le 15 octobre 2026 à 19 h 07. Selon The Hindu le 16 octobre 2026 à 05 h 17, elle s'est présentée comme avocate lors d'interventions télévisées et sur les réseaux sociaux. Elle s'est aussi déclarée conseillère juridique d'une organisation à but non lucratif conservatrice installée en Californie.\n\nKatie Zacharia doit défendre le bilan de Donald Trump auprès d'électeurs mécontents du coût de la vie avant les élections de mi-mandat. Sa première conférence de presse de quatorze minutes a comporté trois questions le 13 octobre 2026 selon The Guardian à 23 h 22. Son intervention a suscité des réactions critiques parmi les commentateurs.\n\nLa décision du barreau de Californie sur l'ouverture formelle d'une procédure n'est pas précisée dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/newsletters/2026-10-13/trump-tries-a-new-press-secretary-with-midterm-problems-mounting"
+    },
+    {
+     "nom": "wral.com",
+     "url": "https://wral.com/news/ap/263c8-new-white-house-press-secretarys-debut-brief-limited-questions-and-some-harsh-reviews"
+    },
+    {
+     "nom": "kmbc.com",
+     "url": "https://kmbc.com/article/katie-zacharia-trump-press-secretary-debut/74132751"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trumps-new-press-secretary-faces-scrutiny-over-credentials"
+    },
+    {
+     "nom": "wsbt.com",
+     "url": "https://wsbt.com/news/nation-world/white-house-press-secretary-faces-bar-complaint-over-repeated-lawyer-claims"
+    },
+    {
+     "nom": "littleapplepost.com",
+     "url": "https://littleapplepost.com/posts/cadb3304-920a-4925-8f67-1c1511291eae"
+    },
+    {
+     "nom": "nbclosangeles.com",
+     "url": "https://nbclosangeles.com/news/politics/president-trump/questions-new-white-house-press-secretary-katie-zacharia/3956326"
+    }
+   ],
+   "premiere_parution": "2026-10-13T19:22:02Z",
+   "suite_de": "2026-10-15-monde-002",
+   "mots": 274,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-006",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Harry et Meghan effectuent leur première sortie publique à Nottingham",
+   "chapeau": "Le prince Harry et son épouse Meghan ont réalisé leur première visite publique conjointe à Nottingham le jeudi 15 octobre 2026. Cette apparition commune marque leur premier engagement de ce type sur le sol britannique depuis leur réinstallation dans le pays.",
+   "corps": "Le duc et la duchesse de Sussex ont réservé cette journée à la visite de structures locales. Les deux époux se sont rendus auprès de trois organisations caritatives de la ville. Le couple poursuit par ce biais ses actions dans le domaine social.\n\nParmi les étapes de leur parcours, Harry et Meghan ont visité les locaux du Community Recording Studio. Cette association de Nottingham propose des activités artistiques, scolaires et sportives destinées aux jeunes. À leur arrivée sur les lieux, des personnes venues les attendre ont accueilli les Sussex. Les visiteurs ont échangé des salutations avec le public, accepté des fleurs et posé pour des photographies.\n\nCe déplacement dans cette ville anglaise fait écho à leur histoire commune. Le couple y avait déjà réalisé sa toute première sortie officielle ensemble après la communication publique de leurs fiançailles, en 2017. Le quotidien italien Corriere della Sera note le 15 octobre 2026 que cette série de trois engagements intervient après un retour du couple au Royaume-Uni durant l'été.\n\nCes activités ne possèdent toutefois aucun mandat de la monarchie. Le roi Charles III a indiqué que le duc et la duchesse ne figurent plus parmi les membres actifs de la famille royale. Leurs interventions actuelles ne relèvent donc pas d'obligations officielles de la couronne.\n\n## Ce que disent les sources\n\nL'agence Associated Press citée par stardem.com, El País et le Corriere della Sera affirment le 15 octobre 2026 qu'il s'agit de la première apparition publique conjointe du couple en Angleterre depuis six ans. En revanche, The Straits Times écrit le 15 octobre 2026 à 14h41 que leur première sortie officielle commune remonte à neuf ans.\n\nLes sources ne précisent pas la liste exhaustive des trois organisations visitées ni le calendrier de leurs prochains engagements publics.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sounds/play/curation/m001bm45/p0pgsh6d"
+    },
+    {
+     "nom": "stardem.com",
+     "url": "https://stardem.com/ap/world/harry-and-meghan-return-to-the-uk-spotlight-in-photos/article_705b83e9-20fe-54ce-84f9-ce08c700d908.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/gente/2026-10-15/enrique-de-inglaterra-y-meghan-markle-protagonizan-juntos-su-primer-acto-publico-en-seis-anos-en-el-reino-unido.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_15/fiori-e-selfie-le-immagini-del-primo-impegno-di-coppia-sul-suolo-britannico-di-harry-e-meghan-sei-anni-dopo-la-megxit-c403fd43-ac4f-4537-9e46-dbec854f9xlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/prince-harry-and-wife-meghan-make-first-joint-appearance-since-uk-return"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/harry-e-meghan-fazem-primeira-aparicao-publica-juntos-no-reino-unido-apos-retorno.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/harry-und-meghan-erstmals-seit-rueckkehr-nach-grossbritannien-zusammen-in-der-oeffentlichkeit-a-4449f03f-3dab-4013-bbba-af9caa73c019"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/harry-meghan-reaparecen-juntos-reino-unido-sobre-20261015011624-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-14T07:33:45Z",
+   "suite_de": null,
+   "mots": 333,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-007",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Irlande du Nord : Jeffrey Donaldson condamné à quinze ans de prison",
+   "chapeau": "Le tribunal de la Couronne de Newry a condamné Jeffrey Donaldson à quinze ans de prison le jeudi 15 octobre 2026. L'ancien dirigeant du principal parti unioniste nord-irlandais répondait de viols et d'agressions sexuelles commis sur deux mineures.",
+   "corps": "Le juge Paul Ramsey a prononcé la peine d'emprisonnement à Newry, en Irlande du Nord. La justice reproche à l'ancien député des faits commis entre 1985 et 2008, selon une information diffusée par Associated Press le 15 octobre 2026 à 16 h 00. Jeffrey Donaldson avait été reconnu coupable en juin de 18 infractions sexuelles, dont un viol, d'après le décompte publié par la BBC le 15 octobre 2026 à 15 h 29.\n\nLe magistrat a qualifié la trajectoire de l'accusé de chute dans la disgrâce. Il a précisé que le politicien restera incarcéré jusqu'à ses 70 ans passés. Le président du tribunal a aussi souligné l'absence d'excuses de la part du condamné envers les victimes. Jeffrey Donaldson conteste les décisions prises contre lui et tente de faire appel de sa culpabilité.\n\nLe tribunal a rendu publiques les déclarations des deux plaignantes. L'une d'elles a affirmé avoir grandi avec un sentiment de honte. La seconde victime a indiqué qu'elle espère chaque jour que la mort vienne mettre fin à son épreuve.\n\nLe jury a également statué sur le rôle de l'épouse de l'ancien élu, Eleanor Donaldson. Les jurés ont conclu qu'elle a aidé son mari à commettre ses agressions. Cette femme de 60 ans avait toutefois été jugée inapte à comparaître en raison de troubles liés à sa santé mentale, au terme d'un procès qui a duré quatre semaines selon le quotidien The Guardian le 15 octobre 2026 à 15 h 15.\n\nLe parti unioniste démocrate, le DUP, a rejeté les actes de son ancien chef de file. La formation politique a déclaré que Jeffrey Donaldson mérite chaque journée de sa peine de réclusion. Ses anciens collègues l'ont publiquement qualifié d'ignoble. Le parti unioniste essuie cependant les critiques de ses propres partisans, qui l'accusent d'avoir ignoré par le passé d'autres comportements reprochés à son ex-dirigeant, notamment des faits d'ébriété et de harcèlement sexuel.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/live/cm79p8011837t"
+    },
+    {
+     "nom": "irvinetimes.com",
+     "url": "https://irvinetimes.com/news/national/26638059.former-dup-leader-jeffrey-donaldson-sentenced-sex-offences"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/northern-irelands-donaldson-jailed-for-15-years-for-child-sex-offences"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-15/ex-dup-leader-donaldson-gets-15-years-jail-for-rape-child-abuse"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/b320379a-dfa1-43d5-b21c-5a4b12e3e0d5?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/live/2026/oct/15/former-dup-leader-jeffrey-donaldson-sentenced-child-sexual-abuse-latest-updates"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/northern-ireland-jeffrey-donaldson-sex-abuse-sentencing-fa1b6045dca0deccecadd77ee87b0927"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/ex-dup-chief-jeffrey-donaldson-northern-ireland-given-15-year-prison-term-rape-sexual-abuse-girls"
+    }
+   ],
+   "premiere_parution": "2026-10-15T00:00:00Z",
+   "suite_de": null,
+   "mots": 351,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Russell Brand comparaît devant la justice britannique pour viols et agressions sexuelles",
+   "chapeau": "L'acteur et humoriste Russell Brand comparaît depuis le 14 octobre 2026 devant le tribunal de Southwark Crown Court à Londres. L'homme de 51 ans répond d'accusations de viols et d'agressions sexuelles formulées par six femmes.",
+   "corps": "Russell Brand fait face à sept chefs d'accusation distincts. La justice britannique lui reproche trois viols, trois agressions sexuelles et un attentat à la pudeur, un acte impudique non consenti. Selon les données de l'accusation rapportées par The Guardian le 14 octobre 2026 à 18 h 15 et le Corriere della Sera le 14 octobre 2026 à 18 h 36, les faits reprochés couvrent une période allant de 1999 à 2009 et concernent six plaignantes.\n\nL'accusé a plaidé non coupable pour l'ensemble des faits reprochés. Durant l'ouverture des débats, le ministère public a qualifié Russell Brand de prédateur sexuel méthodique et manipulateur. L'accusation a affirmé aux jurés que l'artiste utilisait les femmes et déclarait vouloir coucher avec 5 000 d'entre elles. Les six femmes qui portent plainte ne se connaissent pas entre elles.\n\nLes audiences se sont poursuivies le 15 octobre 2026 avec le témoignage de l'une des plaignantes. Cette femme accuse l'acteur de l'avoir violée en 1999 dans une chambre d'hôtel lors d'un congrès du Parti travailliste britannique à Bournemouth. Selon sa déposition enregistrée par la police en 2023 et diffusée à l'audience, Russell Brand lui a imposé de prendre des photographies de lui à demi dévêtu avant l'agression. À la barre, la plaignante a déclaré en larmes qu'elle n'avait pas pu repousser l'artiste, qu'elle décrit comme ayant changé de comportement de manière brutale.\n\nLe calendrier complet des audiences à venir et la durée prévue des débats ne sont pas précisés par les éléments disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "thecomet.net",
+     "url": "https://thecomet.net/news/national/26634247.prosecution-set-open-case-russell-brand-rape-sexual-assault-trial"
+    },
+    {
+     "nom": "thejournal.ie",
+     "url": "https://thejournal.ie/russell-brand-rape-trial-7192536-Oct2026"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/comedian-russell-brand-was-a-sexual-predator-british-prosecutors"
+    },
+    {
+     "nom": "theglobeandmail.com",
+     "url": "https://theglobeandmail.com/world/article-prosecution-calls-russell-brand-a-ruthless-predator-at-opening-of-sex"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/spettacoli/26_ottobre_14/russell-brand-al-via-il-processo-per-stupro-per-l-attore-britannico-l-accusa-spietato-calcolatore-e-manipolatore-con-un-appetito-3fc81b66-d0bc-4aba-8610-f7baaf505xlk.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3qjn45pepx1o"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/10/julgamento-de-russell-brand-exibe-fala-de-mulher-que-o-acusa-de-estupro.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-14T06:45:00Z",
+   "suite_de": null,
+   "mots": 281,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-009",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le nouveau pont entre la Chine et la Corée du Nord entre en service",
+   "chapeau": "Les autorités chinoises et nord-coréennes ont mis en service le nouveau pont frontalier sur le fleuve Yalu le jeudi 15 octobre 2026. Cette voie relie désormais la ville de Dandong en Chine à celle de Sinuiju en Corée du Nord.",
+   "corps": "Cet ouvrage routier a ouvert ses voies le 15 octobre 2026 après douze années d'attente selon plusieurs médias internationaux, dont la BBC et El País. Les premiers camions de marchandises ont commencé à traverser l'infrastructure dès la journée de jeudi selon France 24 et NRC.\n\nL'agence de presse officielle chinoise Xinhua a rapporté l'inauguration de la structure jeudi matin sans détailler le déroulement de l'événement selon le quotidien ABC. De son côté, la Corée du Nord a également confirmé la tenue d'une cérémonie officielle pour marquer l'ouverture de la liaison selon The Straits Times le 16 octobre 2026.\n\nLa construction de ce pont s'étend sur une longueur d'environ trois kilomètres selon le quotidien brésilien Folha de S.Paulo et le journal français La Croix le 15 octobre 2026. L'infrastructure devait initialement ouvrir en 2014, date à laquelle la Chine avait achevé ses travaux, mais la Corée du Nord n'avait pas réalisé les aménagements correspondants sur son territoire à cette période selon le journal The Hindu le 15 octobre 2026.\n\nL'édifice constitue désormais le principal axe routier entre les deux pays d'après El País et Folha de S.Paulo. Il vise à intensifier le commerce bilatéral et le transport terrestre dans cette zone frontalière selon Al Jazeera et Folha de S.Paulo. La Chine demeure le premier partenaire commercial de la Corée du Nord et lui fournit un appui économique face aux sanctions internationales selon la BBC.\n\nL'entrée en activité du pont intervient dans un contexte de réchauffement diplomatique entre Pékin et Pyongyang, après plusieurs années de relations distantes selon Deutsche Welle, La Croix et NRC. Le quotidien allemand Der Spiegel mentionne également la conduite récente d'essais de missiles par le gouvernement nord-coréen le 15 octobre 2026.\n\nLe volume précis du trafic routier attendu quotidiennement sur l'ouvrage n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck1exgw3j115o"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/china-weiht-bruecke-nach-nordkorea-ein-mit-zwoelf-jahren-verspaetung-a-ba3781c8-a830-4d2a-ad22-e5a1f76b6119"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-15/corea-del-norte-y-china-abren-un-nuevo-puente-tras-12-anos-de-retrasos.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/china-corea-norte-inauguran-puente-compartido-anos-20261015090057-nt.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/15/een-langverwachte-brug-tussen-china-en-noord-korea-is-eindelijk-geopend-a4939062"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/china-e-coreia-do-norte-inauguram-ponte-entre-paises-estrutura-passa-a-ser-principal-conexao-terrestre.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-14T02:35:43Z",
+   "suite_de": "2026-10-15-geopolitique-003",
+   "mots": 342,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Nicolas Maduro et son épouse plaident non coupable de torture à New York",
+   "chapeau": "L'ancien dirigeant vénézuélien Nicolas Maduro et son épouse Cilia Flores ont comparu le jeudi 15 octobre 2026 devant un tribunal fédéral de New York. Le couple a rejeté les nouvelles poursuites pour entente en vue de commettre des actes de torture.",
+   "corps": "Nicolas Maduro et sa femme Cilia Flores ont officiellement plaidé non coupable devant la justice américaine. L'acte d'accusation modifié leur reproche la direction d'une campagne de répression étatique ayant entraîné la torture de nombreuses personnes au Venezuela. Ces violences présumées couvrent la période de la présidence de Nicolas Maduro, qui s'est étendue de 2013 à 2026 selon la Deutsche Welle le 15 octobre 2026.\n\nLe prévenu est apparu dans la salle d'audience avec des entraves fixées aux chevilles. Devant le magistrat Alvin K. Hellerstein, l'ex-président vénézuélien a qualifié les faits reprochés d'allégations fausses et a affirmé rejeter totalement le document d'accusation. La comparution fait suite à l'élargissement des poursuites initiales pour trafic de stupéfiants. Selon The Straits Times le 15 octobre 2026, la justice des États-Unis vise Nicolas Maduro, âgé de 63 ans, et son épouse, âgée de 70 ans.\n\nLe tribunal a reprogrammé le calendrier judiciaire à l'issue de l'audience. Le début du procès est désormais fixé au 14 juin 2027 d'après les indications rapportées par El País le 15 octobre 2026. Les deux accusés demeurent incarcérés sur le sol américain depuis leur capture en janvier 2026 dans leur résidence située à Caracas.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/maduro-e-cilia-se-declaram-inocentes-de-acusacoes-de-tortura-nos-eua.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/venezuelas-maduro-and-wife-plead-not-guilty-to-us-torture-charges"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqwyrn1l74zro"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/poursuivis-pour-torture-nicolas-maduro-et-sa-femme-plaident-non-coupable-devant-un-tribunal-de-new-york-20261015"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-15/nicolas-maduro-y-cilia-flores-se-declaran-no-culpables-de-los-cargos-de-tortura.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/venezuela/accuses-de-torture-nicolas-maduro-et-sa-femme-plaident-non-coupable-devant-un-tribunal-de-new-york_8239141.html"
+    }
+   ],
+   "premiere_parution": "2026-10-15T00:18:27Z",
+   "suite_de": null,
+   "mots": 235,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-monde-011",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Dix-neuf blessés après la collision d'un minibus et d'un train à Coquelles",
+   "chapeau": "Un minibus transportant des chauffeurs routiers a percuté un train de fret le jeudi 15 octobre 2026 à Coquelles, dans le Pas-de-Calais. L'accident survenu à l'entrée du terminal du tunnel sous la Manche a fait dix-neuf blessés sans engager le pronostic vital des victimes.",
+   "corps": "L'événement est survenu jeudi 15 octobre 2026 vers dix-neuf heures trente sur le quai de chargement des installations d'Eurotunnel. Le minibus transportait des conducteurs de véhicules lourds qui devaient embarquer à bord d'une navette ferroviaire LeShuttle. La préfecture du Pas-de-Calais a confirmé la présence de dix-neuf passagers touchés par la collision. Aucun décès n'est enregistré sur le site. Les autorités locales ont immédiatement ouvert une enquête administrative et judiciaire pour établir les circonstances exactes des faits. La circulation ferroviaire des liaisons Eurostar et des trains de marchandises n'a subi aucune interruption.\n\n## Ce que disent les sources\n\nLes comptes rendus des médias présentent des variations concernant l'état du train de marchandises et le nombre de victimes sévèrement atteintes.\n\nSur la dynamique du choc, Le Figaro indique le 16 octobre 2026 à 1 h 25 que le véhicule léger s'est couché sur le flanc au niveau d'un passage à niveau avant de subir l'impact du train de fret. À l'inverse, Le Monde le 16 octobre 2026 à 0 h 04, Libération le 16 octobre 2026 à 1 h 33 et la BBC le 16 octobre 2026 à 2 h 37 rapportent que le convoi ferroviaire était totalement immobile au moment où le bus l'a heurté.\n\nSur le bilan des personnes gravement touchées, les chiffres de la préfecture du Pas-de-Calais cités par les médias diffèrent. The Straits Times le 15 octobre 2026 à 23 h 50, Libération le 16 octobre 2026 à 1 h 33 et franceinfo le 16 octobre 2026 à 8 h 09 font état de cinq blessés en état d'urgence absolue. En revanche, Le Monde le 16 octobre 2026 à 0 h 04, Deutsche Welle le 16 octobre 2026 à 0 h 42 et la BBC le 16 octobre 2026 à 2 h 37 mentionnent deux personnes grièvement blessées, précisant leur transfert vers le centre hospitalier universitaire de Lille ou leur évacuation par un hélicoptère de secours.\n\nL'origine de la manœuvre du minibus ayant entraîné l'accident n'est pas précisée dans les bilans officiels fournis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/nineteen-injured-after-train-and-coach-collide-in-northern-france"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/15/tunnel-sous-la-manche-un-accident-entre-un-bus-et-un-train-de-fret-fait-dix-neuf-blesses_6794797_3224.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/tunnel-de-la-manche-collision-entre-un-bus-et-un-train-19-blesses-dont-5-en-urgence-absolue-20261015_SCJJ6TEZ3NBZ5BW3RWLDHTDIH4"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/accident/un-minibus-heurte-un-train-de-fret-a-l-entree-du-tunnel-sous-la-manche_8239411.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6wyrnmgzn01o"
+    }
+   ],
+   "premiere_parution": "2026-10-15T19:50:58Z",
+   "suite_de": null,
+   "mots": 378,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump annule la retransmission en direct d'une exécution militaire",
+   "chapeau": "Le président des États-Unis a annoncé jeudi 15 octobre 2026 l'annulation de la diffusion en direct de l'exécution de Nidal Hasan. L'ancien militaire américain doit mourir fusillé le 3 décembre 2026 pour avoir tué treize personnes au Texas.",
+   "corps": "Donald Trump a fait cette déclaration le jeudi 15 octobre 2026. Le chef de l'État a annulé le projet élaboré par son secrétaire à la Défense, Pete Hegseth. Ce plan prévoyait de montrer en temps réel la mort de Nidal Hasan par peloton d'exécution sur internet.\n\nLe ministère américain de la Défense n'utilisera donc aucun flux vidéo public pour cette procédure. Nidal Hasan a commis une attaque par balle en 2009 sur la base militaire de Fort Hood, située dans l'État du Texas. Cette fusillade a causé la mort de treize personnes et a fait trente-deux blessés, selon le journal espagnol ABC du 15 octobre 2026. L'homme est le fils de parents palestiniens immigrés. Il s'agit de la première peine de mort appliquée par l'armée américaine depuis plus de soixante ans, d'après les éléments rapportés par la BBC.\n\nLa date de l'exécution reste fixée au 3 décembre 2026. Le président américain a précisé que les membres de la famille proche des défunts pourront assister sur place à la procédure. Donald Trump a expliqué que les proches ont le droit de voir s'appliquer la justice, s'ils font ce choix. Le dirigeant a aussi indiqué que certaines personnes préfèrent ne pas regarder cette mise à mort.\n\nLe projet de retransmission vidéo a suscité des réactions hostiles au sein de la classe politique américaine. La sénatrice démocrate Elissa Slotkin a qualifié cette idée de répugnante. Le sénateur républicain John Curtis a affirmé que diffuser ces images ne constituait pas un moyen efficace de dissuasion. Ces deux déclarations ont été relevées le 16 octobre 2026 par le quotidien britannique The Guardian.\n\nLa population américaine désapprouve ce projet initial. Selon un sondage mentionné par le site Ars Technica le jeudi 15 octobre 2026, huit Américains sur dix s'opposaient à l'initiative du Pentagone.\n\nDes contestations sont également venues d'acteurs internationaux. L'Organisation des Nations unies, l'Église catholique et plusieurs organisations non gouvernementales vouées aux droits de la personne ont critiqué cette mesure, d'après les informations diffusées par franceinfo.\n\nLe Pentagone a déclaré que Donald Trump et Pete Hegseth partagent une position identique concernant l'abandon de cette diffusion vidéo.\n\nLe lieu exact de l'exécution de Nidal Hasan n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/trump-renonce-a-diffuser-en-direct-la-mise-a-mort-dun-condamne-par-peloton-dexecution-20261015_TQ3QF76RGJBZJEEYBPCEPWBHJU"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/etats-unis-trump-renonce-a-diffuser-en-direct-une-execution-20261015"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261015-trump-scraps-plan-to-livestream-execution-after-broad-backlash"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/trump-agora-descarta-transmissao-da-execucao-de-autor-de-massacre-em-base-militar-dos-eua.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-ford-hood-shooters-military-execution-will-not-be-livestreamed/article71589291.ece"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-renonce-a-diffuser-en-direct-la-mise-a-mort-par-peloton-d-execution-militaire-du-meurtrier-de-soldats-americains_8239087.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-15T00:00:00Z",
+   "suite_de": null,
+   "mots": 403,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-16-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'Ukraine ordonne la reprise des frappes contre les raffineries russes",
+   "chapeau": "Le président ukrainien Volodymyr Zelensky a ordonné jeudi 15 octobre 2026 la reprise des attaques par drones contre les raffineries de pétrole russes. Cette décision met fin à une pause de trois jours promue par Donald Trump après de nouveaux tirs russes sur les infrastructures de l'Ukraine.",
+   "corps": "Le président ukrainien Volodymyr Zelensky a annoncé la fin de la trêve énergétique temporaire. Il a donné l'instruction à ses forces armées de relancer les opérations contre les raffineries de pétrole en Russie. Cette directive met un terme à une suspension des tirs observée pendant trois jours par Kiev. Les autorités ukrainiennes avaient accepté cette trêve à la suite d'un appel du président des États-Unis Donald Trump, formulé la semaine précédente, qui demandait un cessez-le-feu ciblé sur les infrastructures de l'énergie.\n\nLe gouvernement ukrainien justifie cette décision par la poursuite des bombardements de Moscou. Selon Volodymyr Zelensky, l'armée russe a rejeté l'accord énergétique en maintenant ses assauts contre les installations énergétiques et contre les cibles civiles en Ukraine. Ces tirs ont provoqué des morts parmi la population au cours des derniers jours. Dans la nuit précédant la décision ukrainienne, les forces de Moscou ont lancé un groupe important de drones contre les réseaux situés dans le centre du territoire ukrainien.\n\nLes conséquences sur le terrain se sont concrétisées rapidement. Des appareils sans pilote ukrainiens ont visé une installation pétrolière dans la région russe de Riazan dans la matinée du jeudi 15 octobre 2026. Cette action intervient dans un climat de dégradation des liens politiques et militaires entre l'Ukraine et la Maison-Blanche.\n\nLe président ukrainien a détaillé les tensions bilatérales avec Washington au quotidien Financial Times. Volodymyr Zelensky a affirmé que les forces de son pays ne reçoivent plus les alertes anticipées des États-Unis signalant les tirs de missiles balistiques russes. Les missiles balistiques sont des engins propulsés à trajectoire courbe. Le dirigeant a lié son ordre de frappe à ces restrictions imposées par l'administration de Donald Trump sur le partage de renseignements.\n\nVolodymyr Zelensky s'est également exprimé sur la position diplomatique américaine. Le chef de l'État a déclaré que son pays perd un partenaire solide avec les États-Unis. Il a expliqué qu'il est douloureux de voir Donald Trump choisir un camp adverse au sien, tout en précisant accepter une position de neutralité stricte de la part du dirigeant américain.\n\nCes développements marquent l'échec d'une négociation menée de manière unilatérale par Washington. Donald Trump avait affirmé l'existence d'un accord pour préserver le secteur énergétique des deux belligérants. L'armée de Moscou n'a pas appliqué cette entente sur le terrain selon les déclarations des responsables ukrainiens.\n\n## Ce que disent les sources\n\nLe gouvernement russe a affirmé, selon une dépêche de l'agence Interfax relayée par Bloomberg le 14 octobre 2026 à 20 h 46, que des drones ukrainiens ont attaqué deux raffineries de pétrole sur son sol dès le mercredi 14 octobre 2026. Moscou a présenté ces tirs comme la preuve que Kiev refusait le cessez-le-feu voulu par Washington. Les autorités ukrainiennes ont pour leur part démenti avoir mené des frappes ce jour-là.\n\nLa radio américaine NPR a ensuite rapporté le 15 octobre 2026 à 14 h 05 qu'une seule raffinerie située dans la zone de Riazan a subi une attaque de drones le jeudi matin, après l'annonce officielle du président ukrainien. La chaîne allemande Deutsche Welle a quant à elle indiqué le 15 octobre 2026 à 18 h 51 que les autorités de Moscou signalaient deux attaques distinctes contre leurs raffineries.\n\nLes sources ne précisent pas le bilan humain ni l'ampleur des dégâts matériels causés par ces frappes sur les sites pétroliers russes et sur le centre de l'Ukraine.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-14/russia-says-drones-attacked-two-oil-refineries-interfax-reports"
+    },
+    {
+     "nom": "peeblesshirenews.com",
+     "url": "https://peeblesshirenews.com/news/national/26639193.ukraine-resumes-attacks-russian-oil-refineries-tensions-deepen-us"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/zelenskiy-says-ukraine-will-resume-strikes-on-russian-refineries-ft-reports"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c8511d8c-4889-4b38-bcce-f31044ef5b30?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqwyrnwd9dw1o"
+    }
+   ],
+   "premiere_parution": "2026-10-14T08:45:00Z",
+   "suite_de": null,
+   "mots": 603,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-16-monde-001",
+  "2026-10-16-monde-002",
+  "2026-10-16-geopolitique-001",
+  "2026-10-16-monde-003",
+  "2026-10-16-geopolitique-002",
+  "2026-10-16-monde-004",
+  "2026-10-16-monde-005",
+  "2026-10-16-monde-006"
+ ]
+}

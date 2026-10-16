@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-15T05:23:37Z",
- "derniere": "2026-10-15",
+ "maj": "2026-10-16T05:12:33Z",
+ "derniere": "2026-10-16",
  "editions": [
+  {
+   "date": "2026-10-16",
+   "genere_a": "2026-10-16T05:12:33Z",
+   "articles": 13,
+   "une": [
+    "Quatre personnes meurent dans une fusillade scolaire en Oregon",
+    "Effondrement du toit d'une école à Peshawar au Pakistan",
+    "Donald Trump annule la retransmission en direct d'une exécution militaire"
+   ],
+   "octets": 53160
+  },
   {
    "date": "2026-10-15",
    "genere_a": "2026-10-15T05:23:37Z",

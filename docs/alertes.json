@@ -1,6 +1,108 @@
 {
- "maj": "2026-10-16T16:49:48Z",
+ "maj": "2026-10-16T21:14:32Z",
  "alertes": [
+  {
+   "id": "2026-10-17-alerte-01",
+   "date": "2026-10-17",
+   "publiee_a": "2026-10-16T21:14:26Z",
+   "titre": "Donald Trump écarte sa porte-parole Katie Zacharia après cinq jours",
+   "texte": "Donald Trump a congédié la porte-parole de la Maison-Blanche Katie Zacharia le vendredi 16 octobre 2026 à Washington. La responsable quitte son poste seulement cinq jours après son entrée en fonction à la suite de controverses sur son parcours.",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/white-house-press-secretary-katie-zacharia-let-go-just-days-into-role/article71594137.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_16/susie-wiles-stagione-coltelli-casa-bianca-capa-staff-trump-zacharia-ddd8a734-5b42-4977-af6c-598c1ddf1xlk.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-16/affordability-messaging-in-focus-ahead-of-us-midterms-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-10-16/trump-fires-katie-zacharia-after-five-days-as-white-house-press-secretary.html"
+    }
+   ],
+   "cluster": "1b22bc208f27c80d",
+   "urls": [
+    "https://abc.es/internacional/trump-recomienda-flamante-portavoz-considere-dimision-20261016194045-nt.html",
+    "https://aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
+    "https://aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role",
+    "https://bloomberg.com/news/articles/2026-10-16/trump-opens-door-to-replacing-press-secretary-after-rocky-start",
+    "https://bloomberg.com/news/videos/2026-10-16/affordability-messaging-in-focus-ahead-of-us-midterms-video",
+    "https://bloomberg.com/news/videos/2026-10-16/zacharia-out-as-trump-s-white-house-press-secretary-video",
+    "https://corriere.it/esteri/26_ottobre_16/susie-wiles-stagione-coltelli-casa-bianca-capa-staff-trump-zacharia-ddd8a734-5b42-4977-af6c-598c1ddf1xlk.shtml",
+    "https://corriere.it/esteri/26_ottobre_16/trump-la-nuova-portavoce-katie-zacharia-ai-saluti-il-presidente-usa-deve-riconsiderare-il-suo-incarico-forse-non-fa-per-lei-f1458ffe-2dd8-4140-86c0-28b4f043bxlk.shtml",
+    "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341",
+    "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html",
+    "https://english.elpais.com/usa/2026-10-16/trump-fires-katie-zacharia-after-five-days-as-white-house-press-secretary.html",
+    "https://ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
+    "https://newstalk1400online.iheart.com/content/2026-10-16-katie-zacharia-fired-as-white-house-press-secretary-after-five-days",
+    "https://northwichguardian.co.uk/news/national/26645614.white-house-press-secretary-katie-zacharia-leaving-job-rocky-start",
+    "https://npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+    "https://spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c",
+    "https://straitstimes.com/world/united-states/trumps-new-press-secretary-katie-zacharia-out-after-less-than-week-in-the-role",
+    "https://theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
+    "https://thehindu.com/news/international/white-house-press-secretary-katie-zacharia-let-go-just-days-into-role/article71594137.ece",
+    "https://times-news.com/news/white-house-press-secretary-katie-zacharia-is-leaving-the-job-after-a-rocky-start/article_9d72fe73-8b12-5b60-93f4-03c477f42b45.html",
+    "https://wishtv.com/news/national/trump-fires-katie-zacharia-as-white-house-press-secretary-after-five-days-advisers-say",
+    "https://www1.folha.uol.com.br/mundo/2026/10/casa-branca-demite-secretaria-de-imprensa-5-dias-apos-posse.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-17-alerte-02",
+   "date": "2026-10-17",
+   "publiee_a": "2026-10-16T21:14:32Z",
+   "titre": "Collège d'Aubagne : un deuxième adolescent mis en examen pour complicité",
+   "texte": "Les juges ont mis en examen un mineur de 13 ans vendredi 16 octobre 2026. La justice le soupçonne d'avoir entretenu des contacts avec l'auteur présumé des tirs survenus lundi dans un établissement scolaire d'Aubagne.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/info-franceinfo-college-d-aubagne-un-adolescent-de-13-ans-interpelle-dans-le-nord-de-la-france_8238352.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/fusillade-d-aubagne-un-deuxieme-adolescent-presente-a-la-justice-20261016"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261016-suspect-fusillade-aubagne-coeur-fausses-th%C3%A9ories"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/marseille/fusillade-dans-un-college-a-aubagne-un-autre-adolescent-interpelle-et-place-en-garde-a-vue-20261015"
+    }
+   ],
+   "cluster": "0a1328fc0f197ae6",
+   "urls": [
+    "https://france24.com/fr/france/20261016-suspect-fusillade-aubagne-coeur-fausses-th%C3%A9ories",
+    "https://franceinfo.fr/faits-divers/il-a-paru-necessaire-de-le-placer-en-detention-qui-est-l-adolescent-interpelle-mercredi-soupconne-d-etre-en-lien-avec-le-jeune-tireur-d-aubagne_8238700.html",
+    "https://franceinfo.fr/faits-divers/info-franceinfo-college-d-aubagne-un-adolescent-de-13-ans-interpelle-dans-le-nord-de-la-france_8238352.html",
+    "https://franceinfo.fr/faits-divers/police/un-deuxieme-adolescent-soupconne-d-etre-en-lien-avec-le-suspect-de-la-fusillade-au-college-d-aubagne-presente-a-la-justice_8240620.html",
+    "https://franceinfo.fr/faits-divers/tirs-dans-un-college-d-aubagne-un-deuxieme-adolescent-mis-en-examen-et-place-en-detention-provisoire-soupconne-d-etre-en-lien-avec-le-suspect_8240983.html",
+    "https://la-croix.com/fusillade-d-aubagne-un-deuxieme-adolescent-presente-a-la-justice-20261016",
+    "https://lefigaro.fr/marseille/fusillade-dans-un-college-a-aubagne-un-autre-adolescent-interpelle-et-place-en-garde-a-vue-20261015"
+   ]
+  },
   {
    "id": "2026-10-16-alerte-03",
    "date": "2026-10-16",
@@ -1204,184 +1306,6 @@
     "https://theguardian.com/world/2026/oct/09/panama-earthquake",
     "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
     "https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-76-atinge-o-panama.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-09-alerte-03",
-   "date": "2026-10-09",
-   "publiee_a": "2026-10-09T10:39:28Z",
-   "titre": "La juriste sud-africaine Navi Pillay reçoit le prix Nobel de la paix",
-   "texte": "Le comité Nobel norvégien a attribué le prix Nobel de la paix 2026 à Navanethem Pillay ce vendredi 9 octobre à Oslo. L'institution récompense l'action de l'ancienne magistrate sud-africaine en faveur de la paix et des règles juridiques internationales.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/un-human-rights-office-welcomes-nobel-prize-winner-pillay-as-staunch-defender-of-human-rights"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261009-le-nobel-de-la-paix-2026-d%C3%A9cern%C3%A9-%C3%A0-la-sud-africaine-navanethem-navi-pillay"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/lavocate-sud-africaine-navanethem-pillay-recoit-le-prix-nobel-de-la-paix-20261009_UW5SGIQO3NAGRANNFXYLPSZSRM"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/sigue-directo-anuncio-premio-nobel-paz-2026-20261009101339-nt.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020"
-    }
-   ],
-   "cluster": "02e5589e83c21412",
-   "urls": [
-    "https://abc.es/internacional/sigue-directo-anuncio-premio-nobel-paz-2026-20261009101339-nt.html",
-    "https://aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay",
-    "https://aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize",
-    "https://bloomberg.com/news/articles/2026-10-09/nobel-peace-prize-awarded-to-international-jurist-navi-pillay",
-    "https://bloomberg.com/news/videos/2026-10-09/nobel-peace-prize-goes-to-jurist-navi-pillay-video",
-    "https://dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020",
-    "https://dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-10-09/premio-nobel-de-la-paz.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_9?evenement=a94b6bc8fb",
-    "https://france24.com/fr/europe/20261009-le-prix-nobel-de-la-paix-est-d%C3%A9cern%C3%A9-%C3%A0-navanethem-pillay",
-    "https://france24.com/fr/vid%C3%A9o/20261009-le-nobel-de-la-paix-2026-d%C3%A9cern%C3%A9-%C3%A0-la-sud-africaine-navanethem-navi-pillay",
-    "https://franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-la-paix-est-decerne-a-la-sud-africaine-navanethem-navi-pillay-pour-ses-efforts-en-faveur-de-la-promotion-de-la-paix-et-du-droit-international_8229787.html",
-    "https://ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
-    "https://la-croix.com/international/prix-nobel-de-la-paix-2026-la-sud-africaine-navanethem-navi-pillay-recompensee-20261009",
-    "https://lefigaro.fr/international/le-prix-nobel-de-la-paix-2026-decerne-a-navanethem-pillay-20261009",
-    "https://lemonde.fr/international/article/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay-pour-ses-efforts-en-faveur-de-la-paix-et-du-droit-international_6790542_3210.html",
-    "https://liberation.fr/international/lavocate-sud-africaine-navanethem-pillay-recoit-le-prix-nobel-de-la-paix-20261009_UW5SGIQO3NAGRANNFXYLPSZSRM",
-    "https://nbcdfw.com/news/national-international/navi-pillay-wins-nobel-peace-prize-international-justice/4088875",
-    "https://npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
-    "https://nrc.nl/nieuws/2026/10/09/oud-vn-mensenrechtenchef-navanethem-pillay-wint-nobelprijs-voor-de-vrede-a4938594",
-    "https://rfi.fr/fr/afrique/20261009-le-prix-nobel-2026-de-la-paix-d%C3%A9cern%C3%A9-%C3%A0-la-sud-africaine-navanethem-navi-pillay",
-    "https://rockymounttelegram.com/news/world/navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice/article_d27477ed-40a0-5c1d-8862-7f99d9998f64.html",
-    "https://spiegel.de/ausland/friedensnobelpreis-suedafrikanische-juristin-navanethem-pillay-ausgezeichnet-a-dc9b7b39-2edc-4ba3-9796-3f9adad4d34d",
-    "https://straitstimes.com/world/europe/south-africas-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
-    "https://straitstimes.com/world/europe/un-human-rights-office-welcomes-nobel-prize-winner-pillay-as-staunch-defender-of-human-rights",
-    "https://theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-    "https://thehindu.com/news/international/navanethem-navi-pillay-wins-nobel-peace-prize-2026/article71563375.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/10/nobel-da-paz-premia-navanethem-pillay.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-09-alerte-01",
-   "date": "2026-10-09",
-   "publiee_a": "2026-10-09T01:17:12Z",
-   "titre": "Le Pentagone annonce la diffusion en direct de l'exécution de Nidal Hasan",
-   "texte": "Le ministère de la Défense des États-Unis prévoit de retransmettre en direct la mise à mort de Nidal Hasan le 3 décembre 2026. Un peloton d'exécution militaire fusillera l'auteur de la tuerie perpétrée sur la base texane de Fort Hood.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/fort-hood-pentagon-plant-livestream-der-hinrichtung-von-nidal-hasas-a-9a9f55b1-378a-40a2-a52b-9c24a6524ac5"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/am%C3%A9riques/20261008-fusillade-fort-hood-armee-americaine-veut-diffuser-en-direct-execution-peloton-tireur-nidal-hasan"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/pentagon-says-firing-squad-execution-of-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed/article71561622.ece"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmy0r96xygx6o"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html"
-    }
-   ],
-   "cluster": "06be798f60d0d2b3",
-   "urls": [
-    "https://abc.es/internacional/estados-unidos-retransmitira-fusilamiento-autor-matanza-base-20261008235938-nt.html",
-    "https://aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public",
-    "https://bbc.co.uk/news/articles/cmy0r96xygx6o",
-    "https://bloomberg.com/news/articles/2026-10-08/hegseth-vows-public-firing-squad-execution-for-fort-hood-shooter",
-    "https://dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_8?evenement=db86f0f912",
-    "https://france24.com/fr/am%C3%A9riques/20261008-fusillade-fort-hood-armee-americaine-veut-diffuser-en-direct-execution-peloton-tireur-nidal-hasan",
-    "https://ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
-    "https://houstonpublicmedia.org/articles/news/texas/2026/10/08/563969/firing-squad",
-    "https://idahostatejournal.com/news/national/the-latest-pentagon-says-firing-squad-execution-of-fort-hood-shooter-will-be-livestreamed/article_9e663ece-c29f-51eb-84e5-b9069043cafb.html",
-    "https://lefigaro.fr/actualite-france/une-technique-associee-au-far-west-l-armee-americaine-va-recourir-au-peloton-d-execution-pour-la-premiere-fois-depuis-1945-20261008",
-    "https://lefigaro.fr/international/etats-unis-la-mise-a-mort-par-peloton-d-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire-en-2009-sera-publique-et-diffusee-en-direct-20261008",
-    "https://lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html",
-    "https://spiegel.de/ausland/fort-hood-pentagon-plant-livestream-der-hinrichtung-von-nidal-hasas-a-9a9f55b1-378a-40a2-a52b-9c24a6524ac5",
-    "https://straitstimes.com/world/united-states/public-execution-by-firing-squad-for-military-base-shooter-nidal-hasan-says-us-hegseth",
-    "https://theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
-    "https://thehindu.com/news/international/pentagon-says-firing-squad-execution-of-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed/article71561622.ece",
-    "https://thetimes-tribune.com/2026/10/08/fort-hood-shooting-execution",
-    "https://wbtv.com/2026/10/08/pentagon-says-firing-squad-execution-fort-hood-shooter-nidal-malik-hasan-will-be-livestreamed",
-    "https://www1.folha.uol.com.br/mundo/2026/10/eua-vao-transmitir-execucao-de-ex-major-por-fuzilamento-aprovada-por-trump.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-09-alerte-02",
-   "date": "2026-10-09",
-   "publiee_a": "2026-10-09T01:22:07Z",
-   "titre": "Un agent de l'ICE blesse un homme par balle à New York",
-   "texte": "Un agent de la police fédérale de l'immigration a blessé un homme par balle jeudi après-midi à New York. Un enfant de cinq ans se trouvait dans le véhicule lors des faits.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-08/ice-agents-shoot-person-in-new-york-victim-taken-to-hospital"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/new-york-ice-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html"
-    }
-   ],
-   "cluster": "1069d13828b0d85c",
-   "urls": [
-    "https://bloomberg.com/news/articles/2026-10-08/ice-agents-shoot-person-in-new-york-victim-taken-to-hospital",
-    "https://dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-all-1573-xml-mrss",
-    "https://lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html",
-    "https://spiegel.de/ausland/new-york-ice-beamte-schiessen-auf-mann-in-auto-kind-an-bord-a-cdc35fd7-cc9f-4781-9d1a-e34b9ea4ceae",
-    "https://straitstimes.com/world/united-states/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says",
-    "https://theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
    ]
   }
  ]

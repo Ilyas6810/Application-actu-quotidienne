@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-16T05:12:33Z",
- "derniere": "2026-10-16",
+ "maj": "2026-10-17T05:13:05Z",
+ "derniere": "2026-10-17",
  "editions": [
+  {
+   "date": "2026-10-17",
+   "genere_a": "2026-10-17T05:13:05Z",
+   "articles": 48,
+   "une": [
+    "Donald Trump écarte Katie Zacharia de son poste de porte-parole",
+    "Le gouvernement brésilien annonce une diminution du déboisement amazonien",
+    "Effondrement d'une école à Peshawar : le bilan humain s'alourdit"
+   ],
+   "octets": 219592
+  },
   {
    "date": "2026-10-16",
    "genere_a": "2026-10-16T05:12:33Z",

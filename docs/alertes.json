@@ -1,6 +1,179 @@
 {
- "maj": "2026-10-17T04:31:27Z",
+ "maj": "2026-10-17T20:43:17Z",
  "alertes": [
+  {
+   "id": "2026-10-18-alerte-01",
+   "date": "2026-10-18",
+   "publiee_a": "2026-10-17T20:42:48Z",
+   "titre": "Des centaines de milliers de manifestants défilent contre la vie chère en France",
+   "texte": "Des cortèges ont réuni samedi 17 octobre des centaines de milliers de citoyens à travers la France pour protester contre la vie chère. Plusieurs dégradations et des heurts ont éclaté dans différentes villes lors de cette journée d'action.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/17-octobre-entre-550-000-et-800-000-manifestants-partout-en-france_8242129.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/manifestation-du-17-octobre-des-scenes-d-emeutes-et-des-pillages-a-lissue-de-la-mobilisation-20261017"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/des-scenes-de-guerilla-urbaine-et-des-pillages-a-la-chaine-notre-recit-d-une-journee-de-violences-debridees-qui-ont-enflamme-la-france-20261017"
+    }
+   ],
+   "cluster": "3a2c918c90a8e1f1",
+   "urls": [
+    "https://france24.com/fr/france/20261017-%C3%A7a-bouge-pas-donc-il-faut-employer-grands-moyens-paris-manifestation-les-col%C3%A8res-convergent",
+    "https://france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
+    "https://france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
+    "https://france24.com/fr/france/20261017-france-les-grandes-villes-en-proie-aux-pillages-en-marge-des-manifestations",
+    "https://france24.com/fr/vid%C3%A9o/20261017-17-octobre-des-milliers-de-manifestants-attendus-dans-toute-la-france",
+    "https://franceinfo.fr/economie/greve/17-octobre-entre-550-000-et-800-000-manifestants-partout-en-france_8242129.html",
+    "https://franceinfo.fr/economie/greve/c-est-de-pire-en-pire-on-n-arrive-plus-a-vivre-des-premiers-blocages-et-barrages-filtrants-des-la-matinee-du-17-octobre_8241745.html",
+    "https://franceinfo.fr/economie/greve/des-centaines-d-actions-prevues-des-debordements-attendus-et-des-politiques-dans-les-corteges-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-17-octobre_8239903.html",
+    "https://franceinfo.fr/economie/greve/la-mobilisation-du-17-octobre-risque-de-degenerer-alerte-le-secretaire-general-du-syndicat-des-commissaires-de-la-police-nationale_8240980.html",
+    "https://franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html",
+    "https://franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html",
+    "https://franceinfo.fr/economie/transports/gilets-jaunes/mobilisation-du-17-octobre-comment-les-gilets-jaunes-tentent-de-structurer-le-mouvement-relance-par-la-colere-lyceenne_8238922.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/faire-converger-les-luttes-pour-obtenir-quelque-chose-plusieurs-centaines-de-milliers-de-francais-dans-la-rue-ce-17-octobre_8242072.html",
+    "https://franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html",
+    "https://la-croix.com/economie/manifestation-du-17-octobre-la-vie-chere-au-cour-de-la-contestation-20261016",
+    "https://la-croix.com/societe/manifestation-du-17-octobre-des-scenes-d-emeutes-et-des-pillages-a-lissue-de-la-mobilisation-20261017",
+    "https://lefigaro.fr/actualite-france/des-scenes-de-guerilla-urbaine-et-des-pillages-a-la-chaine-notre-recit-d-une-journee-de-violences-debridees-qui-ont-enflamme-la-france-20261017",
+    "https://lefigaro.fr/actualite-france/paris-lyon-marseille-les-images-des-scenes-de-violences-et-de-scenes-lors-des-manifestations-du-17-octobre-20261017",
+    "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-a-paris-et-dans-les-grandes-villes-de-france-des-corteges-calmes-et-des-scenes-d-affrontements-avec-les-forces-de-l-ordre_6795855_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-suivez-le-mouvement-de-contestation-a-travers-la-france-avec-nos-journalistes-sur-place_6795855_3224.html",
+    "https://lemonde.fr/societe/video/2026/10/17/les-images-fortes-des-manifestations-du-17-octobre_6796689_3224.html",
+    "https://liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE",
+    "https://rfi.fr/fr/france/20261016-france-de-multiples-mobilisations-annonc%C3%A9es-ce-17-octobre-pour-une-convergence-des-luttes",
+    "https://rfi.fr/fr/france/20261017-direct-lyc%C3%A9ens-gilets-jaunes-suivez-la-journ%C3%A9e-de-mobilisation-%C3%A0-travers-la-france",
+    "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20261017-journ%C3%A9e-de-mobilisation-en-france-la-violence-va-plut%C3%B4t-%C3%A9touffer-les-mouvements-sociaux"
+   ]
+  },
+  {
+   "id": "2026-10-18-alerte-02",
+   "date": "2026-10-18",
+   "publiee_a": "2026-10-17T20:42:52Z",
+   "titre": "Des colons israéliens agressent des diplomates européens en Cisjordanie occupée",
+   "texte": "Des colons israéliens ont attaqué des diplomates européens et des responsables français samedi 17 octobre 2026 à Taybeh, en Cisjordanie occupée. L'agression s'est produite lors d'une récolte d'olives aux côtés d'habitants palestiniens.",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/west-bank/2026-10-17/ty-article/.premium/settlers-attack-european-diplomats-during-palestinians-west-bank-olive-harvest/000001a1-49f0-d54e-adef-d9f0da3c0000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/west-bank-settlers-attack-palestinians-western-diplomats-belgium-says"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c962ydpmjm3zo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/masked-settlers-attack-european-diplomats-in-occupied-west-bank/article71597806.ece"
+    }
+   ],
+   "cluster": "190f9a24e5e8d7e7",
+   "urls": [
+    "https://bbc.co.uk/news/articles/c962ydpmjm3zo",
+    "https://dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
+    "https://ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+    "https://haaretz.com/west-bank/2026-10-17/ty-article/.premium/settlers-attack-european-diplomats-during-palestinians-west-bank-olive-harvest/000001a1-49f0-d54e-adef-d9f0da3c0000",
+    "https://straitstimes.com/world/europe/west-bank-settlers-attack-palestinians-western-diplomats-belgium-says",
+    "https://theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+    "https://theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+    "https://thehindu.com/news/international/masked-settlers-attack-european-diplomats-in-occupied-west-bank/article71597806.ece"
+   ]
+  },
+  {
+   "id": "2026-10-18-alerte-03",
+   "date": "2026-10-18",
+   "publiee_a": "2026-10-17T20:43:17Z",
+   "titre": "Le rugbyman sud-africain Hyron Andrews meurt avant un match en France",
+   "texte": "Le joueur sud-africain Hyron Andrews est mort vendredi 16 octobre 2026 dans son hôtel sur l'île de Ré. L'athlète des Lions de Johannesburg préparait une rencontre face au Stade Rochelais.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/info-radio-france-un-rugbyman-des-lions-de-johannesbourg-meurt-dans-un-hotel-de-l-ile-de-re-a-la-veille-du-match-face-au-stade-rochelais_8240164.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/26_ottobre_16/rugby-hyron-andrews-trovato-morto-in-albergo-a-la-rochelle-colto-da-malore-mentre-era-nella-doccia-a3f1bee2-b223-4851-b4a9-a717773caxlk.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261016-hyron-andrews-rugbyman-sud-africain-des-lions-retrouv%C3%A9-mort-%C3%A0-la-veille-d-un-match-%C3%A0-la-rochelle"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-en-video-le-vibrant-hommage-a-hyron-andrews-decede-vendredi-avant-le-match-la-rochelle-lions-20261017"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Rugby/Actualites/Coupe-des-champions-la-rochelle-domine-des-lions-endeuilles-par-la-mort-de-hyron-andrews/1736559"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo"
+    }
+   ],
+   "cluster": "5fdfe06520b68743",
+   "urls": [
+    "https://bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo",
+    "https://bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo",
+    "https://corriere.it/sport/26_ottobre_16/rugby-hyron-andrews-trovato-morto-in-albergo-a-la-rochelle-colto-da-malore-mentre-era-nella-doccia-a3f1bee2-b223-4851-b4a9-a717773caxlk.shtml",
+    "https://france24.com/fr/france/20261016-rugby-joueur-sud-africain-retrouv%C3%A9-mort-veille-match-la-rochelle-champions-cup",
+    "https://franceinfo.fr/faits-divers/info-radio-france-un-rugbyman-des-lions-de-johannesbourg-meurt-dans-un-hotel-de-l-ile-de-re-a-la-veille-du-match-face-au-stade-rochelais_8240164.html",
+    "https://franceinfo.fr/sports/rugby/champions-cup/le-match-de-champions-cup-entre-la-rochelle-et-les-lions-maintenu-malgre-la-mort-du-sud-africain-hyron-andrews_8240425.html",
+    "https://lefigaro.fr/sports/rugby/champions-cup-la-rochelle-lions-maintenu-malgre-la-mort-d-un-joueur-sud-africain-20261016",
+    "https://lefigaro.fr/sports/rugby/coupe-d-europe/gloucester-ubb-en-video-l-emouvante-minute-de-silence-en-hommage-a-hyron-andrews-decede-avant-le-match-de-champions-cup-contre-la-rochelle-20261016",
+    "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-en-video-le-vibrant-hommage-a-hyron-andrews-decede-vendredi-avant-le-match-la-rochelle-lions-20261017",
+    "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-le-numero-5-ne-sera-pas-porte-durant-le-match-la-rochelle-lions-en-hommage-a-hyron-andrews-20261017",
+    "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-une-onde-de-choc-dans-la-communaute-internationale-du-rugby-les-lions-annoncent-le-mort-de-hyron-andrews-et-maintiennent-leur-match-contre-la-rochelle-en-hommage-20261016",
+    "https://lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html",
+    "https://lequipe.fr/Rugby/Actualites/Coupe-des-champions-la-rochelle-domine-des-lions-endeuilles-par-la-mort-de-hyron-andrews/1736559",
+    "https://lequipe.fr/Rugby/Actualites/Le-match-de-coupe-des-champions-entre-la-rochelle-et-les-lions-maintenu-malgre-la-mort-d-un-joueur-sud-africain/1736255",
+    "https://lequipe.fr/Rugby/Actualites/Les-lions-confirment-la-mort-de-hyron-andrews-a-l-age-de-31-ans/1736246",
+    "https://lequipe.fr/Rugby/Article/Qui-etait-hyron-andrews-le-joueur-des-lions-mort-la-veille-du-match-contre-la-rochelle-l-un-des-plus-grands-specialistes-de-la-touche-en-afrique-du-sud/1736318",
+    "https://liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4",
+    "https://rfi.fr/fr/sports/20261016-hyron-andrews-rugbyman-sud-africain-des-lions-retrouv%C3%A9-mort-%C3%A0-la-veille-d-un-match-%C3%A0-la-rochelle",
+    "https://theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
+   ]
+  },
   {
    "id": "2026-10-17-alerte-03",
    "date": "2026-10-17",
@@ -1144,224 +1317,6 @@
     "https://spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0",
     "https://straitstimes.com/world/europe/man-seriously-injured-in-tiger-attack-at-uk-zoo",
     "https://theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
-   ]
-  },
-  {
-   "id": "2026-10-10-alerte-03",
-   "date": "2026-10-10",
-   "publiee_a": "2026-10-10T09:57:11Z",
-   "titre": "L'astronaute Sophie Adenot s'exprime publiquement après son retour sur Terre",
-   "texte": "L'astronaute française Sophie Adenot a réalisé sa première intervention publique samedi 10 octobre 2026 à Cologne, en Allemagne. La spationaute a achevé jeudi sa mission en orbite à bord de la Station spatiale internationale.",
-   "sources": [
-    {
-     "nom": "ESA",
-     "url": "https://esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sciences/espace/de-retour-sur-terre-sophie-adenot-defend-une-precieuse-planete-que-nous-partageons-tous-20261010_SLEKXNG7WBAU5NUU6CYU6JEI6A"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sciences/c-etait-beaucoup-plus-facile-la-haut-decouvrez-les-premiers-mots-de-l-astronaute-francaise-sophie-adenot-a-son-retour-sur-terre-20261010"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sciences/article/2026/10/10/de-retour-sur-la-terre-ferme-sophie-adenot-dit-etre-passee-par-toutes-les-emotions-dans-l-espace_6790969_1650684.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/l-astronaute-francaise-sophie-adenot-de-retour-sur-terre-ferme-est-passee-par-toutes-les-emotions-dans-l-espace-20261010"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/science/20261010-espace-je-suis-pass%C3%A9e-par-toutes-les-%C3%A9motions-humaines-dit-sophie-adenot-de-retour-en-europe"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-suivez-le-depart-de-l-iss-de-l-astronaute-francaise-et-de-son-equipage-prevu-a-14h05_8223154.html"
-    }
-   ],
-   "cluster": "40dadae63b491c8e",
-   "urls": [
-    "https://esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot",
-    "https://france24.com/fr/%C3%A9co-tech/20261007-l-astronaute-sophie-adenot-de-retour-sur-terre",
-    "https://france24.com/fr/%C3%A9co-tech/20261008-apr%C3%A8s-espace-nombreux-d%C3%A9fis-physiques-qui-attendent-sophie-adenot",
-    "https://france24.com/fr/%C3%A9co-tech/20261008-en-direct-retour-sur-terre-sophie-adenot-nasa",
-    "https://france24.com/fr/%C3%A9co-tech/20261010-pass%C3%A9e-par-toutes-les-%C3%A9motions-les-premiers-mots-de-sophie-adenot-apr%C3%A8s-son-retour-sur-terre",
-    "https://france24.com/fr/vid%C3%A9o/20261008-espace-sophie-adenot-bient%C3%B4t-de-retour-sur-terre",
-    "https://france24.com/fr/vid%C3%A9o/20261008-sophie-adenot-que-se-passe-t-il-pour-les-astronautes-lors-du-retour-sur-terre",
-    "https://france24.com/fr/vid%C3%A9o/20261010-l-astronaute-fran%C3%A7aise-sophie-adenot-de-retour-sur-terre-ferme",
-    "https://franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-sophie-adenot-enfin-les-pieds-sur-terre_8229460.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/apres-huit-mois-dans-l-espace-la-francaise-sophie-adenot-est-de-retour-sur-terre_8228875.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/apres-une-mission-de-huit-mois-sophie-adenot-est-en-route-pour-la-terre_8227930.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/capsule-chauffee-a-1900-c-retour-a-haut-risque-de-sophie-adenot_8227141.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/equilibre-muscle-taille-les-defis-qui-attendent-sophie-adenot-apres-son-retour-sur-terre_8228971.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/l-emouvant-discours-de-sophie-adenot-apres-son-retour-sur-terre_8231359.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/les-larmes-suivent-l-apesanteur-maintenant-sophie-adenot-prononce-un-emouvant-discours-apres-son-retour-sur-la-terre-ferme_8231197.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/235-jours-dans-l-espace-sophie-adenot-de-retour-sur-terre_8228998.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-l-astronaute-francaise-doit-amerrir-au-large-de-la-californie-a-17h34_8219959.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-suivez-le-depart-de-l-iss-de-l-astronaute-francaise-et-de-son-equipage-prevu-a-14h05_8223154.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-retour-sur-terre-de-sophie-adenot-suivez-son-arrivee-a-cologne-et-sa-prise-de-parole-avant-de-rejoindre-le-centre-europeen-des-astronautes_8228074.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/retour-de-sophie-adenot-sur-terre-on-n-a-pas-le-droit-de-conduire-de-faire-du-velo-de-la-moto-explique-un-astronaute-a-propos-de-la-readaptation_8228554.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/surveiller-son-c-ur-retrouver-l-equilibre-quel-est-le-programme-de-readaptation-pour-sophie-adenot-apres-son-retour-sur-terre_8218453.html",
-    "https://franceinfo.fr/sciences/espace/sophie-adenot/video-l-astronaute-francaise-sophie-adenot-a-amerri-en-californie-apres-une-mission-historique-de-huit-mois_8228764.html",
-    "https://la-croix.com/a-vif/affaire-bardella-comment-annoncer-les-choses-avec-douceur-a-sophie-adenot-20261007",
-    "https://la-croix.com/l-astronaute-francaise-sophie-adenot-de-retour-sur-terre-ferme-est-passee-par-toutes-les-emotions-dans-l-espace-20261010",
-    "https://la-croix.com/planete/iss-la-capsule-transportant-sophie-adenot-et-ses-coequipiers-a-amerri-dans-le-pacifique-20261008",
-    "https://la-croix.com/planete/retour-sur-terre-de-sophie-adenot-ce-que-l-espace-fait-a-lame-des-astronautes-20261007",
-    "https://lefigaro.fr/international/l-astronaute-francaise-sophie-adenot-de-retour-sur-terre-apres-huit-mois-a-bord-de-l-iss-20261008",
-    "https://lefigaro.fr/sciences/c-etait-beaucoup-plus-facile-la-haut-decouvrez-les-premiers-mots-de-l-astronaute-francaise-sophie-adenot-a-son-retour-sur-terre-20261010",
-    "https://lefigaro.fr/sciences/vingt-sept-heures-de-voyage-28-000-km-h-et-1900-0c-le-recit-du-retour-reussi-de-sophie-adenot-sur-terre-20261008",
-    "https://lemonde.fr/sciences/article/2026/10/08/sophie-adenot-a-amerri-jeudi-apres-un-sejour-record-dans-la-station-spatiale-internationale_6790250_1650684.html",
-    "https://lemonde.fr/sciences/article/2026/10/08/suivez-en-direct-le-retour-sur-terre-de-sophie-adenot-apres-huit-mois-passes-a-bord-de-l-iss_6790242_1650684.html",
-    "https://lemonde.fr/sciences/article/2026/10/10/de-retour-sur-la-terre-ferme-sophie-adenot-dit-etre-passee-par-toutes-les-emotions-dans-l-espace_6790969_1650684.html",
-    "https://lemonde.fr/videos/video/2026/10/08/les-images-du-retour-de-sophie-adenot-sur-terre-apres-huit-mois-a-bord-de-l-iss_6790272_1669088.html",
-    "https://liberation.fr/sciences/espace/cest-comme-un-vieillissement-accelere-mais-reversible-comment-le-corps-de-sophie-adenot-va-t-il-se-readapter-a-la-vie-sur-terre-20261008_6HVEKGWHAVAOXBECPLWLR2SU4I",
-    "https://liberation.fr/sciences/espace/de-retour-sur-terre-sophie-adenot-defend-une-precieuse-planete-que-nous-partageons-tous-20261010_SLEKXNG7WBAU5NUU6CYU6JEI6A",
-    "https://liberation.fr/sciences/espace/suivez-en-direct-lamerrissage-de-lastronaute-sophie-adenot-apres-son-sejour-dans-liss-20261008_J5SY63QWA5DTPAOW4NUBSOL7AE",
-    "https://liberation.fr/sciences/histoire/retour-de-sophie-adenot-en-martinique-quand-les-reves-despace-sont-des-souhaits-de-liberte-20261008_PJCUULNJEBGDVMFVKBVIR4JAMI",
-    "https://rfi.fr/fr/france/20261007-apr%C3%A8s-235-jours-pass%C3%A9s-dans-l-espace-sophie-adenot-ach%C3%A8ve-une-mission-de-tous-les-records-dans-l-iss",
-    "https://rfi.fr/fr/france/20261008-l-astronaute-fran%C3%A7aise-sophie-adenot-est-de-retour-sur-terre-apr%C3%A8s-huit-mois-dans-l-espace",
-    "https://rfi.fr/fr/science/20261010-espace-je-suis-pass%C3%A9e-par-toutes-les-%C3%A9motions-humaines-dit-sophie-adenot-de-retour-en-europe"
-   ]
-  },
-  {
-   "id": "2026-10-10-alerte-01",
-   "date": "2026-10-10",
-   "publiee_a": "2026-10-10T00:56:52Z",
-   "titre": "Donald Trump annonce un accord avec Vladimir Poutine pour importer du carburant russe",
-   "texte": "Donald Trump a conclu un accord avec Vladimir Poutine pour acheminer du diesel russe vers les États-Unis le 9 octobre 2026. Cette entente vise à faire baisser les prix de l'énergie sur le marché américain avant les élections de mi-mandat.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/usa/midterms-2018/trump-annonce-des-livraisons-massives-de-diesel-russe-a-quelques-semaines-des-elections-de-mi-mandat_8230807.html"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-10-09/balance-of-power-late-edition-10-09-2026-video"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_09/guerra-ucraina-russia-notizie.shtml"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno"
-    }
-   ],
-   "cluster": "3bfce1338cbe5802",
-   "urls": [
-    "https://abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html",
-    "https://abc.es/internacional/zelenski-regalo-putin-pacto-trump-suministrar-millones-20261009224507-nt.html",
-    "https://aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
-    "https://bbc.co.uk/news/articles/cm1dwgr666wno",
-    "https://bignewsnetwork.com/news/279362846/trump-hails-russia-deal-to-supply-diesel-as-big-deal-amid-zelenskyy-criticism",
-    "https://bloomberg.com/news/articles/2026-10-09/trump-says-putin-agreed-to-release-diesel-into-global-market-mv1bqka7",
-    "https://bloomberg.com/news/videos/2026-10-09/balance-of-power-late-edition-10-09-2026-video",
-    "https://bloomberg.com/news/videos/2026-10-09/wasserman-schultz-russia-diesel-deal-is-desperate-video",
-    "https://channel3000.com/news/trump-strikes-deal-with-putin-to-get-diesel-in-sharp-reversal-of-us-policy-weeks/article_63953c0c-213b-545d-b06c-216a30365017.html",
-    "https://corriere.it/esteri/diretta-live/26_ottobre_09/guerra-ucraina-russia-notizie.shtml",
-    "https://dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-10-09/trump-llega-a-un-acuerdo-con-putin-para-que-rusia-libere-miles-de-barriles-de-diesel-en-los-mercados-mundiales.html",
-    "https://france24.com/fr/am%C3%A9riques/20261009-trump-annonce-accord-avec-poutine-pour-des-livraisons-massives-diesel-%C3%A9tats-unis-russie",
-    "https://franceinfo.fr/monde/usa/midterms-2018/trump-annonce-des-livraisons-massives-de-diesel-russe-a-quelques-semaines-des-elections-de-mi-mandat_8230807.html",
-    "https://ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-    "https://kfoxtv.com/news/nation-world/trump-announces-major-russian-diesel-supply-deal-after-putin-call-ukraine-war-plague-outbreak-midterms-gas-prices-sanctions-energy-sector-natural-gas-treasury-department",
-    "https://kpbs.org/news/environment/2026/10/09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-    "https://kyuk.org/2026-10-09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-    "https://lefigaro.fr/conjoncture/donald-trump-assure-que-la-russie-va-fournir-immediatement-300-000-tonnes-de-gazole-aux-marches-americain-et-mondial-20261009",
-    "https://lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-le-kremlin-confirme-l-accord-entre-donald-trump-et-vladimir-poutine-sur-des-livraisons-massives-de-diesel-russe_6787996_3210.html",
-    "https://liberation.fr/international/a-quelques-semaines-des-midterms-donald-trump-negocie-avec-vladimir-poutine-des-livraisons-massives-de-diesel-russe-20261009_RCBZUJXY35EXDBJKSJWYPZRGW4",
-    "https://littleapplepost.com/posts/fc2d7419-2aa2-4bad-8c6d-5a0c8a20575d",
-    "https://npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-    "https://politico.com/news/2026/10/09/trump-diesel-sanctions-lifted-russia-01114977",
-    "https://spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55",
-    "https://straitstimes.com/world/europe/ukraines-zelensky-says-letting-russia-sell-diesel-to-us-is-investment-in-war",
-    "https://straitstimes.com/world/united-states/trump-says-russia-to-supply-diesel-to-us-and-global-market",
-    "https://theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-    "https://thehindu.com/news/international/trump-says-russia-to-immediately-supply-diesel-to-us-after-talks-with-putin/article71565812.ece",
-    "https://thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
-    "https://wdsu.com/article/us-diesel-from-russia-trump-says-prices-midterms/74094381",
-    "https://wjla.com/news/nation-world/trump-announces-major-russian-diesel-supply-deal-after-putin-call-ukraine-war-plague-outbreak-midterms-gas-prices-sanctions-energy-sector-natural-gas-treasury-department",
-    "https://wmuk.org/npr-news/2026-10-09/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-    "https://www1.folha.uol.com.br/mercado/2026/10/trump-fecha-acordo-com-putin-para-liberar-diesel-russo-no-mercado-global.shtml",
-    "https://ynetnews.com/article/h1rcd6ljmx"
-   ]
-  },
-  {
-   "id": "2026-10-10-alerte-02",
-   "date": "2026-10-10",
-   "publiee_a": "2026-10-10T01:00:17Z",
-   "titre": "Un séisme puissant frappe le sud du Panama vendredi",
-   "texte": "Un tremblement de terre a touché le sud du Panama vendredi 9 octobre 2026. L'institut géologique américain et les autorités locales ont signalé des dégradations sur des routes et des bâtiments.",
-   "sources": [
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/terremoto-magnitud-sacude-panama-20261009203248-nt.html"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/panama-un-seisme-de-magnitude-8-0-ressenti-dans-la-capitale-un-risque-de-tsunami-evoque-20261009"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c620r39zdp9wo"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/09/panama-earthquake"
-    }
-   ],
-   "cluster": "55612abdfa919534",
-   "urls": [
-    "https://abc.es/internacional/terremoto-magnitud-sacude-panama-20261009203248-nt.html",
-    "https://aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits",
-    "https://bbc.co.uk/news/articles/c620r39zdp9wo",
-    "https://dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_9?evenement=15c5585912",
-    "https://france24.com/fr/am%C3%A9riques/20261009-panama-un-s%C3%A9isme-de-magnitude-8-provoque-la-panique-dans-la-capitale",
-    "https://franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-6-a-secoue-le-panama-selon-le-service-sismologique-americain_8230687.html",
-    "https://lefigaro.fr/international/panama-un-seisme-de-magnitude-8-0-ressenti-dans-la-capitale-un-risque-de-tsunami-evoque-20261009",
-    "https://lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html",
-    "https://reuters.com/business/environment/strong-80-magnitude-earthquake-felt-panama-usgs-2026-10-09",
-    "https://straitstimes.com/world/7-6-magnitude-earthquake-felt-in-panama-usgs",
-    "https://theguardian.com/world/2026/oct/09/panama-earthquake",
-    "https://thehindu.com/news/international/panama-earthquake-toll-injuries-damage-update-october-10-2026/article71565816.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-76-atinge-o-panama.shtml"
    ]
   }
  ]

@@ -1,6 +1,62 @@
 {
- "maj": "2026-10-16T21:14:32Z",
+ "maj": "2026-10-17T04:31:27Z",
  "alertes": [
+  {
+   "id": "2026-10-17-alerte-03",
+   "date": "2026-10-17",
+   "publiee_a": "2026-10-17T04:31:27Z",
+   "titre": "Donald Trump suspend de nouvelles sanctions économiques visant la Russie",
+   "texte": "Le président américain Donald Trump a annoncé la levée préventive de plusieurs sanctions et tarifs douaniers contre la Russie le vendredi 16 octobre 2026 à Washington. Le dirigeant a justifié cette décision transmise au Congrès par la préservation de l'intérêt national des États-Unis.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-to-take-effect-under-new-law"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261017-%C3%A9tats-unis-donald-trump-exempte-la-russie-de-nouvelles-sanctions-adopt%C3%A9es-par-le-congr%C3%A8s"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2"
+    }
+   ],
+   "cluster": "02434a9c95af62ea",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+    "https://bloomberg.com/news/articles/2026-10-17/trump-waives-russia-energy-tariffs-sanctions-in-graham-law",
+    "https://bloomberg.com/news/videos/2026-10-15/rep-amo-says-trump-should-enforce-russia-sanctions-video",
+    "https://chicagotribune.com/2026/10/16/trump-holds-russia-sanctions",
+    "https://dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002",
+    "https://dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+    "https://ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+    "https://rfi.fr/fr/am%C3%A9riques/20261017-%C3%A9tats-unis-donald-trump-exempte-la-russie-de-nouvelles-sanctions-adopt%C3%A9es-par-le-congr%C3%A8s",
+    "https://spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2",
+    "https://straitstimes.com/world/united-states/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-to-take-effect-under-new-law",
+    "https://thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+   ]
+  },
   {
    "id": "2026-10-17-alerte-01",
    "date": "2026-10-17",

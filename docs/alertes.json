@@ -1,6 +1,141 @@
 {
- "maj": "2026-10-17T20:43:17Z",
+ "maj": "2026-10-18T20:49:03Z",
  "alertes": [
+  {
+   "id": "2026-10-19-alerte-01",
+   "date": "2026-10-19",
+   "publiee_a": "2026-10-18T20:48:57Z",
+   "titre": "Emmanuel Macron s'exprime après les violences urbaines en France",
+   "texte": "Le président de la République Emmanuel Macron est intervenu à la télévision dimanche 18 octobre depuis le palais de l'Élysée à Paris après les heurts survenus en marge des mobilisations. Le chef de l'État a promis des sanctions contre les auteurs de dégradations et a ouvert la voie à des interdictions de rassemblements.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/ce-qu-il-faut-retenir-de-lallocution-demmanuel-macron-dimanche-20261018"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/macron-anuncia-prohibicion-reuniones-aplicacion-medidas-necesarias-20261018202921-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/mobilisations-du-17-octobre-en-reponse-aux-casseurs-macron-evoque-des-interdictions-de-manifester-20261018_NJ3T6UWGVRDVNEEA5PL55FU2VM"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/violences-en-france-colere-et-honte-transparence-attendue-2027-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-20261018"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261018-honte-et-col%C3%A8re-apr%C3%A8s-les-violences-du-17-octobre-en-france-macron-promet-fermet%C3%A9-et-dialogue"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-l-allocution-d-emmanuel-macron-critiquee-situation-toujours-tendue-a-paris-sebastien-lecornu-charge-de-reunir-partis-politiques-et-syndicats_6795855_3224.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw240zl08dm5o"
+    }
+   ],
+   "cluster": "61168823e3fa2d44",
+   "urls": [
+    "https://abc.es/internacional/macron-anuncia-prohibicion-reuniones-aplicacion-medidas-necesarias-20261018202921-nt.html",
+    "https://bbc.co.uk/news/articles/cw240zl08dm5o",
+    "https://corriere.it/esteri/26_ottobre_18/macron-e-gli-scontri-in-francia-nulla-giustifica-o-spiega-quanto-successo-818bf6d2-8f1d-4f35-983b-0b9d60ac4xlk.shtml",
+    "https://france24.com/fr/france/20261018-col%C3%A8re-et-honte-transparence-attendue-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron",
+    "https://france24.com/fr/vid%C3%A9o/20261018-17-octobre-macron-face-aux-fran%C3%A7ais",
+    "https://france24.com/fr/vid%C3%A9o/20261018-macron-s-adressera-aux-fran%C3%A7ais-apr%C3%A8s-les-violences-en-marge-des-manifestations",
+    "https://france24.com/fr/vid%C3%A9o/20261018-manifestations-du-17-octobre-emmanuel-macron-prendra-la-parole-%C3%A0-20h",
+    "https://franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
+    "https://franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-s-adressera-solennellement-aux-francais-au-lendemain-des-violences_8242807.html",
+    "https://franceinfo.fr/politique/emmanuel-macron/video-nous-ressentons-tous-ce-soir-de-la-colere-de-la-honte-revivez-l-allocution-d-emmanuel-macron-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8243179.html",
+    "https://franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-s-adressera-aux-francais-ce-dimanche-a-20-heures-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242876.html",
+    "https://franceinfo.fr/societe/mobilisation-du-17-octobre/la-presidente-du-conseil-departemental-de-la-creuse-tient-emmanuel-macron-pour-responsable-de-ce-qui-se-passe-dans-notre-pays_8243152.html",
+    "https://franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html",
+    "https://la-croix.com/politique/ce-qu-il-faut-retenir-de-lallocution-demmanuel-macron-dimanche-20261018",
+    "https://lefigaro.fr/politique/violences-du-17-octobre-febrile-le-gouvernement-voit-sa-strategie-de-maintien-de-l-ordre-contestee-20261018",
+    "https://lefigaro.fr/politique/violences-en-france-colere-et-honte-transparence-attendue-2027-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-20261018",
+    "https://lemonde.fr/politique/article/2026/10/17/mobilisation-du-17-octobre-emmanuel-macron-denonce-les-semeurs-de-chaos-qui-ne-cherchent-qu-a-abattre-nos-institutions-apres-des-scenes-de-saccage-dans-plusieurs-villes_6796686_823448.html",
+    "https://lemonde.fr/politique/article/2026/10/18/apres-les-violences-du-17-octobre-l-extreme-droite-cible-le-gouvernement-et-laurent-nunez-en-esperant-incarner-le-parti-de-l-ordre_6797125_823448.html",
+    "https://lemonde.fr/politique/article/2026/10/18/mobilisation-du-17-octobre-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron_6797267_823448.html",
+    "https://lemonde.fr/politique/video/2026/10/18/manifestation-du-17-octobre-l-essentiel-de-la-declaration-d-emmanuel-macron-en-video_6797231_823448.html",
+    "https://lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-emmanuel-macron-s-adressera-aux-francais-a-20-heures-annonce-l-elysee_6795855_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-l-allocution-d-emmanuel-macron-critiquee-situation-toujours-tendue-a-paris-sebastien-lecornu-charge-de-reunir-partis-politiques-et-syndicats_6795855_3224.html",
+    "https://liberation.fr/politique/mobilisations-du-17-octobre-en-reponse-aux-casseurs-macron-evoque-des-interdictions-de-manifester-20261018_NJ3T6UWGVRDVNEEA5PL55FU2VM",
+    "https://liberation.fr/politique/violences-aides-aux-commercants-reponses-aux-jeunes-ce-quil-faut-retenir-de-lallocution-demmanuel-macron-20261018_6ZZY5P3DWBEO7IQW2PKTWOZYUY",
+    "https://liberation.fr/societe/manifestations-du-17-octobre-anatomie-dun-fiasco-20261018_NH3R3KS2MFE53B4OELFBKD2P2Q",
+    "https://rfi.fr/fr/france/20261018-honte-et-col%C3%A8re-apr%C3%A8s-les-violences-du-17-octobre-en-france-macron-promet-fermet%C3%A9-et-dialogue",
+    "https://thehindu.com/news/international/emmanuel-macron-france-student-protests-address-october-2026/article71599832.ece",
+    "https://tvmag.lefigaro.fr/programme-tv/actu-tele/sur-quelle-chaine-suivre-l-allocution-du-d-emmanuel-macron-ce-soir-a-20-heures-20261018"
+   ]
+  },
+  {
+   "id": "2026-10-19-alerte-02",
+   "date": "2026-10-19",
+   "publiee_a": "2026-10-18T20:49:03Z",
+   "titre": "Donald Trump apporte son soutien à Benyamin Netanyahou pour les législatives israéliennes",
+   "texte": "Le président américain a affiché son appui au Premier ministre israélien dimanche 18 octobre sur les réseaux sociaux. Cette prise de position intervient avant le scrutin parlementaire prévu en Israël le 27 octobre.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261018-%C3%A0-une-semaine-des-l%C3%A9gislatives-en-isra%C3%ABl-trump-apporte-son-soutien-plein-et-entier-%C3%A0-netanyahu"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-18/trump-respalda-a-netanyahu-a-nueve-dias-de-las-elecciones-israelies-es-un-gran-guerrero-fuerte-valiente-y-brillante.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/trump-declara-apoio-a-netanyahu-nas-eleicoes-de-israel-e-chama-premie-de-parceiro-pela-paz.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/seuls-les-israeliens-peuvent-choisir-leurs-dirigeants-gadi-eisenkot-principal-opposant-de-netanyahou-tance-trump-20261018_J2NF4DDABRELHK7D2GIHGKZGCQ"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece"
+    }
+   ],
+   "cluster": "ba00f534a3c5e013",
+   "urls": [
+    "https://aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+    "https://bloomberg.com/news/articles/2026-10-18/trump-endorses-netanyahu-for-reelection-as-israeli-leader",
+    "https://brisbanetimes.com.au/world/trump-endorses-israeli-prime-minister-20261019-p616k2.html",
+    "https://dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698",
+    "https://dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-10-18/trump-respalda-a-netanyahu-a-nueve-dias-de-las-elecciones-israelies-es-un-gran-guerrero-fuerte-valiente-y-brillante.html",
+    "https://foxreno.com/news/nation-world/trump-endorses-netanyahu-ahead-of-israel-election-warns-us-could-face-iran-alone",
+    "https://france24.com/fr/moyen-orient/20261018-%C3%A0-une-semaine-des-l%C3%A9gislatives-en-isra%C3%ABl-trump-apporte-son-soutien-plein-et-entier-%C3%A0-netanyahu",
+    "https://franceinfo.fr/monde/israel/donald-trump-apporte-son-soutien-plein-et-entier-a-benyamin-netanyahou-avant-les-elections-en-israel_8243020.html",
+    "https://ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79",
+    "https://haaretz.com/israel-news/elections/2026-10-18/ty-article/.premium/trump-endorses-netanyahu-in-israels-upcoming-election-citing-war-in-iran/000001a1-4f80-d25a-a7ff-7fd8ba620000",
+    "https://israelherald.com/news/279383178/trump-endorses-netanyahu-for-re-election-warns-us-could-finish-the-job-against-iran",
+    "https://kfab.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections",
+    "https://liberation.fr/international/moyen-orient/seuls-les-israeliens-peuvent-choisir-leurs-dirigeants-gadi-eisenkot-principal-opposant-de-netanyahou-tance-trump-20261018_J2NF4DDABRELHK7D2GIHGKZGCQ",
+    "https://spiegel.de/ausland/wahl-in-israel-donald-trump-wirbt-fuer-benjamin-netanyahu-a-020c7732-ceb5-49fc-b37b-b0efef690e2b",
+    "https://straitstimes.com/world/united-states/trump-endorses-netanyahu-in-israeli-election",
+    "https://thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece",
+    "https://thehindu.com/news/international/trump-endorses-netanyahu-in-israeli-election/article71600598.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/10/trump-declara-apoio-a-netanyahu-nas-eleicoes-de-israel-e-chama-premie-de-parceiro-pela-paz.shtml"
+   ]
+  },
   {
    "id": "2026-10-18-alerte-01",
    "date": "2026-10-18",
@@ -1135,188 +1270,6 @@
     "https://spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt-a-d7e436f3-a579-4add-9c74-843758beb19f",
     "https://straitstimes.com/world/europe/fire-destroys-french-capitals-enfants-rouges-covered-food-market",
     "https://video.corriere.it/esteri/le-fiamme-tra-i-palazzi-in-centro-a-parigi-il-video-del-violento-incendio-al-mercato-enfants-rouges/8ab26429-495b-4c4c-87c5-2175faa08xlk"
-   ]
-  },
-  {
-   "id": "2026-10-11-alerte-01",
-   "date": "2026-10-11",
-   "publiee_a": "2026-10-10T21:47:16Z",
-   "titre": "Donald Trump demande le remplacement du président ukrainien Volodymyr Zelensky",
-   "texte": "Donald Trump a réclamé samedi le départ de Volodymyr Zelensky afin de conclure un accord de paix avec la Russie. Le président américain conteste l'attitude du dirigeant ukrainien après avoir conclu une entente pétrolière avec Moscou.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/ukraine-needs-a-new-president-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/trump-rompe-zelenski-dice-hora-ucrania-nuevo-20261010190655-nt.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_10/trump-contro-zelensky-nuovo-leader-ucraina-267d32dd-2281-4a6a-a21d-b074aaa46xlk.shtml"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-face-a-donald-trump-qui-reclame-un-nouveau-president-a-kiev-le-royaume-uni-assure-volodymyr-zelensky-de-sa-totale-solidarite_6787996_3210.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-pour-parvenir-a-un-accord-avec-la-russie_8231842.html"
-    }
-   ],
-   "cluster": "5591d5883f0a382e",
-   "urls": [
-    "https://abc.es/internacional/trump-rompe-zelenski-dice-hora-ucrania-nuevo-20261010190655-nt.html",
-    "https://aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war",
-    "https://aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine",
-    "https://bbc.co.uk/news/articles/cqe8r5l7n92jo",
-    "https://bbc.co.uk/news/videos/cwkg50dgpml7o",
-    "https://bloomberg.com/news/articles/2026-10-10/trump-suggests-ukraine-needs-a-new-president-blasting-zelenskyy",
-    "https://bnnbloomberg.ca/markets/oil/2026/10/10/trump-blames-zelenskyy-for-us-diesel-prices",
-    "https://corriere.it/esteri/26_ottobre_10/trump-contro-zelensky-nuovo-leader-ucraina-267d32dd-2281-4a6a-a21d-b074aaa46xlk.shtml",
-    "https://corriere.it/esteri/diretta-live/26_ottobre_10/guerra-ucraina-russia-le-notizie-in-diretta-trump-una-telefonata-di-grande-successo-con-putin-accordi-sui-carburanti-zelensky-i.shtml",
-    "https://dailyadvance.com/news/world/trump-says-i-think-its-time-for-ukraine-to-get-a-new-president-as-he/article_a3de147f-6484-5504-9497-7f71f4a340ba.html",
-    "https://dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-xml-mrss",
-    "https://france24.com/fr/europe/20261010-ukraine-en-direct-les-discussions-ont-%C3%A9t%C3%A9-constructives-%C3%A0-miami-selon-steve-witkoff",
-    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-pour-parvenir-a-un-accord-avec-la-russie_8231842.html",
-    "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html",
-    "https://hexham-courant.co.uk/news/national/26625655.trump-says-ukraine-needs-new-president-blames-zelensky-diesel-prices",
-    "https://lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010",
-    "https://lefigaro.fr/international/volodymyr-zelensky-merite-d-etre-soutenu-les-reactions-se-multiplient-apres-les-propos-de-trump-en-faveur-d-un-nouveau-president-ukrainien-20261010",
-    "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-face-a-donald-trump-qui-reclame-un-nouveau-president-a-kiev-le-royaume-uni-assure-volodymyr-zelensky-de-sa-totale-solidarite_6787996_3210.html",
-    "https://lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-les-dernieres-informations_6787996_3210.html",
-    "https://rfi.fr/fr/europe/20261010-donald-trump-s-en-prend-%C3%A0-volodymyr-zelensky-et-veut-un-nouveau-pr%C3%A9sident-pour-l-ukraine",
-    "https://spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f",
-    "https://straitstimes.com/world/europe/ukraine-needs-a-new-president-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
-    "https://theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-    "https://video.corriere.it/esteri/trump-e-il-momento-che-l-ucraina-abbia-un-nuovo-presidente/d10f4994-3e7e-4210-9e37-5cf5d8a6cxlk",
-    "https://yasstribune.com.au/story/9366083/trump-says-ukraine-should-get-a-new-president"
-   ]
-  },
-  {
-   "id": "2026-10-11-alerte-02",
-   "date": "2026-10-11",
-   "publiee_a": "2026-10-10T21:47:24Z",
-   "titre": "L'Arabie saoudite suspend les vols à Riyad après une frappe",
-   "texte": "Les autorités saoudiennes ont interrompu le trafic aérien à l'aéroport international de Riyad samedi 10 octobre 2026 après une attaque de missile attribuée aux Houthis yéménites. Cette frappe contre les installations aéroportuaires a fait plusieurs dizaines de blessés selon différentes sources médiatiques.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/middle-east/several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-authority-says"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cw33x4y8k82no"
-    }
-   ],
-   "cluster": "67bb7f009bd35f17",
-   "urls": [
-    "https://aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
-    "https://aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week",
-    "https://bbc.co.uk/news/articles/cw33x4y8k82no",
-    "https://bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack",
-    "https://dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_10?evenement=64a15a4891",
-    "https://enfieldindependent.co.uk/news/national/26625435.many-wounded-missile-strikes-terminal-riyadh-airport",
-    "https://ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-    "https://harwichandmanningtreestandard.co.uk/news/national/26625435.many-wounded-missile-strikes-terminal-riyadh-airport",
-    "https://ketv.com/article/the-airport-in-the-capital-of-saudi-arabia-has-been-attacked-again-officials-say/74098618",
-    "https://manilatimes.net/2026/10/11/world/missile-strikes-a-passenger-terminal-at-riyadh-airport-and-many-are-wounded-official-says/2443191",
-    "https://military.com/missile-strikes-passenger-terminal-riyadh-airport-many-are-wounded-official-says",
-    "https://reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10",
-    "https://straitstimes.com/world/middle-east/several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-authority-says",
-    "https://the-messenger.com/news/world/article_88d90298-9791-5ea4-8acd-05c015a52898.html",
-    "https://theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-    "https://thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece"
-   ]
-  },
-  {
-   "id": "2026-10-11-alerte-03",
-   "date": "2026-10-11",
-   "publiee_a": "2026-10-10T21:48:18Z",
-   "titre": "Un individu perd la vie après l'assaut d'un félin au Royaume-Uni",
-   "texte": "Un visiteur a succombé à ses blessures samedi après s'être introduit dans l'espace des tigres au Yorkshire Wildlife Park près de Doncaster. Les responsables ont fait évacuer les lieux puis ont ordonné la fermeture du complexe pour le week-end.",
-   "sources": [
-    {
-     "nom": "echo-news.co.uk",
-     "url": "https://echo-news.co.uk/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.com/news/articles/c6n9r3n7858zo"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/man-seriously-injured-in-tiger-attack-at-uk-zoo"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_10/regno-unito-scavalca-le-protezioni-dello-zoo-uomo-muore-sbranato-da-una-tigre-siberiana-9b367f8f-8b0a-4634-a208-18290d1b0xlk.shtml"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0"
-    }
-   ],
-   "cluster": "43b90ab0c1521f2f",
-   "urls": [
-    "https://bbc.co.uk/news/articles/c6n9r3n7858zo",
-    "https://bbc.com/news/articles/c6n9r3n7858zo",
-    "https://corriere.it/esteri/26_ottobre_10/regno-unito-scavalca-le-protezioni-dello-zoo-uomo-muore-sbranato-da-una-tigre-siberiana-9b367f8f-8b0a-4634-a208-18290d1b0xlk.shtml",
-    "https://eastlothiancourier.com/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park",
-    "https://eastlothiancourier.com/news/national/26625670.man-dies-entering-tiger-enclosure-yorkshire-wildlife-park",
-    "https://echo-news.co.uk/news/national/26625510.man-sustained-serious-injuries-tiger-enclosure-yorkshire-wildlife-park",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_10?evenement=511316fd5d",
-    "https://franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html",
-    "https://hexham-courant.co.uk/news/national/26625670.man-dies-entering-tiger-enclosure-yorkshire-wildlife-park",
-    "https://spiegel.de/panorama/yorkshire-wildlife-park-mann-betritt-tiger-gehege-und-wird-toedlich-verletzt-a-a3d54403-498b-4a44-92bc-fab3630462f0",
-    "https://straitstimes.com/world/europe/man-seriously-injured-in-tiger-attack-at-uk-zoo",
-    "https://theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure"
    ]
   }
  ]

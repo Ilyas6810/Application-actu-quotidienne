@@ -1,0 +1,1850 @@
+{
+ "date": "2026-10-18",
+ "genere_a": "2026-10-18T05:25:20Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-18-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le pape Léon XIV quitte l'hôpital après une opération pulmonaire",
+   "chapeau": "Le pape Léon XIV est rentré au Vatican le samedi 17 octobre 2026 après son intervention chirurgicale à Rome. Les médecins ont autorisé sa sortie quatre jours après le retrait d'une tumeur au poumon droit.",
+   "corps": "Le chef de l'Église catholique a quitté la polyclinique Agostino Gemelli de Rome le samedi 17 octobre 2026 à 15 h 30, selon les informations publiées par le journal espagnol ABC le 17 octobre 2026 à 20 h 03. L'homme de 71 ans a rejoint sa résidence du Palais apostolique au Vatican.\n\nLe souverain pontife avait subi une opération chirurgicale le mardi 13 octobre 2026 dans cet établissement hospitalier romain. Les chirurgiens ont procédé à l'ablation d'une formation tissulaire cancéreuse située sur le poumon droit. L'intervention consistait en une résection de la partie basse de cet organe.\n\nLe collège médical a autorisé un retour anticipé du patient. Les prévisions initiales tablaient sur un séjour hospitalier d'une semaine complète après l'acte chirurgical. Le départ de la clinique s'est produit trois jours avant le terme prévu à l'origine, d'après les indications fournies par le quotidien El País le 17 octobre 2026 à 18 h 17.\n\nLes médecins traitants ont pris cette décision après plusieurs examens de contrôle pratiqués le matin du samedi 17 octobre 2026. Le docteur Luigi Carbone et le professeur Stefano Margaritora ont analysé les prélèvements sanguins du patient. L'équipe a également examiné une radiographie de la zone thoracique pour vérifier la cicatrisation interne. À la suite de ces vérifications, les praticiens ont qualifié l'évolution clinique de positive et ont jugé le malade apte à rentrer chez lui. L'un des médecins a déclaré que l'état général du patient demeurait pleinement satisfaisant, d'après Le Monde dans son édition du 18 octobre 2026 à 03 h 37.\n\nLors de son départ de l'hôpital, l'évêque de Rome a marché sans aide extérieure. Le pontife a salué les autres personnes hospitalisées dans les couloirs du service. Il a ensuite adressé un signe de la main aux journalistes rassemblés à la sortie du bâtiment avant de monter dans son véhicule.\n\nLe programme officiel prévoit sa participation à la prière dominicale de l'Angélus ce 18 octobre 2026. L'allocution se déroulera depuis la fenêtre du Palais apostolique devant la foule rassemblée sur la place Saint-Pierre. Le Vatican avait diffusé dès le vendredi 16 octobre 2026 des clichés montrant le patient en train de célébrer un office religieux dans sa chambre hospitalière.\n\nLe calendrier international du chef de l'Église reste maintenu pour les prochaines semaines. Le chirurgien responsable des soins estime que le voyage apostolique prévu sur le continent sud-américain en novembre 2026 pourra se dérouler normalement, selon les déclarations rapportées par le journal El País le 17 octobre 2026 à 18 h 17. Le souverain pontife avait confirmé cette intention dès le vendredi précédent.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/papa-mantem-viagem-a-america-do-sul-e-falara-a-fieis-no-domingo-veja-primeiras-fotos-apos-cirurgia.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/sociedad/papa-recibe-alta-medica-tras-operacion-pulmon-20261017114304-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/papst-leo-xiv-kann-nach-krebs-op-das-krankenhaus-verlassen-a-09e35d6a-f51b-4295-9f43-76de38fe8113"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/religion/sante-du-pape-leon-xiv-sortira-de-l-hopital-ce-samedi-20261017"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/vatican/le-pape-leon-xiv-a-ete-juge-apte-a-sortir-de-l-hopital-apres-son-operation-et-de-nouvelles-analyses_8241640.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/info-en-continu/20261017-le-pape-l%C3%A9on-xiv-sort-de-l-h%C3%B4pital-samedi"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-17/el-papa-sale-esta-tarde-del-hospital-cuatro-dias-despues-de-su-operacion-de-pulmon.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/18/le-pape-leon-xiv-juge-apte-a-quitter-l-hopital-est-de-retour-au-vatican-quatre-jours-apres-son-operation-au-poumon_6796756_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-15T14:41:34Z",
+   "suite_de": null,
+   "mots": 462,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Pope Leo XIV leaves hospital after lung surgery",
+    "chapeau": "Pope Leo XIV returned to the Vatican on Saturday, October 17, 2026, after his surgery in Rome. Doctors authorized his discharge four days after the removal of a tumor on his right lung.",
+    "corps": "The head of the Catholic Church left the Agostino Gemelli University Hospital in Rome on Saturday, October 17, 2026, at 15:30, according to information published by the Spanish newspaper ABC on October 17, 2026, at 20:03. The 71-year-old man returned to his residence at the Apostolic Palace in the Vatican.\n\nThe sovereign pontiff underwent surgery on Tuesday, October 13, 2026, at this Roman hospital facility. Surgeons performed the removal of a cancerous tissue formation located on the right lung. The procedure consisted of a resection of the lower part of this organ.\n\nThe medical board authorized an early return for the patient. Initial forecasts expected a full week's hospital stay after the surgical procedure. The departure from the clinic occurred three days ahead of the original schedule, according to information provided by the daily newspaper El País on October 17, 2026, at 18:17.\n\nThe attending physicians made this decision after several check-up examinations performed on the morning of Saturday, October 17, 2026. Dr. Luigi Carbone and Professor Stefano Margaritora analyzed the patient's blood samples. The team also examined an X-ray of the thoracic area to verify internal healing. Following these checks, the practitioners described the clinical progress as positive and deemed the patient fit to return home. One of the doctors stated that the patient's general condition remained fully satisfactory, according to Le Monde in its edition of October 18, 2026, at 03:37.\n\nUpon leaving the hospital, the Bishop of Rome walked without outside assistance. The pontiff greeted other hospitalized people in the corridors of the ward. He then waved to the journalists gathered at the exit of the building before getting into his vehicle.\n\nThe official program includes his participation in the Sunday Angelus prayer this October 18, 2026. The address will take place from the window of the Apostolic Palace before the crowd gathered in St. Peter's Square. The Vatican had released photos as early as Friday, October 16, 2026, showing the patient celebrating a religious service in his hospital room.\n\nThe international schedule of the head of the Church remains maintained for the coming weeks. The surgeon in charge of the care believes that the apostolic trip planned for the South American continent in November 2026 will be able to take place normally, according to statements reported by the newspaper El País on October 17, 2026, at 18:17. The sovereign pontiff had confirmed this intention as early as the previous Friday."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Manifestations en France contre le cout de la vie le 17 octobre",
+   "chapeau": "Des dizaines de milliers de personnes ont manifesté en France le samedi 17 octobre 2026 contre la hausse du cout de la vie. Des heurts avec les forces de l'ordre et des dégradations ont marqué ces rassemblements dans plusieurs agglomérations.",
+   "corps": "Des cortèges ont défilé sur le territoire français durant la journée du samedi 17 octobre 2026. Les participants ont exprimé des revendications liées à l'augmentation des dépenses quotidiennes, au tarif des carburants et aux frais d'accès à l'enseignement. Des étudiants se sont joints aux rassemblements dans le contexte de difficultés budgétaires nationales.\n\nSelon le quotidien The Straits Times le 18 octobre 2026 à 00 h 51, la majeure partie des marches a débuté aux alentours de la mi-journée. Plusieurs défilés ont cependant commencé avant l'horaire formellement prévu. La radio NPR indique le 18 octobre 2026 à 01 h 18 que des centaines de mobilisations se sont tenues dans le pays. La radio précise que la majorité de ces réunions publiques est restée paisible, tandis que d'autres ont été le théâtre de violences.\n\nDes tensions ont éclaté entre les forces de l'ordre et des manifestants. Le bureau du ministre de l'Intérieur, Laurent Nunez, a relevé une hausse des faits de violence, incluant des agressions physiques ciblant des policiers ainsi que des pillages de commerces. Le quotidien américain New York Post rapporte que des magasins de luxe ont fait l'objet de dégradations. La chaîne britannique BBC News signale également le saccage d'enseignes commerciales dans plusieurs zones urbaines.\n\nDans la capitale, des groupes ont mis le feu à une automobile ainsi qu'à un kiosque de vente de presse. Des véhicules et des édifices ont aussi été incendiés dans d'autres agglomérations selon Al Jazeera et BBC News. Pour disperser les contestataires, les policiers ont recouru à des tirs de gaz lacrymogène et à des lances à eau. Sur la place de la République, dans le nord-est de Paris, les agents ont affronté des individus masqués et encapuchonnés. Ces derniers ont lancé des pavés, des artifices et divers objets en direction des forces de sécurité.\n\n## Ce que disent les sources\n\nConcernant l'ampleur totale de la mobilisation nationale, le quotidien The Guardian écrivait le 17 octobre 2026 à 18 h 59 que des dizaines de milliers d'individus battaient le pavé. Plus tard, le New York Post avançait le chiffre de 550 000 manifestants le 18 octobre 2026 à 00 h 06. La BBC News mentionnait pour sa part le 18 octobre 2026 à 00 h 52 un total supérieur à un demi-million de contestataires.\n\nAu sujet des interpellations menées par les services de police, The Guardian rapportait le 17 octobre 2026 à 18 h 59 plusieurs centaines d'arrestations à travers la France. De son côté, BBC News comptabilisait plus de 1 000 personnes arrêtées le 18 octobre 2026 à 00 h 52.\n\nLe montant des préjudices matériels et le bilan des blessés ne sont pas précisés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "southwalesguardian.co.uk",
+     "url": "https://southwalesguardian.co.uk/news/national/26646131.clashes-fires-break-protesters-rally-across-france"
+    },
+    {
+     "nom": "wjcl.com",
+     "url": "https://wjcl.com/article/scuffles-fires-protest-paris-france-students-police/74166682"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/gallery/2026/oct/17/hundreds-arrested-protests-across-france-in-pictures"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr"
+    },
+    {
+     "nom": "nypost.com",
+     "url": "https://nypost.com/2026/10/17/world-news/france-in-flames-550000-take-to-the-streets-as-anger-at-macron-erupts-into-violence"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/mass-protests-in-france-spiral-into-worst-riots-in-years"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6d937wedj7jo"
+    }
+   ],
+   "premiere_parution": "2026-10-17T06:15:00Z",
+   "suite_de": null,
+   "mots": 483,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Protests in France against the cost of living on October 17",
+    "chapeau": "Tens of thousands of people demonstrated in France on Saturday, October 17, 2026, against the rising cost of living. Clashes with law enforcement and acts of vandalism marked these gatherings in several cities.",
+    "corps": "Processions marched across French territory during the day on Saturday, October 17, 2026. Participants expressed demands related to the increase in daily expenses, fuel prices, and access costs to education. Students joined the gatherings in the context of national budgetary difficulties.\n\nAccording to the daily newspaper The Straits Times on October 18, 2026, at 00:51, the majority of the marches began around midday. Several parades, however, started before the formally scheduled time. The radio station NPR indicates on October 18, 2026, at 01:18 that hundreds of mobilizations were held in the country. The radio station specifies that the majority of these public meetings remained peaceful, while others were the scene of violence.\n\nTensions erupted between law enforcement and protesters. The office of the Minister of the Interior, Laurent Nunez, noted an increase in acts of violence, including physical assaults targeting police officers as well as looting of businesses. The American daily newspaper New York Post reports that luxury stores were subject to vandalism. The British channel BBC News also reports the ransacking of commercial signs in several urban areas.\n\nIn the capital, groups set fire to a car as well as a newsstand. Vehicles and buildings were also set on fire in other cities according to Al Jazeera and BBC News. To disperse the protesters, police resorted to firing tear gas and using water cannons. On the Place de la République, in the northeast of Paris, officers confronted masked and hooded individuals. The latter threw paving stones, fireworks, and various objects in the direction of the security forces.\n\n## What the sources say\n\nRegarding the total scale of the national mobilization, the daily newspaper The Guardian wrote on October 17, 2026, at 18:59 that tens of thousands of individuals were hitting the pavement. Later, the New York Post put forward the figure of 550,000 protesters on October 18, 2026, at 00:06. BBC News mentioned for its part on October 18, 2026, at 00:52 a total exceeding half a million protesters.\n\nRegarding the arrests conducted by police services, The Guardian reported on October 17, 2026, at 18:59 several hundred arrests across France. For its part, BBC News counted more than 1,000 people arrested on October 18, 2026, at 00:52.\n\nThe amount of material damage and the toll of the injured are not specified in the sources."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Aux États-Unis, le mouvement No Kings appelle à voter de manière anticipée",
+   "chapeau": "Le réseau citoyen No Kings a réuni des manifestants samedi 17 octobre 2026 dans plusieurs villes des États-Unis. Les organisateurs ont invité la population à participer au scrutin anticipé pour les élections de mi-mandat prévues le 3 novembre 2026.",
+   "corps": "Le collectif No Kings a tenu sa quatrième série de rassemblements sur le territoire américain. Cette coordination d'associations s'oppose à la présidence de Donald Trump et à la politique de son administration. Les rencontres publiques de samedi ont mis l'accent sur la participation électorale.\n\nLes organisateurs présentent ces actions comme une démarche non partisane destinée à conduire les électeurs vers les bureaux de vote. Les rassemblements ont également porté sur l'intégrité des opérations électorales. Les militants demandent aux citoyens d'utiliser les procédures de vote anticipé avant l'échéance du scrutin législatif.\n\nLa forme des événements a varié selon les localités, sans prendre l'aspect de défilés uniques de grande taille. À Washington, plusieurs centaines de personnes portant bonnets et manteaux se sont réunies devant le mémorial Lincoln, selon mymotherlode.com le 17 octobre 2026 à 22 h 08. Un groupe musical a joué sur place. Des pancartes affichaient les mots d'ordre demandant de voter tôt ou de ne pas toucher au vote.\n\nDes rassemblements se sont aussi déroulés dans la ville d'Atlanta ainsi qu'à proximité du ministère de la Justice. Dans la capitale de Géorgie, les participants ont exprimé leur mécontentement face aux orientations du gouvernement fédéral. Leurs interventions ont ciblé la politique migratoire, le conflit armé en Iran et l'évolution du coût de la vie.\n\nLe réseau No Kings conduit des actions de contestation depuis deux ans face au second mandat de Donald Trump, d'après Al Jazeera le 18 octobre 2026 à 01 h 08. L'échéance électorale du 3 novembre 2026 concerne le renouvellement du Congrès des États-Unis. Le Parti républicain y défend sa majorité parlementaire dans un contexte de scrutins disputés au Sénat et à la Chambre des représentants.\n\n## Ce que disent les sources\n\nSur l'ampleur de la participation globale de samedi, les estimations publiées varient selon les organes de presse. mymotherlode.com mentionne, le 17 octobre 2026 à 22 h 08, la présence de ce qui semblait être quelques centaines de personnes réunies sur le site de Washington. De son côté, Al Jazeera indique, le 18 octobre 2026 à 01 h 08, que des milliers de personnes ont participé aux événements organisés dans l'ensemble du pays.\n\nSur le calendrier restant avant le vote, France 24 mentionne le 17 octobre 2026 un délai d'un peu plus de deux semaines, puis évoque trois semaines dans son édition du 18 octobre 2026 à 05 h 29, tandis que Le Monde écrit le 18 octobre 2026 à 08 h 25 que le scrutin se tient à une quinzaine de jours.\n\nLe nombre total de rassemblements organisés ce samedi-là et le nombre complet de participants à l'échelle nationale ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "idahostatejournal.com",
+     "url": "https://idahostatejournal.com/news/national/no-kings-rallies-across-us-urge-voters-to-cast-ballots-early-ahead-of-midterms/article_27fc988f-b0c9-57ce-8f6e-6aa1d293f4bb.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261017-aux-%C3%A9tats-unis-la-contestation-anti-trump-encourage-les-am%C3%A9ricains-%C3%A0-voter-aux-midterms"
+    },
+    {
+     "nom": "AFP",
+     "url": "https://afp.com/en/no-kings-movement-seeks-boost-early-voting"
+    },
+    {
+     "nom": "mymotherlode.com",
+     "url": "https://mymotherlode.com/news/national/general-election/11229833/no-kings-rallies-across-u-s-urge-voters-to-cast-ballots-early-ahead-of-midterms.html"
+    },
+    {
+     "nom": "wjla.com",
+     "url": "https://wjla.com/news/local/no-kings-rallies-nationwide-protest-trump-saturday-midterm-elections-nonpartisan-washington-dc-atlanta-justice-department-ballots"
+    },
+    {
+     "nom": "abc7amarillo.com",
+     "url": "https://abc7amarillo.com/newsletter-daily/photos-no-kings-protesters-across-us-urge-early-voting-ahead-of-midterms-midterm-elections-november-3-vote-polls-republicans-gop-democrats-politics-protests-rallies-senate-house-congress-president-donald-trump"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early"
+    }
+   ],
+   "premiere_parution": "2026-10-17T04:15:00Z",
+   "suite_de": null,
+   "mots": 480,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "In the United States, the No Kings movement calls for early voting",
+    "chapeau": "The citizen network No Kings gathered protesters on Saturday, October 17, 2026, in several cities across the United States. The organizers invited the population to participate in early voting for the midterm elections scheduled for November 3, 2026.",
+    "corps": "The No Kings collective held its fourth series of rallies on American soil. This coordination of associations opposes the presidency of Donald Trump and the policy of his administration. Saturday's public meetings focused on electoral participation.\n\nThe organizers present these actions as a non-partisan approach intended to lead voters to the polls. The rallies also focused on the integrity of electoral operations. The activists are asking citizens to use early voting procedures before the legislative election deadline.\n\nThe format of the events varied by location, without taking the form of large, single parades. In Washington, several hundred people wearing hats and coats gathered in front of the Lincoln Memorial, according to mymotherlode.com on October 17, 2026, at 22:08. A musical group played on site. Signs displayed slogans asking to vote early or not to touch the vote.\n\nRallies also took place in the city of Atlanta as well as near the Department of Justice. In the capital of Georgia, participants expressed their dissatisfaction with the federal government's direction. Their interventions targeted immigration policy, the armed conflict in Iran, and the rise in the cost of living.\n\nThe No Kings network has been conducting protest actions for two years against Donald Trump's second term, according to Al Jazeera on October 18, 2026, at 01:08. The election deadline of November 3, 2026, concerns the renewal of the United States Congress. The Republican Party is defending its parliamentary majority there in a context of contested elections in the Senate and the House of Representatives.\n\n## What the sources say\n\nRegarding the scale of Saturday's overall participation, the estimates published vary by press outlet. mymotherlode.com mentions, on October 17, 2026, at 22:08, the presence of what appeared to be a few hundred people gathered at the Washington site. For its part, Al Jazeera indicates, on October 18, 2026, at 01:08, that thousands of people participated in the events organized across the country.\n\nRegarding the time remaining before the vote, France 24 mentions on October 17, 2026, a deadline of a little over two weeks, then mentions three weeks in its edition of October 18, 2026, at 05:29, while Le Monde writes on October 18, 2026, at 08:25 that the election is being held in about fifteen days.\n\nThe total number of rallies organized that Saturday and the complete number of participants nationwide are not specified by the sources."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des manifestations contre le coût de la vie traversent la France",
+   "chapeau": "Plusieurs centaines de milliers de personnes ont défilé samedi 17 octobre 2026 dans différentes villes de France pour contester l'augmentation du coût de la vie. Ces rassemblements ont provoqué des heurts avec les forces de l'ordre ainsi que de nombreuses interpellations à travers le pays.",
+   "corps": "Les cortèges ont réuni des citoyens dans plusieurs agglomérations comme Paris, Marseille et Lyon. Les protestataires ont ciblé l'accroissement des tarifs des carburants, la baisse des moyens alloués aux services publics et la dégradation du secteur scolaire. Les rassemblements faisaient suite à des appels diffusés sur le réseau social TikTok.\n\nDes incidents ont éclaté au cours des défilés. Des participants ont tenté de bloquer la circulation, ont attaqué des mairies et ont allumé des incendies visant des édifices publics et privés. Des actes de pillage ont également touché des commerces. Face à ces débordements, les policiers et les gendarmes ont fait usage de matraques et de gaz lacrymogène pour disperser la foule.\n\nLe pouvoir exécutif français a réagi au déroulement des événements. Le président Emmanuel Macron a affirmé que les violences n'avaient pas leur place dans la République et a promis des sanctions contre leurs auteurs. Le gouvernement a réuni une cellule de crise. Le Premier ministre a pour sa part dénoncé des attaques délibérées contre les lieux de pouvoir dans la capitale.\n\nLe mouvement a trouvé un écho au-delà du territoire national. Des rassemblements de moindre ampleur portant sur les mêmes revendications financières se sont déroulés au Portugal, en Italie, en Belgique ainsi qu'en Albanie.\n\n## Ce que disent les sources\n\nLes bilans sur le nombre de protestataires et d'arrestations divergent selon les déclarations officielles et les estimations syndicales. Selon le ministère de l'Intérieur, cité le 18 octobre 2026 par zpravy.tiscali.cz à 04:00 et par ABC à 04:08, 550 000 personnes ont manifesté dans tout le pays, dont 110 000 à Paris réparties sur environ 110 cortèges. Les syndicats mentionnés par ABC le 18 octobre 2026 à 04:08 revendiquent quant à eux 800 000 participants.\n\nConcernant les interpellations, un bilan communiqué par le ministère de l'Intérieur à la BBC le 17 octobre 2026 à 18:43 établissait le chiffre à 400 personnes gardées à vue. Les informations publiées le 18 octobre 2026 à 04:00 par Deutsche Welle puis à 05:46 par Der Spiegel rapportent un total révisé de 1 200 personnes arrêtées par les forces de sécurité. Der Spiegel a également indiqué le 18 octobre 2026 à 05:46 que 150 membres des forces de l'ordre avaient subi des blessures.\n\nLe nombre total de manifestants blessés n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/ru/vo-francii-zaderzany-desatki-ucastnikov-obsenacionalnyh-protestov-protiv-rosta-stoimosti-zizni-i-sokrasenij-v-obrazovanii/a-79687694"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/massenproteste-und-demonstrationen-in-frankreich-polizei-setzt-traenengas-ein-a-4d2744cb-c65e-43cf-9664-c9baee4008f3"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/agencia-de-turismo-de-lyon-e-incendiada-durante-protestos-contra-custo-de-vida-na-franca.shtml"
+    },
+    {
+     "nom": "jyllands-posten.dk",
+     "url": "https://jyllands-posten.dk/international/ECE19746560/fransk-politi-affyrer-taaregas-mod-demonstranter-i-paris?fp-alg=603200020&fp-exp=60320002"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/russian/articles/c3dxw58ln11qo"
+    },
+    {
+     "nom": "zpravy.tiscali.cz",
+     "url": "https://zpravy.tiscali.cz/ve-francii-demonstrovalo-550000-lidi-jen-v-parizi-110000-rekl-ministr-vnitra-786529"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/166-detenidos-protestas-estudiantes-francia-coste-vida-20261017150236-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T06:15:00Z",
+   "suite_de": null,
+   "mots": 434,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Protests against the cost of living sweep across France",
+    "chapeau": "Several hundred thousand people marched on Saturday, October 17, 2026, in various cities across France to protest against the rising cost of living. These gatherings led to clashes with law enforcement as well as numerous arrests throughout the country.",
+    "corps": "The marches brought citizens together in several urban areas such as Paris, Marseille, and Lyon. Protesters targeted the increase in fuel prices, the reduction in resources allocated to public services, and the deterioration of the school sector. The gatherings followed calls circulated on the social network TikTok.\n\nIncidents broke out during the marches. Participants attempted to block traffic, attacked town halls, and set fires targeting public and private buildings. Acts of looting also affected businesses. Faced with this unrest, police and gendarmes used batons and tear gas to disperse the crowd.\n\nThe French executive branch reacted to the unfolding events. President Emmanuel Macron stated that violence had no place in the Republic and promised sanctions against the perpetrators. The government convened a crisis unit. The Prime Minister, for his part, denounced deliberate attacks against seats of power in the capital.\n\nThe movement found an echo beyond national borders. Smaller gatherings focusing on the same financial demands took place in Portugal, Italy, Belgium, and Albania.\n\n## What the sources say\n\nThe figures on the number of protesters and arrests differ according to official statements and union estimates. According to the Ministry of the Interior, cited on October 18, 2026, by zpravy.tiscali.cz at 04:00 and by ABC at 04:08, 550,000 people demonstrated throughout the country, including 110,000 in Paris spread across approximately 110 marches. The unions mentioned by ABC on October 18, 2026, at 04:08 claim 800,000 participants.\n\nRegarding the arrests, a report communicated by the Ministry of the Interior to the BBC on October 17, 2026, at 18:43 established the figure at 400 people in police custody. Information published on October 18, 2026, at 04:00 by Deutsche Welle and then at 05:46 by Der Spiegel reports a revised total of 1,200 people arrested by security forces. Der Spiegel also indicated on October 18, 2026, at 05:46 that 150 members of law enforcement had sustained injuries.\n\nThe total number of injured protesters is not specified by the sources."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV quitte l'hôpital après une chirurgie pulmonaire",
+   "chapeau": "Le pape Léon XIV a quitté l'hôpital Gemelli à Rome le samedi 17 octobre 2026. Le souverain pontife regagne le Vatican quatre jours après une opération chirurgicale pour un cancer du poumon.",
+   "corps": "Le chef de l'Église catholique se remet désormais dans ses appartements au Vatican. Les médecins Luigi Carbone et Stefano Margaritora ont jugé son état compatible avec une sortie dans un communiqué publié par le Vatican le 17 octobre 2026 à 17 h 41 selon The Guardian. Le corps médical constate une amélioration continue de sa condition physique.\n\nCette sortie intervient après une lobectomie réalisée le mardi 13 octobre 2026. Ce terme médical désigne l'ablation chirurgicale d'un lobe pulmonaire. Les praticiens ont retiré la portion inférieure du poumon droit du pape âgé de 71 ans selon The Guardian le 17 octobre 2026 à 17 h 41. Un examen de routine avait auparavant détecté une excroissance suspecte. Les analyses postopératoires ont établi la présence d'un adénocarcinome, une forme courante de tumeur maligne.\n\nLe pape né aux États-Unis avait repris ses activités dès le vendredi 16 octobre 2026 depuis sa chambre en célébrant un office religieux sans aide et en s'entretenant avec Vladimir Poutine. Deux jours après l'intervention, les médecins signalaient déjà un rétablissement satisfaisant du poumon opéré.\n\nLe souverain pontife doit conduire la prière dominicale de l'Angélus le dimanche 18 octobre 2026. Il s'adressera aux pèlerins rassemblés sur la place Saint-Pierre depuis ses appartements pontificaux. Son programme officiel prévoit également un déplacement en Amérique latine au cours du mois de novembre 2026 selon la radio américaine NPR le 17 octobre 2026 à 19 h 10.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/16/pope-leo-lung-cancer-surgery-lobectomy"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-leo-recovering-from-surgery-will-deliver-sunday-prayer/a-79682540?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw146ej00yn7o"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/pope-leo-to-leave-hospital-on-saturday-after-lung-cancer-surgery"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/vatican-says-pope-leo-to-be-released-from-the-hospital-on-october-17-four-days-after-lung-cancer-surgery/article71596137.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery"
+    }
+   ],
+   "premiere_parution": "2026-10-15T17:25:09Z",
+   "suite_de": "2026-10-17-monde-005",
+   "mots": 265,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Pope Leo XIV leaves hospital after lung surgery",
+    "chapeau": "Pope Leo XIV left Gemelli Hospital in Rome on Saturday, October 17, 2026. The sovereign pontiff is returning to the Vatican four days after a surgical operation for lung cancer.",
+    "corps": "The head of the Catholic Church is now recovering in his apartments at the Vatican. Doctors Luigi Carbone and Stefano Margaritora deemed his condition compatible with discharge in a statement published by the Vatican on October 17, 2026, at 17:41, according to The Guardian. The medical team notes a continuous improvement in his physical condition.\n\nThis discharge comes after a lobectomy performed on Tuesday, October 13, 2026. This medical term refers to the surgical removal of a lung lobe. Practitioners removed the lower portion of the right lung of the 71-year-old pope, according to The Guardian on October 17, 2026, at 17:41. A routine examination had previously detected a suspicious growth. Postoperative analyses established the presence of an adenocarcinoma, a common form of malignant tumor.\n\nThe pope, born in the United States, had resumed his activities as early as Friday, October 16, 2026, from his room by celebrating a religious service without assistance and by speaking with Vladimir Putin. Two days after the intervention, doctors were already reporting a satisfactory recovery of the operated lung.\n\nThe sovereign pontiff is scheduled to lead the Sunday Angelus prayer on Sunday, October 18, 2026. He will address the pilgrims gathered in Saint Peter's Square from his papal apartments. His official schedule also includes a trip to Latin America during the month of November 2026, according to the American radio station NPR on October 17, 2026, at 19:10."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'hôtel de ville de Limoges incendié en marge de manifestations nationales",
+   "chapeau": "Des manifestants ont incendié l'hôtel de ville de Limoges au cours d'une mobilisation nationale samedi 17 octobre 2026. L'édifice du XIXe siècle a subi des dégradations majeures lors de violences urbaines recensées sur tout le territoire français.",
+   "corps": "Le bâtiment municipal de Limoges a pris feu lors d'un rassemblement contestataire. Selon Der Spiegel, des personnes masquées ont allumé le brasier dans cet édifice érigé il y a 143 ans. Le représentant de l'État dans le département a précisé que la structure est presque totalement détruite. BBC News a diffusé des images montrant la flèche du monument s'effondrer au milieu du sinistre. Cet édifice bénéficie du statut de monument historique, comme le rappelle El País.\n\nLes dégradations ne se limitent pas à la ville de Limoges. Selon le site croate index.hr, des affrontements avec les forces de l'ordre ont éclaté à Paris, Lyon et Marseille. Des participants ont incendié des voitures et des bâtiments publics dans plusieurs agglomérations. Des magasins ont également subi des pillages au cours de ces rassemblements. Le président Emmanuel Macron a réagi à ces événements.\n\nLa police a utilisé des gaz lacrymogènes pour disperser les manifestants dans la capitale française. Selon The Guardian, à la date du 18 octobre 2026 à 04:01, les forces de l'ordre ont procédé à plus de 1 200 arrestations sur l'ensemble du pays. Les rassemblements soutenaient initialement des lycéens avant d'agréger d'autres revendications, notamment contre la hausse des prix. Les autorités publiques ont attribué les violences à des groupes de la mouvance d'ultra-gauche.\n\nLe montant total des dégâts matériels et le bilan des éventuels blessés restent inconnus à ce stade.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/frankreich-historisches-rathaus-von-limoges-in-flammen-a-d16d7122-f22b-4a62-972b-fec1ae76ca01"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-17/el-ayuntamiento-de-limoges-destruido-por-las-llamas-en-la-jornada-de-protestas-en-francia.html"
+    },
+    {
+     "nom": "ambito.com",
+     "url": "https://ambito.com/mundo/protestas-francia-asi-fue-el-incendio-que-afecto-gravemente-el-ayuntamiento-limoges-n6334967"
+    },
+    {
+     "nom": "index.hr",
+     "url": "https://index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?commentId=12272872&index_ref=homepage_comment_box_d"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c6e3xjw37wn7o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night"
+    }
+   ],
+   "premiere_parution": "2026-10-17T21:21:00Z",
+   "suite_de": null,
+   "mots": 269,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Limoges City Hall set on fire on the sidelines of national protests",
+    "chapeau": "Protesters set fire to Limoges City Hall during a national mobilization on Saturday, October 17, 2026. The 19th-century building suffered major damage during urban violence recorded throughout French territory.",
+    "corps": "The municipal building in Limoges caught fire during a protest gathering. According to Der Spiegel, masked individuals started the blaze in this building erected 143 years ago. The state representative in the department specified that the structure is almost completely destroyed. BBC News broadcast images showing the monument's spire collapsing amidst the disaster. This building holds the status of a historical monument, as recalled by El País.\n\nThe damage is not limited to the city of Limoges. According to the Croatian site index.hr, clashes with law enforcement broke out in Paris, Lyon, and Marseille. Participants set fire to cars and public buildings in several urban areas. Stores were also looted during these gatherings. President Emmanuel Macron reacted to these events.\n\nThe police used tear gas to disperse protesters in the French capital. According to The Guardian, as of October 18, 2026, at 04:01, law enforcement had made more than 1,200 arrests across the country. The gatherings initially supported high school students before aggregating other demands, particularly against rising prices. Public authorities attributed the violence to groups from the ultra-left movement.\n\nThe total amount of material damage and the toll of any potential injuries remain unknown at this stage."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des colons israéliens blessent des agriculteurs et une photojournaliste en Cisjordanie",
+   "chapeau": "Des colons israéliens ont agressé des cultivateurs palestiniens et des reporters en Cisjordanie le vendredi 16 octobre 2026. L'assaut a touché des équipes agricoles pendant la cueillette des olives près de Ramallah.",
+   "corps": "Cette agression fait suite aux violences exercées la veille contre des fermiers et des journalistes durant la récolte annuelle.\n\nDes assaillants aux visages dissimulés sont descendus d'un avant-poste vers des parcelles agricoles de la zone B. Munis de bâtons et d'armes à feu, ils ont frappé les travailleurs présents et ont jeté des pierres. Les agresseurs ont aussi incendié des oliviers ainsi que des véhicules sur place.\n\nLa photojournaliste américaine Heidi Levine, en mission pour The Washington Post, figure parmi les victimes des violences physiques. Les équipes médicales l'ont conduite dans un établissement hospitalier du secteur de Ramallah après les coups reçus. Reporters sans frontières a dénoncé ces actes en évoquant une agression manifeste contre la presse.\n\n## Ce que disent les sources\n\nLes bilans humains varient selon les organisations et les médias. Le Croissant-Rouge a dénombré une femme de 63 ans et un homme de 40 ans parmi les blessés à Abu Falah au nord de Ramallah, tandis que Haaretz a fait état de 11 personnes blessées le 16 octobre 2026 à 12 h 37. Des soignants palestiniens cités par The Hindu le 16 octobre 2026 à 20 h 42 ont quant à eux rapporté deux blessés transférés vers les hôpitaux locaux, incluant Heidi Levine, un chiffre repris le même jour par Al Jazeera à 17 h 04. Enfin, The Guardian a mentionné au moins six blessés le 16 octobre 2026 à 20 h 34.\n\nL'identité des assaillants masqués et d'éventuelles arrestations par les autorités compétentes ne sont pas précisées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/west-bank/2026-10-16/ty-article/.premium/palestinians-report-six-wounded-in-settler-attacks-on-west-bank-olive-harvesters/000001a1-43b3-dafe-a5b3-4bb32ceb0000"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cqn06zx2r15jo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack/article71593869.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-16T00:00:00Z",
+   "suite_de": "2026-10-17-monde-006",
+   "mots": 282,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Israeli settlers injure farmers and a photojournalist in the West Bank",
+    "chapeau": "Israeli settlers assaulted Palestinian cultivators and reporters in the West Bank on Friday, October 16, 2026. The assault affected agricultural teams during the olive harvest near Ramallah.",
+    "corps": "This aggression follows violence committed the day before against farmers and journalists during the annual harvest.\n\nAssailants with concealed faces descended from an outpost toward agricultural plots in Area B. Armed with sticks and firearms, they struck the workers present and threw stones. The attackers also set fire to olive trees as well as vehicles on site.\n\nAmerican photojournalist Heidi Levine, on assignment for The Washington Post, is among the victims of physical violence. Medical teams took her to a hospital facility in the Ramallah sector after the blows received. Reporters Without Borders denounced these acts, citing a clear assault against the press.\n\n## What the sources say\n\nHuman tolls vary according to organizations and media. The Red Crescent counted a 63-year-old woman and a 40-year-old man among the injured in Abu Falah north of Ramallah, while Haaretz reported 11 people injured on October 16, 2026, at 12:37. Palestinian caregivers cited by The Hindu on October 16, 2026, at 20:42, reported two injured people transferred to local hospitals, including Heidi Levine, a figure repeated the same day by Al Jazeera at 17:04. Finally, The Guardian mentioned at least six injured on October 16, 2026, at 20:34.\n\nThe identity of the masked assailants and any potential arrests by the competent authorities are not specified."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-008",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump retire Katie Zacharia de la Maison-Blanche après cinq jours",
+   "chapeau": "Le président Donald Trump a écarté Katie Zacharia de son poste de porte-parole à Washington le 16 octobre 2026. L'ancienne responsable quitte ses fonctions cinq jours après sa prise de poste à la suite de plusieurs polémiques publiques.",
+   "corps": "Katie Zacharia a confirmé la fin de sa mission dans un message publié sur le réseau social X. Elle y a déclaré que servir à la Maison-Blanche avait représenté un honneur pour elle.\n\nLe mandat de la porte-parole a duré cinq jours. Cette durée constitue la plus brève période observée pour cette fonction dans les annales de la présidence américaine. Donald Trump avait choisi Katie Zacharia après l'avoir remarquée lors d'apparitions sur des plateaux de télévision. Sa première conférence de presse ainsi que des entretiens médiatiques ultérieurs ont ensuite suscité des critiques sur sa préparation et sur ses compétences. Une polémique a également concerné ses qualifications professionnelles. Katie Zacharia s'était présentée comme juriste sans avoir réussi l'examen officiel du barreau, un test juridique professionnel obligatoire pour exercer.\n\nCe départ intervient dans une période politique chargée avant les élections législatives américaines de mi-mandat prévues en novembre 2026. La communication politique constitue un sujet de préoccupation exprimé par Donald Trump pour son camp. Par ailleurs, la campagne pour le Sénat dans l'État du Texas concentre d'importantes dépenses financières. L'homme d'affaires Elon Musk a versé 158 millions de dollars au principal comité d'action politique républicain soutenant les candidats au Sénat en septembre 2026, selon les chiffres rapportés par l'agence Bloomberg le 16 octobre 2026 à 23 h 50.\n\n## Ce que disent les sources\n\nLes sources divergent sur la modalité exacte du départ de la porte-parole. Le quotidien espagnol El País rapporte que Donald Trump a demandé à Katie Zacharia de reconsidérer sa position avant de la congédier. Le journal The Hindu confirme que le président américain lui a dit de reconsidérer son rôle face aux critiques du public. La radio américaine NPR cite quant à elle un responsable anonyme de la Maison-Blanche, selon lequel Katie Zacharia organise une sortie progressive de ses fonctions.\n\nL'identité de la personne qui succédera à Katie Zacharia à la tribune de presse de la Maison-Blanche n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trumps-new-press-secretary-katie-zacharia-out-after-less-than-week-in-the-role"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-16/affordability-messaging-in-focus-ahead-of-us-midterms-video"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-10-16/trump-fires-katie-zacharia-after-five-days-as-white-house-press-secretary.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/16/katie-zacharia-trump-tv-driven-hiring"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/white-house-press-secretary-katie-zacharia-let-go-just-days-into-role/article71594137.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-16T00:00:00Z",
+   "suite_de": "2026-10-17-monde-001",
+   "mots": 361,
+   "modele": "gemini-3.7-flash",
+   "en": {
+    "titre": "Donald Trump removes Katie Zacharia from the White House after five days",
+    "chapeau": "President Donald Trump removed Katie Zacharia from her position as spokesperson in Washington on October 16, 2026. The former official is leaving her duties five days after taking office following several public controversies.",
+    "corps": "Katie Zacharia confirmed the end of her mission in a message published on the social network X. She stated that serving at the White House had been an honor for her.\n\nThe spokesperson's tenure lasted five days. This duration constitutes the shortest period observed for this position in the annals of the American presidency. Donald Trump had chosen Katie Zacharia after noticing her during appearances on television sets. Her first press conference as well as subsequent media interviews then sparked criticism regarding her preparation and skills. A controversy also concerned her professional qualifications. Katie Zacharia had presented herself as a lawyer without having passed the official bar exam, a mandatory professional legal test to practice.\n\nThis departure comes during a busy political period before the American midterm legislative elections scheduled for November 2026. Political communication is a subject of concern expressed by Donald Trump for his camp. Furthermore, the Senate campaign in the state of Texas is concentrating significant financial expenditures. Businessman Elon Musk donated 158 million dollars to the main Republican political action committee supporting Senate candidates in September 2026, according to figures reported by the Bloomberg agency on October 16, 2026, at 23:50.\n\n## What the sources say\n\nSources differ on the exact manner of the spokesperson's departure. The Spanish daily El País reports that Donald Trump asked Katie Zacharia to reconsider her position before firing her. The newspaper The Hindu confirms that the American president told her to reconsider her role in the face of public criticism. The American radio station NPR, for its part, cites an anonymous White House official, according to whom Katie Zacharia is organizing a gradual exit from her duties.\n\nThe identity of the person who will succeed Katie Zacharia at the White House press podium is not specified by the sources."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-009",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Sally Rooney assume le retrait de ses romans au Royaume-Uni",
+   "chapeau": "L'écrivaine irlandaise Sally Rooney a explicité les conséquences de son engagement envers Palestine Action au Royaume-Uni jusqu'au 17 octobre 2026. Ses déclarations publiques et les réactions locales éclairent l'arrêt de la commercialisation de ses ouvrages outre-Manche.",
+   "corps": "Sally Rooney et sa maison d'édition ont retiré ses romans des points de vente britanniques après sa décision de verser ses gains à Palestine Action.\n\nDans un message public rapporté par The Hindu le 17 octobre 2026, l'autrice de Normal People a affirmé avoir cherché la franchise concernant ses opinions et ses projets. Elle a ajouté qu'elle acceptait pleinement les effets de son choix. Selon Le Figaro, l'autrice considère que la poursuite de ses contrats d'édition pourrait constituer une faute juridique sous le coup des lois britanniques.\n\nLa mesure affecte les commerces de livres britanniques qui doivent composer avec le retrait physique des titres, d'après les constats du média américain courant.com. Les réactions gagnent également le milieu étudiant, ainsi que le rapporte la chaîne Al Jazeera le 17 octobre 2026.\n\nLe collectif Palestine Action pratique la désobéissance civile, consistant à enfreindre délibérément une règle pour contester une politique. Selon RFI le 16 octobre 2026, cette entité dénonce l'assistance militaire du Royaume-Uni fournie à Israël. Les autorités britanniques ont inscrit ce réseau sur la liste des organisations terroristes depuis plus de douze mois.\n\nCe statut découle de la loi sur le terrorisme en vigueur au Royaume-Uni. Le journal Financial Times indique le 16 octobre 2026 que le blocage des ventes ne provient pas d'une mesure étatique directe de censure, mais résulte de la décision prise par Sally Rooney. Le quotidien britannique souligne que cet épisode met en lumière le fonctionnement de l'interdiction de Palestine Action et les limites perçues du cadre juridique antiterroriste.\n\nPour sa part, courant.com note que ce dossier alimente les tensions relatives à la liberté d'expression et au droit de manifester sur le territoire britannique. Sally Rooney a signé d'autres succès de librairie comme Intermezzo et Conversations entre amis, qui demeurent concernés par cet arrêt de commercialisation.\n\nLa date d'une éventuelle reprise des ventes ou d'une renégociation contractuelle n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/culture/le-soutien-de-sally-rooney-a-palestine-action-entraine-le-retrait-de-ses-livres-des-librairies-britanniques-20261015"
+    },
+    {
+     "nom": "courant.com",
+     "url": "https://courant.com/2026/10/15/sally-rooney-books-pulled-explained"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/culture/20261015-suite-%C3%A0-son-soutien-%C3%A0-palestine-action-sally-rooney-ne-peut-plus-vendre-ses-ouvrages-au-royaume-uni"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/42eb2851-ddc2-4f13-a55b-8f50cf43443b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/books/sally-rooneys-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group/article71585477.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-15T16:15:10Z",
+   "suite_de": "2026-10-17-monde-012",
+   "mots": 354,
+   "modele": "gemini-3.7-flash",
+   "en": {
+    "titre": "Sally Rooney takes responsibility for the withdrawal of her novels in the United Kingdom",
+    "chapeau": "Irish writer Sally Rooney explained the consequences of her commitment to Palestine Action in the United Kingdom until October 17, 2026. Her public statements and local reactions shed light on the halt in the marketing of her works across the Channel.",
+    "corps": "Sally Rooney and her publishing house withdrew her novels from British points of sale after her decision to donate her earnings to Palestine Action.\n\nIn a public message reported by The Hindu on October 17, 2026, the author of Normal People claimed to have sought frankness regarding her opinions and projects. She added that she fully accepted the effects of her choice. According to Le Figaro, the author considers that continuing her publishing contracts could constitute a legal fault under British law.\n\nThe measure affects British book retailers who must deal with the physical removal of the titles, according to observations by the American media outlet courant.com. Reactions are also spreading in the student community, as reported by the channel Al Jazeera on October 17, 2026.\n\nThe collective Palestine Action practices civil disobedience, which consists of deliberately breaking a rule to challenge a policy. According to RFI on October 16, 2026, this entity denounces the military assistance provided by the United Kingdom to Israel. British authorities have listed this network as a terrorist organization for more than twelve months.\n\nThis status stems from the terrorism legislation in force in the United Kingdom. The newspaper Financial Times indicates on October 16, 2026, that the blocking of sales does not stem from a direct state censorship measure, but results from the decision taken by Sally Rooney. The British daily emphasizes that this episode highlights the functioning of the ban on Palestine Action and the perceived limits of the anti-terrorism legal framework.\n\nFor its part, courant.com notes that this issue fuels tensions regarding freedom of expression and the right to protest on British territory. Sally Rooney has signed other bestsellers such as Intermezzo and Conversations with Friends, which remain affected by this halt in commercialization.\n\nThe date of a possible resumption of sales or a contractual renegotiation is not specified by the sources."
+   }
+  },
+  {
+   "id": "2026-10-18-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Volodymyr Zelensky défend ses frappes malgré les critiques de Donald Trump",
+   "chapeau": "Le président ukrainien Volodymyr Zelensky a défendu le droit de son pays à se protéger après des critiques de Donald Trump. Cette réaction intervient à Bruxelles lors d'échanges avec les dirigeants de l'Union européenne.",
+   "corps": "Vendredi 16 octobre 2026, les représentants des pays membres de l'Union européenne ont manifesté leur soutien à Volodymyr Zelensky face aux remarques venant des États-Unis.\n\nDonald Trump a qualifié de honte les attaques menées par les forces ukrainiennes contre des installations pétrolières russes. Le responsable américain a affirmé que Volodymyr Zelensky se montre plus difficile à gérer que le président russe Vladimir Poutine. Selon Donald Trump, les dirigeants ukrainien et russe éprouvent une détestation réciproque.\n\nVolodymyr Zelensky a répliqué en affirmant que l'Ukraine possède le droit légitime d'assurer sa propre défense. Le président ukrainien a qualifié les dirigeants européens de véritables dirigeants. Il a également exprimé le sentiment de servir de cible commode pour Donald Trump.\n\nÀ Bruxelles, les représentants de l'Union européenne ont réaffirmé leur ligne politique envers Moscou. La présidente de la Commission européenne Ursula von der Leyen et le président du Conseil européen António Costa ont annoncé le maintien intégral des sanctions contre la Russie. Ursula von der Leyen a précisé aux journalistes que l'Union européenne ne lèvera aucune sanction tant que la Russie n'arrêtera pas le conflit armé. Les responsables européens ont par ailleurs critiqué une entente commerciale sur le carburant diesel conclue entre Washington et Moscou.\n\nLe président français Emmanuel Macron a rencontré Volodymyr Zelensky. À l'issue de cet entretien, Emmanuel Macron a jugé capital de fournir à l'Ukraine la totalité des ressources requises pour assurer sa protection.\n\nLe montant exact de l'aide matérielle supplémentaire promise par les pays européens n'est pas précisé dans les déclarations transmises.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/ukraines-resumption-of-strikes-on-russian-refineries-is-disgrace-trump-says"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/europa-da-o-apoio-possivel-a-zelenski-que-se-ve-bode-expiatorio-de-trump.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c58jz174w89ro"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-16/zelenski-lanza-un-dardo-a-trump-al-hablar-de-los-europeos-como-verdaderos-lideres.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/von-der-leyen-asegura-ue-levantara-ninguna-20261016095351-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/zelensky-rallies-european-allies-as-trump-ties-slump/article71591079.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-15T20:53:52Z",
+   "suite_de": "2026-10-17-geopolitique-002",
+   "mots": 286,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'Ukraine accuse Starlink de brider son réseau internet en plein conflit",
+   "chapeau": "Les autorités ukrainiennes accusent le réseau satellitaire Starlink d'avoir volontairement limité ses débits internet sur leur territoire à la mi-octobre 2026. Ces restrictions de connexion ont gêné la défense de l'Ukraine face à des frappes militaires russes.",
+   "corps": "Le président ukrainien Volodymyr Zelensky a qualifié ces ralentissements d'opération planifiée. Selon lui, cette mesure ne provient pas d'un incident technique. Des vérifications techniques menées par l'Ukraine indiquent que ces baisses de débit touchent uniquement son sol. Les autres pays d'Europe ne subissent aucune dégradation de leur accès à ce réseau par satellites, un système de relais en orbite.\n\nCes limitations de vitesse ont perturbé plusieurs opérations de l'armée ukrainienne sur la ligne de front. Les forces armées locales expliquent que ces baisses de débit ont réduit leur capacité à repousser des offensives russes survenues dans la nuit du mardi 13 octobre 2026. Le chef de l'État ukrainien a également critiqué un allègement de sanctions américaines envers la Russie.\n\nAux États-Unis, plusieurs membres du Sénat demandent une enquête officielle sur ces restrictions d'accès au réseau spatial appartenant à l'entreprise SpaceX.\n\n## Ce que disent les sources\n\nVolodymyr Zelensky affirme que le ralentissement du service résulte d'une décision intentionnelle appliquée au seul territoire ukrainien.\n\nDonald Trump rejette ces accusations et nie toute intervention pour restreindre la connexion de l'Ukraine à Starlink.\n\nL'entreprise SpaceX n'a pas précisé l'origine technique de ces variations de débit.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq398zl8jmvdo"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-16T14:19:50Z",
+   "suite_de": null,
+   "mots": 228,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un incendie dans un complexe hôtelier tue dix personnes au Bangladesh",
+   "chapeau": "Un incendie s'est déclaré samedi 17 octobre 2026 dans un complexe hôtelier balnéaire du district de Cox's Bazar, dans le sud-est du Bangladesh. Le sinistre a coûté la vie à au moins dix personnes et a fait plusieurs blessés parmi les résidents.",
+   "corps": "Le feu a ravagé le complexe hôtelier Tuptup Resto and Resort. L'établissement se situe dans le secteur d'Inani, à proximité de la plage de Patuartek, le long de la route côtière Marine Drive. Cette zone touristique attire de nombreux visiteurs dans le sud-est du pays.\n\nLe porte-parole des services d'incendie, Talha Bin Zasim, a validé le bilan de dix décès le 17 octobre 2026 vers 13 h 30. Les flammes ont pris au piège des vacanciers présents dans les bâtiments. Une famille a perdu six de ses membres lors de ce sinistre, d'après les informations diffusées par la chaîne Al Jazeera le 18 octobre 2026 à 00 h 50.\n\nUne autorité locale a relevé des défaillances dans les dispositifs de sécurité contre les incendies. Cette même source a affirmé que les propriétaires avaient bâti le complexe hôtelier sans autorisation officielle, selon le journal Der Spiegel le 17 octobre 2026 à 18 h 11.\n\n## Ce que disent les sources\n\nLe nombre de blessés fait l'objet d'évaluations différentes selon les médias. Le site ksat.com a rapporté le 17 octobre 2026 à 13 h 16 un bilan de quatre blessés. Les médias The Hindu, Anadolu et Wikipédia ont pour leur part dénombré neuf personnes blessées lors de leurs publications respectives du 17 octobre 2026 à 14 h 11, 14 h 44 et 16 h 00. Le quotidien The Straits Times a mentionné plusieurs blessés sans donner de total précis le 17 octobre 2026 à 17 h 40.\n\nLa cause exacte du départ de feu et l'identité de l'ensemble des victimes demeurent inconnues dans les rapports publiés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ksat.com",
+     "url": "https://ksat.com/news/2026/10/17/a-fire-guts-a-bangladeshi-beach-resort-killing-10-people"
+    },
+    {
+     "nom": "bordertelegraph.com",
+     "url": "https://bordertelegraph.com/news/national/26646067.10-killed-fire-hits-beach-resort-bangladesh"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/many-killed-in-fire-at-seaside-resort-in-bangladesh/article71596020.ece"
+    },
+    {
+     "nom": "Anadolu",
+     "url": "https://aa.com.tr/en/asia-pacific/bangladesh-resort-fire-kills-at-least-10-injures-9-others/4091698"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_17?evenement=eb206b5615"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/at-least-10-killed-in-fire-at-bangladesh-beach-resort"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/bangladesch-feuer-in-hotelanlage-in-coxs-bazar-mindestens-zehn-tote-a-add3fc41-73d1-4968-be92-a6485be76878"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd"
+    }
+   ],
+   "premiere_parution": "2026-10-17T09:16:45Z",
+   "suite_de": null,
+   "mots": 306,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Manifestations contre la vie chère en France et heurts urbains multiples",
+   "chapeau": "Des centaines de milliers de citoyens ont défilé samedi 17 octobre 2026 dans plusieurs agglomérations françaises contre la vie chère. Ces rassemblements nationaux ont débouché sur des heurts, des dégradations de bâtiments publics et de nombreuses arrestations.",
+   "corps": "Cette journée d'action faisait suite aux mots d'ordre lancés par des syndicats, des collectifs citoyens et des mouvements de jeunesse. Les revendications portaient sur le coût de la vie quotidienne, la valeur des carburants ainsi que la défense des structures publiques.\n\nLes défilés ont réuni une foule nombreuse dans des métropoles comme Paris, Lyon, Marseille, Limoges, Rennes ou Bordeaux. À Rennes, au moins 12 000 participants ont battu le pavé selon les données publiées par Le Monde le 18 octobre à 06:30. Des cortèges ont rassemblé des salariés, des lycéens, des étudiants et des membres du mouvement des gilets jaunes.\n\nDes tensions ont éclaté en marge des rassemblements dans plusieurs localités. Des dégradations matérielles, des vols dans des commerces et des incendies volontaires se sont produits durant l'après-midi et la nuit. À Limoges, le bâtiment de l'hôtel de ville a subi un incendie. À Bordeaux, des individus ont saccagé la résidence du préfet.\n\nLes forces de sécurité ont procédé à de multiples contrôles répressifs sur l'ensemble du territoire. Selon les chiffres communiqués par les services du premier ministre à Matignon le 18 octobre à 00:11, les forces de l'ordre ont appréhendé 1 200 personnes. Sébastien Lecornu a indiqué le 18 octobre à 06:48 que ces violences ont blessé 150 policiers et gendarmes. Le chef du gouvernement a déclaré que le coût financier global de ces destructions sera élevé pour la collectivité.\n\n## Ce que disent les sources\n\nLe volume global de la mobilisation fait l'objet d'estimations différentes selon les parties prenantes. Le ministre de l'Intérieur Laurent Nuñez a chiffré la participation à 550 000 manifestants pour l'ensemble du pays, d'après les informations rapportées par Libération le 18 octobre à 00:55 et confirmées par Le Monde à 08:20. De leur côté, les organisations syndicales et associatives à l'origine du mouvement revendiquent un total de 800 000 participants sur le territoire national le 18 octobre à 00:11 selon Le Monde.\n\nLe montant définitif des dégâts matériels et le nombre total de manifestants blessés ne sont pas précisés par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/17-octobre-entre-550-000-et-800-000-manifestants-partout-en-france_8242129.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/manifestation-du-17-octobre-des-scenes-d-emeutes-et-des-pillages-a-lissue-de-la-mobilisation-20261017"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/paris-lyon-marseille-les-images-des-scenes-de-violences-et-de-scenes-lors-des-manifestations-du-17-octobre-20261017"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261017-la-france-tourne-mal-un-17-octobre-marqu%C3%A9-par-une-forte-mobilisation-sociale-et-des-violences"
+    }
+   ],
+   "premiere_parution": "2026-10-16T07:02:06Z",
+   "suite_de": "2026-10-17-france-003",
+   "mots": 380,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "David Lisnard progresse dans les sondages face à Bruno Retailleau",
+   "chapeau": "Le maire de Cannes David Lisnard enregistre une hausse de visibilité en France en octobre 2026. Cette progression bouscule la position de Bruno Retailleau en vue de la présidentielle de 2027.",
+   "corps": "Candidat déclaré depuis fin mars 2026, David Lisnard s'appuie sur une présence accrue sur les réseaux sociaux. Le président du mouvement Nouvelle Énergie cherche à combler un manque de visibilité auprès des électeurs. Ses soutiens mobilisent aussi les plateformes de paris en ligne.\n\nCette exposition numérique modifie les équilibres internes de la droite. Les discussions autour de l'organisation d'une primaire refont surface pour départager les prétendants. Les partisans de Bruno Retailleau attendent pour leur part un ralliement ultérieur de David Lisnard.\n\n## Ce que disent les sources\n\nSelon La Croix le 16 octobre 2026, une enquête d'opinion place David Lisnard à égalité avec Bruno Retailleau. Selon Libération le 17 octobre 2026, un sondage de l'institut Ifop situe le maire de Cannes devant Bruno Retailleau.\n\nLes sources ne précisent pas les pourcentages exacts obtenus par les deux personnalités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/election-presidentielle-a-droite-david-lisnard-bouscule-la-candidature-de-bruno-retailleau-20261016"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/presidentielle-a-quoi-joue-david-lisnard-le-candidat-fan-de-milei-qui-veut-forcer-la-porte-de-la-campagne-20261017_K24KPTP45VETTKW7ESTWKGOKEM"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/17/presidentielle-2027-autour-de-la-candidature-de-david-lisnard-il-se-passe-quelque-chose-mais-quoi_6796307_823448.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/l-idee-c-etait-de-gagner-en-notoriete-se-passe-t-il-vraiment-quelque-chose-autour-de-la-candidature-de-david-lisnard-a-la-presidentielle_8238541.html"
+    }
+   ],
+   "premiere_parution": "2026-10-16T07:05:32Z",
+   "suite_de": null,
+   "mots": 167,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Des heurts ont éclaté à Paris lors des manifestations de samedi",
+   "chapeau": "Les forces de l'ordre et des manifestants se sont affrontés à Paris samedi 17 octobre 2026. La mobilisation s'est déroulée sur plusieurs parcours autorisés et a provoqué des interventions policières.",
+   "corps": "À Paris, plus de 3 000 policiers et gendarmes surveillaient deux trajets validés, selon franceinfo le 17 octobre à 16 h 17. Les fonctionnaires ont utilisé des grenades assourdissantes et des gaz lacrymogènes pour repousser la foule, notamment place de la République.\n\nEn milieu de matinée, deux groupes non déclarés ont circulé dans la capitale. La Préfecture de police de Paris a recensé 61 arrestations, 589 vérifications d'identité préventives et quatre amendes à 11 heures, d'après Le Monde le 17 octobre à 11 h 52.\n\nDes dégradations, des pillages et des départs de feu ont touché le parcours parisien entre la place de la République et la place de Clichy. D'autres heurts se sont produits en région, notamment à Marseille, Lyon et Bordeaux.\n\n## Ce que disent les sources\n\nFrance 24 affirme le 17 octobre à 20 h 33 que plusieurs dizaines de milliers de personnes ont défilé à Paris. De son côté, franceinfo évoque le 17 octobre à 23 h 40 un cortège parisien composé de plusieurs milliers de participants.\n\nLe bilan final des interpellations et le nombre total de blessés ne sont pas communiqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-de-lyon-a-rennes-suivez-le-mouvement-de-contestation-a-travers-la-france-avec-nos-journalistes-sur-place_6795855_3224.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261017-mobilisation-du-17-octobre-tensions-en-marge-des-rassemblements-%C3%A0-paris"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/mobilisation-du-17-octobre-des-tensions-aux-abords-des-corteges_8241754.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T07:52:08Z",
+   "suite_de": null,
+   "mots": 215,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Mobilisation et enquête ouverte après des attaques visant le juge Youssef Badr",
+   "chapeau": "Le parquet de Paris a ouvert une enquête pour cyberharcèlement le vendredi 16 octobre 2026 après des attaques en ligne visant le magistrat Youssef Badr. Ce juge du tribunal de Bobigny fait l'objet de menaces à la suite d'un dossier du magazine Frontières.",
+   "corps": "Le média d'extrême droite Frontières a consacré sa une et un dossier de 24 pages au juge Youssef Badr. L'article accuse le magistrat de biais politique en citant d'anciens tweets et entretiens. En juin 2026, un tribunal présidé par Youssef Badr avait condamné le directeur de la rédaction du magazine, Erik Tegnér.\n\nCette publication a suscité plusieurs réactions dans la magistrature. Le ministre de la Justice, Gérald Darmanin, a déclaré le 15 octobre 2026 qu'aucun magistrat ne doit subir de menaces ou d'insultes. Le premier président de la cour d'appel de Paris a exprimé sa très vive inquiétude. Le Conseil supérieur de la magistrature a dénoncé un risque de déstabilisation de l'institution. Le parquet de Paris a précisé examiner la publication ainsi que ses commentaires.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/indignations-dans-la-magistrature-apres-un-numero-de-frontieres-ciblant-le-juge-youssef-badr-20261015_5D6FIF7INZAXJARNQ6VEXUF4GU"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/justice/le-premier-president-de-la-cour-d-appel-de-paris-exprime-sa-tres-vive-inquietude-apres-des-attaques-visant-un-magistrat-de-bobigny_8238445.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/15/gerald-darmanin-estime-qu-aucun-magistrat-ne-doit-etre-menace-ou-insulte-en-reaction-aux-attaques-contre-un-juge-de-bobigny_6794794_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/attaques-visant-un-juge-de-bobigny-le-conseil-superieur-de-la-magistrature-denonce-un-risque-de-destabilisation-de-l-institution-judiciaire-20261015"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/justice-l-institution-fait-bloc-derriere-le-juge-youssef-badr-cible-par-le-media-frontieres-20261016"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261017-youssef-bardr-le-juge-en-lutte-contre-les-discriminations-qui-obs%C3%A8de-l-extr%C3%AAme-droite-fronti%C3%A8res-erik-tegn%C3%A9r-bollor%C3%A9"
+    }
+   ],
+   "premiere_parution": "2026-10-15T17:49:39Z",
+   "suite_de": "2026-10-17-france-002",
+   "mots": 168,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Manifestations du 17 octobre : passe d'armes entre Sébastien Lecornu et La France insoumise",
+   "chapeau": "Le Premier ministre Sébastien Lecornu et le dirigeant politique Jean-Luc Mélenchon se sont affrontés par déclarations interposées le samedi 17 octobre 2026 en France. Cet échange verbal fait suite à des dégradations et des heurts survenus lors des rassemblements organisés dans plusieurs communes françaises le même jour.",
+   "corps": "Des heurts ont éclaté dans plusieurs agglomérations au cours de la journée de mobilisation. Des dégradations matérielles ont accompagné ces rassemblements selon les informations publiées par Le Monde le 18 octobre 2026.\n\nLe chef du gouvernement a affirmé son appui total aux fonctionnaires de police et aux gendarmes mobilisés sur le terrain. Il a qualifié les actes commis d'agressions d'une grande intensité envers les forces de sécurité intérieure, d'après les éléments rapportés par franceinfo. Le Premier ministre a également affirmé que l'exécutif ne céderait face à aucune pression lors de cette prise de parole.\n\nSébastien Lecornu a directement mis en cause La France insoumise en fin de soirée. Il a reproché aux membres de cette formation d'imputer les tensions aux responsables policiers. Le chef de la majorité a aussi demandé à la classe politique de se positionner clairement entre les institutions républicaines et les auteurs des dégradations.\n\nDe son côté, Jean-Luc Mélenchon a contesté les méthodes de maintien de l'ordre appliquées par les autorités. Le responsable de La France insoumise a rejeté la responsabilité des événements sur la stratégie choisie par le gouvernement.\n\nLe bilan humain ainsi que le nombre précis d'interpellations ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261017-apr%C3%A8s-les-violences-en-marge-du-17-octobre-s%C3%A9bastien-lecornu-et-jean-luc-m%C3%A9lenchon-s-%C3%A9charpent"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/18/mobilisation-du-17-octobre-apres-une-journee-de-violences-et-de-saccages-le-gouvernement-sous-pression-cible-lfi_6796957_823448.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T16:11:27Z",
+   "suite_de": null,
+   "mots": 246,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "L'office de tourisme de Lyon incendié en marge des défilés",
+   "chapeau": "Un bâtiment de l'office de tourisme de Lyon a subi des dégradations et un incendie samedi 17 octobre. Des manifestants défilaient alors dans le centre de la commune.",
+   "corps": "Le sinistre s'est déclaré en début d'après-midi au niveau de la place Bellecour. Les flammes se sont propagées à travers les ouvertures détruites de la structure. Selon la préfecture du Rhône, des groupes d'individus ont ralenti l'arrivée des secours vers les lieux.\n\nLes policiers ont conduit des opérations afin d'éloigner les fauteurs de troubles. Des heurts se sont ensuite étendus vers la place de la République et sur les ponts de la Presqu'île. D'après le journal Le Monde le 17 octobre 2026 à 23 h 51, plus de 20 000 participants ont pris part aux rassemblements dans la cité rhodanienne. Ce même quotidien rapporte le pillage de plusieurs commerces.\n\n## Ce que disent les sources\n\nfranceinfo indique que l'office de tourisme a brûlé dans sa totalité. De son côté, Le Figaro mentionne des dégradations visant le kiosque d'accueil et un départ de feu situé aux abords immédiats.\n\nLe montant des préjudices matériels n'est pas précisé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/une-antenne-de-l-office-de-tourisme-de-lyon-a-ete-saccagee-et-incendiee-en-marge-de-la-mobilisation-du-17-octobre_8241787.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/lyon/manifestations-du-17-octobre-a-lyon-les-images-de-l-office-de-tourisme-saccage-et-incendie-sur-la-place-bellecour-20261017"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/17/mobilisation-du-17-octobre-a-lyon-l-office-du-tourisme-incendie-au-cours-d-une-journee-chaotique_6796690_3224.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T13:08:53Z",
+   "suite_de": null,
+   "mots": 182,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-france-007",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Un incendie détruit la mairie de Limoges après une manifestation",
+   "chapeau": "Un incendie a ravagé l'hôtel de ville de Limoges samedi 17 octobre 2026. Le sinistre s'est déclenché à la suite de violences survenues en marge d'un rassemblement dans la commune.",
+   "corps": "Un cortège réunissant plusieurs milliers de participants a défilé dans la municipalité. Des heurts ont éclaté à la fin du trajet de la rassemblement. Des personnes masquées sont entrées dans le bâtiment municipal avant le départ du feu.\n\nLes flammes se sont propagées jusqu'à la couverture de l'édifice patrimonial mis en service en 1883. Les pompiers se sont déployés sur les lieux pour maîtriser le sinistre. La charpente s'est partiellement effondrée, entraînant la chute du clocher de l'établissement.\n\n## Ce que disent les sources\n\nSelon Wikipédia le 17 octobre 2026 à 16h00, l'événement s'inscrit dans le cadre de protestations étudiantes. Selon Franceinfo le 18 octobre 2026 à 03h07, l'attaque de l'édifice par des individus s'est produite lors de dégradations au terme de la journée de mobilisation.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_17?evenement=d3dbc9dc8e"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/la-mairie-de-limoges-ravagee-par-un-incendie_8242033.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/les-images-terribles-de-l-incendie-de-l-hotel-de-ville-de-limoges-en-marge-de-la-manifestation-du-17-octobre-20261017"
+    }
+   ],
+   "premiere_parution": "2026-10-17T12:00:00Z",
+   "suite_de": null,
+   "mots": 155,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump suspend les sanctions énergétiques contre la Russie et suscite des critiques",
+   "chapeau": "Le président des États-Unis a gelé temporairement l'application de sanctions sur les exportations d'énergie russe le 16 octobre 2026 à Washington. Cette initiative provoque de vives protestations à Kiev ainsi qu'au Congrès américain, tandis que le gouvernement fédéral annonce une période d'évaluation.",
+   "corps": "Le président américain Donald Trump a suspendu le 16 octobre 2026 l'application de sanctions énergétiques contre la Russie prévues par le Congrès.\n\nCette mesure a suscité une vive réaction du gouvernement ukrainien. Le président Volodymyr Zelensky a affirmé le 17 octobre 2026 que cette dispense représentait un avantage accordé à Vladimir Poutine. Selon lui, cette décision incite Moscou à poursuivre son offensive militaire en Ukraine. Volodymyr Zelensky a formulé ces critiques alors que l'armée russe menait des frappes contre des centrales électriques ukrainiennes pour priver les agglomérations d'électricité. Le dirigeant ukrainien a demandé le rétablissement de sanctions américaines strictes.\n\nAux États-Unis, la décision présidentielle a déclenché des condamnations au sein des deux principaux partis politiques. Des parlementaires républicains et démocrates ont affirmé que cette suspension réduisait le soutien américain à l'Ukraine. Plusieurs élus du camp républicain ont qualifié ce choix d'erreur qui favorise les efforts militaires russes. Des membres du Congrès ont également jugé l'initiative irresponsable. Ils rappellent que le texte visait à restreindre les exportations d'énergie de la Russie par des hausses tarifaires.\n\nFace aux critiques, Donald Trump a déclaré au Congrès que ce gel répondait aux intérêts de la sécurité nationale des États-Unis. Le chef de l'État n'a pas fourni de précisions supplémentaires sur ces motifs. Il a toutefois affirmé le 17 octobre 2026 qu'il n'avait pas encore arrêté sa position définitive sur ce dossier.\n\nLe secrétaire d'État Marco Rubio est intervenu pour tempérer la portée de l'exemption. Le responsable diplomatique a expliqué que Donald Trump souhaite disposer d'un délai maximal de 60 jours. Selon les déclarations rapportées le 18 octobre 2026 à 07 h 38 par The Hindu et à 07 h 40 par The Straits Times, cette période doit permettre aux autorités américaines d'examiner les conséquences économiques de la législation. Marco Rubio a indiqué que cette pause procure un allègement temporaire aux pays acheteurs de pétrole russe, comme l'Inde.\n\nCe choix s'inscrit dans un contexte économique interne précis. La mesure écarte temporairement des taxes douanières sur les acheteurs de carburant russe. Le gouvernement américain cherche à limiter les effets des prix de l'énergie sur le coût de la vie des ménages. Cette préoccupation précède les élections de mi-mandat prévues le 3 novembre 2026 aux États-Unis, après un accord mentionné le 11 octobre 2026 concernant des achats de gazole russe.\n\nLe texte exact de la dérogation signée par Donald Trump n'a pas été rendu public.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-us-kongressabgeordnete-verurteilen-trumps-aussetzung-von-neuen-russlandsanktionen-a-7933a7fd-09c5-4bf9-9329-a891e64e9ad7"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/solo-ayuda-rusia-zelenski-critica-suspension-sanciones-20261017194823-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-17/trump-s-russia-sanctions-waiver-called-mistake-by-key-gop-allies"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261017-pour-l-ukraine-trump-encourage-la-russie-de-continuer-%C3%A0-attaquer-en-levant-certaines-sanctions"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+    }
+   ],
+   "premiere_parution": "2026-10-17T00:00:00Z",
+   "suite_de": "2026-10-17-geopolitique-001",
+   "mots": 440,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Donald Trump suspends energy sanctions against Russia and sparks criticism",
+    "chapeau": "The President of the United States temporarily froze the application of sanctions on Russian energy exports on October 16, 2026, in Washington. This initiative is causing strong protests in Kyiv as well as in the US Congress, while the federal government announces an evaluation period.",
+    "corps": "US President Donald Trump suspended the application of energy sanctions against Russia planned by Congress on October 16, 2026.\n\nThis measure sparked a strong reaction from the Ukrainian government. President Volodymyr Zelensky stated on October 17, 2026, that this exemption represented an advantage granted to Vladimir Putin. According to him, this decision encourages Moscow to continue its military offensive in Ukraine. Volodymyr Zelensky formulated these criticisms while the Russian army was conducting strikes against Ukrainian power plants to deprive urban areas of electricity. The Ukrainian leader requested the reinstatement of strict US sanctions.\n\nIn the United States, the presidential decision triggered condemnations within both major political parties. Republican and Democratic lawmakers stated that this suspension reduced US support for Ukraine. Several elected officials from the Republican camp described this choice as a mistake that favors Russian military efforts. Members of Congress also deemed the initiative irresponsible. They recall that the text aimed to restrict Russia's energy exports through tariff increases.\n\nFaced with the criticism, Donald Trump told Congress that this freeze served the national security interests of the United States. The head of state did not provide further details on these motives. He did, however, state on October 17, 2026, that he had not yet finalized his position on this issue.\n\nSecretary of State Marco Rubio intervened to temper the scope of the exemption. The diplomatic official explained that Donald Trump wishes to have a maximum delay of 60 days. According to statements reported on October 18, 2026, at 07:38 by The Hindu and at 07:40 by The Straits Times, this period is intended to allow US authorities to examine the economic consequences of the legislation. Marco Rubio indicated that this pause provides temporary relief to countries that purchase Russian oil, such as India.\n\nThis choice fits into a specific domestic economic context. The measure temporarily removes customs duties on buyers of Russian fuel. The US government is seeking to limit the effects of energy prices on the cost of living for households. This concern precedes the midterm elections scheduled for November 3, 2026, in the United States, following an agreement mentioned on October 11, 2026, regarding purchases of Russian diesel.\n\nThe exact text of the waiver signed by Donald Trump has not been made public."
+   }
+  },
+  {
+   "id": "2026-10-18-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Un incendie sur une base militaire fait des victimes en Alberta",
+   "chapeau": "Un événement survenu sur la base militaire de Wainwright a causé des décès et un brasier en Alberta. Le gouvernement canadien et les autorités locales organisent les secours ce dimanche 18 octobre 2026.",
+   "corps": "Le ministre de la Défense du Canada, David McGuinty, a confirmé la présence de morts et de blessés lors d'une prise de parole samedi soir. Cet événement s'est déroulé sur le site d'entraînement de la base des Forces canadiennes de Wainwright. Cette installation militaire se situe à environ 210 kilomètres à l'est d'Edmonton, dans la province de l'Alberta.\n\nLe Premier ministre canadien, Mark Carney, a qualifié les faits d'incident grave sur son compte du réseau social X. Il a précisé que cet événement a déclenché des flammes de forte intensité sur les lieux. Le chef du gouvernement n'a pas fourni d'explications sur l'origine du sinistre.\n\nLes flammes se propagent en direction de la commune voisine sous l'effet de vents violents. La base touchée compte parmi les centres d'entraînement militaire les plus actifs du pays. La Gendarmerie royale du Canada de Wainwright a reçu un appel pour intervenir sur un départ de feu situé dans une zone d'exercice militaire.\n\nLes Forces armées canadiennes coordonnent les mesures d'urgence avec les services fédéraux, provinciaux et municipaux. L'événement intervient deux jours avant un vote consultatif relatif à la tenue d'un référendum sur l'indépendance de la province de l'Alberta.\n\nLe bilan précis du nombre de morts et de blessés ainsi que la cause du sinistre ne sont pas connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/serious-incident-at-canada-military-base-in-alberta-causes-major-fire-carney-says"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/major-fire-breaks-out-in-alberta-casualties-reported/article71599017.ece"
+    },
+    {
+     "nom": "deccanchronicle.com",
+     "url": "https://deccanchronicle.com/world/canada-military-base-fire-leaves-multiple-dead-and-injured-in-alberta-1996853"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+    },
+    {
+     "nom": "ketv.com",
+     "url": "https://ketv.com/article/fire-deadly-incident-at-canada-military-base/74168948"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/canada-des-morts-apres-un-incident-sur-une-base-militaire-20261018"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-18/un-incendio-en-una-base-militar-de-canada-en-alberta-causa-varios-muertos-y-heridos.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T12:00:00Z",
+   "suite_de": null,
+   "mots": 247,
+   "modele": "gemini-3.7-flash",
+   "en": {
+    "titre": "A fire at a military base causes casualties in Alberta",
+    "chapeau": "An event that occurred at the Wainwright military base has caused deaths and a blaze in Alberta. The Canadian government and local authorities are organizing relief efforts this Sunday, October 18, 2026.",
+    "corps": "Canada's Minister of Defence, David McGuinty, confirmed the presence of deaths and injuries during a speech on Saturday evening. This event took place at the training site of the Canadian Forces Base Wainwright. This military installation is located approximately 210 kilometers east of Edmonton, in the province of Alberta.\n\nCanadian Prime Minister Mark Carney described the events as a serious incident on his account on the social network X. He specified that this event triggered high-intensity flames at the scene. The head of government did not provide explanations regarding the origin of the blaze.\n\nThe flames are spreading toward the neighboring municipality under the effect of strong winds. The affected base is among the most active military training centers in the country. The Royal Canadian Mounted Police in Wainwright received a call to intervene in a fire outbreak located in a military exercise zone.\n\nThe Canadian Armed Forces are coordinating emergency measures with federal, provincial, and municipal services. The event comes two days before an advisory vote regarding the holding of a referendum on the independence of the province of Alberta.\n\nThe precise toll of the number of deaths and injuries as well as the cause of the blaze are not known."
+   }
+  },
+  {
+   "id": "2026-10-18-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Des colons israéliens ont attaqué des diplomates européens en Cisjordanie",
+   "chapeau": "Des colons israéliens masqués ont agressé une délégation européenne samedi 17 octobre 2026 dans le village palestinien de Taybeh, en Cisjordanie occupée. Le groupe visé réunissait des diplomates belges, français et polonais, un élu municipal français ainsi que des dignitaires catholiques.",
+   "corps": "L'incident s'est produit alors que des fermiers palestiniens réalisaient la récolte des olives. La délégation accompagnait des exploitants locaux au moment de l'assaut. Selon le quotidien Haaretz, le militant Amit Orfali a indiqué que sept personnes masquées et munies de bâtons ont bloqué les voitures, ont frappé la carrosserie et ont proféré des menaces de mort contre les occupants. Selon le quotidien The Guardian, trois personnes ont subi des blessures et un véhicule a subi des dégradations au cours de cette altercation survenue le 17 octobre 2026.\n\nLa délégation comptait notamment le consul général de Belgique à Jérusalem, ainsi que des représentants diplomatiques de la France et de la Pologne. Bernard Baudoux, maire français de la commune d'Aulnoye-Aymeries, figurait également parmi les personnes visées alors qu'il portait son écharpe officielle tricolore. L'archevêque de Cambrai et plusieurs représentants catholiques accompagnaient ce groupe au moment des faits.\n\nCette action a suscité des réactions officielles dans plusieurs capitales européennes. La France et la Belgique ont condamné cette agression. Le ministre belge des Affaires étrangères, Maxime Prévot, a déclaré que son gouvernement réclamera des sanctions auprès de l'Union européenne contre les auteurs de ces violences. La veille de cette attaque, des colons avaient également frappé un photographe américain sur le territoire de la Cisjordanie.\n\n## Ce que disent les sources\n\nSelon la BBC, l'armée israélienne a condamné les violences commises contre le groupe européen. Le bureau du Premier ministre israélien a qualifié pour sa part cet événement d'élément d'une campagne de dénigrement.\n\nL'identité des sept assaillants masqués et l'état de santé précis des trois blessés ne sont pas précisés par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/west-bank-israel-european-diplomats-settlers-89ebd068167669db357ad1fa4f3a8758"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/west-bank/2026-10-17/ty-article/.premium/settlers-attack-european-diplomats-during-palestinians-west-bank-olive-harvest/000001a1-49f0-d54e-adef-d9f0da3c0000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/west-bank-settlers-attack-palestinians-western-diplomats-belgium-says"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/masked-settlers-attack-european-diplomats-in-occupied-west-bank/article71597806.ece"
+    },
+    {
+     "nom": "kcci.com",
+     "url": "https://kcci.com/article/masked-settlers-attack-european-diplomats-in-the-occupied-west-bank/74167944"
+    }
+   ],
+   "premiere_parution": "2026-10-17T12:00:00Z",
+   "suite_de": null,
+   "mots": 309,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Israeli settlers attacked European diplomats in the West Bank",
+    "chapeau": "Masked Israeli settlers assaulted a European delegation on Saturday, October 17, 2026, in the Palestinian village of Taybeh, in the occupied West Bank. The targeted group included Belgian, French, and Polish diplomats, a French municipal official, as well as Catholic dignitaries.",
+    "corps": "The incident occurred while Palestinian farmers were harvesting olives. The delegation was accompanying local farmers at the time of the assault. According to the newspaper Haaretz, activist Amit Orfali indicated that seven masked people armed with sticks blocked the cars, struck the bodywork, and made death threats against the occupants. According to the newspaper The Guardian, three people sustained injuries and one vehicle suffered damage during this altercation, which occurred on October 17, 2026.\n\nThe delegation notably included the Belgian Consul General in Jerusalem, as well as diplomatic representatives from France and Poland. Bernard Baudoux, the French mayor of the town of Aulnoye-Aymeries, was also among those targeted while wearing his official tricolor sash. The Archbishop of Cambrai and several Catholic representatives were accompanying this group at the time of the events.\n\nThis action sparked official reactions in several European capitals. France and Belgium condemned this aggression. The Belgian Minister of Foreign Affairs, Maxime Prévot, declared that his government will demand sanctions from the European Union against the perpetrators of this violence. The day before this attack, settlers had also struck an American photographer in the West Bank territory.\n\n## What the sources say\n\nAccording to the BBC, the Israeli army condemned the violence committed against the European group. The office of the Israeli Prime Minister, for its part, described this event as part of a smear campaign.\n\nThe identity of the seven masked assailants and the precise health status of the three injured individuals are not specified by the available sources."
+   }
+  },
+  {
+   "id": "2026-10-18-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump annule la diffusion en direct de l'exécution de Nidal Hasan",
+   "chapeau": "Le président Donald Trump a annulé la diffusion en ligne de la mise à mort de Nidal Hasan à Washington. Cette annonce est intervenue le jeudi 15 octobre 2026 après de nombreuses critiques politiques et publiques.",
+   "corps": "Donald Trump a autorisé les familles des treize victimes de la fusillade de 2009 à assister en personne au peloton d'exécution prévu le 3 décembre 2026.\n\nLe secrétaire à la Défense Pete Hegseth avait préparé un projet pour retransmettre l'événement sur internet. Donald Trump a finalement rejeté cette initiative. Le président américain a expliqué que beaucoup de personnes bien intentionnées préféraient ne pas assister à cette mort. Selon la chaîne BBC News, cette procédure constitue la première exécution militaire américaine depuis plus de soixante ans.\n\nLe projet initial a suscité des réactions négatives au sein de la classe politique américaine. Des membres des partis démocrate et républicain ont rejeté l'idée d'une diffusion publique. La sénatrice démocrate Elissa Slotkin a qualifié ce projet de malsain. Le sénateur républicain John Curtis a affirmé que cette retransmission ne représentait pas un moyen de dissuasion efficace. Le vice-président JD Vance avait aussi exprimé des réserves sur cette mesure.\n\nL'opinion publique a également rejeté cette proposition du Pentagone. Selon un sondage diffusé le 15 octobre 2026 par le site Ars Technica, huit Américains sur dix s'opposaient à la diffusion en direct de la mise à mort par un peloton d'exécution.\n\nLe projet de diffusion en continu avait pourtant reçu des soutiens dans certains cercles religieux. Des dirigeants de l'église CREC, proches de Pete Hegseth, défendent la peine capitale. Le responsable de cette église a déclaré qu'il préférait les exécutions publiques aux actes privés. Le Pentagone a toutefois affirmé le 16 octobre 2026 que Donald Trump et Pete Hegseth étaient en parfait accord sur l'abandon de la retransmission.\n\nL'assaillant Nidal Malik Hasan a tué treize soldats et blessé trente-deux personnes lors de l'attaque de la base texane en 2009. Les proches des victimes pourront se rendre sur les lieux pour voir la sentence s'appliquer. Donald Trump a affirmé que ces familles méritaient d'assister à ce moment de justice.\n\nLes sources ne précisent pas la méthode retenue pour sélectionner les membres des familles autorisés à faire le déplacement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-hinrichtung-von-attentaeter-soll-doch-nicht-live-uebertragen-werden-a-2e19c96d-d723-4baa-85bd-ac4c0ed6ebd6"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261015-trump-scraps-plan-to-livestream-execution-after-broad-backlash"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crx23qlnj27qo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-descarta-finalmente-retransmitir-directo-ejecucion-autor-20261015162715-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-15T14:27:35Z",
+   "suite_de": "2026-10-17-geopolitique-005",
+   "mots": 367,
+   "modele": "gemini-3.8-flash",
+   "en": {
+    "titre": "Donald Trump cancels live broadcast of Nidal Hasan's execution",
+    "chapeau": "President Donald Trump has canceled the online broadcast of Nidal Hasan's execution in Washington. This announcement came on Thursday, October 15, 2026, following numerous political and public criticisms.",
+    "corps": "Donald Trump has authorized the families of the thirteen victims of the 2009 shooting to attend the firing squad execution scheduled for December 3, 2026, in person.\n\nSecretary of Defense Pete Hegseth had prepared a plan to broadcast the event on the internet. Donald Trump ultimately rejected this initiative. The American president explained that many well-intentioned people preferred not to witness this death. According to the BBC News channel, this procedure constitutes the first American military execution in over sixty years.\n\nThe initial plan sparked negative reactions within the American political class. Members of both the Democratic and Republican parties rejected the idea of a public broadcast. Democratic Senator Elissa Slotkin described this plan as unhealthy. Republican Senator John Curtis stated that this broadcast did not represent an effective deterrent. Vice President JD Vance had also expressed reservations about this measure.\n\nPublic opinion also rejected this proposal from the Pentagon. According to a poll released on October 15, 2026, by the site Ars Technica, eight out of ten Americans opposed the live broadcast of the execution by firing squad.\n\nThe streaming project had, however, received support in certain religious circles. Leaders of the CREC church, close to Pete Hegseth, defend capital punishment. The head of this church stated that he preferred public executions to private acts. The Pentagon, however, stated on October 16, 2026, that Donald Trump and Pete Hegseth were in perfect agreement on abandoning the broadcast.\n\nThe assailant Nidal Malik Hasan killed thirteen soldiers and wounded thirty-two people during the attack on the Texas base in 2009. The victims' relatives will be able to travel to the site to see the sentence carried out. Donald Trump stated that these families deserved to witness this moment of justice.\n\nThe sources do not specify the method used to select the family members authorized to make the trip."
+   }
+  },
+  {
+   "id": "2026-10-18-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump critique la reprise des frappes ukrainiennes contre les raffineries russes",
+   "chapeau": "Le président des États-Unis Donald Trump a qualifié de honte la reprise des frappes ukrainiennes visant les raffineries de pétrole en Russie le vendredi 16 octobre 2026. Cette tension diplomatique survient après l'échec d'une initiative de trêve énergétique entre Kiev et Moscou le jeudi 15 octobre 2026.",
+   "corps": "Le président américain Donald Trump a réagi à la décision de l'Ukraine de relancer ses attaques ciblées contre les infrastructures pétrolières russes. Le chef de l'État américain a déclaré le vendredi 16 octobre 2026 que la reprise de ces opérations militaires constitue une honte. Il a ajouté que le président ukrainien Volodymyr Zelensky s'avère plus difficile à traiter que le président russe Vladimir Poutine. Donald Trump a également attribué l'augmentation récente des prix du carburant aux frappes menées par les forces ukrainiennes sur les installations énergétiques situées en territoire russe.\n\nPour la première fois depuis le début des hostilités, le gouvernement russe a choisi d'exposer publiquement les impacts subis par son appareil industriel. Les médias d'État russes ont retransmis le vendredi 16 octobre 2026 des images montrant les conséquences d'un tir de drone ukrainien contre une importante raffinerie située au sud-est de Moscou. Cette diffusion d'images rompt avec la politique habituelle des autorités russes, qui taisaient jusqu'alors les dégâts occasionnés par les attaques adverses sur leur territoire. Dans le même temps, l'armée russe a lancé un grand nombre de drones contre des infrastructures du centre de l'Ukraine pendant la nuit du jeudi 15 au vendredi 16 octobre 2026.\n\nLe président Volodymyr Zelensky a justifié la relance des opérations de son armée par le fait que la Russie n'a pas respecté la pause proposée par la diplomatie américaine. Selon le chef d'État ukrainien, Moscou a poursuivi ses frappes contre le réseau énergétique ukrainien malgré l'annonce d'une trêve. Volodymyr Zelensky a déclaré le dimanche 18 octobre 2026 que son pays perdait un partenaire solide avec les États-Unis. Le président ukrainien a souligné qu'il est douloureux de voir le président américain choisir un camp au lieu de conserver une position de neutralité au milieu des deux belligérants.\n\nLes opérations ukrainiennes contre les installations pétrolières russes avaient repris le jeudi 15 octobre 2026 après l'échec d'une proposition de trêve poussée par le gouvernement américain.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqwyrnwd9dw1o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-talks-up-refinery-attack-as-trump-blames-ukraine-for-expensive-fuel"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/trump-slams-ukraine-decision-resume-energy-strikes-russia-disgrace"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-15T14:51:00Z",
+   "suite_de": "2026-10-17-geopolitique-004",
+   "mots": 367,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-geopolitique-006",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "De nouvelles explosions surviennent près du palais présidentiel à Aden",
+   "chapeau": "Des explosions survenues près du palais présidentiel d'Aden au Yémen ont fait au moins deux morts et six blessés le dimanche 18 octobre 2026. Les rebelles houthistes ont revendiqué cette action en affirmant avoir ciblé un centre d'opérations militaires lié aux forces saoudiennes.",
+   "corps": "Cette nouvelle frappe fait suite aux tirs de missiles menés le jeudi 15 octobre 2026 par les insurgés contre le complexe d'Al-Maashiq à Aden, le siège provisoire des autorités yéménites.\n\nLe Premier ministre Shaya Mohsin Zindani et les membres du gouvernement présent sur place n'ont pas été touchés lors de l'attaque du jeudi 15 octobre 2026, selon Le Monde et The Straits Times à cette même date. L'exécutif s'est installé à Aden en 2015 après son expulsion de la capitale Sanaa par les forces rebelles, comme l'a rapporté Le Monde le 15 octobre 2026. Aden représente le principal bastion gouvernemental et le port d'acheminement des vivres essentiels pour le sud du pays, selon La Croix le 16 octobre 2026.\n\nEn réponse à ces offensives, la coalition sous commandement saoudien a mené un raid contre une installation pétrolière située près de Sanaa, d'après France 24 le 16 octobre 2026. L'Arabie saoudite impute la responsabilité de l'escalade militaire à l'Iran, accusé d'armer la rébellion. Selon les données de la coalition saoudienne diffusées par Haaretz le 16 octobre 2026, les houthistes ont dirigé 20 attaques contre l'aéroport de Riyad au cours du mois d'octobre 2026, entraînant 17 décès et 333 blessés. Le canal de la Deutsche Welle signalait également le 15 octobre 2026 des tirs ciblant des navires à proximité du détroit d'Hormuz.\n\nSur le terrain intérieur yéménite, des affrontements soutenus se poursuivent autour de la ville de Taëz, où l'émergence de pénuries pèse sur la population civile, selon France 24 le 16 octobre 2026. D'après des informations publiées par La Croix le 15 octobre 2026, les États-Unis envisagent d'employer la munition conventionnelle la plus puissante de leur arsenal contre le territoire iranien.\n\n## Ce que disent les sources\n\nConcernant les victimes du premier bombardement sur le palais d'Al-Maashiq le jeudi 15 octobre 2026, la BBC et The Guardian attribuent au ministre de l'Information yéménite un bilan de 5 personnes tuées le 16 octobre 2026. Le Monde a fait état d'au moins 5 morts le 15 octobre 2026, tandis que La Croix et France 24 ont dénombré au moins 4 morts les 15 et 16 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/houthis-attack-presidential-palace-complex-in-yemens-aden-pm-unharmed-officials-say"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/15/au-yemen-une-attaque-des-houthistes-sur-le-siege-du-gouvernement-a-aden-fait-au-moins-quatre-morts_6794622_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/houthis-bombardeiam-palacio-de-governo-do-iemen-premie-nao-se-feriu.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/direct-guerre-iran-israel-usa-jour-115-moyen-orient-bilan-resume-aujourdhui-20261015"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm62y6lp73zdo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261016-y%C3%A9men-les-houthis-intensifient-leurs-attaques-contre-le-gouvernement"
+    }
+   ],
+   "premiere_parution": "2026-10-15T14:46:02Z",
+   "suite_de": "2026-10-17-geopolitique-003",
+   "mots": 396,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-economie-001",
+   "rubrique": "economie",
+   "format": "standard",
+   "titre": "Inde : le fondateur du mouvement de contestation Blatte a été libéré",
+   "chapeau": "Le fondateur du mouvement politique de jeunesse appelé Cockroach Janata Party, Abhijeet Dipke, a été libéré de sa garde à vue le samedi 17 octobre 2026 à Nouvelle-Delhi. Les forces de l'ordre avaient arrêté ce responsable le jour précédent au cours de manifestations liées aux listes électorales en Inde.",
+   "corps": "L'interpellation du chef du mouvement des Blattes est intervenue le vendredi 16 octobre 2026. Les policiers ont agi pendant une opération visant des rassemblements publics organisés contre l'autorité électorale nationale. Les militants manifestent actuellement contre le projet de révision des registres électoraux, un sujet qui crée des frictions politiques dans l'ensemble du pays.\n\nSelon le responsable des services juridiques de cette formation politique, la libération du dirigeant a été validée samedi après-midi. Cet élargissement est assorti de contraintes imposées au chef du parti politique, qu'il a accepté de respecter. Abhijeet Dipke demeure toutefois soumis à une procédure judiciaire et devra comparaître prochainement devant un juge compétent.\n\nLa présence policière a été renforcée dans la ville de Nouvelle-Delhi à la suite de ces événements. Des barrières de sécurité ont été installées par la police dans plusieurs secteurs stratégiques de la capitale. Les autorités cherchent ainsi à prévenir de nouveaux débordements et à maintenir le contrôle de la situation sécuritaire face à la progression du mouvement de contestation.\n\nDeux autres dirigeants de l'organisation politique Cockroach Janata Party doivent également quitter leur lieu de détention le dimanche 18 octobre 2026. L'information a été transmise par le responsable des affaires juridiques du groupe. Ces cadres avaient été écroués par la police dans le cadre des mêmes opérations sécuritaires liées aux tensions électorales.\n\n## Ce que disent les sources\n\nLa chaîne de télévision citée par le journal singapourien The Straits Times le 17 octobre 2026 explique que l'arrestation visait spécifiquement à empêcher des ruptures de l'ordre public. Le média allemand Deutsche Welle précise le 17 octobre 2026 que le fondateur a consenti à des conditions spécifiques négociées pour sa sortie. L'agence américaine Bloomberg indique le 17 octobre 2026 que l'affaire touche au travail de révision des listes d'électeurs en Inde.\n\nLes détails des exigences imposées au dirigeant ainsi que la date exacte de sa comparution au tribunal restent inconnus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/south-asia/indias-cockroach-movement-founder-arrested-media-reports-say"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261017-cockroach-party-founder-released-from-indian-police-custody"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-17T02:30:31Z",
+   "suite_de": null,
+   "mots": 362,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-economie-002",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Des violences et des pillages marquent les manifestations à Paris et Bordeaux",
+   "chapeau": "Des dégradations ont touché Paris et Bordeaux le samedi 17 octobre 2026 lors de manifestations. Des commerces ont subi des pillages et des destructions.",
+   "corps": "A Paris, le cortège de la manifestation a précédé des saccages de magasins situés autour de la place de la République, le samedi 17 octobre 2026 selon Le Monde. Le maire, Emmanuel Grégoire, a qualifié le bilan des dégâts d'ampleur immense, selon franceinfo du 17 octobre 2026 à 22:02. Il a indiqué sa mobilisation pour le nettoyage et la réparation des rues. Des individus ont filmé les pillages des commerces.\n\nA Bordeaux, les manifestations du samedi 17 octobre 2026 ont également donné lieu à des pillages et des dégradations imputés à des groupes violents selon Le Figaro du 18 octobre 2026 à 01:35. Le maire, Thomas Cazenave, a condamné ces actes. Un commerçant a évalué ses pertes à mille euros ce même samedi 17 octobre 2026.\n\nCertains éléments chiffrés manquent dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/video-des-rues-methodiquement-ravagees-a-paris-le-bilan-des-violences-en-marge-des-manifestations-est-d-ampleur-immense-deplore-le-maire_8242045.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/bordeaux/j-en-ai-pour-1000-euros-a-bordeaux-les-manifestations-du-17-octobre-ont-rapidement-vire-en-pillages-et-en-saccages-20261017"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/18/a-paris-place-de-la-republique-des-commerces-en-lambeaux-apres-les-violences-et-les-pillages-les-gens-se-filmaient-c-etait-le-grand-defouloir_6797039_3224.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T18:02:04Z",
+   "suite_de": null,
+   "mots": 160,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-economie-003",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Des lycéens manifestent en France pour demander la suppression de Parcoursup",
+   "chapeau": "Des lycéens manifestent en France le 17 octobre 2026 pour réclamer la suppression de la plateforme d'orientation post-bac. Cette mobilisation intervient alors que le monde politique débat de l'avenir de cet outil.",
+   "corps": "De jeunes lycéens organisent des manifestations en France pour exiger la disparition ou la transformation de Parcoursup, la plateforme numérique permettant de choisir son orientation universitaire [1]. Selon France 24 du 17 octobre 2026, les élèves considèrent cet outil comme difficile à vivre [1].\n\nParallèlement, la question de l'orientation post-bac suscite des débats politiques. Jean-Luc Mélenchon demande la suppression de cette plateforme ainsi que la création de 150 000 places supplémentaires dans l'enseignement supérieur, d'après Le Figaro du 17 octobre 2026 [2]. Cette proposition vise à stopper la sélection des nouveaux bacheliers lors de leur entrée dans les universités [2].\n\nCertains éléments précis manquent pour évaluer l'ampleur exacte des manifestations sur l'ensemble du territoire français.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261016-manifestations-lyc%C3%A9ennes-faut-il-supprimer-parcoursup"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/peut-on-abolir-parcoursup-et-ouvrir-150-000-places-dans-les-universites-comme-le-souhaite-jean-luc-melenchon-20261017"
+    }
+   ],
+   "premiere_parution": "2026-10-16T21:31:27Z",
+   "suite_de": null,
+   "mots": 147,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-economie-004",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Des violences marquent les manifestations lycéennes et étudiantes du 17 octobre",
+   "chapeau": "Des organisations lycéennes et étudiantes ont organisé des rassemblements le 17 octobre 2026 dans les grandes villes françaises. Ces mouvements ont entraîné des heurts et des pillages.",
+   "corps": "Des manifestations parties des réseaux sociaux se sont déroulées le samedi 17 octobre 2026. Des cortèges ont connu des actes de violence et des pillages près des lieux de pouvoir, selon La Croix du 17 octobre 2026 à 22 h 31. Les autorités ont condamné ces incidents et promis de juger les auteurs.\n\nLe personnel politique a réagi à ces débordements. Le Premier ministre a qualifié les faits de tour de chauffe attribué à la gauche radicale, d'après Libération le 17 octobre 2026 à 22 h 55. La droite, la gauche et le gouvernement ont débattu sur la qualification des violences.\n\nDes interrogations sont apparues concernant le profil des auteurs des dégradations et la sécurité des cortèges. Des participants n'ont pas pu rejoindre les rassemblements prévus ce samedi 17 octobre 2026, selon franceinfo du 18 octobre 2026 à 01 h 04.\n\nCertains éléments manquent pour connaître le nombre exact de participants et d'interpellations lors de cette journée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/manifestation-du-17-octobre-appels-corteges-suivez-la-journee-de-mobilisation-20261017"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/mouvement-du-17-octobre-violences-anti-flic-ou-violences-policieres-les-politiques-reagissent-20261017_ASWMKRDUJBCCDOOUZFWXYZJG6I"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/mobilisation-du-17-octobre-quel-est-le-profil-des-casseurs_8242069.html"
+    }
+   ],
+   "premiere_parution": "2026-10-17T18:31:22Z",
+   "suite_de": null,
+   "mots": 184,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Tesla présente le nouveau prototype du Roadster électrique capable de voler",
+   "chapeau": "Elon Musk a dévoilé le prototype de la voiture électrique Tesla Roadster lors d'un événement au Texas le jeudi 15 octobre 2026. Le véhicule équipé de propulseurs a effectué des manoeuvres aériennes devant le public.",
+   "corps": "Le constructeur automobile Tesla a présenté une nouvelle version sportive à deux places de son modèle Roadster. Le véhicule a été développé avec l'entreprise aéronautique SpaceX. Lors de la démonstration sur un site d'essai au Texas, la voiture a utilisé des propulseurs à air pour s'élancer sur une rampe, effectuer une rotation dans les airs et atterrir.\n\nSelon Elon Musk, le véhicule utilise des propulseurs d'altitude et des propulseurs principaux situés à l'arrière. Le modèle peut atteindre la vitesse de 96,5 kilomètres par heure en moins d'une seconde. Sa vitesse maximale dépasse 370 kilomètres par heure, selon des informations publiées par The Straits Times le 16 octobre 2026.\n\nPour réserver ce véhicule, la réservation nécessite jusqu'à 250mila dollars sans prix final garanti, d'après Corriere della Sera le 16 octobre 2026. L'autorité américaine des transports s'est exprimée sur la question des homologations nécessaires avant un lancement de la production, d'après Der Spiegel le 17 octobre 2026. Les livraisons du véhicule sont prévues pour l'année 2028.\n\nLe prix final exact du véhicule n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tesla-unveils-next-generation-roadster-sports-ev-with-spacex-thrusters"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/motori/26_ottobre_16/tesla-roadster-elon-musk-presenta-la-prima-auto-volante-con-i-razzi-di-spacex-a2050fc4-6872-4bfc-9573-3c6c78dd1xlk.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/automobile/tesla-roadster-elle-vole-elle-roule-elle-bondit-on-vous-raconte-la-folle-presentation-de-la-voiture-de-sport-d-elon-musk-20261016"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/motor/musk-presenta-nuevo-tesla-roadster-coche-puede-20261016091043-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/ckly4mj1g3n9o"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/musk-apresenta-carro-voador-da-tesla-e-que-atinge-96-kmh-em-um-segundo-veja-video.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-16T02:31:13Z",
+   "suite_de": null,
+   "mots": 212,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-tech-002",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "La Chine projette d'encadrer l'exportation de ses technologies avancées",
+   "chapeau": "Le gouvernement chinois a publié un projet de réglementation visant à restreindre les ventes à l'étranger de ses innovations technologiques. Ce texte a été présenté à Pékin au milieu du mois d'octobre 2026.",
+   "corps": "La proposition chinoise porte sur la révision des règles d'exportation de plusieurs secteurs industriels. Le gouvernement envisage d'inclure l'intelligence artificielle, la pharmacie et l'énergie solaire dans sa liste de surveillance.\n\nLe document officiel, nommé Annonce numéro 48, détaille la portée des mesures envisagées. Le texte prévoit d'interdire totalement l'exportation de 14 technologies et d'appliquer des restrictions à 26 autres. Les limitations concernent les modèles d'intelligence artificielle, la conception de puces informatiques ainsi que les équipements solaires de nouvelle génération. Cette décision marque un changement de stratégie pour la Chine, qui promouvait auparavant une diffusion plus large de ses systèmes informatiques.\n\n## Ce que disent les sources\n\nLes publications ne s'accordent pas toutes sur l'ensemble des secteurs visés par le projet chinois. Nikkei Asia et The Hindu indiquent que les mesures touchent l'intelligence artificielle, la biotechnologie ou pharmacie, et la technologie solaire. De leur côté, Bloomberg, Le Monde et le Financial Times centrent leurs informations sur l'intelligence artificielle, l'architecture des semi-conducteurs et les agents logiciels.\n\nLe projet n'a pas encore été adopté définitivement et le calendrier de mise en application n'est pas précisé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/10/17/la-chine-veut-controler-la-sortie-de-ses-ia-a-l-etranger_6796167_3234.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-16T08:46:44Z",
+   "suite_de": null,
+   "mots": 214,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-tech-003",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Anthropic propose un projet de loi américain pour encadrer l'intelligence artificielle",
+   "chapeau": "La société Anthropic a transmis aux parlementaires américains une proposition de loi afin de réguler la sécurité des modèles d'intelligence artificielle. Ce texte vise à encadrer les risques majeurs liés à cette technologie aux États-Unis.",
+   "corps": "L'entreprise à l'origine du programme Claude a soumis un texte législatif au Congrès américain. Le document définit un cadre d'intervention pour les autorités fédérales face aux systèmes informatiques avancés.\n\nSelon ce projet, l'administration fédérale pourrait suspendre le lancement d'un modèle en cas de danger imminente. L'action gouvernementale nécessiterait au préalable la validation d'un magistrat.\n\nLe texte fixe des seuils d'intervention spécifiques. Bloquer la sortie d'un programme exigerait un risque de cinquante morts ou blessures graves, ou des dégâts matériels dépassant un milliard de dollars selon Bloomberg, The Hindu, Le Figaro et thenews.com.pk le 17 octobre 2026.\n\nDes données précises concernant le calendrier d'examen de cette proposition par les élus restent non précisées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/anthropic-proposes-law-regulating-ai-to-us-lawmakers/article71595557.ece"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/anthropic-propose-une-loi-sur-l-ia-qui-confierait-a-un-juge-le-dernier-mot-20261017"
+    },
+    {
+     "nom": "thenews.com.pk",
+     "url": "https://thenews.com.pk/latest/1420281-what-anthropics-draft-ai-bill-would-let-washington-block"
+    }
+   ],
+   "premiere_parution": "2026-10-16T22:25:33Z",
+   "suite_de": null,
+   "mots": 149,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-tech-004",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Un ancien conseiller de sécurité exhorte le gouvernement à prévenir du danger russe",
+   "chapeau": "Lord Peter Ricketts demande aux ministres britanniques d'informer la population sur le danger russe. Cette mise en garde intervient le 17 octobre 2026 au Royaume-Uni.",
+   "corps": "Lord Peter Ricketts a déclaré le 17 octobre 2026 (The Guardian, BBC News) que les ministres doivent faire preuve de transparence envers le public britannique concernant le danger immédiat émanant de la Russie. Selon lui, cette situation pourrait bientôt provoquer des pertes humaines.\n\nL'ancien conseiller à la sécurité nationale a prévenu le 17 octobre 2026 (The Guardian, BBC News) contre l'ampleur des agressions hybrides menées par les forces de Vladimir Putin. Il suggère d'accroître les investissements pour renforcer la solidité des réseaux bancaires, énergétiques, des transports, du contrôle du trafic aérien et des installations de défense contre les cyberattaques, d'après les informations du 17 octobre 2026 (The Guardian, BBC News).\n\nCertains détails importants manquent dans les sources fournies concernant les mesures budgétaires précises.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "echo-news.co.uk",
+     "url": "https://echo-news.co.uk/news/national/26645777.ex-national-security-adviser-issues-warning-amid-fraying-us-ukraine-relationship"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmze4y9rjepro"
+    }
+   ],
+   "premiere_parution": "2026-10-17T07:45:00Z",
+   "suite_de": null,
+   "mots": 148,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sciences-001",
+   "rubrique": "sciences",
+   "format": "breve",
+   "titre": "Une secheresse severe touche une partie du sud de l Angleterre",
+   "chapeau": "Les autorites ont officialise une secheresse severe dans le sud de l Angleterre le 15 octobre 2026. Trente millions de personnes subissent des interdictions d arrosage a cette meme date.",
+   "corps": "Le niveau des reservoirs baisse suite a un ete chaud et a un manque de precipitation en septembre, selon la BBC News du 15 octobre 2026. Un ministre demande d economiser l eau car la secheresse devient habituelle le 16 octobre 2026.\n\n## Ce que disent les sources\n\nLa BBC News indique le 15 octobre 2026 des zones de secheresse severe dans le sud de l Angleterre et des interdictions d arrosage pour trente millions de personnes. The Hindu mentionne le 18 octobre 2026 une secheresse severe dans des parties du Royaume Uni liee a un manque de pluie depuis 1836 et un ete tres chaud en 2026.\n\nCertaines donnees sur l etat precis des nappes phreatiques manquent.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crk661074ejo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/severe-drought-declared-in-parts-of-united-kingdom/article71588927.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-15T15:42:37Z",
+   "suite_de": null,
+   "mots": 147,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sciences-002",
+   "rubrique": "sciences",
+   "format": "breve",
+   "titre": "La rougeole progresse aux États-Unis et à Kozhikode en Inde",
+   "chapeau": "Les autorités sanitaires américaines et indiennes font face à une recrudescence de la rougeole en octobre 2026. Cette situation sanitaire fait suite aux signalements de cas recensés dans ces deux pays le mois précédent.",
+   "corps": "Aux États-Unis, les Centres pour le contrôle et la prévention des maladies (CDC) comptabilisent 4 410 cas de rougeole au 16 octobre 2026. L'agence fédérale rapporte également 451 hospitalisations sur l'ensemble du territoire national. En réponse, les responsables de santé publique intensifient les campagnes de vaccination.\n\nÀ Kozhikode, en Inde, les autorités locales confirment 161 cas de rougeole et un décès au 17 octobre 2026. Les services publics prévoient de renforcer les mesures de prévention et d'élargir la couverture vaccinale avec le soutien d'autres départements gouvernementaux dans les prochains jours.\n\nCertaines informations sur la répartition géographique précise des cas aux États-Unis manquent.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/national/kerala/161-confirmed-measles-cases-one-death-reported-in-kozhikode/article71584496.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-16T17:40:18Z",
+   "suite_de": "2026-10-17-sciences-002",
+   "mots": 136,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sciences-003",
+   "rubrique": "sciences",
+   "format": "breve",
+   "titre": "L'administration Trump facilite l'accès à des médicaments peptidiques non validés",
+   "chapeau": "L'administration américaine prévoit d'élargir l'accès à une catégorie de médicaments injectables appelés peptides. Ces substances, soutenues par Robert F. Kennedy Jr., n'ont pas encore fait l'objet de preuves scientifiques sur leur efficacité.",
+   "corps": "Les autorités sanitaires fédérales avancent sur un projet visant à assouplir les règles concernant les peptides. Ces composés, constitués de chaînes d'acides aminés, sont utilisés comme traitements injectables.\n\n## Ce que disent les sources\n\nSelon Ars Technica, le 16 octobre 2026, des scientifiques de la FDA ont déclaré qu'aucun de ces médicaments populaires n'a prouvé son innocuité ou son efficacité. À l'inverse, The Hindu rapporte le 18 octobre 2026 que les responsables de la santé fédéraux progressent dans la mise en œuvre de ce plan d'élargissement de l'accès aux peptides.\n\nLe détail des procédures réglementaires spécifiques envisagées par l'administration pour contourner les validations habituelles manque à ce jour.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/health/trump-administration-advances-plan-for-peptide-drugs-favoured-by-rfk-jr/article71592151.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-16T17:05:59Z",
+   "suite_de": null,
+   "mots": 139,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sciences-004",
+   "rubrique": "sciences",
+   "format": "breve",
+   "titre": "Deux journaux internationaux publient des dessins humoristiques sur des thèmes scientifiques",
+   "chapeau": "Les quotidiens Haaretz et The Hindu ont diffusé des illustrations satiriques au cours de la semaine du 16 octobre 2026. Ces publications proposent une approche graphique de sujets liés à la science et à l'anatomie.",
+   "corps": "Le journal israélien Haaretz a mis en ligne un dessin quotidien le 16 octobre 2026. Cette publication s'inscrit dans la ligne éditoriale habituelle du média concernant ses contenus graphiques. Le dessin ne traite pas d'une actualité scientifique précise mais propose une illustration humoristique.\n\nLe journal indien The Hindu a également proposé un contenu similaire le 18 octobre 2026. Ce dessin porte le titre \"Humerus\". Ce terme désigne l'os principal du bras humain. L'illustration utilise ce jeu de mots pour aborder le domaine médical ou biologique sous un angle léger.\n\nCes deux publications illustrent une pratique journalistique consistant à intégrer des dessins de presse dans les sections dédiées à la science ou à l'opinion. Les rédactions choisissent ces formats pour varier la présentation de l'information auprès de leurs lecteurs. Les détails sur le contenu visuel précis des dessins ne sont pas disponibles dans les sources fournies.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/opinion/daily-cartoon/2026-10-15/ty-article-opinion/daily-cartoon-october-16-2026/000001a1-4151-ddcc-a3fd-cb7976ac0000"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/health/science-cartoon-humerus/article71591165.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-15T20:51:00Z",
+   "suite_de": null,
+   "mots": 180,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sante-001",
+   "rubrique": "sante",
+   "format": "breve",
+   "titre": "Le débat sur les risques biologiques liés à l'intelligence artificielle progresse",
+   "chapeau": "Des experts internationaux discutent actuellement de la menace que représente l'intelligence artificielle pour la sécurité biologique mondiale. Ce sujet fait l'objet d'analyses divergentes au sein de la communauté scientifique en octobre 2026.",
+   "corps": "La question du bioterrorisme, défini comme l'utilisation délibérée de virus ou bactéries, reste un sujet de préoccupation. Le BMJ souligne, le 16 octobre 2026, que certains pays contournent les traités internationaux interdisant les armes biologiques. Les spécialistes ne s'accordent pas sur le rôle de l'intelligence artificielle dans l'aggravation de ces risques.\n\n## Ce que disent les sources\n\nLe BMJ rapporte, le 16 octobre 2026, que les experts se divisent en trois groupes distincts concernant la gravité de la menace, certains évoquant un risque existentiel. De son côté, le journal Folha de S.Paulo affirme, le 18 octobre 2026, que l'intelligence artificielle est déjà utilisée dans des contextes de guerre réels, dépassant le stade des simples débats théoriques.\n\nLe détail des arguments techniques soutenant ces positions n'est pas précisé dans les sources disponibles.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "The BMJ",
+     "url": "https://bmj.com/content/395/bmj-2026-101161.short"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/enquanto-mundo-debate-os-riscos-ia-ja-foi-a-guerra.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-16T12:31:18Z",
+   "suite_de": null,
+   "mots": 163,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sante-002",
+   "rubrique": "sante",
+   "format": "breve",
+   "titre": "La station de métro de Sol rouvre après deux jours de fermeture",
+   "chapeau": "La station de métro de Sol, située à Madrid, a rouvert ses portes ce dimanche 18 octobre 2026. Cette réouverture intervient après deux jours de fermeture ordonnée par la présidente de la Communauté de Madrid, Isabel Díaz Ayuso, pour des opérations de nettoyage.",
+   "corps": "La fermeture de la station avait été décidée le 16 octobre 2026 à la suite d'une occupation prolongée de la place de la Puerta del Sol (ABC, 16/10/2026). Les autorités régionales ont justifié cette mesure par la nécessité de réaliser des travaux d'assainissement urgents (ABC, 17/10/2026).\n\nLes équipes de nettoyage ont terminé leurs interventions le samedi 17 octobre 2026 à 2 heures du matin (ABC, 18/10/2026). La Communauté de Madrid a maintenu l'accès fermé le temps d'obtenir des garanties sur les conditions de sécurité et de santé publique (ABC, 18/10/2026). Des mesures techniques ont été effectuées tout au long de la journée de samedi (ABC, 18/10/2026).\n\n## Ce que disent les sources\n\nLa présidente de la Communauté de Madrid, Isabel Díaz Ayuso, a affirmé que la saleté du campement menaçait la sécurité des travailleurs (El País, 16/10/2026). À l'inverse, les syndicats du métro et la compagnie ferroviaire Renfe ont contesté cette version des faits (El País, 16/10/2026).\n\nLes résultats précis des analyses sanitaires menées avant la réouverture ne sont pas mentionnés dans les sources.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/espana/madrid/2026-10-16/ayuso-cierra-la-estacion-de-metro-sol-para-realizar-tareas-de-limpieza-hay-condiciones-de-insalubridad-dentro.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/espana/madrid/ayuso-afirma-sol-impera-ley-selva-paz-20261016102414-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-16T08:57:12Z",
+   "suite_de": "2026-10-17-sante-002",
+   "mots": 230,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sante-003",
+   "rubrique": "sante",
+   "format": "breve",
+   "titre": "Quinze employés du système de santé britannique licenciés pour accès illégal",
+   "chapeau": "Le Nottingham University Hospitals NHS Trust a licencié quinze membres de son personnel à Nottingham. Ces employés ont consulté sans autorisation les dossiers médicaux des victimes de l'agression commise par Valdo Calocane en 2023.",
+   "corps": "La direction de l'établissement hospitalier a confirmé le renvoi de ces quinze professionnels de santé. Ces individus ont accédé aux données confidentielles concernant les trois personnes décédées lors de l'attaque survenue en juin 2023. Les victimes identifiées sont deux étudiants de 19 ans, Barnaby Webber et Grace O’Malley-Kumar, ainsi qu'un gardien de 65 ans, Ian Coates. L'agression avait également causé des blessures à trois autres personnes dans la ville.\n\nLe Nottingham University Hospitals NHS Trust a annoncé la mise en place prochaine d'un nouveau dispositif technique. Ce système vise à renforcer la protection des dossiers médicaux des patients contre les accès non autorisés. L'institution cherche ainsi à prévenir la répétition de tels incidents au sein de ses services. Les informations concernant les sanctions disciplinaires et les mesures de sécurité ont été rapportées par la presse britannique les 17 et 18 octobre 2026.\n\nIl manque des précisions sur la date exacte à laquelle les accès illégaux ont été détectés par l'administration hospitalière.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmd7q8ld3dd3o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/society/2026/oct/17/fifteen-nhs-staff-sacked-after-accessing-medical-records-of-valdo-calocane-victims"
+    }
+   ],
+   "premiere_parution": "2026-10-17T16:34:39Z",
+   "suite_de": null,
+   "mots": 195,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sante-004",
+   "rubrique": "sante",
+   "format": "breve",
+   "titre": "La République démocratique du Congo lance un essai vaccinal contre Ebola",
+   "chapeau": "L'Organisation mondiale de la santé prévoit le début d'un essai clinique en République démocratique du Congo dans les prochaines semaines. Cette étude vise à évaluer l'efficacité du vaccin Ervebo contre la souche Bundibugyo du virus Ebola.",
+   "corps": "Le vaccin Ervebo est actuellement homologué pour lutter contre la souche Zaïre du virus Ebola. Les autorités sanitaires internationales souhaitent désormais vérifier si ce produit offre une protection croisée contre la variante Bundibugyo, responsable de l'épidémie actuelle en République démocratique du Congo (The Hindu, 17/10/2026).\n\nJean-Jacques Muyembe Tamfum, scientifique congolais co-découvreur du virus Ebola, a souligné lors du Sommet mondial de la santé à Berlin la nécessité de renforcer les mesures de contrôle des infections de base. Il estime que les efforts internationaux visant à développer des vaccins en cent jours ne suffisent pas à endiguer les épidémies actuelles. Il pointe des faiblesses dans la gestion des foyers infectieux sur le terrain (The BMJ, 16/10/2026).\n\nCertaines informations sur le nombre de personnes infectées par cette souche spécifique manquent.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "The BMJ",
+     "url": "https://bmj.com/content/395/bmj-2026-101166.short"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/health/dr-congo-ebola-vaccine-trial-to-begin-within-weeks-who/article71583980.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-16T15:31:11Z",
+   "suite_de": null,
+   "mots": 168,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sport-001",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Le Real Madrid exige le départ du président de la Liga après des propos nazis",
+   "chapeau": "Le Real Madrid a réclamé la démission immédiate de Javier Tebas, président de la Liga, vendredi 16 octobre 2026 en Espagne. Cette exigence fait suite à une comparaison entre la chaîne du club et la propagande nazie.",
+   "corps": "Vendredi 16 octobre 2026, selon L'Équipe (16/10/2026 à 20:02), le Real Madrid a demandé le départ de Javier Tebas, président de la Liga et vice-président de la Fédération espagnole de football. Cette réaction intervient après des messages publiés sur les réseaux sociaux par Javier Tebas le même jour, d'après The Guardian (16/10/2026 à 19:55).\n\nLe dirigeant de la Liga a comparé la ligne éditoriale de la télévision du club aux méthodes de Joseph Goebbels, ministre de la Propagande du régime nazi, selon ABC (16/10/2026 à 18:01). Le club madrilène a qualifié ces propos de profondément offensants et d'atteinte à sa réputation, toujours selon L'Équipe (16/10/2026 à 20:02).\n\nL'Équipe (18/10/2026 à 00:04) rappelle également que Javier Tebas et Florentino Perez, président du Real Madrid, s'opposent depuis plus de dix ans.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/futbol/real-madrid-exige-dimision-tebas-comparar-metodos-20261016154626-nt.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/espagne/une-methode-qui-rappelle-goebbels-quand-javier-tebas-president-de-laliga-compare-la-television-du-real-madrid-a-la-propagande-nazie-20261016"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/cr5yngpgejw0o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/16/real-madrid-demand-resignation-la-liga-president-javier-tebas-goebbels-comparison"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/2026-10-16/el-real-madrid-pide-la-dimision-inmediata-de-javier-tebas-sus-ataques-son-una-lacra-para-el-futbol.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Le-real-madrid-exige-la-demission-de-javier-tebas-apres-ses-propos-comparant-la-methode-de-real-madrid-tv-a-la-propagande-nazie-de-goebbels/1736296"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/10/real-madrid-pede-renuncia-de-presidente-da-laliga-por-comparacao-com-propaganda-nazista.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-16T14:01:58Z",
+   "suite_de": "2026-10-17-sport-001",
+   "mots": 181,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sport-002",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Hommages et rencontres de Coupe des champions après le décès d'Hyron Andrews",
+   "chapeau": "Le décès du joueur sud-africain Hyron Andrews est survenu vendredi 16 octobre 2026 sur l'île de Ré. Des hommages ont été organisés lors des matchs du week-end en Europe.",
+   "corps": "Le joueur des Lions de Johannesburg est mort vendredi 16 octobre 2026 à l'âge de trente et un ans dans un hôtel de l'île de Ré, ainsi que le rapportent Libération et Le Figaro le 16 et le 18 octobre 2026.\n\nLa rencontre de Coupe des champions entre le Stade Rochelais et les Lions de Johannesburg a eu lieu samedi 17 octobre 2026, selon L'Équipe et The Guardian. Le club français s'est imposé sur le score de trente et un à quatorze, d'après L'Équipe du 17 octobre 2026.\n\nPlusieurs hommages ont été rendus en mémoire du sportif. Le numéro 5 n'a pas été porté durant la rencontre selon Le Figaro du 17 octobre 2026. Une minute de silence a été observée sur les terrains européens ce week-end d'après Le Monde et The Guardian du 16 et 18 octobre 2026.\n\nUne cellule de soutien psychologique a été installée dans l'établissement hôtelier d'après franceinfo le 16 octobre 2026. La gendarmerie a reçu la charge d'enquêter sur les causes de ce décès selon Libération le 16 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/info-radio-france-un-rugbyman-des-lions-de-johannesbourg-meurt-dans-un-hotel-de-l-ile-de-re-a-la-veille-du-match-face-au-stade-rochelais_8240164.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-le-numero-5-ne-sera-pas-porte-durant-le-match-la-rochelle-lions-en-hommage-a-hyron-andrews-20261017"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Rugby/Actualites/Coupe-des-champions-la-rochelle-domine-des-lions-endeuilles-par-la-mort-de-hyron-andrews/1736559"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/2026/oct/17/champions-cup-rugby-union-sale-glasgow-clermont-leinster-lions-la-rochelle-bath-munster"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/26_ottobre_16/rugby-hyron-andrews-trovato-morto-in-albergo-a-la-rochelle-colto-da-malore-mentre-era-nella-doccia-a3f1bee2-b223-4851-b4a9-a717773caxlk.shtml"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261016-hyron-andrews-rugbyman-sud-africain-des-lions-retrouv%C3%A9-mort-%C3%A0-la-veille-d-un-match-%C3%A0-la-rochelle"
+    }
+   ],
+   "premiere_parution": "2026-10-16T12:35:54Z",
+   "suite_de": "2026-10-17-sport-002",
+   "mots": 204,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-sport-003",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Le gardien de Chelsea Emiliano Martinez quitte le terrain sur civiere",
+   "chapeau": "Le gardien de Chelsea Emiliano Martinez a subi une blessure lors du match contre Everton le 17 octobre 2026. L'incident a entraine son evacuation de la pelouse.",
+   "corps": "Le gardien de Chelsea Emiliano Martinez a quitte le terrain sur une civiere lors de la rencontre de Premier League opposant son equipe a Everton le 17 octobre 2026 selon L'Equipe et Le Figaro.\n\nL'accident s'est produit a la suite d'une intervention sur un coup de pied arrete d'apres L'Equipe du 17 octobre 2026. Le portier argentin est entre en collision avec le defenseur adverse Jarrad Branthwaite d'apres Le Figaro du 17 octobre 2026.\n\nLe joueur a recu un choc a la tete selon ABC du 17 octobre 2026. L'interruption de la rencontre a dure environ dix minutes d'apres Der Spiegel du 17 octobre 2026.\n\nMike Penders a remplace le gardien blesse d'apres L'Equipe du 17 octobre 2026. Emiliano Martinez a ensuite ete transporte a l'hopital pour des examens complementaires selon une declaration rapportee par le Corriere della Sera le 17 octobre 2026.\n\nCertaines informations detaillees sur l'etat de sante exact du joueur manquent dans les sources consultees.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Emiliano-martinez-evacue-sur-civiere-lors-d-everton-chelsea/1736462"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/angleterre/premier-league-emiliano-martinez-blesse-dans-un-choc-impressionnant-20261017"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/futbol/dibu-martinez-retirado-camilla-tras-durisimo-golpe-20261017164300-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/fc-chelsea-torwart-martinez-nach-kopfzusammenstoss-im-krankenhaus-a-0316956a-9ce9-4bdd-8d82-f709563b3ad7"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/10/dibu-martinez-do-chelsea-sofre-choque-de-cabeca-e-deixa-campo-de-maca.shtml"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/calcio/26_ottobre_17/infortunio-dibu-martinez-chelsea-come-sta-20fa44db-23a5-491f-aa0f-e6ad78f26xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-17T13:27:52Z",
+   "suite_de": null,
+   "mots": 185,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "L actrice américaine Hilary Swank répond aux critiques sur sa grossesse",
+   "chapeau": "L actrice américaine Hilary Swank a répondu le 16 octobre 2026 aux critiques concernant sa grossesse annoncée à l âge de cinquante-deux ans. Elle attend son troisième enfant avec son mari Philip Schneider.",
+   "corps": "L actrice Hilary Swank a publié une vidéo sur les réseaux sociaux le 14 octobre 2026 pour annoncer qu elle attendait son troisième enfant à l âge de cinquante-deux ans, selon le journal El País du 16 octobre 2026 et le journal Folha de S.Paulo du 18 octobre 2026. Elle est déjà mère de jumeaux nés en 2023, d après les informations du Corriere della Sera du 15 octobre 2026.\n\nSuite à cette annonce, l actrice a pris la parole pour répondre aux critiques qu elle a reçues au sujet de son âge, selon le journal El País du 16 octobre 2026. Elle a déclaré que les femmes reçoivent des critiques lorsqu elles ont des enfants à un âge avancé, contrairement aux hommes, d après la même source. Le journal Folha de S.Paulo du 18 octobre 2026 confirme qu elle a rejeté les commentaires la qualifiant de trop âgée.\n\nCertaines sources précisent la présence de son mari Philip Schneider et de ses jumeaux Aya et Ohm dans la vidéo initiale publiée le 14 octobre 2026, d après Folha de S.Paulo du 15 octobre 2026. L actrice avait eu sa première grossesse complète à l âge de quarante-huit ans, selon Folha de S.Paulo du 18 octobre 2026. Le journal Corriere della Sera du 15 octobre 2026 rappelle qu elle a obtenu deux prix Oscar au cours de sa carrière cinématographique.\n\nLes articles publiés entre le 15 octobre 2026 et le 18 octobre 2026 s accordent sur les faits principaux concernant l annonce de la grossesse et les réactions qu elle a suscitées dans les médias internationaux. Aucun élément technique particulier ne nécessite d explication complémentaire dans le cadre de cet article culturel.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/spettacoli/26_ottobre_15/hilary-swank-l-attrice-annuncia-di-aspettare-il-terzo-figlio-a-52-anni-15ef6e90-2f18-43bd-b201-211fafe2fxlk.shtml"
+    },
+    {
+     "nom": "krcgtv.com",
+     "url": "https://krcgtv.com/news/entertainment/oscar-winner-hilary-swank-pregnant-at-age-52-with-third-baby"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/hilary-swank-anuncia-gravidez-do-terceiro-filho-aos-52-anos.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/gente/2026-10-16/hilary-swank-responde-a-los-que-comentan-su-embarazo-las-mujeres-reciben-criticas-por-tener-hijos-a-una-edad-avanzada-pero-los-hombres-no.html"
+    }
+   ],
+   "premiere_parution": "2026-10-15T15:57:53Z",
+   "suite_de": "2026-10-17-culture-001",
+   "mots": 318,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-culture-002",
+   "rubrique": "culture",
+   "format": "breve",
+   "titre": "L'actrice Selma Blair arrêtée après un incident médical en plein vol",
+   "chapeau": "L'actrice Selma Blair a été arrêtée après un incident survenu lors d'un vol de la compagnie Delta. Ses représentants ont déclaré vendredi qu'elle n'avait pas l'intention de blesser autrui durant cet épisode.",
+   "corps": "Les autorités accusent Selma Blair d'avoir agressé deux membres du personnel de bord, un policier et un infirmier lors du trajet aérien. L'actrice a été libérée sous caution après son arrestation, selon les informations rapportées le 16 octobre 2026 par wwmt.com.\n\nLes représentants de l'actrice ont qualifié l'événement d'urgence médicale. Ils ont précisé que Selma Blair souffre de sclérose en plaques, une maladie neurologique pouvant entraîner des réactions incontrôlées, selon la BBC le 17 octobre 2026. Le communiqué diffusé vendredi rejette l'intention de nuire et conteste la couverture médiatique initiale de l'arrestation, d'après The Guardian le 17 octobre 2026.\n\nCertains détails sur le déroulement précis de l'incident à bord de l'avion manquent.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "wwmt.com",
+     "url": "https://wwmt.com/news/entertainment/selma-blair-releases-lengthy-statement-from-rep-following-plane-arrest"
+    },
+    {
+     "nom": "medicinehatnews.com",
+     "url": "https://medicinehatnews.com/entertainment/entertainment-news/2026/10/16/selma-blairs-representatives-say-she-didnt-intend-to-hurt-anyone-on-flight-that-led-to-her-arrest"
+    },
+    {
+     "nom": "dailycamera.com",
+     "url": "https://dailycamera.com/2026/10/16/selma-blair-flight-statement"
+    },
+    {
+     "nom": "sitkasentinel.com",
+     "url": "https://sitkasentinel.com/stories/selma-blairs-representatives-say-she-didnt-intend-to-hurt-anyone-on-flight-that-led-to-her-arrest,179278"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwly3zd1r45ro"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/film/2026/oct/17/selma-blair-airplane-incident"
+    }
+   ],
+   "premiere_parution": "2026-10-16T19:41:44Z",
+   "suite_de": null,
+   "mots": 145,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-10-18-culture-003",
+   "rubrique": "culture",
+   "format": "breve",
+   "titre": "Antonio Banderas et Nicolas Cage joueront dans la série True Detective",
+   "chapeau": "La plateforme HBO a officialisé la participation d'Antonio Banderas et de Nicolas Cage à la cinquième saison de la série True Detective. Le tournage de cette nouvelle saison débutera au cours de l'année 2027.",
+   "corps": "La chaîne américaine a annoncé cette nouvelle distribution via ses réseaux sociaux le 16 octobre 2026. Les deux acteurs tiendront les rôles principaux de cette production, qui suit un format d'anthologie, où chaque saison présente des personnages et une intrigue différents. Issa López, qui a supervisé la quatrième saison, dirigera également ce nouveau volet.\n\nAntonio Banderas rejoint ainsi la liste des comédiens ayant participé à cette série policière, aux côtés notamment de Matthew McConaughey, Woody Harrelson, Jodie Foster ou encore Mahershala Ali. Le comédien espagnol poursuit ses projets cinématographiques récents, après avoir incarné le chef José Vatel dans le film Tony et le conquistador Hernán Cortés dans une œuvre intitulée Cortés.\n\nLes informations concernant l'intrigue précise de cette cinquième saison ou les autres membres du casting restent pour le moment inconnues.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/cinema-e-series/2026/10/antonio-banderas-atuara-com-nicolas-cage-na-quinta-temporada-de-true-detective.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/sevilla/cultura/hbo-ficha-antonio-banderas-coprotagonizar-junto-nicolas-20261016232727-nts.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/television/series/2026-10-17/antonio-banderas-y-nicolas-cage-protagonizaran-de-la-quinta-temporada-de-true-detective.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/true-detective-staffel-fuenf-antonio-banderas-und-nicolas-cage-ermitteln-a-47c2989d-7ccc-4408-9fd6-730b6ff56e6d"
+    }
+   ],
+   "premiere_parution": "2026-10-16T22:34:00Z",
+   "suite_de": null,
+   "mots": 165,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-18-geopolitique-001",
+  "2026-10-18-monde-001",
+  "2026-10-18-monde-002",
+  "2026-10-18-monde-003",
+  "2026-10-18-geopolitique-002",
+  "2026-10-18-monde-004",
+  "2026-10-18-geopolitique-003",
+  "2026-10-18-geopolitique-004"
+ ]
+}

@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-17T05:13:05Z",
- "derniere": "2026-10-17",
+ "maj": "2026-10-18T05:25:20Z",
+ "derniere": "2026-10-18",
  "editions": [
+  {
+   "date": "2026-10-18",
+   "genere_a": "2026-10-18T05:25:20Z",
+   "articles": 47,
+   "une": [
+    "Donald Trump suspend les sanctions énergétiques contre la Russie et suscite des critiques",
+    "Le pape Léon XIV quitte l'hôpital après une opération pulmonaire",
+    "Manifestations en France contre le cout de la vie le 17 octobre"
+   ],
+   "octets": 171793
+  },
   {
    "date": "2026-10-17",
    "genere_a": "2026-10-17T05:13:05Z",

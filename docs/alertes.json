@@ -1,6 +1,105 @@
 {
- "maj": "2026-10-18T20:49:03Z",
+ "maj": "2026-10-18T23:18:36Z",
  "alertes": [
+  {
+   "id": "2026-10-19-alerte-03",
+   "date": "2026-10-19",
+   "publiee_a": "2026-10-18T23:18:36Z",
+   "titre": "Quatre militaires meurent dans un incendie sur une base canadienne",
+   "texte": "Un feu a tué quatre soldats canadiens sur la base militaire de Wainwright, en Alberta, samedi 17 octobre 2026. Le Premier ministre Mark Carney a confirmé ce bilan dimanche 18 octobre 2026, tandis que des dizaines de blessés ont rejoint les hôpitaux.",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261018-canada-un-d%C3%A9sastre-des-morts-apr%C3%A8s-un-incendie-sur-une-base-militaire-de-l-ouest-du-pays"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/18/canada-un-incendie-sur-une-base-militaire-en-alberta-fait-des-morts-et-des-blesses-les-etablissements-de-sante-completement-submerges_6797056_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/fire-at-canadian-military-base-kills-seven-cbc-reports"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-18/four-canadian-soldiers-killed-in-military-base-fire-carney-says"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/deadly-fire-at-canadian-forces-base-wainwright-leaves-several-dead-and-hospitalised/article71601268.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cxj0ly1m3q81o"
+    }
+   ],
+   "cluster": "03dc6f8e9d8a5a3c",
+   "urls": [
+    "https://abc.es/internacional/incendio-base-militar-canada-deja-varios-muertos-20261018091540-nt.html",
+    "https://adn.com/nation-world/2026/10/18/carney-says-4-service-members-killed-and-dozens-injured-in-fire-at-alberta-military-base",
+    "https://aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister",
+    "https://bbc.co.uk/news/articles/cmgelrq8x92do",
+    "https://bbc.co.uk/news/articles/cr86z0w4lxdxo",
+    "https://bbc.co.uk/news/articles/cxj0ly1m3q81o",
+    "https://bicesteradvertiser.net/news/national/26646884.carney-says-four-service-members-killed-fire-alberta-military-base",
+    "https://bicesteradvertiser.net/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base",
+    "https://bloomberg.com/news/articles/2026-10-18/four-canadian-soldiers-killed-in-military-base-fire-carney-says",
+    "https://corriere.it/esteri/26_ottobre_18/canada-alberta-incendio-base-militare-morti-feriti-06e9e759-e200-451b-b492-7e9d331fexlk.shtml",
+    "https://deccanchronicle.com/world/canada-military-base-fire-leaves-multiple-dead-and-injured-in-alberta-1996853",
+    "https://dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/canada-fire-at-military-base-in-alberta-leaves-four-dead/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/america/2026-10-18/un-incendio-en-una-base-militar-de-canada-en-alberta-causa-varios-muertos-y-heridos.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_17?evenement=5579f6ffef",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_17?evenement=5b9a43a8aa",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_17?evenement=d1a09b77cb",
+    "https://fortune.com/2026/10/18/canada-worst-peacetime-domestic-tragedies-military-base-wainwright",
+    "https://freepressseries.co.uk/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base",
+    "https://ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210",
+    "https://ft.com/content/7e2836c7-9802-4f9f-864c-12bbfba25210?syn-25a6b1a6=1",
+    "https://gulfcoastnewsnow.com/article/fire-deadly-incident-at-canada-military-base/74168948",
+    "https://impartialreporter.com/news/national/26646884.carney-says-four-service-members-killed-fire-alberta-military-base",
+    "https://kawc.org/npr-news/2026-10-18/carney-says-4-service-members-killed-and-dozens-injured-in-fire-at-alberta-military-base",
+    "https://kcby.com/news/nation-world/four-killed-dozens-hurt-in-fire-at-canadian-military-base-carney-says-alberta-department-of-national-defence-cfb-wainwright-hospital-medical-emergency-domestic-peacetime-tragedy",
+    "https://ketv.com/article/fire-deadly-incident-at-canada-military-base/74168948",
+    "https://kfyi.iheart.com/content/2026-10-18-fire-at-canadian-military-base-kills-four",
+    "https://lankanewspapers.com/2026/10/18/fire-at-canadian-military-base-in-alberta-leaves-people-dead-and-injured",
+    "https://lefigaro.fr/international/canada-des-morts-apres-un-incident-sur-une-base-militaire-20261018",
+    "https://lemonde.fr/international/article/2026/10/18/canada-un-incendie-sur-une-base-militaire-en-alberta-fait-des-morts-et-des-blesses-les-etablissements-de-sante-completement-submerges_6797056_3210.html",
+    "https://nbcbayarea.com/news/national-international/major-fire-breaks-out-in-alberta-after-deadly-incident-at-military-base/4160725",
+    "https://newsradio710.iheart.com/content/2026-10-18-fire-at-canadian-military-base-kills-four",
+    "https://npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+    "https://peeblesshirenews.com/news/national/26646884.carney-says-four-service-members-killed-fire-alberta-military-base",
+    "https://peeblesshirenews.com/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base",
+    "https://penarthtimes.co.uk/news/national/26646884.carney-says-four-service-members-killed-fire-alberta-military-base",
+    "https://reflector.com/news/national/alberta-premier-says-39-people-hospitalized-at-least-19-critical-after-fire-at-canada-military/article_5c1f3246-4f1b-55ad-abba-8e25644c939c.html",
+    "https://rfi.fr/fr/am%C3%A9riques/20261018-canada-un-d%C3%A9sastre-des-morts-apr%C3%A8s-un-incendie-sur-une-base-militaire-de-l-ouest-du-pays",
+    "https://santamariatimes.com/ap/international/alberta-premier-says-39-people-hospitalized-at-least-19-critical-after-fire-at-canada-military/article_fd5e4586-7d87-504a-96db-7a37222f6d6e.html",
+    "https://smh.com.au/world/four-dead-in-fire-at-canadian-military-base-20261019-p616kb.html",
+    "https://sookenewsmirror.com/2026/10/17/fatalities-injuries-after-fire-at-canadian-forces-base-wainwright-in-alberta",
+    "https://southcarolinapublicradio.org/news/2026-10-18/carney-says-4-service-members-killed-and-dozens-injured-in-fire-at-alberta-military-base",
+    "https://straitstimes.com/world/fire-at-canadian-military-base-kills-seven-cbc-reports",
+    "https://straitstimes.com/world/serious-incident-at-canada-military-base-in-alberta-causes-major-fire-carney-says",
+    "https://stroudnewsandjournal.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier",
+    "https://theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+    "https://thehindu.com/news/international/deadly-fire-at-canadian-forces-base-wainwright-leaves-several-dead-and-hospitalised/article71601268.ece",
+    "https://thehindu.com/news/international/major-fire-breaks-out-in-alberta-casualties-reported/article71599017.ece",
+    "https://vicnews.com/2026/10/17/fatalities-injuries-after-fire-at-canadian-forces-base-wainwright-in-alberta",
+    "https://wbaa.org/npr-news/2026-10-18/major-fire-breaks-out-in-alberta-after-deadly-incident-at-military-base",
+    "https://wdiy.org/npr-news/2026-10-18/major-fire-breaks-out-in-alberta-after-deadly-incident-at-military-base",
+    "https://wvtf.org/2026-10-18/carney-says-4-service-members-killed-and-dozens-injured-in-fire-at-alberta-military-base",
+    "https://wwno.org/npr-news/2026-10-18/major-fire-breaks-out-in-alberta-after-deadly-incident-at-military-base",
+    "https://www1.folha.uol.com.br/mundo/2026/10/incendio-de-grandes-proporcoes-em-base-militar-no-canada-deixa-mortos-e-feridos.shtml"
+   ]
+  },
   {
    "id": "2026-10-19-alerte-01",
    "date": "2026-10-19",

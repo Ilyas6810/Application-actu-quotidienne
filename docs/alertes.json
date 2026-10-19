@@ -1,6 +1,61 @@
 {
- "maj": "2026-10-18T23:18:36Z",
+ "maj": "2026-10-19T20:43:03Z",
  "alertes": [
+  {
+   "id": "2026-10-20-alerte-01",
+   "date": "2026-10-20",
+   "publiee_a": "2026-10-19T20:43:03Z",
+   "titre": "La Fédération portugaise de football suspend Cristiano Ronaldo pendant trente jours",
+   "texte": "La Fédération portugaise de football a infligé lundi 19 octobre 2026 une suspension de trente jours à Cristiano Ronaldo. L'instance sanctionne le départ non autorisé de l'attaquant du camp d'entraînement national à Copenhague le 30 septembre.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/minicastigo-cristiano-ronaldo-portugal-255-euros-multa-20261019201112-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261019-football-cristiano-ronaldo-suspendu-30-jours-apr%C3%A8s-l-esclandre-lors-du-rassemblement-de-la-s%C3%A9lection-portugaise"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/19/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_6797581_3242.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/portugal-cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-20261019_X5OXNY22WZA25CR6DZMHXWH5OU"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/foot-la-sanction-est-tombee-pour-cristiano-ronaldo-suspendu-30-jours-par-la-federation-portugaise-20261019"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/ck9qznlywy8no"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f"
+    }
+   ],
+   "cluster": "11b631a500fc1b4a",
+   "urls": [
+    "https://abc.es/deportes/minicastigo-cristiano-ronaldo-portugal-255-euros-multa-20261019201112-nt.html",
+    "https://aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus",
+    "https://bbc.co.uk/sport/football/articles/ck9qznlywy8no",
+    "https://lefigaro.fr/sports/football/foot-la-sanction-est-tombee-pour-cristiano-ronaldo-suspendu-30-jours-par-la-federation-portugaise-20261019",
+    "https://lemonde.fr/sport/article/2026/10/19/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_6797581_3242.html",
+    "https://lequipe.fr/Football/Actualites/Suspension-de-30-jours-et-255-euros-d-amende-la-sanction-de-la-federation-portugaise-pour-cristiano-ronaldo-est-tombee/1737083",
+    "https://liberation.fr/sports/football/portugal-cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-20261019_X5OXNY22WZA25CR6DZMHXWH5OU",
+    "https://rfi.fr/fr/sports/20261019-football-cristiano-ronaldo-suspendu-30-jours-apr%C3%A8s-l-esclandre-lors-du-rassemblement-de-la-s%C3%A9lection-portugaise",
+    "https://spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f",
+    "https://theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
+    "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-recebe-suspensao-de-30-dias-por-deixar-concentracao-de-portugal.shtml"
+   ]
+  },
   {
    "id": "2026-10-19-alerte-03",
    "date": "2026-10-19",
@@ -1199,176 +1254,6 @@
     "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69",
     "https://theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
     "https://vg.no/rampelys/i/kvdRGB/selma-blair-54-paagrepet-etter-dramatisk-flytur"
-   ]
-  },
-  {
-   "id": "2026-10-12-alerte-01",
-   "date": "2026-10-12",
-   "publiee_a": "2026-10-12T10:56:46Z",
-   "titre": "Le prix Nobel d'économie récompense Michael Woodford et Robert Hall",
-   "texte": "L'Académie royale des sciences de Suède a attribué le prix Nobel d'économie à Michael Woodford et Robert Hall, ce lundi 12 octobre 2026 à Stockholm. L'institution honore les recherches des deux économistes américains sur la stabilisation macroéconomique.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/prix-nobel/le-prix-nobel-d-economie-recompense-les-americains-michael-woodford-et-robert-hall-pour-leurs-nouveaux-modeles-macroeconomiques_8233741.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/economie/prix-nobel-d-economie-2026-les-americains-michael-woodford-et-robert-hall-recompenses-20261012"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/economia/nobel-economia-robert-hall-michael-woodford-fundamentos-20261012115101-nt.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/economia/finanza/26_ottobre_12/nobel-economia-2026-robert-hall-michael-woodford-15096a78-04ac-4826-8c76-559cfb986xlk.shtml"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/conjoncture/le-prix-nobel-2026-d-economie-decerne-a-robert-e-hall-et-michael-woodford-20261012"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/economie/le-prix-nobel-deconomie-decerne-aux-americains-michael-woodford-et-robert-hall-20261012_KYYHEG3PCBCBJM7S2G7CLP33FM"
-    }
-   ],
-   "cluster": "0b1f868f66facd9b",
-   "urls": [
-    "https://abc.es/economia/nobel-economia-robert-hall-michael-woodford-fundamentos-20261012115101-nt.html",
-    "https://bloomberg.com/news/videos/2026-10-12/nobel-prize-in-economics-shared-by-hall-woodford-video",
-    "https://corriere.it/economia/finanza/26_ottobre_12/nobel-economia-2026-robert-hall-michael-woodford-15096a78-04ac-4826-8c76-559cfb986xlk.shtml",
-    "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
-    "https://france24.com/fr/%C3%A9co-tech/20261012-prix-nobel-%C3%A9conomie-d%C3%A9cern%C3%A9-am%C3%A9ricains-robert-e-hall-michael-woodford",
-    "https://franceinfo.fr/monde/prix-nobel/le-prix-nobel-d-economie-recompense-les-americains-michael-woodford-et-robert-hall-pour-leurs-nouveaux-modeles-macroeconomiques_8233741.html",
-    "https://ft.com/content/f4463a28-832d-4a2d-acc5-d83e258610cb?syn-25a6b1a6=1",
-    "https://la-croix.com/economie/prix-nobel-d-economie-2026-les-americains-michael-woodford-et-robert-hall-recompenses-20261012",
-    "https://lefigaro.fr/conjoncture/le-prix-nobel-2026-d-economie-decerne-a-robert-e-hall-et-michael-woodford-20261012",
-    "https://lemonde.fr/economie/article/2026/10/12/le-prix-nobel-d-economie-2026-decerne-aux-americains-michael-woodford-et-robert-hall_6792609_3234.html",
-    "https://liberation.fr/economie/le-prix-nobel-deconomie-decerne-aux-americains-michael-woodford-et-robert-hall-20261012_KYYHEG3PCBCBJM7S2G7CLP33FM",
-    "https://rfi.fr/fr/%C3%A9conomie/20261012-le-prix-nobel-d-%C3%A9conomie-2026-est-attribu%C3%A9-%C3%A0-robert-e-hall-et-michael-woodford",
-    "https://spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b",
-    "https://straitstimes.com/world/americans-hall-and-woodford-win-2026-nobel-economics-prize",
-    "https://thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece",
-    "https://www1.folha.uol.com.br/mercado/2026/10/nobel-de-economia-vai-para-estudiosos-da-estabilizacao-macroeconomica.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-12-alerte-02",
-   "date": "2026-10-12",
-   "publiee_a": "2026-10-12T10:57:11Z",
-   "titre": "Aubagne : deux personnels d'un collège blessés par arme à feu",
-   "texte": "Un élève a blessé le principal et une enseignante d'un collège d'Aubagne lundi 12 octobre 2026 avec un fusil de chasse. Les forces de l'ordre ont interpellé le tireur présumé et les jours des victimes restent hors de danger.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/article/2026/10/12/a-aubagne-un-collegien-blesse-un-principal-et-une-professeure-avec-un-fusil-de-chasse-laurent-nunez-et-edouard-geffray-se-rendent-sur-place_6792602_3224.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/bouches-du-rhone-un-principal-de-college-blesse-par-un-tir-de-fusil-de-chasse-un-jeune-interpelle-20261012"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/le-principal-et-une-enseignante-d-un-college-d-aubagne-blesses-par-arme-a-feu-un-collegien-interpelle_8233612.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/education/blocage-des-lycees-a-aubagne-un-proviseur-et-une-enseignante-blesses-par-balle-20261012_OSTP7ANEEVCN3J2DSG6NBTKSXI"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-12/un-estudiante-de-14-anos-hiere-con-una-escopeta-al-director-del-centro-y-a-una-profesora.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261012-france-plusieurs-personnes-bless%C3%A9es-par-balle-dans-un-lyc%C3%A9e-%C3%A0-aubagne"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/marseille/aubagne-le-proviseur-d-un-college-blesse-a-l-arme-a-feu-20261012"
-    }
-   ],
-   "cluster": "1fa873befc816a11",
-   "urls": [
-    "https://elpais.com/internacional/2026-10-12/un-estudiante-de-14-anos-hiere-con-una-escopeta-al-director-del-centro-y-a-una-profesora.html",
-    "https://france24.com/fr/france/20261012-un-principal-de-coll%C3%A8ge-bless%C3%A9-par-un-tir-de-fusil-de-chasse-%C3%A0-aubagne-un-jeune-interpell%C3%A9",
-    "https://france24.com/fr/vid%C3%A9o/20261012-france-plusieurs-personnes-bless%C3%A9es-par-balle-dans-un-lyc%C3%A9e-%C3%A0-aubagne",
-    "https://franceinfo.fr/faits-divers/le-principal-et-une-enseignante-d-un-college-d-aubagne-blesses-par-arme-a-feu-un-collegien-interpelle_8233612.html",
-    "https://la-croix.com/societe/bouches-du-rhone-un-principal-de-college-blesse-par-un-tir-de-fusil-de-chasse-un-jeune-interpelle-20261012",
-    "https://lefigaro.fr/marseille/aubagne-le-proviseur-d-un-college-blesse-a-l-arme-a-feu-20261012",
-    "https://lemonde.fr/societe/article/2026/10/12/a-aubagne-un-collegien-blesse-un-principal-et-une-professeure-avec-un-fusil-de-chasse-laurent-nunez-et-edouard-geffray-se-rendent-sur-place_6792602_3224.html",
-    "https://liberation.fr/societe/education/blocage-des-lycees-a-aubagne-un-proviseur-et-une-enseignante-blesses-par-balle-20261012_OSTP7ANEEVCN3J2DSG6NBTKSXI",
-    "https://spiegel.de/panorama/justiz/aubagne-schueler-schiesst-offenbar-mit-schrotflinte-auf-lehrerin-und-schulleiter-verdaechtiger-festgenommen-a-6c645f3c-918a-4741-a7f0-4a6f6b076350"
-   ]
-  },
-  {
-   "id": "2026-10-12-alerte-03",
-   "date": "2026-10-12",
-   "publiee_a": "2026-10-12T11:09:02Z",
-   "titre": "Un incendie détruit le marché couvert des Enfants Rouges à Paris",
-   "texte": "Un incendie a détruit le marché des Enfants Rouges dans le troisième arrondissement de Paris durant la nuit du dimanche au lundi 12 octobre 2026. Les pompiers ont maîtrisé le feu dans la matinée sans déplorer de victime ni de propagation aux immeubles voisins.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/incendie/le-marche-des-enfants-rouges-a-paris-ravage-par-les-flammes-annonce-la-mairie_8233399.html"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/fire-destroys-french-capitals-enfants-rouges-covered-food-market"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://video.corriere.it/esteri/le-fiamme-tra-i-palazzi-in-centro-a-parigi-il-video-del-violento-incendio-al-mercato-enfants-rouges/8ab26429-495b-4c4c-87c5-2175faa08xlk"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/video/2026/10/12/apres-l-incendie-au-marche-des-enfants-rouges-a-paris-les-premieres-images-des-degats_6792614_3224.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt-a-d7e436f3-a579-4add-9c74-843758beb19f"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261012-france-le-march%C3%A9-parisien-des-enfants-rouges-d%C3%A9truit-par-une-incendie"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/paris-l-historique-marche-des-enfants-rouges-ravage-par-les-flammes-20261012"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/faits-divers/c-etait-le-poumon-du-quartier-a-paris-riverains-et-commercants-bouleverses-par-l-incendie-du-marche-des-enfants-rouges-20261012"
-    }
-   ],
-   "cluster": "28c74611eb1d8df1",
-   "urls": [
-    "https://france24.com/fr/france/20261012-march%C3%A9-des-enfants-rouges-paris-ravag%C3%A9-par-incendie",
-    "https://france24.com/fr/vid%C3%A9o/20261012-france-le-march%C3%A9-parisien-des-enfants-rouges-d%C3%A9truit-par-une-incendie",
-    "https://franceinfo.fr/faits-divers/incendie/le-marche-des-enfants-rouges-a-paris-ravage-par-les-flammes-annonce-la-mairie_8233399.html",
-    "https://la-croix.com/societe/paris-l-historique-marche-des-enfants-rouges-ravage-par-les-flammes-20261012",
-    "https://lefigaro.fr/faits-divers/c-etait-le-poumon-du-quartier-a-paris-riverains-et-commercants-bouleverses-par-l-incendie-du-marche-des-enfants-rouges-20261012",
-    "https://lefigaro.fr/faits-divers/paris-le-marche-des-enfants-rouges-ravage-par-un-incendie-les-pompiers-mobilises-sur-place-20261012",
-    "https://lefigaro.fr/faits-divers/structure-metallique-fondue-etals-detruits-les-images-de-l-interieur-du-marche-des-enfants-rouges-ravage-par-les-flammes-a-paris-20261012",
-    "https://lemonde.fr/societe/article/2026/10/12/le-marche-des-enfants-rouges-a-paris-ravage-par-les-flammes-annonce-le-maire-d-arrondissement_6792525_3224.html",
-    "https://lemonde.fr/societe/video/2026/10/12/apres-l-incendie-au-marche-des-enfants-rouges-a-paris-les-premieres-images-des-degats_6792614_3224.html",
-    "https://liberation.fr/societe/paris-le-marche-des-enfants-rouges-ravage-par-un-incendie-20261012_C5Z3L3CCWFASXCS2QCL7FBKQKE",
-    "https://spiegel.de/panorama/paris-beliebte-markthalle-fast-vollstaendig-niedergebrannt-a-d7e436f3-a579-4add-9c74-843758beb19f",
-    "https://straitstimes.com/world/europe/fire-destroys-french-capitals-enfants-rouges-covered-food-market",
-    "https://video.corriere.it/esteri/le-fiamme-tra-i-palazzi-in-centro-a-parigi-il-video-del-violento-incendio-al-mercato-enfants-rouges/8ab26429-495b-4c4c-87c5-2175faa08xlk"
    ]
   }
  ]

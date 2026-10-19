@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-18T05:25:20Z",
- "derniere": "2026-10-18",
+ "maj": "2026-10-19T05:28:04Z",
+ "derniere": "2026-10-19",
  "editions": [
+  {
+   "date": "2026-10-19",
+   "genere_a": "2026-10-19T05:28:04Z",
+   "articles": 40,
+   "une": [
+    "Quatre soldats meurent dans un incendie de base militaire en Alberta",
+    "Emmanuel Macron s'exprime après des dégradations et arrestations en France",
+    "Donald Trump suspend les sanctions russes et ouvre une évaluation"
+   ],
+   "octets": 131508
+  },
   {
    "date": "2026-10-18",
    "genere_a": "2026-10-18T05:25:20Z",

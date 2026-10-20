@@ -1,6 +1,58 @@
 {
- "maj": "2026-10-20T14:26:04Z",
+ "maj": "2026-10-20T23:59:21Z",
  "alertes": [
+  {
+   "id": "2026-10-21-alerte-01",
+   "date": "2026-10-21",
+   "publiee_a": "2026-10-20T23:59:21Z",
+   "titre": "Elon Musk envisage une fusion entre SpaceX et Tesla",
+   "texte": "Les conseils d'administration de SpaceX et de Tesla étudient un rapprochement entre les deux entreprises cotées en Bourse. Elon Musk a confirmé mercredi 21 octobre la création de comités spéciaux pour évaluer ce projet.",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/article71603272.ece"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/acordos-da-spacex-para-alugar-data-centers-elevam-receita-em-161.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-10-20/elon-musk-anuncia-que-estudia-la-fusion-de-spacex-y-tesla-para-crear-la-quinta-mayor-tecnologica-del-mundo.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmlyl09xjke4o"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/aerospace-defense-industries/elon-musk-says-spacex-and-tesla-discussing-possible-merger"
+    }
+   ],
+   "cluster": "375021893bcb5062",
+   "urls": [
+    "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says",
+    "https://asia.nikkei.com/business/aerospace-defense-industries/elon-musk-says-spacex-and-tesla-discussing-possible-merger",
+    "https://bbc.co.uk/news/articles/cmlyl09xjke4o",
+    "https://bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video",
+    "https://c-level.folha.uol.com.br/negocios/2026/10/acordos-da-spacex-para-alugar-data-centers-elevam-receita-em-161.shtml",
+    "https://elpais.com/economia/2026-10-20/elon-musk-anuncia-que-estudia-la-fusion-de-spacex-y-tesla-para-crear-la-quinta-mayor-tecnologica-del-mundo.html",
+    "https://ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+    "https://thehindu.com/sci-tech/technology/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/article71603272.ece"
+   ]
+  },
   {
    "id": "2026-10-20-alerte-03",
    "date": "2026-10-20",
@@ -1238,161 +1290,6 @@
     "https://straitstimes.com/world/europe/russian-missile-attack-on-kyiv-kills-one",
     "https://theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
     "https://yahoo.com/news/world/articles/zelenskyy-says-ukraine-received-no-112128424.html"
-   ]
-  },
-  {
-   "id": "2026-10-13-alerte-03",
-   "date": "2026-10-13",
-   "publiee_a": "2026-10-13T10:45:21Z",
-   "titre": "Greta Thunberg rejoint les lycéens mobilisés en France ce mardi",
-   "texte": "La militante suédoise Greta Thunberg s'est rendue mardi 13 octobre 2026 devant un lycée de Saint-Denis pour soutenir la contestation scolaire en France. Les élèves réclament une amélioration de leurs conditions d'apprentissage avant des défilés prévus dans plusieurs villes du pays.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-13/nuevas-manifestaciones-de-los-estudiantes-en-francia-ante-el-silencio-del-gobierno-frente-a-sus-reivindicaciones.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/greta-thunberg-se-junta-a-estudantes-em-protestos-na-franca.shtml"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/activista-greta-thunberg-suma-protestas-estudiantiles-francia-20261013103759-nt.html"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/greta-thunberg-joins-french-teens-on-new-day-of-school-protests"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_13/francia-anche-greta-thunberg-tra-gli-studenti-in-protesta-il-governo-spera-nelle-vacanze-scolastiche-ma-tornano-i-gilet-gialli-0e8f04b7-cd1b-4e7b-9ded-2b01154d4xlk.shtml"
-    }
-   ],
-   "cluster": "32a6125041041ea3",
-   "urls": [
-    "https://abc.es/internacional/activista-greta-thunberg-suma-protestas-estudiantiles-francia-20261013103759-nt.html",
-    "https://aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests",
-    "https://corriere.it/esteri/26_ottobre_13/francia-anche-greta-thunberg-tra-gli-studenti-in-protesta-il-governo-spera-nelle-vacanze-scolastiche-ma-tornano-i-gilet-gialli-0e8f04b7-cd1b-4e7b-9ded-2b01154d4xlk.shtml",
-    "https://elpais.com/internacional/2026-10-13/nuevas-manifestaciones-de-los-estudiantes-en-francia-ante-el-silencio-del-gobierno-frente-a-sus-reivindicaciones.html",
-    "https://straitstimes.com/world/europe/greta-thunberg-joins-french-teens-on-new-day-of-school-protests",
-    "https://theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france",
-    "https://www1.folha.uol.com.br/mundo/2026/10/greta-thunberg-se-junta-a-estudantes-em-protestos-na-franca.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-13-alerte-02",
-   "date": "2026-10-13",
-   "publiee_a": "2026-10-13T02:41:12Z",
-   "titre": "L'acteur américain RJ Mitte est mort à l'âge de 34 ans",
-   "texte": "Le comédien américain RJ Mitte est mort à l'âge de 34 ans à Brownsville, au Texas. Son agent a confirmé sa disparition ce lundi 12 octobre 2026.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/rj-mitte-ist-tot-breaking-bad-schauspieler-mit-34-jahren-gestorben-a-3ef6ae8c-d90b-493c-8b04-3831e9b63d7b"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/entretenimiento/2026-10-12/muere-rj-mitte-el-actor-que-era-el-hijo-de-walter-white-en-breaking-bad-a-los-34-anos.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/culture/tv/l-acteur-americain-rj-mitte-connu-pour-avoir-joue-le-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_8234557.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/culture/article/2026/10/13/l-acteur-rj-mitte-revele-par-son-role-du-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_6792909_3246.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmn045en7d88o"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/spettacoli/26_ottobre_12/morto-rj-mitte-il-walter-white-jr-di-breaking-bad-aveva-34-anni-c879ba39-456e-4b0d-a4ef-a9bb46360xlk.shtml"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/culture/20261013-acteur-rj-mitte-fils-walter-white-breaking-bad-mort-deces"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-xml-mrss"
-    }
-   ],
-   "cluster": "302c062d4c861256",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cmn045en7d88o",
-    "https://corriere.it/spettacoli/26_ottobre_12/morto-rj-mitte-il-walter-white-jr-di-breaking-bad-aveva-34-anni-c879ba39-456e-4b0d-a4ef-a9bb46360xlk.shtml",
-    "https://dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/entretenimiento/2026-10-12/muere-rj-mitte-el-actor-que-era-el-hijo-de-walter-white-en-breaking-bad-a-los-34-anos.html",
-    "https://france24.com/fr/culture/20261013-acteur-rj-mitte-fils-walter-white-breaking-bad-mort-deces",
-    "https://franceinfo.fr/culture/tv/l-acteur-americain-rj-mitte-connu-pour-avoir-joue-le-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_8234557.html",
-    "https://lemonde.fr/culture/article/2026/10/13/l-acteur-rj-mitte-revele-par-son-role-du-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_6792909_3246.html",
-    "https://rfi.fr/fr/culture/20261012-cin%C3%A9ma-l-acteur-rj-mitte-c%C3%A9l%C3%A8bre-notamment-pour-son-r%C3%B4le-dans-la-s%C3%A9rie-breaking-bad-est-mort",
-    "https://spiegel.de/panorama/rj-mitte-ist-tot-breaking-bad-schauspieler-mit-34-jahren-gestorben-a-3ef6ae8c-d90b-493c-8b04-3831e9b63d7b",
-    "https://theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
-    "https://www1.folha.uol.com.br/ilustrada/2026/10/morre-o-ator-rj-mitte-que-fez-walter-white-jr-em-breaking-bad-aos-34-anos.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-13-alerte-01",
-   "date": "2026-10-13",
-   "publiee_a": "2026-10-12T21:21:45Z",
-   "titre": "L'actrice Selma Blair arrêtée après des violences à bord d'un avion",
-   "texte": "La police a interpellé la comédienne Selma Blair dimanche soir à l'aéroport JFK de New York. Les autorités lui reprochent d'avoir agressé des membres d'équipage pendant un vol de Delta Air Lines reliant Los Angeles à New York.",
-   "sources": [
-    {
-     "nom": "calgarysun.com",
-     "url": "https://calgarysun.com/entertainment/celebrity/actress-selma-blair-arrested-in-mid-air-plane-incident"
-    },
-    {
-     "nom": "fox23maine.com",
-     "url": "https://fox23maine.com/news/entertainment/selma-blair-arrested-after-allegedly-trying-to-bite-flight-crew-open-plane-door-report"
-    },
-    {
-     "nom": "vg.no",
-     "url": "https://vg.no/rampelys/i/kvdRGB/selma-blair-54-paagrepet-etter-dramatisk-flytur"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cw80z7edrk80o"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/selma-blair-e-presa-apos-morder-comissaria-de-bordo-em-voo.shtml"
-    }
-   ],
-   "cluster": "05b1095c82486c30",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cw80z7edrk80o",
-    "https://calgarysun.com/entertainment/celebrity/actress-selma-blair-arrested-in-mid-air-plane-incident",
-    "https://elpais.com/us/entretenimiento/2026-10-12/selma-blair-detenida-por-intentar-abrir-la-puerta-de-un-avion-y-pegar-y-morder-a-dos-tripulantes.html",
-    "https://f5.folha.uol.com.br/celebridades/2026/10/selma-blair-e-presa-apos-morder-comissaria-de-bordo-em-voo.shtml",
-    "https://fox23maine.com/news/entertainment/selma-blair-arrested-after-allegedly-trying-to-bite-flight-crew-open-plane-door-report",
-    "https://nebraska.tv/news/entertainment/selma-blair-arrested-after-allegedly-trying-to-bite-flight-crew-open-plane-door-report",
-    "https://spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69",
-    "https://theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
-    "https://vg.no/rampelys/i/kvdRGB/selma-blair-54-paagrepet-etter-dramatisk-flytur"
    ]
   }
  ]

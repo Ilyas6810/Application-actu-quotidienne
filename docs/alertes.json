@@ -1,6 +1,63 @@
 {
- "maj": "2026-10-20T08:37:10Z",
+ "maj": "2026-10-20T14:26:04Z",
  "alertes": [
+  {
+   "id": "2026-10-20-alerte-03",
+   "date": "2026-10-20",
+   "publiee_a": "2026-10-20T14:26:04Z",
+   "titre": "Une panne électrique chez Google Cloud perturbe des banques européennes",
+   "texte": "Un incident électrique survenu chez Google Cloud à Londres a bloqué plusieurs services en ligne ce mardi 20 octobre 2026. Des établissements bancaires comme Revolut ont subi d'importantes interruptions de leurs prestations numériques.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c88b07df-d30e-401a-aca9-4b054d6dfd7b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/google/google-signale-des-incidents-informatiques-sur-plusieurs-services-de-cloud-en-europe_8245564.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cxdd8mm6qy4mo"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/une-panne-de-google-cloud-perturbe-plusieurs-services-dont-ceux-de-la-banque-revolut-20261020"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/economie-numerique/panne-de-google-cloud-a-londres-plusieurs-banques-dont-revolut-ou-hsbc-touchees-20261020_3WFOJJEP2JCOTKM5BVH5H7FXDM"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
+    }
+   ],
+   "cluster": "2e7abc831a1e48d4",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+    "https://bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
+    "https://dunfermlinepress.com/news/national/26652539.revolut-services-google-cloud-apologises-outage",
+    "https://franceinfo.fr/internet/google/google-signale-des-incidents-informatiques-sur-plusieurs-services-de-cloud-en-europe_8245564.html",
+    "https://ft.com/content/c88b07df-d30e-401a-aca9-4b054d6dfd7b?syn-25a6b1a6=1",
+    "https://irvinetimes.com/news/national/26652539.revolut-services-google-cloud-apologises-outage",
+    "https://lbc.co.uk/article/c24e554172594ced920a574ad7367294-5Hjdk9P_2",
+    "https://lefigaro.fr/secteur/high-tech/une-panne-de-google-cloud-perturbe-plusieurs-services-dont-ceux-de-la-banque-revolut-20261020",
+    "https://liberation.fr/economie/economie-numerique/panne-de-google-cloud-a-londres-plusieurs-banques-dont-revolut-ou-hsbc-touchees-20261020_3WFOJJEP2JCOTKM5BVH5H7FXDM",
+    "https://straitstimes.com/world/europe/google-cloud-services-face-outage-in-london-revolut-services-down-too",
+    "https://theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+    "https://theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+    "https://theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084"
+   ]
+  },
   {
    "id": "2026-10-20-alerte-02",
    "date": "2026-10-20",

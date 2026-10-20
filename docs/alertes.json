@@ -1,6 +1,88 @@
 {
- "maj": "2026-10-19T20:43:03Z",
+ "maj": "2026-10-20T08:37:10Z",
  "alertes": [
+  {
+   "id": "2026-10-20-alerte-02",
+   "date": "2026-10-20",
+   "publiee_a": "2026-10-20T08:37:10Z",
+   "titre": "Les électeurs de l'Alberta rejettent le projet de séparation du Canada",
+   "texte": "Les électeurs de l'Alberta ont rejeté par référendum le lancement d'une procédure d'indépendance vis-à-vis du Canada, selon les résultats publiés le mardi 20 octobre 2026. L'option du maintien dans la fédération rassemble plus de 76 % des suffrages d'après les décomptes officiels partiels.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/alberta-vota-mayoritariamente-organizar-referendum-independencia-canada-20261020083300-nt.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/20/kiezers-in-alberta-verwerpen-referendum-over-afscheiding-met-ruime-meerderheid-a4939336"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-20/los-ciudadanos-de-alberta-votan-en-referendum-permanecer-en-canada.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/politik/alberta-mehrheit-laut-erster-prognose-gegen-unabhaengigkeit-von-kanada-a-ff960158-f339-4848-ae42-77f55ce38a67"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/que-les-vents-emportent-les-separatistes-en-alberta-le-soulagement-des-partisans-d-un-canada-uni-20261020"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/canada-lalberta-vote-tres-largement-pour-rester-une-province-canadienne-20261020_H3HUB6ATSBCALANM3ONCDV3C3M"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece"
+    }
+   ],
+   "cluster": "c28d931e7e77be2e",
+   "urls": [
+    "https://abc.es/internacional/alberta-vota-mayoritariamente-organizar-referendum-independencia-canada-20261020083300-nt.html",
+    "https://airdriecityview.com/alberta-news/maple-leaf-love-albertans-vote-strongly-to-stay-in-canada-12908777",
+    "https://aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
+    "https://aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show",
+    "https://bbc.co.uk/news/articles/cxvgd0ymgzgyo",
+    "https://bbc.co.uk/news/videos/c6g7xj3d88nvo",
+    "https://bloomberg.com/news/articles/2026-10-19/alberta-separation-vote-68-back-staying-in-canada-separatists-vow-to-fight-on",
+    "https://bloomberg.com/news/articles/2026-10-20/alberta-voters-reject-separation-from-canada-as-carney-triumphs",
+    "https://dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/america/2026-10-20/los-ciudadanos-de-alberta-votan-en-referendum-permanecer-en-canada.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_19?evenement=2cbf7e03e6",
+    "https://france24.com/fr/vid%C3%A9o/20261019-canada-les-habitants-de-l-alberta-visent-l-ind%C3%A9pendance",
+    "https://franceinfo.fr/monde/canada/au-canada-l-alberta-vote-tres-largement-contre-l-organisation-d-un-referendum-d-independance_8245141.html",
+    "https://franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-fond-de-trumpisme-et-de-petrole-le-referendum-en-alberta-revele-les-fractures-du-canada_8224162.html",
+    "https://ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
+    "https://ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1",
+    "https://globalnews.ca/news/12108827/alberta-referendum-result",
+    "https://la-croix.com/international/canada-l-alberta-rejette-largement-lorganisation-dun-referendum-dindependance-20261020",
+    "https://lefigaro.fr/international/le-gouvernement-est-corrompu-il-nous-endette-dans-la-province-canadienne-de-l-alberta-la-tentation-independantiste-20261019",
+    "https://lefigaro.fr/international/que-les-vents-emportent-les-separatistes-en-alberta-le-soulagement-des-partisans-d-un-canada-uni-20261020",
+    "https://liberation.fr/international/amerique/canada-lalberta-vote-tres-largement-pour-rester-une-province-canadienne-20261020_H3HUB6ATSBCALANM3ONCDV3C3M",
+    "https://liberation.fr/international/amerique/le-canada-pourrait-il-perdre-le-controle-de-sa-province-la-plus-riche-20261018_HZDC2GOEZVFMJKRVTM7YG2SQUQ",
+    "https://npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
+    "https://npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
+    "https://npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+    "https://nrc.nl/nieuws/2026/10/18/stemming-over-afscheiding-wakkert-canadese-trots-aan-in-alberta-we-zijn-boos-dat-dit-uberhaupt-aan-de-orde-is-a4939197",
+    "https://nrc.nl/nieuws/2026/10/20/kiezers-in-alberta-verwerpen-referendum-over-afscheiding-met-ruime-meerderheid-a4939336",
+    "https://reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19",
+    "https://rfi.fr/fr/am%C3%A9riques/20261019-canada-les-habitants-de-l-alberta-consult%C3%A9s-sur-un-futur-r%C3%A9f%C3%A9rendum-d-ind%C3%A9pendance-de-la-province",
+    "https://spiegel.de/politik/alberta-mehrheit-laut-erster-prognose-gegen-unabhaengigkeit-von-kanada-a-ff960158-f339-4848-ae42-77f55ce38a67",
+    "https://straitstimes.com/world/alberta-support-for-canada-rises-ahead-of-separation-referendum",
+    "https://straitstimes.com/world/alberta-votes-on-leaving-canada-separatist-movement-likely-to-outlast-expected-defeat",
+    "https://straitstimes.com/world/canada-awaits-result-in-alberta-independence-vote",
+    "https://straitstimes.com/world/europe/oil-rich-alberta-votes-on-canada-breakup",
+    "https://theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+    "https://theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+    "https://thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece"
+   ]
+  },
   {
    "id": "2026-10-20-alerte-01",
    "date": "2026-10-20",

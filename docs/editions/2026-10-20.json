@@ -1,0 +1,344 @@
+{
+ "date": "2026-10-20",
+ "genere_a": "2026-10-20T05:29:40Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-20-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La France instaure des couvre-feux partiels après des violences urbaines",
+   "chapeau": "Le Premier ministre Sébastien Lecornu a demandé lundi 19 octobre 2026 aux autorités locales d'instaurer des couvre-feux partiels dans plusieurs villes de France. Cette décision fait suite à des dégradations et des affrontements survenus pendant le week-end en marge de manifestations contre la cherté de la vie.",
+   "corps": "Le gouvernement français réagit aux violences survenues pendant les rassemblements de la fin de semaine. Sébastien Lecornu a annoncé avoir chargé les préfets d'appliquer des couvre-feux ciblés et locaux. Le couvre-feu interdit la circulation nocturne. Le ministre de l'Intérieur a concédé que les forces de police avaient perdu la maîtrise de la situation dans plusieurs localités. Il a évoqué un manque d'anticipation face aux événements.\n\nSelon le président Emmanuel Macron, cité le 20 octobre 2026 à 00h34 par The Guardian, les forces de l'ordre ont procédé à 2 400 arrestations à travers le pays. Le chef de l'État a critiqué une violence débridée. Sébastien Lecornu a affirmé que l'extrême gauche et des criminels exploitent les cortèges pour commettre des infractions.\n\nÀ Paris, la préfecture a ciblé deux secteurs précis. L'interdiction nocturne de circuler concerne la place de la République et la zone commerçante des Halles. D'autres agglomérations appliquent ces mesures de restriction. Les autorités locales ont pris des arrêtés similaires à Nice, à Lyon et à Marseille. Dans le nord du pays, quatre municipalités, dont Lille, appliquent également des restrictions lundi et mardi afin de protéger les commerces.\n\nLes dégradations ont frappé de nombreux centres urbains durant le week-end. Des personnes ont pillé des boutiques et mis le feu à des édifices publics. Les rassemblements portaient sur le coût de la vie et contestaient l'action gouvernementale. Des élèves du second degré manifestaient aussi depuis plusieurs semaines avant les troubles de la fin de semaine. Ces événements interviennent six mois avant une élection présidentielle et dans un contexte de difficultés économiques.\n\nLe gouvernement français n'a pas précisé la durée totale d'application de ces couvre-feux.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-19/france-to-set-partial-curfews-following-protests-riots-video"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/france-sebastien-lecornu-partial-curfews-riots-protests"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/video/2026/oct/19/its-hell-residents-reel-after-violent-weekend-riots-across-france-video"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/france-announces-first-curfews-as-government-grapples-with-unrest"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cx30ez03djyqo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/france-protests-paris-police-issue-overnight-curfew-in-two-areas-to-try-to-prevent-further-disorder/article71603103.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-19T00:00:00Z",
+   "suite_de": null,
+   "mots": 320,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-20-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Une députée australienne grièvement blessée après une agression en voiture",
+   "chapeau": "La députée indépendante Helen Haines a subi de graves blessures le lundi 19 octobre 2026 après avoir été percutée par un véhicule devant sa permanence à Wangaratta. Les services de secours ont transporté l'élue vers un centre hospitalier tandis que les forces de l'ordre ont interpellé le conducteur.",
+   "corps": "La députée indépendante Helen Haines se trouve dans un état critique à l'hôpital. Les événements se sont déroulés en fin de journée le lundi 19 octobre 2026 dans l'État de Victoria. Une automobile est venue frapper l'élue fédérale devant ses bureaux de circonscription situés dans la commune rurale de Wangaratta.\n\nDes témoins ont rapporté le déroulement des faits sur place. Selon ces personnes, le véhicule a effectué un demi-tour. Le conducteur a ensuite heurté la parlementaire à deux reprises. Des civils présents sur les lieux sont intervenus immédiatement pour maîtriser cet individu avant l'arrivée des services de secours. Les forces de police ont ensuite arrêté cet homme âgé de quarante-trois ans selon The Straits Times le 19 octobre 2026 à 12 h 40. Les enquêteurs ont procédé à son audition.\n\nUne équipe médicale a pris en charge la victime sur place avant d'organiser son transfert aérien vers une structure hospitalière. Les blessures subies par la parlementaire ont entraîné la perte d'une jambe. Son état de santé demeure critique mais stable.\n\nLe Premier ministre australien Anthony Albanese a réagi publiquement aux faits. Le chef du gouvernement a déclaré que cet acte constituait une agression délibérée et qu'il ne s'agissait pas d'un simple accident de la circulation.\n\n## Ce que disent les sources\n\nLa qualification exacte de l'acte varie selon les émetteurs. Le Premier ministre Anthony Albanese, cité par Al Jazeera et la BBC le 19 octobre 2026, décrit une attaque intentionnelle et délibérée. Les autorités policières et d'autres médias comme Bloomberg, Deutsche Welle et la BBC désignent les faits sous les termes d'attaque présumée ou apparente. The Straits Times qualifie l'acte d'agression violente en véhicule.\n\nL'identité du suspect ainsi que les motivations précises de son geste ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-19/australian-lawmaker-helen-haines-injured-in-suspected-attack"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/australianz/australian-lawmaker-helen-haines-in-critical-condition-after-vehicle-attack"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/australian-lawmaker-critically-hurt-in-attack-officials-say/article71602412.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm5ynk1g88kwo"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/asia-pacific/australia-pm-says-independent-mp-helen-haines-has-been-attacked-2026-10-19"
+    }
+   ],
+   "premiere_parution": "2026-10-19T08:32:05Z",
+   "suite_de": null,
+   "mots": 339,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-20-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Christiane Amanpour annonce son départ de CNN après quarante-trois ans",
+   "chapeau": "La journaliste Christiane Amanpour a annoncé le lundi 19 octobre 2026 son départ prochain de la chaîne américaine CNN. Elle quittera le groupe d'information internationale au cours de l'année 2027.",
+   "corps": "Christiane Amanpour a officialisé sa décision dans un communiqué diffusé le lundi 19 octobre 2026. La présentatrice principale pour l'international a expliqué ce choix après plusieurs mois de réflexion. Elle a précisé mettre fin à sa collaboration avec la chaîne après quarante-trois années de présence continue au sein de la rédaction.\n\nSon émission d'entretiens, intitulée Amanpour, cessera sa diffusion au mois de mai 2027 selon les informations publiées par le journal The Guardian. Le quotidien britannique précise que son contrat prendra fin de manière effective à la fin du mois de juin 2027. La journaliste est âgée de soixante-huit ans au moment de cette déclaration, ainsi que le rapporte le quotidien brésilien Folha de S.Paulo le 19 octobre 2026 à 23 heures 01.\n\nLa carrière de Christiane Amanpour au sein du groupe a débuté en 1983. Elle occupait alors un poste d'assistante au bureau des affectations internationales, une structure qui organise les reportages mondiaux. Elle a ensuite couvert plusieurs conflits armés majeurs sur le terrain. Les rédactions de la BBC et du Spiegel rappellent ses reportages au Rwanda, en Afghanistan, en Iran ainsi qu'en Ukraine. Elle a également conduit des entretiens avec de nombreux dirigeants politiques internationaux.\n\nCe départ intervient dans une période de transformation capitalistique pour la chaîne américaine d'information. La société Warner Bros. Discovery, propriétaire du réseau CNN, a conclu une opération de rachat avec l'entreprise Skydance, dirigée par la famille de David Ellison. Plusieurs médias, dont El País et Deutsche Welle, indiquent que cette acquisition par Paramount Skydance s'est achevée quelques semaines avant l'annonce du départ de la journaliste.\n\n## Ce que disent les sources\n\nLe journal britannique The Guardian indique le 19 octobre 2026 à 21 heures 21 que le départ de la présentatrice n'est pas considéré comme lié au rachat récent du groupe par la société Skydance Media de David Ellison. À l'opposé, la chaîne publique allemande Deutsche Welle souligne le 20 octobre 2026 à 07 heures 45 que cette déclaration intervient directement dans le contexte d'une fusion controversée entre Paramount Skydance et la maison mère de CNN.\n\nLes sources ne précisent pas les futurs projets professionnels de Christiane Amanpour ni l'identité de la personne qui la remplacera aux fonctions de présentateur international principal.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c83vqzkrr9zeo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/christiane-amanpour-says-she-is-leaving-cnn-after-43-years"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-19/christiane-amanpour-anuncia-que-deja-la-cnn-despues-de-43-anos-como-referencia-del-periodismo-internacional.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/christiane-amanpour-cnn-chefkorrespondentin-geht-nach-43-jahren-a-30597d9f-28df-4edb-a1a8-c437dc702d35"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/televisao/2026/10/christiane-amanpour-deixara-a-cnn-apos-43-anos.shtml"
+    },
+    {
+     "nom": "fox8live.com",
+     "url": "https://fox8live.com/2026/10/19/longtime-cnn-anchor-christiane-amanpour-leaving-network-after-storied-career-43-years"
+    },
+    {
+     "nom": "wccbcharlotte.com",
+     "url": "https://wccbcharlotte.com/2026/10/19/longtime-cnn-anchor-christiane-amanpour-leaving-network-after-a-storied-career-of-43-years"
+    }
+   ],
+   "premiere_parution": "2026-10-19T16:48:36Z",
+   "suite_de": null,
+   "mots": 399,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-20-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La France durcit son dispositif sécuritaire après des violences urbaines",
+   "chapeau": "Le gouvernement français a instauré des mesures de sécurité renforcées après les dégradations survenues pendant les défilés du week-end des 17 et 18 octobre 2026. Ces dispositions interviennent après des pillages, des incendies et des affrontements dans plusieurs villes de France.",
+   "corps": "Les rassemblements nationaux contre la vie chère organisés le samedi 17 octobre 2026 avaient déjà provoqué de multiples arrestations en France. Les troubles se sont poursuivis durant la fin de semaine avec des incendies de bâtiments publics, des pillages de commerces et des dégradations d'édifices.\n\nLe gouvernement français a mis en place un dispositif de sécurité plus strict pour faire face à ces événements. Les autorités ont notamment instauré des couvre-feux ciblés dans plusieurs secteurs. Les représentants de l'État ont par ailleurs promis un soutien financier destiné aux commerces touchés par les destructions. Les tensions ont nettement diminué après l'application de ces décisions administratives.\n\nLe président Emmanuel Macron a déclaré vouloir appliquer une ligne de fermeté face aux débordements. Le chef de l'État a exigé un réexamen complet de l'ensemble du dispositif de sécurité. Des membres du gouvernement ont reconnu des défaillances dans l'action des forces de l'ordre face aux troubles. Le ministre de l'Intérieur a concédé que les policiers avaient perdu la maîtrise de la situation dans certaines agglomérations en raison de leur infériorité numérique.\n\nLes dégradations ont frappé plusieurs grandes villes du pays, notamment Paris, Marseille, Lyon, Bordeaux et Limoges. Dans cette dernière commune, un incendie a détruit la mairie. Des édifices urbains ont également subi des dommages dans divers centres urbains.\n\nCes manifestations en France s'inscrivent dans un contexte d'inquiétudes liées au coût de la vie et à l'inflation. Les mobilisations ont touché d'autres pays européens au cours des mêmes journées. Des pillages et des affrontements avec les forces de police se sont produits à Milan en Italie, à Bruxelles et Liège en Belgique, ainsi qu'à Tirana en Albanie. Des défilés ont aussi eu lieu au Portugal.\n\n## Ce que disent les sources\n\nConcernant le nombre d'arrestations, les chiffres diffèrent selon les publications et leur heure d'émission. Al Jazeera dénombre 1 200 interpellations le 18 octobre 2026 à 12 h 21. The Straits Times, Deutsche Welle et The Hindu rapportent près de 1 800 ou plus de 1 800 arrestations entre le 18 octobre 2026 à 13 h 51 et le 19 octobre 2026 à 06 h 21. The Guardian fait état de 2 400 arrestations le 19 octobre 2026 à 20 h 05.\n\nLe bilan humain varie également. Al Jazeera recense 150 policiers blessés le 18 octobre 2026 à 12 h 21. The Straits Times indique le 18 octobre 2026 à 13 h 51 que les affrontements ont fait des centaines de policiers blessés ainsi qu'un manifestant mort, une information non reprise par les autres sources.\n\nConcernant le nombre de participants aux défilés en France, Bloomberg et The Guardian mentionnent plus d'un demi-million de manifestants le 19 octobre 2026, tandis que les autres médias n'avancent aucune estimation globale.\n\nEnfin, The Hindu attribue le 19 octobre 2026 l'inflation élevée à la guerre entre les États-Unis et l'Iran, un élément de contexte que les autres sources ne mentionnent pas.\n\nL'identité du manifestant décédé et le montant total des dégâts matériels ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/france-faces-aftermath-of-worst-unrest-in-years"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-19/violence-rocks-france-as-protests-flare-across-europe-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmq8n7l0le11o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest"
+    }
+   ],
+   "premiere_parution": "2026-10-17T16:00:40Z",
+   "suite_de": "2026-10-19-monde-002",
+   "mots": 539,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-20-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Benyamin Nétanyahou met en scène l'appui de Donald Trump avant le vote",
+   "chapeau": "Le Premier ministre israélien Benyamin Nétanyahou a diffusé un échange téléphonique avec le président américain Donald Trump le lundi 19 octobre 2026. Cette initiative de campagne intervient en Israël à huit jours des élections législatives fixées au 27 octobre 2026.",
+   "corps": "Après l'appui accordé le 18 octobre 2026 par Donald Trump au Premier ministre sortant, Benyamin Nétanyahou a exploité ce ralliement dans sa campagne électorale.\n\nLe chef du gouvernement israélien a rendu public un appel téléphonique avec le président des États-Unis. Benyamin Nétanyahou a partagé cette discussion sur ses réseaux sociaux. Les deux dirigeants ont échangé des marques d'estime au cours de cette conversation. Le Premier ministre israélien a qualifié Donald Trump de meilleur ami de l'histoire d'Israël. Le président américain a prédit un très large succès électoral à son interlocuteur lors du vote à venir. Donald Trump a précisé qu'il avait rédigé lui-même le texte de son soutien public.\n\nDurant cet échange, Benyamin Nétanyahou a promis d'achever la mission militaire en cours. Le dirigeant israélien a aussi manifesté sa volonté d'élargir les accords d'Abraham. Ces accords désignent des traités de paix bilatéraux. Donald Trump avait présenté Benyamin Nétanyahou sur un réseau social comme un dirigeant combattant et un allié dans la lutte contre la République islamique d'Iran.\n\nCette mise en avant d'une entente bilatérale s'inscrit dans un contexte électoral disputé. Le scrutin législatif du 27 octobre 2026 est le premier vote parlementaire organisé dans le pays depuis l'attaque menée par le Hamas le 7 octobre 2023. Cette offensive initiale avait déclenché des opérations militaires israéliennes dans la bande de Gaza.\n\nSelon Deutsche Welle le 18 octobre 2026 à 23 h 06, les sondages indiquent que Benyamin Nétanyahou et les formations d'extrême droite alliées n'atteignent pas la majorité requise pour former un gouvernement. Selon France 24 le 20 octobre 2026 à 0 h 35, les enquêtes d'opinion prévoient une confrontation électorale très serrée.\n\nL'intervention américaine modifie le débat politique national. Donald Trump avait manifesté des hésitations pendant plusieurs semaines avant d'accorder son appui officiel. Le quotidien espagnol ABC rappelle qu'en 2015, avant la conclusion de l'accord sur le nucléaire iranien, Benyamin Nétanyahou dénonçait une ingérence de l'administration de Barack Obama en faveur de l'opposition israélienne. Quelques heures avant la prise de position de Donald Trump, le Premier ministre israélien avait également alerté sur le risque d'une présidence américaine hostile à l'avenir. Il appelait alors à nouer des partenariats diplomatiques avec l'Inde et plusieurs pays d'Amérique latine.\n\nLes sources ne précisent pas la teneur complète de l'enregistrement diffusé sur les réseaux sociaux.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/37fbe995-df90-429a-bddb-34d14151bf79"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/trump-reaffirme-son-soutien-plein-et-entier-a-netanyahou-avant-des-legislatives-decisives-en-israel-20261019"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-19/el-respaldo-de-trump-a-netanyahu-llega-tarde-en-el-incierto-panorama-de-las-elecciones-en-israel.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-10-19/ty-article/.premium/netanyahu-thanks-trump-for-election-endorsement-in-televised-phone-call/000001a1-551e-dcd4-afa3-55df82860000"
+    }
+   ],
+   "premiere_parution": "2026-10-18T01:45:00Z",
+   "suite_de": "2026-10-19-monde-004",
+   "mots": 420,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-20-monde-006",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Kenya : le chef de secte Paul Mackenzie reconnu coupable de 191 meurtres",
+   "chapeau": "Un tribunal de Mombasa, au Kenya, a déclaré le prédicateur Paul Mackenzie et ses fidèles coupables du meurtre de 191 personnes le lundi 19 octobre 2026. La justice reproche au responsable religieux d'avoir incité ses partisans à priver de nourriture leurs enfants jusqu'au décès.",
+   "corps": "La juridiction a retenu la culpabilité du dirigeant de l'Église internationale de la Bonne Nouvelle pour la mort de 190 enfants et d'un adulte. Selon RFI le 19 octobre 2026 à 19h46 et ABC le 20 octobre 2026 à 1h35, 29 complices ont également été déclarés coupables aux côtés de Paul Mackenzie. Les juges rendront les peines applicables à l'ensemble des condamnés le 6 novembre 2026.\n\nPaul Mackenzie affirmait à sa communauté que la fin du monde était proche. D'après l'accusation, l'homme demandait aux fidèles de pratiquer une privation totale de nourriture afin d'entrer en contact avec Jésus. Paul Mackenzie contestait avoir ordonné ce jeûne mortel.\n\nLes enquêteurs avaient appréhendé le dirigeant religieux en 2023 à la suite d'un signalement. Les forces de l'ordre avaient ensuite découvert de nombreuses fosses communes dissimulées dans la forêt de Shakahola, située dans l'est du pays. Libération a rapporté le 19 octobre 2026 à 20h36 que les autorités ont exhumé plus de 400 dépouilles dans cette zone boisée proche des plages de Malindi.\n\nSelon le parquet cité par la BBC le 19 octobre 2026 à 21h18, Paul Mackenzie a continué de diriger des fidèles vers la mort en rédigeant des messages depuis sa cellule de prison.\n\n## Ce que disent les sources\n\nLe nombre exact de coaccusés déclarés coupables avec Paul Mackenzie présente une légère variation. RFI et France 24 ont rapporté le 19 octobre 2026, puis ABC le 20 octobre 2026, que le tribunal a condamné 29 personnes aux côtés du chef de la secte. The Guardian a pour sa part indiqué le 19 octobre 2026 à 20h08 qu'environ 30 personnes ont été reconnues coupables avec lui.\n\nLe texte du jugement complet et le détail des peines requises par le parquet ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/africa/paul-mackenzie-kenyan-preacher-who-led-hundreds-starve-death-2026-10-19"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/paul-mackenzie-the-kenyan-preacher-who-led-hundreds-to-starve-to-death"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/afrique/20261019-massacre-de-shakahola-au-kenya-le-gourou-d-une-secte-et-ses-co-accus%C3%A9s-reconnus-coupables-pour-le-meurtre-de-191-personnes"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/afrique/au-kenya-un-gourou-declare-coupable-davoir-affame-jusqua-la-mort-190-enfants-20261019_SYAHAZPDNZDYBIHVHAVIEFYHWM"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckd6d2l3dz4xo"
+    }
+   ],
+   "premiere_parution": "2026-10-19T03:11:29Z",
+   "suite_de": null,
+   "mots": 338,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-20-monde-001",
+  "2026-10-20-monde-002",
+  "2026-10-20-monde-003",
+  "2026-10-20-monde-004",
+  "2026-10-20-monde-005",
+  "2026-10-20-monde-006"
+ ]
+}

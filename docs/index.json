@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-19T05:28:04Z",
- "derniere": "2026-10-19",
+ "maj": "2026-10-20T05:29:40Z",
+ "derniere": "2026-10-20",
  "editions": [
+  {
+   "date": "2026-10-20",
+   "genere_a": "2026-10-20T05:29:40Z",
+   "articles": 6,
+   "une": [
+    "La France instaure des couvre-feux partiels après des violences urbaines",
+    "Une députée australienne grièvement blessée après une agression en voiture",
+    "Christiane Amanpour annonce son départ de CNN après quarante-trois ans"
+   ],
+   "octets": 26699
+  },
   {
    "date": "2026-10-19",
    "genere_a": "2026-10-19T05:28:04Z",

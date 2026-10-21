@@ -1,6 +1,125 @@
 {
- "maj": "2026-10-20T23:59:21Z",
+ "maj": "2026-10-21T11:54:57Z",
  "alertes": [
+  {
+   "id": "2026-10-21-alerte-02",
+   "date": "2026-10-21",
+   "publiee_a": "2026-10-21T11:54:51Z",
+   "titre": "Moscou libère le citoyen américain Stephen Hubbard après des pourparlers",
+   "texte": "Le président russe Vladimir Poutine a annoncé mercredi 21 octobre 2026 la libération du ressortissant américain Stephen Hubbard en Russie. Cette décision intervient lors d'une entrevue à Moscou avec Steve Witkoff, émissaire spécial de Donald Trump.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-21/russia-frees-us-teacher-during-witkoff-talks-after-trump-appeal"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/vladimir-poutine-annonce-la-liberation-de-l-americain-stephen-hubbard_8247160.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/putin-anuncia-liberacion-estadounidense-stephen-hubbard-tras-20261021120106-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_21/stephen-hubbard-chi-e-il-74enne-insegnate-e-veterano-statunitense-liberato-dalla-russia-81974848-14c4-49d7-8f16-7fbe8dd2cxlk.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/c6m24l9v3745o"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7"
+    }
+   ],
+   "cluster": "be73cbf0563d2ee0",
+   "urls": [
+    "https://abc.es/internacional/putin-anuncia-liberacion-estadounidense-stephen-hubbard-tras-20261021120106-nt.html",
+    "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7",
+    "https://bbc.co.uk/news/articles/c6m24l9v3745o",
+    "https://bbc.com/news/articles/c6m24l9v3745o",
+    "https://bloomberg.com/news/articles/2026-10-21/russia-frees-us-teacher-during-witkoff-talks-after-trump-appeal",
+    "https://corriere.it/esteri/26_ottobre_21/stephen-hubbard-chi-e-il-74enne-insegnate-e-veterano-statunitense-liberato-dalla-russia-81974848-14c4-49d7-8f16-7fbe8dd2cxlk.shtml",
+    "https://dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
+    "https://econotimes.com/Trump-Says-He-Asked-Putin-to-Free-U-S-Citizen-Stephen-Hubbard-1758545",
+    "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_21?evenement=a4ee9bfc28",
+    "https://franceinfo.fr/monde/russie/vladimir-poutine-annonce-la-liberation-de-l-americain-stephen-hubbard_8247160.html",
+    "https://lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-dmitri-peskov-le-porte-parole-du-kremlin-affirme-que-la-russie-veut-la-paix-pas-une-treve-avant-la-rencontre-entre-vladimir-poutine-et-steve-witkoff_6796922_3210.html",
+    "https://liberation.fr/international/europe/vladimir-poutine-annonce-que-lamericain-stephen-hubbard-va-etre-libere-des-geoles-russes-20261021_VQWTM77I4BGMTDN5HBAMCSML2E",
+    "https://npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+    "https://spiegel.de/ausland/stephen-james-hubbard-russland-laesst-inhaftierten-us-buerger-frei-a-a50c9a9e-7223-4572-999e-8cf26f1f2c30",
+    "https://straitstimes.com/world/europe/putin-says-russia-has-freed-us-citizen-stephen-hubbard",
+    "https://straitstimes.com/world/europe/who-is-stephen-hubbard-the-us-citizen-held-by-russia",
+    "https://straitstimes.com/world/europe/who-is-stephen-hubbard-the-us-citizen-released-by-russia",
+    "https://theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
+   ]
+  },
+  {
+   "id": "2026-10-21-alerte-03",
+   "date": "2026-10-21",
+   "publiee_a": "2026-10-21T11:54:57Z",
+   "titre": "Le joueur parisien Khvicha Kvaratskhelia souffre d'une rupture du ligament croisé",
+   "texte": "Le Paris Saint-Germain a officialisé ce mercredi 21 octobre 2026 la blessure de Khvicha Kvaratskhelia au genou droit, survenue mardi lors de la rencontre face à Barcelone. L'attaquant géorgien devra subir une opération chirurgicale et restera éloigné des terrains durant plusieurs mois.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/ligue-des-champions/la-star-du-paris-saint-germain-khvicha-kvarastkhelia-gravement-blessee-au-genou-contre-le-fc-barcelone_8247070.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/futbol/2026-10-21/kvaratskhelia-sufre-una-rotura-de-ligamento-cruzado-despues-de-lesionarse-en-el-partido-ante-el-barcelona.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/10/21/khvicha-kvaratskhelia-victime-d-une-rupture-du-ligament-croise-pourrait-etre-forfait-pour-le-restant-de-la-saison-du-psg_6798234_3242.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/calcio/champions-league/26_ottobre_21/kvaratskhelia-infortunio-legamento-crociato-psg-7e205168-e01c-4367-8c36-7036a648cxlk.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/psg-saison-terminee-pour-khvicha-kvaratskhelia-plusieurs-semaines-d-absence-pour-marquinhos-et-ousmane-dembele-20261021"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/cxnv0ed5pz23o"
+    }
+   ],
+   "cluster": "d684926c21a0dbf8",
+   "urls": [
+    "https://aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win",
+    "https://bbc.co.uk/sport/football/articles/cxnv0ed5pz23o",
+    "https://corriere.it/sport/calcio/champions-league/26_ottobre_21/kvaratskhelia-infortunio-legamento-crociato-psg-7e205168-e01c-4367-8c36-7036a648cxlk.shtml",
+    "https://elpais.com/deportes/futbol/2026-10-21/kvaratskhelia-sufre-una-rotura-de-ligamento-cruzado-despues-de-lesionarse-en-el-partido-ante-el-barcelona.html",
+    "https://franceinfo.fr/sports/foot/ligue-des-champions/la-star-du-paris-saint-germain-khvicha-kvarastkhelia-gravement-blessee-au-genou-contre-le-fc-barcelone_8247070.html",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/psg-rupture-du-ligament-croise-redoutee-vive-inquietude-pour-khvicha-kvaratskhelia-20261021",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/psg-saison-terminee-pour-khvicha-kvaratskhelia-plusieurs-semaines-d-absence-pour-marquinhos-et-ousmane-dembele-20261021",
+    "https://lemonde.fr/sport/article/2026/10/21/khvicha-kvaratskhelia-victime-d-une-rupture-du-ligament-croise-pourrait-etre-forfait-pour-le-restant-de-la-saison-du-psg_6798234_3242.html",
+    "https://lequipe.fr/Football/Actualites/Rupture-d-un-ligament-croise-confirmee-pour-khvitcha-kvaratskhelia-apres-psg-barcelone-ousmane-dembele-et-marquinhos-en-soins/1737417",
+    "https://lequipe.fr/Football/Actualites/Suspicions-de-rupture-des-ligaments-croises-pour-khvitcha-kvaratskhelia-apres-psg-barcelone/1737395",
+    "https://theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
+    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-champions/psg-kvaratskhelia-pourrait-ne-plus-rejouer-de-la-saison-20261021"
+   ]
+  },
   {
    "id": "2026-10-21-alerte-01",
    "date": "2026-10-21",

@@ -1,6 +1,141 @@
 {
- "maj": "2026-10-21T11:54:57Z",
+ "maj": "2026-10-21T21:50:42Z",
  "alertes": [
+  {
+   "id": "2026-10-22-alerte-01",
+   "date": "2026-10-22",
+   "publiee_a": "2026-10-21T21:49:37Z",
+   "titre": "La justice condamne Meta à une amende de vingt-cinq milliards de dollars",
+   "texte": "Un magistrat du Nouveau-Mexique impose à Meta de régler 25 milliards de dollars à cet État américain, selon Deutsche Welle le 21 octobre 2026. Cette décision sanctionne l'entreprise pour avoir induit en erreur les membres du réseau social Facebook au sujet de la confidentialité de leurs données personnelles lors du dossier Cambridge Analytica.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/21/megaboete-van-25-miljard-dollar-voor-meta-om-cambridge-analytica-schandaal-a4939507"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/tec/2026/10/meta-pagara-us-25-bilhoes-ao-novo-mexico-por-enganar-usuarios-sobre-privacidade-de-dados.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/reseaux-sociaux/facebook/meta-condamne-a-verser-25-milliards-de-dollars-a-l-etat-du-nouveau-mexique-apres-le-scandale-cambridge-analytica_8247793.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqdr8zxrr3dxo"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261021-meta-condamn%C3%A9-%C3%A0-payer-25-milliards-de-dollars-pour-avoir-tromp%C3%A9-des-utilisateurs-am%C3%A9ricains-de-facebook"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations"
+    }
+   ],
+   "cluster": "079a9cdff40a10e9",
+   "urls": [
+    "https://abc.es/tecnologia/condenan-meta-pagar-multa-25000-millones-enganar-20261021200808-nt.html",
+    "https://aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations",
+    "https://bbc.co.uk/news/articles/cqdr8zxrr3dxo",
+    "https://bloomberg.com/news/articles/2026-10-21/meta-to-pay-historic-25-billion-in-new-mexico-deception-case",
+    "https://corriere.it/economia/aziende/26_ottobre_21/meta-new-mexico-multa-25-miliardi-dollari-c85e12a2-b077-455d-9904-628267178xlk.shtml",
+    "https://dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
+    "https://france24.com/fr/am%C3%A9riques/20261021-meta-condamn%C3%A9-%C3%A0-payer-25-milliards-de-dollars-pour-avoir-tromp%C3%A9-des-utilisateurs-am%C3%A9ricains-de-facebook",
+    "https://franceinfo.fr/internet/reseaux-sociaux/facebook/meta-condamne-a-verser-25-milliards-de-dollars-a-l-etat-du-nouveau-mexique-apres-le-scandale-cambridge-analytica_8247793.html",
+    "https://la-croix.com/international/scandale-cambridge-analytica-le-nouveau-mexique-condamne-meta-a-lui-verser-25-milliards-de-dollars-20261021",
+    "https://lemonde.fr/international/article/2026/10/21/meta-condamne-a-verser-25-milliards-de-dollars-au-nouveau-mexique-apres-le-scandale-cambridge-analytica_6798305_3210.html",
+    "https://liberation.fr/international/amerique/affaire-cambridge-analytica-meta-condamne-a-payer-une-amende-record-de-25-milliards-de-dollars-au-nouveau-mexique-20261021_6J7JRSM3CVAFFB2FDLWAP4FUCM",
+    "https://nrc.nl/nieuws/2026/10/21/megaboete-van-25-miljard-dollar-voor-meta-om-cambridge-analytica-schandaal-a4939507",
+    "https://spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0",
+    "https://www1.folha.uol.com.br/tec/2026/10/meta-pagara-us-25-bilhoes-ao-novo-mexico-por-enganar-usuarios-sobre-privacidade-de-dados.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-22-alerte-02",
+   "date": "2026-10-22",
+   "publiee_a": "2026-10-21T21:50:08Z",
+   "titre": "Le pape Léon XIV ne requiert aucun traitement complémentaire après sa chirurgie",
+   "texte": "Le Vatican a annoncé mercredi 21 octobre 2026 que la tumeur pulmonaire du pape Léon XIV était localisée. Les résultats médicaux indiquent que l'intervention chirurgicale suffit et qu'aucune autre thérapie n'est nécessaire.",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/cancer-do-papa-era-localizado-e-novas-terapias-nao-sao-necessarias-diz-boletim-medico.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/sociedad/hospital-gemelli-confirma-papa-necesitara-ningun-tratamiento-20261021211907-nt.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/religion/sante-du-pape-le-cancer-de-leon-xiv-etait-localise-aucun-traitement-complementaire-n-est-necessaire-20261021"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73"
+    }
+   ],
+   "cluster": "604fab05cc131a5f",
+   "urls": [
+    "https://abc.es/sociedad/hospital-gemelli-confirma-papa-necesitara-ningun-tratamiento-20261021211907-nt.html",
+    "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html",
+    "https://la-croix.com/religion/sante-du-pape-le-cancer-de-leon-xiv-etait-localise-aucun-traitement-complementaire-n-est-necessaire-20261021",
+    "https://spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73",
+    "https://www1.folha.uol.com.br/mundo/2026/10/cancer-do-papa-era-localizado-e-novas-terapias-nao-sao-necessarias-diz-boletim-medico.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-22-alerte-03",
+   "date": "2026-10-22",
+   "publiee_a": "2026-10-21T21:50:42Z",
+   "titre": "Ligue des champions : le Real Madrid bat le RB Leipzig",
+   "texte": "Le Real Madrid a battu le RB Leipzig quatre buts à un mercredi 21 octobre au stade Santiago Bernabéu. Cette rencontre comptait pour la troisième journée de la Ligue des champions.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-mbappe-evidemment-vinicius-de-retour-des-francais-cote-allemand-les-compos-de-real-madrid-leipzig-sont-tombees-20261021"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Lent-au-demarrage-le-real-madrid-garde-la-cadence-face-a-leipzig-en-ligue-des-champions-avec-des-buts-magnifiques-de-mbappe-et-diomande/1737627"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/10/vinicius-junior-passa-em-branco-em-goleada-do-real-madrid-sobre-o-leipzig.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/videos/c3qjnerzngkqo"
+    }
+   ],
+   "cluster": "0af6b6ca869e1659",
+   "urls": [
+    "https://bbc.co.uk/sport/football/videos/c3qjnerzngkqo",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-mbappe-evidemment-vinicius-de-retour-des-francais-cote-allemand-les-compos-de-real-madrid-leipzig-sont-tombees-20261021",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-mbappe-illumine-le-real-madrid-qui-etrille-leipzig-avant-de-defier-le-barca-de-yamal-20261021",
+    "https://lefigaro.fr/sports/football/live/ligue-des-champions/2026/2685421/real-madrid-rb-leipzig",
+    "https://lequipe.fr/Football/Actualites/Lent-au-demarrage-le-real-madrid-garde-la-cadence-face-a-leipzig-en-ligue-des-champions-avec-des-buts-magnifiques-de-mbappe-et-diomande/1737627",
+    "https://theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
+    "https://www1.folha.uol.com.br/esporte/2026/10/vinicius-junior-passa-em-branco-em-goleada-do-real-madrid-sobre-o-leipzig.shtml"
+   ]
+  },
   {
    "id": "2026-10-21-alerte-02",
    "date": "2026-10-21",
@@ -1284,131 +1419,6 @@
     "https://rfi.fr/fr/sports/20261014-ligue-des-champions-le-psg-domine-manchester-city-au-terme-d-un-match-de-folie",
     "https://spiegel.de/sport/fussball/champions-league-manchester-city-unterliegt-paris-saint-germain-a-3cdd5311-497b-4346-b072-e6ce37f8d725",
     "https://www1.folha.uol.com.br/esporte/2026/10/psg-domina-o-city-na-inglaterra-e-vira-lider-da-champions-league.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-14-alerte-01",
-   "date": "2026-10-14",
-   "publiee_a": "2026-10-14T00:22:08Z",
-   "titre": "Andy Burnham reçoit Volodymyr Zelensky à Londres ce mercredi pour réaffirmer son soutien",
-   "texte": "Le premier ministre britannique Andy Burnham accueille le président ukrainien Volodymyr Zelensky à Downing Street ce mercredi 14 octobre 2026. Cette rencontre à Londres vise à confirmer l'aide du Royaume-Uni à l'Ukraine après des tensions récentes avec les États-Unis.",
-   "sources": [
-    {
-     "nom": "herefordtimes.com",
-     "url": "https://herefordtimes.com/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-13/burnham-hosts-zelenskyy-as-uk-grapples-with-trump-russia-policy"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cq98z59xdny5o"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/zelenskiy-visits-britain-as-burnham-pledges-fresh-support-for-ukraine"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/flash-actu/andy-burnham-recoit-volodymyr-zelensky-a-downing-street-mercredi-soucieux-de-marquer-son-soutien-a-l-ukraine-20261013"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece"
-    }
-   ],
-   "cluster": "5aef7260820915d9",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cq98z59xdny5o",
-    "https://bloomberg.com/news/articles/2026-10-13/burnham-hosts-zelenskyy-as-uk-grapples-with-trump-russia-policy",
-    "https://chardandilminsternews.co.uk/news/national/26634184.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow",
-    "https://herefordtimes.com/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow",
-    "https://lefigaro.fr/flash-actu/andy-burnham-recoit-volodymyr-zelensky-a-downing-street-mercredi-soucieux-de-marquer-son-soutien-a-l-ukraine-20261013",
-    "https://straitstimes.com/world/europe/zelenskiy-visits-britain-as-burnham-pledges-fresh-support-for-ukraine",
-    "https://thecomet.net/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow",
-    "https://theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
-    "https://thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece"
-   ]
-  },
-  {
-   "id": "2026-10-14-alerte-02",
-   "date": "2026-10-14",
-   "publiee_a": "2026-10-14T00:22:17Z",
-   "titre": "Lisandro Martinez critique les dirigeants de Manchester United après une défaite",
-   "texte": "Le défenseur Lisandro Martinez a vivement critiqué la direction de Manchester United le 14 octobre 2026. Ses reproches sur le recrutement suivent un revers contre l'Atlético de Madrid en Ligue des champions.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/crlykw9eevx3o"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/-je-m-attendais-a-ce-qu-on-recrute-plus-de-joueurs-lisandro-martinez-dezingue-la-politique-sportive-de-manchester-united/1725624"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment"
-    }
-   ],
-   "cluster": "32fb0b69d7af1a79",
-   "urls": [
-    "https://aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment",
-    "https://bbc.co.uk/sport/football/articles/crlykw9eevx3o",
-    "https://lequipe.fr/Football/Actualites/-je-m-attendais-a-ce-qu-on-recrute-plus-de-joueurs-lisandro-martinez-dezingue-la-politique-sportive-de-manchester-united/1725624",
-    "https://theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid"
-   ]
-  },
-  {
-   "id": "2026-10-14-alerte-03",
-   "date": "2026-10-14",
-   "publiee_a": "2026-10-14T00:23:32Z",
-   "titre": "Frappes russes sur Kiev sans alerte préalable des alliés selon Volodymyr Zelensky",
-   "texte": "Les partenaires de l'Ukraine n'ont transmis aucun renseignement avant les tirs de missiles balistiques russes sur Kiev les 12 et 13 octobre 2026. Le président Volodymyr Zelensky a déploré cette absence d'avertissement après ces attaques contre des infrastructures de la capitale.",
-   "sources": [
-    {
-     "nom": "rockymounttelegram.com",
-     "url": "https://rockymounttelegram.com/news/world/zelenskyy-says-ukraine-received-no-intelligence-from-partners-about-missiles-headed-to-kyiv/article_a4679f00-330e-5a3b-9f25-2af467669404.html"
-    },
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.eu/article/no-warning-for-russian-missile-strike-kyiv-zelenskyy"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/allies-failed-to-warn-ukraine-of-impending-missile-attack-zelenskiy-says"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/ck20r9qpw505o"
-    }
-   ],
-   "cluster": "6b6d957d54deac8d",
-   "urls": [
-    "https://bbc.co.uk/news/articles/ck20r9qpw505o",
-    "https://ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1",
-    "https://politico.eu/article/no-warning-for-russian-missile-strike-kyiv-zelenskyy",
-    "https://rockymounttelegram.com/news/world/zelenskyy-says-ukraine-received-no-intelligence-from-partners-about-missiles-headed-to-kyiv/article_a4679f00-330e-5a3b-9f25-2af467669404.html",
-    "https://straitstimes.com/world/europe/allies-failed-to-warn-ukraine-of-impending-missile-attack-zelenskiy-says",
-    "https://straitstimes.com/world/europe/russian-missile-attack-on-kyiv-kills-one",
-    "https://theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-    "https://yahoo.com/news/world/articles/zelenskyy-says-ukraine-received-no-112128424.html"
    ]
   }
  ]

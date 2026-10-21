@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-20T05:29:40Z",
- "derniere": "2026-10-20",
+ "maj": "2026-10-21T05:31:39Z",
+ "derniere": "2026-10-21",
  "editions": [
+  {
+   "date": "2026-10-21",
+   "genere_a": "2026-10-21T05:31:39Z",
+   "articles": 26,
+   "une": [
+    "Les électeurs de l'Alberta rejettent le projet de séparation du Canada",
+    "Christiane Amanpour précise les étapes de son départ de CNN en 2027",
+    "Le Royaume-Uni déploie des avions de combat pour défendre l'Arabie saoudite"
+   ],
+   "octets": 86679
+  },
   {
    "date": "2026-10-20",
    "genere_a": "2026-10-20T05:29:40Z",

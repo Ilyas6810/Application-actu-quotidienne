@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-21T05:31:39Z",
- "derniere": "2026-10-21",
+ "maj": "2026-10-22T05:35:25Z",
+ "derniere": "2026-10-22",
  "editions": [
+  {
+   "date": "2026-10-22",
+   "genere_a": "2026-10-22T05:35:25Z",
+   "articles": 44,
+   "une": [
+    "Steve Witkoff rencontre Vladimir Poutine à Saint-Pétersbourg pour négocier sur l'Ukraine",
+    "Moscou accepte le principe de négociations tripartites sur le conflit ukrainien",
+    "Le Nigeria identifie la souche Bundibugyo du virus Ebola à Abuja"
+   ],
+   "octets": 145239
+  },
   {
    "date": "2026-10-21",
    "genere_a": "2026-10-21T05:31:39Z",

@@ -1,6 +1,153 @@
 {
- "maj": "2026-10-22T21:43:27Z",
+ "maj": "2026-10-23T21:39:14Z",
  "alertes": [
+  {
+   "id": "2026-10-24-alerte-01",
+   "date": "2026-10-24",
+   "publiee_a": "2026-10-23T21:34:45Z",
+   "titre": "Moscou et Kiev acceptent une trêve locale dans la ville d'Olechky",
+   "texte": "La Russie et l'Ukraine ont conclu un cessez-le-feu localisé à Olechky le 23 octobre 2026. La Maison Blanche attribue cette médiation à la Première dame américaine Melania Trump.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-ukraine-agree-on-ceasefire-in-embattled-town-to-hold-peace-talks-next-month"
+    }
+   ],
+   "cluster": "81d5784b5cf4370e",
+   "urls": [
+    "https://abc.es/internacional/casa-blanca-asegura-melania-trump-logrado-alto-20261023154657-nt.html",
+    "https://aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky",
+    "https://aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire",
+    "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+    "https://dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
+    "https://france24.com/fr/europe/20261023-melania-trump-dit-avoir-obtenu-cessez-feu-dans-ville-ukrainienne-pleine-crise-humanitaire",
+    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html",
+    "https://ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
+    "https://latimes.com/world-nation/story/2026-10-23/melania-trump-helps-forge-ceasefire-deal-in-russian-occupied-ukrainian-city-white-house-says",
+    "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+    "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-ursula-von-der-leyen-se-dit-profondement-alarmee-par-une-nouvelle-escalade-russe-apres-l-attaque-d-un-cargo-en-mer-noire_6796922_3210.html",
+    "https://liberation.fr/international/europe/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky-20261023_4KW4CUVBGFDOZOFJI7VDP4XVDM",
+    "https://rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky",
+    "https://spiegel.de/ausland/ukraine-russland-krieg-melania-trump-verkuendet-lokale-waffenruhe-verkuenden-kreml-und-kyjiw-bestaetigen-a-7c266a41-621e-4d77-80d8-cc4dd675ecf6",
+    "https://straitstimes.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing",
+    "https://straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says",
+    "https://straitstimes.com/world/europe/russia-ukraine-agree-on-ceasefire-in-embattled-town-to-hold-peace-talks-next-month",
+    "https://theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+    "https://theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+    "https://thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece",
+    "https://wgal.com/article/melania-trump-ceasefire-deal-russian-occupied-oleshky-white-house/74221941",
+    "https://www1.folha.uol.com.br/mundo/2026/10/melania-trump-mediou-tregua-em-cidade-ocupada-na-ucrania-dizem-eua.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-24-alerte-02",
+   "date": "2026-10-24",
+   "publiee_a": "2026-10-23T21:37:05Z",
+   "titre": "Donald Trump allège les droits de douane sur des produits canadiens",
+   "texte": "La Maison-Blanche a annoncé vendredi 23 octobre 2026 la levée de taxes douanières visant certaines marchandises en provenance du Canada. Cette décision intervient aux États-Unis pour soutenir la campagne de réélection de la sénatrice républicaine Susan Collins.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-23/trump-to-lower-some-canada-tariffs-maine-senator-collins-says"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c60qk573yzz8o"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "cluster": "802f2db07fff70c7",
+   "urls": [
+    "https://bbc.co.uk/news/articles/c60qk573yzz8o",
+    "https://bloomberg.com/news/articles/2026-10-23/coffins-and-canoes-from-canada-get-50-tariff-under-new-trump-order",
+    "https://bloomberg.com/news/articles/2026-10-23/trump-to-lower-some-canada-tariffs-maine-senator-collins-says",
+    "https://dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss",
+    "https://ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+    "https://theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
+   ]
+  },
+  {
+   "id": "2026-10-24-alerte-03",
+   "date": "2026-10-24",
+   "publiee_a": "2026-10-23T21:39:14Z",
+   "titre": "Attaque armée dans les Yvelines : le parquet antiterroriste ouvre une enquête",
+   "texte": "Un individu a tué une personne et blessé plusieurs autres vendredi 23 octobre lors de tirs à Trappes et La Verrière. Les forces de l'ordre ont interpellé le tireur soupçonné d'avoir ciblé des personnes issues de l'immigration.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/tireur-des-yvelines-macron-evoque-un-tournant-invite-a-ne-rien-ceder-face-aux-idees-qui-s-installent-20261023"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU"
+    }
+   ],
+   "cluster": "745d9c555817736b",
+   "urls": [
+    "https://france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+    "https://france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+    "https://franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html",
+    "https://lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
+    "https://lefigaro.fr/faits-divers/tireur-des-yvelines-macron-evoque-un-tournant-invite-a-ne-rien-ceder-face-aux-idees-qui-s-installent-20261023",
+    "https://lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
+    "https://lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/23/tirs-a-trappes-et-a-la-verriere-un-mort-et-quatre-blesses-dans-des-tirs-a-l-arme-automatique-le-parquet-antiterroriste-saisi_6799092_3224.html",
+    "https://lemonde.fr/societe/video/2026/10/23/tirs-a-trappes-et-a-la-verriere-emmanuel-macron-denonce-un-attentat-terroriste-raciste_6799145_3224.html",
+    "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU",
+    "https://rfi.fr/fr/france/20261023-france-un-homme-tire-en-rafales-en-banlieue-parisienne-le-parquet-antiterroriste-se-saisit"
+   ]
+  },
   {
    "id": "2026-10-23-alerte-01",
    "date": "2026-10-23",
@@ -1229,185 +1376,6 @@
     "https://franceinfo.fr/faits-divers/tirs-dans-un-college-d-aubagne-un-deuxieme-adolescent-mis-en-examen-et-place-en-detention-provisoire-soupconne-d-etre-en-lien-avec-le-suspect_8240983.html",
     "https://la-croix.com/fusillade-d-aubagne-un-deuxieme-adolescent-presente-a-la-justice-20261016",
     "https://lefigaro.fr/marseille/fusillade-dans-un-college-a-aubagne-un-autre-adolescent-interpelle-et-place-en-garde-a-vue-20261015"
-   ]
-  },
-  {
-   "id": "2026-10-16-alerte-03",
-   "date": "2026-10-16",
-   "publiee_a": "2026-10-16T16:49:48Z",
-   "titre": "Le pape Leon XIV demande a Poutine un cessez le feu pour Olechky",
-   "texte": "Le pontife discute par telephone le vendredi 16 octobre 2026 avec le president russe depuis l hopital Gemelli pour reclamer une trve dans la ville d Olechky.",
-   "sources": [
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/ukraine-russie-jour-1696-point-conflit-ukrainien-poutine-aujourdhui-20261016"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/kremlin-says-putin-told-pope-leo-he-backs-vatican-idea-to-help-civilians-in-oleshky"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/papa-habla-telefono-putin-pide-tregua-permitir-20261016174931-nt.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_16/ucraina-russia-news-guerra.shtml"
-    }
-   ],
-   "cluster": "a5fe36c9ea6b6397",
-   "urls": [
-    "https://abc.es/internacional/papa-habla-telefono-putin-pide-tregua-permitir-20261016174931-nt.html",
-    "https://corriere.it/esteri/diretta-live/26_ottobre_16/ucraina-russia-news-guerra.shtml",
-    "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html",
-    "https://la-croix.com/international/ukraine-russie-jour-1696-point-conflit-ukrainien-poutine-aujourdhui-20261016",
-    "https://lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016",
-    "https://lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-il-est-plus-facile-de-communiquer-avec-donald-trump-qu-avec-vladimir-poutine-affirme-volodymyr-zelensky_6791198_3210.html",
-    "https://roma.corriere.it/notizie/politica/26_ottobre_16/telefonata-tra-putin-e-papa-leone-20f40ae8-b964-4133-b885-d8a05e060xlk.shtml",
-    "https://spiegel.de/ausland/russland-ukraine-krieg-papst-leo-mahnt-putin-zu-waffenstillstand-in-ukrainischer-frontstadt-a-711a9b77-d711-4a25-b640-de5cb7469c27",
-    "https://straitstimes.com/world/europe/kremlin-says-putin-told-pope-leo-he-backs-vatican-idea-to-help-civilians-in-oleshky",
-    "https://theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
-   ]
-  },
-  {
-   "id": "2026-10-16-alerte-02",
-   "date": "2026-10-16",
-   "publiee_a": "2026-10-16T04:39:25Z",
-   "titre": "Une fusillade fait plusieurs morts dans une école primaire en Oregon",
-   "texte": "Un adolescent armé a tué quatre personnes dans un établissement scolaire de la ville de Bend le 15 octobre 2026. Un témoin a ensuite abattu le suspect à l'intérieur du bâtiment.",
-   "sources": [
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_15/oregon-sparatoria-scuola-elementare-402dbd21-4c2b-4f4e-923c-823b83febxlk.shtml"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/10/16/zeker-vijf-doden-bij-schietpartij-op-amerikaanse-basisschool-a4939089"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/etats-unis-un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-20261015"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cm89zp48k4kzo"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html"
-    }
-   ],
-   "cluster": "0698a73c505dc4cb",
-   "urls": [
-    "https://abc.es/internacional/cuatro-muertos-tiroteo-escuela-oregon-eeuu-20261016005748-nt.html",
-    "https://aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting",
-    "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-b0642ec5cd3da0db24227a2798e2c6ce",
-    "https://bbc.co.uk/news/articles/cm89zp48k4kzo",
-    "https://bbc.co.uk/news/videos/cwe8r29mjd05o",
-    "https://corriere.it/esteri/26_ottobre_15/oregon-sparatoria-scuola-elementare-402dbd21-4c2b-4f4e-923c-823b83febxlk.shtml",
-    "https://dunfermlinepress.com/news/national/26641802.three-children-teacher-killed-us-school-shooting-police-say",
-    "https://dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_15?evenement=6557bc243e",
-    "https://france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
-    "https://franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html",
-    "https://irishexaminer.com/world/arid-41924839.html",
-    "https://lefigaro.fr/international/etats-unis-un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-20261015",
-    "https://lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
-    "https://nrc.nl/nieuws/2026/10/16/zeker-vijf-doden-bij-schietpartij-op-amerikaanse-basisschool-a4939089",
-    "https://rfi.fr/fr/am%C3%A9riques/20261015-%C3%A9tats-unis-quatre-morts-dont-trois-enfants-dans-une-fusillade-dans-une-%C3%A9cole-primaire-de-l-oregon",
-    "https://rhyljournal.co.uk/news/national/26641802.three-children-teacher-killed-us-school-shooting-police-say",
-    "https://spiegel.de/panorama/oregon-fuenf-tote-nach-gewalttat-an-grundschule-im-westen-der-usa-a-7cbb1a35-5486-409b-b682-60c9508d7a00",
-    "https://straitstimes.com/world/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance",
-    "https://straitstimes.com/world/united-states/multiple-victims-in-oregon-elementary-school-shooting-police",
-    "https://taylorvilledailynews.com/reports-3-kids-1-adult-dead-after-active-shooter-at-oregon-elementary-school",
-    "https://taylorvilledailynews.com/shooter-is-killed-at-oregon-elementary-school-at-least-two-taken-away-in-ambulance",
-    "https://thecourier.com.au/story/9369623/three-children-and-teacher-killed-in-us-school-shooting",
-    "https://theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-    "https://thehindu.com/news/international/shooting-at-elementary-school-in-oregon-leaves-several-hospitalised-shooter-dead/article71590073.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/10/atirador-ataca-escola-nos-eua-e-mata-3-criancas-e-1-adulto-diz-imprensa.shtml",
-    "https://zocalo.com.mx/tres-ninos-de-entre-5-y-11-anos-mueren-junto-a-un-profesor-en-el-tiroteo-de-una-primaria-en-oregon-el-atacante-fue-abatido"
-   ]
-  },
-  {
-   "id": "2026-10-16-alerte-01",
-   "date": "2026-10-16",
-   "publiee_a": "2026-10-15T21:28:22Z",
-   "titre": "Dix-neuf blessés dans une collision entre un bus et un train à Coquelles",
-   "texte": "Un minibus transportant des chauffeurs routiers a heurté un train de marchandises jeudi 15 octobre au soir sur le terminal d'Eurotunnel à Coquelles, dans le Pas-de-Calais. Les autorités françaises recensent dix-neuf personnes blessées lors de cet événement, mais aucun pronostic vital n'est engagé.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/article/2026/10/15/tunnel-sous-la-manche-un-accident-entre-un-bus-et-un-train-de-fret-fait-dix-neuf-blesses_6794797_3224.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/accident/un-grave-accident-entre-un-bus-et-un-train-s-est-produit-a-l-entree-du-tunnel-sous-la-manche-pres-de-calais-et-a-fait-une-vingtaine-de-blesses_8239282.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/tunnel-de-la-manche-collision-entre-un-bus-et-un-train-19-blesses-dont-5-en-urgence-absolue-20261015_SCJJ6TEZ3NBZ5BW3RWLDHTDIH4"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6wyrnmgzn01o"
-    }
-   ],
-   "cluster": "2850242d2780a23d",
-   "urls": [
-    "https://abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html",
-    "https://bbc.co.uk/news/articles/c6wyrnmgzn01o",
-    "https://dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss",
-    "https://franceinfo.fr/faits-divers/accident/un-grave-accident-entre-un-bus-et-un-train-s-est-produit-a-l-entree-du-tunnel-sous-la-manche-pres-de-calais-et-a-fait-une-vingtaine-de-blesses_8239282.html",
-    "https://lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015",
-    "https://lemonde.fr/societe/article/2026/10/15/tunnel-sous-la-manche-un-accident-entre-un-bus-et-un-train-de-fret-fait-dix-neuf-blesses_6794797_3224.html",
-    "https://liberation.fr/international/europe/tunnel-de-la-manche-collision-entre-un-bus-et-un-train-19-blesses-dont-5-en-urgence-absolue-20261015_SCJJ6TEZ3NBZ5BW3RWLDHTDIH4",
-    "https://straitstimes.com/world/europe/nineteen-injured-after-train-and-coach-collide-in-northern-france",
-    "https://theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais"
    ]
   }
  ]

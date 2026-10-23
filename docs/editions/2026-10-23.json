@@ -1,0 +1,538 @@
+{
+ "date": "2026-10-23",
+ "genere_a": "2026-10-23T05:33:49Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-23-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un séisme de magnitude 7 au Tibet fait au moins 16 morts",
+   "chapeau": "Un tremblement de terre de magnitude 7 a secoué le Tibet jeudi 22 octobre 2026 dans la soirée. Les autorités locales et les médias d'État chinois recensent au moins 16 morts et plusieurs dizaines de blessés dans la région.",
+   "corps": "La secousse a frappé le sud-ouest de la Chine jeudi à 22 h 33 heure locale, soit 14 h 33 temps universel coordonné. L'Institut d'études géologiques des États-Unis a mesuré une magnitude de 7 pour cet événement. Le canton de Maru a abrité l'épicentre du phénomène, d'après les indications fournies par le quotidien français La Croix le 23 octobre à 08 h 56. Cette secousse est la plus forte répertoriée en Chine depuis janvier 2024, selon le journal espagnol El País le 23 octobre à 06 h 30. La télévision d'État chinoise a pour sa part qualifié ce séisme de secousse la plus importante enregistrée dans cette zone himalayenne depuis cinq ans, rapporte Deutsche Welle le 23 octobre à 03 h 24.\n\nLes opérations de recherche et de sauvetage se poursuivent dans les secteurs touchés. La secousse a provoqué l'écroulement de nombreuses bâtisses dans le nord de la région autonome, notamment près de la ville de Nagqu. Le bureau d'information de cette municipalité a signalé la destruction d'au moins 339 résidences privées et de 20 abris réservés au bétail, rapportent The Guardian le 23 octobre à 08 h 04 et The Hindu le 23 octobre à 08 h 34. Les autorités ont aussi relevé au moins sept secousses secondaires dans les heures qui ont suivi le séisme initial.\n\n## Ce que disent les sources\n\nLes bilans humains et matériels présentent des divergences selon les moments de publication et les organismes cités. L'agence de presse officielle Xinhua a d'abord comptabilisé 16 morts et 32 personnes blessées, tout en mentionnant plus de 300 habitations écroulées, rapportent ABC le 23 octobre à 00 h 55, RFI à 01 h 33, franceinfo à 01 h 37 et La Croix à 08 h 56. The Guardian, citant les médias d'État le 23 octobre à 08 h 04, a ensuite fait état de 54 personnes blessées pour 16 décès. Le gouvernement local, par une publication sur les réseaux sociaux relayée par The Straits Times le 23 octobre à 07 h 21, a révisé ce bilan à 65 blessés sans modification des 16 décès recensés. Ce total de 65 blessés est repris par la chaîne de télévision publique CCTV citée par Corriere della Sera le 23 octobre à 08 h 53, qui indique également au moins 300 bâtiments détruits ou endommagés. Le bureau de presse de Nagqu cité par The Hindu le 23 octobre à 08 h 34 mentionne pour sa part 11 blessés dans un état grave et 21 personnes légèrement atteintes.\n\nL'évaluation globale de l'ensemble des dommages matériels et du bilan définitif des personnes sinistrées reste pour l'heure incomplète.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/terremoto-magnitud-sacude-tibet-20261022200715-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261022-un-puissant-s%C3%A9isme-de-magnitude-7-fait-des-morts-et-de-nombreux-bless%C3%A9s-au-tibet"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/chine/le-tibet-secoue-par-un-seisme-de-magnitude-7-des-effondrements-de-maisons-signales_8249449.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/tote-und-verletzte-bei-starkem-erdbeben-in-china-a-3429b9ad-800f-47c7-8fd4-61442e1be44d"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-23/un-terremoto-de-magnitud-7-causa-al-menos-16-muertos-en-el-tibet.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/injuries-in-chinas-tibet-rise-to-65-after-earthquake-death-toll-remains-at-16"
+    }
+   ],
+   "premiere_parution": "2026-10-22T12:00:00Z",
+   "suite_de": null,
+   "mots": 472,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La justice du Nouveau Mexique inflige une amende a Meta",
+   "chapeau": "Un juge du Nouveau Mexique a ordonne a l entreprise Meta de payer une amende a cet Etat americain le mercredi 21 octobre 2026. Cette decision fait suite au verdict d un jury populaire concernant la gestion des donnees privees des personnes inscrites sur le reseau social Facebook.",
+   "corps": "Cette decision fait suite a la condamnation de Meta a payer 25 milliards de dollars par un magistrat du Nouveau Mexique le mercredi 21 octobre 2026.\n\nUn jury de cet Etat du sud-ouest des Etats-Unis a etabli que Meta avait induit le public en erreur au sujet de la protection de la vie privee. Le dossier judiciaire decoule des pratiques liees au cabinet de conseil Cambridge Analytica. Cette structure avait travaille pour la premiere campagne electorale de Donald Trump en vue du scrutin presidentiel de 2016. La firme politique avait collecte des donnees appartenant a des millions de profils Facebook sans l accord prealable de leurs proprietaires. Les faits remontent a plusieurs annees, les atteintes aux comptes ayant ete constatees en 2018.\n\nLe montant de la sanction financiere s eleve a 25 milliards de dollars selon le tribunal du Nouveau Mexique, ce qui represente 22,3 milliards d euros selon le journal neerlandais NRC le 21 octobre 2026 a 23h27, ou encore 125,9 milliards de reals bresiliens d apres le quotidien Folha de S.Paulo le 21 octobre 2026 a 23h31. La BBC rappelle le 22 octobre 2026 a 01h49 que cette sanction depasse le reglement precedent de 18 milliards de dollars conclu par l entreprise technologique avec l Etat de Californie.\n\nLe procureur general du Nouveau Mexique qualifie ce jugement de decision majeure obtenue par un Etat contre une societe privee sur le sol americain. Meta possede egalement les applications Instagram et WhatsApp. L entreprise fait face a plusieurs procedures judiciaires liees a l utilisation des donnees informatiques de ses clients.\n\nLes sources ne precisent pas si l entreprise Meta a decide d interjeter appel de ce jugement civil.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/etats-unis-meta-condamne-a-une-amende-de-25-milliards-de-dollars-dans-l-affaire-cambridge-analytica-20261021"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/21/megaboete-van-25-miljard-dollar-voor-meta-om-cambridge-analytica-schandaal-a4939507"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/tec/2026/10/meta-pagara-us-25-bilhoes-ao-novo-mexico-por-enganar-usuarios-sobre-privacidade-de-dados.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/reseaux-sociaux/facebook/meta-condamne-a-verser-25-milliards-de-dollars-a-l-etat-du-nouveau-mexique-apres-le-scandale-cambridge-analytica_8247793.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqdr8zxrr3dxo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/meta-ordered-to-pay-us25b-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy"
+    }
+   ],
+   "premiere_parution": "2026-10-21T12:00:00Z",
+   "suite_de": "2026-10-22-monde-005",
+   "mots": 329,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'OMS alerte sur Ebola après un premier cas au Nigeria",
+   "chapeau": "L'Organisation mondiale de la santé a qualifié la flambée d'Ebola de plus complexe le 22 octobre 2026 après la détection d'un cas à Abuja. Les autorités du Nigeria recherchent des dizaines de personnes en contact avec la patiente infectée.",
+   "corps": "Le Nigeria a enregistré son premier cas de virus Ebola avec l'infection d'une voyageuse rentrée d'Ouganda par la souche Bundibugyo. L'Organisation mondiale de la santé a déclaré le 22 octobre 2026 que le passage de la maladie de l'Afrique de l'Est vers l'Afrique de l'Ouest rendait l'épidémie plus difficile à gérer. L'institution invite les gouvernements africains à coordonner leurs actions pour stopper la transmission du virus.\n\nLe ministre nigérian de la Santé a affirmé le 22 octobre 2026 que cette contamination restait un événement isolé et maîtrisé, sans propagation dans la population. Le Centre nigérian de contrôle et de prévention des maladies a validé le diagnostic grâce à trois niveaux d'analyses moléculaires. Ce test détecte le matériel génétique du microbe. Les équipes sanitaires poursuivent leurs enquêtes pour localiser le lieu précis de l'infection.\n\nL'épidémie actuelle touche plusieurs pays du continent. Le journal El País a rapporté le 21 octobre 2026 à 18h54 que la République démocratique du Congo comptait au moins 9 600 cas recensés et 4 646 décès. Le même quotidien a relevé neuf cas au Kenya et vingt cas en Ouganda, tout en précisant que l'Ouganda ne compte plus de malades. Le journal espagnol ABC a noté le 21 octobre 2026 l'absence de vaccin approuvé et de traitement spécifique pour la souche Bundibugyo, ainsi que les freins posés par les conflits armés sur le suivi médical.\n\n## Ce que disent les sources\n\nLes publications divergent sur l'identité de la personne infectée. Folha de S.Paulo et Le Monde décrivent la patiente comme une diplomate. BBC News affirme pour sa part qu'il s'agit de l'épouse d'un diplomate en poste à Abuja, partie en vacances à Kampala.\n\nLe nombre de personnes recherchées varie également selon les médias. Le quotidien Le Monde a rapporté le 22 octobre 2026 que le Nigeria avait repéré 44 cas contacts. Le Financial Times mentionnait la veille des dizaines de personnes suivies, sans donner de chiffre exact.\n\nEnfin, le décompte des territoires touchés diffère. Al Jazeera a évoqué le 22 octobre 2026 la présence de la flambée dans trois pays. Le journal ABC mentionnait le 21 octobre 2026 quatre pays atteints, en incluant l'Ouganda qu'El País déclarait libéré de l'infection le jour même.\n\nLes sources ne précisent pas la date à laquelle les résultats sur l'origine exacte de la contamination de la patiente seront connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/sociedad/nigeria-confirma-primer-nuevo-brote-ebola-propaga-20261021121803-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/planeta-futuro/2026-10-21/el-brote-de-ebola-se-expande-a-africa-occidental-tras-la-confirmacion-del-primer-caso-en-nigeria.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/nigeria-identifica-cepa-bundibugyo-em-1o-caso-de-ebola-no-pais.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c62kepvg2x9lo"
+    },
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/fr/story/2026/10/1159709"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sante/maladie/ebola/l-afrique-fait-face-a-une-situation-de-flambee-d-ebola-plus-complexe-apres-un-premier-cas-au-nigeria_8249044.html"
+    }
+   ],
+   "premiere_parution": "2026-10-20T17:31:26Z",
+   "suite_de": "2026-10-22-monde-001",
+   "mots": 427,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump soutient un spot de Vivek Ramaswamy en Ohio",
+   "chapeau": "Le candidat républicain Vivek Ramaswamy affronte la démocrate Amy Acton pour le poste de gouverneur en Ohio en octobre 2026. Donald Trump a défendu le 22 octobre 2026 une publicité électorale de son allié qui met en scène la mère de sa rivale.",
+   "corps": "Le président Donald Trump a pris la défense d'un message télévisé diffusé par Vivek Ramaswamy. Ce spot électoral attaque directement la démocrate Amy Acton en faisant intervenir sa propre mère, avec qui elle est en froid. Selon le président américain, cette vidéo touche le cœur de la cible. Il a qualifié le clip de message percutant. Il a également affirmé qu'il aurait lui-même commandé une telle séquence dans une campagne.\n\nDonald Trump a invité le candidat conservateur à maintenir la diffusion de ce spot sur les écrans. Lors d'un rassemblement public tenu dans l'Iowa, il a précisé avoir incité Vivek Ramaswamy à ne pas céder aux pressions. Le président a par ailleurs rejeté les reproches formulés par les observateurs en les présentant comme une manœuvre organisée par les médias d'information.\n\nCette publicité provoque pourtant des divisions au sein du Parti républicain. Le gouverneur républicain sortant de l'Ohio, Mike DeWine, a publiquement dénoncé la démarche de Vivek Ramaswamy le 22 octobre 2026. Il a jugé que cette initiative était mauvaise et profondément troublante. Mike DeWine a demandé le retrait immédiat de ce message publicitaire. En réponse, Donald Trump a critiqué l'attitude du gouverneur de l'Ohio.\n\nD'autres figures du camp conservateur ont condamné ce choix de campagne. L'élue républicaine Nancy Mace a qualifié ce clip d'annonce offensante et honteuse pour ce cycle électoral. Plusieurs cadres républicains ont exprimé leur inquiétude quant aux retombées de cette polémique sur le scrutin de l'Ohio. Selon le quotidien El País le 23 octobre 2026, des analystes mesurent une avance en faveur d'Amy Acton après l'apparition de cette controverse politique.\n\nEn marge de ces tensions régionales, une autre élection retient l'attention des instituts d'opinion. D'après une enquête Emerson College Polling parue dans The Hill et mentionnée par The Guardian le 23 octobre 2026 à 05:59, le démocrate James Talarico recueille 48 % des intentions de vote face au républicain Ken Paxton qui atteint 46 %, tandis que 5 % des électeurs interrogés restent indécis au Texas.\n\nLe coût financier de la campagne publicitaire de Vivek Ramaswamy n'est pas précisé dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "airdriecityview.com",
+     "url": "https://airdriecityview.com/world-news/republican-gov-mike-dewine-denounces-ramaswamy-ad-featuring-democrat-amy-actons-estranged-mother-12924246"
+    },
+    {
+     "nom": "aol.com",
+     "url": "https://aol.com/articles/ohio-gov-dewine-condemns-ramaswamy-171400000.html"
+    },
+    {
+     "nom": "adn.com",
+     "url": "https://adn.com/nation-world/2026/10/22/trump-backs-ramaswamy-on-controversial-ad-says-it-was-hitting-pay-dirt"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-22/trump-defends-ramaswamy-ad-as-backlash-endangers-ohio-gop-ticket"
+    },
+    {
+     "nom": "13abc.com",
+     "url": "https://13abc.com/2026/10/22/trump-defends-controversial-ramaswamy-ad-featuring-actons-estrange-mother"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-22/republicanos-temen-que-ramaswamy-haya-sellado-el-triunfo-de-la-democrata-acton-en-ohio-con-su-polemico-anuncio-electoral.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-backs-us-campaign-attack-ad-featuring-democrats-estranged-mother"
+    }
+   ],
+   "premiere_parution": "2026-10-22T00:00:00Z",
+   "suite_de": null,
+   "mots": 386,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'Américain Stephen Hubbard est arrivé aux États-Unis après sa libération",
+   "chapeau": "Le citoyen américain Stephen Hubbard est arrivé aux États-Unis le jeudi 22 octobre 2026 selon son avocat. L'ancien enseignant avait été libéré la veille par les autorités russes à Saint-Pétersbourg lors d'une rencontre diplomatique.",
+   "corps": "La libération du ressortissant américain de 74 ans est survenue le mercredi 21 octobre 2026 lors d'un entretien entre le président russe Vladimir Poutine et Steve Witkoff. L'émissaire du président américain Donald Trump était venu transmettre au Kremlin les récents projets de paix formulés par l'Ukraine.\n\nStephen Hubbard est un ancien professeur originaire du Michigan. L'homme a vécu durant vingt-cinq ans au Japon avant de s'installer en Ukraine avec sa compagne. Les forces russes l'avaient arrêté en 2022 au cours de la bataille d'Izioum, ville où il résidait. La justice russe l'a ensuite condamné à une peine de près de sept ans d'emprisonnement. Elle l'accusait d'avoir combattu comme mercenaire, c'est-à-dire comme soldat rémunéré engagé dans un conflit étranger, pour le compte de Kiev.\n\nLa remise en liberté s'est déroulée sans aucun échange de prisonniers ni compensation, selon les déclarations de Donald Trump. L'envoyé américain Steve Witkoff a qualifié le président russe d'humanitaire à la suite de cette décision. En marge de cette entrevue, la présidence russe a indiqué être favorable sur le principe à une reprise des discussions trilatérales au cours du mois prochain.\n\nL'avocat de Stephen Hubbard a confirmé le jeudi 22 octobre 2026 la venue de son client sur le territoire des États-Unis. Les détails de son itinéraire de voyage n'ont pas été précisés par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_21/stephen-hubbard-chi-e-il-74enne-insegnate-e-veterano-statunitense-liberato-dalla-russia-81974848-14c4-49d7-8f16-7fbe8dd2cxlk.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/news/articles/c6m24l9v3745o"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/vladimir-poutine-annonce-que-lamericain-stephen-hubbard-va-etre-libere-des-geoles-russes-20261021_VQWTM77I4BGMTDN5HBAMCSML2E"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/a-vif/entre-trump-et-poutine-la-logique-du-troc-sur-le-dos-de-l-ukraine-20261021"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison"
+    }
+   ],
+   "premiere_parution": "2026-10-21T00:00:00Z",
+   "suite_de": "2026-10-22-monde-002",
+   "mots": 253,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Emmanuel Macron interdit les manifestations non syndicales après des violences",
+   "chapeau": "Le président français Emmanuel Macron a annoncé l'interdiction des manifestations non syndicales et qualifiées d'illégitimes dans plusieurs villes de France. Cette décision de l'exécutif intervient jeudi 22 octobre 2026 à la suite de violences et de pillages survenus lors de récents rassemblements.",
+   "corps": "Le gouvernement français renforce ses mesures de sécurité avant de nouvelles mobilisations prévues le week-end des 24 et 25 octobre 2026. Seules les manifestations déclarées par des organisations syndicales et respectant les parcours imposés par les préfectures restent autorisées. Les rassemblements non officiels sont désormais interdits dans plusieurs grandes agglomérations, notamment à Paris, Lille, Grenoble et Lyon.\n\nCette décision fait suite aux événements du week-end des 17 et 18 octobre 2026. Des dégradations et des affrontements avaient gâché des cortèges organisés contre la hausse du coût de la vie et la dégradation des services publics. Ces rassemblements regroupaient des étudiants, des syndicalistes et des membres du mouvement des gilets jaunes. Le pouvoir exécutif a engagé des procédures judiciaires rapides contre les personnes interpellées durant ces altercations.\n\nEmmanuel Macron attribue les débordements à des groupes d'ultra-gauche qu'il qualifie de séditieux. Le chef de l'État dénonce également l'action de vandales venus pour en découdre avec les forces de l'ordre. Il affirme que l'État agit avec méthode et sérénité pour ramener le calme sur l'ensemble du territoire national. Un conseil de défense s'est réuni pour définir des dispositifs de maintien de l'ordre supplémentaires.\n\nLe président de la République a aussi critiqué les interventions de responsables politiques étrangers. Il accuse certains dirigeants d'utiliser la situation intérieure française à des fins personnelles. Emmanuel Macron a rejeté ces commentaires extérieurs qu'il juge inappropriés, évoquant des tentatives de manipulation de la crise. Les autorités locales mettent en place des arrêtés d'interdiction ciblés tandis que les commerçants protègent leurs vitrines en prévision du week-end.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/macron-defiende-gestion-disturbios-callejeros-francia-apunta-20261021125436-nt.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/frances-macron-tightens-curbs-on-protests-blaming-hard-left-for-unrest"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/emmanuel-macron-france-non-union-protests-banned-saturday"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-22/francia-solo-autorizara-las-manifestaciones-convocadas-por-los-sindicatos-para-prevenir-nuevos-disturbios.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/macron-proibe-protestos-ilegitimos-e-lojas-se-preparam-em-meio-a-temor-de-nova-onda-de-violencia.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest"
+    }
+   ],
+   "premiere_parution": "2026-10-21T12:54:43Z",
+   "suite_de": null,
+   "mots": 298,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Moscou propose des négociations tripartites en novembre pour un accord final",
+   "chapeau": "Le président russe Vladimir Poutine a précisé jeudi 22 octobre 2026 les conditions de Moscou pour reprendre les pourparlers tripartites avec l'Ukraine et les États-Unis. Ces déclarations interviennent après un accord de principe donné la veille à l'émissaire américain Steve Witkoff lors d'une entrevue à Saint-Pétersbourg.",
+   "corps": "Après avoir accepté le principe de nouvelles discussions le 21 octobre 2026 à Saint-Pétersbourg, le chef de l'État russe a fixé les objectifs de ces futures réunions.\n\nVladimir Poutine a affirmé jeudi 22 octobre 2026, devant un journaliste de la télévision d'État, que les discussions doivent viser un accord définitif et non une brève interruption des combats. Selon ses propos, les pourparlers devront traiter la question des garanties de sécurité pour l'Ukraine et pour la Russie. Le Kremlin refuse une simple pause temporaire sur le front.\n\nLe conseiller diplomatique du Kremlin, Iouri Ouchakov, a précisé les dates envisagées par Moscou. Il a indiqué aux journalistes que la Russie se tient prête à entamer ces échanges trilatéraux vers la mi-novembre, ou précisément aux alentours du 10 novembre. Ces discussions prendraient place après le déroulement des élections de mi-mandat aux États-Unis.\n\nDu côté ukrainien, le président Volodymyr Zelensky a déclaré qu'il était favorable à ce format de négociation à trois, selon les éléments rapportés par franceinfo. Le pouvoir russe estime quant à lui que le conflit touche à son terme, selon les déclarations faites à la presse par le principal conseiller de Vladimir Poutine.\n\nCes annonces font suite à un entretien de plus de trois heures, selon l'agence Bloomberg le 22 octobre 2026 à 18 h 59, entre le président russe et l'émissaire du président américain Donald Trump, Steve Witkoff. Durant cette entrevue, les deux représentants ont également discuté de l'organisation d'une rencontre tripartite de chefs d'État. Cet autre sommet réunirait le président russe Vladimir Poutine, le président américain Donald Trump et le président chinois Xi Jinping. La présidence russe a fait savoir qu'elle avançait dans les préparatifs de ce projet.\n\nLe pouvoir russe a dans le même temps rejeté les initiatives formulées par ses adversaires. Iouri Ouchakov a déclaré que les propositions présentées par l'Ukraine et les gouvernements européens à Oslo la veille de l'accord de principe ne comportent pas grand-chose. Par ailleurs, selon l'analyse du rédacteur spécialiste de la Russie pour la BBC le 21 octobre 2026, Vladimir Poutine n'agit pas sous la pression d'une urgence immédiate à stopper la guerre.\n\nLe lieu exact de ces futures rencontres tripartites de novembre n'a pas été précisé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-is-willing-in-principle-to-join-new-ukraine-peace-talks-in-november-kremlin-says"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-la-russie-prete-a-reprendre-des-negociations-trilaterales-avec-kiev-et-les-etats-unis-a-la-mi-novembre_6796922_3210.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/putin-xi-trump-summit-being-prepared-kremlin/article71608186.ece"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russia-ready-talks-end-ukraine-war"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-et-l-ukraine-pretes-a-de-prochaines-negociations-a-trois-avec-les-americains_8247862.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm98zn5j89kdo"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/la-fabrique-du-monde/20261022-guerre-en-ukraine-vers-un-nouveau-yalta-entre-moscou-p%C3%A9kin-et-washington"
+    }
+   ],
+   "premiere_parution": "2026-10-21T11:22:35Z",
+   "suite_de": "2026-10-22-geopolitique-002",
+   "mots": 411,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump annonce le rétablissement du réseau Starlink par Elon Musk en Ukraine",
+   "chapeau": "Le président américain Donald Trump a déclaré le 22 octobre 2026 qu'Elon Musk avait levé les restrictions d'accès au réseau satellitaire Starlink en Ukraine. Cette annonce intervient après des perturbations signalées sur ce service de communication utilisé par les forces armées ukrainiennes.",
+   "corps": "Le président des États-Unis Donald Trump a soutenu le 22 octobre 2026 que le chef d'entreprise Elon Musk avait remis en service le réseau satellitaire Starlink sur le territoire ukrainien. Le système de communication fonctionne de nouveau de manière normale selon des responsables américains et ukrainiens le 22 octobre 2026. L'armée ukrainienne emploie ces liaisons satellitaires pour conduire ses opérations militaires face aux forces russes.\n\nLe journal américain Wall Street Journal a indiqué le 22 octobre 2026 que Donald Trump avait téléphoné à Elon Musk le mercredi 21 octobre 2026 pour lui demander de mettre fin au bridage de Starlink. L'Ukraine avait auparavant rapporté une baisse des vitesses de connexion et des limitations d'accès sur ce matériel de transmission. Le président des États-Unis a refusé d'expliquer les détails des discussions qui ont mené à la suppression de ces restrictions techniques.\n\n## Ce que disent les sources\n\nLes acteurs impliqués fournissent des explications divergentes sur l'origine des restrictions appliquées au réseau. Le secrétaire d'État américain Marco Rubio a affirmé le 21 octobre 2026 à 11 h 46 que la gestion de l'accès à Starlink en Ukraine relevait de la société SpaceX et d'Elon Musk, sans intervention de la Maison Blanche. À l'inverse, Elon Musk avait déclaré que toute restriction sur la vitesse ou l'usage du système Starshield dépendait de l'armée américaine et du président des États-Unis. De son côté, le quotidien italien Corriere della Sera indique le 23 octobre 2026 à 09 h 04 que le gouvernement ukrainien dément les déclarations de Donald Trump sur la fin des limitations de ce service satellitaire.\n\nLe détail des échanges téléphoniques entre le président américain et le dirigeant de SpaceX n'a pas été rendu public.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/starlink-access-in-ukraine-a-decision-for-musk-not-white-house-rubio-says"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-22/trump-called-musk-to-lift-starlink-limits-in-ukraine-wsj-says"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/ukraine-krieg-trump-soll-musk-zur-aufhebung-der-starlink-drosselung-gedraengt-haben-a-4f3c3b67-dfb1-41e3-a5a0-b037f43fc652"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-claims-starshield-is-back-in-ukraine/article71614563.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_23/guerra-ucraina-russia-le-notizie-in-diretta.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-21T07:46:22Z",
+   "suite_de": null,
+   "mots": 322,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-sante-001",
+   "rubrique": "sante",
+   "format": "standard",
+   "titre": "Le virus Shamonda a été détecté pour la première fois chez un être humain en France",
+   "chapeau": "Les autorités sanitaires françaises ont annoncé le 22 octobre 2026 la détection du virus Shamonda chez un patient décédé à Lyon au début du mois d'octobre. Cette infection constitue la première identification connue de cet agent pathogène d'origine animale chez une personne.",
+   "corps": "Un patient présentant une baisse sévère des défenses immunitaires est mort à Lyon au début du mois d'octobre 2026. Les autorités sanitaires ont détecté la présence du virus Shamonda chez cet homme. Il s'agit du premier cas documenté d'infection par ce pathogène chez un être humain.\n\nLe virus Shamonda appartient à la famille des bunyavirus, un groupe de virus biologiques. Des petits insectes piqueurs transmettent cet agent par leurs piqûres. Le média espagnol ABC précise le 23 octobre 2026 à 05:17 que ces insectes appartiennent au genre culicoide.\n\nCet agent infectieux touche habituellement les troupeaux d'animaux d'élevage. D'après La Croix, la communauté scientifique connaît ce pathogène chez les bovins depuis les années 1960. Selon l'Agence autrichienne pour la santé et la sécurité alimentaire, citée par The Guardian, le micro-organisme entraîne des diarrhées et une perte d'appétit chez les bovins, les ovins ainsi que les caprins.\n\nLe média d'information franceinfo rapporte le 22 octobre 2026 à 23:53 que le virus circule au sein des exploitations agricoles françaises depuis l'été 2026. Jusqu'à cette détection, les spécialistes considéraient que l'agent infectieux ne se transmettait pas à l'espèce humaine.\n\nLe profil de la victime décédée à Lyon apporte des éléments d'explication médicale. Le média britannique The BMJ note que cet individu suivait déjà un traitement médical pour une pathologie grave. Cette condition physique préalable augmentait sa vulnérabilité face aux infections et aux complications de santé.\n\nLa radio RFI indique que l'homme a subi des complications cérébrales. Les autorités considèrent ces atteintes neurologiques comme très probablement liées à la présence du virus Shamonda dans son organisme. Des investigations médicales se poursuivent pour préciser le rôle exact joué par le virus dans la disparition du patient.\n\nLes responsables de la santé publique en France qualifient cet événement de situation exceptionnelle. Les autorités sanitaires affirment qu'aucun danger pour la population générale n'est identifié. Le Centre européen de prévention et de contrôle des maladies suit l'évolution du dossier, d'après les informations rapportées par le journal espagnol El País le 23 octobre 2026 à 07:30.\n\nLes informations rendues publiques ne précisent pas les circonstances exactes de l'exposition du patient à l'insecte vecteur ni la date précise de sa contamination.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/sante/shamonda-que-sait-on-de-ce-virus-detecte-pour-la-premiere-fois-chez-un-humain-20261022"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/first-known-human-case-of-shamonda-virus-reported-in-france"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6reyx1d9ge9o"
+    },
+    {
+     "nom": "The BMJ",
+     "url": "https://bmj.com/content/395/bmj-2026-101221.short"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/explainer-what-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261022-le-virus-shamonda-d%C3%A9tect%C3%A9-pour-la-premi%C3%A8re-fois-chez-l-%C3%AAtre-humain-en-france-un-patient-immunod%C3%A9prim%C3%A9-d%C3%A9c%C3%A8de"
+    }
+   ],
+   "premiere_parution": "2026-10-22T08:36:24Z",
+   "suite_de": null,
+   "mots": 405,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-23-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "L'acteur américain Tom Skerritt meurt à l'âge de 93 ans",
+   "chapeau": "L'acteur américain Tom Skerritt est mort le mercredi 21 octobre 2026 à l'âge de 93 ans de causes naturelles. Sa famille a annoncé sa disparition à travers un communiqué public.",
+   "corps": "Sa famille a annoncé son décès survenu mercredi 21 octobre 2026. L'artiste est mort de causes naturelles selon ses proches et son agent.\n\nTom Skerritt est né à Detroit. Sa carrière d'acteur a débuté au cours des années 1960. Son parcours professionnel s'est poursuivi jusqu'aux années 2020.\n\nLe comédien s'est fait connaître grâce à plusieurs œuvres cinématographiques de premier plan. Il a joué le rôle du capitaine Dallas dans le film de science-fiction Alien. Dans ce long-métrage, il partageait l'affiche avec Sigourney Weaver. Il a aussi incarné l'instructeur d'aviation surnommé Viper dans le film Top Gun, aux côtés de Tom Cruise. Il a également figuré dans la distribution de la comédie de guerre MASH. Ses apparitions au grand écran incluent aussi une participation au film A River Runs Through It.\n\nL'interprète a mené une activité continue à la télévision. Il a notamment tenu le rôle principal d'un shérif d'une petite ville dans la série télévisée Picket Fences. Pour cette interprétation, il a obtenu deux nominations aux prix Emmy. Il a remporté en 1993 la récompense du meilleur acteur principal dans une série de fiction selon NBC Connecticut le 22 octobre 2026 à 04h30. Les prix Emmy distinguent les programmes de télévision aux États-Unis.\n\nAu fil de ses apparitions sur les écrans, Tom Skerritt a souvent incarné des figures dépositaires d'une forme d'autorité. Il a fréquemment campé des officiers supérieurs de l'armée, des agents de police ou des pères de famille. Les rôles d'instructeur de vol, de shérif équitable et de commandant de vaisseau spatial ont marqué sa visibilité auprès du grand public.\n\n## Ce que disent les sources\n\nLes publications divergent sur l'ampleur temporelle de son parcours. El País le 23 octobre 2026 à 00h01 et The Guardian le 23 octobre 2026 à 00h19 mentionnent une carrière s'étalant sur six décennies, soit soixante ans. Der Spiegel le 23 octobre 2026 à 03h34 affirme en revanche que son activité s'est étendue sur sept décennies.\n\nLe lieu précis du décès de l'acteur n'est pas mentionné par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "nbcconnecticut.com",
+     "url": "https://nbcconnecticut.com/entertainment/entertainment-news/tom-skerritt-actor-picket-fences-alien-top-gun-dies/3787598"
+    },
+    {
+     "nom": "yorkpress.co.uk",
+     "url": "https://yorkpress.co.uk/news/national/26662730.emmy-winning-alien-top-gun-actor-tom-skerritt-dies-aged-93"
+    },
+    {
+     "nom": "abc3340.com",
+     "url": "https://abc3340.com/news/entertainment/tom-skerritt-star-of-top-gun-and-picket-fences-dead-at-93"
+    },
+    {
+     "nom": "kristv.com",
+     "url": "https://kristv.com/obituaries/emmy-winning-actor-tom-skerritt-dies-at-93"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/cultura/2026-10-22/tom-skerritt-estrella-de-alien-top-gun-y-mash-muere-a-los-93-anos.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/22/981035400/tom-skerritt-dead"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/play/cine/noticias/muere-actor-tom-skerritt-anos-conocido-papeles-20261022223818-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-22T00:30:00Z",
+   "suite_de": null,
+   "mots": 365,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-23-monde-001",
+  "2026-10-23-sante-001",
+  "2026-10-23-monde-002",
+  "2026-10-23-geopolitique-001",
+  "2026-10-23-culture-001",
+  "2026-10-23-monde-003",
+  "2026-10-23-monde-004",
+  "2026-10-23-geopolitique-002"
+ ]
+}

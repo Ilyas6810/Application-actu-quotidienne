@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-22T05:35:25Z",
- "derniere": "2026-10-22",
+ "maj": "2026-10-23T05:33:49Z",
+ "derniere": "2026-10-23",
  "editions": [
+  {
+   "date": "2026-10-23",
+   "genere_a": "2026-10-23T05:33:49Z",
+   "articles": 10,
+   "une": [
+    "Un séisme de magnitude 7 au Tibet fait au moins 16 morts",
+    "Le virus Shamonda a été détecté pour la première fois chez un être humain en France",
+    "La justice du Nouveau Mexique inflige une amende a Meta"
+   ],
+   "octets": 42194
+  },
   {
    "date": "2026-10-22",
    "genere_a": "2026-10-22T05:35:25Z",

@@ -1,6 +1,139 @@
 {
- "maj": "2026-10-23T21:39:14Z",
+ "maj": "2026-10-24T20:57:58Z",
  "alertes": [
+  {
+   "id": "2026-10-25-alerte-01",
+   "date": "2026-10-25",
+   "publiee_a": "2026-10-24T20:56:06Z",
+   "titre": "Des centaines de milliers de manifestants ont défilé en France samedi",
+   "texte": "Plusieurs centaines de milliers de personnes ont protesté contre la vie chère dans plusieurs villes françaises le samedi 24 octobre 2026. Le ministère de l'Intérieur a dénombré 410 000 participants et près de 1 000 arrestations le 24 octobre à 23h31, tandis que la CGT en a recensé le double.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/a-paris-des-manifestants-calmes-et-aux-revendications-disparates-20261024"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-tensions-constatees-a-la-fin-de-certains-corteges_8252494.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-revivez-en-images-et-en-videos-les-mobilisations-partout-en-france_6799730_1669088.html"
+    }
+   ],
+   "cluster": "101fdbd8b8118e58",
+   "urls": [
+    "https://france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
+    "https://france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+    "https://france24.com/fr/vid%C3%A9o/20261024-%C3%A0-paris-une-dispersion-sous-tension-apr%C3%A8s-une-journ%C3%A9e-de-mobilisation-dans-le-calme",
+    "https://france24.com/fr/vid%C3%A9o/20261024-en-france-des-heurts-en-marge-des-manifestations-du-24-octobre",
+    "https://france24.com/fr/vid%C3%A9o/20261024-mobilisation-du-24-octobre-le-cort%C3%A8ge-parisien-change-de-parcours",
+    "https://france24.com/fr/vid%C3%A9o/20261024-mobilisation-du-24-octobre-le-cort%C3%A8ge-parisien-d%C3%A9file-sur-un-parcours-qui-fait-d%C3%A9bat",
+    "https://france24.com/fr/vid%C3%A9o/20261024-mobilisation-en-france-calme-pr%C3%A9caire-paris-sous-haute-surveillance",
+    "https://france24.com/fr/vid%C3%A9o/20261024-mobilisations-en-france-135-interpellations-en-marge-des-manifestations-du-24-octobre",
+    "https://franceinfo.fr/economie/greve/mobilisation-du-24-octobre-le-cortege-defile-dans-le-calme-a-paris_8252350.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-centaines-de-milliers-de-manifestants-dans-les-rues_8252485.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-tensions-constatees-a-la-fin-de-certains-corteges_8252494.html",
+    "https://franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html",
+    "https://franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-dispersion-sous-tension-a-paris_8252437.html",
+    "https://franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-les-corteges-se-sont-bien-deroules-selon-laurent-nunez_8252497.html",
+    "https://franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html",
+    "https://franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html",
+    "https://franceinfo.fr/societe/manifestations/pres-de-410-000-personnes-ont-manifeste-en-france-d-apres-le-ministere-de-l-interieur-800-000-selon-la-cgt-des-tensions-dans-plusieurs-grandes-villes_8252440.html",
+    "https://franceinfo.fr/societe/manifestations/s-il-le-faut-je-manifesterai-tous-les-samedis-a-paris-le-cortege-defile-dans-le-calme-et-appelle-a-amplifier-la-mobilisation_8252455.html",
+    "https://la-croix.com/societe/a-paris-des-manifestants-calmes-et-aux-revendications-disparates-20261024",
+    "https://la-croix.com/societe/direct-manifestation-24-octobre-gilets-jaunes-syndicats-parcours-aujourdhui-france-20261024",
+    "https://lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024",
+    "https://lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-bien-sur-qu-on-a-peur-mais-si-on-ne-vient-pas-ils-ont-gagne-suivez-la-mobilisation-avec-nos-correspondants-a-marseille-paris-ou-lyon_6799445_3224.html",
+    "https://lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-pres-de-410-000-personnes-mobilisees-en-france-selon-le-ministere-de-l-interieur-plus-de-800-000-selon-la-cgt_6799445_3224.html",
+    "https://lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-les-premieres-images-du-cortege-parisien_6799710_1669088.html",
+    "https://lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-revivez-en-images-et-en-videos-les-mobilisations-partout-en-france_6799730_1669088.html",
+    "https://liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU",
+    "https://liberation.fr/societe/jai-eu-peur-du-flop-a-cause-de-la-repression-mais-tout-le-monde-est-la-a-paris-une-manif-nombreuse-pluvieuse-et-globalement-heureuse-20261024_Q5B2TYB2XRHNFK6JZUBEXJI6DY",
+    "https://rfi.fr/fr/france/20261024-direct-manifestations-en-france-des-nombreux-d%C3%A9fil%C3%A9s-attendus-dans-un-contexte-de-fortes-tensions-s%C3%A9curitaires"
+   ]
+  },
+  {
+   "id": "2026-10-25-alerte-02",
+   "date": "2026-10-25",
+   "publiee_a": "2026-10-24T20:56:51Z",
+   "titre": "Mort du combattant de MMA Pengo Bossio Wangi à Trappes",
+   "texte": "Le sportif amateur Pengo Bossio Wangi est mort vendredi 23 octobre lors d'une attaque armée survenue à Trappes, dans les Yvelines. L'athlète de 26 ans s'entraînait au club Atch Academy d'Aubervilliers en Seine-Saint-Denis.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Mma/Actualites/La-vie-brisee-de-pengo-bossio-wangi-tue-dans-l-attentat-terroriste-raciste-de-trappes-et-la-verriere/1738223"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-rassemblees-en-hommage-a-pengo-bossio-wangi_6799717_3224.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261024-qui-%C3%A9tait-pengo-bossio-wangi-combattant-de-mma-tu%C3%A9-par-balles-lors-de-l-attentat-terroriste-raciste-%C3%A0-trappes"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-etait-de-ceux-qui-donnent-l-exemple-qui-etait-pengo-bossio-wangi-le-jeune-homme-tue-lors-de-l-attentat-raciste-de-trappes_8252407.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/un-combattant-dur-mais-avec-un-grand-coeur-pengo-bossio-wangi-passionne-de-mma-tue-dans-lattentat-de-trappes-20261024_YZ5N5SVHMBFITICHRX2ACRJ7QQ"
+    }
+   ],
+   "cluster": "a609f28fd9ad78af",
+   "urls": [
+    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-etait-de-ceux-qui-donnent-l-exemple-qui-etait-pengo-bossio-wangi-le-jeune-homme-tue-lors-de-l-attentat-raciste-de-trappes_8252407.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/que-justice-soit-faite-l-emotion-et-la-colere-des-proches-des-victimes-de-l-attentat-raciste-a-trappes_8252515.html",
+    "https://lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-plusieurs-centaines-de-personnes-rassemblees-en-hommage-a-pengo-bossio-wangi_6799717_3224.html",
+    "https://lemonde.fr/videos/video/2026/10/24/nos-vies-comptent-aussi-a-trappes-un-rassemblement-en-hommage-a-la-victime-de-l-attentat-raciste_6799723_1669088.html",
+    "https://lequipe.fr/Mma/Actualites/La-vie-brisee-de-pengo-bossio-wangi-tue-dans-l-attentat-terroriste-raciste-de-trappes-et-la-verriere/1738223",
+    "https://lequipe.fr/Mma/Actualites/Un-combattant-amateur-de-mma-a-ete-tue-dans-l-attentat-a-trappes-et-la-verriere/1738167",
+    "https://lequipe.fr/Mma/Actualites/Une-marche-blanche-en-l-honneur-de-pengo-bossio-wangi-combattant-amateur-de-mma-tue-dans-l-attentat-de-trappes/1738401",
+    "https://liberation.fr/societe/un-combattant-dur-mais-avec-un-grand-coeur-pengo-bossio-wangi-passionne-de-mma-tue-dans-lattentat-de-trappes-20261024_YZ5N5SVHMBFITICHRX2ACRJ7QQ",
+    "https://rfi.fr/fr/sports/20261024-qui-%C3%A9tait-pengo-bossio-wangi-combattant-de-mma-tu%C3%A9-par-balles-lors-de-l-attentat-terroriste-raciste-%C3%A0-trappes"
+   ]
+  },
+  {
+   "id": "2026-10-25-alerte-03",
+   "date": "2026-10-25",
+   "publiee_a": "2026-10-24T20:57:58Z",
+   "titre": "Un mort et cinq blessés par balle dans les Yvelines",
+   "texte": "Un tireur a tué une personne et en a blessé cinq autres à Trappes et La Verrière le vendredi 23 octobre. Les forces de l'ordre ont ensuite découvert l'ouvrage Mein Kampf d'Adolf Hitler lors de la perquisition à son domicile.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-le-livre-d-hitler-mein-kampf-retrouve-au-domicile-du-tireur-20261024"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-un-club-mma-francilien-rend-hommage-a-pengo-le-jeune-homme-de-26-ans-tue-a-trappes-20261024_QFOWDJ375JGU5CQVNCE3TCO2OM"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/policia-encontra-mein-kampf-de-hitler-na-residencia-de-atirador-na-franca.shtml"
+    }
+   ],
+   "cluster": "100fcf540e42ce50",
+   "urls": [
+    "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-le-livre-d-hitler-mein-kampf-retrouve-au-domicile-du-tireur-20261024",
+    "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-un-club-mma-francilien-rend-hommage-a-pengo-le-jeune-homme-de-26-ans-tue-a-trappes-20261024_QFOWDJ375JGU5CQVNCE3TCO2OM",
+    "https://www1.folha.uol.com.br/mundo/2026/10/policia-encontra-mein-kampf-de-hitler-na-residencia-de-atirador-na-franca.shtml"
+   ]
+  },
   {
    "id": "2026-10-24-alerte-01",
    "date": "2026-10-24",
@@ -1218,164 +1351,6 @@
     "https://liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4",
     "https://rfi.fr/fr/sports/20261016-hyron-andrews-rugbyman-sud-africain-des-lions-retrouv%C3%A9-mort-%C3%A0-la-veille-d-un-match-%C3%A0-la-rochelle",
     "https://theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
-   ]
-  },
-  {
-   "id": "2026-10-17-alerte-03",
-   "date": "2026-10-17",
-   "publiee_a": "2026-10-17T04:31:27Z",
-   "titre": "Donald Trump suspend de nouvelles sanctions économiques visant la Russie",
-   "texte": "Le président américain Donald Trump a annoncé la levée préventive de plusieurs sanctions et tarifs douaniers contre la Russie le vendredi 16 octobre 2026 à Washington. Le dirigeant a justifié cette décision transmise au Congrès par la préservation de l'intérêt national des États-Unis.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-to-take-effect-under-new-law"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/am%C3%A9riques/20261017-%C3%A9tats-unis-donald-trump-exempte-la-russie-de-nouvelles-sanctions-adopt%C3%A9es-par-le-congr%C3%A8s"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2"
-    }
-   ],
-   "cluster": "02434a9c95af62ea",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o",
-    "https://bloomberg.com/news/articles/2026-10-17/trump-waives-russia-energy-tariffs-sanctions-in-graham-law",
-    "https://bloomberg.com/news/videos/2026-10-15/rep-amo-says-trump-should-enforce-russia-sanctions-video",
-    "https://chicagotribune.com/2026/10/16/trump-holds-russia-sanctions",
-    "https://dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002",
-    "https://dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
-    "https://ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-    "https://rfi.fr/fr/am%C3%A9riques/20261017-%C3%A9tats-unis-donald-trump-exempte-la-russie-de-nouvelles-sanctions-adopt%C3%A9es-par-le-congr%C3%A8s",
-    "https://spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2",
-    "https://straitstimes.com/world/united-states/trump-waives-many-russia-related-sanctions-tariffs-before-they-were-to-take-effect-under-new-law",
-    "https://thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
-   ]
-  },
-  {
-   "id": "2026-10-17-alerte-01",
-   "date": "2026-10-17",
-   "publiee_a": "2026-10-16T21:14:26Z",
-   "titre": "Donald Trump écarte sa porte-parole Katie Zacharia après cinq jours",
-   "texte": "Donald Trump a congédié la porte-parole de la Maison-Blanche Katie Zacharia le vendredi 16 octobre 2026 à Washington. La responsable quitte son poste seulement cinq jours après son entrée en fonction à la suite de controverses sur son parcours.",
-   "sources": [
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/white-house-press-secretary-katie-zacharia-let-go-just-days-into-role/article71594137.ece"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_16/susie-wiles-stagione-coltelli-casa-bianca-capa-staff-trump-zacharia-ddd8a734-5b42-4977-af6c-598c1ddf1xlk.shtml"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-10-16/affordability-messaging-in-focus-ahead-of-us-midterms-video"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "El País",
-     "url": "https://english.elpais.com/usa/2026-10-16/trump-fires-katie-zacharia-after-five-days-as-white-house-press-secretary.html"
-    }
-   ],
-   "cluster": "1b22bc208f27c80d",
-   "urls": [
-    "https://abc.es/internacional/trump-recomienda-flamante-portavoz-considere-dimision-20261016194045-nt.html",
-    "https://aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
-    "https://aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role",
-    "https://bloomberg.com/news/articles/2026-10-16/trump-opens-door-to-replacing-press-secretary-after-rocky-start",
-    "https://bloomberg.com/news/videos/2026-10-16/affordability-messaging-in-focus-ahead-of-us-midterms-video",
-    "https://bloomberg.com/news/videos/2026-10-16/zacharia-out-as-trump-s-white-house-press-secretary-video",
-    "https://corriere.it/esteri/26_ottobre_16/susie-wiles-stagione-coltelli-casa-bianca-capa-staff-trump-zacharia-ddd8a734-5b42-4977-af6c-598c1ddf1xlk.shtml",
-    "https://corriere.it/esteri/26_ottobre_16/trump-la-nuova-portavoce-katie-zacharia-ai-saluti-il-presidente-usa-deve-riconsiderare-il-suo-incarico-forse-non-fa-per-lei-f1458ffe-2dd8-4140-86c0-28b4f043bxlk.shtml",
-    "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341",
-    "https://dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html",
-    "https://english.elpais.com/usa/2026-10-16/trump-fires-katie-zacharia-after-five-days-as-white-house-press-secretary.html",
-    "https://ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-    "https://newstalk1400online.iheart.com/content/2026-10-16-katie-zacharia-fired-as-white-house-press-secretary-after-five-days",
-    "https://northwichguardian.co.uk/news/national/26645614.white-house-press-secretary-katie-zacharia-leaving-job-rocky-start",
-    "https://npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
-    "https://spiegel.de/ausland/donald-trump-legt-sprecherin-katie-zacharia-nah-ihre-berufswahl-zu-ueberdenken-a-f70761b6-278e-48b3-aa84-35d75bb40a7c",
-    "https://straitstimes.com/world/united-states/trumps-new-press-secretary-katie-zacharia-out-after-less-than-week-in-the-role",
-    "https://theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
-    "https://thehindu.com/news/international/white-house-press-secretary-katie-zacharia-let-go-just-days-into-role/article71594137.ece",
-    "https://times-news.com/news/white-house-press-secretary-katie-zacharia-is-leaving-the-job-after-a-rocky-start/article_9d72fe73-8b12-5b60-93f4-03c477f42b45.html",
-    "https://wishtv.com/news/national/trump-fires-katie-zacharia-as-white-house-press-secretary-after-five-days-advisers-say",
-    "https://www1.folha.uol.com.br/mundo/2026/10/casa-branca-demite-secretaria-de-imprensa-5-dias-apos-posse.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-17-alerte-02",
-   "date": "2026-10-17",
-   "publiee_a": "2026-10-16T21:14:32Z",
-   "titre": "Collège d'Aubagne : un deuxième adolescent mis en examen pour complicité",
-   "texte": "Les juges ont mis en examen un mineur de 13 ans vendredi 16 octobre 2026. La justice le soupçonne d'avoir entretenu des contacts avec l'auteur présumé des tirs survenus lundi dans un établissement scolaire d'Aubagne.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/info-franceinfo-college-d-aubagne-un-adolescent-de-13-ans-interpelle-dans-le-nord-de-la-france_8238352.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/fusillade-d-aubagne-un-deuxieme-adolescent-presente-a-la-justice-20261016"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261016-suspect-fusillade-aubagne-coeur-fausses-th%C3%A9ories"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/marseille/fusillade-dans-un-college-a-aubagne-un-autre-adolescent-interpelle-et-place-en-garde-a-vue-20261015"
-    }
-   ],
-   "cluster": "0a1328fc0f197ae6",
-   "urls": [
-    "https://france24.com/fr/france/20261016-suspect-fusillade-aubagne-coeur-fausses-th%C3%A9ories",
-    "https://franceinfo.fr/faits-divers/il-a-paru-necessaire-de-le-placer-en-detention-qui-est-l-adolescent-interpelle-mercredi-soupconne-d-etre-en-lien-avec-le-jeune-tireur-d-aubagne_8238700.html",
-    "https://franceinfo.fr/faits-divers/info-franceinfo-college-d-aubagne-un-adolescent-de-13-ans-interpelle-dans-le-nord-de-la-france_8238352.html",
-    "https://franceinfo.fr/faits-divers/police/un-deuxieme-adolescent-soupconne-d-etre-en-lien-avec-le-suspect-de-la-fusillade-au-college-d-aubagne-presente-a-la-justice_8240620.html",
-    "https://franceinfo.fr/faits-divers/tirs-dans-un-college-d-aubagne-un-deuxieme-adolescent-mis-en-examen-et-place-en-detention-provisoire-soupconne-d-etre-en-lien-avec-le-suspect_8240983.html",
-    "https://la-croix.com/fusillade-d-aubagne-un-deuxieme-adolescent-presente-a-la-justice-20261016",
-    "https://lefigaro.fr/marseille/fusillade-dans-un-college-a-aubagne-un-autre-adolescent-interpelle-et-place-en-garde-a-vue-20261015"
    ]
   }
  ]

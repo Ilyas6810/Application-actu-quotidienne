@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-23T05:33:49Z",
- "derniere": "2026-10-23",
+ "maj": "2026-10-24T05:15:58Z",
+ "derniere": "2026-10-24",
  "editions": [
+  {
+   "date": "2026-10-24",
+   "genere_a": "2026-10-24T05:15:58Z",
+   "articles": 18,
+   "une": [
+    "Les opérations de secours continuent au Tibet après le séisme",
+    "Une attaque armée dans une église fait au moins six morts en Jordanie",
+    "Israël boucle la Cisjordanie après la mort de deux soldats à Hébron"
+   ],
+   "octets": 72721
+  },
   {
    "date": "2026-10-23",
    "genere_a": "2026-10-23T05:33:49Z",

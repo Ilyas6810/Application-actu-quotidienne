@@ -1,6 +1,250 @@
 {
- "maj": "2026-10-24T20:57:58Z",
+ "maj": "2026-10-25T21:05:03Z",
  "alertes": [
+  {
+   "id": "2026-10-26-alerte-01",
+   "date": "2026-10-26",
+   "publiee_a": "2026-10-25T20:58:29Z",
+   "titre": "L'opposante vénézuélienne María Corina Machado annonce son retour d'exil",
+   "texte": "La dirigeante d'opposition María Corina Machado a affirmé dimanche 25 octobre être rentrée au Venezuela après plusieurs mois d'éloignement. La lauréate du prix Nobel de la paix a diffusé cette information sur le réseau social X.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq8ez592pp0eo"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/lopposante-maria-corina-machado-de-retour-dans-son-pays-apres-plusieurs-mois-dexil-20261025_TYJJNA26BJG65A5D6CED62QQAA"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/25/na-de-zoveelste-poging-is-oppositieleider-maria-corina-machado-nu-echt-terug-in-venezuela-a4939714"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/maria-corina-machado-vuelve-venezuela-directo-reaparacion-20261025165921-di.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-25/maria-corina-machado-el-desafio-de-volver.html"
+    }
+   ],
+   "cluster": "7984ca26a3120281",
+   "urls": [
+    "https://800wvhu.iheart.com/content/2026-10-25-mara-corina-machado-returns-to-venezuela-after-exile",
+    "https://abc.es/internacional/caracas-espera-brazos-abiertos-maria-corina-bienvenida-20261025212244-nt.html",
+    "https://abc.es/internacional/maria-corina-machado-denuncia-eeuu-excluido-negociaciones-20261016064325-nt.html",
+    "https://abc.es/internacional/maria-corina-machado-regresa-venezuela-tras-operacion-20261025164628-nt.html",
+    "https://abc.es/internacional/maria-corina-machado-vuelve-venezuela-directo-reaparacion-20261025165921-di.html",
+    "https://abc.es/internacional/trump-preguntado-regreso-maria-corina-machado-salir-20261005214521-nt.html",
+    "https://abc.es/internacional/trump-sobre-regreso-maria-corina-machado-venezuela-20261025174937-nt.html",
+    "https://aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+    "https://bbc.co.uk/news/articles/cq8ez592pp0eo",
+    "https://bloomberg.com/news/articles/2026-10-25/machado-returns-to-venezuela-in-surprise-challenge-to-rodriguez",
+    "https://corriere.it/esteri/26_ottobre_25/maria-corina-machado-rientro-venezuela-1e00b252-4dcf-4c8f-9519-a1708c752xlk.shtml",
+    "https://eldeber.com.bo/mundo/maria-corina-machado-encuentra-regreso-venezuela_1792947952",
+    "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html",
+    "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-busca-acelerar-la-transicion-y-retar-al-chavismo.html",
+    "https://elpais.com/america/2026-10-25/maria-corina-machado-el-desafio-de-volver.html",
+    "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html",
+    "https://elpais.com/us/2026-10-25/trump-sobre-el-regreso-de-maria-corina-machado-a-venezuela-espero-que-este-a-salvo-es-una-mujer-muy-agradable.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_25?evenement=7fc6a45786",
+    "https://english.elpais.com/international/2026-10-25/maria-corina-machado-returns-to-venezuela.html",
+    "https://france24.com/fr/am%C3%A9riques/20261025-la-prix-nobel-maria-corina-machado-de-retour-au-venezuela-apr%C3%A8s-pr%C3%A8s-d-un-an-d-exil",
+    "https://franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html",
+    "https://ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+    "https://kfoxtv.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
+    "https://krwg.org/national-news/2026-10-25/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-in-exile",
+    "https://lemonde.fr/international/article/2026/10/25/l-opposante-maria-corina-machado-annonce-etre-de-retour-au-venezuela_6800104_3210.html",
+    "https://liberation.fr/international/amerique/lopposante-maria-corina-machado-de-retour-dans-son-pays-apres-plusieurs-mois-dexil-20261025_TYJJNA26BJG65A5D6CED62QQAA",
+    "https://npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+    "https://nrc.nl/nieuws/2026/10/25/na-de-zoveelste-poging-is-oppositieleider-maria-corina-machado-nu-echt-terug-in-venezuela-a4939714",
+    "https://okcfox.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
+    "https://rfi.fr/fr/am%C3%A9riques/20261025-l-opposante-exil%C3%A9e-maria-corina-machado-annonce-%C3%AAtre-de-retour-au-venezuela",
+    "https://spiegel.de/ausland/maria-corina-machado-oppositionspolitikerin-gibt-rueckkehr-nach-venezuela-bekannt-a-0645a250-a873-4c28-b833-748ab7f03b25",
+    "https://straitstimes.com/world/venezuela-opposition-leader-maria-corina-machado-returns-to-venezuela",
+    "https://theboltonnews.co.uk/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile",
+    "https://theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+    "https://thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece",
+    "https://video.corriere.it/esteri/venezuela-la-premio-nobel-per-la-pace-machado-torna-a-casa-dopo-10-mesi-di-esilio/c6a90cd0-aab8-472a-b858-eda7e685dxlk",
+    "https://wcvb.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+    "https://wptv.com/world/south-america/venezuelas-opposition-leader-machado-returns-after-months-in-exile-as-doubts-over-democracy-deepen",
+    "https://wvik.org/npr-top-stories/2026-10-25/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-in-exile",
+    "https://www1.folha.uol.com.br/mundo/2026/10/maria-corina-machado-anuncia-volta-a-venezuela-apos-quase-um-ano-fora.shtml",
+    "https://wypr.org/2026-10-25/venezuelas-opposition-leader-maria-corina-machado-returns-after-months-in-exile"
+   ]
+  },
+  {
+   "id": "2026-10-26-alerte-02",
+   "date": "2026-10-26",
+   "publiee_a": "2026-10-25T21:02:50Z",
+   "titre": "Les électeurs brésiliens votent pour le second tour de la présidentielle",
+   "texte": "Les électeurs du Brésil se sont rendus aux urnes dimanche 25 octobre 2026 pour le second tour de l'élection présidentielle. Le président sortant Luiz Inacio Lula da Silva affronte Flavio Bolsonaro lors de ce scrutin.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/presidentielle-au-bresil-ouverture-des-bureaux-de-vote-pour-le-second-tour-entre-lula-et-bolsonaro-20261025"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261025-au-br%C3%A9sil-159-millions-d-%C3%A9lecteurs-appel%C3%A9s-%C3%A0-trancher-un-scrutin-pr%C3%A9sidentiel-ind%C3%A9cis"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-25/la-jornada-electoral-de-brasil-en-imagenes.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/brasil-pode-ser-proximo-em-onda-maga-e-ultima-chance-de-lula-gigante-da-esquerda-como-a-imprensa-internacional-ve-a-eleicao.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-lula-accuse-des-maires-d-empecher-des-electeurs-d-aller-voter-apres-des-penuries-de-bus-dans-plusieurs-villes_6800074_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/elecciones-brasil-directo-votaciones-encuestas-ultima-hora-20261025125416-di.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_25/elezioni-in-brasile-i-risultati-del-ballottaggio-in-diretta.shtml"
+    }
+   ],
+   "cluster": "e46ac4540c108a14",
+   "urls": [
+    "https://abc.es/internacional/bolsonaro-obligado-disculparse-llamar-nueve-dedos-lula-20261024111029-nt.html",
+    "https://abc.es/internacional/elecciones-brasil-directo-votaciones-encuestas-ultima-hora-20261025125416-di.html",
+    "https://abc.es/internacional/ganador-elecciones-brasil-segun-ultimas-encuestas-resultado-20261025053000-nt.html",
+    "https://abc.es/internacional/lula-bolsonaro-llegan-tecnicamente-empatados-segunda-vuelta-20261024172132-nt.html",
+    "https://abc.es/internacional/lula-puede-llegar-cuarto-mandato-fin-historia-20261020132848-nt.html",
+    "https://abc.es/internacional/megacarceles-prioridad-capital-privado-programa-politico-flavio-20261019133050-nt.html",
+    "https://abc.es/internacional/programa-electoral-lula-silva-elecciones-brasil-20261015132955-nt.html",
+    "https://corriere.it/esteri/26_ottobre_25/brasile-il-piano-degli-uomini-di-trump-per-riportare-i-bolsonaro-al-potere-1f837c97-092a-4cf6-96d6-c2a6dd18axlk.shtml",
+    "https://corriere.it/esteri/26_ottobre_25/elezioni-brasile-2026-oggi-41ac57b7-5f1f-4ebe-b434-004e5c754xlk.shtml",
+    "https://corriere.it/esteri/26_ottobre_25/flavio-bolsonaro-brasile-elezioni-94d2d013-9cef-4ed2-a39d-c4847b7cdxlk.shtml",
+    "https://corriere.it/esteri/26_ottobre_25/lula-brasile-elezioni-3f8ab626-b997-4184-ad1f-b8c7fbfd3xlk.shtml",
+    "https://corriere.it/esteri/diretta-live/26_ottobre_25/elezioni-in-brasile-i-risultati-del-ballottaggio-in-diretta.shtml",
+    "https://elpais.com/america/2026-10-24/el-pais-se-vuelca-en-brasil-en-unas-elecciones-determinantes-para-america-latina.html",
+    "https://elpais.com/america/2026-10-24/elecciones-en-brasil-2026-las-claves-de-una-renida-segunda-vuelta-presidencial.html",
+    "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
+    "https://elpais.com/america/2026-10-24/lula-se-asoma-al-abismo-o-a-otro-triunfo-epico.html",
+    "https://elpais.com/america/2026-10-24/videoanalisis-brasil-elige-presidente-en-una-eleccion-renida-y-que-sera-decisiva-para-latinoamerica.html",
+    "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html",
+    "https://elpais.com/america/2026-10-25/la-jornada-electoral-de-brasil-en-imagenes.html",
+    "https://elpais.com/opinion/2026-10-24/lo-que-esta-en-juego-en-brasil.html",
+    "https://france24.com/fr/am%C3%A9riques/20261023-au-br%C3%A9sil-bolsonaro-et-lula-s-affrontent-dans-un-ultime-d%C3%A9bat-sans-concession",
+    "https://france24.com/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-br%C3%A9sil-entre-deux-tours-allures-thriller-psychologique",
+    "https://france24.com/fr/am%C3%A9riques/20261025-en-direct-r%C3%A9sultats-second-tour-election-presidentielle-bresil-bolsonaro-lula-1",
+    "https://france24.com/fr/am%C3%A9riques/20261025-presidentielle-bresil-lula-flavio-bolsonaro-choix-decisif-avenir-pays-election-vote",
+    "https://france24.com/fr/vid%C3%A9o/20261024-br%C3%A9sil-lula-et-bolsonaro-s-affrontent-dans-un-ultime-d%C3%A9bat-tendu-%C3%A0-la-veille-du-scrutin",
+    "https://france24.com/fr/vid%C3%A9o/20261024-pourquoi-devriez-vous-vous-int%C3%A9resser-aux-%C3%A9lections-br%C3%A9siliennes",
+    "https://france24.com/fr/vid%C3%A9o/20261025-au-br%C3%A9sil-159-millions-d-%C3%A9lecteurs-appel%C3%A9s-%C3%A0-trancher-un-scrutin-pr%C3%A9sidentiel-ind%C3%A9cis",
+    "https://france24.com/fr/vid%C3%A9o/20261025-le-br%C3%A9sil-aux-urnes-pour-d%C3%A9partager-lula-et-bolsonaro-au-coude-%C3%A0-coude",
+    "https://franceinfo.fr/monde/bresil/au-bresil-lula-et-bolsonaro-mobilisent-des-milliers-de-partisans-a-la-veille-du-second-tour-de-la-presidentielle_8252503.html",
+    "https://franceinfo.fr/monde/bresil/en-choisissant-entre-lula-et-flavio-bolsonaro-a-la-presidentielle-le-bresil-decide-aussi-du-sort-de-la-foret-amazonienne_8247259.html",
+    "https://franceinfo.fr/monde/bresil/le-bresil-va-t-il-elire-flavio-bolsonaro-candidat-a-la-presidentielle-considere-comme-proche-des-milices-ultra-violentes-de-rio-de-janeiro_8250889.html",
+    "https://franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html",
+    "https://franceinfo.fr/monde/bresil/qui-est-flavio-bolsonaro-le-candidat-d-extreme-droite-qui-peut-remporter-l-election-presidentielle-au-bresil_8223358.html",
+    "https://franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html",
+    "https://la-croix.com/international/presidentielle-au-bresil-la-therapie-de-choc-voulue-par-flavio-bolsonaro-20261025",
+    "https://lefigaro.fr/international/presidentielle-au-bresil-duel-plus-serre-que-prevu-entre-lula-et-flavio-bolsonaro-20261023",
+    "https://lefigaro.fr/international/presidentielle-au-bresil-ouverture-des-bureaux-de-vote-pour-le-second-tour-entre-lula-et-bolsonaro-20261025",
+    "https://lemonde.fr/international/article/2026/10/24/presidentielle-au-bresil-flavio-bolsonaro-plus-police-lula-plus-offensif-lors-d-un-second-debat-crucial_6799678_3210.html",
+    "https://lemonde.fr/international/article/2026/10/25/au-bresil-les-soutiens-de-lula-et-bolsonaro-mobilises-jusqu-au-bout-mon-pere-ne-votait-plus-je-l-ai-convaincu-que-cette-election-etait-la-plus-importante-de-notre-vie_6800063_3210.html",
+    "https://lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
+    "https://lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-les-bresiliens-appeles-a-choisir-entre-le-president-sortant-lula-et-le-candidat-d-extreme-droite-flavio-bolsonaro_6800074_3210.html",
+    "https://lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-lula-accuse-des-maires-d-empecher-des-electeurs-d-aller-voter-apres-des-penuries-de-bus-dans-plusieurs-villes_6800074_3210.html",
+    "https://lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-ouverture-des-bureaux-de-vote-pour-le-second-tour-entre-lula-et-flavio-bolsonaro_6800074_3210.html",
+    "https://liberation.fr/international/amerique/le-pays-est-sur-le-point-de-tomber-entre-les-griffes-du-fascisme-au-bresil-une-journee-decisive-pour-un-second-tour-au-coude-a-coude-20261025_AW4GFNRAUZGYNHSTTSOXEEWYQE",
+    "https://liberation.fr/international/amerique/presidentielle-au-bresil-face-a-flavio-bolsonaro-lula-retrouve-du-repondant-20261024_45EGC64Y4BCP7CC4TP6YT7LVCM",
+    "https://madame.lefigaro.fr/societe/actu/juliette-binoche-javier-bardem-tilda-swinton-plusieurs-celebrites-appellent-a-voter-lula-lors-du-second-tour-de-l-election-presidentielle-au-bresil-20261025",
+    "https://rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9",
+    "https://rfi.fr/fr/am%C3%A9riques/20261025-br%C3%A9sil-ultimes-d%C3%A9monstrations-de-force-dans-la-rue-pour-bolsonaro-et-lula",
+    "https://rfi.fr/fr/am%C3%A9riques/20261025-pr%C3%A9sidentielle-au-br%C3%A9sil-160-millions-d-%C3%A9lecteurs-aux-urnes-pour-un-duel-serr%C3%A9-entre-lula-et-flavio-bolsonaro",
+    "https://rfi.fr/fr/am%C3%A9riques/20261025-pr%C3%A9sidentielle-au-br%C3%A9sil-la-d%C3%A9mocratie-est-en-jeu-dans-cette-%C3%A9lection",
+    "https://rfi.fr/fr/podcasts/journal-d-ha%C3%AFti-et-des-am%C3%A9riques/20261023-au-br%C3%A9sil-le-vote-cl%C3%A9-des-minorit%C3%A9s",
+    "https://rfi.fr/fr/podcasts/la-fabrique-du-monde/20261023-r%C3%A9seaux-sociaux-et-d%C3%A9mocratie-le-br%C3%A9sil-comme-cas-d-%C3%A9cole",
+    "https://rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20261023-pr%C3%A9sidentielle-au-br%C3%A9sil-l-ia-comme-arme-de-propagande-et-de-d%C3%A9sinformation",
+    "https://rfi.fr/fr/podcasts/menaces-sur-l-information/20261023-pr%C3%A9sidentielle-au-br%C3%A9sil-la-presse-craint-une-victoire-de-flavio-bolsonaro",
+    "https://rfi.fr/fr/podcasts/reportage-international/20261023-br%C3%A9sil-dans-le-minas-gerais-les-bolsonaristes-entre-rejet-du-pt-et-d%C3%A9fense-des-valeurs-traditionnelles",
+    "https://rfi.fr/fr/podcasts/revue-de-presse-internationale/20261023-%C3%A0-la-une-le-br%C3%A9sil-%C3%A0-deux-jours-du-deuxi%C3%A8me-tour-de-l-%C3%A9lection-pr%C3%A9sidentielle",
+    "https://video.corriere.it/esteri/elezioni-brasile-lula-noi-governiamo-con-la-bandiera-brasiliana-loro-vogliono-quella-americana/d378051d-001f-465b-baa5-184d3810dxlk",
+    "https://video.corriere.it/esteri/flavio-bolsonaro-al-seggio-in-brasile-vota-per-il-ballottaggio-contro-lula/dea47781-5798-4f27-8ba3-43e65a835xlk",
+    "https://video.corriere.it/esteri/lula-vota-per-il-ballottaggio-in-una-scuola-di-sao-bernardo-do-campo/6fea712a-7c1d-4b9e-b2c6-57a7b103dxlk",
+    "https://video.corriere.it/esteri/video-verticali/ballottaggio-in-brasile-testa-a-testa-tra-lula-e-bolsonaro-il-racconto-dell-inviata-dall-ultima-manifestazione-per-il-presidente-uscente/291440c3-a257-47a5-9821-205fa8946xlk",
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/brasil-vai-as-urnas-mergulhado-num-mar-de-incertezas.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/brasil-pode-ser-proximo-em-onda-maga-e-ultima-chance-de-lula-gigante-da-esquerda-como-a-imprensa-internacional-ve-a-eleicao.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-26-alerte-03",
+   "date": "2026-10-26",
+   "publiee_a": "2026-10-25T21:05:03Z",
+   "titre": "Marine Le Pen lance sa campagne présidentielle lors d'un meeting à Orléans",
+   "texte": "Marine Le Pen a tenu son premier rassemblement électoral dimanche 25 octobre à Orléans en vue du scrutin de 2027. La dirigeante du Rassemblement national a prononcé son discours devant plusieurs milliers de partisans dans une commune sous surveillance des forces de l'ordre.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/presidentielle-2027-marine-le-pen-surjoue-la-carte-de-l-optimisme-20261025"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261025-france-pour-les-electeurs-de-marine-le-pen-c-est-faux-de-dire-que-le-rn-incite-a-la-haine"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU"
+    }
+   ],
+   "cluster": "7ad688716ddec69d",
+   "urls": [
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_24?evenement=660d9bb67a",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_24?evenement=dadafad52b",
+    "https://france24.com/fr/france/20261025-france-pour-les-electeurs-de-marine-le-pen-c-est-faux-de-dire-que-le-rn-incite-a-la-haine",
+    "https://france24.com/fr/france/20261025-marine-le-pen-veut-miser-sur-l-optimisme-pour-son-premier-meeting-de-campagne",
+    "https://france24.com/fr/vid%C3%A9o/20261025-%C3%A0-orl%C3%A9ans-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lys%C3%A9e",
+    "https://france24.com/fr/vid%C3%A9o/20261025-au-congr%C3%A8s-du-rn-les-militants-confiants-avant-le-discours-de-le-pen",
+    "https://france24.com/fr/vid%C3%A9o/20261025-marine-le-pen-appelle-ses-militants-%C3%A0-%C3%AAtre-au-rendez-vous-de-l-histoire",
+    "https://france24.com/fr/vid%C3%A9o/20261025-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lection-pr%C3%A9sidentielle-%C3%A0-orl%C3%A9ans",
+    "https://franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html",
+    "https://franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html",
+    "https://franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html",
+    "https://la-croix.com/politique/presidentielle-2027-marine-le-pen-surjoue-la-carte-de-l-optimisme-20261025",
+    "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025",
+    "https://lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
+    "https://lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html",
+    "https://lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html",
+    "https://liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU"
+   ]
+  },
   {
    "id": "2026-10-25-alerte-01",
    "date": "2026-10-25",
@@ -1178,179 +1422,6 @@
     "https://thehindu.com/news/international/israeli-pm-netanyahu-warns-of-potentially-hostile-future-us-president-calls-for-alliances-with-india-latin-america/article71601129.ece",
     "https://thehindu.com/news/international/trump-endorses-netanyahu-in-israeli-election/article71600598.ece",
     "https://www1.folha.uol.com.br/mundo/2026/10/trump-declara-apoio-a-netanyahu-nas-eleicoes-de-israel-e-chama-premie-de-parceiro-pela-paz.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-18-alerte-01",
-   "date": "2026-10-18",
-   "publiee_a": "2026-10-17T20:42:48Z",
-   "titre": "Des centaines de milliers de manifestants défilent contre la vie chère en France",
-   "texte": "Des cortèges ont réuni samedi 17 octobre des centaines de milliers de citoyens à travers la France pour protester contre la vie chère. Plusieurs dégradations et des heurts ont éclaté dans différentes villes lors de cette journée d'action.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/economie/greve/17-octobre-entre-550-000-et-800-000-manifestants-partout-en-france_8242129.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/manifestation-du-17-octobre-des-scenes-d-emeutes-et-des-pillages-a-lissue-de-la-mobilisation-20261017"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/actualite-france/des-scenes-de-guerilla-urbaine-et-des-pillages-a-la-chaine-notre-recit-d-une-journee-de-violences-debridees-qui-ont-enflamme-la-france-20261017"
-    }
-   ],
-   "cluster": "3a2c918c90a8e1f1",
-   "urls": [
-    "https://france24.com/fr/france/20261017-%C3%A7a-bouge-pas-donc-il-faut-employer-grands-moyens-paris-manifestation-les-col%C3%A8res-convergent",
-    "https://france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
-    "https://france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
-    "https://france24.com/fr/france/20261017-france-les-grandes-villes-en-proie-aux-pillages-en-marge-des-manifestations",
-    "https://france24.com/fr/vid%C3%A9o/20261017-17-octobre-des-milliers-de-manifestants-attendus-dans-toute-la-france",
-    "https://franceinfo.fr/economie/greve/17-octobre-entre-550-000-et-800-000-manifestants-partout-en-france_8242129.html",
-    "https://franceinfo.fr/economie/greve/c-est-de-pire-en-pire-on-n-arrive-plus-a-vivre-des-premiers-blocages-et-barrages-filtrants-des-la-matinee-du-17-octobre_8241745.html",
-    "https://franceinfo.fr/economie/greve/des-centaines-d-actions-prevues-des-debordements-attendus-et-des-politiques-dans-les-corteges-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-17-octobre_8239903.html",
-    "https://franceinfo.fr/economie/greve/la-mobilisation-du-17-octobre-risque-de-degenerer-alerte-le-secretaire-general-du-syndicat-des-commissaires-de-la-police-nationale_8240980.html",
-    "https://franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html",
-    "https://franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html",
-    "https://franceinfo.fr/economie/transports/gilets-jaunes/mobilisation-du-17-octobre-comment-les-gilets-jaunes-tentent-de-structurer-le-mouvement-relance-par-la-colere-lyceenne_8238922.html",
-    "https://franceinfo.fr/replay-jt/france-2/20-heures/faire-converger-les-luttes-pour-obtenir-quelque-chose-plusieurs-centaines-de-milliers-de-francais-dans-la-rue-ce-17-octobre_8242072.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/lyon-rennes-marseille-belfort-poitiers-la-journee-de-mobilisation-du-17-octobre-a-commence_8241559.html",
-    "https://la-croix.com/economie/manifestation-du-17-octobre-la-vie-chere-au-cour-de-la-contestation-20261016",
-    "https://la-croix.com/societe/manifestation-du-17-octobre-des-scenes-d-emeutes-et-des-pillages-a-lissue-de-la-mobilisation-20261017",
-    "https://lefigaro.fr/actualite-france/des-scenes-de-guerilla-urbaine-et-des-pillages-a-la-chaine-notre-recit-d-une-journee-de-violences-debridees-qui-ont-enflamme-la-france-20261017",
-    "https://lefigaro.fr/actualite-france/paris-lyon-marseille-les-images-des-scenes-de-violences-et-de-scenes-lors-des-manifestations-du-17-octobre-20261017",
-    "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-a-paris-et-dans-les-grandes-villes-de-france-des-corteges-calmes-et-des-scenes-d-affrontements-avec-les-forces-de-l-ordre_6795855_3224.html",
-    "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html",
-    "https://lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-suivez-le-mouvement-de-contestation-a-travers-la-france-avec-nos-journalistes-sur-place_6795855_3224.html",
-    "https://lemonde.fr/societe/video/2026/10/17/les-images-fortes-des-manifestations-du-17-octobre_6796689_3224.html",
-    "https://liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE",
-    "https://rfi.fr/fr/france/20261016-france-de-multiples-mobilisations-annonc%C3%A9es-ce-17-octobre-pour-une-convergence-des-luttes",
-    "https://rfi.fr/fr/france/20261017-direct-lyc%C3%A9ens-gilets-jaunes-suivez-la-journ%C3%A9e-de-mobilisation-%C3%A0-travers-la-france",
-    "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20261017-journ%C3%A9e-de-mobilisation-en-france-la-violence-va-plut%C3%B4t-%C3%A9touffer-les-mouvements-sociaux"
-   ]
-  },
-  {
-   "id": "2026-10-18-alerte-02",
-   "date": "2026-10-18",
-   "publiee_a": "2026-10-17T20:42:52Z",
-   "titre": "Des colons israéliens agressent des diplomates européens en Cisjordanie occupée",
-   "texte": "Des colons israéliens ont attaqué des diplomates européens et des responsables français samedi 17 octobre 2026 à Taybeh, en Cisjordanie occupée. L'agression s'est produite lors d'une récolte d'olives aux côtés d'habitants palestiniens.",
-   "sources": [
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/west-bank/2026-10-17/ty-article/.premium/settlers-attack-european-diplomats-during-palestinians-west-bank-olive-harvest/000001a1-49f0-d54e-adef-d9f0da3c0000"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/west-bank-settlers-attack-palestinians-western-diplomats-belgium-says"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c962ydpmjm3zo"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/masked-settlers-attack-european-diplomats-in-occupied-west-bank/article71597806.ece"
-    }
-   ],
-   "cluster": "190f9a24e5e8d7e7",
-   "urls": [
-    "https://bbc.co.uk/news/articles/c962ydpmjm3zo",
-    "https://dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
-    "https://ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-    "https://haaretz.com/west-bank/2026-10-17/ty-article/.premium/settlers-attack-european-diplomats-during-palestinians-west-bank-olive-harvest/000001a1-49f0-d54e-adef-d9f0da3c0000",
-    "https://straitstimes.com/world/europe/west-bank-settlers-attack-palestinians-western-diplomats-belgium-says",
-    "https://theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-    "https://theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
-    "https://thehindu.com/news/international/masked-settlers-attack-european-diplomats-in-occupied-west-bank/article71597806.ece"
-   ]
-  },
-  {
-   "id": "2026-10-18-alerte-03",
-   "date": "2026-10-18",
-   "publiee_a": "2026-10-17T20:43:17Z",
-   "titre": "Le rugbyman sud-africain Hyron Andrews meurt avant un match en France",
-   "texte": "Le joueur sud-africain Hyron Andrews est mort vendredi 16 octobre 2026 dans son hôtel sur l'île de Ré. L'athlète des Lions de Johannesburg préparait une rencontre face au Stade Rochelais.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/info-radio-france-un-rugbyman-des-lions-de-johannesbourg-meurt-dans-un-hotel-de-l-ile-de-re-a-la-veille-du-match-face-au-stade-rochelais_8240164.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/sport/26_ottobre_16/rugby-hyron-andrews-trovato-morto-in-albergo-a-la-rochelle-colto-da-malore-mentre-era-nella-doccia-a3f1bee2-b223-4851-b4a9-a717773caxlk.shtml"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20261016-hyron-andrews-rugbyman-sud-africain-des-lions-retrouv%C3%A9-mort-%C3%A0-la-veille-d-un-match-%C3%A0-la-rochelle"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-en-video-le-vibrant-hommage-a-hyron-andrews-decede-vendredi-avant-le-match-la-rochelle-lions-20261017"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Rugby/Actualites/Coupe-des-champions-la-rochelle-domine-des-lions-endeuilles-par-la-mort-de-hyron-andrews/1736559"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo"
-    }
-   ],
-   "cluster": "5fdfe06520b68743",
-   "urls": [
-    "https://bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo",
-    "https://bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo",
-    "https://corriere.it/sport/26_ottobre_16/rugby-hyron-andrews-trovato-morto-in-albergo-a-la-rochelle-colto-da-malore-mentre-era-nella-doccia-a3f1bee2-b223-4851-b4a9-a717773caxlk.shtml",
-    "https://france24.com/fr/france/20261016-rugby-joueur-sud-africain-retrouv%C3%A9-mort-veille-match-la-rochelle-champions-cup",
-    "https://franceinfo.fr/faits-divers/info-radio-france-un-rugbyman-des-lions-de-johannesbourg-meurt-dans-un-hotel-de-l-ile-de-re-a-la-veille-du-match-face-au-stade-rochelais_8240164.html",
-    "https://franceinfo.fr/sports/rugby/champions-cup/le-match-de-champions-cup-entre-la-rochelle-et-les-lions-maintenu-malgre-la-mort-du-sud-africain-hyron-andrews_8240425.html",
-    "https://lefigaro.fr/sports/rugby/champions-cup-la-rochelle-lions-maintenu-malgre-la-mort-d-un-joueur-sud-africain-20261016",
-    "https://lefigaro.fr/sports/rugby/coupe-d-europe/gloucester-ubb-en-video-l-emouvante-minute-de-silence-en-hommage-a-hyron-andrews-decede-avant-le-match-de-champions-cup-contre-la-rochelle-20261016",
-    "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-en-video-le-vibrant-hommage-a-hyron-andrews-decede-vendredi-avant-le-match-la-rochelle-lions-20261017",
-    "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-champions-cup-le-numero-5-ne-sera-pas-porte-durant-le-match-la-rochelle-lions-en-hommage-a-hyron-andrews-20261017",
-    "https://lefigaro.fr/sports/rugby/coupe-d-europe/rugby-une-onde-de-choc-dans-la-communaute-internationale-du-rugby-les-lions-annoncent-le-mort-de-hyron-andrews-et-maintiennent-leur-match-contre-la-rochelle-en-hommage-20261016",
-    "https://lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html",
-    "https://lequipe.fr/Rugby/Actualites/Coupe-des-champions-la-rochelle-domine-des-lions-endeuilles-par-la-mort-de-hyron-andrews/1736559",
-    "https://lequipe.fr/Rugby/Actualites/Le-match-de-coupe-des-champions-entre-la-rochelle-et-les-lions-maintenu-malgre-la-mort-d-un-joueur-sud-africain/1736255",
-    "https://lequipe.fr/Rugby/Actualites/Les-lions-confirment-la-mort-de-hyron-andrews-a-l-age-de-31-ans/1736246",
-    "https://lequipe.fr/Rugby/Article/Qui-etait-hyron-andrews-le-joueur-des-lions-mort-la-veille-du-match-contre-la-rochelle-l-un-des-plus-grands-specialistes-de-la-touche-en-afrique-du-sud/1736318",
-    "https://liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4",
-    "https://rfi.fr/fr/sports/20261016-hyron-andrews-rugbyman-sud-africain-des-lions-retrouv%C3%A9-mort-%C3%A0-la-veille-d-un-match-%C3%A0-la-rochelle",
-    "https://theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
    ]
   }
  ]

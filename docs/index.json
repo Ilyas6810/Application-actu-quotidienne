@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-24T05:15:58Z",
- "derniere": "2026-10-24",
+ "maj": "2026-10-25T05:29:10Z",
+ "derniere": "2026-10-25",
  "editions": [
+  {
+   "date": "2026-10-25",
+   "genere_a": "2026-10-25T05:29:10Z",
+   "articles": 7,
+   "une": [
+    "Elon Musk accuse l'Ukraine de violer les règles du réseau Starlink",
+    "Manifestations sous haute surveillance policière en France avec cent trente-cinq arrestations",
+    "Kim Jong Un s'est rendu en Chine par un nouveau pont"
+   ],
+   "octets": 33809
+  },
   {
    "date": "2026-10-24",
    "genere_a": "2026-10-24T05:15:58Z",

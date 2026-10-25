@@ -1,0 +1,389 @@
+{
+ "date": "2026-10-25",
+ "genere_a": "2026-10-25T05:29:10Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-25-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Elon Musk accuse l'Ukraine de violer les règles du réseau Starlink",
+   "chapeau": "Le ministre ukrainien de la Défense a affirmé le samedi 24 octobre 2026 à Kiev que le réseau satellitaire Starlink fonctionnait de nouveau à pleine vitesse. Le propriétaire de SpaceX, Elon Musk, a répliqué en accusant les forces armées ukrainiennes d'enfreindre les conditions d'utilisation de son service civil.",
+   "corps": "Après l'annonce par Donald Trump d'un rétablissement des connexions le 22 octobre 2026, les tensions s'intensifient autour de l'utilisation du réseau satellitaire en Ukraine. Les autorités de Kiev ont confirmé le retour à des débits normaux sur le terrain. Le ministre ukrainien de la Défense a indiqué le samedi 24 octobre 2026 que le réseau civil Starlink ainsi que le système militaire Starshield fonctionnent de nouveau à des vitesses supérieures à 400 kilomètres par heure. Selon The Straits Times le 24 octobre 2026 à 13 heures 16, cette déclaration suit une période de restrictions de plus d'une semaine qui avait ralenti les débits et perturbé les opérations de l'armée ukrainienne.\n\nCe retour des capacités techniques s'accompagne d'une vive mise en garde de l'entreprise américaine. Elon Musk a affirmé le samedi 24 octobre 2026 que les règles d'usage de la plateforme interdisent toute application offensive. L'entrepreneur a rappelé que Starlink demeure un outil réservé à un cadre civil et non un moyen destiné à frapper des cibles. Il a menacé d'interrompre l'ensemble des liaisons en cas de nouveaux manquements. Der Spiegel précise le 25 octobre 2026 à 1 heure 17 qu'Elon Musk accuse les militaires ukrainiens d'avoir employé ce réseau pour guider des attaques, sans fournir de preuves matérielles.\n\nLes forces de Kiev s'appuient sur cette infrastructure orbitale et sur Starshield, qui est une déclinaison militaire du système, pour intercepter les drones ainsi que les missiles de l'armée russe. Selon Le Figaro le 25 octobre 2026 à 7 heures 19, les unités ukrainiennes dépendent directement de ces communications par satellites pour coordonner leurs défenses face aux frappes adverses. The Hindu rapporte le 25 octobre 2026 à 0 heure 12 qu'Elon Musk avait réduit l'accès à ce réseau sécurisé après des critiques exprimées par Donald Trump contre des frappes ukrainiennes dirigées vers les infrastructures énergétiques en Russie.\n\nLes démarches diplomatiques et politiques se sont multipliées pour obtenir la levée des freins techniques. Selon le Wall Street Journal cité par Bloomberg le 22 octobre 2026 à 22 heures 22, Donald Trump a téléphoné à Elon Musk afin de lui demander de retirer les restrictions imposées par SpaceX. La Commission européenne avait pour sa part demandé mercredi à la société privée de rétablir sans délai l'accès complet pour les utilisateurs ukrainiens, comme le mentionne franceinfo le 23 octobre 2026 à 12 heures 29. Donald Trump n'a cependant pas détaillé la procédure suivie pour parvenir à ce déblocage.\n\nLes interventions du pouvoir politique américain auprès de SpaceX s'inscrivent dans une pratique ancienne. Six anciens hauts responsables des États-Unis ont déclaré que les administrations de Joe Biden et de Donald Trump ont souvent sollicité Elon Musk pour modifier la couverture de Starlink dans plusieurs régions, indique Folha de S.Paulo le 24 octobre 2026 à 17 heures 30. Un consultant du secteur satellitaire a affirmé à Haaretz le 24 octobre 2026 à 13 heures 21 que l'industriel prend en pratique des décisions de politique étrangère. Les autorités de Washington ont ainsi demandé d'activer ou de couper le service pour freiner des groupes soutenus par l'Iran ou pour élargir l'accès public au réseau dans ce pays.\n\nSur le front militaire, d'autres négociations ont eu lieu en parallèle. Melania Trump a déclaré avoir obtenu un arrêt des hostilités dans la localité ukrainienne d'Oleshky, rapporte La Croix le 23 octobre 2026 à 23 heures 08.\n\nLe gouvernement ukrainien n'a pas précisé la nature exacte des moyens techniques de substitution dont il dispose en cas de coupure de Starlink.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-22/trump-called-musk-to-lift-starlink-limits-in-ukraine-wsj-says"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1703-point-conflit-ukrainien-poutine-aujourdhui-20261023"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-10-24/ty-article/u-s-has-repeatedly-asked-musk-to-switch-starlink-on-or-off-in-iran/000001a1-6cfe-d29a-a1a5-eeff9b0e0000"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/eua-pedem-ha-anos-que-musk-altere-servico-starlink-na-ucrania-e-no-oriente-medio.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-22T18:22:40Z",
+   "suite_de": "2026-10-23-geopolitique-002",
+   "mots": 627,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-25-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Manifestations sous haute surveillance policière en France avec cent trente-cinq arrestations",
+   "chapeau": "Les autorités françaises ont encadré des cortèges réunissant des foules nombreuses le samedi 24 octobre 2026 dans plusieurs agglomérations. Les forces de l'ordre ont procédé à des dizaines d'interpellations dans un climat urbain verrouillé.",
+   "corps": "Le gouvernement français a mobilisé soixante-dix mille policiers sur tout le territoire national le samedi 24 octobre 2026 pour empêcher de nouveaux débordements après les dégradations du week-end précédent.\n\nLes défilés ont rassemblé des foules importantes dans plusieurs métropoles. Les contestations portent d'abord sur la situation des établissements scolaires puis sur l'inflation et les inégalités de revenus. Selon The Straits Times le 24 octobre 2026 à 13 h 42 et Al Jazeera le 24 octobre 2026 à 16 h 55, les forces de l'ordre ont arrêté 135 personnes.\n\nLe ministère de l'Intérieur a donné des consignes de grande fermeté aux unités déployées. Laurent Nuñez a demandé aux agents d'intervenir sans délai contre les auteurs d'actes de pillage ou de dégradation. Le plan gouvernemental intègre des groupes spécialisés d'intervention tactique, habituellement affectés aux missions de lutte antiterroriste. Selon le Financial Times le 25 octobre 2026 à 03 h 23, les effectifs déployés dans les rues ont augmenté de 20 pour cent par rapport au samedi antérieur.\n\nDans le centre de Paris, la vie urbaine a ralenti. Les commerces ainsi que les musées ont fermé leurs portes. Les autorités préfectorales ont modifié les trajectoires des rassemblements pour éloigner les cortèges du cœur de la capitale. Dans d'autres localités d'importance, les préfets ont interdit plusieurs défilés programmés. Des organisations de défense des droits civiques ont contesté ces décisions administratives de fermeture des espaces publics.\n\nUne fusillade mortelle survenue près de Paris a également accru la tension avant le début des défilés. Les représentants du secteur marchand redoutent les effets économiques de ces troubles sur le commerce de détail et les arrivées touristiques, au moment où les comptes publics et le paysage politique connaissent des difficultés.\n\n## Ce que disent les sources\n\nNPR indique le 25 octobre 2026 à 01 h 21 que des centaines de milliers de manifestants ont défilé sur le territoire national. Le Financial Times mentionne également le 25 octobre 2026 à 03 h 23 des centaines de milliers de participants aux cortèges. À l'inverse, Bloomberg fait état le 24 octobre 2026 à 17 h 21 de milliers de protestataires dans les rues.\n\nLe bilan final des dégâts matériels et le nombre exact de blessés ne figurent pas dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cj62yv5k0w4yo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/france-mounts-huge-security-operation-as-protesters-prepare-to-march"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-24/france-faces-new-protests-after-week-of-violence-video"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence"
+    }
+   ],
+   "premiere_parution": "2026-10-23T05:00:00Z",
+   "suite_de": "2026-10-24-monde-003",
+   "mots": 404,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-25-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des centaines de milliers de manifestants défilent en France pour l'école",
+   "chapeau": "Plusieurs centaines de milliers de personnes ont manifesté dans les villes de France le samedi 24 octobre 2026. Les cortèges ont réclamé des moyens pour l'enseignement et protesté contre le coût de la vie.",
+   "corps": "Les cortèges ont rassemblé des foules nombreuses dans l'ensemble du territoire français pour un deuxième samedi consécutif. Les participants ont exprimé leur soutien aux revendications des élèves pour le recrutement d'enseignants et la rénovation des bâtiments scolaires dégradés. Les slogans ont également ciblé le coût de la vie, ainsi que les méthodes d'intervention des forces de l'ordre, alors que le président Emmanuel Macron se trouve dans les derniers mois de son mandat.\n\nLe ministère de l'Intérieur a mobilisé un contingent de 70 000 agents de police à travers le pays pour encadrer ces rassemblements. Le ministre de l'Intérieur Laurent Nuñez avait justifié cette présence policière par l'existence de multiples appels à commettre des dégradations et des pillages. Les autorités ont imposé des interdictions de manifester dans certains secteurs et ordonné la fermeture préventive de musées.\n\nÀ Paris, les forces de sécurité ont comptabilisé 110 000 participants qui ont arpenté l'est de la ville. Les services de police de la capitale ont fait état de saisies préalables d'objets interdits lors des contrôles, tout en qualifiant la marche de calme durant son déroulement. En fin de journée, des tensions ont éclaté et la police a employé des grenades lacrymogènes pour repousser des groupes et leur barrer l'accès à d'autres secteurs parisiens. À Lyon et dans plusieurs autres centres urbains, les agents ont utilisé des engins lanceurs d'eau et des gaz lacrymogènes dès le début des rassemblements.\n\nCe samedi d'action succède à une précédente journée de manifestations marquée par des violences, des dégradations et des départs de feu. Les journaux avaient alors comptabilisé au moins 2 700 interpellations selon les données publiées par Folha de S.Paulo le 24 octobre 2026 à 11 h 00. Pour la seule journée du samedi 24 octobre 2026, au moins 1 000 arrestations ont été enregistrées sur le territoire, d'après les chiffres rapportés par blisty.cz le 24 octobre 2026 à 04 h 00 et par Handelsblatt le 25 octobre 2026 à 02 h 36. Les médias allemands ont toutefois précisé que ce bilan demeurait incomplet.\n\n## Ce que disent les sources\n\nSur l'évaluation de la participation globale à l'échelle nationale, The Guardian rapporte le 24 octobre 2026 à 21 h 54 une estimation gouvernementale d'au moins 400 000 personnes. Le quotidien espagnol ABC rapporte pour sa part, le 25 octobre 2026 à 03 h 39, une évaluation de 410 000 personnes fournie par le ministère de l'Intérieur. Concernant les organisations syndicales, The Guardian indique qu'elles revendiquent un total double de l'estimation de l'exécutif, tandis qu'ABC précise que ces syndicats déclarent le chiffre de 800 000 manifestants.\n\nLe nombre total de personnes blessées lors de cette journée n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "blisty.cz",
+     "url": "https://blisty.cz/art/137004-po-cele-francii-se-konaly-protestni-demonstrace-kterych-se-zucastnily-stovky-tisic-lidi-byly-zamerene-na-skolstvi-a-policejni-zasahy.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/milhares-devem-voltar-as-ruas-da-franca-neste-sabado-sob-esquema-de-seguranca-macico-apos-caos-e-violencia.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/frankreich-70-000-polizisten-verbotene-demos-geschlossene-museen-angespannte-lage-vor-erneutem-protesttag-a-0890d667-ab5f-4b7e-aa92-244e0c72e9ca"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/police-fire-tear-gas-as-new-french-protests-kick-off/article71619959.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/gallery/2026/oct/24/major-protests-in-paris-and-other-french-cities-in-challenge-to-emmanuel-macron"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder"
+    },
+    {
+     "nom": "handelsblatt.com",
+     "url": "https://handelsblatt.com/politik/international/demonstrationen-mindestens-1000-festnahmen-nach-protesten-in-frankreich/100264717.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cientos-miles-personas-vuelven-tomar-calles-francia-20261024184753-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-24T00:00:00Z",
+   "suite_de": null,
+   "mots": 479,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-25-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'archidiocèse de New York accorde un dédommagement financier aux victimes d'abus sexuels",
+   "chapeau": "L'archidiocèse de New York a conclu un accord financier avec environ 1 300 victimes d'abus sexuels commis par des membres du clergé. Cette entente a été confirmée le samedi 24 octobre 2026 aux États-Unis par les représentants légaux des plaignants et par l'autorité religieuse.",
+   "corps": "Le protocole d'entente prévoit le versement d'une somme globale de 800 millions de dollars. Ce montant a été rapporté le 24 octobre 2026 par Deutsche Welle et le 25 octobre 2026 par NPR. Selon les données publiées le 24 octobre 2026 par Wikipédia, chaque plaignant doit recevoir un minimum de 250 000 dollars.\n\nCe compromis amiable met fin aux actions en justice menées par environ 1 300 personnes. D'après une déclaration d'un avocat des plaignants citée par NPR, l'ensemble des plaignants a accepté ces dispositions financières. Les plaintes visaient des actes imputés à des membres du clergé ainsi qu'à des membres du personnel laïque, un groupe qui désigne les croyants sans fonction sacerdotale.\n\nL'archevêque Ronald Hicks a confirmé l'existence de cette transaction par un message électronique adressé à ses prêtres le samedi 24 octobre 2026, selon des éléments diffusés par le média localnews8.com le 25 octobre 2026. Cette source indique que ce règlement financier se place au deuxième rang des sommes négociées par un diocèse catholique sur le territoire américain.\n\nEn complément du volet financier, le diocèse new-yorkais s'engage à publier des données sur son site Internet. The Straits Times a rapporté le 24 octobre 2026 que le texte impose de diffuser l'identité des personnes visées par des accusations jugées crédibles.\n\nLe journal Le Monde a rappelé le 25 octobre 2026 que l'Église catholique aux États-Unis a déjà signé plusieurs protocoles similaires pour clore des litiges judiciaires engagés depuis le début des années 2000.\n\nLes sources ne précisent pas les délais prévus pour le paiement effectif des fonds.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/new-york-archdiocese-close-to-settling-sexual-abuse-claims-for-over-us800-million"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_24?evenement=479ae2d4f1"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/25/l-archidiocese-de-new-york-va-verser-800-millions-de-dollars-a-plus-de-1-300-victimes-d-abus-sexuels_6799830_3210.html"
+    },
+    {
+     "nom": "ksat.com",
+     "url": "https://ksat.com/news/national/2026/10/24/new-yorks-archdiocese-and-survivors-of-clergy-abuse-agree-to-800-million-legal-settlement"
+    },
+    {
+     "nom": "localnews8.com",
+     "url": "https://localnews8.com/news/national-world/cnn-national/2026/10/24/new-yorks-archdiocese-and-survivors-of-clergy-abuse-agree-to-800-million-legal-settlement"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors"
+    }
+   ],
+   "premiere_parution": "2026-10-24T09:00:00Z",
+   "suite_de": null,
+   "mots": 303,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-25-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Présidentielle au Brésil : Lula et Flávio Bolsonaro au coude-à-coude avant le vote",
+   "chapeau": "Les électeurs brésiliens se rendent aux urnes ce dimanche 25 octobre 2026 pour le second tour de l'élection présidentielle. Luiz Inácio Lula da Silva et Flávio Bolsonaro terminent leur campagne après un ultime débat télévisé et plusieurs rassemblements.",
+   "corps": "Ce scrutin oppose le président sortant Luiz Inácio Lula da Silva au sénateur Flávio Bolsonaro, au lendemain de la fin de leur campagne officielle.\n\nDes sondages publiés le samedi 24 octobre 2026 placent les deux candidats à égalité statistique, selon l'agence Bloomberg le 25 octobre 2026 à 01:30 et le quotidien The Straits Times le 25 octobre 2026 à 03:05. Le sénateur de droite a abordé cette phase finale avec un avantage initial après être arrivé en tête du premier tour, d'après The Straits Times le 25 octobre 2026 à 03:05. Les enquêtes d'opinion indiquent un resserrement des intentions de vote dans les jours précédant le scrutin, note la chaîne Al Jazeera le 24 octobre 2026 à 19:36.\n\nÀ la veille du scrutin, les deux adversaires ont réuni des milliers de partisans lors de rassemblements distincts, rapporte Al Jazeera le 25 octobre 2026 à 01:39. Ces événements publics ont clos une semaine marquée par des échanges directs entre les prétendants à la direction de la première économie d'Amérique latine.\n\nLe vendredi 23 octobre au soir, la chaîne TV Globo a organisé la dernière confrontation télévisée entre les deux hommes, précise le journal ABC. L'émission a duré plus de deux heures, note le quotidien El País. Les deux candidats ont exposé leurs projets pour le développement régional, les infrastructures et l'économie brésilienne, selon The Straits Times. Luiz Inácio Lula da Silva a mis en avant son parcours ouvrier, alors que son adversaire a cherché à présenter une image plus modérée, relate El País. La discussion a aussi porté sur le niveau des prix et la corruption, indique The Straits Times. Flávio Bolsonaro a dû présenter des excuses publiques après avoir insulté Luiz Inácio Lula da Silva en le qualifiant de « neuf doigts », signale ABC.\n\nCe scrutin déterminera si le pays maintient une présidence de gauche ou s'il s'aligne sur une tendance politique de droite soutenue par le président américain Donald Trump, mentionne The Hindu. Ce dernier n'a toutefois pas apporté de soutien public officiel à Flávio Bolsonaro, précise ce même journal.\n\n## Ce que disent les sources\n\nLes médias décrivent différemment l'ambiance du débat télévisé du 23 octobre. The Straits Times et The Hindu évoquent une discussion plus calme. El País mentionne un dialogue plus constructif au cours duquel Luiz Inácio Lula da Silva a placé son opposant sur la défensive. À l'inverse, le journal ABC qualifie cette même confrontation d'âpre et de tendue, en insistant sur les invectives personnelles qui ont suivi la présentation des programmes.\n\nLes sources ne fournissent pas les pourcentages détaillés des enquêtes d'opinion publiées le 24 octobre.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/lula-bolsonaro-hold-calmer-debate-before-brazil-election"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/brazil-debate-leaves-lula-and-bolsonaro-tied-as-polls-tighten-ahead-of-sundays-runoff/article71619106.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/bolsonaro-obligado-disculparse-llamar-nueve-dedos-lula-20261024111029-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-24/bolsonaro-and-lula-in-dead-heat-a-day-before-runoff-polls-shows"
+    }
+   ],
+   "premiere_parution": "2026-10-22T22:13:27Z",
+   "suite_de": "2026-10-24-monde-010",
+   "mots": 473,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-25-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Kim Jong Un s'est rendu en Chine par un nouveau pont",
+   "chapeau": "Le dirigeant nord-coréen Kim Jong Un a effectué une visite non annoncée dans la ville frontalière chinoise de Dandong le samedi 24 octobre 2026. Ce déplacement terrestre s'est déroulé via un pont fluvial récemment mis en service entre les deux pays.",
+   "corps": "Le chef d'État nord-coréen a franchi la frontière pour gagner la province chinoise du Liaoning. Selon les informations transmises le 24 octobre 2026 par l'agence de presse sud-coréenne Yonhap, qui cite une source gouvernementale non identifiée, le dirigeant a voyagé à bord d'un train. Ce convoi ferroviaire est parti de Pyongyang, a traversé la ville frontalière de Sinuiju, puis a emprunté le nouveau pont sur le fleuve Yalou pour atteindre Dandong.\n\nCe passage intervient peu après l'inauguration de cette infrastructure d'art. Selon Der Spiegel, les gouvernements chinois et nord-coréen ont mis en service cet ouvrage frontalier avec douze années de retard sur le calendrier initial. Le quotidien espagnol ABC a précisé le 24 octobre 2026 que cette ouverture officielle remontait à la semaine précédente. L'ouvrage relie directement les réseaux de transport des deux nations par-dessus le cours d'eau frontalier.\n\nDurant son séjour à Dandong, Kim Jong Un s'est rendu auprès d'un monument commémoratif. Les médias officiels, cités par Le Figaro et The Straits Times le 25 octobre 2026, ont indiqué que le dirigeant a honoré la mémoire des combattants chinois tombés pendant la guerre de Corée. Le dirigeant a qualifié les liens bilatéraux d'amitié invincible lors de cette halte mémorielle, selon les propos rapportés par Le Figaro. Le quotidien italien Corriere della Sera note pour sa part que cette étape rappelle l'engagement des volontaires envoyés par Mao Zedong durant ce conflit armé. Le journal espagnol El País rappelle aussi que ce déplacement survient au moment de la date anniversaire de cette intervention militaire chinoise.\n\nCe voyage constitue la première sortie officielle de Kim Jong Un hors de son pays depuis plus d'une année. Bloomberg a indiqué le 24 octobre 2026 qu'il s'agit de son second déplacement en Chine depuis le mois de septembre 2025. Ni les autorités de Pékin ni celles de Pyongyang n'avaient diffusé d'annonce préalable concernant cet itinéraire, d'après les éléments rapportés le 24 octobre 2026 par ABC et confirmés par Le Figaro.\n\nCette visite bilatérale s'inscrit par ailleurs dans un contexte diplomatique régional particulier. Bloomberg a rapporté le 24 octobre 2026 que le président des États-Unis Donald Trump prévoit une tournée dans cette zone géographique au cours du mois prochain. D'après des analystes cités par le Financial Times le 24 octobre 2026, le pouvoir chinois manifeste des inquiétudes quant au rapprochement militaire et politique observé entre le gouvernement nord-coréen et la Russie.\n\nAprès l'accomplissement des cérémonies d'hommage et des visites officielles sur le sol chinois, le chef d'État nord-coréen a repris la direction de son pays. Les organes de presse d'État ont annoncé le retour de Kim Jong Un en Corée du Nord, a rapporté The Straits Times le 25 octobre 2026.\n\nLe programme complet des réunions officielles tenues entre les représentants chinois et nord-coréens à Dandong n'a pas été communiqué par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-24/kim-jong-un-arrives-in-china-s-dandong-city-yonhap-reports"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/nordkorea-kim-jong-un-besucht-china-ueber-neu-eingeweihte-bruecke-a-28c0c951-22fd-42ea-94b7-dc5eb0c898cb"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_24/kim-jong-un-nuovo-ponte-nord-corea-cina-b3a54580-83ba-457d-b2ad-410c723f7xlk.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/north-korean-leader-kim-jong-un-visits-china-south-korean-media-reports/article71619300.ece"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/kim-jongun-visita-china-traves-nuevo-puente-20261024143057-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-24/kim-jong-un-cruza-el-nuevo-puente-a-china-en-un-nuevo-gesto-de-acercamiento-a-pekin.html"
+    }
+   ],
+   "premiere_parution": "2026-10-24T06:21:07Z",
+   "suite_de": null,
+   "mots": 509,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-25-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "La Russie et l'Ukraine précisent les modalités de la trêve à Olechky",
+   "chapeau": "Les gouvernements russe et ukrainien ont défini les conditions de l'arrêt des combats à Olechky après l'accord obtenu par les États-Unis. Les opérations militaires cesseront dans cette localité occupée du sud de l'Ukraine pour organiser l'aide et les départs de civils.",
+   "corps": "Moscou et Kiev ont accepté le vendredi 23 octobre 2026 une trêve locale à Olechky sous l'égide de la Première dame américaine Melania Trump.\n\nLes équipes civiles des deux pays vont se rendre chez les habitants d'Olechky. Ces délégations non militaires organiseront les trajets des personnes qui souhaitent partir. Les civils pourront choisir de rejoindre le territoire contrôlé par la Russie ou celui tenu par l'Ukraine. Une entreprise de presse américaine non identifiée accompagnera ces équipes sur le terrain pour enregistrer le déroulement des opérations.\n\nLe Kremlin a indiqué le vendredi 23 octobre 2026 que les états-majors russe et ukrainien collaborent pour fixer le calendrier des évacuations. La Maison Blanche et un négociateur ont précisé que l'interruption complète des actions militaires commencera le 27 octobre 2026. Cette mesure vise à faire entrer de l'aide humanitaire dans cette commune située sur la ligne de front dans la région de Kherson.\n\nLa population d'Olechky subit des pénuries d'eau potable, de vivres et d'électricité. Des résidents consomment des herbes sauvages pour subsister dans la ville occupée par l'armée russe. Le président ukrainien Volodymyr Zelensky a déclaré que les délégations des deux pays se réuniront le mois prochain pour de nouveaux pourparlers de paix.\n\nLe président américain Donald Trump a affirmé que l'initiative de cet accord revient à Melania Trump. Il a qualifié l'action de son épouse de supérieure au travail des diplomates professionnels.\n\n## Ce que disent les sources\n\nReuters indique le 23 octobre 2026 que la trêve débutera un jeudi. The Guardian et The Hindu rapportent le 23 et le 24 octobre 2026 que l'arrêt des hostilités commencera le 27 octobre, soit un mardi. The Financial Times mentionne l'intervention conjointe du pape et de Melania Trump, alors que les autres sources citent uniquement la Première dame américaine.\n\nLe nom de l'entreprise de presse américaine chargée de couvrir les évacuations n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo"
+    }
+   ],
+   "premiere_parution": "2026-10-23T12:00:00Z",
+   "suite_de": "2026-10-24-geopolitique-002",
+   "mots": 353,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-25-monde-001",
+  "2026-10-25-monde-002",
+  "2026-10-25-geopolitique-001",
+  "2026-10-25-geopolitique-002",
+  "2026-10-25-monde-003",
+  "2026-10-25-monde-004",
+  "2026-10-25-monde-005"
+ ]
+}

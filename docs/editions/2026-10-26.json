@@ -1,0 +1,295 @@
+{
+ "date": "2026-10-26",
+ "genere_a": "2026-10-26T05:36:02Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-26-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "María Corina Machado rentre au Venezuela après dix mois d'exil",
+   "chapeau": "La cheffe de l'opposition vénézuélienne María Corina Machado est rentrée au Venezuela le dimanche 25 octobre 2026. L'ancienne exilée a rejoint la capitale Caracas après plusieurs mois passés hors des frontières nationales.",
+   "corps": "María Corina Machado a officialisé sa présence sur le sol vénézuélien le dimanche 25 octobre 2026 en milieu de journée. Elle a diffusé un message court sur le réseau social X pour avertir ses partisans de sa présence dans le pays. La lauréate du prix Nobel de la paix a ensuite pris la route vers la capitale nationale.\n\nSon parcours vers Caracas s'est étendu sur toute la journée de dimanche. Le convoi de l'opposante a traversé cinq États vénézuéliens différents avant d'atteindre la capitale dans la soirée de dimanche. Des groupes de partisans se sont réunis sur son trajet pour saluer son passage. Le quotidien El País avait précisé plus tôt que son itinéraire prévoyait trois haltes distinctes sur son chemin.\n\nCe retour intervient après une longue période passée hors des frontières nationales. María Corina Machado avait quitté clandestinement le territoire vénézuélien au cours du mois de décembre 2025. Elle s'était d'abord rendue à Oslo en Norvège pour recevoir sa distinction internationale. Elle a ensuite séjourné au Panama durant son exil, tout en vivant dans la clandestinité selon France 24.\n\nCe voyage réussi fait suite à de multiples tentatives de retour infructueuses. Les sources de sa formation politique, citées par franceinfo le 25 octobre 2026 à 22 h 42, ont affirmé que la femme politique âgée de 60 ans avait déjà tenté sans succès de rentrer à au moins sept reprises. Le quotidien espagnol ABC a aussi rapporté des essais récents non aboutis au cours des dernières semaines.\n\nLe contexte politique vénézuélien a connu des changements majeurs durant son absence. En janvier 2026, un mois après le départ de l'opposante, les autorités des États-Unis ont capturé l'ancien président Nicolás Maduro, une action qualifiée d'enlèvement par le média NRC. Delcy Rodríguez exerce depuis la présidence par intérim du pays. Le Financial Times indique que cette administration transitoire bénéficie de l'appui de Donald Trump.\n\nLe retour de María Corina Machado a suscité des réactions immédiates parmi les responsables politiques américains. Donald Trump a déclaré publiquement qu'il espérait voir l'opposante en sécurité, tout en la décrivant comme une femme très agréable. Marco Rubio a pour sa part affirmé que les conditions permettant cette rentrée au pays résultent de pourparlers soutenus par les États-Unis.\n\nÀ Caracas, les premières réactions populaires ont montré des contrastes. Le quotidien ABC a observé que l'effervescence s'est d'abord manifestée sur les plateformes numériques plutôt que sur la voie publique. Certains citoyens ont d'abord cru à une fausse information alors qu'ils vaquaient à leurs occupations dominicales ordinaires. D'autres personnes interrogées ont exprimé leur satisfaction et ont qualifié l'opposante de future présidente réelle du pays.\n\n## Ce que disent les sources\n\nLes sources divergent sur la durée exacte de l'absence de María Corina Machado. Corriere della Sera le 25 octobre 2026 à 22 h 28 et El País le 26 octobre 2026 à 2 h 35 évoquent un exil de près de dix mois. Al Jazeera le 26 octobre 2026 à 3 h 23 mentionne plus de dix mois. France 24 le 25 octobre 2026 à 21 h 22 et The Guardian le 25 octobre 2026 à 23 h 56 indiquent pour leur part une absence de près d'un an.\n\nLe mode de transport utilisé par María Corina Machado pour entrer sur le territoire vénézuélien et le point exact de son passage frontalier ne sont pas précisés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261025-la-prix-nobel-maria-corina-machado-de-retour-au-venezuela-apr%C3%A8s-pr%C3%A8s-d-un-an-d-exil"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_25/maria-corina-machado-rientro-venezuela-1e00b252-4dcf-4c8f-9519-a1708c752xlk.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/lopposante-maria-corina-machado-de-retour-dans-son-pays-apres-plusieurs-mois-dexil-20261025_TYJJNA26BJG65A5D6CED62QQAA"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/25/na-de-zoveelste-poging-is-oppositieleider-maria-corina-machado-nu-echt-terug-in-venezuela-a4939714"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile"
+    }
+   ],
+   "premiere_parution": "2026-10-25T02:15:00Z",
+   "suite_de": null,
+   "mots": 590,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-26-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Luiz Inácio Lula da Silva emporte l'élection présidentielle brésilienne",
+   "chapeau": "Le président sortant Luiz Inácio Lula da Silva a remporté le second tour de l'élection présidentielle au Brésil le dimanche 25 octobre 2026. Il s'impose face au sénateur de droite radicale Flávio Bolsonaro, qui rejette le résultat du scrutin.",
+   "corps": "Luiz Inácio Lula da Silva obtient un quatrième mandat présidentiel non consécutif à la tête du Brésil. Le tribunal électoral a finalisé le dépouillement de la totalité des bulletins de vote. Le candidat de gauche devance son adversaire de droite. Cette victoire intervient après un premier tour où le président sortant se trouvait en deuxième position.\n\nFlávio Bolsonaro a déclaré qu'il était impossible de reconnaître sa défaite. Le candidat battu demande l'annulation des résultats de l'élection. Durant la journée du scrutin, la justice électorale a ordonné le rétablissement de la totalité de la flotte de bus. La justice a aussi émis un mandat d'arrêt contre le secrétaire municipal aux transports Pablo Souza pour une suspicion d'infraction électorale et pour désobéissance à des ordres judiciaires.\n\nLes réactions internationales se sont multipliées après la publication des résultats. Les dirigeants de gauche en Amérique latine qualifient ce succès de victoire pour la démocratie. Les chefs d'État de droite de la région appellent à collaborer avec le gouvernement brésilien. Le président élu devra faire face à un Congrès hostile et à un pays divisé.\n\n## Ce que disent les sources\n\nLes médias présentent des écarts sur les chiffres des votes, l'écart entre les candidats et l'âge du vainqueur.\n\nSelon le quotidien espagnol ABC le 26 octobre 2026 à 06h47, Luiz Inácio Lula da Silva l'emporte avec 51,75 % des suffrages contre 48,25 % pour Flávio Bolsonaro. Le journal singapourien The Straits Times indique le 26 octobre 2026 à 08h40 un score de 51,8 % pour le président sortant et de 48,2 % pour son opposant.\n\nConcernant l'écart en nombre de voix, le journal espagnol El País annonce le 26 octobre 2026 à 05h56 une avance de 4 millions de votes. Le journal indien The Hindu affirme le 26 octobre 2026 à 07h13 que l'écart atteint près de 4,4 millions de voix d'après le tribunal électoral.\n\nSur l'âge de Luiz Inácio Lula da Silva, le journal israélien Haaretz le 26 octobre 2026 à 05h05, le quotidien britannique Financial Times le 26 octobre 2026 à 08h44 et l'agence américaine Bloomberg le 26 octobre 2026 à 09h07 indiquent que le président est âgé de 80 ans. Le quotidien espagnol ABC le 26 octobre 2026 à 06h47 mentionne qu'il a 81 ans. Le journal indien The Hindu le 26 octobre 2026 à 07h13 écrit qu'il aura bientôt 81 ans.\n\nLe détail des motifs de l'arrestation de Pablo Souza et la composition exacte du Congrès ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/2026-10-26/ty-article/lula-wins-brazil-presidential-election-besting-netanyahu-ally-bolsonaro/000001a1-75a4-df0e-a5b7-7fa4c2140000"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/votos-lula-lidera-noche-larga-brasil-20261026011153-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmvg7p001qj9o"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261026-dirigeants-amerique-latine-saluent-victoire-lula-bresil-reactions"
+    }
+   ],
+   "premiere_parution": "2026-10-24T16:25:36Z",
+   "suite_de": null,
+   "mots": 452,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-26-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le dirigeant serbe Aleksandar Vucic reconnait sa defaite aux elections legislatives",
+   "chapeau": "Le Premier ministre serbe Aleksandar Vucic a concede sa defaite lors des elections legislatives anticipees du dimanche 25 octobre 2026 en Serbie. Sa formation politique a ete battue par la Liste etudiante soutenue par un mouvement de jeunesse.",
+   "corps": "Aleksandar Vucic a annonce la victoire de la Liste etudiante depuis le siege de sa formation politique. Le dirigeant serbe a declare que les resultats fondes sur un echantillon stratifie montraient la defaite de son camp lors de ce scrutin.\n\nCette consultation electorale survient apres deux annees de manifestations menées par le mouvement etudiant à travers le pays. La participation des electeurs a atteint un niveau proche des records lors de cette journée de vote.\n\nDes rassemblements de fete ont eu lieu dans les rues à la suite de la declaration du dirigeant sortant.\n\n## Ce que disent les sources\n\nLes informations concernant la duree de la presense d'Aleksandar Vucic au pouvoir varient selon les medias. Franceinfo, France 24 et le Corriere della Sera indiquent qu'il a domine la vie politique ou dirige le pays pendant quatorze ans. De leur cote, The Guardian et BBC News font etat d'un reigne ou d'un pouvoir durant depuis douze ans.\n\nLes elements sur l'orientation politique du mouvement etudiant restent non precises.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261025-serbie-aleksandar-vucic-conc%C3%A8de-sa-d%C3%A9faite-aux-l%C3%A9gislatives-anticip%C3%A9es"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/en-serbie-aleksandar-vucic-reconnait-sa-defaite-face-au-mouvement-etudiant-20261025_PW5PWL47JBB7ZH2SLXRIVPZDEQ"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_25/elezioni-parlamentari-serbia-vucic-lista-studentesca-32a1729e-8c26-4879-855f-f5df588baxlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/reactions-to-election-victory-of-serbias-student-list"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+    }
+   ],
+   "premiere_parution": "2026-10-25T05:00:00Z",
+   "suite_de": null,
+   "mots": 205,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-26-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Elections legislatives en Israel : Gadi Eisenkot s oppose a Benjamin Netanyahu",
+   "chapeau": "Les electeurs israelien votent le 27 octobre 2026 pour les elections legislatives. L ancien chef d etat-major Gadi Eisenkot affronte le Premier ministre Benjamin Netanyahu.",
+   "corps": "Gadi Eisenkot conduit la coalition d opposition au Premier ministre sortant Benjamin Netanyahu pour les elections du 27 octobre 2026.\n\nÂge de 66 ans le 24 octobre 2026 selon Financial Times, Gadi Eisenkot dirige le parti centriste Yashar. Cet ancien chef d etat-major de l armee et ministre demissionnaire est un juif sefarade. Il s est impose comme le principal visage des opposants a Benjamin Netanyahu. L ancien militaire a perdu son fils et deux de ses neveux pendant la guerre dans la bande de Gaza.\n\nLe chef du parti Yashar promet de mettre fin au pouvoir de Benjamin Netanyahu. Il s engage a stopper les guerres sans fin. Il veut aussi retirer le Hamas du pouvoir dans la bande de Gaza. Gadi Eisenkot rejette la creation d un Etat palestinien. Il refuse egalement le projet de colonisation nomme E1. Ce projet couperait en deux le plus grand territoire palestinien.\n\nGadi Eisenkot adopte une attitude reservee et reste peu present dans les medias. Il se presente comme l antithese du Premier ministre sortant. Selon El Pais le 26 octobre 2026, l ancien general arrive en tete des sondages d opinion. Son image d honnetete et sa defense de la securite attirent un large public d electeurs.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/eisenkot-offers-hawkish-alternative-to-netanyahu-for-israeli-pm"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/idees/article/2026/10/24/en-israel-les-impasses-de-la-campagne-des-legislatives_6799681_3232.html"
+    },
+    {
+     "nom": "dailymirror.lk",
+     "url": "https://dailymirror.lk/international/Who-is-Gadi-Eisenkot-Netanyahus-main-challenger-in-Israels-elections/107-353364"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/gadi-eisenkot-netanyahus-challenger/article71621144.ece"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/elections-en-israel-gadi-eisenkot-lancien-general-de-tsahal-devenu-chef-de-file-des-anti-netanyahou-20261025_ZYE452XWLBHNJIR477K4CFNXJQ"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-radio/d-un-monde-a-l-autre/juif-sefarade-ancien-chef-d-etat-major-ministre-demissionnaire-qui-est-gadi-eisenkot-l-homme-qui-defie-netanyahou-dans-les-urnes_8211635.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-26/gadi-eisenkot-el-general-discreto-capaz-de-derrotar-a-netanyahu.html"
+    }
+   ],
+   "premiere_parution": "2026-10-23T07:06:57Z",
+   "suite_de": "2026-10-24-monde-009",
+   "mots": 231,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-26-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les gouvernements americains ont demande a Elon Musk de modifier le reseau Starlink",
+   "chapeau": "Les administrations de Joe Biden et Donald Trump ont sollicite l'entreprise SpaceX pour activer ou couper le reseau satellitaire Starlink dans plusieurs pays. Ces interventions ont vise des zones de conflit comme l'Ukraine, l'Iran et le Moyen-Orient au cours des dernieres annees.",
+   "corps": "Selon six anciens hauts responsables des Etats-Unis cités par Folha de S.Paulo le 24 octobre 2026, Washington demande régulièrement à la société SpaceX de modifier la couverture de son service Starlink. Le réseau Starlink désigne un système de télécommunication par satellites. Sa version militaire se nomme Starshield, ce qui signifie bouclier stellaire.\n\nLes gouvernements de Joe Biden et de Donald Trump ont formule ces demandes pour influencer des situations geopolitiques en Ukraine, en Iran et au Moyen-Orient. A titre d'exemple, le gouvernement americain a cherche a bloquer l'accès aux groupes soutenus par l'Iran. Il a en meme temps cherche a etendre l'acces internet pour la population iranienne.\n\nUn consultant de l'industrie spatiale mentionne dans Haaretz le 24 octobre 2026 estime qu'Elon Musk prend ainsi des decisions majeures de politique etrangere. L'Ukraine depend du reseau civil Starlink et de sa version militaire Starshield depuis l'annee 2022. Ces outils lui permettent de se defendre contre les attaques russes de missiles et de drones.\n\nL'entreprise SpaceX a restreint l'acces internet des forces ukrainiennes pendant plus d'une semaine au mois d'avril. Le ministre de la Defense d'Ukraine et le president Volodymyr Zelensky ont declare le samedi 24 octobre 2026 que le service fonctionnait de nouveau. Selon The Straits Times le 24 octobre 2026, les liaisons ont atteint des vitesses superieures a 400 kilometres par heure.\n\nElon Musk a confirme avoir reduit l'acces au reseau. Le dirigeant accuse les forces armees ukrainiennes d'avoir utilise le service civil pour mener des attaques militaires. Il affirme que le contrat d'utilisation interdit les actions offensives. Elon Musk a declare que Starlink reste un reseau civil et non un moyen de tuer. Il a ajoute que la ligne de front ukrainienne s'effondrerait immédiatement en cas de coupure totale du service.\n\nUn elu republicain du Texas a conteste les explications d'Elon Musk, selon Bloomberg le 25 octobre 2026. Cet elu affirme que l'armee ukrainienne emploie ce reseau satellitaire dans un cadre strictement defensif face a la Russie. Selon le journal Der Spiegel le 25 octobre 2026, Elon Musk n'a apporte aucune preuve pour appuyer ses accusations de mauvais usage.\n\n## Ce que disent les sources\n\nLes explications sur la restriction du service different selon les acteurs. Le journal The Hindu indique le 26 octobre 2026 qu'Elon Musk a restreint l'acces apres des critiques de Donald Trump concernant des frappes ukrainiennes contre les infrastructures energetiques russes. De son cote, Elon Musk affirme sur Le Monde le 25 octobre 2026 qu'il a agi uniquement en raison du non-respect des conditions d'utilisation civiles de son contrat.\n\nDes elements manquent sur la nature exacte des consignes transmises par les autorites americaines a SpaceX.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraine-says-starlink-and-starshield-operating-at-400-kph-after-week-of-throttling"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-10-24/ty-article/u-s-has-repeatedly-asked-musk-to-switch-starlink-on-or-off-in-iran/000001a1-6cfe-d29a-a1a5-eeff9b0e0000"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/eua-pedem-ha-anos-que-musk-altere-servico-starlink-na-ucrania-e-no-oriente-medio.shtml"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/elon-musk-wirft-ukraine-missbrauch-von-starlink-satelliten-vor-a-042c1f86-3094-4a33-9fbc-c6e1b057e1e9"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-elon-musk-accuse-kiev-de-violer-les-conditions-d-utilisation-du-reseau-starlink_6799896_3210.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/la-ligne-de-front-ukrainienne-seffondrerait-immediatement-elon-musk-menace-de-desactiver-starlink-si-kyiv-continue-a-violer-les-conditions-dutilisation-20261025_FDEVWFTQINGGRCHTKTULNON4RM"
+    }
+   ],
+   "premiere_parution": "2026-10-24T00:46:59Z",
+   "suite_de": "2026-10-25-monde-001",
+   "mots": 481,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-26-monde-001",
+  "2026-10-26-monde-002",
+  "2026-10-26-monde-003",
+  "2026-10-26-geopolitique-001",
+  "2026-10-26-monde-004"
+ ]
+}

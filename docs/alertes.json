@@ -1,6 +1,292 @@
 {
- "maj": "2026-10-26T20:44:15Z",
+ "maj": "2026-10-27T22:23:45Z",
  "alertes": [
+  {
+   "id": "2026-10-28-alerte-01",
+   "date": "2026-10-28",
+   "publiee_a": "2026-10-27T22:21:07Z",
+   "titre": "Les sondages placent l'opposition israélienne en tête devant Benjamin Netanyahou",
+   "texte": "Les électeurs israéliens ont voté mardi 27 octobre 2026 pour renouveler la Knesset lors d'un scrutin marqué par une forte participation. Les premiers sondages de sortie des urnes diffusés dans la nuit placent le bloc d'opposition mené par Gadi Eisenkot devant la coalition du Premier ministre Benjamin Netanyahou, sans donner de majorité claire.",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-27/israel-election-exit-polls-show-netanyahu-trailing-video"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/exit-polls-indicate-deadlock-in-israels-election"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/diretta-live/26_ottobre_27/elezioni-israele-2026-netanyahu-eisenkot.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html"
+    }
+   ],
+   "cluster": "19f35d7582ca6f35",
+   "urls": [
+    "https://abc.es/internacional/elecciones-israel-directo-votaciones-participacion-resultado-netanyahu-20261027182010-di.html",
+    "https://abc.es/internacional/exjefe-ejercito-hijo-caido-gaza-historia-gadi-20261027112649-nt.html",
+    "https://abc.es/internacional/netanyahu-denuncia-posible-fraude-pide-ampliar-horario-20261027164654-nt.html",
+    "https://abc.es/internacional/netanyahu-eisenkot-llegan-empatados-elecciones-israel-20261026012206-nt.html",
+    "https://abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html",
+    "https://abc.es/internacional/ultraortodoxos-contrapunto-judio-voto-crucial-arabes-elecciones-20261027204220-nt.html",
+    "https://aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner",
+    "https://aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election",
+    "https://aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls",
+    "https://aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race",
+    "https://aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival",
+    "https://bloomberg.com/news/articles/2026-10-27/israelis-go-to-polls-in-tight-race-to-decide-netanyahu-s-fate",
+    "https://bloomberg.com/news/videos/2026-10-27/israel-election-exit-polls-show-netanyahu-trailing-video",
+    "https://bloomberg.com/news/videos/2026-10-27/israelis-go-to-polls-as-netanyahu-seeks-reelection-video",
+    "https://bracknellnews.co.uk/news/national/26672253.polls-open-israelis-vote-tense-election-seen-referendum-netanyahu",
+    "https://corriere.it/esteri/26_ottobre_26/elezioni-israele-2026-quando-risultato-493b2c85-fdd2-4769-afe9-821fe478bxlk.shtml",
+    "https://corriere.it/esteri/26_ottobre_26/israele-netanyahu-sondaggi-87f930e4-21e3-45db-b539-474fc6252xlk.shtml",
+    "https://corriere.it/esteri/26_ottobre_27/sondaggi-elezioni-israele-9b205143-e217-4ea0-9d89-d1a152b7fxlk.shtml",
+    "https://corriere.it/esteri/diretta-live/26_ottobre_27/elezioni-israele-2026-netanyahu-eisenkot.shtml",
+    "https://corriere.it/lettere-al-direttore/26_ottobre_26/un-voto-decisivo-per-israele-le-tante-domande-nelle-urne-rd-430d0f1a-9d68-446a-bb5e-654f5ea5bxlk.shtml",
+    "https://cp24.com/news/world/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance",
+    "https://dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
+    "https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html",
+    "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html",
+    "https://elpais.com/opinion/2026-10-26/oportunidad-para-israel.html",
+    "https://english.elpais.com/international/2026-10-27/netanyahus-future-hangs-in-the-balance-in-a-decisive-election-for-the-entire-middle-east.html",
+    "https://ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+    "https://ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+    "https://gazette-news.co.uk/news/national/26672253.israelis-vote-tense-election-seen-referendum-netanyahu",
+    "https://haaretz.com/israel-news/elections/2026-10-26/ty-article/.premium/beyond-october-7-the-other-issues-shaping-israels-election/000001a1-7964-dfb9-a5a9-fb65bdb30000",
+    "https://haaretz.com/opinion/editorial/2026-10-27/ty-article-opinion/israel-isnt-netanyahu/000001a1-79f4-dd27-a1ef-fbf5f7a40000",
+    "https://idahostatejournal.com/news/national/the-latest-israelis-vote-in-a-tense-election-seen-as-a-referendum-on-netanyahu/article_e43a2b4d-bbb1-5971-a003-14dd73645bc4.html",
+    "https://npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+    "https://nrc.nl/nieuws/2026/10/26/israel-beinvloedt-mijn-dagelijks-leven-in-nederland-daarom-ga-ik-erheen-om-te-stemmen-a4939570",
+    "https://nrc.nl/nieuws/2026/10/27/de-israelische-verkiezingen-gaan-niet-niet-over-het-lot-van-de-palestijnen-a4939824",
+    "https://rfi.fr/fr/podcasts/revue-de-presse-internationale/20261027-%C3%A0-la-une-un-vote-crucial-en-isra%C3%ABl",
+    "https://spiegel.de/ausland/israel-knesset-wahl-die-szenarien-fuer-den-wahlausgang-a-53f946a4-a464-47fd-98f1-fe8f8163bf66",
+    "https://spiegel.de/ausland/wahl-in-israel-wahlkommission-vermeldet-hohe-beteiligung-a-a133a8b8-9cd0-4e2d-bb12-d9e5e5fdb759",
+    "https://spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347",
+    "https://straitstimes.com/world/middle-east/exit-polls-indicate-deadlock-in-israels-election",
+    "https://straitstimes.com/world/middle-east/netanyahus-political-survival-on-the-line-as-israel-votes",
+    "https://theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+    "https://theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+    "https://thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece",
+    "https://thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
+    "https://thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
+    "https://thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece",
+    "https://video.corriere.it/cronaca/approfondimenti/israele-vota-verdetto-su-netanyahu-cosa-cambia-e-cosa-no-i-tre-scenari/a542cfb2-9318-4382-bb36-6ec74a89fxlk",
+    "https://video.corriere.it/esteri/oriente-occidente/israele-voto-senza-illusioni/c366e031-3609-4193-82b6-a239c8a10xlk",
+    "https://video.corriere.it/esteri/video-verticali/tutto-quello-che-c-e-da-sapere-sulle-elezioni-in-israele-la-guida-della-nostra-inviata/46ad0cd7-1487-44d5-8100-b842a4c2dxlk",
+    "https://wgauradio.com/news/world/latest-israelis-vote/RCDZBKFEGM4VPM2EKTGH2S24WA",
+    "https://wpxi.com/news/local/no-clear-winner-israeli-election-exit-polls-suggest-netanyahus-fate-hangs-balance/GDJIR77SDBAJTON5HVB7OJ7T44",
+    "https://wral.com/news/ap/3b5a0-voters-in-israel-will-decide-whether-to-oust-netanyahu-after-3-years-of-war",
+    "https://wral.com/news/ap/9962f-israelis-are-voting-to-choose-their-next-prime-minister-heres-what-to-know",
+    "https://www1.folha.uol.com.br/mundo/2026/10/a-sombra-do-7-de-outubro-israel-vai-as-urnas-dividido-sobre-netanyahu-e-o-futuro-do-pais.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/eleicao-em-israel-opoe-netanyahu-a-ex-general-mas-outros-lideres-podem-definir-quem-governara-o-pais.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/eleicoes-em-israel-revolvem-incertezas-de-israelenses-e-palestinos.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/israelenses-vao-as-urnas-em-niveis-recorde-em-eleicao-que-decide-futuro-de-netanyahu.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/livro-acusa-netanyahu-de-ignorar-alertas-sobre-ataque-do-hamas-e-adiar-resgate-de-refens-por-calculo-politico.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/10/partido-de-netanyahu-tem-mais-votos-mas-bloco-de-oposicao-pode-vencer-em-israel-diz-boca-de-urna.shtml",
+    "https://yasstribune.com.au/story/9380429/israeli-voters-pass-wartime-judgment-on-netanyahu"
+   ]
+  },
+  {
+   "id": "2026-10-28-alerte-02",
+   "date": "2026-10-28",
+   "publiee_a": "2026-10-27T22:21:54Z",
+   "titre": "Flávio Bolsonaro quitte le Brésil pour les États-Unis après sa défaite électorale",
+   "texte": "Le sénateur Flávio Bolsonaro a quitté le Brésil en direction des États-Unis mardi 27 octobre 2026 après son échec à l'élection présidentielle face à Lula. Le département d'État américain prévoit d'accorder un visa au candidat vaincu ainsi qu'à ses proches.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/wahl-in-brasilien-flavio-bolsonaro-nach-verlorener-wahl-offenbar-in-die-usa-gefluechtet-a-8fec7f65-6a01-47fc-8e82-df558cedb7fd"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/bresil-interrogations-autour-dune-possible-fuite-de-flavio-bolsonaro-en-dehors-du-pays-20261027_MAS4SSIGYBCLTFNYZKG6KAPLIQ"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/bresil-flavio-bolsonaro-aurait-fui-aux-etats-unis-apres-sa-defaite-a-la-presidentielle-20261027"
+    }
+   ],
+   "cluster": "517929ee69cdb6e9",
+   "urls": [
+    "https://abc.es/internacional/causas-penales-caen-sobre-flavio-bolsonaro-tras-20261027175357-nt.html",
+    "https://abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
+    "https://aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa",
+    "https://bloomberg.com/news/articles/2026-10-27/argentina-denies-flavio-bolsonaro-entered-the-country",
+    "https://bloomberg.com/news/articles/2026-10-27/us-to-issue-visas-to-brazilian-election-loser-flavio-bolsonaro",
+    "https://cope.es/actualidad/internacional/noticias/flavio-bolsonaro-huye-brasil-estados-unidos-administracion-trump-no-entregar-pasaporte-20261027_3463908.html",
+    "https://corriere.it/esteri/26_ottobre_27/brasile-jair-bolsonaro-annullati-passaporti-4ed4c309-19f2-4f0b-af0a-c68ce7ab3xlk.shtml",
+    "https://dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/america/2026-10-27/ee-uu-confirma-que-emitira-visados-para-flavio-bolsonaro-y-su-familia.html",
+    "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_27?evenement=2feae0bc29",
+    "https://english.elpais.com/international/2026-10-27/flavio-bolsonaro-flees-to-the-united-states-after-election-defeat-to-lula.html",
+    "https://france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
+    "https://ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+    "https://lefigaro.fr/international/bresil-flavio-bolsonaro-aurait-fui-aux-etats-unis-apres-sa-defaite-a-la-presidentielle-20261027",
+    "https://liberation.fr/international/amerique/bresil-interrogations-autour-dune-possible-fuite-de-flavio-bolsonaro-en-dehors-du-pays-20261027_MAS4SSIGYBCLTFNYZKG6KAPLIQ",
+    "https://nrc.nl/nieuws/2026/10/27/flavio-bolsonaro-ontvlucht-brazilie-na-verkiezingsnederlaag-a4939914",
+    "https://reuters.com/world/americas/flavio-bolsonaro-leaves-brazil-us-after-election-defeat-source-media-say-2026-10-27",
+    "https://rfi.fr/fr/am%C3%A9riques/20261027-br%C3%A9sil-flavio-bolsonaro-a-fui-vers-les-%C3%A9tats-unis-washington-annonce-qu-un-visa-va-lui-%C3%AAtre-accord%C3%A9",
+    "https://spiegel.de/ausland/brasilien-flavio-bolsonaro-muss-paesse-abgeben-und-im-land-bleiben-a-f44d57e1-6772-430e-aee5-c73b188df3e9",
+    "https://spiegel.de/ausland/wahl-in-brasilien-flavio-bolsonaro-nach-verlorener-wahl-offenbar-in-die-usa-gefluechtet-a-8fec7f65-6a01-47fc-8e82-df558cedb7fd",
+    "https://straitstimes.com/world/brazil-wonders-where-on-earth-is-flavio-bolsonaro",
+    "https://theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+    "https://thehindu.com/news/international/brazilsflavio-bolsonaro-headed-to-us-after-losing-election-sources-say/article71633165.ece",
+    "https://ultimasnoticias.com.ve/actualidad/confirman-que-flavio-bolsonaro-huyo-de-brasil-rumbo-a-estados-unidos",
+    "https://www1.folha.uol.com.br/poder/2026/10/governo-trump-esta-ciente-sobre-saida-de-flavio-bolsonaro-do-brasil-dizem-aliados.shtml",
+    "https://www1.folha.uol.com.br/poder/2026/10/orgao-de-migracao-e-membro-do-governo-milei-negam-que-flavio-bolsonaro-esteja-na-argentina.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-28-alerte-03",
+   "date": "2026-10-28",
+   "publiee_a": "2026-10-27T22:23:45Z",
+   "titre": "Législatives en Israël : l'opposition arrive en tête sans obtenir de majorité",
+   "texte": "Les électeurs israéliens ont voté mardi 27 octobre lors des élections législatives. Selon les premières estimations publiées dans la nuit, le bloc opposé à Benyamin Nétanyahou mène le scrutin sans atteindre la majorité absolue.",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/27/g-s1-149944/israel-election-guide"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/israel-wahl-beginnt-mit-gedenken-an-hamas-opfer-a-a634b1dc-e6cd-4a4c-810c-5fb495d2ad90"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-le-taux-de-participation-s-eleve-a-44-9-en-debut-d-apres-midi-un-record-depuis-1973_6801217_3210.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/elections-legislatives-en-israel-le-bloc-de-l-opposition-legerement-en-tete-mais-sans-majorite-20261027"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/legislatives-en-israel-le-bloc-de-l-opposition-legerement-en-tete-mais-sans-majorite-selon-les-premieres-estimations-20261027"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/elections-legislatives-en-israel-la-coalition-de-gadi-eisenkot-devance-celle-de-netanyahou-20261027_NJFOWDG675HA3P2R4RSGLKYC5M"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude"
+    }
+   ],
+   "cluster": "1c1025d85114b132",
+   "urls": [
+    "https://aspenpublicradio.org/2026-10-26/a-quick-guide-to-israels-high-stakes-elections",
+    "https://france24.com/fr/%C3%A9missions/focus/20261026-%C3%A9lections-en-isra%C3%ABl-un-scrutin-en-forme-de-r%C3%A9f%C3%A9rendum-pour-ou-contre-netanyahu",
+    "https://france24.com/fr/%C3%A9missions/focus/20261027-%C3%A9lections-en-isra%C3%ABl-une-coexistence-fragile-entre-les-habitants-de-la-ville-jud%C3%A9o-arabe-de-lod",
+    "https://france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261027-%C3%A9lections-en-isra%C3%ABl-eisenkot-peut-il-battre-netanyahu",
+    "https://france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
+    "https://france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes",
+    "https://france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-en-isra%C3%ABl-ouverture-des-bureaux-de-vote-un-scrutin-serr%C3%A9-en-perspective",
+    "https://france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-comment-se-joue-bataille-pour-gouverner",
+    "https://france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
+    "https://france24.com/fr/vid%C3%A9o/20261026-en-isra%C3%ABl-les-partis-arabes-peuvent-ils-devenir-les-arbitres-du-scrutin",
+    "https://france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-duel-netanyahu-eisenkot-pour-le-pouvoir",
+    "https://france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-netanyahu-%C3%A0-l-%C3%A9preuve-des-urnes",
+    "https://france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-quelle-place-pour-l-espoir-et-la-paix",
+    "https://france24.com/fr/vid%C3%A9o/20261027-isra%C3%ABl-d%C3%A9but-des-%C3%A9lections-l%C3%A9gislatives-o%C3%B9-netanyahu-joue-sa-survie-politique",
+    "https://france24.com/fr/vid%C3%A9o/20261027-isra%C3%ABl-participation-historique-aux-premi%C3%A8res-l%C3%A9gislatives-depuis-le-7-octobre",
+    "https://france24.com/fr/vid%C3%A9o/20261027-netanyahu-joue-sa-survie-politique-lors-des-%C3%A9lections-l%C3%A9gislatives",
+    "https://franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html",
+    "https://franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html",
+    "https://franceinfo.fr/monde/israel/elections-legislatives-cruciales-en-israel_8254699.html",
+    "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/benyamin-netanyahou-denonce-des-tentatives-de-voler-les-elections-legislatives-en-israel-et-s-en-prend-aux-opposants-arabes-israeliens_8255884.html",
+    "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-le-bloc-de-l-opposition-a-benyamin-netanyahou-donne-legerement-en-tete-mais-sans-majorite-selon-des-sondages-a-la-sortie-des-urnes_8256454.html",
+    "https://franceinfo.fr/monde/israel/l-article-a-lire-pour-comprendre-les-enjeux-des-elections-legislatives-cruciales-en-israel_8228218.html",
+    "https://franceinfo.fr/monde/israel/reportage-c-est-la-premiere-fois-que-mon-vote-compte-autant-a-kfar-qasim-en-israel-la-minorite-arabe-consciente-de-pouvoir-enfin-peser-sur-les-elections-legislatives_8253820.html",
+    "https://franceinfo.fr/monde/israel/reportage-l-un-des-choix-est-mauvais-l-autre-est-pire-encore-les-resultats-des-elections-legislatives-en-israel-scrutes-et-redoutes-en-cisjordanie-occupee_8254507.html",
+    "https://franceinfo.fr/monde/israel/reportage-netanyahou-ou-le-changement-en-israel-les-electeurs-se-divisent-autour-du-premier-ministre_8254714.html",
+    "https://franceinfo.fr/replay-jt/france-2/13-heures/elections-legislatives-en-israel-benyamin-netanyahou-joue-sa-survie-politique_8255932.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/benyamin-netanyahou-a-l-epreuve-des-urnes-forte-mobilisation-des-electeurs-pour-les-legislatives-en-israel_8256373.html",
+    "https://franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/israel-l-etat-de-droit-au-c-ur-de-la-campagne_8255284.html",
+    "https://kmxt.org/2026-10-26/a-quick-guide-to-israels-high-stakes-elections",
+    "https://kvpr.org/npr-news/2026-10-26/a-quick-guide-to-israels-high-stakes-elections",
+    "https://la-croix.com/a-vif/israel-un-scrutin-cle-pour-la-paix-et-l-honneur-de-la-democratie-20261026",
+    "https://la-croix.com/international/elections-legislatives-en-israel-apres-18-ans-de-netanyahou-un-pays-plus-fracture-que-jamais-20261027",
+    "https://la-croix.com/international/elections-legislatives-en-israel-ces-jeunes-qui-tiennent-l-avenir-du-pays-entre-leurs-mains-20261026",
+    "https://la-croix.com/international/elections-legislatives-en-israel-le-bloc-de-l-opposition-legerement-en-tete-mais-sans-majorite-20261027",
+    "https://la-croix.com/international/en-israel-la-minorite-arabe-espere-se-faire-entendre-aux-elections-nos-voix-peuvent-faire-tomber-netanyahou-20261026",
+    "https://lefigaro.fr/international/aucun-des-deux-peuples-ne-s-en-ira-en-israel-le-reveil-politique-de-la-minorite-arabe-20261025",
+    "https://lefigaro.fr/international/election-israelienne-benyamin-netanyahou-accuse-ses-opposants-arabes-israeliens-de-vouloir-voler-l-election-20261027",
+    "https://lefigaro.fr/international/en-israel-des-elections-cruciales-pour-definir-l-identite-d-une-nation-20261026",
+    "https://lefigaro.fr/international/legislatives-en-israel-le-bloc-de-l-opposition-legerement-en-tete-mais-sans-majorite-selon-les-premieres-estimations-20261027",
+    "https://lefigaro.fr/international/legislatives-en-israel-que-disent-les-derniers-sondages-20261026",
+    "https://lefigaro.fr/vox/monde/renaud-girard-le-veritable-enjeu-des-elections-israeliennes-20261027",
+    "https://lemonde.fr/comprendre-en-3-minutes/video/2026/10/25/quels-sont-les-enjeux-des-elections-legislatives-en-israel-comprendre-en-trois-minutes_6800070_6176282.html",
+    "https://lemonde.fr/international/article/2026/10/26/elections-israeliennes-la-jordanie-redoute-que-l-etat-hebreu-maintienne-sa-politique-regionale_6800640_3210.html",
+    "https://lemonde.fr/international/article/2026/10/27/a-gaza-le-regard-des-palestiniens-sur-les-elections-israeliennes-nous-sommes-des-etres-humains-comme-vous_6801273_3210.html",
+    "https://lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
+    "https://lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-le-taux-de-participation-s-eleve-a-44-9-en-debut-d-apres-midi-un-record-depuis-1973_6801217_3210.html",
+    "https://lemonde.fr/m-le-mag/article/2026/10/26/elections-legislatives-en-israel-la-guerre-d-influence-de-yair-netanyahou-le-tres-a-droite-fils-de-son-pere_6800429_4500055.html",
+    "https://liberation.fr/idees-et-debats/editorial/elections-en-israel-netanyahou-peut-il-perdre-20261026_PQL7KH3FZJEZDEZG4YSNXBDZII",
+    "https://liberation.fr/international/moyen-orient/elections-en-israel-le-va-tout-de-netanyahou-20261026_K37IPYWZDRCWDB2ZRAE6NBTA3Y",
+    "https://liberation.fr/international/moyen-orient/elections-en-israel-les-partis-arabes-ces-allies-dont-lopposition-ne-veut-pas-20261027_65XVSQAUF5FH7G6ZBD47OHBVSQ",
+    "https://liberation.fr/international/moyen-orient/elections-legislatives-en-israel-la-coalition-de-gadi-eisenkot-devance-celle-de-netanyahou-20261027_NJFOWDG675HA3P2R4RSGLKYC5M",
+    "https://liberation.fr/international/moyen-orient/legislatives-en-israel-4-scenarios-possibles-pour-lapres-scrutin-20261027_B4WCTXMDK5FSXD2MV45G5DARDE",
+    "https://npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+    "https://rfi.fr/fr/moyen-orient/20261025-%C3%A9lections-en-isra%C3%ABl-les-cl%C3%A9s-pour-comprendre-le-scrutin-du-27-octobre-2026",
+    "https://rfi.fr/fr/moyen-orient/20261025-il-y-a-du-racisme-ici-en-isra%C3%ABl-la-minorit%C3%A9-arabe-esp%C3%A8re-peser-dans-les-l%C3%A9gislatives",
+    "https://rfi.fr/fr/moyen-orient/20261026-l%C3%A9gislatives-en-isra%C3%ABl-entre-bloc-nationaliste-et-promesse-de-r%C3%A9conciliation-le-scrutin-s-annonce-serr%C3%A9",
+    "https://rfi.fr/fr/moyen-orient/20261027-%C3%A9lections-l%C3%A9gislatives-en-isra%C3%ABl-l-heure-de-v%C3%A9rit%C3%A9-pour-la-coalition-sortante-de-benyamin-netanyahu",
+    "https://rfi.fr/fr/moyen-orient/20261027-direct-l%C3%A9gislatives-en-isra%C3%ABl-les-op%C3%A9rations-de-vote-ont-commenc%C3%A9-pour-un-scrutin-crucial",
+    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261027-%C3%A9mission-sp%C3%A9ciale-l%C3%A9gislatives-en-isra%C3%ABl-vos-questions-sur-le-scrutin",
+    "https://rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261027-israel-elections-legislatives-enjeux-economiques-cout-guerre",
+    "https://rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261027-l%C3%A9gislatives-en-isra%C3%ABl-le-destin-de-l-%C3%A9tat-d-isra%C3%ABl-se-joue-estime-l-auteur-michel-kichka",
+    "https://rfi.fr/fr/podcasts/reportage-international/20261025-elections-l%C3%A9gislatives-en-israel-le-vote-des-colons-isra%C3%A9liens-en-cisjordanie-occup%C3%A9e",
+    "https://spiegel.de/ausland/israel-wahl-beginnt-mit-gedenken-an-hamas-opfer-a-a634b1dc-e6cd-4a4c-810c-5fb495d2ad90",
+    "https://thehindu.com/news/international/the-view-from-india-newsletter-a-guide-to-israels-elections/article71627046.ece"
+   ]
+  },
   {
    "id": "2026-10-27-alerte-01",
    "date": "2026-10-27",
@@ -1151,200 +1437,6 @@
     "https://elpais.com/economia/2026-10-20/elon-musk-anuncia-que-estudia-la-fusion-de-spacex-y-tesla-para-crear-la-quinta-mayor-tecnologica-del-mundo.html",
     "https://ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
     "https://thehindu.com/sci-tech/technology/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/article71603272.ece"
-   ]
-  },
-  {
-   "id": "2026-10-20-alerte-03",
-   "date": "2026-10-20",
-   "publiee_a": "2026-10-20T14:26:04Z",
-   "titre": "Une panne électrique chez Google Cloud perturbe des banques européennes",
-   "texte": "Un incident électrique survenu chez Google Cloud à Londres a bloqué plusieurs services en ligne ce mardi 20 octobre 2026. Des établissements bancaires comme Revolut ont subi d'importantes interruptions de leurs prestations numériques.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/c88b07df-d30e-401a-aca9-4b054d6dfd7b?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/internet/google/google-signale-des-incidents-informatiques-sur-plusieurs-services-de-cloud-en-europe_8245564.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cxdd8mm6qy4mo"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/secteur/high-tech/une-panne-de-google-cloud-perturbe-plusieurs-services-dont-ceux-de-la-banque-revolut-20261020"
-    },
-    {
-     "nom": "The Register",
-     "url": "https://theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/economie/economie-numerique/panne-de-google-cloud-a-londres-plusieurs-banques-dont-revolut-ou-hsbc-touchees-20261020_3WFOJJEP2JCOTKM5BVH5H7FXDM"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
-    }
-   ],
-   "cluster": "2e7abc831a1e48d4",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cxdd8mm6qy4mo",
-    "https://bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
-    "https://dunfermlinepress.com/news/national/26652539.revolut-services-google-cloud-apologises-outage",
-    "https://franceinfo.fr/internet/google/google-signale-des-incidents-informatiques-sur-plusieurs-services-de-cloud-en-europe_8245564.html",
-    "https://ft.com/content/c88b07df-d30e-401a-aca9-4b054d6dfd7b?syn-25a6b1a6=1",
-    "https://irvinetimes.com/news/national/26652539.revolut-services-google-cloud-apologises-outage",
-    "https://lbc.co.uk/article/c24e554172594ced920a574ad7367294-5Hjdk9P_2",
-    "https://lefigaro.fr/secteur/high-tech/une-panne-de-google-cloud-perturbe-plusieurs-services-dont-ceux-de-la-banque-revolut-20261020",
-    "https://liberation.fr/economie/economie-numerique/panne-de-google-cloud-a-londres-plusieurs-banques-dont-revolut-ou-hsbc-touchees-20261020_3WFOJJEP2JCOTKM5BVH5H7FXDM",
-    "https://straitstimes.com/world/europe/google-cloud-services-face-outage-in-london-revolut-services-down-too",
-    "https://theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-    "https://theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
-    "https://theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084"
-   ]
-  },
-  {
-   "id": "2026-10-20-alerte-02",
-   "date": "2026-10-20",
-   "publiee_a": "2026-10-20T08:37:10Z",
-   "titre": "Les électeurs de l'Alberta rejettent le projet de séparation du Canada",
-   "texte": "Les électeurs de l'Alberta ont rejeté par référendum le lancement d'une procédure d'indépendance vis-à-vis du Canada, selon les résultats publiés le mardi 20 octobre 2026. L'option du maintien dans la fédération rassemble plus de 76 % des suffrages d'après les décomptes officiels partiels.",
-   "sources": [
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/alberta-vota-mayoritariamente-organizar-referendum-independencia-canada-20261020083300-nt.html"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/10/20/kiezers-in-alberta-verwerpen-referendum-over-afscheiding-met-ruime-meerderheid-a4939336"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/america/2026-10-20/los-ciudadanos-de-alberta-votan-en-referendum-permanecer-en-canada.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/politik/alberta-mehrheit-laut-erster-prognose-gegen-unabhaengigkeit-von-kanada-a-ff960158-f339-4848-ae42-77f55ce38a67"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/que-les-vents-emportent-les-separatistes-en-alberta-le-soulagement-des-partisans-d-un-canada-uni-20261020"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/amerique/canada-lalberta-vote-tres-largement-pour-rester-une-province-canadienne-20261020_H3HUB6ATSBCALANM3ONCDV3C3M"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece"
-    }
-   ],
-   "cluster": "c28d931e7e77be2e",
-   "urls": [
-    "https://abc.es/internacional/alberta-vota-mayoritariamente-organizar-referendum-independencia-canada-20261020083300-nt.html",
-    "https://airdriecityview.com/alberta-news/maple-leaf-love-albertans-vote-strongly-to-stay-in-canada-12908777",
-    "https://aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
-    "https://aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show",
-    "https://bbc.co.uk/news/articles/cxvgd0ymgzgyo",
-    "https://bbc.co.uk/news/videos/c6g7xj3d88nvo",
-    "https://bloomberg.com/news/articles/2026-10-19/alberta-separation-vote-68-back-staying-in-canada-separatists-vow-to-fight-on",
-    "https://bloomberg.com/news/articles/2026-10-20/alberta-voters-reject-separation-from-canada-as-carney-triumphs",
-    "https://dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/america/2026-10-20/los-ciudadanos-de-alberta-votan-en-referendum-permanecer-en-canada.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_19?evenement=2cbf7e03e6",
-    "https://france24.com/fr/vid%C3%A9o/20261019-canada-les-habitants-de-l-alberta-visent-l-ind%C3%A9pendance",
-    "https://franceinfo.fr/monde/canada/au-canada-l-alberta-vote-tres-largement-contre-l-organisation-d-un-referendum-d-independance_8245141.html",
-    "https://franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-fond-de-trumpisme-et-de-petrole-le-referendum-en-alberta-revele-les-fractures-du-canada_8224162.html",
-    "https://ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-    "https://ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1",
-    "https://globalnews.ca/news/12108827/alberta-referendum-result",
-    "https://la-croix.com/international/canada-l-alberta-rejette-largement-lorganisation-dun-referendum-dindependance-20261020",
-    "https://lefigaro.fr/international/le-gouvernement-est-corrompu-il-nous-endette-dans-la-province-canadienne-de-l-alberta-la-tentation-independantiste-20261019",
-    "https://lefigaro.fr/international/que-les-vents-emportent-les-separatistes-en-alberta-le-soulagement-des-partisans-d-un-canada-uni-20261020",
-    "https://liberation.fr/international/amerique/canada-lalberta-vote-tres-largement-pour-rester-une-province-canadienne-20261020_H3HUB6ATSBCALANM3ONCDV3C3M",
-    "https://liberation.fr/international/amerique/le-canada-pourrait-il-perdre-le-controle-de-sa-province-la-plus-riche-20261018_HZDC2GOEZVFMJKRVTM7YG2SQUQ",
-    "https://npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
-    "https://npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-    "https://npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-    "https://nrc.nl/nieuws/2026/10/18/stemming-over-afscheiding-wakkert-canadese-trots-aan-in-alberta-we-zijn-boos-dat-dit-uberhaupt-aan-de-orde-is-a4939197",
-    "https://nrc.nl/nieuws/2026/10/20/kiezers-in-alberta-verwerpen-referendum-over-afscheiding-met-ruime-meerderheid-a4939336",
-    "https://reuters.com/world/americas/alberta-votes-leaving-canada-separatist-movement-likely-outlast-expected-defeat-2026-10-19",
-    "https://rfi.fr/fr/am%C3%A9riques/20261019-canada-les-habitants-de-l-alberta-consult%C3%A9s-sur-un-futur-r%C3%A9f%C3%A9rendum-d-ind%C3%A9pendance-de-la-province",
-    "https://spiegel.de/politik/alberta-mehrheit-laut-erster-prognose-gegen-unabhaengigkeit-von-kanada-a-ff960158-f339-4848-ae42-77f55ce38a67",
-    "https://straitstimes.com/world/alberta-support-for-canada-rises-ahead-of-separation-referendum",
-    "https://straitstimes.com/world/alberta-votes-on-leaving-canada-separatist-movement-likely-to-outlast-expected-defeat",
-    "https://straitstimes.com/world/canada-awaits-result-in-alberta-independence-vote",
-    "https://straitstimes.com/world/europe/oil-rich-alberta-votes-on-canada-breakup",
-    "https://theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
-    "https://theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-    "https://thehindu.com/news/international/alberta-referendum-voters-reject-separatism/article71603617.ece"
-   ]
-  },
-  {
-   "id": "2026-10-20-alerte-01",
-   "date": "2026-10-20",
-   "publiee_a": "2026-10-19T20:43:03Z",
-   "titre": "La Fédération portugaise de football suspend Cristiano Ronaldo pendant trente jours",
-   "texte": "La Fédération portugaise de football a infligé lundi 19 octobre 2026 une suspension de trente jours à Cristiano Ronaldo. L'instance sanctionne le départ non autorisé de l'attaquant du camp d'entraînement national à Copenhague le 30 septembre.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/minicastigo-cristiano-ronaldo-portugal-255-euros-multa-20261019201112-nt.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20261019-football-cristiano-ronaldo-suspendu-30-jours-apr%C3%A8s-l-esclandre-lors-du-rassemblement-de-la-s%C3%A9lection-portugaise"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/10/19/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_6797581_3242.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/portugal-cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-20261019_X5OXNY22WZA25CR6DZMHXWH5OU"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/foot-la-sanction-est-tombee-pour-cristiano-ronaldo-suspendu-30-jours-par-la-federation-portugaise-20261019"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/ck9qznlywy8no"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f"
-    }
-   ],
-   "cluster": "11b631a500fc1b4a",
-   "urls": [
-    "https://abc.es/deportes/minicastigo-cristiano-ronaldo-portugal-255-euros-multa-20261019201112-nt.html",
-    "https://aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus",
-    "https://bbc.co.uk/sport/football/articles/ck9qznlywy8no",
-    "https://lefigaro.fr/sports/football/foot-la-sanction-est-tombee-pour-cristiano-ronaldo-suspendu-30-jours-par-la-federation-portugaise-20261019",
-    "https://lemonde.fr/sport/article/2026/10/19/cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-portugaise_6797581_3242.html",
-    "https://lequipe.fr/Football/Actualites/Suspension-de-30-jours-et-255-euros-d-amende-la-sanction-de-la-federation-portugaise-pour-cristiano-ronaldo-est-tombee/1737083",
-    "https://liberation.fr/sports/football/portugal-cristiano-ronaldo-suspendu-30-jours-pour-avoir-quitte-sans-autorisation-le-stage-de-la-selection-20261019_X5OXNY22WZA25CR6DZMHXWH5OU",
-    "https://rfi.fr/fr/sports/20261019-football-cristiano-ronaldo-suspendu-30-jours-apr%C3%A8s-l-esclandre-lors-du-rassemblement-de-la-s%C3%A9lection-portugaise",
-    "https://spiegel.de/sport/fussball/cristiano-ronaldo-geringe-geldstrafe-nach-eklat-im-nationalteam-a-912300d2-bde9-45ae-a198-91557a266b0f",
-    "https://theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
-    "https://www1.folha.uol.com.br/esporte/2026/10/cristiano-ronaldo-recebe-suspensao-de-30-dias-por-deixar-concentracao-de-portugal.shtml"
    ]
   }
  ]

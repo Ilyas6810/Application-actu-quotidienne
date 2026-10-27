@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-26T05:36:02Z",
- "derniere": "2026-10-26",
+ "maj": "2026-10-27T05:48:17Z",
+ "derniere": "2026-10-27",
  "editions": [
+  {
+   "date": "2026-10-27",
+   "genere_a": "2026-10-27T05:48:17Z",
+   "articles": 3,
+   "une": [
+    "Le parti de Flávio Bolsonaro reconnaît la victoire électorale de Luiz Inácio Lula da Silva",
+    "Le ministère de la Justice américain poursuit à nouveau l'ancien directeur du FBI James Comey",
+    "María Corina Machado propose un dialogue avec le pouvoir vénézuélien"
+   ],
+   "octets": 16113
+  },
   {
    "date": "2026-10-26",
    "genere_a": "2026-10-26T05:36:02Z",

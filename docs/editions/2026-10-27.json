@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-27",
+ "genere_a": "2026-10-27T05:48:17Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-27-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le parti de Flávio Bolsonaro reconnaît la victoire électorale de Luiz Inácio Lula da Silva",
+   "chapeau": "Le Parti libéral a validé lundi 26 octobre 2026 à Brasilia la réélection du chef de l'État sortant Luiz Inácio Lula da Silva. Cette décision politique isole le candidat battu Flávio Bolsonaro, qui conteste les résultats du second tour.",
+   "corps": "Luiz Inácio Lula da Silva a remporté le second tour de l'élection présidentielle brésilienne le dimanche 25 octobre 2026 face à Flávio Bolsonaro.\n\nLe Parti libéral, formation politique du sénateur défait, a officialisé son acceptation du verdict des urnes le lundi 26 octobre 2026. Cette prise de position intervient alors que son propre candidat souhaitait obtenir l'invalidation de l'ensemble du scrutin présidentiel. La direction du mouvement s'est opposée à cette démarche contentieuse. Les alliés de Flávio Bolsonaro en Amérique du Sud ont également validé l'issue de l'élection. Face à cette perte d'appuis politiques internes et régionaux, Flávio Bolsonaro a modifié sa ligne de conduite et a abandonné sa requête en annulation du vote.\n\nLa justice brésilienne a par ailleurs ordonné la saisie des passeports de Flávio Bolsonaro. Les magistrats lui imposent une interdiction stricte de quitter le territoire national. Ces mesures judiciaires font suite à plusieurs dossiers de corruption dans lesquels son nom apparaît.\n\nSelon les chiffres rapportés par franceinfo le 27 octobre 2026 à 00 h 42, Luiz Inácio Lula da Silva recueille 51,8 % des suffrages exprimés lors de ce second tour. Le quotidien Haaretz précise le 27 octobre 2026 à 04 h 48 que le président sortant cumule plus de 64 millions de bulletins en sa faveur. Cette même source indique qu'il devance son adversaire de plus de quatre millions de voix. Luiz Inácio Lula da Silva accède ainsi à un quatrième mandat présidentiel au terme d'un scrutin où il se trouvait en deuxième position à l'issue du premier tour.\n\nLuiz Inácio Lula da Silva a pris la parole devant des partisans réunis sur l'avenue Paulista à São Paulo ainsi que devant la presse internationale. Il a formulé à cette tribune le mot d'ordre « La démocratie pour toujours, la dictature plus jamais ». Le dirigeant brésilien célèbre son quatre-vingt-unième anniversaire ce mardi 27 octobre 2026. Durant son intervention publique, il a défendu l'indépendance de l'État brésilien face aux interventions extérieures qu'il attribue au président américain Donald Trump. Il a également dénoncé l'influence exercée par les grandes sociétés du secteur des technologies numériques, qu'il associe aux orientations du pouvoir exécutif de Washington.\n\nLes équipes de Luiz Inácio Lula da Silva ont fondé leur stratégie de second tour sur une mobilisation des réseaux sociaux. Une campagne coordonnée sur les plateformes numériques a incité les citoyens à écarter la candidature de son opposant. Cette dynamique militante en ligne et dans les espaces publics a suivi son retard constaté lors du premier tour.\n\nÀ l'échelle internationale, plusieurs chefs d'État ont adressé leurs félicitations à Luiz Inácio Lula da Silva, dont Friedrich Merz. À l'inverse, l'ancien président des États-Unis Donald Trump a qualifié ce résultat de désastreux et a soutenu publiquement que le vote paraissait truqué.\n\n## Ce que disent les sources\n\nSur les modalités de l'acceptation du scrutin par la formation de Flávio Bolsonaro, Der Spiegel indique le 27 octobre 2026 à 07 h 45 que le Parti libéral reconnaît la victoire de Luiz Inácio Lula da Silva sous réserve. Les médias RFI, Le Monde et Deutsche Welle rapportent cette reconnaissance sans mentionner de condition particulière.\n\nLes détails des motifs judiciaires et les affaires de corruption précises qui justifient la confiscation des passeports de Flávio Bolsonaro ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-jt/france-2/20-heures/lula-dejoue-les-pronostics-en-etant-reelu-president-du-bresil_8254843.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckm23y3mg1yyo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/rechazo-bolsonaro-trump-victoria-lula-abre-batalla-20261026203715-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/the-digital-army-that-catapulted-lula-to-victory-in-brazil"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/americas/2026-10-27/ty-article/brazils-bolsonaro-party-accepts-election-results-after-lulas-historic-win/000001a1-7ab4-dd27-a1ef-fbf5af4b0000"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-24T07:00:54Z",
+   "suite_de": "2026-10-26-monde-002",
+   "mots": 579,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-27-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le ministère de la Justice américain poursuit à nouveau l'ancien directeur du FBI James Comey",
+   "chapeau": "Le département de la Justice des États-Unis a déposé de nouvelles poursuites fédérales contre l'ancien directeur du FBI James Comey à Washington le lundi 26 octobre 2026. Le gouvernement américain accuse l'ex-responsable âgé de 65 ans d'avoir divulgué des informations classifiées liées à la défense nationale tenues secrètes depuis dix ans.",
+   "corps": "Le département de la Justice des États-Unis a engagé une nouvelle procédure judiciaire à l'encontre de James Comey. Des documents judiciaires ont été rendus publics le lundi 26 octobre 2026 devant un tribunal fédéral situé à Washington. Les autorités fédérales reprochent à l'ancien directeur du Bureau fédéral d'enquête d'avoir transmis des données confidentielles relatives à la sécurité du pays. Les faits reprochés remontent à l'année 2016, époque à laquelle l'intéressé dirigeait l'organisme de police fédérale.\n\nLe gouvernement américain soutient que James Comey a sciemment ordonné le partage de renseignements protégés par le secret défense. Selon les éléments d'accusation, ces documents auraient été transmis à un destinataire qui ne possédait pas l'habilitation requise pour les consulter. Les avocats de l'ancien haut fonctionnaire indiquent que ces accusations concernent une transmission d'informations confidentielles au journal New York Times survenue il y a une décennie.\n\nCette action en justice constitue la troisième procédure pénale lancée contre James Comey sous la présidence de Donald Trump. L'ancien dirigeant du FBI avait été limogé par Donald Trump au cours du premier mandat présidentiel de ce dernier. Depuis son éviction, James Comey exprime publiquement des critiques à l'égard de l'actuel chef de l'État américain.\n\nL'accusé rejette l'intégralité des faits imputés par l'administration américaine. James Comey affirme demeurer innocent face aux accusations portées par le ministère de la Justice. L'ancien responsable de 65 ans conteste la validité des infractions qui lui sont reprochées par les procureurs fédéraux.\n\nLa défense de l'ancien directeur du FBI remet en cause la légalité des poursuites engagées par le gouvernement. Les avocats de James Comey qualifient la démarche du ministère de la Justice d'invalide sur le plan juridique. L'équipe juridique avance que l'action du gouvernement intervient hors des délais légaux de prescription. Selon la défense, l'initiative judiciaire de l'administration Trump arrive trop tardivement par rapport à la date des événements cités dans l'acte d'accusation.\n\nLes informations rendues publiques le lundi 26 octobre 2026 ne précisent pas les peines maximales encourues par l'ancien directeur du FBI dans cette nouvelle affaire. La date de la première audience devant le tribunal fédéral de Washington n'a pas été communiquée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-26/doj-accuses-ex-fbi-director-comey-of-sharing-defense-secrets"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump"
+    },
+    {
+     "nom": "hindustantimes.com",
+     "url": "https://hindustantimes.com/world-news/us-news/former-fbi-director-james-comey-faces-new-doj-charges-over-alleged-classified-information-leak-101793053543154.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-unter-donald-trump-ex-fbi-chef-james-comey-zum-dritten-mal-angeklagt-a-16e626c6-2982-491e-9e29-2f9f5c2d7f0b"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/ex-fbi-chief-and-trump-critic-james-comey-hit-with-fresh-charges"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/27/james-comey-ancien-directeur-du-fbi-et-critique-de-donald-trump-est-de-nouveau-poursuivi-en-justice-cette-fois-pour-fuite-d-informations-confidentielles_6800882_3210.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again"
+    }
+   ],
+   "premiere_parution": "2026-10-26T00:00:00Z",
+   "suite_de": null,
+   "mots": 402,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-27-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "María Corina Machado propose un dialogue avec le pouvoir vénézuélien",
+   "chapeau": "La dirigeante de l'opposition vénézuélienne María Corina Machado a proposé de rencontrer la présidente par intérim Delcy Rodríguez à Caracas le lundi 26 octobre 2026. Cette initiative intervient au lendemain de son retour au pays après plusieurs mois passés à l'étranger.",
+   "corps": "María Corina Machado a rejoint la capitale vénézuélienne le dimanche 25 octobre 2026 après une période d'exil. Plusieurs milliers de partisans se sont rassemblés dans les rues de Caracas pour l'accueillir dès son arrivée, selon Deutsche Welle, Al Jazeera et Folha de S.Paulo le 26 octobre 2026.\n\nLa lauréate du prix Nobel de la paix 2025 souhaite relancer le processus politique. Elle réclame la tenue d'un scrutin électoral national. María Corina Machado s'est déclarée prête à ouvrir des discussions directes avec Delcy Rodríguez, actuelle dirigeante par intérim du pays. L'opposante envisage également de prononcer une allocution publique devant la population vénézuélienne.\n\nLe gouvernement en place a rejeté les conditions de ce retour. Delcy Rodríguez a qualifié l'arrivée de l'opposante de spectacle sans utilité. Les représentants des autorités ont demandé à l'ancienne exilée de modifier sa ligne politique. Ils exigent qu'elle fasse amende honorable avant toute négociation. Le pouvoir exécutif lui demande de participer de manière constructive au redressement de l'économie et du secteur pétrolier national.\n\nCette situation crée des tensions avec les discussions politiques déjà en cours. Washington soutient un cadre de pourparlers qui réunit le pouvoir intérimaire et plusieurs factions de l'opposition. María Corina Machado doit composer avec ces échanges officiels pour réclamer son scrutin sans interrompre les négociations existantes.\n\nLe retour de la responsable politique modifie également la situation au sein de la communauté vénézuélienne résidant à l'étranger. L'événement ravive les débats politiques au sein des électeurs de la diaspora établis à Miami, dans le sud des États-Unis. Ces derniers s'apprêtent à voter lors d'élections législatives.\n\n## Ce que disent les sources\n\nLes informations divergent sur l'attitude du gouvernement américain face au retour de l'opposante. Selon Folha de S.Paulo le 26 octobre 2026 à 19 h 59, le président américain Donald Trump a affirmé qu'il ignorait le projet de retour de María Corina Machado. Le journal brésilien ajoute que le chef d'État américain a confirmé son appui à la dirigeante par intérim Delcy Rodríguez. À l'opposé, BBC News écrit le 27 octobre 2026 à 04 h 31 que l'opposante est revenue avec l'approbation formelle de Donald Trump, même si les États-Unis soutiennent pour l'heure l'administration en place. Le quotidien espagnol ABC rapporte quant à lui le 27 octobre 2026 à 04 h 32 que María Corina Machado s'était rendue à la Maison-Blanche le 7 mars précédent pour demander directement à Donald Trump l'autorisation ou l'appui nécessaire à son retour au Venezuela.\n\nLes détails sur le lieu exact et les modalités d'une éventuelle rencontre entre María Corina Machado et Delcy Rodríguez ne sont pas précisés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/l-opposante-machado-de-retour-au-venezuela-20261025"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/26/oppositieleider-maria-corina-machado-wordt-in-caracas-als-heldin-onthaald-krijgt-venezuela-alsnog-een-democratische-transitie-a4939776"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/trump-diz-que-nao-soube-sobre-volta-de-maria-corina-a-venezuela-e-sinaliza-apoio-a-delcy-rodriguez.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/now-home-venezuela-opposition-leader-machado-walks-tightrope-with-supporters-trump"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-26/venezuela-s-regime-says-machado-must-repent-and-avoid-spectacle"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-25T02:15:00Z",
+   "suite_de": "2026-10-26-monde-001",
+   "mots": 468,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-27-monde-001",
+  "2026-10-27-monde-002",
+  "2026-10-27-monde-003"
+ ]
+}

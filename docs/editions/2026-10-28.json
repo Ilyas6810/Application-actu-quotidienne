@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-28",
+ "genere_a": "2026-10-28T06:27:56Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-28-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les élections législatives israéliennes n'affichent aucun vainqueur clair",
+   "chapeau": "Les électeurs israéliens se sont rendus aux urnes le mardi 27 octobre 2026 pour les premières élections législatives depuis le 7 octobre 2023. Les premiers sondages et dépouillements montrent une égalité entre la coalition de Benjamin Netanyahu et le bloc d'opposition de Gadi Eisenkot, aucun n'atteignant la majorité.",
+   "corps": "La participation électorale a connu une hausse marquée. À la mi-journée du 27 octobre 2026, la Commission électorale indiquait que plus de 3 millions d'Israéliens, soit 44,9 % des inscrits, avaient voté, ce qui constituait le niveau le plus élevé depuis 1973. À la fermeture des bureaux, le taux global de participation dépassait 74 %, représentant également un sommet depuis le début des relevés en 1973.\n\nLes réseaux de télévision israéliens et les sondages de sortie des urnes indiquent qu'aucun camp n’obtient les 61 sièges requis sur les 120 que compte le Parlement pour former un gouvernement. Le Likoud de Benjamin Netanyahu demeure le parti le plus voté, mais sa coalition comprenant des formations ultraorthodoxes et ultranationalistes ne parvient pas à dégager une majorité absolue. Les trois grands réseaux de télévision attribuaient à chacun des deux blocs environ 51 sièges.\n\nBenjamin Netanyahu et son rival Gadi Eisenkot revendiquent tous deux la possibilité de diriger la future majorité. Le chef de l'opposition Yair Lapid et le dirigeant de gauche Yair Golan ont affirmé que le camp du Premier ministre sortant essuyait un échec. Le dépouillement complet des bulletins de vote est en cours et l'attribution finale des sièges pourrait demander plusieurs jours.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/israel-participation-historique-aux-premieres-elections-legislatives-depuis-le-7-octobre-20261027_ZX7W2ZFOFZD2TD7DYASN6ORTC4"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-10-28/ty-article-magazine/.premium/2026-israel-election-results-all-exit-polls-and-live-vote-count/000001a1-7f72-d031-a3e1-ff77e41e0000"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/netanyahu-eisenkot-stake-rival-claims-to-lead-israel-after-deadlocked-vote"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-27T00:05:52Z",
+   "suite_de": null,
+   "mots": 248,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-28-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Flávio Bolsonaro quitte le Brésil pour les États-Unis après sa défaite électorale",
+   "chapeau": "Le sénateur brésilien Flávio Bolsonaro a quitté le Brésil pour se rendre aux États-Unis après le scrutin présidentiel. Le dirigeant conservateur est arrivé sur le sol américain le 27 octobre 2026 alors que la justice brésilienne le vise dans plusieurs dossiers judiciaires.",
+   "corps": "Le candidat malheureux au second tour de l'élection présidentielle brésilienne a rejoint le territoire américain. Flávio Bolsonaro a perdu le scrutin face à Luiz Inácio Lula da Silva lors du vote tenu le dimanche 25 octobre 2026. L'homme politique a pris l'avion en direction de la Floride avec son épouse et ses enfants.\n\nLe sénateur fait l'objet de procédures judiciaires dans son pays d'origine. Les enquêtes en cours portent notamment sur des faits de blanchiment d'argent et de corruption. Le blanchiment d'argent désigne la dissimulation de fonds illégaux. Les autorités judiciaires brésiliennes avaient réclamé la remise des documents de voyage du parlementaire. La BBC a rapporté le 28 octobre 2026 à 06:47 que le Brésil a annulé les passeports du candidat battu avant son départ.\n\nLe président brésilien Luiz Inácio Lula da Silva a publiquement critiqué ce voyage. Le chef de l'État a qualifié ce départ d'exil honteux selon les informations diffusées par franceinfo et le Corriere della Sera. Le départ intervient dans un contexte où son père, l'ancien dirigeant Jair Bolsonaro, se trouve actuellement en détention comme l'a précisé le Financial Times le 28 octobre 2026 à 06:58.\n\nL'ancien responsable de campagne électorale du sénateur a réagi à cette nouvelle. Cet allié politique a indiqué qu'il n'avait pas été prévenu du projet de départ de Flávio Bolsonaro selon Al Jazeera le 28 octobre 2026 à 07:49. Le coordinateur a également affirmé qu'il ignorait l'endroit exact où se trouvait le candidat après le vote.\n\nAux États-Unis, la situation légale du parlementaire fait intervenir le pouvoir exécutif américain. Le gouvernement américain a accepté d'accorder des autorisations de séjour au candidat défait ainsi qu'aux membres de sa famille d'après NPR le 28 octobre 2026 à 05:58. Cette démarche permet à la famille Bolsonaro d'entrer régulièrement sur le sol américain.\n\n## Ce que disent les sources\n\nLe statut des documents de séjour et la localisation exacte de Flávio Bolsonaro font l'objet de versions différentes selon les déclarations recueillies par la presse.\n\nLe journal italien Corriere della Sera affirme le 28 octobre 2026 à 04:00 que Flávio Bolsonaro a atterri en Floride et qu'il a rencontré sur place son frère Eduardo Bolsonaro. Le quotidien espagnol ABC écrit pour sa part le 28 octobre 2026 à 04:26 que Flávio Bolsonaro cherche à obtenir l'appui de Donald Trump et qu'il pourrait rejoindre son frère, sans toutefois certifier que cette rencontre s'est déjà produite.\n\nLe journal américain Bloomberg a indiqué le 28 octobre 2026 à 04:48, en citant le média O Globo, que Flávio Bolsonaro est arrivé dans la ville de Miami. La radio américaine NPR et le journal indien The Hindu ont mentionné que le lieu exact où séjourne le sénateur reste incertain, deux sources médiatiques citées par The Hindu confirmant seulement une arrivée générale aux États-Unis le 27 octobre 2026.\n\nLe quotidien français Le Monde rapporte le 28 octobre 2026 à 08:00 que le gouvernement américain a déjà octroyé des visas à Flávio Bolsonaro et à ses proches. À l'inverse, le journal brésilien Folha de S.Paulo rapporte une déclaration directe de Donald Trump faite dans la soirée du mardi 27 octobre 2026. L'ancien président américain affirme qu'il approuverait l'octroi d'un visa au sénateur brésilien si la demande se présentait, mais il affirme ne pas savoir où le candidat se trouve.\n\nLes sources ne précisent pas par quel point de contrôle frontalier ni par quel vol Flávio Bolsonaro a quitté le sol brésilien.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/bresil/flavio-bolsonaro-soupconne-d-avoir-fui-le-bresil-pour-les-etats-unis-le-president-lula-denonce-un-exil-honteux_8256505.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_27/brasile-jair-bolsonaro-annullati-passaporti-4ed4c309-19f2-4f0b-af0a-c68ce7ab3xlk.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-28/bolsonaro-reportedly-arrives-miami-amid-investigations-video"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/brazils-flavio-bolsonaro-flees-to-us-after-election-loss/article71634146.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckly0xpxp243o"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-10-27T11:47:15Z",
+   "suite_de": null,
+   "mots": 617,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-28-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "María Corina Machado rentre au Venezuela et défie le pouvoir en place",
+   "chapeau": "La responsable d'opposition María Corina Machado a regagné Caracas le dimanche 25 octobre 2026 après plusieurs mois d'éloignement. Des milliers d'habitants se sont rassemblés dans la capitale vénézuélienne pour marquer la venue de la lauréate du prix Nobel de la paix.",
+   "corps": "Après avoir proposé lundi une entrevue à la présidente par intérim Delcy Rodríguez, María Corina Machado a réuni mardi 27 octobre 2026 les cadres de sa formation politique Vente Venezuela à Caracas.\n\nCette séquence de travail interne suit sa réapparition publique dans la capitale. La dirigeante d'opposition est frappée par une mesure d'inéligibilité, qui lui interdit de briguer un mandat. Elle a exprimé sa volonté de peser sur le processus de transition politique ouvert dans le pays. Ses partisans réclament l'organisation d'élections.\n\nLa présidente par intérim Delcy Rodríguez a rejeté l'initiative de dialogue formulée par sa rivale. Elle a qualifié ce retour de spectacle médiatique inutile. Le pouvoir en place mène déjà des négociations soutenues par les États-Unis avec d'autres factions de l'opposition vénézuélienne.\n\nÀ Washington, l'administration dirigée par Donald Trump précise sa position sur l'évolution institutionnelle vénézuélienne. Le secrétaire d'État Marco Rubio a affirmé que les autorités américaines avaient réclamé aux responsables vénézuéliens le retour de l'opposante plusieurs semaines auparavant. Selon El País le 27 octobre 2026 à 15 heures 30, le représentant américain a indiqué que María Corina Machado avait tenté de rentrer au pays à au moins sept reprises sans succès. La Maison Blanche avait seulement déconseillé ce voyage durant les journées consécutives à un double séisme.\n\nLe plan exposé par les autorités des États-Unis prévoit une modification des institutions vénézuéliennes dans les mois à venir. Selon le journal espagnol ABC le 28 octobre 2026 à 1 heure 23, ce calendrier mentionne l'installation d'un Tribunal suprême renouvelé vers la mi-décembre. Il prévoit ensuite la mise en place d'un Conseil national électoral et la déclaration ultérieure d'une vacance définitive du pouvoir présidentiel. Le gouvernement américain entend amener Delcy Rodríguez à quitter ses fonctions l'année prochaine, sans lui interdire de se porter candidate lors du futur scrutin.\n\nLe gouvernement de Delcy Rodríguez n'a pas précisé s'il entend engager des poursuites judiciaires contre l'opposante revenue d'exil.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/26/oppositieleider-maria-corina-machado-wordt-in-caracas-als-heldin-onthaald-krijgt-venezuela-alsnog-een-democratische-transitie-a4939776"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/now-home-venezuela-opposition-leader-machado-walks-tightrope-with-supporters-trump"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261026-venezuela-l-opposante-machado-pr%C3%AAte-%C3%A0-n%C3%A9gocier-la-pr%C3%A9sidente-rodriguez-ironise-sur-son-retour-en-forme-de-show"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8vgx3pvdeq1o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-10-27/marco-rubio-says-us-told-venezuelan-officials-weeks-and-weeks-ago-that-maria-corina-machado-should-be-allowed-to-return.html"
+    }
+   ],
+   "premiere_parution": "2026-10-25T15:53:18Z",
+   "suite_de": "2026-10-27-monde-003",
+   "mots": 357,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-28-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Législatives en Israël : Benjamin Netanyahu et Gadi Eisenkot revendiquent le pouvoir",
+   "chapeau": "Les électeurs israéliens ont voté mardi 27 octobre 2026 pour renouveler la Knesset lors du premier scrutin tenu depuis le 7 octobre 2023. À l'issue du vote, le Premier ministre sortant Benjamin Netanyahu et le chef de l'opposition Gadi Eisenkot affichent des résultats serrés et veulent tous deux former le prochain gouvernement.",
+   "corps": "Ce vote faisait suite au face-à-face politique entre Benjamin Netanyahu, chef du parti Likoud qui brigue un septième mandat, et Gadi Eisenkot, ancien chef d'état-major de l'armée israélienne et dirigeant de la formation d'opposition Yashar.\n\nLa Commission électorale israélienne a fait état d'un taux de participation de 74,3 % le 27 octobre 2026, mesuré deux heures avant la fermeture des bureaux. Cette instance a précisé que ce niveau de mobilisation citoyenne n'avait pas été atteint lors d'élections législatives depuis l'année 1988, d'après les chiffres rapportés le 28 octobre 2026 à 01h53 par France 24.\n\nLes sondages de sortie des urnes ont placé les deux rivaux à égalité. Ni le camp de Benjamin Netanyahu ni celui de Gadi Eisenkot ne détient seul la majorité absolue des sièges au Parlement. Malgré cette absence d'avantage arithmétique net, les deux prétendants ont déclaré leur intention de mettre sur pied une nouvelle coalition pour gouverner le pays.\n\nLe quotidien israélien Haaretz indique, dans des données relayées par RFI le 28 octobre 2026 à 09h54, que le bloc mené par Benjamin Netanyahu devance la formation de Gadi Eisenkot après le dépouillement de 50 % des bulletins de vote. Les opérations de décompte se poursuivent pour établir la répartition finale des sièges.\n\nGadi Eisenkot a pris la tête du parti centriste Yashar après avoir quitté le cabinet de guerre de Benjamin Netanyahu en 2024. Le cabinet de guerre désigne le comité exécutif restreint créé après le 7 octobre 2023 pour conduire les opérations militaires. L'ancien général avait justifié son départ par des divergences d'orientations avec le Premier ministre. Il avait ensuite formulé l'objectif de chasser du pouvoir l'équipe gouvernementale sortante.\n\nLa trajectoire de Gadi Eisenkot au sein de l'appareil sécuritaire et son engagement politique récent ont structuré sa campagne. Il a exercé les fonctions de chef d'état-major de l'armée sous une précédente administration dirigée par Benjamin Netanyahu. L'ancien militaire a également perdu l'un de ses fils lors des combats dans la bande de Gaza. Il met en avant des engagements de lutte contre les violences imputées aux colons israéliens en Cisjordanie occupée. S'il accède à la tête du gouvernement, il pourrait être le premier Premier ministre d'Israël issu de la communauté mizrahie. Le terme mizrahi qualifie les citoyens israéliens originaires des pays du Moyen-Orient et d'Afrique du Nord.\n\nLes alliances avec les élus des partis arabes représentent une condition mathématique pour permettre à Gadi Eisenkot de diriger un gouvernement. L'hebdomadaire allemand Der Spiegel a relevé le 28 octobre 2026 à 08h11 que le chef de Yashar ne rassemble pas de majorité parlementaire sans le vote favorable ou l'abstention des députés arabes. Gadi Eisenkot a affirmé lors d'une prise de parole publique que la majorité des citoyens a retiré sa confiance à Benjamin Netanyahu.\n\nLe décompte définitif des suffrages de l'ensemble des circonscriptions doit être communiqué pour fixer la composition exacte de la nouvelle Knesset.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-26/gadi-eisenkot-el-general-discreto-capaz-de-derrotar-a-netanyahu.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/26/legislatives-en-israel-gadi-eisenkot-le-principal-opposant-a-benyamin-netanyahou-prone-l-union-et-l-apaisement_6800784_3210.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/legislatives-en-israel-que-disent-les-derniers-sondages-20261026"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/qui-est-gadi-eizenkot-cet-ancien-militaire-qui-defie-benyamin-netanyahou_8255536.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-qui-est-gadi-eisenkot"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-27/eisenkot-casts-ballot-in-israel-s-election-video"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-10-27/ty-article-magazine/.premium/who-is-gadi-eisenkot-and-what-does-he-stand-for/000001a1-7dd5-dd27-a1ef-fff549640001"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0"
+    }
+   ],
+   "premiere_parution": "2026-10-25T16:20:01Z",
+   "suite_de": "2026-10-26-monde-004",
+   "mots": 528,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-28-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le parti de Benyamin Netanyahou arrive premier aux élections en Israël",
+   "chapeau": "Les électeurs israéliens ont voté le mardi 27 octobre 2026 pour renouveler les membres de la Knesset. Les premières estimations et le dépouillement partiel placent le Likoud en tête du scrutin.",
+   "corps": "Le Likoud de Benyamin Netanyahou se positionne comme la première formation politique à l'issue du scrutin législatif. Le pays a enregistré un taux de participation de 77,7 % parmi les 7,3 millions d'électeurs appelés aux urnes, selon le quotidien italien Corriere della Sera le 28 octobre 2026 à 09h51. Ce chiffre constitue le plus haut niveau mesuré depuis l'année 1999.\n\nLe dépouillement partiel des bulletins de vote montre une avance pour le mouvement du chef du gouvernement sortant. Les données publiées par le journal brésilien Folha de S.Paulo le 28 octobre 2026 à 07h12 indiquent que le Likoud recueille 28 % des suffrages avec 41,9 % des bulletins traités. La formation Yashar, dirigée par Gadi Eisenkot, rassemble alors 21 % des suffrages selon la même source. Les estimations actualisées rapportées par le journal espagnol El País le 28 octobre 2026 à 07h38 attribuent au Likoud un total de 27 sièges de députés.\n\nFace à ces résultats provisoires, Benyamin Netanyahou a rejeté tout accord parlementaire qui inclurait des formations de la minorité arabe. Il a plaidé pour la constitution d'un gouvernement composé uniquement de forces de droite. Lors d'une déclaration publique, le dirigeant a mentionné la perspective d'une collaboration avec les États-Unis pour contrer les autorités iraniennes. Il n'a toutefois pas formellement proclamé sa propre victoire politique, soulignant seulement que son parti reste la force politique individuelle dominante.\n\nDe son côté, le bloc opposé au Premier ministre sortant cherche également à rassembler des soutiens pour gouverner. Le chef de cette coalition, Gadi Eisenkot, a manifesté son intention d'engager des discussions sans délai afin d'établir un nouvel exécutif. La presse souligne l'influence centrale des listes arabes dans le cadre des futures négociations. Ces formations politiques atteignent 17 sièges d'après les chiffres diffusés par El País le 28 octobre 2026 à 02h08.\n\n## Ce que disent les sources\n\nSur l'évolution globale des blocs parlementaires, les informations divergent entre le début de la nuit et la matinée. Le journal El País le 28 octobre 2026 à 02h08, le Corriere della Sera à 02h48 et Folha de S.Paulo à 06h00 indiquent que l'opposition devance la coalition de Benyamin Netanyahou d'après les premières sorties des urnes. À l'inverse, Al Jazeera le 28 octobre 2026 à 06h53 et le Corriere della Sera à 09h51 affirment que le bloc partisan de Benyamin Netanyahou dépasse désormais la coalition d'opposition menée par Gadi Eisenkot. Par ailleurs, El País le 28 octobre 2026 à 04h54 décrit une égalité stricte entre les deux ensembles politiques.\n\nSur les chiffres du dépouillement officiel, les rapports présentent aussi des discordances. Folha de S.Paulo indique le 28 octobre 2026 à 07h12 que le Likoud totalise 28 % des voix sur 41,9 % des bulletins dépouillés. En revanche, El País rapporte le 28 octobre 2026 à 10h02 que le parti de Benyamin Netanyahou réunit 21,7 % des voix alors que 37 % des bulletins sont comptabilisés. El País signale également à cette heure que la gauche arabe prend le troisième rang du scrutin.\n\nSur les prises de position extérieures, Donald Trump attribue son action personnelle au fait que Benyamin Netanyahou ait évité un échec net lors du vote, selon les éléments rapportés par El País le 28 octobre 2026 à 10h02. Le Corriere della Sera mentionne plus tôt, le 28 octobre 2026 à 09h51, une satisfaction exprimée par Donald Trump sans autre précision.\n\nLe résultat définitif du dépouillement et la répartition finale des sièges ne sont pas encore connus à cette heure.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_27/voto-israele-opposizioniin-testa-likud-primo-partito-2dd8668d-f264-4677-80b3-ab352a1a0xlk.shtml"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/netanyahu-usou-a-forca-para-remodelar-o-oriente-medio-e-isolou-israel-em-19-anos-no-poder.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/netanyahu-vows-to-form-strong-new-right-wing-government"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/netanyahu-promete-formar-nuevo-gobierno-derecha-fuerte-20261028024608-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"
+    }
+   ],
+   "premiere_parution": "2026-10-27T02:00:00Z",
+   "suite_de": null,
+   "mots": 605,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-28-monde-001",
+  "2026-10-28-monde-002",
+  "2026-10-28-monde-003",
+  "2026-10-28-monde-004",
+  "2026-10-28-monde-005"
+ ]
+}

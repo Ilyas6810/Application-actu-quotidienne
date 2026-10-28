@@ -1,6 +1,242 @@
 {
- "maj": "2026-10-27T22:23:45Z",
+ "maj": "2026-10-28T20:30:45Z",
  "alertes": [
+  {
+   "id": "2026-10-29-alerte-01",
+   "date": "2026-10-29",
+   "publiee_a": "2026-10-28T20:24:01Z",
+   "titre": "Deux trains entrent en collision en Espagne et font au moins 68 morts",
+   "texte": "Deux rames ferroviaires ont heurté leurs structures mercredi 28 octobre 2026 près d'Urda, au sud de Madrid. Selon les bilans provisoires établis mercredi soir par les autorités espagnoles et rapportés par Le Figaro et Libération, l'événement a causé la mort d'au moins 68 personnes et fait plus de 100 blessés.",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/accident-ferroviaire-en-espagne-au-dela-de-l-erreur-humaine-les-questions-sur-letat-du-reseau-20261028"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/surfrequentation-vetuste-le-rail-espagnol-est-il-dangereux-apres-un-nouvel-accident-mortel_8257880.html"
+    }
+   ],
+   "cluster": "021694c2880003a9",
+   "urls": [
+    "https://aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain",
+    "https://aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain",
+    "https://aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade",
+    "https://bbc.co.uk/news/articles/cm8xz7pkd0jjo",
+    "https://bbc.co.uk/news/articles/cm9qzd47ng98o",
+    "https://bbc.co.uk/news/videos/cv8ezjdkle59o",
+    "https://bbc.co.uk/news/videos/cw5ynjgy3vvgo",
+    "https://bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video",
+    "https://bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid",
+    "https://dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-30-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_28?evenement=7ce17d50ed",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_28?evenement=bfaaff3dbe",
+    "https://english.elpais.com/spain/2026-10-28/at-least-10-people-killed-in-high-speed-rail-crash-in-spain.html",
+    "https://english.elpais.com/spain/2026-10-28/key-facts-about-the-rail-crash-in-spain-what-is-known-so-far-about-the-collision.html",
+    "https://english.elpais.com/spain/2026-10-28/the-crash-between-two-high-speed-trains-in-spain-in-images.html",
+    "https://english.elpais.com/spain/2026-10-28/where-did-the-spain-crash-train-happen-early-details-of-the-accident-in-toledo.html",
+    "https://france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda",
+    "https://france24.com/fr/europe/20261028-deux-trains-%C3%A0-grande-vitesse-entrent-en-collision-entre-madrid-et-l-andalousie",
+    "https://france24.com/fr/vid%C3%A9o/20261028-accident-ferroviaire-en-espagne-les-t%C3%A9moignages-des-rescap%C3%A9s-%C3%A0-urda",
+    "https://france24.com/fr/vid%C3%A9o/20261028-collision-entre-deux-trains-en-espagne-l-une-des-pires-catastrophes-ferroviaires-du-pays",
+    "https://france24.com/fr/vid%C3%A9o/20261028-collision-meurtri%C3%A8re-en-espagne-pedro-s%C3%A1nchez-prend-la-parole",
+    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-ce-que-l-on-sait-de-l-accident-ferroviaire-mortel-%C3%A0-tol%C3%A8de",
+    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-comment-expliquer-la-collision-des-deux-trains-pr%C3%A8s-de-tol%C3%A8de",
+    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-le-ministre-des-transports-prend-la-parole-sur-l-accident-mortel-entre-deux-trains",
+    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-plus-de-46-morts-dans-une-collision-entre-deux-trains-%C3%A0-grande-vitesse",
+    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-une-collision-entre-deux-trains-%C3%A0-moins-d-un-an-du-drame-similaire-%C3%A0-adamouz",
+    "https://franceinfo.fr/faits-divers/au-moins-30-morts-dans-un-accident-de-train-sur-une-ligne-a-grande-vitesse-en-espagne_8257324.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/accident-de-trains-en-espagne-intervention-des-secours_8257709.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/espagne-pourquoi-les-deux-trains-se-sont-ils-percutes_8257889.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-premier-ministre-espagnol-annonce-trois-jours-de-deuil-national-apres-une-collision-entre-deux-trains_8257697.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-gens-hurlaient-a-l-interieur-des-passagers-et-des-temoins-evoquent-des-scenes-de-chaos-apres-la-collision-mortelle-entre-deux-trains-en-espagne_8257216.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/surfrequentation-vetuste-le-rail-espagnol-est-il-dangereux-apres-un-nouvel-accident-mortel_8257880.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html",
+    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-une-deuxieme-collision-meurtriere-en-moins-d-un-an-sur-le-reseau-ferroviaire-espagnol_8257477.html",
+    "https://franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html",
+    "https://franceinfo.fr/monde/espagne/ce-que-l-on-sait-sur-la-cause-de-la-collision-entre-deux-trains-en-espagne_8257300.html",
+    "https://franceinfo.fr/monde/espagne/collision-de-trains-en-espagne-au-moins-30-morts_8257321.html",
+    "https://franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html",
+    "https://franceinfo.fr/monde/espagne/collision-meurtriere-entre-deux-trains-en-espagne-le-roi-felipe-vi-reagit_8257306.html",
+    "https://franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html",
+    "https://franceinfo.fr/monde/espagne/plusieurs-dizaines-de-morts-dans-une-collision-de-trains-en-espagne_8257189.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/les-gens-criaient-et-pleuraient-au-moins-68-morts-apres-un-accident-ferroviaire-en-espagne_8257865.html",
+    "https://franceinfo.fr/replay-radio/la-question-des-informes/collision-ferroviaire-en-espagne-on-n-est-absolument-pas-a-l-abri-de-ce-genre-de-catastrophe-en-france-alerte-un-eurodepute_8236300.html",
+    "https://ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
+    "https://la-croix.com/international/accident-de-trains-en-espagne-un-tres-vaste-reseau-ferre-a-grande-vitesse-tres-utilise-20261028",
+    "https://la-croix.com/international/accident-ferroviaire-en-espagne-au-dela-de-l-erreur-humaine-les-questions-sur-letat-du-reseau-20261028",
+    "https://la-croix.com/international/accident-ferroviaire-en-espagne-urda-sous-le-choc-apres-la-collision-meurtriere-de-deux-trains-20261028",
+    "https://la-croix.com/international/espagne-une-collision-entre-deux-trains-fait-au-moins-dix-morts-20261028",
+    "https://lefigaro.fr/conjoncture/deux-accidents-graves-en-moins-d-un-an-la-descente-aux-enfers-du-reseau-de-train-a-grande-vitesse-espagnol-20261028",
+    "https://lefigaro.fr/international/collision-ferroviaire-en-espagne-le-temoignage-d-un-journaliste-d-el-pais-present-dans-un-train-lors-de-l-accident-20261028",
+    "https://lefigaro.fr/international/collision-mortelle-entre-deux-trains-en-espagne-les-premieres-images-de-la-catastrophe-ferroviaire-20261028",
+    "https://lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028",
+    "https://lefigaro.fr/international/en-direct-espagne-nouvelle-catastrophe-ferroviaire-au-moins-10-morts-au-sud-de-madrid-20261028",
+    "https://lefigaro.fr/international/espagne-deux-trains-entrent-en-collision-au-sud-de-madrid-plusieurs-blesses-20261028",
+    "https://lefigaro.fr/voyages/conseils/trains-en-espagne-ce-que-les-voyageurs-doivent-savoir-20260121",
+    "https://lemonde.fr/economie/article/2026/10/28/accident-ferroviaire-en-espagne-la-question-epineuse-de-l-etat-du-reseau-et-de-sa-maintenance_6801638_3234.html",
+    "https://lemonde.fr/international/article/2026/10/28/cartes-ou-et-comment-a-eu-lieu-l-accident-entre-deux-trains-en-espagne_6801595_3211.html",
+    "https://lemonde.fr/international/article/2026/10/28/ce-que-l-on-sait-de-l-accident-entre-deux-trains-en-espagne-qui-a-fait-au-moins-64-morts_6801589_3210.html",
+    "https://lemonde.fr/international/article/2026/10/28/en-espagne-deux-trains-sont-entres-en-collision-au-sud-de-madrid_6801548_3210.html",
+    "https://lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-trois-jours-de-deuil-national-et-des-minutes-de-silence-organisees-a-travers-le-pays_6801550_3210.html",
+    "https://lemonde.fr/international/live/2026/10/28/en-direct-une-collision-entre-deux-trains-en-espagne-fait-de-nombreux-morts_6801550_3210.html",
+    "https://lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html",
+    "https://lemonde.fr/international/video/2026/10/28/espagne-les-premieres-images-de-la-collision-entre-deux-trains_6801568_3210.html",
+    "https://liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-ces-accidents-de-train-les-plus-meurtriers-en-europe-depuis-2000-20260119_H26F5XYZTBALJEM33MVXMXJZKI",
+    "https://liberation.fr/international/europe/jai-cesse-davoir-confiance-dans-les-trains-lespagne-frappee-par-une-nouvelle-catastrophe-ferroviaire-20261028_DUL6F6B7LNDNZKLBJJG5BDKPVQ",
+    "https://liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM",
+    "https://npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+    "https://politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash",
+    "https://rfi.fr/fr/europe/20261028-collision-de-trains-en-espagne-au-moins-dix-morts-sont-%C3%A0-d%C3%A9plorer-selon-les-autorit%C3%A9s",
+    "https://spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7",
+    "https://spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236",
+    "https://spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1",
+    "https://spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d",
+    "https://straitstimes.com/world/europe/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+    "https://straitstimes.com/world/europe/two-high-speed-trains-rear-end-in-spain-rail-operator-says",
+    "https://theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+    "https://theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+    "https://theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
+    "https://theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+    "https://thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+    "https://www1.folha.uol.com.br/mundo/2026/10/acidente-entre-trens-de-alta-velocidade-mata-ao-menos-30-pessoas-na-espanha.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-29-alerte-02",
+   "date": "2026-10-29",
+   "publiee_a": "2026-10-28T20:25:37Z",
+   "titre": "Mort aux États-Unis du juge fédéral chargé du dossier Nicolás Maduro",
+   "texte": "Le magistrat fédéral américain Alvin Hellerstein est décédé mercredi de causes naturelles à New York à l'âge de 92 ans. Il supervisait la procédure judiciaire visant l'ancien président vénézuélien Nicolás Maduro.",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-28/fallece-el-juez-federal-que-supervisaba-el-juicio-de-nicolas-maduro-en-estados-unidos.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/fallece-magistrado-supervisaba-juicio-nicolas-maduro-20261028190348-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/28/le-juge-americain-charge-de-l-affaire-nicolas-maduro-alvin-hellerstein-est-mort-a-92-ans_6801632_3210.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/morre-aos-92-anos-juiz-que-conduzia-caso-de-maduro-em-ny.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/92-year-old-us-judge-handling-nicolas-maduro-case-dies"
+    }
+   ],
+   "cluster": "3c530e903b3a759a",
+   "urls": [
+    "https://abc.es/internacional/fallece-magistrado-supervisaba-juicio-nicolas-maduro-20261028190348-nt.html",
+    "https://elpais.com/us/2026-10-28/fallece-el-juez-federal-que-supervisaba-el-juicio-de-nicolas-maduro-en-estados-unidos.html",
+    "https://france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans",
+    "https://ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1",
+    "https://lemonde.fr/international/article/2026/10/28/le-juge-americain-charge-de-l-affaire-nicolas-maduro-alvin-hellerstein-est-mort-a-92-ans_6801632_3210.html",
+    "https://straitstimes.com/world/united-states/92-year-old-us-judge-handling-nicolas-maduro-case-dies",
+    "https://www1.folha.uol.com.br/mundo/2026/10/morre-aos-92-anos-juiz-que-conduzia-caso-de-maduro-em-ny.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-29-alerte-03",
+   "date": "2026-10-29",
+   "publiee_a": "2026-10-28T20:30:45Z",
+   "titre": "La Réserve fédérale américaine maintient son taux directeur inchangé",
+   "texte": "La Réserve fédérale des États-Unis a maintenu son taux directeur entre 3,75 % et 4 % mercredi 28 octobre 2026 à Washington. Dix membres du comité de politique monétaire ont voté pour ce statu quo et deux contre, selon The Hindu le 28 octobre 2026.",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/10/fed-mantem-juros-nos-eua-e-reforca-postura-dependente-de-dados.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/economy-and-business/2026-10-28/the-federal-reserve-leaves-interest-rates-unchanged-less-than-a-week-before-the-midterms.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-28/fed-says-more-data-will-help-next-decision-fed-special-video"
+    }
+   ],
+   "cluster": "004c915ea97dd2e7",
+   "urls": [
+    "https://aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us",
+    "https://bloomberg.com/news/articles/2026-10-28/fed-holds-rates-says-more-data-will-help-next-decision",
+    "https://bloomberg.com/news/articles/2026-10-28/key-takeaways-from-fed-decision-to-hold-rates-steady",
+    "https://bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video",
+    "https://bloomberg.com/news/videos/2026-10-28/fed-says-more-data-will-help-next-decision-fed-special-video",
+    "https://bloomberg.com/news/videos/2026-10-28/former-fed-president-harker-policy-is-not-restrictive-video",
+    "https://bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video",
+    "https://english.elpais.com/economy-and-business/2026-10-28/the-federal-reserve-leaves-interest-rates-unchanged-less-than-a-week-before-the-midterms.html",
+    "https://ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
+    "https://ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
+    "https://npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+    "https://spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad",
+    "https://theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+    "https://thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+    "https://www1.folha.uol.com.br/mercado/2026/10/fed-mantem-juros-nos-eua-e-reforca-postura-dependente-de-dados.shtml"
+   ]
+  },
   {
    "id": "2026-10-28-alerte-01",
    "date": "2026-10-28",
@@ -1266,177 +1502,6 @@
     "https://lequipe.fr/Football/Actualites/Lent-au-demarrage-le-real-madrid-garde-la-cadence-face-a-leipzig-en-ligue-des-champions-avec-des-buts-magnifiques-de-mbappe-et-diomande/1737627",
     "https://theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
     "https://www1.folha.uol.com.br/esporte/2026/10/vinicius-junior-passa-em-branco-em-goleada-do-real-madrid-sobre-o-leipzig.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-21-alerte-02",
-   "date": "2026-10-21",
-   "publiee_a": "2026-10-21T11:54:51Z",
-   "titre": "Moscou libère le citoyen américain Stephen Hubbard après des pourparlers",
-   "texte": "Le président russe Vladimir Poutine a annoncé mercredi 21 octobre 2026 la libération du ressortissant américain Stephen Hubbard en Russie. Cette décision intervient lors d'une entrevue à Moscou avec Steve Witkoff, émissaire spécial de Donald Trump.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-21/russia-frees-us-teacher-during-witkoff-talks-after-trump-appeal"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/russie/vladimir-poutine-annonce-la-liberation-de-l-americain-stephen-hubbard_8247160.html"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/putin-anuncia-liberacion-estadounidense-stephen-hubbard-tras-20261021120106-nt.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_ottobre_21/stephen-hubbard-chi-e-il-74enne-insegnate-e-veterano-statunitense-liberato-dalla-russia-81974848-14c4-49d7-8f16-7fbe8dd2cxlk.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.com/news/articles/c6m24l9v3745o"
-    },
-    {
-     "nom": "Associated Press",
-     "url": "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7"
-    }
-   ],
-   "cluster": "be73cbf0563d2ee0",
-   "urls": [
-    "https://abc.es/internacional/putin-anuncia-liberacion-estadounidense-stephen-hubbard-tras-20261021120106-nt.html",
-    "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7",
-    "https://bbc.co.uk/news/articles/c6m24l9v3745o",
-    "https://bbc.com/news/articles/c6m24l9v3745o",
-    "https://bloomberg.com/news/articles/2026-10-21/russia-frees-us-teacher-during-witkoff-talks-after-trump-appeal",
-    "https://corriere.it/esteri/26_ottobre_21/stephen-hubbard-chi-e-il-74enne-insegnate-e-veterano-statunitense-liberato-dalla-russia-81974848-14c4-49d7-8f16-7fbe8dd2cxlk.shtml",
-    "https://dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
-    "https://econotimes.com/Trump-Says-He-Asked-Putin-to-Free-U-S-Citizen-Stephen-Hubbard-1758545",
-    "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_21?evenement=a4ee9bfc28",
-    "https://franceinfo.fr/monde/russie/vladimir-poutine-annonce-la-liberation-de-l-americain-stephen-hubbard_8247160.html",
-    "https://lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-dmitri-peskov-le-porte-parole-du-kremlin-affirme-que-la-russie-veut-la-paix-pas-une-treve-avant-la-rencontre-entre-vladimir-poutine-et-steve-witkoff_6796922_3210.html",
-    "https://liberation.fr/international/europe/vladimir-poutine-annonce-que-lamericain-stephen-hubbard-va-etre-libere-des-geoles-russes-20261021_VQWTM77I4BGMTDN5HBAMCSML2E",
-    "https://npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-    "https://spiegel.de/ausland/stephen-james-hubbard-russland-laesst-inhaftierten-us-buerger-frei-a-a50c9a9e-7223-4572-999e-8cf26f1f2c30",
-    "https://straitstimes.com/world/europe/putin-says-russia-has-freed-us-citizen-stephen-hubbard",
-    "https://straitstimes.com/world/europe/who-is-stephen-hubbard-the-us-citizen-held-by-russia",
-    "https://straitstimes.com/world/europe/who-is-stephen-hubbard-the-us-citizen-released-by-russia",
-    "https://theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
-   ]
-  },
-  {
-   "id": "2026-10-21-alerte-03",
-   "date": "2026-10-21",
-   "publiee_a": "2026-10-21T11:54:57Z",
-   "titre": "Le joueur parisien Khvicha Kvaratskhelia souffre d'une rupture du ligament croisé",
-   "texte": "Le Paris Saint-Germain a officialisé ce mercredi 21 octobre 2026 la blessure de Khvicha Kvaratskhelia au genou droit, survenue mardi lors de la rencontre face à Barcelone. L'attaquant géorgien devra subir une opération chirurgicale et restera éloigné des terrains durant plusieurs mois.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/ligue-des-champions/la-star-du-paris-saint-germain-khvicha-kvarastkhelia-gravement-blessee-au-genou-contre-le-fc-barcelone_8247070.html"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/futbol/2026-10-21/kvaratskhelia-sufre-una-rotura-de-ligamento-cruzado-despues-de-lesionarse-en-el-partido-ante-el-barcelona.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/10/21/khvicha-kvaratskhelia-victime-d-une-rupture-du-ligament-croise-pourrait-etre-forfait-pour-le-restant-de-la-saison-du-psg_6798234_3242.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/sport/calcio/champions-league/26_ottobre_21/kvaratskhelia-infortunio-legamento-crociato-psg-7e205168-e01c-4367-8c36-7036a648cxlk.shtml"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/psg-saison-terminee-pour-khvicha-kvaratskhelia-plusieurs-semaines-d-absence-pour-marquinhos-et-ousmane-dembele-20261021"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/cxnv0ed5pz23o"
-    }
-   ],
-   "cluster": "d684926c21a0dbf8",
-   "urls": [
-    "https://aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win",
-    "https://bbc.co.uk/sport/football/articles/cxnv0ed5pz23o",
-    "https://corriere.it/sport/calcio/champions-league/26_ottobre_21/kvaratskhelia-infortunio-legamento-crociato-psg-7e205168-e01c-4367-8c36-7036a648cxlk.shtml",
-    "https://elpais.com/deportes/futbol/2026-10-21/kvaratskhelia-sufre-una-rotura-de-ligamento-cruzado-despues-de-lesionarse-en-el-partido-ante-el-barcelona.html",
-    "https://franceinfo.fr/sports/foot/ligue-des-champions/la-star-du-paris-saint-germain-khvicha-kvarastkhelia-gravement-blessee-au-genou-contre-le-fc-barcelone_8247070.html",
-    "https://lefigaro.fr/sports/football/ligue-des-champions/psg-rupture-du-ligament-croise-redoutee-vive-inquietude-pour-khvicha-kvaratskhelia-20261021",
-    "https://lefigaro.fr/sports/football/ligue-des-champions/psg-saison-terminee-pour-khvicha-kvaratskhelia-plusieurs-semaines-d-absence-pour-marquinhos-et-ousmane-dembele-20261021",
-    "https://lemonde.fr/sport/article/2026/10/21/khvicha-kvaratskhelia-victime-d-une-rupture-du-ligament-croise-pourrait-etre-forfait-pour-le-restant-de-la-saison-du-psg_6798234_3242.html",
-    "https://lequipe.fr/Football/Actualites/Rupture-d-un-ligament-croise-confirmee-pour-khvitcha-kvaratskhelia-apres-psg-barcelone-ousmane-dembele-et-marquinhos-en-soins/1737417",
-    "https://lequipe.fr/Football/Actualites/Suspicions-de-rupture-des-ligaments-croises-pour-khvitcha-kvaratskhelia-apres-psg-barcelone/1737395",
-    "https://theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
-    "https://video.lefigaro.fr/figaro/sports/football/ligue-des-champions/psg-kvaratskhelia-pourrait-ne-plus-rejouer-de-la-saison-20261021"
-   ]
-  },
-  {
-   "id": "2026-10-21-alerte-01",
-   "date": "2026-10-21",
-   "publiee_a": "2026-10-20T23:59:21Z",
-   "titre": "Elon Musk envisage une fusion entre SpaceX et Tesla",
-   "texte": "Les conseils d'administration de SpaceX et de Tesla étudient un rapprochement entre les deux entreprises cotées en Bourse. Elon Musk a confirmé mercredi 21 octobre la création de comités spéciaux pour évaluer ce projet.",
-   "sources": [
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/sci-tech/technology/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/article71603272.ece"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://c-level.folha.uol.com.br/negocios/2026/10/acordos-da-spacex-para-alugar-data-centers-elevam-receita-em-161.shtml"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Ars Technica",
-     "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/economia/2026-10-20/elon-musk-anuncia-que-estudia-la-fusion-de-spacex-y-tesla-para-crear-la-quinta-mayor-tecnologica-del-mundo.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmlyl09xjke4o"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video"
-    },
-    {
-     "nom": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/aerospace-defense-industries/elon-musk-says-spacex-and-tesla-discussing-possible-merger"
-    }
-   ],
-   "cluster": "375021893bcb5062",
-   "urls": [
-    "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says",
-    "https://asia.nikkei.com/business/aerospace-defense-industries/elon-musk-says-spacex-and-tesla-discussing-possible-merger",
-    "https://bbc.co.uk/news/articles/cmlyl09xjke4o",
-    "https://bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video",
-    "https://c-level.folha.uol.com.br/negocios/2026/10/acordos-da-spacex-para-alugar-data-centers-elevam-receita-em-161.shtml",
-    "https://elpais.com/economia/2026-10-20/elon-musk-anuncia-que-estudia-la-fusion-de-spacex-y-tesla-para-crear-la-quinta-mayor-tecnologica-del-mundo.html",
-    "https://ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
-    "https://thehindu.com/sci-tech/technology/spacex-tesla-earnings-to-test-musks-ai-spending-ambitions-as-merger-talk-grows/article71603272.ece"
    ]
   }
  ]

@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-28T06:27:56Z",
- "derniere": "2026-10-28",
+ "maj": "2026-10-29T06:39:32Z",
+ "derniere": "2026-10-29",
  "editions": [
+  {
+   "date": "2026-10-29",
+   "genere_a": "2026-10-29T06:39:32Z",
+   "articles": 3,
+   "une": [
+    "Flávio Bolsonaro gagne les États-Unis après sa défaite à l'élection présidentielle",
+    "Le bloc de Benjamin Netanyahu en tête sans obtenir la majorité parlementaire",
+    "Les partis arabes détiennent la clé après les élections israéliennes"
+   ],
+   "octets": 15749
+  },
   {
    "date": "2026-10-28",
    "genere_a": "2026-10-28T06:27:56Z",

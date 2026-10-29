@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-29",
+ "genere_a": "2026-10-29T06:39:32Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-29-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Flávio Bolsonaro gagne les États-Unis après sa défaite à l'élection présidentielle",
+   "chapeau": "Le candidat malheureux à l'élection brésilienne Flávio Bolsonaro a rejoint Miami le mercredi 28 octobre 2026. Le sénateur brésilien a gagné les États-Unis avec ses proches après sa défaite électorale face à Luiz Inácio Lula da Silva.",
+   "corps": "Visé par plusieurs procédures judiciaires au Brésil, le responsable politique avait quitté son pays d'origine le 27 octobre 2026 pour se rendre aux États-Unis.\n\nFlávio Bolsonaro s'est posé à l'aéroport exécutif de Miami à bord d'un avion privé. Son épouse Fernanda et ses deux filles l'accompagnaient durant ce voyage. Le trajet a comporté une sortie du territoire brésilien par l'Argentine, puis une escale en Équateur. Le sénateur a effectué ce déplacement au moyen d'un passeport italien.\n\nLe gouvernement de Donald Trump a validé l'arrivée de la famille sur le sol américain. Les autorités des États-Unis ont délivré des visas d'entrée pour Flávio Bolsonaro et ses proches. Le candidat battu a formulé des remerciements publics envers le président américain pour cet accueil. La décision prise par Washington provoque une tension nouvelle dans les relations diplomatiques entre les gouvernements américain et brésilien.\n\nUne fois installé en Floride, le sénateur a contesté le verdict des urnes. Il a affirmé qu'il représentait le président élu et le dirigeant légitime du pays. Flávio Bolsonaro a qualifié le scrutin d'élection volée. Il a annoncé qu'il assurerait la conduite de l'opposition brésilienne depuis le territoire américain. Dans ses prises de parole, il a comparé son positionnement à l'action de Charles de Gaulle.\n\nLe pouvoir brésilien a réagi à ce déplacement. Le président Luiz Inácio Lula da Silva a déclaré qu'un citoyen qui quitte son pays cache nécessairement des éléments. Des investigations judiciaires ouvertes au Brésil ciblent Flávio Bolsonaro. Les magistrats instruisent des dossiers portant sur des faits présumés de corruption, de blanchiment d'argent et de fraude fiscale. Le blanchiment d'argent dissimule l'origine illégale de capitaux. La justice brésilienne avait requis la remise de son passeport et avait instauré une mesure d'interdiction de sortie du territoire national.\n\n## Ce que disent les sources\n\nSur la date exacte de l'atterrissage aux États-Unis, les médias présentent des indications différentes. Selon l'édition précédente et Le Figaro le 29 octobre 2026 à 02:16, l'arrivée a eu lieu le 27 octobre 2026 au lendemain de l'élection. Selon ABC le 28 octobre 2026 à 21:27, Libération le 29 octobre 2026 à 00:40, RFI le 29 octobre 2026 à 01:28 et franceinfo le 29 octobre 2026 à 02:35, le sénateur s'est posé en Floride le mercredi 28 octobre 2026.\n\nLes détails sur le type de visa octroyé et le statut juridique exact accordé par l'administration américaine à Flávio Bolsonaro ne figurent pas dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/flavio-bolsonaro-llega-miami-tras-huir-brasil-20261027162522-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.com/mundo/articles/c6e3x5j7gwwvo"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261028-br%C3%A9sil-soutenu-par-trump-flavio-bolsonaro-s-est-r%C3%A9fugi%C3%A9-aux-%C3%A9tats-unis-terre-d-accueil-pour-le-clan-familial"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/28/flavio-bolsonaro-landt-in-de-verenigde-staten-zegt-dat-hij-de-rechtmatige-president-is-en-dat-de-verkiezingen-zijn-gestolen-a4940013"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/bresil-flavio-bolsonaro-declare-qu-il-est-le-veritable-president-du-pays-20261028"
+    }
+   ],
+   "premiere_parution": "2026-10-27T00:56:00Z",
+   "suite_de": "2026-10-28-monde-002",
+   "mots": 441,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-29-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le bloc de Benjamin Netanyahu en tête sans obtenir la majorité parlementaire",
+   "chapeau": "Le dépouillement des législatives israéliennes place le camp du premier ministre sortant en première position ce jeudi 29 octobre 2026 à Jérusalem. Aucun des deux grands rassemblements politiques n'atteint le seuil requis pour diriger seul le pays.",
+   "corps": "Le scrutin du mardi 27 octobre 2026 n'avait montré aucun vainqueur clair au moment des premiers dépouillements.\n\nLe décompte des bulletins avance désormais vers son terme. Selon la BBC le 29 octobre 2026 à 00 h 24, avec 85 % des bulletins examinés, la formation Likoud et ses partenaires obtiennent 53 sièges au Parlement, sur les 120 disponibles. La Knesset est le Parlement unicaméral d'Israël. Une coalition doit réunir au moins 61 élus pour valider la désignation d'un premier ministre.\n\nAl Jazeera, Folha de S.Paulo et Deutsche Welle indiquent le 29 octobre 2026 que le traitement des votes approche à présent les 90 %. Le groupe des partisans du premier ministre devance toujours les listes adverses. Cependant, cette avance ne suffit pas pour dégager un contrôle direct de l'assemblée législative.\n\nL'opposition a engagé des contacts préliminaires en vue d'établir un cabinet ministériel alternatif, comme le rapporte El País le 29 octobre 2026. Ce bloc hostile au pouvoir actuel rassemble diverses factions qui ne disposent pas non plus d'un nombre de mandats suffisant pour gouverner seules.\n\nCette arithmétique parlementaire confère un rôle décisif aux listes arabes et palestiniennes. Selon The Guardian le 29 octobre 2026 à 04 h 24, ces formations enregistrent une progression importante lors de cette consultation nationale. Leurs élus détiennent des voix indispensables pour faire pencher la balance vers l'une ou l'autre alliance.\n\nLes discussions internes s'annoncent complexes pour le camp adverse de Benjamin Netanyahu. Selon Haaretz le 29 octobre 2026 à 04 h 49, les dirigeants de ce rassemblement évaluent l'opportunité d'accepter l'appui des députés arabes. Une telle entente reste soumise à des débats au sein de ces partis.\n\nLe gouvernement en place conteste la régularité des opérations dans certains secteurs. Selon El País le 29 octobre 2026, l'exécutif accuse les listes arabes de fraude électorale durant le vote.\n\nDans le même temps, la formation d'Itamar Ben-Gvir, actuel ministre de la sécurité nationale issu de la droite dure, ne progresse pas. The Guardian indique le 29 octobre 2026 à 04 h 24 que cette force politique n'améliore pas son score antérieur de six sièges obtenu en 2022.\n\nLes formations politiques se préparent à des pourparlers prolongés. Selon Folha de S.Paulo le 29 octobre 2026, la fixation finale des sièges permettra d'ouvrir des négociations susceptibles de durer plusieurs semaines. Le choix du chef du gouvernement dépendra de ralliements individuels ou d'alliances entre rivaux récents.\n\nLa menace d'une crise régionale avec l'Iran pèse en parallèle sur les discussions des états-majors politiques, selon Haaretz le 29 octobre 2026.\n\nLa répartition exacte du reste des sièges entre chaque parti de l'opposition et les résultats définitifs du dépouillement ne figurent pas dans les sources transmises.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/israels-election-gives-survivor-netanyahu-a-path-to-keep-power"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/wahlen-in-israel-2026-die-vielen-leben-des-benjamin-netanyahu-a-9c3d574e-4547-4e6e-882f-1c204c4d7bd8"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-28/la-oposicion-a-netanyahu-comienza-a-dialogar-para-formar-un-gobierno-en-israel.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/the-election-stalemate-lets-netanyahu-avoid-an-october-7-reckoning/000001a1-8415-d9b5-a3b5-ccb58d770000"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/pedro-rodriguez-israel-puede-sobrevivir-netanyahu-asuma-responsabilidades-20261028020617-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-10-27T11:19:46Z",
+   "suite_de": "2026-10-28-monde-001",
+   "mots": 480,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-29-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les partis arabes détiennent la clé après les élections israéliennes",
+   "chapeau": "Les autorités électorales israéliennes ont poursuivi jeudi 29 octobre 2026 le décompte des bulletins après le scrutin législatif du mardi 27 octobre. Les deux principaux blocs politiques n'obtiennent pas de majorité sans un appui des formations représentant les citoyens arabes.",
+   "corps": "Le scrutin du 27 octobre 2026 n'a dégagé aucun vainqueur entre le camp du premier ministre Benjamin Netanyahu et celui mené par Gadi Eisenkot. Le dépouillement des votes par correspondance est en cours le 29 octobre 2026, selon le quotidien britannique The Guardian.\n\nLes électeurs ont voté en grand nombre lors de cette première élection générale organisée depuis les attaques du 7 octobre 2023. La participation générale a dépassé 74 %, d'après le journal espagnol ABC le 28 octobre 2026. Ce niveau constitue un sommet depuis la mise en place de ces mesures en 1973. À 14 heures le jour du vote, près de 45 % des électeurs inscrits avaient déjà déposé leur bulletin, selon la chaîne allemande Deutsche Welle le 27 octobre 2026.\n\nLa population arabe israélienne a participé au scrutin dans des proportions inédites. La chaîne Al Jazeera a rapporté le 28 octobre 2026 une présence très importante des citoyens palestiniens d'Israël aux urnes. Les sondages de sortie des urnes évaluent la part des votants arabes à près de 80 %, selon le journal indien The Hindu le 28 octobre 2026. Ce taux représente le niveau le plus élevé enregistré pour ce groupe depuis au moins dix ans.\n\nCette forte mobilisation confère un rôle central aux partis arabes dans les futures négociations. Benjamin Netanyahu a obtenu le plus grand nombre de suffrages au niveau individuel, d'après les chiffres préliminaires cités par le journal ABC le 28 octobre 2026. L'alliance du premier ministre sortant avec les partis ultraorthodoxes et nationalistes ne dispose toutefois pas des sièges requis pour gouverner seule.\n\nLe camp adverse fait face à une situation similaire. Gadi Eisenkot, ancien chef militaire désormais à la tête du bloc d'opposition, ne peut former un gouvernement sans le soutien des partis arabes, selon les analyses rapportées par The Guardian le 29 octobre 2026. Les experts politiques interrogés par le quotidien britannique expliquent que le remplacement de Benjamin Netanyahu dépendra de l'acceptation formelle d'un partenariat avec ces mouvements.\n\nCe blocage politique a suscité des réactions sur les marchés financiers. La monnaie nationale, les actions et les obligations israéliennes ont fléchi le mercredi 28 octobre 2026, selon The Guardian le 29 octobre 2026. Les acteurs économiques réagissent à l'éventualité de longues semaines de tractations sans issue garantie.\n\nDans les pays voisins, le résultat suscite du scepticisme. Des habitants interrogés au Caire, à Beyrouth et à Gaza n'attendent pas d'évolution majeure de la politique israélienne, selon le quotidien singapourien The Straits Times le 28 octobre 2026. La confrontation électorale entre un premier ministre sortant et un ancien haut responsable militaire n'a pas modifié la perception négative des observateurs régionaux.\n\n## Ce que disent les sources\n\nLe journal espagnol El País écrivait le 27 octobre 2026 que le bloc d'opposition menait dans les enquêtes d'opinion face à la coalition du premier ministre. Le journal ABC affirmait le 28 octobre 2026 que Benjamin Netanyahu sortait vainqueur des urnes d'après les premiers sondages, tout en restant privé de majorité parlementaire.\n\nLa répartition définitive des sièges à la Knesset n'est pas encore connue.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3j47l4kdez4o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-10-27/netanyahus-future-hangs-in-the-balance-in-a-decisive-election-for-the-entire-middle-east.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/27/nx-s1-6019381/israel-elections"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-10-28/ty-article-magazine/.premium/2026-israel-election-results-all-exit-polls-and-live-vote-count/000001a1-7f72-d031-a3e1-ff77e41e0000"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu"
+    }
+   ],
+   "premiere_parution": "2026-10-26T21:48:23Z",
+   "suite_de": "2026-10-28-monde-001",
+   "mots": 543,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-29-monde-001",
+  "2026-10-29-monde-002",
+  "2026-10-29-monde-003"
+ ]
+}

@@ -1,6 +1,56 @@
 {
- "maj": "2026-10-30T10:12:17Z",
+ "maj": "2026-10-30T22:27:23Z",
  "alertes": [
+  {
+   "id": "2026-10-31-alerte-01",
+   "date": "2026-10-31",
+   "publiee_a": "2026-10-30T22:27:23Z",
+   "titre": "Des milliers de personnes se rassemblent à Trappes contre le racisme",
+   "texte": "Des milliers de personnes et plusieurs responsables politiques de gauche se sont réunis vendredi 30 octobre à Trappes. Ce rassemblement municipal rend hommage aux victimes d'un attentat raciste survenu une semaine plus tôt dans les Yvelines.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/un-rapport-extremement-degrade-a-la-lutte-pour-la-republique-jadot-proche-de-glucksmann-deplore-l-absence-de-philippe-et-attal-a-trappes-20261030"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/video/2026/10/30/attentat-raciste-dans-les-yvelines-des-milliers-de-personnes-rassemblees-a-trappes_6803136_3224.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/trappes-une-semaine-apres-l-attentat-une-foule-nombreuse-au-rassemblement-antiraciste-20261030"
+    }
+   ],
+   "cluster": "0cdcb0d03773bdf7",
+   "urls": [
+    "https://france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe",
+    "https://france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-dans-les-yvelines-les-partis-de-gauche-pr%C3%A9sents-pour-l-hommage-pr%C3%A9vu-%C3%A0-trappes",
+    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html",
+    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html",
+    "https://franceinfo.fr/societe/racisme/a-trappes-et-un-peu-partout-en-france-des-milliers-de-personnes-reunies-contre-le-racisme_8261003.html",
+    "https://la-croix.com/societe/trappes-une-semaine-apres-l-attentat-une-foule-nombreuse-au-rassemblement-antiraciste-20261030",
+    "https://lefigaro.fr/politique/un-rapport-extremement-degrade-a-la-lutte-pour-la-republique-jadot-proche-de-glucksmann-deplore-l-absence-de-philippe-et-attal-a-trappes-20261030",
+    "https://lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html",
+    "https://lemonde.fr/societe/article/2026/10/30/attentat-raciste-a-trappes-que-faut-il-de-plus-pour-ouvrir-les-yeux-a-lance-le-maire-ali-rabeh-lors-du-rassemblement-en-hommage-aux-victimes-pointant-la-responsabilite-du-rn_6803131_3224.html",
+    "https://lemonde.fr/societe/video/2026/10/30/attentat-raciste-dans-les-yvelines-des-milliers-de-personnes-rassemblees-a-trappes_6803136_3224.html",
+    "https://liberation.fr/politique/rassemblement-contre-le-racisme-a-trappes-les-bonnes-excuses-dattal-philippe-et-retailleau-pour-secher-lhommage-20261030_H7GYBDAI2FEMBC2O47F4L7OLBY",
+    "https://liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA",
+    "https://liberation.fr/societe/attentat-raciste-edouard-philippe-present-a-un-rassemblement-a-la-verriere-mais-pas-a-trappes-20261030_AKET225HIZEGTH4L4YISXZRNJM",
+    "https://liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-des-centaines-de-personnes-rassemblees-a-la-verriere-20261030_F66UFI6UHBAHZNGRFG7NNXGNOI"
+   ]
+  },
   {
    "id": "2026-10-30-alerte-02",
    "date": "2026-10-30",
@@ -1360,171 +1410,6 @@
     "https://lemonde.fr/societe/video/2026/10/23/tirs-a-trappes-et-a-la-verriere-emmanuel-macron-denonce-un-attentat-terroriste-raciste_6799145_3224.html",
     "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU",
     "https://rfi.fr/fr/france/20261023-france-un-homme-tire-en-rafales-en-banlieue-parisienne-le-parquet-antiterroriste-se-saisit"
-   ]
-  },
-  {
-   "id": "2026-10-23-alerte-01",
-   "date": "2026-10-23",
-   "publiee_a": "2026-10-22T21:40:57Z",
-   "titre": "L'acteur américain Tom Skerritt meurt à l'âge de 93 ans",
-   "texte": "Le comédien américain Tom Skerritt est mort de causes naturelles mercredi 21 octobre 2026 à 93 ans, ont annoncé ses proches dans un communiqué. L'interprète s'est fait connaître pour ses rôles dans les films Alien et Top Gun ainsi que dans la série Picket Fences.",
-   "sources": [
-    {
-     "nom": "nbcconnecticut.com",
-     "url": "https://nbcconnecticut.com/entertainment/entertainment-news/tom-skerritt-actor-picket-fences-alien-top-gun-dies/3787598"
-    },
-    {
-     "nom": "yorkpress.co.uk",
-     "url": "https://yorkpress.co.uk/news/national/26662730.emmy-winning-alien-top-gun-actor-tom-skerritt-dies-aged-93"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/cultura/2026-10-22/tom-skerritt-estrella-de-alien-top-gun-y-mash-muere-a-los-93-anos.html"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/10/22/981035400/tom-skerritt-dead"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/play/cine/noticias/muere-actor-tom-skerritt-anos-conocido-papeles-20261022223818-nt.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/culture/l-acteur-tom-skerritt-star-d-alien-et-de-top-gun-est-mort-a-93-ans-20261022"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqrkyly2p54xo"
-    }
-   ],
-   "cluster": "10edcece6bf4492e",
-   "urls": [
-    "https://abc.es/play/cine/noticias/muere-actor-tom-skerritt-anos-conocido-papeles-20261022223818-nt.html",
-    "https://abc3340.com/news/entertainment/tom-skerritt-star-of-top-gun-and-picket-fences-dead-at-93",
-    "https://bbc.co.uk/news/articles/cqrkyly2p54xo",
-    "https://elpais.com/cultura/2026-10-22/tom-skerritt-estrella-de-alien-top-gun-y-mash-muere-a-los-93-anos.html",
-    "https://kcby.com/news/entertainment/tom-skerritt-star-of-top-gun-and-picket-fences-dead-at-93",
-    "https://lefigaro.fr/culture/l-acteur-tom-skerritt-star-d-alien-et-de-top-gun-est-mort-a-93-ans-20261022",
-    "https://nbcconnecticut.com/entertainment/entertainment-news/tom-skerritt-actor-picket-fences-alien-top-gun-dies/3787598",
-    "https://npr.org/2026/10/22/981035400/tom-skerritt-dead",
-    "https://theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
-    "https://turnto10.com/news/entertainment/tom-skerritt-star-of-top-gun-and-picket-fences-dead-at-93",
-    "https://yorkpress.co.uk/news/national/26662730.emmy-winning-alien-top-gun-actor-tom-skerritt-dies-aged-93"
-   ]
-  },
-  {
-   "id": "2026-10-23-alerte-02",
-   "date": "2026-10-23",
-   "publiee_a": "2026-10-22T21:42:10Z",
-   "titre": "Donald Trump soutient un spot électoral de Vivek Ramaswamy en Ohio",
-   "texte": "Donald Trump a défendu le 22 octobre 2026 un spot de campagne diffusé par le candidat républicain au poste de gouverneur en Ohio, Vivek Ramaswamy. Cette vidéo met en scène la mère de sa rivale démocrate Amy Acton, malgré les critiques du gouverneur républicain Mike DeWine.",
-   "sources": [
-    {
-     "nom": "airdriecityview.com",
-     "url": "https://airdriecityview.com/world-news/republican-gov-mike-dewine-denounces-ramaswamy-ad-featuring-democrat-amy-actons-estranged-mother-12924246"
-    },
-    {
-     "nom": "aol.com",
-     "url": "https://aol.com/articles/ohio-gov-dewine-condemns-ramaswamy-171400000.html"
-    },
-    {
-     "nom": "adn.com",
-     "url": "https://adn.com/nation-world/2026/10/22/trump-backs-ramaswamy-on-controversial-ad-says-it-was-hitting-pay-dirt"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-22/trump-defends-ramaswamy-ad-as-backlash-endangers-ohio-gop-ticket"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-10-22/republicanos-temen-que-ramaswamy-haya-sellado-el-triunfo-de-la-democrata-acton-en-ohio-con-su-polemico-anuncio-electoral.html"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/trump-backs-us-campaign-attack-ad-featuring-democrats-estranged-mother"
-    }
-   ],
-   "cluster": "57fc98d3c04cff36",
-   "urls": [
-    "https://13abc.com/2026/10/22/trump-defends-controversial-ramaswamy-ad-featuring-actons-estrange-mother",
-    "https://adn.com/nation-world/2026/10/22/trump-backs-ramaswamy-on-controversial-ad-says-it-was-hitting-pay-dirt",
-    "https://airdriecityview.com/world-news/republican-gov-mike-dewine-denounces-ramaswamy-ad-featuring-democrat-amy-actons-estranged-mother-12924246",
-    "https://aol.com/articles/ohio-gov-dewine-condemns-ramaswamy-171400000.html",
-    "https://bloomberg.com/news/articles/2026-10-22/trump-defends-ramaswamy-ad-as-backlash-endangers-ohio-gop-ticket",
-    "https://elpais.com/us/2026-10-22/republicanos-temen-que-ramaswamy-haya-sellado-el-triunfo-de-la-democrata-acton-en-ohio-con-su-polemico-anuncio-electoral.html",
-    "https://straitstimes.com/world/united-states/trump-backs-us-campaign-attack-ad-featuring-democrats-estranged-mother",
-    "https://theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
-    "https://theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates"
-   ]
-  },
-  {
-   "id": "2026-10-23-alerte-03",
-   "date": "2026-10-23",
-   "publiee_a": "2026-10-22T21:43:27Z",
-   "titre": "Un séisme de magnitude 7 fait seize morts au Tibet",
-   "texte": "Un tremblement de terre s'est produit jeudi 22 octobre 2026 à 22 h 33 dans la région du Tibet en Chine. Selon l'agence Xinhua citée le 23 octobre par ABC, la secousse a tué au moins 16 personnes et blessé 32 autres.",
-   "sources": [
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/chine-un-puissant-seisme-de-magnitude-7-frappe-la-region-du-tibet-20261022"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-22/un-terremoto-de-magnitud-7-sacude-el-tibet.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/chine/le-tibet-secoue-par-un-seisme-de-magnitude-7-des-effondrements-de-maisons-signales_8249449.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/planete/article/2026/10/22/en-chine-le-seisme-de-magnitude-7-qui-a-frappe-la-region-du-tibet-fait-16-morts-et-des-dizaines-de-blesses_6798655_3245.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/terremoto-magnitud-sacude-tibet-20261022200715-nt.html"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-on-october-22-killing-many/article71613335.ece"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/asie-pacifique/20261022-un-puissant-s%C3%A9isme-de-magnitude-7-fait-des-morts-et-de-nombreux-bless%C3%A9s-au-tibet"
-    }
-   ],
-   "cluster": "0131d2e8647e9832",
-   "urls": [
-    "https://abc.es/internacional/terremoto-magnitud-sacude-tibet-20261022200715-nt.html",
-    "https://aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports",
-    "https://bloomberg.com/news/articles/2026-10-22/china-s-tibet-region-struck-by-powerful-magnitude-7-0-earthquake",
-    "https://elpais.com/internacional/2026-10-22/un-terremoto-de-magnitud-7-sacude-el-tibet.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_22?evenement=711752d3f5",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_22?evenement=9301ea5099",
-    "https://france24.com/fr/asie-pacifique/20261022-chine-un-s%C3%A9isme-de-magnitude-7-fait-de-nombreux-morts-au-tibet",
-    "https://franceinfo.fr/monde/chine/le-tibet-secoue-par-un-seisme-de-magnitude-7-des-effondrements-de-maisons-signales_8249449.html",
-    "https://lefigaro.fr/international/chine-un-puissant-seisme-de-magnitude-7-frappe-la-region-du-tibet-20261022",
-    "https://lemonde.fr/planete/article/2026/10/22/en-chine-le-seisme-de-magnitude-7-qui-a-frappe-la-region-du-tibet-fait-16-morts-et-des-dizaines-de-blesses_6798655_3245.html",
-    "https://reuters.com/business/environment/earthquake-magnitude-7-strikes-chinas-tibet-2026-10-22",
-    "https://rfi.fr/fr/asie-pacifique/20261022-un-puissant-s%C3%A9isme-de-magnitude-7-fait-des-morts-et-de-nombreux-bless%C3%A9s-au-tibet",
-    "https://straitstimes.com/asia/earthquake-of-magnitude-7-strikes-chinas-tibet",
-    "https://straitstimes.com/asia/east-asia/7-magnitude-earthquake-strikes-chinas-tibet",
-    "https://thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-on-october-22-killing-many/article71613335.ece",
-    "https://thehindu.com/news/international/tibet-earthquake-nagqu-updates-october-22-2026/article71612585.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-7-atinge-regiao-do-tibete-na-china.shtml"
    ]
   }
  ]

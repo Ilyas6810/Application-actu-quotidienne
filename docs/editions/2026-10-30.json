@@ -1,0 +1,340 @@
+{
+ "date": "2026-10-30",
+ "genere_a": "2026-10-30T06:38:02Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-30-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les partis arabes détiennent la clé du futur gouvernement israélien",
+   "chapeau": "La commission électorale a rendu publics les résultats définitifs des législatives israéliennes dans la nuit du jeudi 29 au vendredi 30 octobre 2026 à Jérusalem. Les formations arabes totalisent dix-neuf sièges parlementaires et se placent au centre des futures négociations ministérielles.",
+   "corps": "Le scrutin législatif tenu le mardi 27 octobre 2026 a confirmé l'absence de majorité absolue pour le chef de gouvernement sortant et ses alliés. Selon le décompte validé par les autorités électorales, le Parlement compte cent vingt membres et impose un palier de soixante-et-un sièges pour gouverner. Le rassemblement des droites et de l'extrême droite dirigé par Benjamin Netanyahu n'atteint pas ce chiffre.\n\nCe vote parlementaire a enregistré son niveau d'affluence le plus fort depuis un demi-siècle, selon les indications rapportées par ABC le 30 octobre à 04h12. La commission électorale n'a toutefois pas diffusé le pourcentage exact des citoyens inscrits ayant glissé un bulletin.\n\nL'opposition menée par le centriste Gadi Eisenkot se positionne derrière l'alliance sortante. Les deux grandes coalitions politiques ne parviennent pas à rassembler le nombre d'élus requis sans un accord avec des représentants extérieurs. Ce blocage institutionnel donne un rôle stratégique aux deux formations arabes, nommées Raam et Liste unifiée.\n\nCes listes arabes sont représentées par deux figures politiques, Mansour Abbas et Yousef Jabareen. Le quotidien Folha de S.Paulo signale le 30 octobre à 03h01 que ce résultat constitue une avancée électorale inédite pour ces formations dans le cadre de ces législatives. Cette présence parlementaire accrue permet à ces élus de peser directement sur la désignation du futur chef de l'exécutif.\n\nBenjamin Netanyahu a demandé aux partis politiques juifs de refuser toute forme de négociation ou de pacte de gouvernement avec les formations arabes. Le premier ministre sortant motive son refus par des soupçons d'interventions politiques du Qatar dans la consultation démocratique. Selon des informations communiquées par El País le 29 octobre à 18h43, la commission électorale a chargé les services secrets israéliens d'enquêter sur ces allégations d'ingérence étrangère.\n\nLes formations d'opposition contestent l'existence d'éléments matériels susceptibles d'invalider la régularité du scrutin. Les adversaires de Benjamin Netanyahu qualifient publiquement sa démarche de manœuvre tactique pour contester les résultats des urnes. Les partis politiques n'ont pas encore engagé les pourparlers officiels pour composer une majorité parlementaire.\n\n## Ce que disent les sources\n\nSur le total des députés de la coalition de Benjamin Netanyahu, la quasi-totalité des sources relève cinquante-trois sièges. Cette évaluation est rapportée par BBC News le 29 octobre à 19h47, Bloomberg le 29 octobre à 22h02, ABC le 30 octobre à 04h12, Le Monde le 30 octobre à 05h00, The Straits Times le 30 octobre à 05h12, France 24 le 30 octobre à 05h52 et La Croix le 30 octobre à 09h57. À l'opposé, franceinfo mentionne cinquante-huit sièges pour la coalition sortante le 30 octobre à 09h46.\n\nConcernant l'opposition de Gadi Eisenkot, la concordance est générale avec quarante-huit sièges attribués. Ce chiffre est rapporté par Bloomberg le 29 octobre à 22h02, ABC le 30 octobre à 04h12, Le Monde le 30 octobre à 05h00, France 24 le 30 octobre à 05h52 et franceinfo le 30 octobre à 09h46. De leur côté, Le Monde, France 24 et franceinfo dénombrent dix-neuf sièges pour l'ensemble formé par Raam et la Liste unifiée le 30 octobre.\n\nLa répartition détaillée des sièges entre les partis de chaque coalition n'a pas été précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-29/el-comite-electoral-de-israel-pide-a-los-servicios-secretos-investigar-graves-alegaciones-de-injerencia-extranjera.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-29/netanyahu-s-likud-led-bloc-garners-most-seats-in-israel-election"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/partidos-arabes-batem-recorde-em-israel-e-podem-decidir-futuro-de-netanyahu.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mansour-abbas-yousef-jabareen-dos-palestinos-llave-20261030011203-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/30/legislatives-en-israel-le-camp-de-benyamin-netanyahou-arrive-en-tete-mais-sans-majorite-selon-les-resultats-definitifs_6802493_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/netanyahu-bloc-finishes-in-lead-but-short-of-majority-official-results"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261030-israel-legislatives-netanyahu-tete-sans-majorite-resultats-officiels-eisenkot-partis-arabes"
+    }
+   ],
+   "premiere_parution": "2026-10-27T19:30:52Z",
+   "suite_de": "2026-10-29-monde-002",
+   "mots": 556,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-30-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La plateforme Binance subit un piratage financier de grande ampleur",
+   "chapeau": "La plateforme d'échange de devises numériques Binance a annoncé avoir subi une intrusion informatique jeudi 29 octobre 2026. L'entreprise a interrompu ses opérations financières et a bloqué des milliards de dollars d'actifs pour limiter les détournements.",
+   "corps": "La société Binance, présentée comme la plus grande plateforme mondiale d'actifs numériques, a confirmé avoir été la cible d'une faille de sécurité. L'opérateur a réagi en suspendant les versements et les retraits d'argent de ses clients. L'entreprise a aussi interrompu une partie des transactions commerciales sur ses marchés.\n\nL'entreprise a affirmé que l'argent de ses clients demeurait protégé. La direction de Binance s'est engagée publiquement à rembourser la totalité des pertes financières provoquées par cet événement.\n\nD'autres acteurs du secteur financier ont réagi de manière coordonnée. Les sociétés Tether et Circle, qui créent des monnaies numériques à valeur stable adossées à des devises réelles, ont neutralisé des avoirs financiers liés à cette opération illégale. Plusieurs autres sociétés spécialisées ont également bloqué des millions de dollars de devises virtuelles pour empêcher le transfert des fonds dérobés.\n\nSelon les éléments d'analyse technique préliminaires, l'attaque informatique a pu débuter par la compromission de l'ordinateur portable d'un ingénieur. Des analystes du secteur numérique estiment que cette action pourrait constituer l'intrusion informatique la plus importante jamais répertoriée dans le domaine des actifs virtuels.\n\nDes cabinets spécialisés dans l'analyse de la chaîne de blocs, registre public des opérations numériques, ont procédé à l'attribution de l'offensive. Une société de renseignement a désigné des pirates informatiques liés à l'État nord-coréen. Deux sociétés d'analyse ont nommément désigné un groupe de pirates informatiques nord-coréens dénommé TraderTraitor comme responsable de cette opération.\n\n## Ce que disent les sources\n\nLes sources divergent sur le montant exact des capitaux dérobés ou concernés par l'attaque. L'entreprise Binance a évoqué un impact de 6,3 milliards de dollars selon les dépêches de Bloomberg publiées le 30 octobre 2026 à 09:50 et de The Straits Times publiées le 30 octobre 2026 à 09:11. La chaîne Al Jazeera a rapporté le 30 octobre 2026 à 04:29 que Binance déclarait 6,3 milliards de dollars volés. De son côté, le cabinet Chainalysis a estimé la somme dérobée à environ 5,9 milliards de dollars selon la chaîne France 24 le 30 octobre 2026 à 07:15.\n\nLes chiffres varient également quant au volume des actifs neutralisés. La société Binance a indiqué avoir gelé 2,54 milliards de dollars d'actifs d'après les informations rapportées par Folha de S.Paulo le 30 octobre 2026 à 05:00 et par France 24 le 30 octobre 2026 à 07:15. Le quotidien The Hindu a quant à lui mentionné le 30 octobre 2026 à 07:41 plus de 2,5 milliards de dollars bloqués. Le journal Le Figaro a rapporté le 30 octobre 2026 à 09:59 que la moitié de la somme globale liée au préjudice avait fait l'objet d'un gel conservatoire.\n\nL'étendue définitive des dommages ainsi que les méthodes précises employées par les attaquants pour pénétrer le système ne sont pas connues à ce stade.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/binance-congela-us-254-bilhoes-apos-suspeita-de-ataque-hacker.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261030-cryptomonnaies-binance-cyberattaque-massive-gel-2-5-milliards-de-dollars-bitcoin-ether"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/binance-crypto-exchange-confirms-major-hack-more-than-25-billion-frozen/article71643509.ece"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-29/la-plataforma-de-intercambio-de-criptomoneda-binance-denuncia-un-ataque-informatico.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/crypto-exchange-binance-freezes-assets-after-6-3-billion-security-breach"
+    }
+   ],
+   "premiere_parution": "2026-10-29T21:25:33Z",
+   "suite_de": null,
+   "mots": 503,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-30-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Benjamin Netanyahu conteste le scrutin et met en cause les partis arabes",
+   "chapeau": "Benjamin Netanyahu a accusé les partis arabes israéliens de fraude après la fin du dépouillement des élections législatives le 29 octobre 2026 en Israël. Le premier ministre sortant et sa coalition ont perdu leur majorité parlementaire face aux formations d'opposition.",
+   "corps": "Lors du scrutin du 29 octobre 2026, le camp du premier ministre sortant est arrivé en tête sans réunir le nombre de sièges indispensable pour gouverner seul.\n\nLe décompte complet des bulletins confirme que l'alliance menée par Benjamin Netanyahu est privée de majorité. Les partis d'opposition possèdent les voix nécessaires pour remplacer le chef du gouvernement s'ils s'allient avec les formations arabes israéliennes. Face à ce risque d'éviction, Benjamin Netanyahu a multiplié les déclarations contre ces organisations politiques.\n\nLe Likoud, parti de Benjamin Netanyahu, affirme que des partis dirigés par des Arabes ont volé l'élection. Le premier ministre sortant et ses alliés soutiennent que ces mouvements ont bénéficié d'une ingérence étrangère. Ils réclament une intervention du Shin Bet. Le Shin Bet est le service de sécurité intérieure israélien. Benjamin Netanyahu demande à cette agence d'enquêter sur des achats de voix et d'autres fraudes électorales présumées.\n\nL'opposition israélienne accuse en retour le premier ministre de délégitimer le scrutin démocratique. Ses détracteurs affirment que le dirigeant emploie des manœuvres de dénigrement contre les électeurs arabes afin de conserver ses fonctions. Haaretz rappelle que Benjamin Netanyahu avait pourtant sollicité les électeurs palestiniens d'Israël lors de scrutins passés. Il leur promettait alors une intégration directe au pouvoir.\n\nLe camp du changement se retrouve devant un choix politique. Ses dirigeants doivent décider s'ils s'associent aux partis arabes pour exclure Benjamin Netanyahu, ou s'ils maintiennent leur refus antérieur de collaborer avec eux. La division du Parlement en trois blocs place le pays dans une période d'incertitude quant à la formation du futur gouvernement. Benjamin Netanyahu conserve la possibilité de diriger le cabinet de transition.\n\nLes sources ne précisent pas la répartition exacte des sièges entre les différents partis ni la réponse du Shin Bet à la demande d'enquête.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/pedro-rodriguez-israel-puede-sobrevivir-netanyahu-asuma-responsabilidades-20261028020617-nt.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/israel-welche-konsequenzen-deutschland-aus-dem-wahlerfolg-von-benjamin-netanyahu-ziehen-muss-a-387cc9ee-c543-457f-ab39-ac7790d4da09"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/netanyahu-at-risk-of-losing-power-steps-up-attacks-on-israels-arab-parties"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israel-election-2026-benjamin-netanyahu-is-down-but-not-out/article71639548.ece"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-10-29/ty-article-magazine/.highlight/the-danger-was-never-netanyahu-it-wont-disappear-even-when-hes-gone/000001a1-8703-d116-abed-e7a3fb310000"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckdd8qdl9e0eo"
+    }
+   ],
+   "premiere_parution": "2026-10-28T06:28:00Z",
+   "suite_de": "2026-10-29-monde-002",
+   "mots": 332,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-30-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Enquête ouverte en Alaska sur la campagne démocrate de Mary Peltola",
+   "chapeau": "Le gouverneur républicain de l'Alaska Mike Dunleavy a ordonné le 29 octobre 2026 une enquête sur la campagne de la candidate démocrate au Sénat Mary Peltola. L'équipe démocrate est accusée d'avoir présenté un candidat homonyme pour affaiblir le sénateur républicain sortant Dan Sullivan lors des élections de mi-mandat.",
+   "corps": "Une enquête menée par le New York Times a affirmé le 28 octobre 2026 que les collaborateurs de Mary Peltola ont recruté une personne portant le même nom que Dan Sullivan. L'objectif visait à disperser les suffrages républicains lors du scrutin.\n\nLe gouverneur Mike Dunleavy a demandé des investigations pour déterminer si ces actes justifient des poursuites pénales ou des sanctions civiles. Le ministère américain de la Justice a également envoyé des assignations judiciaires jeudi 29 octobre 2026, selon les agences de presse Associated Press et ABC News citées par The Guardian. Une assignation désigne un ordre de justice pour témoigner.\n\nDonald Trump est intervenu publiquement pour réclamer l'exclusion de Mary Peltola de l'élection sénatoriale. Lors d'un rassemblement en Caroline du Sud, Donald Trump a accusé la candidate de fraude électorale et a demandé des poursuites judiciaires à son encontre. L'affaire fait également l'objet d'un recours devant la justice fédérale.\n\n## Ce que disent les sources\n\nLe Monde mentionne dans un résumé de direct que la candidate a recruté un homonyme du gouverneur, tandis que l'ensemble des autres articles de presse précise que l'homonyme visé est le sénateur sortant Dan Sullivan.\n\nLa réaction directe de Mary Peltola et de son équipe de campagne face à ces accusations n'est pas précisée par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-28/balance-of-power-late-edition-10-28-2026-video"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-calls-for-mary-peltola-to-be-banned-from-alaska-senate-race"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/10/29/en-direct-midterms-2026-un-juge-rejette-les-efforts-de-donald-trump-pour-intervenir-dans-les-elections-de-mi-mandat-en-californie_6801590_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/dan-sullivan-contre-dan-sullivan-la-combine-des-democrates-pour-diluer-le-vote-republicain-aux-midterms-en-alaska-20261029_RBOCTOXJLNFH3EAUUTISATKPP4"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-10-29/una-demanda-federal-dos-dan-sullivans-y-una-democrata-poco-tradicional-la-crucial-batalla-por-el-senado-en-alaska.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/oct/29/alaska-senate-race-subpoenas"
+    }
+   ],
+   "premiere_parution": "2026-10-28T19:48:44Z",
+   "suite_de": null,
+   "mots": 261,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-30-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Une frappe de drone russe touche la gare de Dnipro en Ukraine",
+   "chapeau": "Un appareil sans pilote russe a frappé la gare ferroviaire de Dnipro dans le centre de l'Ukraine le jeudi 29 octobre 2026. Cette attaque contre les infrastructures de transport a touché des voyageurs présents sur un quai d'embarquement.",
+   "corps": "Un aéronef sans pilote de propulsion russe a atteint un quai de la gare centrale de la ville de Dnipro. Le projectile a touché les installations ferroviaires au moment où des civils montaient à bord d'un train régulier de banlieue et d'un train de voyageurs stationnés sur la voie. La BBC a fait état le 29 octobre 2026 à 18 h 17 d'au moins 14 blessés, parmi lesquels figure un enfant âgé de 11 ans.\n\nLe président ukrainien Volodymyr Zelensky a qualifié cette frappe de terrible. Le chef de l'État a demandé aux pays occidentaux d'adopter des mesures fermes et adaptées face à ces opérations militaires. Emmanuel Macron a déclaré que les autorités russes cherchent une montée des tensions par ces frappes contre les populations civiles, selon le quotidien La Croix le 30 octobre 2026 à 0 h 22. Le journal Libération a précisé que les forces russes mènent des frappes répétées contre le réseau ferroviaire ukrainien depuis plusieurs semaines.\n\nD'autres agglomérations ukrainiennes ont subi des bombardements au cours de la même journée. Des frappes russes ont atteint des secteurs résidentiels dans les localités de Krementchouk, de Tchernihiv ainsi que dans l'oblast de Zaporijia. Ces attaques ont causé la mort de plusieurs personnes civiles, dont des enfants, rapporte Politico Europe le 29 octobre 2026 à 18 h 04. La capitale ukrainienne a ensuite essuyé des tirs de missiles balistiques le jeudi soir. Le journal Le Monde a comptabilisé au moins un mort lors de cette séquence à Kiev le 30 octobre 2026 à 5 h 35.\n\nEn parallèle, les forces armées ukrainiennes ont lancé une offensive aérienne en direction du territoire de la Fédération de Russie pendant la nuit de jeudi. Le ministère russe de la Défense a affirmé dans un communiqué avoir intercepté plus de 1 200 engins téléguidés ukrainiens au cours de cet épisode, selon le quotidien espagnol ABC le 29 octobre 2026 à 19 h 27. Ce chiffre représente le total le plus élevé recensé par Moscou pour une seule vague d'appareils depuis le début des opérations militaires en février 2022.\n\n## Ce que disent les sources\n\nLe nombre exact de victimes tuées à la gare de Dnipro varie selon les publications et l'heure de leur diffusion.\n\nDer Spiegel le 29 octobre 2026 à 17 h 30, El País à 19 h 08, ABC à 19 h 27, The Hindu à 20 h 24 et France 24 à 21 h 04 indiquent que l'attaque a fait au moins 13 morts.\n\nFolha de S.Paulo le 29 octobre 2026 à 16 h 01, Politico Europe à 18 h 04, la BBC à 18 h 17, Libération à 18 h 50, Al Jazeera à 22 h 03 et La Croix le 30 octobre 2026 à 0 h 22 rapportent un total d'au moins 14 morts.\n\nLe Monde mentionne pour sa part au moins 15 morts le 30 octobre 2026 à 5 h 35.\n\nLes sources ne précisent pas l'identité des personnes décédées sur le quai ni la totalité des dégâts matériels subis par les convois ferroviaires.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/drone-mata-13-em-estacao-de-trem-na-ucrania-kiev-faz-maior-ataque-a-russia.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/dnipro-ukraine-meldet-13-tote-nach-russischem-angriff-auf-bahnhof-a-4e0f8d8c-d8bf-49fe-8eba-aed180035558"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russia-attacks-ukrainian-civilians-in-several-regions-killing-dozens-within-few-hours"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/guerre-en-ukraine-au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-20261029_FRSCMJN5O5DMXEXUUOB6VH5WJU"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/rusia-derriba-1200-drones-ucrania-cifra-alta-20261029092454-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/ukraine-says-at-least-13-killed-in-russian-attack-on-train-station/article71641924.ece"
+    }
+   ],
+   "premiere_parution": "2026-10-29T06:43:42Z",
+   "suite_de": null,
+   "mots": 544,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-30-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Ursula von der Leyen défend le statut de membre associé pour le Canada",
+   "chapeau": "Les dirigeants de l'Union européenne et du Canada se sont réunis à Montréal les 29 et 30 octobre 2026 pour un sommet bilatéral. La présidente de la Commission européenne, Ursula von der Leyen, a soutenu l'idée d'un statut de membre associé pour Ottawa malgré les objections exprimées par plusieurs gouvernements européens.",
+   "corps": "La présidente de la Commission européenne a maintenu sa proposition en faveur d'un statut de membre associé pour le Canada lors des discussions tenues au Québec. Cette initiative vise à établir un rapprochement institutionnel fort sans intégration complète. Ursula von der Leyen a également employé la formule d'association sans adhésion pour décrire cette démarche.\n\nLe chancelier allemand Friedrich Merz a manifesté son désaccord avec cette dénomination. Le dirigeant allemand a préféré défendre le projet d'une alliance pour l'avenir entre les deux partenaires. Berlin et d'autres capitales européennes ont exigé le retrait de la notion de membre associé des textes officiels. Selon ces gouvernements, l'emploi de ce qualificatif pose des difficultés institutionnelles au sein des Vingt-Sept.\n\nLe Premier ministre canadien a abordé les discussions avec prudence en soulignant que les pourparlers allaient s'étendre sur plusieurs mois avant d'aboutir à une entente formelle. Les délégations cherchent à bâtir une relation privilégiée dans un contexte de coopérations stratégiques accrues entre les deux rives de l'Atlantique. António Costa a également pris part au déplacement européen dans la métropole québécoise.\n\nLes priorités sectorielles des négociations portent sur quatre dossiers essentiels. Les deux parties prévoient une augmentation des exportations de gaz liquéfié en provenance du Canada vers le marché européen. Le projet englobe un traité de coopération sur les technologies numériques. Les pourparlers concernent en outre la surveillance de la zone arctique. L'accord vise enfin à sécuriser l'approvisionnement des pays européens en minéraux critiques situés sur le sol canadien.\n\nLa forme juridique finale du partenariat suscite des désaccords persistants entre les institutions de Bruxelles et les capitales du continent européen. Plusieurs États membres rejettent tout mécanisme qui donnerait au Canada une place institutionnelle comparable à celle des pays membres. Malgré ces réticences nationales, Ursula von der Leyen a continué de défendre publiquement sa formule initiale durant les sessions de travail.\n\n## Ce que disent les sources\n\nLes sources présentent deux désignations distinctes pour le Premier ministre canadien : le journal espagnol ABC cite Mike Carney le 29 octobre 2026 à 20 h 50, tandis que le quotidien français Le Monde mentionne Mark Carney le 30 octobre 2026 à 08 h 00.\n\nLes comptes rendus divergent aussi sur le texte de conclusion du sommet. Le quotidien espagnol ABC rapporte le 29 octobre 2026 à 20 h 50 que la formule de membre associé a été conservée dans la déclaration finale. Au contraire, le journal britannique Financial Times affirme le 29 octobre 2026 à 18 h 28 que Berlin et d'autres capitales ont exigé le retrait du terme du communiqué commun, et le quotidien brésilien Folha de S.Paulo indique le 29 octobre 2026 à 22 h 27 que le Canada ne sera plus qualifié de membre associé mais recevra la mention d'une association de plus en plus étroite.\n\nLes sources ne précisent pas la liste exhaustive de tous les États membres qui contestent la proposition d'Ursula von der Leyen aux côtés de l'Allemagne.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/86a413ed-7303-40b3-a7c1-a01c92b1f738?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/ursula-von-der-leyen-associate-member-status-canada-eu-capitals-objections"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-29/eu-executive-seeks-canadian-associate-membership-despite-dissent"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/ue-canada-estudian-definir-alianza-estrategica-cercana-20261029174833-nt.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq8ezj7jylrzo"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/union-europeenne-lidee-dun-canada-membre-associe-ravive-les-tensions-entre-ursula-von-der-leyen-et-les-vingt-sept-20261029_OPYIT6SBWBAO7P2TWC7LCUVUAQ"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/disputa-na-ue-muda-nome-de-parceria-com-canada-mas-aproximacao-continua.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-28T04:00:15Z",
+   "suite_de": null,
+   "mots": 535,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-30-monde-001",
+  "2026-10-30-monde-002",
+  "2026-10-30-geopolitique-001",
+  "2026-10-30-geopolitique-002",
+  "2026-10-30-monde-003",
+  "2026-10-30-monde-004"
+ ]
+}

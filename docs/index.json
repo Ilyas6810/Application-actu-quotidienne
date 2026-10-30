@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-29T06:39:32Z",
- "derniere": "2026-10-29",
+ "maj": "2026-10-30T06:38:02Z",
+ "derniere": "2026-10-30",
  "editions": [
+  {
+   "date": "2026-10-30",
+   "genere_a": "2026-10-30T06:38:02Z",
+   "articles": 6,
+   "une": [
+    "Les partis arabes détiennent la clé du futur gouvernement israélien",
+    "La plateforme Binance subit un piratage financier de grande ampleur",
+    "Une frappe de drone russe touche la gare de Dnipro en Ukraine"
+   ],
+   "octets": 29323
+  },
   {
    "date": "2026-10-29",
    "genere_a": "2026-10-29T06:39:32Z",

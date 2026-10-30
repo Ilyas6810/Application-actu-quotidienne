@@ -1,6 +1,73 @@
 {
- "maj": "2026-10-28T20:30:45Z",
+ "maj": "2026-10-30T01:06:33Z",
  "alertes": [
+  {
+   "id": "2026-10-30-alerte-01",
+   "date": "2026-10-30",
+   "publiee_a": "2026-10-30T01:06:33Z",
+   "titre": "L'acteur britannique Patrick Stewart est mort à l'âge de 86 ans",
+   "texte": "Le comédien britannique Patrick Stewart est mort à l'âge de 86 ans à Los Angeles. Sa famille et ses proches ont annoncé sa disparition jeudi 29 octobre 2026.",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-10-29/muere-patrick-stewart-el-capitan-picard-de-star-trek-a-los-86-anos.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/spettacoli/26_ottobre_29/e-morto-patrick-stewart-il-picard-di-star-trek-01cf84f7-466f-4f0b-b40e-6d912573axlk.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/29/patrick-stewart-de-britse-acteur-die-een-franse-star-trek-kapitein-iconisch-maakte-a4940110"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c6qxnlxn0n15o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/patrick-stewart-fans-und-wegbegleiter-trauern-um-captain-jean-luc-picard-a-25743358-65a6-45e7-b64d-6e1f861f98dd"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/hugh-jackman-william-shatner-e-outros-famosos-lamentam-a-morte-de-patrick-stewart.shtml"
+    }
+   ],
+   "cluster": "3047bc9e1fe4b63e",
+   "urls": [
+    "https://aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86",
+    "https://bbc.co.uk/news/articles/cye0l23lx15o",
+    "https://bbc.co.uk/news/videos/c6qxnlxn0n15o",
+    "https://corriere.it/spettacoli/26_ottobre_29/e-morto-patrick-stewart-il-picard-di-star-trek-01cf84f7-466f-4f0b-b40e-6d912573axlk.shtml",
+    "https://dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/entretenimiento/2026-10-29/muere-patrick-stewart-el-capitan-picard-de-star-trek-a-los-86-anos.html",
+    "https://f5.folha.uol.com.br/celebridades/2026/10/hugh-jackman-william-shatner-e-outros-famosos-lamentam-a-morte-de-patrick-stewart.shtml",
+    "https://france24.com/fr/culture/20261029-acteur-patrick-stewart-c%C3%A9l%C3%A8bre-r%C3%B4les-x-men-star-trek-mort",
+    "https://franceinfo.fr/culture/cinema/l-acteur-britannique-patrick-stewart-legendaire-capitaine-picard-dans-la-serie-star-trek-est-mort-a-l-age-de-86-ans_8259416.html",
+    "https://kzyx.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
+    "https://lemonde.fr/culture/article/2026/10/29/patrick-stewart-acteur-britannique-celebre-pour-ses-roles-dans-x-men-et-star-trek-est-mort_6802388_3246.html",
+    "https://liberation.fr/culture/cinema/celebre-pour-star-trek-et-les-x-men-lacteur-patrick-stewart-meurt-a-86-ans-20261029_OOKRYOVS6JH5JM6CWEDYEWJFUI",
+    "https://npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+    "https://nrc.nl/nieuws/2026/10/29/patrick-stewart-de-britse-acteur-die-een-franse-star-trek-kapitein-iconisch-maakte-a4940110",
+    "https://rfi.fr/fr/culture/20261029-cin%C3%A9ma-l-acteur-patrick-stewart-connu-notamment-pour-ses-r%C3%B4les-dans-star-trek-et-x-men-est-mort",
+    "https://spiegel.de/kultur/patrick-stewart-fans-und-wegbegleiter-trauern-um-captain-jean-luc-picard-a-25743358-65a6-45e7-b64d-6e1f861f98dd",
+    "https://spiegel.de/kultur/tv/patrick-stewart-ist-tot-a-40ffba85-794a-45f4-b2a3-7948168155d4",
+    "https://theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+    "https://thehindu.com/entertainment/patrick-stewart-shakespearean-actor-turned-star-trek-and-x-men-star-dies-at-86/article71642350.ece",
+    "https://wboi.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
+    "https://wmuk.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
+    "https://www1.folha.uol.com.br/ilustrada/2026/10/morre-patrick-stewart-o-professor-charles-xavier-de-x-men-aos-86-anos.shtml",
+    "https://www1.folha.uol.com.br/ilustrada/2026/10/professor-xavier-em-x-men-relembre-personagens-de-patrick-stewart.shtml"
+   ]
+  },
   {
    "id": "2026-10-29-alerte-01",
    "date": "2026-10-29",
@@ -1367,141 +1434,6 @@
     "https://thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-on-october-22-killing-many/article71613335.ece",
     "https://thehindu.com/news/international/tibet-earthquake-nagqu-updates-october-22-2026/article71612585.ece",
     "https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-7-atinge-regiao-do-tibete-na-china.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-22-alerte-01",
-   "date": "2026-10-22",
-   "publiee_a": "2026-10-21T21:49:37Z",
-   "titre": "La justice condamne Meta à une amende de vingt-cinq milliards de dollars",
-   "texte": "Un magistrat du Nouveau-Mexique impose à Meta de régler 25 milliards de dollars à cet État américain, selon Deutsche Welle le 21 octobre 2026. Cette décision sanctionne l'entreprise pour avoir induit en erreur les membres du réseau social Facebook au sujet de la confidentialité de leurs données personnelles lors du dossier Cambridge Analytica.",
-   "sources": [
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/10/21/megaboete-van-25-miljard-dollar-voor-meta-om-cambridge-analytica-schandaal-a4939507"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/tec/2026/10/meta-pagara-us-25-bilhoes-ao-novo-mexico-por-enganar-usuarios-sobre-privacidade-de-dados.shtml"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/internet/reseaux-sociaux/facebook/meta-condamne-a-verser-25-milliards-de-dollars-a-l-etat-du-nouveau-mexique-apres-le-scandale-cambridge-analytica_8247793.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqdr8zxrr3dxo"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/am%C3%A9riques/20261021-meta-condamn%C3%A9-%C3%A0-payer-25-milliards-de-dollars-pour-avoir-tromp%C3%A9-des-utilisateurs-am%C3%A9ricains-de-facebook"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations"
-    }
-   ],
-   "cluster": "079a9cdff40a10e9",
-   "urls": [
-    "https://abc.es/tecnologia/condenan-meta-pagar-multa-25000-millones-enganar-20261021200808-nt.html",
-    "https://aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations",
-    "https://bbc.co.uk/news/articles/cqdr8zxrr3dxo",
-    "https://bloomberg.com/news/articles/2026-10-21/meta-to-pay-historic-25-billion-in-new-mexico-deception-case",
-    "https://corriere.it/economia/aziende/26_ottobre_21/meta-new-mexico-multa-25-miliardi-dollari-c85e12a2-b077-455d-9904-628267178xlk.shtml",
-    "https://dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
-    "https://france24.com/fr/am%C3%A9riques/20261021-meta-condamn%C3%A9-%C3%A0-payer-25-milliards-de-dollars-pour-avoir-tromp%C3%A9-des-utilisateurs-am%C3%A9ricains-de-facebook",
-    "https://franceinfo.fr/internet/reseaux-sociaux/facebook/meta-condamne-a-verser-25-milliards-de-dollars-a-l-etat-du-nouveau-mexique-apres-le-scandale-cambridge-analytica_8247793.html",
-    "https://la-croix.com/international/scandale-cambridge-analytica-le-nouveau-mexique-condamne-meta-a-lui-verser-25-milliards-de-dollars-20261021",
-    "https://lemonde.fr/international/article/2026/10/21/meta-condamne-a-verser-25-milliards-de-dollars-au-nouveau-mexique-apres-le-scandale-cambridge-analytica_6798305_3210.html",
-    "https://liberation.fr/international/amerique/affaire-cambridge-analytica-meta-condamne-a-payer-une-amende-record-de-25-milliards-de-dollars-au-nouveau-mexique-20261021_6J7JRSM3CVAFFB2FDLWAP4FUCM",
-    "https://nrc.nl/nieuws/2026/10/21/megaboete-van-25-miljard-dollar-voor-meta-om-cambridge-analytica-schandaal-a4939507",
-    "https://spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0",
-    "https://www1.folha.uol.com.br/tec/2026/10/meta-pagara-us-25-bilhoes-ao-novo-mexico-por-enganar-usuarios-sobre-privacidade-de-dados.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-22-alerte-02",
-   "date": "2026-10-22",
-   "publiee_a": "2026-10-21T21:50:08Z",
-   "titre": "Le pape Léon XIV ne requiert aucun traitement complémentaire après sa chirurgie",
-   "texte": "Le Vatican a annoncé mercredi 21 octobre 2026 que la tumeur pulmonaire du pape Léon XIV était localisée. Les résultats médicaux indiquent que l'intervention chirurgicale suffit et qu'aucune autre thérapie n'est nécessaire.",
-   "sources": [
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/cancer-do-papa-era-localizado-e-novas-terapias-nao-sao-necessarias-diz-boletim-medico.shtml"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/sociedad/hospital-gemelli-confirma-papa-necesitara-ningun-tratamiento-20261021211907-nt.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/religion/sante-du-pape-le-cancer-de-leon-xiv-etait-localise-aucun-traitement-complementaire-n-est-necessaire-20261021"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73"
-    }
-   ],
-   "cluster": "604fab05cc131a5f",
-   "urls": [
-    "https://abc.es/sociedad/hospital-gemelli-confirma-papa-necesitara-ningun-tratamiento-20261021211907-nt.html",
-    "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html",
-    "https://la-croix.com/religion/sante-du-pape-le-cancer-de-leon-xiv-etait-localise-aucun-traitement-complementaire-n-est-necessaire-20261021",
-    "https://spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73",
-    "https://www1.folha.uol.com.br/mundo/2026/10/cancer-do-papa-era-localizado-e-novas-terapias-nao-sao-necessarias-diz-boletim-medico.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-22-alerte-03",
-   "date": "2026-10-22",
-   "publiee_a": "2026-10-21T21:50:42Z",
-   "titre": "Ligue des champions : le Real Madrid bat le RB Leipzig",
-   "texte": "Le Real Madrid a battu le RB Leipzig quatre buts à un mercredi 21 octobre au stade Santiago Bernabéu. Cette rencontre comptait pour la troisième journée de la Ligue des champions.",
-   "sources": [
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-mbappe-evidemment-vinicius-de-retour-des-francais-cote-allemand-les-compos-de-real-madrid-leipzig-sont-tombees-20261021"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Lent-au-demarrage-le-real-madrid-garde-la-cadence-face-a-leipzig-en-ligue-des-champions-avec-des-buts-magnifiques-de-mbappe-et-diomande/1737627"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/10/vinicius-junior-passa-em-branco-em-goleada-do-real-madrid-sobre-o-leipzig.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/videos/c3qjnerzngkqo"
-    }
-   ],
-   "cluster": "0af6b6ca869e1659",
-   "urls": [
-    "https://bbc.co.uk/sport/football/videos/c3qjnerzngkqo",
-    "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-mbappe-evidemment-vinicius-de-retour-des-francais-cote-allemand-les-compos-de-real-madrid-leipzig-sont-tombees-20261021",
-    "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-mbappe-illumine-le-real-madrid-qui-etrille-leipzig-avant-de-defier-le-barca-de-yamal-20261021",
-    "https://lefigaro.fr/sports/football/live/ligue-des-champions/2026/2685421/real-madrid-rb-leipzig",
-    "https://lequipe.fr/Football/Actualites/Lent-au-demarrage-le-real-madrid-garde-la-cadence-face-a-leipzig-en-ligue-des-champions-avec-des-buts-magnifiques-de-mbappe-et-diomande/1737627",
-    "https://theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
-    "https://www1.folha.uol.com.br/esporte/2026/10/vinicius-junior-passa-em-branco-em-goleada-do-real-madrid-sobre-o-leipzig.shtml"
    ]
   }
  ]

@@ -1,6 +1,97 @@
 {
- "maj": "2026-10-30T01:06:33Z",
+ "maj": "2026-10-30T10:12:17Z",
  "alertes": [
+  {
+   "id": "2026-10-30-alerte-02",
+   "date": "2026-10-30",
+   "publiee_a": "2026-10-30T10:11:06Z",
+   "titre": "L'Insee annonce une baisse du PIB français au troisième trimestre 2026",
+   "texte": "L'Insee a mesuré un recul de 0,1 % de la richesse nationale au troisième trimestre, d'après les chiffres rendus publics le 30 octobre 2026. Le ministre de l'Économie Roland Lescure a déclaré le même jour à Paris que l'activité nationale est arrêtée.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261030-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt-pr%C3%A9vient-le-ministre-de-l-%C3%A9conomie-roland-lescure"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/croissance-le-pib-affiche-un-recul-de-01-au-troisieme-trimestre-20261030"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/victime-d-une-baisse-des-exportations-le-pib-recule-de-0-1-au-troisieme-trimestre-2026-en-france-selon-l-insee_8260019.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-budget-alerte-roland-lescure-20261030"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1"
+    }
+   ],
+   "cluster": "1122777022b46c32",
+   "urls": [
+    "https://france24.com/fr/france/20261030-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt-pr%C3%A9vient-le-ministre-de-l-%C3%A9conomie-roland-lescure",
+    "https://franceinfo.fr/economie/victime-d-une-baisse-des-exportations-le-pib-recule-de-0-1-au-troisieme-trimestre-2026-en-france-selon-l-insee_8260019.html",
+    "https://ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
+    "https://la-croix.com/economie/croissance-le-pib-affiche-un-recul-de-01-au-troisieme-trimestre-20261030",
+    "https://lefigaro.fr/conjoncture/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-budget-alerte-roland-lescure-20261030",
+    "https://lemonde.fr/economie/article/2026/10/30/le-pib-francais-a-recule-de-0-1-au-troisieme-trimestre-apres-avoir-stagne-au-deuxieme-trimestre-et-recule-de-0-2-au-premier_6802906_3234.html",
+    "https://lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
+    "https://liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4",
+    "https://spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1"
+   ]
+  },
+  {
+   "id": "2026-10-30-alerte-03",
+   "date": "2026-10-30",
+   "publiee_a": "2026-10-30T10:12:17Z",
+   "titre": "En Russie, le journal indépendant Novaïa Gazeta annonce son arrêt définitif",
+   "texte": "Le journal russe d'opposition Novaïa Gazeta cesse ses activités à Moscou ce vendredi 30 octobre 2026. La rédaction et son responsable Sergueï Sokolov expliquent cette fermeture par des contraintes imposées par les autorités et les services de sécurité russes.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/30/avec-l-arret-de-novaia-gazeta-la-liberte-de-la-presse-en-russie-vit-son-chant-du-cygne_6802910_3210.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/en-russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030_QYYSCOIU35ACVJF4YXLMX2SMY4"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261030-nova%C3%AFa-gazeta-cesse-d-exister-le-journal-russe-contraint-de-fermer-sous-la-pression-des-autorit%C3%A9s"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html"
+    }
+   ],
+   "cluster": "0bf78d3f4635f1f5",
+   "urls": [
+    "https://france24.com/fr/europe/20261030-nova%C3%AFa-gazeta-cesse-d-exister-le-journal-russe-contraint-de-fermer-sous-la-pression-des-autorit%C3%A9s",
+    "https://franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html",
+    "https://lefigaro.fr/international/russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030",
+    "https://lemonde.fr/international/article/2026/10/30/avec-l-arret-de-novaia-gazeta-la-liberte-de-la-presse-en-russie-vit-son-chant-du-cygne_6802910_3210.html",
+    "https://lemonde.fr/international/article/2026/10/30/ils-nous-ont-tues-les-adieux-de-la-redaction-de-novaia-gazeta-journal-russe-independant-contraint-par-les-autorites-de-cesser-son-activite_6802913_3210.html",
+    "https://liberation.fr/international/asie-pacifique/en-russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030_QYYSCOIU35ACVJF4YXLMX2SMY4"
+   ]
+  },
   {
    "id": "2026-10-30-alerte-01",
    "date": "2026-10-30",

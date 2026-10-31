@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-31",
+ "genere_a": "2026-10-31T06:36:35Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-10-31-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Israël fait face à des négociations complexes après des élections législatives disputées",
+   "chapeau": "Les résultats définitifs des élections législatives israéliennes placent la coalition du premier ministre sortant en tête sans majorité absolue à Jérusalem le vendredi 30 octobre 2026. Les partis d'opposition et les formations arabes engagent des discussions pour former un nouveau gouvernement.",
+   "corps": "La coalition sortante menée par le premier ministre Benjamin Netanyahu et son parti, le Likoud, ne dispose plus de la majorité absolue au parlement après le dépouillement complet des bulletins de vote. Benjamin Netanyahu a contesté les résultats et accusé les partis arabes israéliens de fraude électorale à la suite de la perte de sa majorité parlementaire.\n\nSelon Bloomberg le 29 octobre 2026 et The Straits Times le 30 octobre 2026, le bloc mené par Benjamin Netanyahu rassemble 53 sièges sur les 120 de la Knesset. La formation d'opposition dirigée par Gadi Eisenkot obtient 48 sièges, d'après Bloomberg le 29 octobre 2026 et Deutsche Welle le 30 octobre 2026. Aucun groupe n'atteint le seuil de 61 députés nécessaire pour gouverner seul.\n\nLes formations politiques arabes israéliennes ont obtenu un nombre record de députés lors du scrutin du mardi 27 octobre 2026, selon Folha de S.Paulo le 30 octobre 2026. Cette progression place ces partis dans une position décisive pour la constitution de la future majorité parlementaire.\n\nÀ la suite de ce résultat, la direction du Likoud reproche aux partis arabes d'avoir bénéficié de financements venus de l'extérieur. BBC News indique le 30 octobre 2026 que le parti sortant dénonce une ingérence étrangère et affirme que ces mouvements ont volé l'élection. De son côté, Al Jazeera précise le 30 octobre 2026 que le chef du gouvernement attribue ces fraudes supposées à des soutiens financiers internationaux versés aux listes arabes.\n\nL'opposition rejette fermement ces déclarations. Selon BBC News le 30 octobre 2026, les dirigeants de l'opposition accusent le premier ministre de chercher à délégitimer l'élection et les institutions démocratiques. Le quotidien Haaretz rapporte le 30 octobre 2026 que ces accusations visent à exclure les élus arabes des alliances gouvernementales en construction et à remettre en cause le droit de vote des citoyens arabes d'Israël.\n\nLes partis de l'opposition et les représentants de la minorité arabe doivent négocier une entente pour obtenir le contrôle du gouvernement. Le journal NRC explique le 31 octobre 2026 que ces mouvements ont intérêt à collaborer rapidement pour empécher le maintien au pouvoir de l'actuel premier ministre. Le quotidien The Guardian souligne le 30 octobre 2026 les interrogations des responsables israéliens sur la possibilité de construire une alliance stable entre les partis juifs d'opposition et les formations palestiniennes d'Israël.\n\nLe processus institutionnel suit un calendrier précis. D'après The Hindu le 31 octobre 2026, les résultats officiels des élections doivent recevoir une certification formelle avant d'être transmis au président de l'État d'Israël le mercredi 4 novembre 2026. Le chef de l'État désignera ensuite le député chargé de composer le prochain gouvernement.\n\nÀ l'étranger, les évolutions politiques israéliennes suscitent des réactions de la part des partenaires internationaux. Le magazine Der Spiegel indique le 29 octobre 2026 que le gouvernement allemand dirigé par Friedrich Merz doit fixer des limites claires et réévaluer sa position diplomatique si l'actuelle coalition se maintient au pouvoir.\n\nLes sources ne précisent pas l'identité exacte du député que le président israélien choisira d'investir en premier pour mener les négociations officielles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/israel-welche-konsequenzen-deutschland-aus-dem-wahlerfolg-von-benjamin-netanyahu-ziehen-muss-a-387cc9ee-c543-457f-ab39-ac7790d4da09"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-29/netanyahu-s-likud-led-bloc-garners-most-seats-in-israel-election"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/partidos-arabes-batem-recorde-em-israel-e-podem-decidir-futuro-de-netanyahu.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/netanyahu-bloc-finishes-in-lead-but-short-of-majority-official-results"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/opinion/editorial/2026-10-30/ty-article/netanyahu-is-making-arab-israelis-right-to-vote-a-crime/000001a1-8c8d-dd01-a9ed-afafd81e0000"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckdd8qdl9e0eo"
+    }
+   ],
+   "premiere_parution": "2026-10-28T17:26:11Z",
+   "suite_de": "2026-10-30-monde-003",
+   "mots": 545,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-31-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Christa Pike décrit des souffrances continues après une tentative d'exécution au Tennessee",
+   "chapeau": "La détenue américaine Christa Pike s'est exprimée publiquement vendredi 30 octobre 2026 depuis sa prison du Tennessee. Elle a rapporté des douleurs persistantes un mois après avoir survécu à une injection létale.",
+   "corps": "Christa Pike a transmis ses premières déclarations par l'intermédiaire de ses avocats le 30 octobre 2026. La prisonnière de 50 ans, selon un article d'Al Jazeera paru le 31 octobre 2026 à 07h42, a indiqué ressentir une souffrance physique et morale ininterrompue depuis le 30 septembre 2026. Ce jour-là, l'administration pénitentiaire du Tennessee a tenté de lui appliquer la peine de mort par injection létale sans parvenir à provoquer son décès.\n\nLes autorités avaient administré deux doses de pentobarbital lors de cette procédure, selon des informations publiées par The Hindu le 30 octobre 2026 à 18h33 et The Straits Times à 21h51 le même jour. Le pentobarbital est un puissant sédatif utilisé comme anesthésique. La détenue a survécu à l'action de cette substance chimique. Les raisons techniques et médicales de la survie de la condamnée restent pour l'instant inexpliquées.\n\nDans le texte dicté à son équipe juridique, Christa Pike a déclaré s'être réveillée confuse et prise de maux corporels au début du mois d'octobre 2026. Elle a affirmé qu'aucun moment d'apaisement n'a suivi cette nuit-là. La détenue a précisé que les souffrances touchent son corps mais aussi son esprit et son âme. Elle a mentionné sa préparation préalable à la mort avant de pointer les défaillances de l'équipe chargée de la procédure d'exécution.\n\nChrista Pike est actuellement détenue à l'isolement cellulaire presque total au sein du centre pénitentiaire. Dans sa déclaration écrite, la prisonnière a également exprimé sa reconnaissance envers les personnes qui continuent de lui apporter leur soutien. Elle a affirmé chercher un sens à son expérience et à sa survie après cette tentative avortée.\n\nLa justice américaine avait prononcé la condamnation de Christa Pike en 1996 pour l'assassinat à l'arme blanche de sa camarade d'école Colleen Slemmer, commis en 1995. Les conseils juridiques de la prisonnière demandent une réduction de sa peine capitale en une réclusion criminelle à perpétuité. En réponse aux événements survenus le 30 septembre 2026, le gouverneur de l'État du Tennessee a ordonné une enquête officielle sur la procédure.\n\nCette situation a rouvert le débat public aux États-Unis sur la pratique de la peine de mort et sur l'usage des injections chimiques. L'avenir judiciaire de Christa Pike demeure indéterminé à ce stade.\n\nLe rapport officiel détaillant les causes médicales de l'échec de la double injection létale n'a pas encore été rendu public.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/christa-pike-says-she-feels-constant-pain-in-her-first-statement-since-failed-tennessee-execution/article71645818.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_30/christa-pike-parla-esecuzione-fallita-52fcb722-68e1-4b8b-9e4f-f1b8f6db9xlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/christa-pike-nach-gescheitertem-hinrichtungsversuch-mein-koerper-schmerzt-a-28365bab-8e1c-415f-afe1-a3c16de642f6"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/meu-corpo-doi-diz-christa-pike-em-1a-fala-apos-sobreviver-a-injecao-letal.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck62ydn7dj9eo"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/je-cherche-du-sens-derriere-ce-qui-mest-arrive-christa-pike-sexprime-pour-la-premiere-fois-apres-avoir-survecu-a-son-execution-20261030_QOKZABVSZRA5DLLLQ2Y6JKOLEY"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-woman-who-survived-botched-execution-says-shes-in-constant-pain"
+    }
+   ],
+   "premiere_parution": "2026-10-30T14:19:56Z",
+   "suite_de": null,
+   "mots": 419,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-10-31-economie-001",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Binance cherche à récupérer 6,3 milliards de dollars après le vol du 29 octobre",
+   "chapeau": "La plateforme d'échange de cryptomonnaies Binance s'efforce de récupérer 6,3 milliards de dollars dérobés lors d'une cyberattaque survenue le jeudi 29 octobre 2026. L'entreprise collabore avec les forces de l'ordre et prévoit de réautoriser les retraits d'ici le dimanche 1er novembre 2026.",
+   "corps": "À la suite de l'intrusion informatique signalée le 29 octobre 2026, l'entreprise Binance s'active pour réparer ses systèmes et restaurer ses fonctionnalités. La plateforme a indiqué qu'elle prendrait en charge l'ensemble des pertes financières subies par ses utilisateurs.\n\nLe montant des actifs touchés s'élève à 6,3 milliards de dollars. Selon les informations publiées par RFI le 30 octobre 2026, les émetteurs d'actifs numériques adossés à des monnaies traditionnelles ont bloqué environ la moitié des sommes volées, soit près de 3 milliards de dollars gelés selon Bloomberg le 30 octobre 2026. La majeure partie de l'opération d'extraction s'est déroulée dans un intervalle de vingt à trente minutes.\n\nPlusieurs analyses et observateurs lient cette attaque informatique à des cybercriminels issus de Corée du Nord. D'après des analystes cités par The Guardian le 30 octobre 2026, l'intrusion initiale pourrait provenir du piratage de l'ordinateur portable d'un ingénieur de la plateforme.\n\nBinance réalise actuellement une refonte de ses dispositifs de sécurité. L'entreprise prévoit une reprise progressive des opérations de retrait de fonds d'ici le dimanche 1er novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20261030-cyberattaque-contre-la-plateforme-de-cryptomonnaies-binance-le-march%C3%A9-reste-assez-serein-pour-l-instant"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-10-30/binance-s-6-3b-cyber-heist-shows-crypto-vulnerabilities-video"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-victime-d-une-cyberattaque-de-grande-ampleur_8260508.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/cyberattaque-contre-binance-la-plateforme-peut-elle-survivre-financierement-au-plus-grand-piratage-de-l-histoire-des-cryptomonnaies-20261030"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/economie-numerique/la-plateforme-de-cryptomonnaies-binance-victime-dune-cyberattaque-estimee-a-63-milliards-de-dollars-20261030_WUZFAQCH4BFMZJ7MAMHHM7F2AA"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/10/o-que-ja-se-sabe-sobre-o-ataque-que-roubou-us-63-bilhoes-da-binance.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwe8lp7zy07zo"
+    }
+   ],
+   "premiere_parution": "2026-10-30T00:00:00Z",
+   "suite_de": "2026-10-30-monde-002",
+   "mots": 218,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-10-31-economie-001",
+  "2026-10-31-monde-001",
+  "2026-10-31-monde-002"
+ ]
+}

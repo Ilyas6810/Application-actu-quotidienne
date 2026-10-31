@@ -1,6 +1,112 @@
 {
- "maj": "2026-10-30T22:27:23Z",
+ "maj": "2026-10-31T19:33:50Z",
  "alertes": [
+  {
+   "id": "2026-10-31-alerte-02",
+   "date": "2026-10-31",
+   "publiee_a": "2026-10-31T19:25:10Z",
+   "titre": "Des centaines de milliers de manifestants ont défilé en France samedi",
+   "texte": "Plusieurs centaines de milliers de personnes ont protesté contre le coût de la vie et la situation scolaire ce samedi 31 octobre dans plusieurs villes de France. Les autorités dénombrent 320 000 participants et près de 300 interpellations, tandis que les organisateurs annoncent environ 500 000 manifestants.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/manifestations/ca-depasse-les-bornes-les-retraites-solidaires-de-la-mobilisation_8262005.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/france-youth-protests-cost-of-living-spread-europe"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-10-31/mas-de-300000-franceses-salen-a-la-calle-por-tercer-fin-de-semana-para-protestar-por-el-coste-de-la-vida.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/francia-contiene-disturbios-tercer-acto-protestas-300-20261031192903-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9"
+    }
+   ],
+   "cluster": "a5ad25cb82bfa7b3",
+   "urls": [
+    "https://2news.com/news/national/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article_0250e256-42e4-5ad8-be59-ffa059b6c88d.html",
+    "https://abc.es/internacional/francia-contiene-disturbios-tercer-acto-protestas-300-20261031192903-nt.html",
+    "https://aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france",
+    "https://bloomberg.com/news/features/2026-10-30/france-protests-who-is-on-the-streets-and-what-do-they-want",
+    "https://dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-10-31/mas-de-300000-franceses-salen-a-la-calle-por-tercer-fin-de-semana-para-protestar-por-el-coste-de-la-vida.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_31?evenement=87310b1367",
+    "https://france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+    "https://franceinfo.fr/societe/manifestations/ca-depasse-les-bornes-les-retraites-solidaires-de-la-mobilisation_8262005.html",
+    "https://impartialreporter.com/news/national/26687375.third-weekend-protests-france-youth-led-rallies-sweep-europe",
+    "https://messengernewspapers.co.uk/news/national/26687375.third-weekend-protests-france-youth-led-rallies-sweep-europe",
+    "https://politico.eu/article/france-youth-protests-cost-of-living-spread-europe",
+    "https://spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9",
+    "https://theglobeandmail.com/world/article-france-protests-paris-macron-october-31",
+    "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml"
+   ]
+  },
+  {
+   "id": "2026-10-31-alerte-03",
+   "date": "2026-10-31",
+   "publiee_a": "2026-10-31T19:33:50Z",
+   "titre": "L'ambassade américaine alerte sur un risque d'attentat à Moscou",
+   "texte": "L'ambassade des États-Unis en Russie a signalé samedi 31 octobre 2026 une menace crédible d'attaque visant le musée de Tsaritsyno à Moscou. Les services de sécurité russes ont déclaré appliquer les mesures nécessaires après avoir reçu cet avertissement.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/fsb-says-us-warned-russia-of-possible-moscow-attack"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/russias-fsb-says-us-warned-russia-of-possible-moscow-attack/article71650748.ece"
+    }
+   ],
+   "cluster": "1839fe9b9838bc4c",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum",
+    "https://franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html",
+    "https://lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031",
+    "https://lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html",
+    "https://spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942",
+    "https://straitstimes.com/world/europe/fsb-says-us-warned-russia-of-possible-moscow-attack",
+    "https://thehindu.com/news/international/russias-fsb-says-us-warned-russia-of-possible-moscow-attack/article71650748.ece"
+   ]
+  },
   {
    "id": "2026-10-31-alerte-01",
    "date": "2026-10-31",

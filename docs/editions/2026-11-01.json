@@ -1,0 +1,438 @@
+{
+ "date": "2026-11-01",
+ "genere_a": "2026-11-01T07:00:16Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-01-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La Corée du Nord accusée d'un vol chez Binance",
+   "chapeau": "Le Bureau fédéral d'enquête américain désigne le 1er novembre 2026 un groupe nord-coréen comme responsable du détournement d'actifs chez Binance. L'entreprise indique remplacer une grande partie des fonds dérobés le 29 octobre 2026.",
+   "corps": "La plateforme Binance a subi le 29 octobre 2026 un détournement évalué à 6,3 milliards de dollars américains selon l'entreprise citée par Reuters le 30 octobre 2026 à 14h01.\n\nLe Bureau fédéral d'enquête des États-Unis attribue cette intrusion informatique au groupe TraderTraitor parrainé par la Corée du Nord. L'agence américaine lie cette opération à des agissements malveillants antérieurs menés par cette même entité selon Deutsche Welle le 1er novembre 2026 à 05h53. Deux sociétés d'analyse spécialisées déclarent disposer de renseignements solides orientant vers une formation soutenue par l'État nord-coréen selon la BBC le 1er novembre 2026 à 02h11.\n\nLa méthode employée par le groupe TraderTraitor repose notamment sur l'usurpation de profils de recruteurs. Ces faux recruteurs proposent des emplois bien rémunérés pour inciter les victimes ciblées à installer des logiciels malveillants selon The Straits Times le 1er novembre 2026 à 07h23. Selon Reuters le 30 octobre 2026 à 14h01, l'attaque ayant visé Binance s'est appuyée sur un ordinateur portable compromis au sein de la structure.\n\nBinance indique avoir remplacé 90 pour cent des montants subtilisés selon The Guardian le 1er novembre 2026 à 06h41. L'entreprise explique dans un message publié sur le réseau social X le 31 octobre 2026 que les 10 pour cent restants concernent des jetons moins liquides. Le rachat de ces actifs particuliers pourrait prendre plus de temps en raison de leur faible disponibilité. La société maintient son intention de rouvrir les demandes de retrait au cours de la journée du 1er novembre 2026 selon la même source.\n\nFace à ces événements, plusieurs bourses de devises numériques procèdent au renforcement de leurs dispositifs de sécurité selon le Financial Times le 1er novembre 2026 à 08h24. Le groupe TraderTraitor s'était déjà emparé de 1,5 milliard de dollars américains lors d'une cyberattaque contre la plateforme Bybit l'an passé selon les déclarations du FBI rapportées par Deutsche Welle le 1er novembre 2026 à 05h53.\n\nLa réaction officielle des autorités nord-coréennes à ces accusations n'est pas précisée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/binance-hacker-erbeuten-6-3-milliarden-dollar-in-digitalwaehrungen-a-ef295845-9c6f-46fb-acba-20d98b45c5b4"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/legal/transactional/tether-circle-freeze-238-billion-after-binance-reports-security-incident-2026-10-29"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-30T00:00:00Z",
+   "suite_de": "2026-10-31-economie-001",
+   "mots": 361,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La justice rejette la poursuite de Donald Trump contre le Wall Street Journal",
+   "chapeau": "Un magistrat américain a annulé samedi 31 octobre l'action en justice de Donald Trump contre le quotidien The Wall Street Journal. Le litige concernait la divulgation par le journal d'un courrier présumé adressé en 2003 au financier Jeffrey Epstein.",
+   "corps": "Le magistrat Darrin P. Gayles a classé de manière définitive la plainte déposée par Donald Trump. Cette procédure visait le titre The Wall Street Journal ainsi que l'homme d'affaires Rupert Murdoch.\n\nDonald Trump demandait une réparation de 10 milliards de dollars, selon les données de Bloomberg publiées le 1er novembre 2026 à 00h23. La décision de justice interdit tout nouveau dépôt de ce dossier par le plaignant.\n\nLe litige découle d'un texte paru en juillet 2025, d'après les indications fournies par The Hindu le 1er novembre 2026 à 09h21. Cet article de presse décrivait un mot rédigé pour l'anniversaire de Jeffrey Epstein. Le texte mentionnait la présence d'une esquisse représentant un corps féminin dénudé.\n\nLe requérant affirmait que cette publication portait atteinte à son honneur. Donald Trump accusait les journalistes d'avoir propagé des mensonges sur ses relations passées avec le criminel sexuel.\n\nLe tribunal a estimé que le plaignant s'accrochait à des arguments sans consistance. La justice américaine applique ici la notion juridique d'intention de nuire, qui désigne la volonté délibérée de publier une fausseté. Selon la décision, cette preuve matérielle fait défaut dans la démarche de Donald Trump.\n\nLe juge a souligné que l'équipe de rédaction a conduit son enquête avec sérieux. Les journalistes ont agi avec bonne foi lors de la diffusion de ces éléments. Le tribunal ne s'est pas prononcé sur la réalité matérielle de la signature apposée sur ce message datant de 2003.\n\nCe verdict constitue la deuxième décision défavorable rendue contre cette réclamation. Donald Trump avait déjà formulé un premier recours similaire devant la justice, qui avait abouti à une fin de non-recevoir.\n\nL'administration de la justice met ainsi un terme définitif à cette procédure financière engagée par le président républicain.\n\nLes sources ne précisent pas la réaction immédiate de Donald Trump ni celle des avocats du Wall Street Journal.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/wsj-wins-dismissal-of-trump-s-10-billion-defamation-suit"
+    },
+    {
+     "nom": "messengernewspapers.co.uk",
+     "url": "https://messengernewspapers.co.uk/news/national/26687622.trump-lawsuit-wall-street-journal-epstein-birthday-letter-rejected"
+    },
+    {
+     "nom": "wlky.com",
+     "url": "https://wlky.com/article/trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter-is-dismissed-with-prejudice/74303336"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261031-affaire-epstein-la-justice-am%C3%A9ricaine-rejette-une-plainte-de-trump-contre-le-wall-street-journal"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-und-die-jeffrey-epstein-files-gericht-stoppt-klage-gegen-zeitung-a-e1ce2fc6-447c-4034-ae98-d34fcc6eec5b"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-10-31T20:23:45Z",
+   "suite_de": null,
+   "mots": 344,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Manifestations en France contre le coût de la vie et l'école",
+   "chapeau": "Des cortèges ont réuni plusieurs centaines de milliers de personnes en France le samedi 31 octobre 2026. Les participants ont défilé pour contester le renchérissement du quotidien et dénoncer la dégradation du système éducatif.",
+   "corps": "Ce samedi 31 octobre 2026 a marqué la troisième fin de semaine consécutive de rassemblements en France. Le ministère de l'Intérieur a comptabilisé 320 000 participants sur l'ensemble du territoire national selon un décompte rendu public le 31 octobre 2026 à 09h53 par France 24. Les cortèges parisiens ont rassemblé à eux seuls 70 000 personnes d'après les indications fournies à la presse par le ministère de l'Intérieur le 31 octobre 2026 à 10h45 d'après messengernewspapers.co.uk.\n\nLes manifestants ont axé leurs revendications sur la hausse générale des prix, le niveau de vie, l'état matériel des établissements scolaires et les services publics. La jeunesse constitue une part motrice de ces rassemblements qui trouvent également des échos dans d'autres agglomérations en Europe.\n\nPour encadrer ces défilés, le gouvernement français a mobilisé 70 000 policiers et gendarmes sur le terrain. Le ministre de l'Intérieur Laurent Nuñez a publiquement mis en garde contre un risque d'affrontements très élevé. À Paris, les autorités de l'État ont bloqué les accès à la place de la République et ont imposé un changement de trajectoire du défilé vers la périphérie de la capitale.\n\nDes tensions ont éclaté en fin de cortège au crépuscule. Des heurts ont opposé des manifestants aux agents de sécurité dans plusieurs villes, notamment à Paris. Les forces de l'ordre ont employé des gaz lacrymogènes pour disperser la foule. Un agent des forces de l'ordre a subi le jet d'un cocktail Molotov, une bouteille remplie de liquide inflammable. Deutsche Welle a rapporté le 31 octobre 2026 à 22h49 plus de 290 interpellations menées par les forces de sécurité.\n\n## Ce que disent les sources\n\nLe ministère de l'Intérieur a évalué à 320 000 le total des participants dans l'Hexagone selon les données publiées le 31 octobre 2026 à 09h53 par France 24. De leur côté, les syndicats de jeunesse ont affirmé lors de la même journée avoir réuni près d'un demi-million de manifestants.\n\nLes sources ne précisent pas le bilan médical des blessés parmi les forces de l'ordre ou les participants.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/features/2026-10-30/france-protests-who-is-on-the-streets-and-what-do-they-want"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
+    },
+    {
+     "nom": "messengernewspapers.co.uk",
+     "url": "https://messengernewspapers.co.uk/news/national/26687375.third-weekend-protests-france-youth-led-rallies-sweep-europe"
+    },
+    {
+     "nom": "2news.com",
+     "url": "https://2news.com/news/national/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article_0250e256-42e4-5ad8-be59-ffa059b6c88d.html"
+    },
+    {
+     "nom": "theglobeandmail.com",
+     "url": "https://theglobeandmail.com/world/article-france-protests-paris-macron-october-31"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/halloween-costumes-heavy-security-as-thousands-take-to-frances-streets"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/france-youth-protests-cost-of-living-spread-europe"
+    },
+    {
+     "nom": "10news.com",
+     "url": "https://10news.com/world/europe/french-protesters-defy-heavy-police-presence-in-new-demonstrations"
+    }
+   ],
+   "premiere_parution": "2026-10-30T15:00:51Z",
+   "suite_de": null,
+   "mots": 371,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Jensen Huang patron de Nvidia visé par une suspicion d espionnage chinois",
+   "chapeau": "Les services de renseignement des États-Unis soupçonnent une dirigeante d'entreprise basée à Singapour d'avoir espionné le directeur général de Nvidia pour le compte de la Chine. Le journal The New York Times a révélé cette affaire le 29 octobre 2026 à Washington.",
+   "corps": "Selon les informations divulguées par le New York Times le 29 octobre 2026, les agences de renseignement américaines estiment qu'Alice Huang, également appelée Huang Le, a ciblé le chef d'entreprise Jensen Huang. Alice Huang exerce comme cadre au sein de Megaspeed, une entreprise de centres de données installée à Singapour. Elle n'a aucun lien de parenté avec le dirigeant de Nvidia, la société américaine qui conçoit des puces pour l'intelligence artificielle.\n\nLes autorités américaines suspectaient déjà cette responsable d'avoir fait passer des processeurs vers la Chine en contournant les interdictions d'exportation. Le journal indique qu'elle a entretenu des relations professionnelles et personnelles avec Jensen Huang afin de transmettre des informations confidentielles au gouvernement chinois. Le président américain Donald Trump a été informé de la situation par ses services de renseignement.\n\nJensen Huang a déclaré le 29 octobre 2026 que les transactions entre Nvidia et la société Megaspeed étaient ordinaires. Le dirigeant a précisé que son entreprise effectuait des vérifications pour empêcher la livraison illégale de puces d'intelligence artificielle vers le territoire chinois.\n\nLe gouvernement chinois rejette l'ensemble des accusations d'espionnage concernant le patron de Nvidia. De son côté, Donald Trump a déclaré le 1er novembre 2026 que les États-Unis examinaient attentivement le rapport d'espionnage, tout en qualifiant Jensen Huang de personne brillante.\n\n## Ce que disent les sources\n\nLe journal New York Times et Ars Technica affirment que Donald Trump a choisi de n'entreprendre aucune action après avoir reçu les rapports du renseignement américain, afin de protéger le cours de l'action de Nvidia. À l'opposé, The Straits Times rapporte le 1er novembre 2026 que Donald Trump affirme que son administration étudie l'affaire de près.\n\nLe niveau d'accès réel d'Alice Huang aux secrets industriels de Nvidia reste inconnu.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_ottobre_29/jensen-huang-il-boss-di-nvidia-spiato-da-un-agente-cinese-e-trump-sapeva-069083d9-9f58-4c61-9937-fe8f1027dxlk.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/le-patron-de-nvidia-au-coeur-d-une-affaire-d-espionnage-presume-au-profit-de-la-chine-20261029"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/nvidia-chief-jensen-huang-seen-as-target-of-chinese-spy-plot"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/tecnologia/2026-10-30/la-amistad-de-jensen-huang-jefe-de-nvidia-con-una-presunta-agente-china-dispara-las-alarmas-sobre-el-espionaje-en-el-mundo-de-la-ia.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckgj9plnlxdeo"
+    }
+   ],
+   "premiere_parution": "2026-10-29T13:02:17Z",
+   "suite_de": null,
+   "mots": 328,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les États-Unis alarment la Russie sur un risque d'attentat à Moscou",
+   "chapeau": "L'ambassade des États-Unis en Russie a signalé un risque d'attaque visant le domaine de Tsaritsyno à Moscou le samedi 31 octobre 2026. La représentation diplomatique américaine et les services de sécurité russes ont collaboré pour faire face à ce projet d'attentat.",
+   "corps": "L'ambassade américaine à Moscou a diffusé une alerte concernant un risque important de blessés ou de morts sur le site du musée-réserve de Tsaritsyno. Cet établissement culturel se situe dans un parc impérial dans le secteur sud de la capitale russe. La représentation diplomatique des États-Unis a recommandé d'éviter cette zone et a transmis ses données aux institutions locales.\n\nLa représentation diplomatique de l'Allemagne en Russie a également diffusé une mise en garde auprès du public. Le Service fédéral de sécurité de la Fédération de Russie (FSB) a confirmé la réception d'éléments d'information transmis par les services américains via leurs canaux habituels de liaison. Les forces de sécurité russes ont alors fait dévacuer et ont sécurisé le périmètre du parc pour prévenir tout incident.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum"
+    },
+    {
+     "nom": "lrt.lt",
+     "url": "https://lrt.lt/naujienos/pasaulyje/6/3099098/jav-ambasada-maskvoje-ispeja-apie-rengiama-teroristini-ispuoli-caricyno-muziejuje"
+    },
+    {
+     "nom": "wwmt.com",
+     "url": "https://wwmt.com/news/nation-world/us-embassy-warns-of-credible-threat-of-a-mass-casualty-event-at-moscow-museum-tsaritsyno-museum-reserve-halloween-alert-warning-russia"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/fsb-says-us-warned-russia-of-possible-moscow-attack"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html"
+    }
+   ],
+   "premiere_parution": "2026-10-31T15:21:23Z",
+   "suite_de": null,
+   "mots": 165,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des centaines d'habitants d'Olechkiv évacués vers le territoire ukrainien",
+   "chapeau": "Plusieurs centaines d'habitants de la ville occupée d'Olechkiv ont rejoint le territoire sous contrôle ukrainien le 31 octobre 2026. Cette opération d'évacuation civile a eu lieu grâce à une trêve locale négociée entre les belligérants.",
+   "corps": "Une trêve temporaire a permis la mise en place d'un couloir de transport civil hors de la ville d'Olechkiv. Cette localité du sud de l'Ukraine se trouve sous occupation des forces armées russes depuis l'année 2022. Les personnes évacuées ont voyagé à bord de bus et d'ambulances pour traverser la frontière de la Biélorussie vers l'Ukraine.\n\nL'accord de cessez-le-feu a duré six jours selon les précisions publiées le 31 octobre 2026 à 13h46 par The Straits Times. La médiation a mobilisé la Première dame des États-Unis, Melania Trump, avec l'appui du pape. Les autorités locales et les organisations humanitaires ont organisé ce passage après de longues négociations entre Moscou et Kiev.\n\nLes civils arrivés en zone ukrainienne ont retrouvé des membres de leurs familles après des années d'éloignement. Des habitants de villages frontaliers ont agité des drapeaux nationaux le long des routes lors du passage des convois. Les structures de secours ont pris en charge les personnes les plus affaiblies dès leur descente des véhicules.\n\nLa situation matérielle à Olechkiv s'était dégradée au fil des mois précédents. Les civils piégés dans la zone urbaine manquaient de denrées alimentaires, d'eau courante et d'électricité. Certains résidents ont dû consommer des herbes sauvages de jardin pour se nourrir, d'après les témoignages recueillis le 31 octobre 2026 à 21h53 par BBC News. Un groupe de civils a néanmoins fait le choix de rester sur place malgré l'ouverture de ce corridor humanitaire, d'après Al Jazeera le 1er novembre 2026 à 07h37.\n\nEn parallèle de cette opération civile, l'armée ukrainienne a déclaré avoir touché une usine russe de carburant pour fusées, comme le rapporte Deutsche Welle le 31 octobre 2026 à 19h47.\n\nLe nombre total exact de civils évacués lors de cette mission humanitaire n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/residents-of-russian-controlled-ukrainian-town-arrive-in-belarus"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/oleschky-fluechtlinge-sind-wieder-in-der-ukraine-a-84c2759e-6b0b-419a-87e9-ab0b2e5ff5a7"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/refugees-from-ukraine-s-besieged-oleshky-are-returned-to-safety"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cmy83w0jwznpo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+    }
+   ],
+   "premiere_parution": "2026-10-30T04:36:22Z",
+   "suite_de": null,
+   "mots": 329,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'Iran menace les États-Unis et Israël de ripostes sans limite géographique",
+   "chapeau": "Le guide suprême iranien Mojtaba Khamenei a ordonné le 31 octobre 2026 à ses chefs militaires d'élever le niveau de préparation face aux États-Unis et à Israël. Cette directive survient alors que des médiateurs qataris tentent de négocier un apaisement entre Téhéran et Washington.",
+   "corps": "Le dirigeant de la République islamique d'Iran a donné des instructions directes à son commandement militaire le 31 octobre 2026. Mojtaba Khamenei exige une réaction immédiate et efficace en cas d'offensive extérieure. Le pouvoir iranien précise que sa réponse ne connaîtra aucune frontière géographique si le territoire national subit de nouvelles frappes.\n\nCette mise en garde s'adresse conjointement aux forces armées américaines et israéliennes. Les autorités de Téhéran réagissent aux options militaires que la Maison-Blanche continue d'examiner. L'armée iranienne doit élargir la gamme de ses projets de représailles selon les consignes édictées par le sommet de l'État.\n\nEn parallèle de ces directives militaires, des discussions diplomatiques se poursuivent. Le ministre iranien des Affaires étrangères a fait part d'avancées dans les pourparlers selon des données publiées le 31 octobre 2026 à 15 heures 49. L'État du Qatar mène une médiation entre les parties pour éviter un nouveau cycle de bombardements.\n\nLe président des États-Unis Donald Trump s'est exprimé sur la conduite des opérations militaires. Le chef d'État américain affirme que son pays ne presse pas la fin des hostilités. Donald Trump qualifie le conflit d'affrontement atypique. Il déclare que les autorités iraniennes ne versent plus les soldes de leurs militaires ni les traitements de leurs policiers.\n\nLe président américain confirme l'existence de contacts diplomatiques réguliers. Il indique que les représentants iraniens cherchent à dialoguer de manière continue. Donald Trump précise néanmoins que l'armée américaine conserve une ou deux cibles identifiées sur le sol iranien d'après des déclarations diffusées le 1er novembre 2026 à 8 heures 20.\n\nLes avertissements de Téhéran ont été relayés par les médias d'État iraniens. Le commandement militaire de la République islamique doit appliquer une doctrine de riposte systématique à chaque niveau de menace. Les plans stratégiques intègrent désormais des interventions hors du cadre régional habituel en cas d'agression directe.\n\nLa médiation qatarie cherche à obtenir un engagement de non-agression entre les belligérants. Les négociateurs tentent de stopper la planification de nouvelles campagnes de bombardements américaines et israéliennes. Les représentants iraniens lient l'arrêt des préparatifs militaires aux garanties obtenues durant les échanges à Doha.\n\nLa diplomatie iranienne maintient deux lignes d'action simultanées. D'un côté, les diplomates poursuivent les discussions avec les intermédiaires internationaux. De l'autre côté, l'état-major prépare des actions offensives étendues sur le plan géographique.\n\nDonald Trump n'a pas précisé la nature des deux cibles iraniennes encore visées par les forces américaines. Le gouvernement américain n'a pas publié le calendrier de ses futures décisions militaires. Les détails exacts des propositions transmises par la médiation qatarie ne sont pas connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/iran-s-khamenei-orders-military-to-expand-us-retaliation-plans"
+    },
+    {
+     "nom": "laosnews.net",
+     "url": "https://laosnews.net/news/279406024/not-a-typical-war-says-trump-mojtaba-khamenei-orders-unrestricted-geographical-response-if-iran-attacked-amid-attempts-at-negotiation"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece"
+    },
+    {
+     "nom": "cbs4local.com",
+     "url": "https://cbs4local.com/news/nation-world/irans-leader-threatens-retaliation-without-limits-as-trump-weighs-new-strikes"
+    }
+   ],
+   "premiere_parution": "2026-10-31T11:01:27Z",
+   "suite_de": null,
+   "mots": 466,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-01-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Andy Burnham envisage des excuses britanniques pour la traite des esclaves",
+   "chapeau": "Le Premier ministre britannique Andy Burnham s'est déclaré favorable à des excuses officielles pour la traite transatlantique des esclaves. Il a formulé cette position dans une tribune publiée par The Guardian avant le sommet du Commonwealth prévu à Antigua-et-Barbuda.",
+   "corps": "Andy Burnham a estimé que le Royaume-Uni doit faire face à ses actions passées dans le commerce des esclaves. Le chef du gouvernement rejette en revanche tout versement de compensations financières aux descendants des victimes. Selon lui, la population britannique actuelle ne porte pas la responsabilité de ces actes anciens et les indemnités financières ne constituent pas une solution appropriée.\n\nCette prise de position intervient avant une rencontre des dirigeants du Commonwealth dans les Caraïbes. Les nations caribéennes demandent de longue date des réparations financières pour les préjudices subis. Des réactions diverses ont accueilli cette annonce. En Inde, Shashi Tharoor a qualifié d'inexcusable l'absence de mention du colonialisme dans les déclarations du Premier ministre britannique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/10/31/premier-burnham-vk-mogelijk-wel-excuses-voor-slavernij-maar-geen-herstelbetalingen-a4940199"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/andy-burnham-open-to-formal-apology-for-britain-slave-trade"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/10/31/au-royaume-uni-le-premier-ministre-andy-burnham-se-dit-ouvert-a-des-excuses-officielles-a-propos-de-l-esclavage_6803603_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c5398239je88o"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/britain-open-to-apologising-for-slavery-says-andy-burnham/article71649276.ece"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/10/premie-britanico-diz-estar-aberto-a-pedido-formal-de-desculpas-pela-escravidao.shtml"
+    }
+   ],
+   "premiere_parution": "2026-10-31T00:00:00Z",
+   "suite_de": null,
+   "mots": 154,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-01-monde-001",
+  "2026-11-01-monde-002",
+  "2026-11-01-monde-003",
+  "2026-11-01-geopolitique-001",
+  "2026-11-01-geopolitique-002",
+  "2026-11-01-geopolitique-003",
+  "2026-11-01-monde-004",
+  "2026-11-01-monde-005"
+ ]
+}

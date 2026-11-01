@@ -1,7 +1,18 @@
 {
- "maj": "2026-10-31T06:36:35Z",
- "derniere": "2026-10-31",
+ "maj": "2026-11-01T07:00:16Z",
+ "derniere": "2026-11-01",
  "editions": [
+  {
+   "date": "2026-11-01",
+   "genere_a": "2026-11-01T07:00:16Z",
+   "articles": 8,
+   "une": [
+    "La Corée du Nord accusée d'un vol chez Binance",
+    "La justice rejette la poursuite de Donald Trump contre le Wall Street Journal",
+    "Manifestations en France contre le coût de la vie et l'école"
+   ],
+   "octets": 32021
+  },
   {
    "date": "2026-10-31",
    "genere_a": "2026-10-31T06:36:35Z",

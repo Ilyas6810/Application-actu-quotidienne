@@ -1,6 +1,43 @@
 {
- "maj": "2026-11-01T00:15:13Z",
+ "maj": "2026-11-01T13:31:02Z",
  "alertes": [
+  {
+   "id": "2026-11-01-alerte-03",
+   "date": "2026-11-01",
+   "publiee_a": "2026-11-01T13:31:02Z",
+   "titre": "La championne d'Europe d'athlétisme Ciara Mageean meurt à 34 ans",
+   "texte": "L'athlète irlandaise Ciara Mageean est morte le 1er novembre 2026 des suites d'un cancer à l'âge de 34 ans. Sa famille a annoncé son décès sur les réseaux sociaux.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/athletics/articles/cn81px29032o"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Athletisme/Actualites/Mort-de-l-irlandaise-ciara-mageean-championne-d-europe-2024-du-1-500-m-des-suites-d-un-cancer/1740245"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/athletisme/athletisme-ciara-mageean-championne-d-europe-du-1-500-m-en-2024-est-morte-a-la-suite-d-un-cancer_8262734.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/26_novembre_01/ciara-mageean-morta-90760144-9c48-40e6-b5cf-55dfe6169xlk.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34"
+    }
+   ],
+   "cluster": "381a634aba524080",
+   "urls": [
+    "https://bbc.co.uk/sport/athletics/articles/cn81px29032o",
+    "https://corriere.it/sport/26_novembre_01/ciara-mageean-morta-90760144-9c48-40e6-b5cf-55dfe6169xlk.shtml",
+    "https://franceinfo.fr/sports/athletisme/athletisme-ciara-mageean-championne-d-europe-du-1-500-m-en-2024-est-morte-a-la-suite-d-un-cancer_8262734.html",
+    "https://lequipe.fr/Athletisme/Actualites/Mort-de-l-irlandaise-ciara-mageean-championne-d-europe-2024-du-1-500-m-des-suites-d-un-cancer/1740245",
+    "https://theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34"
+   ]
+  },
   {
    "id": "2026-11-01-alerte-01",
    "date": "2026-11-01",

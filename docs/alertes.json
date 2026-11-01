@@ -1,6 +1,93 @@
 {
- "maj": "2026-10-31T19:33:50Z",
+ "maj": "2026-11-01T00:15:13Z",
  "alertes": [
+  {
+   "id": "2026-11-01-alerte-01",
+   "date": "2026-11-01",
+   "publiee_a": "2026-11-01T00:12:55Z",
+   "titre": "Lewis Hamilton partira en pole position au Grand Prix du Mexique",
+   "texte": "Lewis Hamilton a obtenu le meilleur temps des qualifications au Mexique samedi soir pour l'écurie Ferrari. Le pilote britannique commencera la course dimanche devant son compatriote George Russell.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Formule-1/Actualites/Lewis-hamilton-offre-a-ferrari-sa-premiere-pole-position-de-la-saison-au-gp-du-mexique/1740188"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-actu/formule-1-premiere-pole-position-depuis-2023-pour-hamilton-antonelli-en-troisieme-ligne-au-mexique-20261031"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/live/2026/oct/31/mexican-grand-prix-qualifying-formula-one-2026-live"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/10/hamilton-volta-a-pole-apos-tres-anos-e-antonelli-vai-largar-em-quarto.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo"
+    }
+   ],
+   "cluster": "1c99f63d18875dcf",
+   "urls": [
+    "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo",
+    "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html",
+    "https://lefigaro.fr/flash-actu/formule-1-premiere-pole-position-depuis-2023-pour-hamilton-antonelli-en-troisieme-ligne-au-mexique-20261031",
+    "https://lequipe.fr/Formule-1/Actualites/Lewis-hamilton-heureux-apres-sa-premiere-pole-avec-ferrari-au-mexique-j-aime-ce-que-je-fais-et-cet-amour-ne-m-a-jamais-quitte/1740207",
+    "https://lequipe.fr/Formule-1/Actualites/Lewis-hamilton-offre-a-ferrari-sa-premiere-pole-position-de-la-saison-au-gp-du-mexique/1740188",
+    "https://theguardian.com/sport/2026/oct/31/lewis-hamilton-storms-to-first-ferrari-pole-at-f1-mexican-grand-prix-with-antonelli-fifth",
+    "https://theguardian.com/sport/live/2026/oct/31/mexican-grand-prix-qualifying-formula-one-2026-live",
+    "https://www1.folha.uol.com.br/esporte/2026/10/hamilton-volta-a-pole-apos-tres-anos-e-antonelli-vai-largar-em-quarto.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-01-alerte-02",
+   "date": "2026-11-01",
+   "publiee_a": "2026-11-01T00:15:13Z",
+   "titre": "Saul Alvarez bat Christian Mbilli à Riyad et reprend sa ceinture",
+   "texte": "Le boxeur mexicain Saul Alvarez a battu le Français Christian Mbilli à Riyad samedi 31 octobre 2026. Cette victoire aux points permet au pugiliste de reprendre le titre mondial WBC des super-moyens.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Boxe/Actualites/-je-vois-christian-dominer-canelo-les-cles-du-combat-alvarez-mbili-selon-bruno-surace/1739994"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/autres-sports/boxe-pas-de-miracle-pour-le-francais-mbilli-maitrise-par-la-legende-canelo-20261031"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261031-boxe-saul-canelo-alvarez-bat-le-fran%C3%A7ais-christian-mbili-aux-points-et-r%C3%A9cup%C3%A8re-la-ceinture-wbc-des-super-moyens"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/boxing/articles/cmy4xey44yqno"
+    }
+   ],
+   "cluster": "66c2034aded944ca",
+   "urls": [
+    "https://bbc.co.uk/sport/boxing/articles/cmy4xey44yqno",
+    "https://lefigaro.fr/sports/autres-sports/boxe-pas-de-miracle-pour-le-francais-mbilli-maitrise-par-la-legende-canelo-20261031",
+    "https://lefigaro.fr/sports/boxe/boxe-le-francais-christian-mbilli-pret-a-choquer-le-monde-face-a-canelo-alvarez-20261029",
+    "https://lefigaro.fr/sports/boxe/en-direct-boxe-le-combat-d-une-vie-pour-le-francais-mbilli-face-a-la-legende-canelo-20261031",
+    "https://lequipe.fr/Boxe/Actualites/-je-vois-christian-dominer-canelo-les-cles-du-combat-alvarez-mbili-selon-bruno-surace/1739994",
+    "https://lequipe.fr/Boxe/Actualites/A-quelle-heure-et-sur-quelle-chaine-suivre-le-combat-entre-christian-mbilli-et-saul-canelo-alvarez-en-wbc/1739030",
+    "https://lequipe.fr/Boxe/Actualites/Le-reve-brise-de-christian-mbilli-le-francais-battu-aux-points-saul-canelo-alvarez-recupere-la-ceinture-wbc-des-super-moyens/1740196",
+    "https://rfi.fr/fr/sports/20261031-boxe-%C3%A0-riyad-le-fran%C3%A7ais-mbilli-se-mesure-%C3%A0-la-l%C3%A9gende-mexicaine-canelo",
+    "https://rfi.fr/fr/sports/20261031-boxe-saul-canelo-alvarez-bat-le-fran%C3%A7ais-christian-mbili-aux-points-et-r%C3%A9cup%C3%A8re-la-ceinture-wbc-des-super-moyens",
+    "https://theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
+    "https://theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup"
+   ]
+  },
   {
    "id": "2026-10-31-alerte-02",
    "date": "2026-10-31",
@@ -1369,153 +1456,6 @@
     "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-le-livre-d-hitler-mein-kampf-retrouve-au-domicile-du-tireur-20261024",
     "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-un-club-mma-francilien-rend-hommage-a-pengo-le-jeune-homme-de-26-ans-tue-a-trappes-20261024_QFOWDJ375JGU5CQVNCE3TCO2OM",
     "https://www1.folha.uol.com.br/mundo/2026/10/policia-encontra-mein-kampf-de-hitler-na-residencia-de-atirador-na-franca.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-24-alerte-01",
-   "date": "2026-10-24",
-   "publiee_a": "2026-10-23T21:34:45Z",
-   "titre": "Moscou et Kiev acceptent une trêve locale dans la ville d'Olechky",
-   "texte": "La Russie et l'Ukraine ont conclu un cessez-le-feu localisé à Olechky le 23 octobre 2026. La Maison Blanche attribue cette médiation à la Première dame américaine Melania Trump.",
-   "sources": [
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/russia-ukraine-agree-on-ceasefire-in-embattled-town-to-hold-peace-talks-next-month"
-    }
-   ],
-   "cluster": "81d5784b5cf4370e",
-   "urls": [
-    "https://abc.es/internacional/casa-blanca-asegura-melania-trump-logrado-alto-20261023154657-nt.html",
-    "https://aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky",
-    "https://aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire",
-    "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-    "https://dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
-    "https://france24.com/fr/europe/20261023-melania-trump-dit-avoir-obtenu-cessez-feu-dans-ville-ukrainienne-pleine-crise-humanitaire",
-    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html",
-    "https://ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-    "https://latimes.com/world-nation/story/2026-10-23/melania-trump-helps-forge-ceasefire-deal-in-russian-occupied-ukrainian-city-white-house-says",
-    "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
-    "https://lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-ursula-von-der-leyen-se-dit-profondement-alarmee-par-une-nouvelle-escalade-russe-apres-l-attaque-d-un-cargo-en-mer-noire_6796922_3210.html",
-    "https://liberation.fr/international/europe/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky-20261023_4KW4CUVBGFDOZOFJI7VDP4XVDM",
-    "https://rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky",
-    "https://spiegel.de/ausland/ukraine-russland-krieg-melania-trump-verkuendet-lokale-waffenruhe-verkuenden-kreml-und-kyjiw-bestaetigen-a-7c266a41-621e-4d77-80d8-cc4dd675ecf6",
-    "https://straitstimes.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-on-evacuation-timing",
-    "https://straitstimes.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says",
-    "https://straitstimes.com/world/europe/russia-ukraine-agree-on-ceasefire-in-embattled-town-to-hold-peace-talks-next-month",
-    "https://theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-    "https://theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-    "https://thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece",
-    "https://wgal.com/article/melania-trump-ceasefire-deal-russian-occupied-oleshky-white-house/74221941",
-    "https://www1.folha.uol.com.br/mundo/2026/10/melania-trump-mediou-tregua-em-cidade-ocupada-na-ucrania-dizem-eua.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-24-alerte-02",
-   "date": "2026-10-24",
-   "publiee_a": "2026-10-23T21:37:05Z",
-   "titre": "Donald Trump allège les droits de douane sur des produits canadiens",
-   "texte": "La Maison-Blanche a annoncé vendredi 23 octobre 2026 la levée de taxes douanières visant certaines marchandises en provenance du Canada. Cette décision intervient aux États-Unis pour soutenir la campagne de réélection de la sénatrice républicaine Susan Collins.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-23/trump-to-lower-some-canada-tariffs-maine-senator-collins-says"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c60qk573yzz8o"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss"
-    }
-   ],
-   "cluster": "802f2db07fff70c7",
-   "urls": [
-    "https://bbc.co.uk/news/articles/c60qk573yzz8o",
-    "https://bloomberg.com/news/articles/2026-10-23/coffins-and-canoes-from-canada-get-50-tariff-under-new-trump-order",
-    "https://bloomberg.com/news/articles/2026-10-23/trump-to-lower-some-canada-tariffs-maine-senator-collins-says",
-    "https://dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss",
-    "https://ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-    "https://theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
-   ]
-  },
-  {
-   "id": "2026-10-24-alerte-03",
-   "date": "2026-10-24",
-   "publiee_a": "2026-10-23T21:39:14Z",
-   "titre": "Attaque armée dans les Yvelines : le parquet antiterroriste ouvre une enquête",
-   "texte": "Un individu a tué une personne et blessé plusieurs autres vendredi 23 octobre lors de tirs à Trappes et La Verrière. Les forces de l'ordre ont interpellé le tireur soupçonné d'avoir ciblé des personnes issues de l'immigration.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/faits-divers/tireur-des-yvelines-macron-evoque-un-tournant-invite-a-ne-rien-ceder-face-aux-idees-qui-s-installent-20261023"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU"
-    }
-   ],
-   "cluster": "745d9c555817736b",
-   "urls": [
-    "https://france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-    "https://france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
-    "https://franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html",
-    "https://lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
-    "https://lefigaro.fr/faits-divers/tireur-des-yvelines-macron-evoque-un-tournant-invite-a-ne-rien-ceder-face-aux-idees-qui-s-installent-20261023",
-    "https://lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
-    "https://lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html",
-    "https://lemonde.fr/societe/live/2026/10/23/tirs-a-trappes-et-a-la-verriere-un-mort-et-quatre-blesses-dans-des-tirs-a-l-arme-automatique-le-parquet-antiterroriste-saisi_6799092_3224.html",
-    "https://lemonde.fr/societe/video/2026/10/23/tirs-a-trappes-et-a-la-verriere-emmanuel-macron-denonce-un-attentat-terroriste-raciste_6799145_3224.html",
-    "https://liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU",
-    "https://rfi.fr/fr/france/20261023-france-un-homme-tire-en-rafales-en-banlieue-parisienne-le-parquet-antiterroriste-se-saisit"
    ]
   }
  ]

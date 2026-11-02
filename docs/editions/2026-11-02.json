@@ -1,0 +1,246 @@
+{
+ "date": "2026-11-02",
+ "genere_a": "2026-11-02T07:11:05Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-02-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Neuf personnes meurent dans l'accident d'un avion en Floride",
+   "chapeau": "Un petit appareil d'affaires s'est écrasé dimanche 1er novembre 2026 dans une zone habitée du sud de la Floride. Le ministre des Transports des États-Unis a annoncé la mort des neuf personnes présentes à bord.",
+   "corps": "Le ministre des Transports des États-Unis Sean Duffy a confirmé le décès des neuf occupants de l'aéronef, selon un communiqué publié le 2 novembre 2026. L'accident s'est produit dans le comté de Palm Beach, sur le territoire de cet État du sud-est américain.\n\nL'appareil impliqué dans l'événement est un avion d'affaires bimoteur de modèle Learjet 60. Selon l'administration fédérale de l'aviation des États-Unis, cet aéronef avait décollé de l'aéroport international Austin-Bergstrom au Texas. Le vol devait rejoindre les Bahamas. L'appareil est tombé au sol dimanche après-midi dans un secteur résidentiel situé près de la ville de West Palm Beach.\n\nLe gouverneur de Floride Ron DeSantis a indiqué aux journalistes qu'aucune victime n'était constatée au sol. L'appareil est tombé dans une rue d'une zone fréquentée. L'impact a formé un cratère visible sur les lieux. Des caméras de surveillance ont enregistré la chute de l'avion, qui a pris feu au moment du contact avec le sol.\n\nLe point de chute de l'aéronef se situe à environ huit milles marins, soit près de treize kilomètres, de la résidence de Mar-a-Lago liée à Donald Trump. Le régulateur aérien américain a annoncé l'ouverture d'investigations techniques. L'agence fédérale de sécurité des transports mène cette enquête conjointement avec l'autorité de l'aviation civile pour déterminer l'origine de la chute.\n\nLes autorités n'ont pas encore communiqué l'identité des neuf personnes décédées ni les causes précises de la perte de contrôle de l'avion.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/01/le-crash-d-un-petit-avion-prive-en-floride-fait-neuf-morts-selon-le-ministre-des-transports_6804672_3210.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mueren-nueve-personas-estrellarse-avion-privado-florida-20261101222542-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/neuf-morts-dans-le-crash-d-un-petit-avion-en-floride_8263259.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/usa-privatjet-stuerzt-in-wohngebiet-in-florida-neun-tote-a-bc8c87a9-f52d-4153-9fd2-faaa28a48aaa"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/nine-people-dead-in-learjet-crash-in-south-florida-officials-say"
+    }
+   ],
+   "premiere_parution": "2026-11-01T07:00:00Z",
+   "suite_de": null,
+   "mots": 268,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-02-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Michigan : la démocrate Haley Stevens soutient le candidat républicain au Sénat",
+   "chapeau": "La représentante démocrate Haley Stevens a apporté dimanche son appui au républicain Mike Rogers pour l'élection sénatoriale dans le Michigan. Cette prise de position publique intervient à deux jours du scrutin législatif contre le candidat investi par son propre parti, Abdul El-Sayed.",
+   "corps": "Haley Stevens a officialisé sa décision le 1er novembre 2026. L'élue siégeait jusqu'alors à la Chambre des représentants sous l'étiquette démocrate. Elle avait perdu l'élection primaire interne face au candidat de l'aile progressiste, Abdul El-Sayed, pour la désignation au Sénat des États-Unis.\n\nLe ralliement s'est manifesté lors d'une apparition publique commune avec le candidat républicain Mike Rogers. Les deux personnalités politiques se sont montrées ensemble dans une église de la ville de Détroit. La représentante avait également diffusé un message vidéo sur le réseau social X pour expliquer son choix. Haley Stevens devait initialement participer le même jour à une réunion publique d'unité aux côtés d'Abdul El-Sayed.\n\nCe positionnement s'inscrit dans un désaccord ancien entre les deux anciens rivaux de la primaire démocrate. Leurs divergences portent principalement sur la politique étrangère américaine relative à Israël ainsi que sur la question de l'antisémitisme. Haley Stevens reproche à son ancien adversaire d'entretenir des discours hostiles.\n\nL'annonce a provoqué des réactions immédiates dans l'appareil démocrate local et national. Des membres de l'équipe de campagne de Haley Stevens ont présenté leur démission à la suite de cette déclaration publique. Des électeurs présents lors de ses déplacements l'ont prise à partie en la qualifiant de traître. Un haut responsable démocrate a également qualifié son choix de trahison méprisable.\n\nÀ l'inverse, l'ancien président Donald Trump a salué publiquement l'attitude de Haley Stevens. Le dirigeant républicain a qualifié son geste d'acte courageux à deux jours des élections de mi-mandat. Le candidat républicain Mike Rogers bénéficie ainsi d'un appui direct venu du camp adverse dans une confrontation électorale serrée pour le renouvellement du Sénat.\n\nLe résultat de cette élection dans le Michigan peut modifier la majorité politique au sein de la chambre haute à Washington. Abdul El-Sayed continue de mener campagne pour préserver le siège démocrate face à Mike Rogers.\n\n## Ce que disent les sources\n\nSur les conséquences statutaires de cette décision pour l'élue au sein de son organisation, les informations publiées divergent. L'hebdomadaire Der Spiegel indique le 2 novembre 2026 que le Parti démocrate du Michigan semble avoir exclu Haley Stevens de ses rangs après cet événement. Les autres organes de presse, dont Le Monde, la BBC et The Guardian, mentionnent de vives récriminations, des démissions dans son équipe et des accusations publiques de trahison, mais ne confirment pas l'existence d'une procédure formelle d'expulsion de la représentante.\n\nLes sources ne précisent pas la date exacte de l'élection primaire ni l'identité précise du responsable démocrate ayant dénoncé une trahison.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-01/el-sayed-s-democratic-rival-appears-at-church-with-gop-s-rogers"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/usmidterms2026/2026-11-01/ty-article/.premium/haley-stevens-backs-gop-in-michigan-senate-race-after-israel-feud-with-el-sayed/000001a1-983c-df63-ade5-fa7f36ff0000"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-01/el-apoyo-de-una-democrata-de-michigan-al-rival-republicano-de-el-sayed-provoca-una-ruptura-en-el-partido.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-stupefaction-et-colere-au-sein-des-democrates-apres-le-soutien-de-l-elue-haley-stevens-au-republicain-mike-rogers-dans-le-michigan_6801590_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-demokraten-in-michigan-werfen-haley-stevens-nach-eklat-offenbar-raus-a-67205fbb-ee59-455a-a672-4286150733f4"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c95ynzv88n68o"
+    }
+   ],
+   "premiere_parution": "2026-11-01T00:30:00Z",
+   "suite_de": null,
+   "mots": 453,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-02-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le groupe nord-coréen TraderTraitor accusé d'avoir dérobé six milliards chez Binance",
+   "chapeau": "Le Bureau fédéral d'enquête américain a désigné le groupe nord-coréen TraderTraitor comme responsable d'un piratage informatique contre la plateforme Binance. L'attaque s'est déroulée le 29 octobre 2026 et concerne la soustraction de milliards de dollars de crypto-actifs.",
+   "corps": "Le Bureau fédéral d'enquête des États-Unis a attribué à la Corée du Nord l'attaque informatique contre la plateforme Binance, l'entreprise ayant indiqué avoir compensé 90 % des fonds dérobés le 29 octobre 2026. Le groupe d'infiltrateurs TraderTraitor a mené cette opération selon les enquêtes des autorités américaines.\n\nLes enquêteurs lient TraderTraitor au gouvernement de Pyongyang. Ce collectif réunit des spécialistes formés très jeunes aux techniques d'intrusion. L'organisation utilise des programmes d'intelligence artificielle pour mener des attaques complexes. Le groupe sélectionne des cibles financières majeures afin de collecter des capitaux pour l'État nord-coréen.\n\nLa méthode d'infiltration de TraderTraitor repose sur le piège d'utilisateurs par de faux recruteurs. Ces derniers proposent des emplois fictifs très rémunérés pour inciter les victimes à télécharger un programme malveillant, un logiciel conçu pour s'introduire dans un système sans autorisation.\n\nLe Département d'État américain a qualifié les activités de piratage nord-coréennes de problème global. Selon le Bureau fédéral d'enquête, ce même groupe avait déjà réalisé l'intrusion dans la plateforme Bybit l'année précédente, dérobant alors 1,5 milliard de dollars. Les plateformes d'échange de crypto-actifs ont annoncé un renforcement de leurs procédures de protection interne à la suite de cette intrusion.\n\nBinance a suspendu temporairement les retraits de liquidités lors de l'incident avant de rétablir les opérations financières. L'entreprise constitue la principale plateforme mondiale d'échange de crypto-actifs, c'est-à-dire des monnaies numériques virtuelles gérées de façon décentralisée.\n\n## Ce que disent les sources\n\nLes estimations financières de la soustraction d'actifs varient selon les acteurs. Le journal Bloomberg évalue le montant dérobé à plus de 6 milliards de dollars le 1er novembre 2026. L'agence Reuters via la chaîne Al Jazeera indique un préjudice de 6,3 milliards de dollars le 1er novembre 2026, un montant également rapporté par la radio américaine NPR le 30 octobre 2026.\n\nLes données complètes sur les failles informatiques exploitées n'ont pas été rendues publiques.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say/article71648161.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-10-30T13:01:22Z",
+   "suite_de": "2026-11-01-monde-001",
+   "mots": 344,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-02-sport-001",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Kimi Antonelli décroche le titre mondial de Formule 1 au Mexique",
+   "chapeau": "Le pilote italien Andrea Kimi Antonelli a remporté le championnat du monde de Formule 1 lors du Grand Prix du Mexique disputé le dimanche 1er novembre 2026 à Mexico. Au volant de sa Mercedes, le coureur a devancé ses concurrents au classement général à l'âge de 20 ans et 68 jours.",
+   "corps": "Max Verstappen a obtenu la première place lors de cette épreuve disputée sur le circuit mexicain. Le pilote de l'écurie Red Bull a signé à cette occasion son troisième succès de la saison sportive 2026.\n\nDerrière le vainqueur de la course, Lewis Hamilton a pris la deuxième position. Andrea Kimi Antonelli s'est classé au troisième rang du Grand Prix, un résultat suffisant pour valider l'obtention du sacre dans la catégorie reine du sport automobile.\n\nLe coureur de l'écurie Mercedes marque l'histoire de la discipline par sa précocité. Né 20 ans et 68 jours avant son couronnement selon Al Jazeera le 2 novembre 2026 à 07:51, il établit un nouveau record d'âge pour l'obtention du trophée mondial chez les pilotes.\n\nCette victoire finale redonne une couronne à l'Italie, qui n'avait plus compté de vainqueur au championnat du monde des pilotes depuis le sacre d'Alberto Ascari en 1953. Andrea Kimi Antonelli devient le troisième pilote originaire de ce pays à atteindre ce sommet sportif.\n\nL'épreuve mexicaine a été marquée par plusieurs incidents de course. Le pilote espagnol Fernando Alonso et son coéquipier Lance Stroll ont tous deux abandonné dès le sixième tour de la compétition. De son côté, Liam Lawson a subi une disqualification à l'issue de l'épreuve.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/formula-1/verstappen-vence-coronacion-antonelli-20261101232719-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Formule-1/Actualites/Donnez-une-note-au-grand-prix-du-mexique/1740450"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/11/dez-momentos-da-trajetoria-de-antonelli-rumo-ao-titulo-mundial-de-f1.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/kimi-antonelli-dans-l-histoire-gabby-williams-au-sommet-la-route-du-rhum-lancee-le-recap-sport-du-week-end_8262521.html"
+    }
+   ],
+   "premiere_parution": "2026-10-30T19:39:03Z",
+   "suite_de": null,
+   "mots": 258,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-02-monde-001",
+  "2026-11-02-monde-002",
+  "2026-11-02-monde-003",
+  "2026-11-02-sport-001"
+ ]
+}

@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-01T07:00:16Z",
- "derniere": "2026-11-01",
+ "maj": "2026-11-02T07:11:05Z",
+ "derniere": "2026-11-02",
  "editions": [
+  {
+   "date": "2026-11-02",
+   "genere_a": "2026-11-02T07:11:05Z",
+   "articles": 4,
+   "une": [
+    "Neuf personnes meurent dans l'accident d'un avion en Floride",
+    "Michigan : la démocrate Haley Stevens soutient le candidat républicain au Sénat",
+    "Le groupe nord-coréen TraderTraitor accusé d'avoir dérobé six milliards chez Binance"
+   ],
+   "octets": 16781
+  },
   {
    "date": "2026-11-01",
    "genere_a": "2026-11-01T07:00:16Z",

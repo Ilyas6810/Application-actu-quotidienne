@@ -1,6 +1,133 @@
 {
- "maj": "2026-11-03T06:57:32Z",
+ "maj": "2026-11-03T23:45:20Z",
  "alertes": [
+  {
+   "id": "2026-11-04-alerte-01",
+   "date": "2026-11-04",
+   "publiee_a": "2026-11-03T23:44:04Z",
+   "titre": "Le Bayern Munich bat l'Atlético de Madrid en Ligue des champions",
+   "texte": "Le Bayern Munich s'est imposé deux buts à zéro sur le terrain de l'Atlético de Madrid mardi 3 novembre 2026 lors de la quatrième journée de Ligue des champions. Lennart Karl et Konrad Laimer ont inscrit les deux buts allemands en seconde période.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-michael-olise-bien-present-kang-in-lee-sur-le-banc-les-compos-du-choc-atletico-bayern-20261103"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Le-bayern-munich-l-emporte-logiquement-sur-le-terrain-de-l-atletico-de-madrid-harry-kane-passeur-decisif/1740945"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/atletico-madrid/bayern-devuelve-atletico-lona-20261103225305-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/futbol/2026-11-03/un-bayern-imperial-somete-y-derrota-con-claridad-al-atletico.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-schlaegt-atletico-madrid-locker-a-b19a95ac-d668-48b1-b353-b53b19f0b8dc"
+    }
+   ],
+   "cluster": "22976861d56bd0ca",
+   "urls": [
+    "https://abc.es/deportes/atletico-madrid/bayern-devuelve-atletico-lona-20261103225305-nt.html",
+    "https://elpais.com/deportes/futbol/2026-11-03/un-bayern-imperial-somete-y-derrota-con-claridad-al-atletico.html",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-michael-olise-bien-present-kang-in-lee-sur-le-banc-les-compos-du-choc-atletico-bayern-20261103",
+    "https://lequipe.fr/Football/Actualites/Le-bayern-munich-l-emporte-logiquement-sur-le-terrain-de-l-atletico-de-madrid-harry-kane-passeur-decisif/1740945",
+    "https://spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-schlaegt-atletico-madrid-locker-a-b19a95ac-d668-48b1-b353-b53b19f0b8dc",
+    "https://theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report"
+   ]
+  },
+  {
+   "id": "2026-11-04-alerte-02",
+   "date": "2026-11-04",
+   "publiee_a": "2026-11-03T23:45:20Z",
+   "titre": "Les bureaux de vote ferment aux États-Unis pour les législatives",
+   "texte": "Les électeurs américains se sont rendus aux urnes le 3 novembre 2026 pour les élections de mi-mandat. Les premiers bureaux de vote ont commencé à fermer dans l'ensemble du pays.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/midterms-2026-faut-il-redouter-des-manouvres-de-l-administration-trump-apres-le-scrutin-20261103"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/on-va-plus-loin/20261103-midterms-vague-bleue-sur-le-congr%C3%A8s"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/les-decodeurs/article/2026/11/04/midterms-2026-en-cartes-les-resultats-en-temps-reel-des-elections-americaines-de-mi-mandat_6805570_4355771.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104"
+    }
+   ],
+   "cluster": "3a228d073aad7369",
+   "urls": [
+    "https://france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261102-midterms-2026-un-vote-anti-trump",
+    "https://france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261103-midterms-l-am%C3%A9rique-%C3%A0-l-heure-du-choix",
+    "https://france24.com/fr/%C3%A9missions/on-va-plus-loin/20261103-midterms-vague-bleue-sur-le-congr%C3%A8s",
+    "https://france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
+    "https://france24.com/fr/vid%C3%A9o/20261102-j-1-avant-les-midterms-sept-%C3%A9tats-suffiraient-%C3%A0-faire-basculer-le-s%C3%A9nat",
+    "https://france24.com/fr/vid%C3%A9o/20261102-midterms-%C3%A0-la-veille-du-scrutin-trump-mobilise-toutes-ses-ressources-dans-la-course-%C3%A9lectorale",
+    "https://france24.com/fr/vid%C3%A9o/20261102-midterms-la-vague-d%C3%A9mocrate-se-pr%C3%A9cise-aux-%C3%A9tats-unis",
+    "https://france24.com/fr/vid%C3%A9o/20261102-midterms-les-jeunes-texans-tent%C3%A9s-par-le-camp-d%C3%A9mocrate",
+    "https://france24.com/fr/vid%C3%A9o/20261103-midterms-est-ce-que-le-pr%C3%A9sident-trump-pourrait-poser-son-v%C3%A9to-en-cas-de-victoire-des-d%C3%A9mocrates",
+    "https://france24.com/fr/vid%C3%A9o/20261103-midterms-l-ultime-levier-de-pouvoir-face-%C3%A0-donald-trump",
+    "https://france24.com/fr/vid%C3%A9o/20261103-midterms-ouverture-des-bureaux-de-vote-sur-la-c%C3%B4te-est-le-compte-%C3%A0-rebours-est-lanc%C3%A9",
+    "https://franceinfo.fr/monde/usa/midterms-2018/aux-etats-unis-plus-de-58-millions-d-electeurs-ont-deja-vote-par-anticipation-pour-les-midterms-2026-un-record_8265542.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/carte-alaska-maine-texas-sept-etats-ou-les-resultats-des-midterms-vont-etre-particulierement-scrutes_8263649.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/circonscriptions-taillees-pour-les-republicains-riposte-democrate-avant-les-midterms-aux-etats-unis-la-carte-electorale-charcutee-sous-la-pression-de-donald-trump_8237242.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-la-journee-de-vote-pour-les-elections-americaines-de-mi-mandat-cruciales-pour-donald-trump_8265446.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/elections-americaines-de-mi-mandat-quelles-sont-les-premieres-tendances-de-ce-scrutin-crucial-pour-donald-trump_8264303.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/midterms-2026-coup-d-envoi-d-un-vote-crucial-aux-etats-unis_8266496.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/taxe-sur-les-milliardaires-droit-a-l-avortement-centres-de-donnees-ces-autres-sujets-sur-lesquels-les-americains-votent-lors-des-midterms-2026_8264042.html",
+    "https://franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html",
+    "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/elections-americaines-pour-ou-contre-donald-trump_8266526.html",
+    "https://la-croix.com/international/midterms-2026-comment-les-democrates-esperent-enrayer-la-machine-trump-en-cas-de-victoire-20261102",
+    "https://la-croix.com/international/midterms-2026-faut-il-redouter-des-manouvres-de-l-administration-trump-apres-le-scrutin-20261103",
+    "https://la-croix.com/international/midterms-2026-pourquoi-la-participation-electorale-augmente-aux-etats-unis-20261103",
+    "https://la-croix.com/international/midterms-2026-qui-vote-pour-qui-et-comment-le-fonctionnement-explique-20261101",
+    "https://la-croix.com/international/midterms-2026-resultats-elections-mi-mandat-trump-etats-unis-presidentielle-20261030",
+    "https://lefigaro.fr/international/les-midterms-2026-un-referendum-pour-ou-contre-donald-trump-20261102",
+    "https://lefigaro.fr/international/midterms-2026-comprendre-les-prochaines-elections-americaines-grace-aux-cartes-20261015",
+    "https://lefigaro.fr/international/midterms-2026-des-referendums-organises-dans-chaque-etat-pour-trancher-des-debats-de-societe-20261103",
+    "https://lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
+    "https://lefigaro.fr/international/midterms-2026-horaires-resultats-trump-sondage-predictions-carte-etats-unis-democrates-republicains-direct-20261103",
+    "https://lefigaro.fr/international/midterms-2026-l-election-des-gouverneurs-autre-front-du-rapport-de-force-entre-donald-trump-et-les-etats-20261102",
+    "https://lefigaro.fr/international/midterms-2026-que-disent-les-derniers-sondages-20261005",
+    "https://lemonde.fr/international/article/2026/11/03/midterms-2026-a-quelle-heure-connaitra-t-on-les-premiers-resultats-des-elections-americaines-de-mi-mandat-et-quels-sont-les-etats-cles-a-surveiller_6805569_3211.html",
+    "https://lemonde.fr/international/article/2026/11/03/midterms-2026-les-americains-appeles-aux-urnes-pour-un-vote-a-valeur-de-referendum-pour-donald-trump_6805522_3210.html",
+    "https://lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
+    "https://lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-du-texas-a-la-californie-suivez-les-elections-de-mi-mandat-en-direct_6805528_3210.html",
+    "https://lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-suivez-la-journee-de-vote-aux-etats-unis-pour-les-elections-de-mi-mandat-aux-etats-unis-les-dernieres-informations-et-les-reponses-a-vos-questions_6805528_3210.html",
+    "https://lemonde.fr/les-decodeurs/article/2026/11/03/midterms-2026-decouvrez-en-temps-reel-les-cartes-des-resultats-aux-elections-de-mi-mandat_6805570_4355771.html",
+    "https://lemonde.fr/les-decodeurs/article/2026/11/04/midterms-2026-en-cartes-les-resultats-en-temps-reel-des-elections-americaines-de-mi-mandat_6805570_4355771.html",
+    "https://liberation.fr/international/amerique/etats-unis-midterms-mode-demploi-20261102_ZP4YNMU7PZBJPJP3LKUOBWH4GA",
+    "https://liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA",
+    "https://rfi.fr/fr/am%C3%A9riques/20261102-midterms-2026-dans-l-ohio-ultimes-sessions-de-porte-%C3%A0-porte-pour-convaincre-les-%C3%A9lecteurs",
+    "https://rfi.fr/fr/am%C3%A9riques/20261102-midterms-2026-dans-le-michigan-comme-ailleurs-le-vote-latino-sera-l-une-des-cl%C3%A9s-du-scrutin",
+    "https://rfi.fr/fr/am%C3%A9riques/20261103-direct-midterms-aux-%C3%A9tats-unis-les-bureaux-de-vote-ouvrent-sur-la-c%C3%B4te-est-l-avenir-de-trump-et-du-congr%C3%A8s-en-jeu",
+    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261103-1-%C3%A9mission-sp%C3%A9ciale-%C3%A9tats-unis-vos-questions-sur-les-midterms",
+    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261103-2-%C3%A9mission-sp%C3%A9ciale-%C3%A9tats-unis-vos-questions-sur-les-midterms",
+    "https://tvmag.lefigaro.fr/programme-tv/actu-tele/midterms-ou-et-a-quelle-heure-suivre-cette-nuit-les-elections-americaines-de-mi-mandats-a-la-television-20261103"
+   ]
+  },
   {
    "id": "2026-11-03-alerte-03",
    "date": "2026-11-03",
@@ -1282,163 +1409,6 @@
     "https://rfi.fr/fr/podcasts/reportage-international/20261025-elections-l%C3%A9gislatives-en-israel-le-vote-des-colons-isra%C3%A9liens-en-cisjordanie-occup%C3%A9e",
     "https://spiegel.de/ausland/israel-wahl-beginnt-mit-gedenken-an-hamas-opfer-a-a634b1dc-e6cd-4a4c-810c-5fb495d2ad90",
     "https://thehindu.com/news/international/the-view-from-india-newsletter-a-guide-to-israels-elections/article71627046.ece"
-   ]
-  },
-  {
-   "id": "2026-10-27-alerte-01",
-   "date": "2026-10-27",
-   "publiee_a": "2026-10-26T20:38:27Z",
-   "titre": "Les syndicats étudiants poursuivent la mobilisation après les annonces gouvernementales",
-   "texte": "Le gouvernement français a présenté le 26 octobre 2026 plusieurs mesures pour l'enseignement supérieur, dont la refonte de Parcoursup. Les organisations syndicales de la jeunesse ont immédiatement demandé le maintien des actions de protestation.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/%C3%A9missions/questions-directes/20261026-col%C3%A8re-lyc%C3%A9enne-l-heure-des-r%C3%A9ponses"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/education/en-direct-crise-lyceenne-le-gouvernement-sapprete-a-livrer-ses-reponses-tres-concretes-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-20261026_KNWOZ267WZBBDF5ESFKELFHGWM"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/pixels/article/2026/10/26/mobilisation-lyceenne-comment-le-gouvernement-s-est-appuye-sur-une-poignee-d-influenceurs-pour-ses-annonces_6800834_4408996.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/actualite-france/en-direct-colere-sociale-le-gouvernement-promet-ce-lundi-des-reponses-tres-concretes-aux-lyceens-20261026"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/crise-lyceenne-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-20261026"
-    }
-   ],
-   "cluster": "23e9f2ed65bac885",
-   "urls": [
-    "https://france24.com/fr/%C3%A9missions/questions-directes/20261026-col%C3%A8re-lyc%C3%A9enne-l-heure-des-r%C3%A9ponses",
-    "https://france24.com/fr/france/20261026-le-gouvernement-promet-lundi-r%C3%A9ponses-tr%C3%A8s-concr%C3%A8tes-mobilisation-lyc%C3%A9enne",
-    "https://franceinfo.fr/l-actu-pour-les-jeunes/le-gouvernement-repond-aux-lyceens-avec-8-mesures_8254615.html",
-    "https://franceinfo.fr/replay-jt/france-2/20-heures/refonte-de-parcoursup-pret-de-4-milliards-d-euros-creation-de-postes-le-gouvernement-rend-sa-copie-aux-lyceens_8254786.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-l-organisation-les-lyceens-promet-d-appeler-a-continuer-le-mouvement-si-les-annonces-ne-sont-pas-a-la-hauteur_8253850.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/mobilisations-lyceennes-le-gouvernement-va-recevoir-les-organisations-lyceennes_8253955.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/on-ne-fera-aucun-compromis-les-organisations-lyceennes-et-syndicats-d-enseignants-attendent-des-mesures-fortes-de-la-part-du-gouvernement_8253913.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-ce-qui-pourrait-changer-des-cette-annee-selon-les-propositions-du-gouvernement_8254804.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-manque-de-moyens-les-lyceens-maintiennent-la-pression-sur-le-gouvernement_8253946.html",
-    "https://franceinfo.fr/societe/education/blocage-des-lycees/quelles-sont-les-mesures-proposees-par-le-gouvernement-pour-apaiser-la-colere-lyceenne-et-etudiante_8254432.html",
-    "https://franceinfo.fr/societe/education/parcoursup/parcoursup/quelles-sont-les-pistes-etudiees-par-le-gouvernement-pour-ameliorer-parcoursup-dont-le-mouvement-lyceen-demande-la-suppression_8252857.html",
-    "https://la-croix.com/crise-lyceenne-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-20261026",
-    "https://la-croix.com/societe/colere-lyceenne-et-sociale-quelles-reponses-possibles-20261025",
-    "https://lefigaro.fr/actualite-france/en-direct-colere-sociale-le-gouvernement-promet-ce-lundi-des-reponses-tres-concretes-aux-lyceens-20261026",
-    "https://lefigaro.fr/actualite-france/refonte-de-parcoursup-recrutement-de-profs-renovation-du-bati-scolaire-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-en-reponse-aux-lyceens-20261026",
-    "https://lemonde.fr/pixels/article/2026/10/26/mobilisation-lyceenne-comment-le-gouvernement-s-est-appuye-sur-une-poignee-d-influenceurs-pour-ses-annonces_6800834_4408996.html",
-    "https://lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html",
-    "https://liberation.fr/societe/education/en-direct-crise-lyceenne-le-gouvernement-sapprete-a-livrer-ses-reponses-tres-concretes-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-20261026_KNWOZ267WZBBDF5ESFKELFHGWM"
-   ]
-  },
-  {
-   "id": "2026-10-27-alerte-02",
-   "date": "2026-10-27",
-   "publiee_a": "2026-10-26T20:40:23Z",
-   "titre": "L'acteur Walter Koenig est mort à l'âge de 90 ans",
-   "texte": "L'acteur américain Walter Koenig est mort dimanche 25 octobre 2026 à Los Angeles à l'âge de 90 ans. Ses représentants ont annoncé son décès de cause naturelle dans sa résidence de North Hollywood.",
-   "sources": [
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/television/2026-10-26/muere-walter-koenig-el-chekov-original-de-star-trek.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/spettacoli/cinema-serie-tv/26_ottobre_26/e-morto-walter-koenig-interpretava-chekov-nella-serie-tv-star-trek-02a451ad-652d-4982-9b2e-780e6bdeexlk.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cv0ldjzg9xppo"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/play/muere-anos-walter-koenig-conocido-personaje-chekov-20261026204324-nt.html"
-    }
-   ],
-   "cluster": "16c876b754f7262e",
-   "urls": [
-    "https://abc.es/play/muere-anos-walter-koenig-conocido-personaje-chekov-20261026204324-nt.html",
-    "https://bbc.co.uk/news/articles/cv0ldjzg9xppo",
-    "https://corriere.it/spettacoli/cinema-serie-tv/26_ottobre_26/e-morto-walter-koenig-interpretava-chekov-nella-serie-tv-star-trek-02a451ad-652d-4982-9b2e-780e6bdeexlk.shtml",
-    "https://elpais.com/television/2026-10-26/muere-walter-koenig-el-chekov-original-de-star-trek.html",
-    "https://spiegel.de/kultur/kino/star-trek-walter-koenig-im-alter-von-90-jahren-gestorben-a-f3fde724-d4df-4abf-b86c-186b2f1fb44c",
-    "https://theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies"
-   ]
-  },
-  {
-   "id": "2026-10-27-alerte-03",
-   "date": "2026-10-27",
-   "publiee_a": "2026-10-26T20:44:15Z",
-   "titre": "La garde à vue du suspect de l'attentat dans les Yvelines reprend",
-   "texte": "Le procureur national antiterroriste Olivier Christen a annoncé la reprise de la garde à vue de Kévin T. ce lundi 26 octobre dans les Yvelines. L'homme reconnaît les actes commis à Trappes et La Verrière mais nie toute motivation raciste.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261026-attentat-trappes-garde-%C3%A0-vue-suspension-ne-change-rien-gravit%C3%A9-acte-nu%C3%B1ez"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-il-conteste-le-mobile-raciste-de-ses-actes-20261026_N4YMWTMTGRBYHKSVGYP3KY6SMA"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-la-garde-a-vue-de-kevin-t-a-repris-lundi-apres-un-nouvel-examen-psychiatrique_6800828_3224.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/attentat-raciste-de-trappes-l-etat-psychiatrique-du-suspect-pose-de-multiples-questions-20261026"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-ce-jour-le-suspect-conteste-le-caractere-raciste-de-la-fusillade-20261026"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/societe/trappes/trappes-le-suspect-kevin-t-conteste-le-caractere-rac-ste-de-ses-crimes_8254759.html"
-    }
-   ],
-   "cluster": "921251cb102b7979",
-   "urls": [
-    "https://france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
-    "https://france24.com/fr/france/20261026-attentat-trappes-garde-%C3%A0-vue-suspension-ne-change-rien-gravit%C3%A9-acte-nu%C3%B1ez",
-    "https://france24.com/fr/vid%C3%A9o/20261025-attentat-dans-les-yvelines-garde-%C3%A0-vue-lev%C3%A9e-le-suspect-plac%C3%A9-en-observation-psychiatrique",
-    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-les-quatre-gardes-a-vue-des-proches-du-principal-suspect-levees_8254009.html",
-    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html",
-    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-la-seconde-personne-placee-en-garde-a-vue-dans-l-enquete-sur-l-attentat-terroriste-raciste-dans-les-yvelines-est-la-mere-du-suspect_8251939.html",
-    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-garde-a-vue-du-suspect-de-l-attentat-raciste-a-trappes-suspendue-le-temps-d-une-periode-d-observation-psychiatrique-susceptible-de-durer-48-heures-annonce-le-parquet-antiterroriste_8252896.html",
-    "https://franceinfo.fr/societe/trappes/trappes-le-suspect-kevin-t-conteste-le-caractere-rac-ste-de-ses-crimes_8254759.html",
-    "https://la-croix.com/societe/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-suspendue-pour-raisons-psychiatriques-presence-de-cannabis-et-de-cocaine-dans-son-sang-20261025",
-    "https://la-croix.com/societe/attentat-raciste-de-trappes-l-etat-psychiatrique-du-suspect-pose-de-multiples-questions-20261026",
-    "https://lefigaro.fr/actualite-france/attaque-terroriste-dans-les-yvelines-kevin-t-tueur-d-ultradroite-ou-schizophrene-irresponsable-20261025",
-    "https://lefigaro.fr/actualite-france/attentat-raciste-dans-les-yvelines-les-quatre-proches-du-suspect-remis-en-liberte-20261026",
-    "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-ce-jour-le-suspect-conteste-le-caractere-raciste-de-la-fusillade-20261026",
-    "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-la-garde-a-vue-du-tireur-levee-pour-raisons-psychiatriques-20261025",
-    "https://lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-le-suspect-kevin-t-traite-pour-de-la-schizophrenie-20261025",
-    "https://lefigaro.fr/faits-divers/on-a-appris-qu-il-avait-tourne-extreme-droite-kevin-t-le-suspect-de-l-attentat-de-trappes-a-t-il-ete-identifie-sur-la-photo-d-un-groupe-propalestinien-20261026",
-    "https://lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-le-suspect-transfere-en-soins-psychiatriques-l-analyse-toxicologique-a-revele-la-presence-de-cannabis-et-de-cocaine-dans-son-sang_6800064_3224.html",
-    "https://lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-des-tracts-du-rassemblement-national-retrouves-dans-la-voiture-du-suspect-decrit-par-ses-proches-comme-raciste_6800776_3224.html",
-    "https://lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-la-garde-a-vue-de-kevin-t-a-repris-lundi-apres-un-nouvel-examen-psychiatrique_6800828_3224.html",
-    "https://liberation.fr/societe/police-justice/attentat-raciste-a-trappes-comment-fonctionnent-les-examens-psychiatriques-en-garde-a-vue-20261026_3BSGSCGIQZEBJPDZWVZXGBRWHM",
-    "https://liberation.fr/societe/police-justice/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-levee-pour-des-raisons-psychiatriques-ce-dimanche-20261025_LHSBEKD66BGMTK376UUUCUOV3E",
-    "https://liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-la-garde-a-vue-de-kevin-t-a-repris-il-conteste-le-mobile-raciste-de-ses-actes-20261026_N4YMWTMTGRBYHKSVGYP3KY6SMA",
-    "https://liberation.fr/societe/police-justice/motivations-du-suspect-profil-de-la-victime-etat-de-sante-des-blesses-ce-que-lon-sait-ce-samedi-de-lattaque-raciste-dans-les-yvelines-20261024_ZEXTBXBQPJBSTCEJ5JPENIN3KI",
-    "https://rfi.fr/fr/france/20261025-attaque-meurtri%C3%A8re-en-france-la-garde-%C3%A0-vue-du-tireur-lev%C3%A9e-pour-raisons-psychiatriques"
    ]
   }
  ]

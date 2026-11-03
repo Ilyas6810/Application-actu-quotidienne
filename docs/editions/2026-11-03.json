@@ -1,0 +1,197 @@
+{
+ "date": "2026-11-03",
+ "genere_a": "2026-11-03T07:31:23Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-03-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Dans le Michigan les démocrates réagissent au ralliement de Haley Stevens au républicain Mike Rogers",
+   "chapeau": "La campagne pour l'élection sénatoriale dans l'État du Michigan s'achève ce mardi 3 novembre 2026 sous la tension provoquée par le choix de la représentante démocrate Haley Stevens d'appuyer le candidat républicain Mike Rogers. Cette prise de position contre le candidat désigné par son propre camp, Abdul El-Sayed, suscite une vive contestation partisane à l'occasion des élections législatives américaines de mi-mandat.",
+   "corps": "À la veille du scrutin du mardi 3 novembre 2026, la représentante démocrate du Michigan Haley Stevens a officialisé son ralliement au républicain Mike Rogers au détriment du candidat de son parti, Abdul El-Sayed.\n\nCette décision intervient après la défaite de Haley Stevens face à Abdul El-Sayed lors de la primaire démocrate. Haley Stevens accuse Abdul El-Sayed de haine et explique son choix par des désaccords profonds survenus au cours de la campagne interne. De son côté, Abdul El-Sayed mène une orientation politique qualifiée de progressive.\n\nLes réactions au sein du Parti démocrate se sont multipliées immédiatement après cette annonce. Plusieurs membres de l'organisation politique ont qualifié ce geste de trahison abjecte. En réaction à ce départ, les responsables démocrates cherchent à resserrer les rangs pour maintenir leurs chances d'obtenir la majorité au Sénat des États-Unis.\n\nCette défection a également eu des conséquences financières. L'équipe de campagne d'Abdul El-Sayed a enregistré une hausse de ses collectes de fonds, récoltant plusieurs millions de dollars après l'annonce de Haley Stevens, selon les chiffres rapportés par Bloomberg le 2 novembre 2026 à 23 heures 15.\n\nL'ancien président Donald Trump est intervenu dans le débat public pour saluer le courage de l'élue démocrate après son changement de camp. Les républicains espérons que ce soutien permettra à Mike Rogers de faire basculer l'élection dans cet État clé du nord-est du pays.\n\nLe scrutin du mardi 3 novembre 2026 s'annonce serré entre les deux principaux prétendants. Pour conclure leurs campagnes respectives à Détroit et dans le reste de l'État, Abdul El-Sayed et Mike Rogers ont organisé des rassemblements rivaux simultanés, d'après les informations diffusées par Al Jazeera le 3 novembre 2026 à 8 heures 15.\n\nL'issue de ce vote dans le Michigan déterminera l'équilibre des forces politiques au sein du Sénat américain pour la suite du mandat présidentiel.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/02/midterms-2026-dans-le-michigan-l-incroyable-ralliement-de-l-opposante-democrate-d-abdul-el-sayed-au-candidat-republicain_6804838_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/gefaehrdet-ein-niedertraechtiger-verrat-in-michigan-den-sieg-der-demokraten-a-571ca960-6484-4d80-80c2-5cff658ccba8"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/michigan-senate-race-will-haley-stevens-spoil-the-party-for-democratic-candidate-el-sayed"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-02/michigan-democrats-endorsement-of-abdul-elsayeds-republican-rival-causes-a-party-rupture.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261102-la-course-au-s%C3%A9nat-relanc%C3%A9e-par-un-revirement-surprise-dans-le-michigan"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/une-trahison-abjecte-a-la-veille-des-midterms-une-elue-democrate-du-michigan-plante-son-camp-et-rallie-un-candidat-republicain-20261102_YQCH2XFHFJHV5CYZXS36MK23UM"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-02/will-stevens-support-flip-the-race-for-rogers-video"
+    }
+   ],
+   "premiere_parution": "2026-11-01T00:30:00Z",
+   "suite_de": "2026-11-02-monde-002",
+   "mots": 363,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-03-monde-002",
+   "rubrique": "monde",
+   "format": "fond",
+   "titre": "La Cour suprême refuse de bloquer vingt mille bulletins en Californie",
+   "chapeau": "La Cour suprême des États-Unis a rejeté la demande du gouvernement américain qui voulait suspendre le décompte de vingt mille bulletins de vote par correspondance en Californie. L'institution judiciaire a rendu sa décision le lundi 2 novembre 2026 à Washington, à la veille des élections de mi-mandat.",
+   "corps": "L'administration du président Donald Trump avait saisi la plus haute juridiction américaine d'une procédure d'urgence. Le ministère de la Justice demandait d'isoler ou de ne pas comptabiliser immédiatement les bulletins d'un groupe d'électeurs inscrits en Californie. Le gouvernement affirmait que ces personnes n'avaient probablement pas la nationalité américaine. Selon le ministère de la Justice, le gouvernement craignait une fraude électorale liée à ces votes par courrier.\n\nLes autorités de l'État de Californie se sont opposées à cette démarche. Elles ont fait valoir que la suspension de ces bulletins risquait de priver des citoyens américains de leur droit de vote. Un autre juge fédéral a également statué contre les exigences de dernière minute du gouvernement américain. Ce juge a estimé que les demandes adressées aux responsables électoraux californiens violaient la Constitution des États-Unis.\n\nLa Cour suprême a refusé de donner suite à la demande en urgence formulée par la Maison-Blanche. Les juges ont décliné l'examen de cette affaire. Cette décision met fin aux tentatives du gouvernement républicain de disqualifier ces bulletins avant la tenue du scrutin. Tous les suffrages déposés par correspondance en Californie seront donc comptabilisés par les responsables du scrutin.\n\nLe différend s'inscrit dans le cadre de la préparation des élections législatives américaines de mi-mandat. Durant cette période électorale, le président américain a pris la parole depuis le bassin de réflexion à Washington. Le chef de l'État a évoqué plusieurs projets lors de cette intervention publique. Dans le même temps, un sondage réalisé par le New York Times et le Siena College plaçait le candidat démocrate Abdul El-Sayed en tête face au républicain Mike Rogers dans la course au Sénat des États-Unis dans l'État du Michigan. L'enquête attribuait au candidat démocrate une avance de onze points de pourcentage. Ce résultat dépassait la marge d'erreur statistique. L'étude a été réalisée avant un événement impliquant la représentante démocrate Haley Stevens.\n\nLes décisions électorales rendues par les juridictions fédérales sur l'organisation des scrutins locaux appliquent le cadre fixé par la Constitution nationale. La Californie conserve le contrôle des opérations de dépouillement sur l'ensemble de son territoire pour les élections de mi-mandat.\n\n## Ce que disent les sources\n\nLes sources présentent des nuances sur la nature exacte de la demande initiale du gouvernement américain concernant les vingt mille bulletins enregistrés en Californie.\n\nSelon le journal brésilien Folha de S.Paulo du 2 novembre 2026 à 22h20, le gouvernement de Donald Trump demandait l'arrêt temporaire du décompte des suffrages transmis par voie postale.\n\nSelon l'agence de presse internationale Al Jazeera du 2 novembre 2026 à 23h06, l'administration présidentielle sollicitait le blocage pur et simple des vingt mille bulletins de vote concernés.\n\nSelon le quotidien français La Croix du 3 novembre 2026 à 01h30, l'administration de Donald Trump exigeait que les responsables électoraux isolent spécifiquement ces plus de vingt mille bulletins de vote.\n\nSelon le service d'information américain Bloomberg du 3 novembre 2026 à 03h05, le gouvernement demandait la mise à l'écart de ces voix attribuées à des personnes soupçonnées de ne pas posséder la nationalité américaine.\n\nSelon le journal espagnol El País du 3 novembre 2026 à 03h20, la requête républicaine visait à interdire le comptage de ces bulletins tant que la nationalité des votants n'était pas vérifiée.\n\nSelon l'agence chinoise Xinhua du 3 novembre 2026 à 04h00, la demande portée par la Maison-Blanche consistait à bloquer de façon temporaire le décompte des bulletins postaux.\n\nSelon le média allemand Deutsche Welle du 3 novembre 2026 à 04h00, l'action du gouvernement républicain visait la séparation des bulletins ou leur invalidation.\n\nSelon le journal japonais Nikkei Asia du 3 novembre 2026 à 04h00, l'administration fédérale cherchait à empêcher la Californie d'intégrer l'ensemble des suffrages dans son résultat total.\n\nSelon le magazine allemand Der Spiegel du 3 novembre 2026 à 04h48, le gouvernement américain souhaitait éliminer du décompte plus de vingt mille voix en invoquant un risque de fraude.\n\nSelon le quotidien indien The Hindu du 3 novembre 2026 à 06h56, les services gouvernementaux tentaient de faire mettre de côté des milliers de bulletins par des demandes formulées à la dernière minute.\n\nSelon le quotidien britannique The Guardian du 3 novembre 2026 à 07h24, le président a déposé une requête en urgence pour écarter vingt mille bulletins de la procédure de dépouillement.\n\nSelon le média britannique BBC News du 3 novembre 2026 à 07h32, la demande présidentielle tendait à faire stopper le comptage des votes contestés dans l'État de Californie.\n\nLes sources ne précisent pas la date exacte à laquelle les autorités locales ont enregistré les bulletins contestés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/na-vespera-das-eleicoes-trump-quer-que-suprema-corte-suspenda-votos-de-20-mil-eleitores-na-california.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/midterms-2026-l-administration-trump-veut-obliger-la-californie-a-isoler-20-000-bulletins-20261102"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-02/supreme-court-will-not-set-aside-some-california-ballots-video"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-02/el-tribunal-supremo-rechaza-apartar-unas-20000-boletas-en-california-en-visperas-de-las-midterms.html"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/northamerica/20261103/d5649bed18734c0793672859508127d9/c.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/es/corte-suprema-de-estados-unidos-rechaza-nuevo-intento-de-trump-de-invalidar-20000-votos-en-california/a-79835036"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-supreme-court-rejects-trump-lets-california-count-all-ballots"
+    }
+   ],
+   "premiere_parution": "2026-11-02T16:15:00Z",
+   "suite_de": null,
+   "mots": 797,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-03-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Corée du Nord rejette les accusations du FBI sur Binance",
+   "chapeau": "La Corée du Nord a rejeté mardi 3 novembre 2026 les accusations du Bureau fédéral d'enquête américain concernant le vol de cryptomonnaies sur la plateforme Binance. Pyongyang qualifie ces déclarations de provocation politique.",
+   "corps": "Après l'attaque informatique menée le 29 octobre 2026 contre la plateforme d'échange de cryptomonnaies Binance, le Bureau fédéral d'enquête américain a désigné le groupe nord-coréen TraderTraitor comme responsable de la soustraction de milliards de dollars d'actifs numériques.\n\nLe montant du vol s'élève à plus de six milliards de dollars selon le Bureau fédéral d'enquête américain le 1 novembre 2026, et atteint 6,3 milliards de dollars selon le Financial Times le 1 novembre 2026. La plateforme Binance a suspendu puis rétabli les retraits de fonds pour ses utilisateurs.\n\n## Ce que disent les sources\n\nLe Bureau fédéral d'enquête américain affirme que la Corée du Nord est responsable du piratage informatique. La Corée du Nord nie toute implication dans cette affaire. Kim Yo-jong, sœur du dirigeant nord-coréen, qualifie les accusations d'absurdes et de provocation politique.\n\nLes détails techniques sur les méthodes utilisées par les pirates manquent dans les rapports officiels.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/economia/fbi-acusa-corea-norte-robar-6000-millones-20261101101136-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/north-korea-slams-fbi-allegations-over-binance-hack-as-grave-provocation"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/binance-nordkorea-weist-jede-schuld-am-milliardenraub-weit-von-sich-a-b27d3396-c733-4c20-bc8e-48c6fd8671ac"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/cyberattaque-contre-binance-la-coree-du-nord-qualifie-les-accusations-du-fbi-de-grave-provocation-politique-20261102"
+    }
+   ],
+   "premiere_parution": "2026-10-31T21:59:09Z",
+   "suite_de": "2026-11-02-monde-003",
+   "mots": 181,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-03-monde-001",
+  "2026-11-03-monde-002",
+  "2026-11-03-monde-003"
+ ]
+}

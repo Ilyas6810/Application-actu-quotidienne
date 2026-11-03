@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-02T07:11:05Z",
- "derniere": "2026-11-02",
+ "maj": "2026-11-03T07:31:23Z",
+ "derniere": "2026-11-03",
  "editions": [
+  {
+   "date": "2026-11-03",
+   "genere_a": "2026-11-03T07:31:23Z",
+   "articles": 3,
+   "une": [
+    "Dans le Michigan les démocrates réagissent au ralliement de Haley Stevens au républicain Mike Rogers",
+    "La Cour suprême refuse de bloquer vingt mille bulletins en Californie",
+    "La Corée du Nord rejette les accusations du FBI sur Binance"
+   ],
+   "octets": 15425
+  },
   {
    "date": "2026-11-02",
    "genere_a": "2026-11-02T07:11:05Z",

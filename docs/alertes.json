@@ -1,6 +1,44 @@
 {
- "maj": "2026-11-02T21:56:24Z",
+ "maj": "2026-11-03T06:57:32Z",
  "alertes": [
+  {
+   "id": "2026-11-03-alerte-03",
+   "date": "2026-11-03",
+   "publiee_a": "2026-11-03T06:57:32Z",
+   "titre": "Les électeurs américains votent ce mardi pour les élections de mi-mandat",
+   "texte": "Les citoyens des États-Unis se rendent aux urnes ce mardi 3 novembre 2026 pour renouveler le Congrès. Ce scrutin déterminera si le Parti républicain conserve la majorité à la Chambre des représentants et au Sénat durant la fin du second mandat de Donald Trump.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6wyz223j19po"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7906251c-c903-4e4d-88db-cfe104271b0a?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/trump-faces-referendum-as-voters-head-to-polls-in-midterm-elections-2026"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
+    }
+   ],
+   "cluster": "7567b407b3dcfb6c",
+   "urls": [
+    "https://bbc.co.uk/news/articles/c6wyz223j19po",
+    "https://bbc.co.uk/news/articles/cq2d6k4r5n9ro",
+    "https://bloomberg.com/news/articles/2026-11-03/trump-faces-referendum-as-voters-head-to-polls-in-midterm-elections-2026",
+    "https://ft.com/content/7906251c-c903-4e4d-88db-cfe104271b0a?syn-25a6b1a6=1",
+    "https://straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake",
+    "https://thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece"
+   ]
+  },
   {
    "id": "2026-11-03-alerte-01",
    "date": "2026-11-03",

@@ -1,0 +1,1430 @@
+{
+ "date": "2026-11-04",
+ "genere_a": "2026-11-04T07:14:15Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-04-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le démocrate James Talarico remporte le siège de sénateur au Texas",
+   "chapeau": "Le candidat démocrate James Talarico a remporté l'élection sénatoriale dans l'État du Texas lors des élections américaines de mi-mandat. Cette victoire s'accompagne d'une prise de contrôle du Sénat et de la Chambre des représentants par le Parti démocrate face aux républicains guidés par Donald Trump.",
+   "corps": "Au Texas, l'ancien séminariste James Talarico a battu le candidat républicain Ken Paxton lors du scrutin pour le poste de sénateur américain. Son adversaire Ken Paxton occupe la fonction de procureur général de cet État américain conservateur. Ken Paxton est un allié du président américain Donald Trump. Selon les chiffres diffusés par le journal El País le 4 novembre 2026 à 09:49, le candidat James Talarico a obtenu 59 % des suffrages exprimés. La campagne électorale pour cette position de sénateur au Texas a représenté l'affrontement le plus cher de ces élections de mi-mandat. Cette compétition politique a également constitué la confrontation la plus suivie de l'ensemble du scrutin national sur le territoire américain.\n\nAprès l'annonce des projections électorales, James Talarico a prononcé un discours devant ses partisans réunis. Le candidat élu a affirmé que son camp avait vaincu Goliath durant cette soirée d'élection. James Talarico a également expliqué à ses électeurs que son équipe avait abordé cette campagne dans la position du challenger non favori. Selon les informations transmises par l'agence Bloomberg le 4 novembre 2026 à 10:32, la victoire démocrate au Texas ne s'est pas limitée au siège de sénateur américain. Le Parti démocrate a aussi remporté le poste de gouverneur de l'État du Texas. Les candidats démocrates ont également obtenu l'ensemble des autres mandats d'État mis en jeu lors de cette journée électorale.\n\nEn dehors du Texas, le Parti démocrate a enregistré plusieurs succès électoraux dans d'autres États traditionnellement favorables aux républicains. Dans l'État du Kansas, le démocrate Adam Hamilton a remporté un siège de sénateur américain. Selon le journal Le Monde le 4 novembre 2026 à 08:44, le Parti démocrate n'avait pas fait élire de sénateur dans l'État du Kansas depuis l'année 1932. Dans l'État de Californie, la formation démocrate a conservé le poste de gouverneur. Les candidats du Parti démocrate ont aussi emporté des victoires dans d'autres zones territoriales disputées comme l'Iowa et la Caroline du Sud. Le parti d'opposition a progressé dans des circonscriptions de la Chambre des représentants historiquement acquises aux républicains.\n\nÀ l'échelle fédérale, ces élections de mi-mandat modifient l'équilibre des pouvoirs au sein du Congrès des États-Unis. Le Parti démocrate a obtenu la majorité des sièges à la Chambre des représentants. La formation démocrate a également conquis la majorité des sièges au Sénat américain. Un analyste interrogé par le média BBC News le 4 novembre 2026 à 09:39 a qualifié les victoires démocrates obtenues au Texas de bain de sang pour le camp républicain. L'ensemble de ces résultats électoraux représente un revers politique pour le président républicain Donald Trump.\n\n## Ce que disent les sources\n\nLes publications fournies présentent des divergences d'information concernant la date de la précédente victoire démocrate à une élection sénatoriale au Texas. Le journal The Straits Times indique le 4 novembre 2026 à 08:37 que James Talarico est le premier candidat démocrate à remporter un siège au Sénat au Texas depuis 1994. À l'inverse, les médias BBC News le 4 novembre 2026 à 09:39, franceinfo le 4 novembre 2026 à 09:54, France 24 le 4 novembre 2026 à 09:59 et The Guardian le 4 novembre 2026 à 10:49 déclarent que ce succès met fin à une période de 38 ans sans victoire démocrate au Sénat dans cet État, ce qui situe le précédent succès en 1988. Le journal El País précise le 4 novembre 2026 à 09:49 que le Parti démocrate n'avait pas gagné d'élection au niveau de l'État du Texas depuis plus de trois décennies.\n\nDes détails sur le taux de participation global et le décompte exact des sièges obtenus par chaque parti au Congrès manquent dans les sources fournies.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-midterms-james-talarico-becomes-first-democrat-to-win-statewide-in-texas-since-1994-projections"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/midterms-aux-etats-unis-james-talarico-l-ancien-seminariste-devenu-espoir-des-democrates-au-texas-20261027"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/in-huge-blow-to-republicans-democrat-talarico-flips-us-senate-seat-in-texas/article71663939.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6n8dnn09jg7o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-04/james-talarico-pone-fin-a-decadas-de-hegemonia-republicana-en-texas-con-su-victoria-en-el-senado.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/le-democrate-james-talarico-donne-gagnant-pour-un-siege-au-senat-lors-des-midterms-2026-une-premiere-depuis-1988_8266994.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/midterm-in-den-usa-texas-iowa-kansas-hier-gewinnen-die-demokraten-a-20a7d715-29fe-4321-906d-7dc002d1311d"
+    }
+   ],
+   "premiere_parution": "2026-11-02T20:49:18Z",
+   "suite_de": null,
+   "mots": 657,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les Démocrates remportent le Congrès américain lors des élections de mi-mandat",
+   "chapeau": "Le Parti démocrate a obtenu la majorité au Sénat et à la Chambre des représentants lors des élections de mi-mandat le 4 novembre 2026 aux États-Unis. Ce résultat établit une division du pouvoir exécutif et législatif face au président Donald Trump.",
+   "corps": "Les électeurs américains ont voté lors des élections de mi-mandat du mardi 4 novembre 2026. Le Parti démocrate a remporté le contrôle complet du Congrès des États-Unis. L'opposition récupère ainsi la majorité à la Chambre des représentants et au Sénat. Le président républicain Donald Trump fera face à un gouvernement divisé pour la fin de son mandat.\n\nCette victoire démocrate au Congrès est la première depuis l'année 2023. Le Parti républicain avait obtenu le contrôle du Sénat lors du scrutin de l'année 2024. Les résultats enregistrés le 4 novembre 2026 modifient l'équilibre des forces politiques à Washington.\n\nLe Parti démocrate a également conservé des sièges clés au Sénat pendant ce scrutin. L'opposition a remporté l'élection pour le poste de gouverneur dans l'État de Géorgie. Ces gains électoraux traduisent le choix des votants face à l'administration en place.\n\nLes données de Bloomberg publiées le 4 novembre 2026 à 10h39 indiquent une insatisfaction des électeurs concernant la situation économique. Le média mentionne aussi l'opposition des votants à la guerre en Iran pour expliquer l'orientation des suffrages.\n\nLa majorité obtenue par les Démocrates leur donne un pouvoir de blocage sur l'agenda politique de Donald Trump. Le Congrès dispose d'attributions légales pour contrôler les initiatives de la présidence républicaine. Les deux chambres parlementaires reviennent sous la gestion de l'opposition.\n\n## Ce que disent les sources\n\nLes médias internationaux ont suivi l'évolution du dépouillement à des rythmes différents au cours de la matinée du 4 novembre 2026. La chaîne Deutsche Welle indiquait à 10h14 que le Parti démocrate avait acquis la majorité au Sénat mais que le décompte des voix pour la Chambre des représentants se poursuivait. Le même média a confirmé à 10h32 que les Démocrates contrôlaient l'ensemble du Congrès. De son côté, Politico Europe a annoncé dès 06h48 la victoire simultanée de l'opposition dans les deux chambres de l'assemblée.\n\nLes détails sur la répartition exacte des sièges au sein de la Chambre des représentants restent non précisés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/us-midterm-elections-2026-live-results"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.com/storyline/live/2026/11/03/midterm-election-results"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-midterm-election-results-democrats-win-crucial-seats-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-democrats-take-control-of-senate-in-blow-to-trump"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump"
+    }
+   ],
+   "premiere_parution": "2026-11-03T13:02:16Z",
+   "suite_de": null,
+   "mots": 364,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Coree du Nord rejette les accusations americaines sur un piratage informatique",
+   "chapeau": "La Coree du Nord a rejete les accusations du Bureau federal d'enquete americain concernant un vol de cryptomonnaies survenu sur la plateforme Binance. Pyongyang a qualifie cette intervention de provocation politique.",
+   "corps": "Le Bureau federal d'enquete americain a accuse la Coree du Nord d'avoir derobe plus de six milliards de dollars d'actifs numeriques sur la plateforme d'echange Binance selon ABC (ES) le 01/11/2026. La plateforme de cryptomonnaies Binance correspond au plus grand site mondial d'echange de monnaies virtuelles par volume d'operations.\n\nKim Yo-jong, sœur du dirigeant nord-coreen Kim Jong-un, a qualifie les accusations americaines de rhétorique absurde selon Le Monde (FR) le 03/11/2026. Elle a precise que ces affirmations ne comportaient aucun element nouveau.\n\nLa plateforme Binance a autorise de nouveau les retraits de fonds apres une suspension temporaire liee a cette cyberattaque selon ABC (ES) le 01/11/2026.\n\n## Ce que disent les sources\n\nLe Bureau federal d'enquete americain et des analystes en cibersecurite attribuent le vol a des pirates informatiques nord-coreens selon Bloomberg (US) le 03/11/2026 et BBC News (GB) le 03/11/2026. La Coree du Nord conteste toute implication dans ce vol selon Bloomberg (US) le 03/11/2026 et refuse tout dialogue avec Washington selon The Straits Times (SG) le 04/11/2026.\n\nCertaines sources ne precisent pas l'ensemble des mesures techniques prises par la plateforme Binance.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/economia/fbi-acusa-corea-norte-robar-6000-millones-20261101101136-nt.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/binance-nordkorea-weist-jede-schuld-am-milliardenraub-weit-von-sich-a-b27d3396-c733-4c20-bc8e-48c6fd8671ac"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/cyberattaque-contre-binance-la-coree-du-nord-qualifie-les-accusations-du-fbi-de-grave-provocation-politique-20261102"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/as-binance-reopens-withdrawals-north-korea-denies-hacking-exchange/article71659292.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-01T09:26:06Z",
+   "suite_de": "2026-11-03-monde-003",
+   "mots": 227,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Parlement du Groenland ratifie l accord de securite avec les Etats-Unis",
+   "chapeau": "Le Parlement groenlandais a valide mardi un pacte de securite lie aux Etats-Unis et a la Danemark. Le vote est intervenue a Nuuk le 3 novembre 2026 apres des mois de pressions americaines.",
+   "corps": "Les deputes du Groenland ont approuve un accord de securite trilatral. Le texte lie l'ile arctique, la Danemark et les Etats-Unis.\n\nLe vote s'est tenu le mardi 3 novembre 2026 selon Al Jazeera. Seize parlementaires ont vote pour ce texte signe en septembre, tandis que sept elus se sont abstenus d'apres la meme source. Certains membres de l'opposition ont emis des doutes concernant la valeur economique du pacte d'apres The Straits Times du 3 novembre 2026.\n\nCe texte fait suite a des demandes formulees plus tot dans l'annee par le president americain Donald Trump. Celui-ci avait reclame que l'ile devienne une propriete americaine et avait refuse d'ecarter l'usage de la force militaire d'apres Politico Europe du 3 novembre 2026.\n\nL'accord permet aux Etats-Unis d'accroitre leur presence militaire sur le territoire arctique d'apres Deutsche Welle du 4 novembre 2026. Le territoire depend de la souverainete du Royaume de Danemark d'apres la meme source.\n\n## Ce que disent les sources\n\nDer Spiegel indique le 4 novembre 2026 que le texte necessite encore l'approbation du gouvernement danois pour entrer en vigueur, alors que d'autres sources annoncent une ratification deja acquise par le Parlement groenlandais.\n\nCertaines sources mentionnent un accord entre le Groenland et les Etats-Unis, d'autres precisent qu'il s'agit d'un accord trilatral incluant la Danemark.\n\nCertains elements manquent pour connaitre l'ensemble du texte detaille de l'accord et la date exacte de son application definitive.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/greenland-lawmakers-set-to-ratify-trump-security-deal"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/greenland-greatest-gift-ever-donald-trump-us-europe"
+    },
+    {
+     "nom": "wirralglobe.co.uk",
+     "url": "https://wirralglobe.co.uk/news/national/26696385.greenland-approves-denmark-us-security-deal-months-trump-pressure"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/il-parlamento-della-groenlandia-da-l-ok-all-accordo-sulla-sicurezza-con-danimarca-e-usa/c71a5261-a83b-49cb-be97-30e28e23exlk"
+    },
+    {
+     "nom": "bordermail.com.au",
+     "url": "https://bordermail.com.au/story/9385555/greenland-approves-security-deal-with-denmark-and-us"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/groenlaender-stimmen-fuer-abkommen-mit-den-usa-a-74fd3d0d-8df9-4aae-8981-199eca8aa318"
+    }
+   ],
+   "premiere_parution": "2026-11-03T12:02:38Z",
+   "suite_de": null,
+   "mots": 263,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des menaces de bombe perturbent plusieurs vols commerciaux en Europe",
+   "chapeau": "Plusieurs avions transportant des passagers ont subi des alertes à la bombe dans l'espace aérien européen les 3 et 4 novembre 2026. Ces incidents ont entraîné des déviations de trajectoire et des interventions des forces de sécurité dans plusieurs pays.",
+   "corps": "Une série d'alertes à la bombe a visé sept avions de ligne et un navire de croisière en Europe, selon les informations diffusées le 3 novembre 2026 par le journal Folha de S.Paulo [1]. Bloomberg a rapporté le même jour que ces menaces ont contraint des appareils transportant des centaines de passagers à changer de direction et à subir des fouilles à l'atterrissage [2].\n\nPlusieurs liaisons aériennes spécifiques ont été touchées. Deutsche Welle a précisé le 3 novembre 2026 que les avertissements concernaient notamment deux avions se dirigeant vers Varsovie, un vol de la compagnie Ryanair reliant Londres à l'Espagne, deux vols à destination de Rome et une liaison reliant Israël à Sofia, la capitale de la bulgarie [3]. Der Spiegel a indiqué à la même date qu'un aéroport à Varsovie a été temporairement fermé [4]. The Hindu a ajouté le 3 novembre 2026 que les alertes à Varsovie visaient un vol de SAS Scandinavian Airlines en provenance de Copenhague et un appareil de la compagnie polonaise LOT en provenance de l'aéroport de Londres Heathrow [5].\n\nLe journal ABC a rapporté le 3 novembre 2026 qu'un vol de Ryanair reliant Manchester à Murcie a également fait l'objet d'un atterrissage d'urgence [10]. Le délégué du gouvernement, Francisco Lucas, a indiqué que l'appareil, l'équipage et les passagers ont été fouillés par la Guardia Civil, sans qu'aucun explosif ne soit découvert [10]. L'agence Xinhua a qualifié ces avertissements de fausses alertes le 3 novembre 2026 [8]. The Guardian a confirmé le même jour que sept menaces signalées contre des vols européens étaient de fausses alarmes [9]. L'aéroport de Varsovie Modlin a repris ses activités, bien que la zone où stationnait le vol provenant de Londres soit restée bouclée pour inspection par les forces de sécurité, d'après la même source [9].\n\n## Ce que disent les sources\n\nLe journal El País a mentionné le 3 novembre 2026 que des experts estiment que ces événements ne relèvent pas d'une coïncidence [11], tandis que d'autres sources se limitent à relater les faits constatés sans formuler d'hypothèse sur l'origine coordonnée ou isolée de ces actions.\n\nLes informations relatives aux détails précis de l'enquête policière menée dans chaque pays restent parcellaires dans les rapports disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/dois-avioes-com-destino-a-varsovia-recebem-ameaca-de-bomba-e-aeroporto-suspende-operacoes.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/series-of-bomb-threats-force-flight-diversions-across-europe"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/bombendrohungen-gegen-fluege-in-europa-flughafen-in-warschau-zeitweilig-dicht-a-0fc706ac-1df6-441a-80a0-18bac66d4726"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/bomb-threats-disrupt-operations-at-warsaw-airports/article71660977.ece"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20261104/f3cb368e587b4304be9beca9f79b13b9/c.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/seis-aviones-pasajeros-aterrizan-emergencia-europa-tras-20261103151152-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-03T03:45:00Z",
+   "suite_de": null,
+   "mots": 407,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La démocrate Keisha Lance Bottoms devient gouverneure de Géorgie",
+   "chapeau": "La démocrate Keisha Lance Bottoms a remporté l'élection au poste de gouverneure de Géorgie le mardi 3 novembre 2026. Elle devient ainsi la première femme noire élue à la tête d'un Etat américain.",
+   "corps": "Keisha Lance Bottoms a battu le candidat républicain Rick Jackson lors de ce scrutin. L'ancienne maire d'Atlanta et conseillère de l'administration fédérale permet à son parti de remporter ce poste dans cet Etat.\n\nSelon le journal Folha de S.Paulo du 4 novembre 2026, la candidate démocrate a obtenu plus de 54,6 pour cent des voix alors que 80 pour cent des bulletins étaient dépouillés. Le républicain sortant Brian Kemp ne pouvait pas se représenter en raison de la limitation des mandats.\n\n## Ce que disent les sources\n\nCertaines sources qualifient Keisha Lance Bottoms de première femme noire élue gouverneure d'un Etat américain, tandis que d'autres la décrivent plus largement comme la première personne noire élue gouverneure de cet Etat.\n\nUn élément manque dans les sources pour connaître le score total définitif de l'élection.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "cleveland19.com",
+     "url": "https://cleveland19.com/2026/11/03/billionaire-rick-jackson-faces-former-atlanta-mayor-keisha-lance-bottoms-georgia-governor"
+    },
+    {
+     "nom": "idahostatejournal.com",
+     "url": "https://idahostatejournal.com/news/national/georgia-democrat-keisha-lance-bottoms-makes-history-as-the-1st-black-woman-ever-elected-governor/article_fa49cdf9-6fed-52a6-b1a5-0e112452d4df.html"
+    },
+    {
+     "nom": "toronto.citynews.ca",
+     "url": "https://toronto.citynews.ca/2026/11/03/democrat-keisha-bottoms-wins-election-in-georgia-becomes-first-black-female-governor"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor"
+    },
+    {
+     "nom": "abcnews4.com",
+     "url": "https://abcnews4.com/news/nation-world/democrat-keisha-lance-bottoms-makes-history-as-1st-black-woman-to-be-elected-georgia-gov"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_04/keisha-lance-bottoms-georgia-governatrice-f6f5adb1-9e1b-480b-9487-a6c837bffxlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/keisha-lance-bottoms-wins-georgia-race-becomes-first-black-woman-elected-governor-of-us-state"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/georgia-elege-1a-mulher-negra-a-governar-um-estado-dos-eua.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-03T15:32:41Z",
+   "suite_de": null,
+   "mots": 167,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Amy Acton remporte l'élection au poste de gouverneur en Ohio",
+   "chapeau": "La démocrate Amy Acton a battu le républicain Vivek Ramaswamy lors de l'élection pour le poste de gouverneur de l'Ohio mardi 3 novembre 2026. Elle devient ainsi la première femme élue à cette fonction dans cet État américain.",
+   "corps": "La candidate démocrate Amy Acton a défait son adversaire républicain Vivek Ramaswamy, un entrepreneur soutenu par le président Donald Trump, selon les résultats rapportés mercredi 4 novembre 2026 par NPR [1]. Amy Acton succède ainsi à Mike DeWine et devient la première femme à diriger l'État de l'Ohio, ainsi que la première personnalité démocrate à occuper ce poste depuis vingt ans, d'après les informations diffusées le 4 novembre 2026 par The Times Leader [3].\n\nLa campagne électorale a été marquée par des tensions autour d'une publicité diffusée par le camp de Vivek Ramaswamy, mettant en scène la mère d'Amy Acton avec qui cette dernière est en rupture de relations, selon le Corriere della Sera du 4 novembre 2026 [9]. Cette publicité a suscité des critiques nationales importantes à la fin de la campagne, relèvent NPR le 4 novembre 2026 [1] et The Straits Times le 4 novembre 2026 [8]. De son côté, la campagne d'Amy Acton s'est axée sur la cohésion et la lutte contre la corruption, d'après iHeart le 4 novembre 2026 [2].",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/03/g-s1-151038/ohio-elects-amy-acton-first-woman-governor"
+    },
+    {
+     "nom": "iheart.com",
+     "url": "https://wvoc.iheart.com/content/2026-11-04-acton-wins-ohio-governor-race"
+    },
+    {
+     "nom": "timesleaderonline.com",
+     "url": "https://timesleaderonline.com/news/local-news/2026/11/democrat-amy-acton-defeats-vivek-ramaswamy-in-ohio-governors-race-2"
+    },
+    {
+     "nom": "wdsu.com",
+     "url": "https://wdsu.com/article/amy-acton-defeats-vivek-ramaswamy-ohio-governors-race-controversial-campaign-ad/74328172"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-backed-indian-american-vivek-ramaswamy-loses-ohio-governors-race/article71664147.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-midterms-democrat-amy-acton-defeats-republican-vivek-ramaswamy-in-ohio-governor-race"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/la-democratica-amy-acton-eletta-governatrice-in-ohio-la-guarigione-inizia-oggi/c3983f08-fd4a-4642-9d61-2d9d5dbf6xlk"
+    }
+   ],
+   "premiere_parution": "2026-11-04T01:45:00Z",
+   "suite_de": null,
+   "mots": 212,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Demission du ministre des Transports espagnol apres un accident ferroviaire",
+   "chapeau": "Le ministre des Transports espagnol, Oscar Puente, a presente sa demission mardi 3 novembre 2026. Cette decision intervient a la suite d'une collision de trains survenue recemment a Urda, dans la region de Tolede.",
+   "corps": "Oscar Puente a annonce son depart lors d'une intervention devant les deputes. Il a indique qu'il s'agissait d'une affaire de responsabilite politique et de solidarite envers les personnes touchees, selon Le Monde du 4 novembre 2026.\n\nLa collision s'est produite fin octobre 2026 au sud de Madrid. Le bilan etabli fait etat d'au moins 69 morts, d'apres Le Monde du 4 novembre 2026. Il s'agit du second accident ferroviaire d'importance en Espagne depuis le debut de l'annee 2026, l'autre incident s'etant deroule en Andalousie en janvier, precise franceinfo du 4 novembre 2026.\n\nEn plus de quitter ses fonctions ministerielles, Oscar Puente a retire sa candidature aux elections legislatives anticipees prevues le 29 novembre 2026, selon La Croix du 4 novembre 2026. Par ailleurs, une greve generale est programmee en Espagne pour le 11 novembre 2026, d'apres Liberation du 4 novembre 2026.\n\nElements manquants : les causes exactes de la collision ferroviaire ne sont pas precisees dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-le-ministre-des-transports-a-presente-sa-demission-20261103_S7MS43Y43NA45F7LKXINPZAXC4"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/collision-ferroviaire-en-espagne-le-ministre-des-transports-presente-sa-demission-20261103"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/spain-transport-minister-oscar-puente-resigns-after-deadly-train-crash"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261103-espagne-ministre-transports-d%C3%A9missionne-accident-ferroviaire"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_03/03-nov-2026-52536f7a-6dc2-4096-8649-78901d918xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-03T20:36:50Z",
+   "suite_de": null,
+   "mots": 191,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le démocrate Troy Jackson remporte le siège sénatorial du Maine",
+   "chapeau": "Le démocrate Troy Jackson a battu la sénatrice républicaine sortante Susan Collins lors des élections de mi-mandat dans le Maine, selon les résultats publiés le 4 novembre 2026. Ce scrutin a opposé les deux candidats sur des thèmes économiques et politiques locaux.",
+   "corps": "Le candidat démocrate Troy Jackson a défait la républicaine Susan Collins dans l'État du Maine le 4 novembre 2026 (Bloomberg, Bloomberg, The Straits Times, The Guardian, NPR). Susan Collins briguait un sixième mandat au Sénat qu'elle occupait depuis 1997, soit près de trente ans (franceinfo, The Guardian, Bloomberg, NPR).\n\nLa campagne électorale s'est déroulée autour de débats télévisés portant sur l'immigration, la santé et le coût de la vie (nbc16.com). Les électeurs du Maine ont voté le 3 novembre 2026 lors de ce scrutin de mi-mandat (The Straits Times, The Guardian).\n\nSusan Collins a reconnu sa défaite le 3 novembre 2026 (The Straits Times). Cette victoire apporte un siège supplémentaire au parti démocrate (Bloomberg).\n\nCertaines informations précises sur le déroulement exact du dépouillement font défaut dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-04/democrat-jackson-wins-maine-senate-race-cnn-projects"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/democrat-troy-jackson-ousts-republican-senator-susan-collins-in-maine"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-essaie-de-voter-pour-la-meilleure-personne-dans-le-maine-des-americains-encore-indecis-a-la-veille-des-elections-de-mi-mandat_8243356.html"
+    },
+    {
+     "nom": "nbc16.com",
+     "url": "https://nbc16.com/news/nation-world/collins-jackson-face-off-in-high-stakes-maine-senate-race-republican-sen-susan-collins-democratic-challenger-troy-jackson-donald-trump"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261104-midterms-2026-la-r%C3%A9publicaine-susan-collins-tente-de-conserver-son-si%C3%A8ge"
+    }
+   ],
+   "premiere_parution": "2026-11-02T05:48:39Z",
+   "suite_de": null,
+   "mots": 171,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La candidate démocrate Annie Andrews remporte le Sénat en Caroline du Sud",
+   "chapeau": "La pédiatre démocrate Annie Andrews bat la républicaine Darline Graham lors des élections sénatoriales en Caroline du Sud. Le scrutin se déroule le 4 novembre 2026.",
+   "corps": "La candidate démocrate Annie Andrews remporte un siège au Sénat américain en Caroline du Sud le mercredi 4 novembre 2026 selon plusieurs médias internationaux.\n\nVanity Fair indique le 4 novembre 2026 qu'Annie Andrews gagne du terrain après le décès du sénateur sortant Lindsey Graham. Darline Graham, sœur du sénateur décédé, reprend le siège avant de mener la campagne selon Vanity Fair le 4 novembre 2026. Le président Donald Trump choisit Darline Graham pour occuper ce siège selon BBC News le 4 novembre 2026.\n\nAnnie Andrews devient la première personne démocrate à remporter un siège sénatorial dans cet État depuis vingt-huit ans selon The Straits Times le 4 novembre 2026. Le Corriere della Sera précise le 4 novembre 2026 que Donald Trump avait gagné cet État avec dix-huit points d'avance en 2024 et que la candidate démocrate avait perdu une course à la Chambre des représentants quatre ans auparavant.\n\n## Ce que disent les sources\n\nLes sources convergent sur la victoire d'Annie Andrews face à Darline Graham en Caroline du Sud.\n\nCertains détails sur le déroulement exact du dépouillement manquent dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "vanityfair.com",
+     "url": "https://vanityfair.com/story/annie-andrews-darline-graham-south-carolina-midterm-elections-2026"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cjy56z440nl9o"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-midterms-democrats-gain-us-senate-seat-in-south-carolina-in-stunning-upset-over-darline-graham"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261104-midterms-2026-la-d%C3%A9mocrate-annie-andrews-%C3%A9lue-en-caroline-du-sud"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_04/chi-e-annie-andrews-carolina-del-sud-af880fb6-065e-46de-9277-0a23e34c2xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-04T03:04:53Z",
+   "suite_de": null,
+   "mots": 208,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le senateur democrate Jon Ossoff remporte sa reelection en Georgie",
+   "chapeau": "Le democrate Jon Ossoff a remporte l'election senatoriale en Georgie le mardi 4 novembre 2026. Cette victoire permet au parti de conserver un siege cle lors de ces scrutins de mi-mandat.",
+   "corps": "Le senateur sortant Jon Ossoff a battu le republicain Mike Collins en Georgie, un etat situe dans le sud-est des Etats-Unis, selon les informations publiees le 4 novembre 2026 par Al Jazeera et Le Monde. Ages de 39 ans selon The Hindu du 4 novembre 2026, il est issu de l'aile moderee du Parti democrate d'apres Le Monde du 4 novembre 2026.\n\nApres sa victoire, le candidat a declare que le peuple americain a rejete la corruption et l'incompetence de Donald Trump, d'apres les elements diffuses par franceinfo le 4 novembre 2026. Sa reélection est perçue par plusieurs medias comme un renforcement de son statut au sein de sa formation politique en vue d'une eventuelle candidature presidentielle future, bien que l'interesse ait indique avoir un interet nul pour une telle course selon The Hindu du 4 novembre 2026.\n\nHaaretz precise le 4 novembre 2026 que sa campagne a divise les electeurs juifs locaux en raison de ses positions sur Israel. La source ajoute que l'etat a egalement elu un gouverneur democrate pour la premiere fois depuis 2003.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/04/midterms-2026-le-democrate-jon-ossoff-remporte-la-georgie-et-renforce-sa-stature-de-presidentiable_6805801_3210.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/rising-democratic-star-jon-ossoffs-reelection-fuels-presidential-prospects/article71663812.ece"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/jon-ossoff-etoile-montante-des-democrates-reelu-senateur-en-georgie-lors-des-midterms-2026_8266943.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-04/ty-article/.premium/ap-calls-georgia-senate-race-for-jon-ossoff/000001a1-a410-db8d-a9f7-a5dce0ba0000"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_02/jon-ossoff-georgia-senato-usa-midterm-de9a14e2-d9a1-4164-96d0-efd122e19xlk.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqwyrmm2k4mpo"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261104-midterms-2026-le-d%C3%A9mocrate-jon-ossoff-r%C3%A9%C3%A9lu-s%C3%A9nateur-de-g%C3%A9orgie"
+    }
+   ],
+   "premiere_parution": "2026-11-02T13:14:44Z",
+   "suite_de": null,
+   "mots": 208,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La démocrate Gina Hinojosa remporte l élection du gouverneur au Texas",
+   "chapeau": "La candidate démocrate Gina Hinojosa bat le gouverneur républicain sortant Greg Abbott lors des élections de mi-mandat. Le scrutin se déroule au Texas le mardi 3 novembre 2026.",
+   "corps": "La représentante d état Gina Hinojosa accède au poste de gouverneur du Texas après sa victoire contre Greg Abbott. Selon Fox 35 Orlando du 4 novembre 2026 à 04:15, cette élection fait d elle la première femme gouverneur démocrate de l État depuis des décennies. La publication NPR du 4 novembre 2026 à 08:19 précise qu elle est la première personne démocrate à occuper cette fonction depuis 1995. Elle devient également la première femme d origine hispanique à diriger cet État.\n\nGreg Abbott perd ainsi la possibilité d obtenir un quatrième mandat selon Tyler Paper du 4 novembre 2026 à 08:13. El País mentionne le 4 novembre 2026 à 08:53 que Greg Abbott dirigeait l État depuis 2015.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "fox35orlando.com",
+     "url": "https://fox35orlando.com/news/texas-governors-race-2026-hinojosa-defeats-abbott-become-states-first-democratic-governor-decades"
+    },
+    {
+     "nom": "tylerpaper.com",
+     "url": "https://tylerpaper.com/2026/11/03/democrat-gina-hinojosa-topples-greg-abbott-to-become-first-latina-governor-of-texas"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/03/g-s1-150844/gina-hinojosa-texas-governor-abbott"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-04/la-democrata-gina-hinojosa-da-la-sorpresa-en-texas-para-convertirse-en-la-primera-mujer-hispana-en-ser-gobernadora.html"
+    },
+    {
+     "nom": "wlwt.com",
+     "url": "https://wlwt.com/article/gina-hinojosa-greg-abbott-texas-governor/74328347"
+    },
+    {
+     "nom": "bostonherald.com",
+     "url": "https://bostonherald.com/2026/11/03/election-2026-texas-governor-hinojosa"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-midterms-democrat-gina-hinojosa-defeats-texas-governor-abbott-in-a-stunning-upset"
+    },
+    {
+     "nom": "marshallnewsmessenger.com",
+     "url": "https://marshallnewsmessenger.com/2026/11/03/democrat-hinojosa-topples-abbott-to-become-texas-first-latina-governor"
+    }
+   ],
+   "premiere_parution": "2026-11-04T00:15:00Z",
+   "suite_de": null,
+   "mots": 150,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Examen du budget 2027 à l'Assemblée nationale et perspectives d'impasse",
+   "chapeau": "Les députés poursuivent l'examen du projet de loi de finances pour 2027 à l'Assemblée nationale début novembre. Le texte gouvernemental fait face à des prévisions de croissance révisées à la baisse.",
+   "corps": "Lundi 2 novembre 2026, les parlementaires ont débattu et voté des amendements modifiant la TVA sur l'électricité ou la télévision payante, selon Le Monde du 3 novembre 2026. L'exécutif fait face à des difficultés économiques, avec un recul de 0,1 % de la croissance au troisième trimestre selon La Croix du 3 novembre 2026.\n\nLe gouvernement doit trouver entre 10 et 15 milliards d'euros d'économies supplémentaires pour limiter le déficit public à 5 % l'an prochain, d'après La Croix du 3 novembre 2026. Face au rejet prévisible de la première partie du texte par les députés, Sébastien Lecornu étudie l'utilisation des ordonnances, tandis qu'un recours à l'article 49.3 est également évoqué par Le Monde le 4 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/budget-2027-croissance-en-panne-et-crise-sociale-pesent-sur-les-equations-deja-insolubles-du-gouvernement-20261103"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-radio/le-decryptage-eco/alors-que-les-previsions-macroeconomiques-ne-tiennent-plus-a-quoi-servent-les-discussions-dans-l-hemicycle-sur-le-budget_8243353.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/info-%C3%A9co/20261103-budget-2027-le-gouvernement-rattrap%C3%A9-par-la-r%C3%A9alit%C3%A9-%C3%A9conomique"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/budget-2027-plombee-par-une-croissance-molle-la-copie-du-gouvernement-est-deja-obsolete-20261103_RXWRNIG5URB5VA3EFCEOV4MJDM"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/guillaume-tabard-dangereuse-irresponsabilite-budgetaire-20261103"
+    }
+   ],
+   "premiere_parution": "2026-11-02T08:30:57Z",
+   "suite_de": null,
+   "mots": 149,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Édouard Philippe refuse la primaire proposée par Gabriel Attal pour 2027",
+   "chapeau": "Édouard Philippe a rejeté la proposition d'une primaire formulée par Gabriel Attal pour l'élection présidentielle de 2027. Ce refus est intervenu lors d'une intervention télévisée diffusée le dimanche 1er novembre 2026.",
+   "corps": "Le candidat Horizons Édouard Philippe a écarté l'idée d'une primaire au sein du bloc central et de la droite, qualifiant cette option de scrutin de division. Il a exprimé son rejet sur TF1 dimanche 1er novembre 2026.\n\nDe son côté, le candidat Renaissance Gabriel Attal a jugé cette démarche inéluctable lundi 2 novembre 2026, malgré ce refus. Il a estimé que la priorité absolue était d'éviter un second tour opposant Marine Le Pen et Jean-Luc Mélenchon.\n\nGérald Darmanin a également rejeté ce mode de scrutin le mardi 3 novembre 2026, selon Le Monde, tout en appelant à un rassemblement derrière Édouard Philippe.\n\n## Ce que disent les sources\n\nGabriel Attal affirme que la primaire est inéluctable pour désigner un candidat unique face au risque d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon, d'après Le Monde du 2 novembre 2026. Édouard Philippe qualifie quant à lui l'exercice de primaire de la division et de la confusion, selon la même source et Le Figaro du 2 novembre 2026.\n\nCertains éléments précis sur l'organisation concrète de cette éventuelle primaire manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/02/presidentielle-2027-gabriel-attal-juge-la-tenue-d-une-primaire-du-centre-et-de-la-droite-ineluctable-malgre-le-refus-d-edouard-philippe_6805225_823448.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/edouard-philippe-refuse-la-primaire-renvoie-les-choix-a-fevrier-20261101"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/c-est-sa-strategie-depuis-le-debut-pourquoi-edouard-philippe-refuse-t-il-de-participer-a-une-primaire_8263550.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/primaire-attal-philippe-et-retailleau-ne-croient-que-ce-quils-veulent-20261102_SYJMXPTPDZDJPHDCYZ25YANSIE"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261103-pr%C3%A9sidentielle-en-france-y-aura-t-il-une-primaire-de-la-droite"
+    }
+   ],
+   "premiere_parution": "2026-11-01T19:47:51Z",
+   "suite_de": null,
+   "mots": 212,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Ouverture du procès des parents d'Inass Touloub à Blois",
+   "chapeau": "Le procès des parents d'Inass Touloub s'ouvre lundi 2 novembre 2026 devant la cour d'assises du Loir-et-Cher à Blois. Trente-neuf ans après la découverte du corps de la fillette sur l'autoroute A10, la justice examine les responsabilités de sa mère et de son père.",
+   "corps": "Halima El Bakhti et Ahmed Touloub comparaissent pour des violences mortelles sur leur fille âgée de 4 ans selon Le Monde du 1er novembre 2026. Le corps sans vie de l'enfant avait été retrouvé le 11 août 1987 selon Le Monde du 1er novembre 2026. L'identification de la victime a nécessité plusieurs décennies d'enquête avant d'aboutir en 2017 grâce à l'ADN selon Libération du 3 novembre 2026.\n\nAu premier jour des audiences, les débats se sont focalisés sur l'état de santé des accusés selon franceinfo du 3 novembre 2026. La cour a examiné la situation médicale des parents âgés de plus de 70 ans selon Le Monde du 3 novembre 2026. Une expertise psychiatrique complémentaire a été demandée pour le père selon franceinfo du 3 novembre 2026.\n\nLe deuxième jour du procès a permis d'entendre un médecin légiste qui a décrit les blessures de la victime selon franceinfo du 4 novembre 2026. Les parents ont fourni des réponses brèves aux questions de la cour selon franceinfo du 4 novembre 2026.\n\nCertaines sources indiquent que la mère est poursuivie pour des violences mortelles sans intention de la donner tandis que le père est jugé pour complicité selon Libération du 2 novembre 2026, d'autres sources mentionnant plus globalement des actes de torture selon Le Monde du 1er novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/01/l-inconnue-de-l-a10-de-l-abandon-d-une-enfant-suppliciee-au-proces-de-ses-parents-trois-decennies-de-secret-de-famille_6804513_3224.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/affaire-de-la-petite-martyre-de-la10-aux-assises-du-loir-et-cher-lepilogue-de-quatre-decennies-de-mystere-20261102_GJJZVMDBPBEZFFB5HSQNGDXMW4"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/martyre-de-l-a10/des-fois-j-ai-des-trous-de-memoire-au-premier-jour-de-leur-proces-l-etat-de-sante-des-parents-de-la-martyre-de-l-a10-au-c-ur-des-debats_8264537.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/la-petite-martyre-de-l-a10-un-long-mystere-et-un-proces-39-ans-apres-20261030"
+    }
+   ],
+   "premiere_parution": "2026-11-01T15:57:52Z",
+   "suite_de": null,
+   "mots": 261,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le gouvernement suspend les nouvelles demandes d’aides du Fonds chaleur",
+   "chapeau": "Le gouvernement français a décidé d'interrompre l'enregistrement de nouveaux dossiers pour le Fonds chaleur à compter de ce mardi 3 novembre 2026. Ce dispositif financier public soutient le déploiement des réseaux de chaleur et de froid utilisant des énergies renouvelables sur l'ensemble du territoire national.",
+   "corps": "Le cabinet du ministère de la Transition écologique justifie cette mesure par le volume élevé de projets déposés au cours de l'année 2026. Cette décision découle également de contraintes budgétaires pesant sur l'Agence de l'environnement et de la maîtrise de l'énergie, connue sous l'acronyme Ademe.\n\nLe ministère précise que le budget prévu pour l'année 2027 intègre une diminution de la dotation allouée à cet organisme public. Le Fonds chaleur permet aux collectivités locales ainsi qu'aux entreprises de financer des installations thermiques durables. Ces infrastructures visent à remplacer les énergies fossiles par des sources renouvelables.\n\nL'arrêt des dépôts de dossiers prend effet dès ce mardi 3 novembre 2026. La durée exacte de cette suspension n'est pas mentionnée dans les sources.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/11/03/transition-ecologique-le-gouvernement-suspend-les-nouvelles-demandes-d-aide-au-fonds-chaleur_6805633_3244.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sciences/transition-energetique-le-gouvernement-suspend-le-fonds-chaleur-20261103"
+    }
+   ],
+   "premiere_parution": "2026-11-03T16:57:26Z",
+   "suite_de": null,
+   "mots": 164,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Des organisations européennes appellent à manifester contre la vie chère",
+   "chapeau": "Des syndicats et associations de sept pays européens ont annoncé des mobilisations coordonnées pour la fin du mois de novembre. Ils prévoient des manifestations les 20, 21 et 22 novembre pour protester contre la hausse du coût de la vie.",
+   "corps": "Des représentants d'organisations issues d'Espagne, de France, d'Italie, du Royaume-Uni, du Portugal, de Grèce et de Belgique ont officialisé cet appel mardi 3 novembre à Paris, selon RFI (03/11/2026). Ces collectifs espèrent réunir des millions de participants à travers l'Europe durant ces trois jours de mobilisation.\n\nLes revendications portent sur la garantie du droit au logement ainsi que sur le contrôle des prix de l'énergie, de l'alimentation et des loyers, rapporte franceinfo (04/11/2026). Carme Arcarazo, porte-parole d'une organisation espagnole de défense des locataires, a justifié cette coordination par la nécessité d'agir ensemble face à la crise actuelle du pouvoir d'achat, d'après Le Figaro (03/11/2026).\n\nIl manque des précisions sur les lieux exacts des rassemblements prévus dans chaque pays.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261103-associations-et-syndicats-de-sept-pays-europ%C3%A9ens-appellent-%C3%A0-manifester-contre-la-vie-ch%C3%A8re-fin-novembre"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/vie-chere-associations-et-syndicats-de-sept-pays-europeens-appellent-a-manifester-20261103"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/social/espagne-italie-grece-associations-et-syndicats-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre-20261103"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/manifestations/des-associations-et-syndicats-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-les-20-21-et-22-novembre_8266649.html"
+    }
+   ],
+   "premiere_parution": "2026-11-03T17:35:58Z",
+   "suite_de": null,
+   "mots": 164,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Les lycéens et étudiants maintiennent des blocages avant la mobilisation nationale",
+   "chapeau": "Des lycéens et des étudiants poursuivent leurs mouvements de contestation dans plusieurs établissements français ce mardi 3 novembre. Ces actions précèdent une journée de mobilisation interprofessionnelle prévue le 5 novembre.",
+   "corps": "Le mouvement de contestation se poursuit dans les lycées et les universités malgré les annonces gouvernementales jugées insuffisantes par les organisations étudiantes. Les participants maintiennent la pression en bloquant des établissements et en manifestant dans les centres-villes, à deux jours d'une grève nationale.\n\nAu sein des établissements, la situation divise les élèves. Certains étudiants et lycéens expriment leur détermination à ne pas abandonner le mouvement. D'autres élèves et parents s'inquiètent des conséquences de ces perturbations sur la scolarité et la validation des examens, notamment le baccalauréat.\n\n## Ce que disent les sources\n\nLe ministère de l'Éducation nationale a recensé 48 lycées bloqués le mardi 3 novembre (France 24, 03/11/2026, 05:27). L'Union syndicale lycéenne conteste ces données et avance le chiffre de 500 établissements bloqués (France 24, 03/11/2026, 05:27). L'organisation syndicale dénonce également des interventions policières devant les lycées (France 24, 03/11/2026, 15:51). Concernant l'enseignement supérieur, le ministère fait état de 51 établissements perturbés sur 184 (France 24, 03/11/2026, 18:31), tandis que Le Monde rapporte qu'entre un tiers et la moitié des établissements ont été touchés (Le Monde, 03/11/2026, 23:30).\n\nLe détail précis des revendications spécifiques des syndicats n'est pas mentionné dans les sources.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261102-mobilisations-lyc%C3%A9ennes-en-france-un-mal-%C3%AAtre-social-partag%C3%A9-par-les-jeunesses-du-monde"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/colere-des-lyceens-le-mouvement-s-essouffle-apres-deux-semaines-de-vacances-20261102"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/l-actu-pour-les-jeunes/quel-impact-sur-le-baccalaureat-pour-les-lyceens_8264504.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/nouvel-appel-a-bloquer-facs-et-lycees-avec-la-greve-de-jeudi-en-ligne-de-mire-20261102"
+    }
+   ],
+   "premiere_parution": "2026-11-01T16:58:22Z",
+   "suite_de": null,
+   "mots": 237,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-007",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Emmanuel Macron fait face à des critiques politiques et des révélations",
+   "chapeau": "Le président de la République subit des pressions électorales et politiques à l'approche de la fin de son mandat. Plusieurs sources médiatiques rapportent des critiques sur sa gestion et des confidences personnelles.",
+   "corps": "Le chef de l'État voit une partie de son électorat de 2022 se tourner vers le Rassemblement national, selon une analyse du Figaro publiée le 2 novembre 2026. Parallèlement, un ouvrage de l'éditorialiste Françoise Degois, paru le 4 novembre 2026, dévoile des échanges privés où Emmanuel Macron défend ses décisions et exprime ses craintes concernant une victoire du RN en 2027.\n\nSur le plan politique, le président fait l'objet de critiques concernant l'absence de structuration d'une force politique pérenne. Françoise Fressoz, éditorialiste au Monde, souligne le 3 novembre 2026 que cette situation fragilise son bilan. De son côté, Fabien Roussel, candidat communiste à la présidentielle, a déclaré le 3 novembre 2026 qu'il suffisait de secouer le président pour trouver des financements destinés aux lycées et universités.\n\nCertaines informations sur les intentions de vote précises des électeurs de 2022 manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/une-combinaison-completement-improbable-pourquoi-des-electeurs-d-emmanuel-macron-en-2022-s-appretent-a-voter-marine-le-pen-20261101"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/idees/article/2026/11/03/la-grande-erreur-d-emmanuel-macron-a-ete-de-ne-pas-avoir-structure-une-nouvelle-force-politique-comme-si-lui-seul-etait-capable-de-faire_6805529_3232.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/fabien-roussel/secouez-emmanuel-macron-vous-allez-voir-les-billets-qui-vont-tomber_8265863.html"
+    }
+   ],
+   "premiere_parution": "2026-11-02T09:36:22Z",
+   "suite_de": null,
+   "mots": 175,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-france-008",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La progression électorale de David Lisnard interroge ses concurrents politiques",
+   "chapeau": "Le maire de Cannes, David Lisnard, enregistre une hausse dans les sondages pour l'élection présidentielle de 2027. Cette dynamique interroge les autres formations politiques de droite sur leur propre stratégie électorale.",
+   "corps": "Le parti Nouvelle Énergie, dirigé par David Lisnard, compte désormais plus de 100 000 adhérents selon Le Figaro du 3 novembre 2026. Le maire de Cannes propose une ligne libérale qui attire une partie de l'électorat de droite. Il est également le seul candidat à soutenir la proposition de primaire des démocrates formulée par Gabriel Attal, d'après RFI le 3 novembre 2026.\n\nCertains sondages placent désormais David Lisnard devant le candidat des Républicains, Bruno Retailleau, rapporte franceinfo le 4 novembre 2026. Cette situation pose la question de la pérennité de cette progression dans les mois à venir.\n\n## Ce que disent les sources\n\nLe Figaro rapporte que les membres de l'UDR qualifient la candidature de David Lisnard de simple témoignage. De son côté, franceinfo indique que des acteurs politiques s'inquiètent de cette émergence face à la candidature de Bruno Retailleau.\n\nLe programme détaillé de David Lisnard n'est pas précisé dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-la-progression-de-david-lisnard-peut-elle-inquieter-les-liberaux-du-rn-et-de-l-udr-20261103"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261103-pr%C3%A9sidentielle-fran%C3%A7aise-la-candidat-nouvelle-%C3%A9nergie-david-lisnard-fait-il-peur-%C3%A0-ses-concurrents"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/bien-sur-qu-ils-s-inquietent-l-emergence-de-david-lisnard-peut-elle-menacer-la-candidature-de-bruno-retailleau-a-la-presidentielle_8264240.html"
+    }
+   ],
+   "premiere_parution": "2026-11-03T17:15:00Z",
+   "suite_de": null,
+   "mots": 183,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump annonce la fin de l'aide militaire américaine à Israël",
+   "chapeau": "Le président américain Donald Trump a déclaré le mardi 3 novembre 2026 sur la chaîne Fox News que les États-Unis stopperaient l'aide militaire annuelle accordée à Israël d'ici la fin de l'année. Cette décision intervient le jour des élections de mi-mandat.",
+   "corps": "Le président américain Donald Trump a affirmé le mardi 3 novembre 2026 que son pays mettrait un terme à l'aide financière et sécuritaire destinée à Israël dès la fin du mois de décembre 2026, selon les informations du Financial Times [03/11/2026 à 19:32]. Cette subvention annuelle s'élève à environ 4 milliards de dollars, selon les déclarations de Donald Trump rapportées par Folha de S.Paulo [03/11/2026 à 20:20], tandis que France 24 mentionne un montant de 3,8 milliards de dollars [03/11/2026 à 21:02]. Le dispositif actuel devait initialement se poursuivre jusqu'en 2028, d'après les précisions d'El País [03/11/2026 à 23:00].\n\nLe dirigeant américain a indiqué lors de son interview téléphonique que le Premier ministre israélien Benjamin Netanyahu était d'accord avec cette mesure, selon France 24 [03/11/2026 à 21:02]. Donald Trump a également précisé que les États-Unis continueraient toutefois à vendre des armements à Israël, d'après Deutsche Welle [04/11/2026 à 04:21]. Cette annonce intervient alors que le soutien à Israël figure au cœur des débats électoraux des élections de mi-mandat aux États-Unis, selon Libération [04/11/2026 à 02:08].\n\n## Ce que disent les sources\n\nLe Financial Times [03/11/2026 à 19:32] et The Guardian [03/11/2026 à 21:17] qualifient l'annonce de surprise. Le journal El País [03/11/2026 à 23:00] souligne que le pacte initial devait courir jusqu'en 2028 et nécessite l'approbation du Congrès. Le journal Le Monde [03/11/2026 à 23:30] évoque une décision prise sans concertation apparente ni détails. L'agence Al Jazeera [04/11/2026 à 05:13] relève le scepticisme suscité par cette déclaration.\n\nLe texte ne précise pas les modalités exactes du vote au Congrès pour valider cette interruption de financement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-diz-que-eua-vao-cortar-ajuda-anual-de-us-4-bilhoes-a-israel.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261103-%C3%A9tats-unis-le-pr%C3%A9sident-trump-coupe-l-aide-annuelle-pour-la-s%C3%A9curit%C3%A9-d-isra%C3%ABl"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/03/midterms-2026-donald-trump-revele-a-fox-news-que-l-aide-militaire-a-israel-sera-coupee-a-la-fin-de-l-annee_6805657_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/donald-trump-cree-la-surprise-en-annoncant-mettre-fin-a-des-milliards-daide-a-israel-20261103_CHE4J66QGJGV5DGYY2VOYXW2IY"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-03T13:29:58Z",
+   "suite_de": null,
+   "mots": 343,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Frappes russes contre un centre d aide humanitaire en Ukraine",
+   "chapeau": "Des bombardements russes ont touché un centre d aide humanitaire dans la région de Zaporijia le lundi 2 novembre 2026. L attaque a fait plusieurs dizaines de morts selon les autorités ukrainiennes.",
+   "corps": "Une école servant de centre de distribution d aide humanitaire a subi des frappes aériennes attribuées à la Russie dans le village de Komyshuvakha, situé dans le sud-est de l Ukraine, le lundi 2 novembre 2026.\n\nLe bilan humain fait l objet de variations selon les sources et les moments de publication. Le président ukrainien Volodymyr Zelensky et les services d urgence locaux ont communiqué des chiffres évolutifs au fil des heures.\n\n## Ce que disent les sources\n\nLe 3 novembre 2026 à 01:59, la Deutsche Welle indique un bilan d au moins 26 morts. Le même chiffre est rapporté par El País à 02:20, par Al Jazeera à 05:17 et par ABC à 11:02. Le journal The Guardian fait état d au moins 31 morts le 3 novembre 2026 à 16:25, tout comme The Hindu à 22:16. NPR évoque 29 morts et 48 disparus le 3 novembre 2026 à 15:01. Franceinfo mentionne également 29 morts le 3 novembre 2026 à 18:13. Libération et Le Monde recensent 33 morts les 3 et 4 novembre 2026. La BBC signale 38 morts le 3 novembre 2026 à 20:57.\n\nL organisation des Nations unies, par l intermédiaire de sa structure chargée de surveiller les droits humains dans le pays, a indiqué que cette opération militaire contredisait les règles internationales protégeant les civils, selon les informations publiées par Le Monde le 4 novembre 2026 à 01:53. Les sources ne permettent pas de connaître la réaction officielle du gouvernement russe à cette date.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-02/varios-muertos-por-un-bombardeo-ruso-contra-una-escuela-en-ucrania.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/nouveaux-pourparlers-frappes-sur-un-hopital-a-kharkiv-500-drones-ukrainiens-interceptes-lactu-du-conflit-en-ukraine-ce-3-novembre-20261103_TSDN6V6OGFF2JNMRFKVKN35BCM"
+    }
+   ],
+   "premiere_parution": "2026-11-02T06:23:40Z",
+   "suite_de": null,
+   "mots": 289,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Les forces américaines mènent des frappes sur l'île iranienne de Qeshm",
+   "chapeau": "L'armée des États-Unis a effectué des frappes limitées sur l'île iranienne de Qeshm dans la nuit de lundi à mardi. Cette opération militaire survient à la veille des élections de mi-mandat américaines.",
+   "corps": "Le Commandement central des États-Unis a confirmé ces attaques, selon des informations rapportées le 3 novembre 2026. Des responsables américains qualifient ces frappes de mesures défensives. Ils justifient cette action par la nécessité de répondre aux efforts iraniens visant le transport maritime et les actifs américains. Les autorités américaines indiquent que ces frappes visaient des missiles sol-air, des armes tirées depuis le sol vers des cibles aériennes.\n\nCes frappes s'inscrivent dans une série d'opérations militaires limitées menées par Washington au cours des dernières semaines. Le président Donald Trump minimise la perspective d'une guerre renouvelée avec l'Iran. Le vice-président JD Vance a exprimé son optimisme concernant les efforts diplomatiques en cours pour mettre fin au conflit.\n\nDes explosions ont été entendues sur l'île de Qeshm et à Bandar Lengeh. Ces événements se déroulent alors que le pays se prépare pour les élections de mi-mandat.\n\n## Ce que disent les sources\n\nLes médias américains, cités par le Wall Street Journal, rapportent que ces frappes ont été maintenues secrètes pour éviter de signaler une intention de reprendre une campagne militaire majeure contre l'Iran. Le Guardian précise que ces frappes ont été divulguées initialement par des utilisateurs iraniens sur les réseaux sociaux avant d'être confirmées par le Commandement central américain.\n\nCertains détails sur l'ampleur exacte des dégâts matériels sur l'île de Qeshm manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/united-states-struck-irans-qeshm-island-wall-street-journal-reports"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/iran/2026-11-03/ty-article/.premium/report-u-s-strikes-irans-qeshm-island-u-s-officials-say/000001a1-9ef4-de48-abb1-dff57b640000"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+    },
+    {
+     "nom": "nbcphiladelphia.com",
+     "url": "https://nbcphiladelphia.com/news/national-international/us-military-limited-strikes-iran-qeshm-island/4490343"
+    },
+    {
+     "nom": "ibtimes.co.uk",
+     "url": "https://ibtimes.co.uk/us-forces-strike-iran-qeshm-island-midterm-elections-1829754"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+    }
+   ],
+   "premiere_parution": "2026-11-03T01:10:14Z",
+   "suite_de": null,
+   "mots": 254,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump écarte des frappes militaires immédiates contre l'Iran",
+   "chapeau": "Le président américain Donald Trump a déclaré lundi et mardi ne pas envisager d'attaques militaires contre l'Iran. Cette prise de position intervient à quelques heures de la clôture des élections de mi-mandat aux États-Unis.",
+   "corps": "Le président américain Donald Trump a affirmé que les États-Unis n'avaient aucun projet immédiat de frappes contre l'Iran. Il a qualifié la situation actuelle avec Téhéran de brillante lors d'un entretien accordé au Financial Times, quelques heures avant la fin du scrutin de mi-mandat. Le dirigeant américain a précisé que son administration obtenait les résultats souhaités dans ce dossier.\n\nDonald Trump a également évoqué la possibilité de conclure un accord avec les autorités iraniennes. Des négociateurs iraniens travaillent actuellement sur un tel projet avec l'aide de médiateurs qataris pour mettre fin au conflit en cours.\n\n## Ce que disent les sources\n\nLe Straits Times et Haaretz rapportent dès le 3 novembre 2026 que le président américain a exprimé des doutes sur la poursuite des attaques militaires. Le Financial Times, le 4 novembre 2026, précise que Donald Trump a confirmé l'absence de plan immédiat pour frapper l'Iran lors d'une interview. Le Hindu confirme cette déclaration le 4 novembre 2026, citant les propos du président sur l'obtention de ses objectifs.\n\nLes détails précis sur le contenu de l'accord potentiel entre les États-Unis et l'Iran ne sont pas mentionnés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-raises-doubts-about-renewed-attacks-on-iran"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-03/ty-article/trump-raises-doubts-about-renewed-attacks-on-iran/000001a1-9e92-d02e-abe7-df9643660000"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-us-has-no-immediate-plan-to-strike-iran-report/article71663717.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-02T21:02:15Z",
+   "suite_de": null,
+   "mots": 222,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des frappes russes visent les infrastructures énergétiques ukrainiennes cette semaine",
+   "chapeau": "La Russie a ciblé les réseaux électriques ukrainiens lors de multiples attaques aériennes entre le 1er et le 4 novembre 2026. Le président Volodymyr Zelensky et le ministère russe de la Défense confirment ces opérations militaires survenues dans plusieurs régions.",
+   "corps": "Les forces russes ont mené des bombardements sur les infrastructures énergétiques de l'Ukraine entre le 1er et le 4 novembre 2026. Ces attaques ont provoqué des coupures d'électricité dans plusieurs zones du pays. Le 3 novembre 2026, des dizaines de missiles et des centaines de drones ont touché des centrales électriques et des postes de transformation, selon The Straits Times. Ces installations permettent de convertir la tension électrique.\n\nLe 1er novembre 2026, le président ukrainien Volodymyr Zelensky a signalé des frappes russes dans quatre régions. Le 3 novembre 2026, les opérations se sont intensifiées. Elles ont touché neuf régions ukrainiennes, d'après le Financial Times. Les régions de Vinnytsia, Dnipropetrovsk et Kharkiv ont été visées par ces opérations, selon le ministère russe de la Défense le 3 novembre 2026. Le 4 novembre 2026, le ministère russe de la Défense a indiqué avoir frappé deux centrales électriques situées dans les régions de Kiev et de Jytomyr. Ces actions se déroulent alors que les températures diminuent, selon The Straits Times du 4 novembre 2026.\n\nL'Ukraine a également mené des actions offensives. Kiev a touché une raffinerie russe, selon The Straits Times du 3 novembre 2026. Moscou a rapporté des dommages sur une installation industrielle dans la région de Nijni Novgorod le 1er novembre 2026, d'après Politico Europe. Ces événements surviennent avant la reprise de pourparlers de paix prévus dans une semaine, selon The Straits Times du 3 novembre 2026.\n\nFriedrich Merz, responsable politique allemand, a demandé à Moscou de participer aux discussions, selon The Straits Times du 3 novembre 2026. Par ailleurs, un cessez-le-feu, une suspension temporaire des combats, négocié par Melania Trump dans la région de Kherson, devait prendre fin le dimanche 1er novembre 2026 au soir, selon Deutsche Welle.\n\n## Ce que disent les sources\n\nLe ministère russe de la Défense affirme, le 3 novembre 2026, que les frappes visaient des installations électriques alimentant des usines militaires et l'armée ukrainienne. Le Financial Times rapporte, le 3 novembre 2026, que l'armée de l'air ukrainienne rencontre des difficultés pour intercepter les missiles et les drones russes.\n\nLe nombre exact de victimes civiles ou militaires n'est pas précisé dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russia-strikes-leave-thousands-without-power-ukraine-volodymyr-zelenskyy"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/52c2f86b-46a8-4710-9c05-f186baf3827f"
+    }
+   ],
+   "premiere_parution": "2026-11-01T11:36:44Z",
+   "suite_de": null,
+   "mots": 397,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-geopolitique-006",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Benjamin Netanyahu sollicite Donald Trump pour reprendre les frappes contre l'Iran",
+   "chapeau": "Le Premier ministre israélien Benjamin Netanyahu a échangé par téléphone avec le président américain Donald Trump au sujet de la guerre contre l'Iran. Cette discussion intervient alors que des efforts de médiation sont en cours pour stabiliser la situation régionale.",
+   "corps": "Benjamin Netanyahu cherche à obtenir le soutien de Donald Trump pour mener de nouvelles opérations militaires contre l'Iran après les élections de mi-mandat aux États-Unis. Le dirigeant israélien souhaite cibler des installations nucléaires iraniennes. Cette pression s'exerce dans un contexte où le Qatar mène des efforts de médiation pour instaurer un accord intérimaire entre Washington et Téhéran. Dans le cadre de ces négociations, l'Iran a proposé de rouvrir le détroit d'Ormuz sous 48 heures.\n\nLa situation politique intérieure en Israël fragilise la position du Premier ministre. Benjamin Netanyahu a perdu sa majorité parlementaire lors des récentes élections. Certains observateurs estiment qu'une reprise des hostilités à grande échelle pourrait faciliter la formation d'un gouvernement d'urgence. L'armée israélienne manifeste toutefois des réticences à lancer une attaque conjointe avec les États-Unis pendant les négociations de coalition en cours. Gadi Eisenkot a indiqué qu'il soutiendrait le chef d'état-major de l'armée si le Premier ministre tentait d'imposer une escalade militaire.\n\n## Ce que disent les sources\n\nLes versions divergent sur la teneur de l'échange téléphonique entre les deux dirigeants. Une source israélienne qualifie l'appel de difficile, tandis qu'une source américaine le décrit comme direct, selon Axios (The Hindu, 02/11/2026). Le président américain Donald Trump se montre désireux de laisser les négociations avec l'Iran suivre leur cours (The Straits Times, 02/11/2026). À l'inverse, des responsables indiquent que Benjamin Netanyahu fait pression sur les autorités américaines pour reprendre des opérations de combat majeures (Haaretz, 02/11/2026).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_01/netanyahu-trump-iran-obiettivi-diversi-f5c1b86c-13b6-40a8-b14a-e87807de3xlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/trump-holds-call-with-netanyahu-over-state-of-iran-war-report"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-02/ty-article/.premium/trump-says-he-had-very-good-talk-with-netanyahu-discussed-iran/000001a1-9a32-de48-abb1-dff3dc890000"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/02/speculaties-over-een-nieuwe-amerikaans-israelische-aanval-op-iran-worden-steeds-hardnekkiger-waarom-zouden-ze-dat-willen-en-waarom-nu-a4940314"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/netanyahu-presiona-trump-atacar-iran-teheran-ofrece-20261102183735-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-01T20:35:58Z",
+   "suite_de": null,
+   "mots": 283,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-economie-001",
+   "rubrique": "economie",
+   "format": "standard",
+   "titre": "Les États-Unis suspendent les avantages commerciaux du Rwanda et de l'Afrique du Sud",
+   "chapeau": "Le gouvernement américain a annoncé la fin de l'accès préférentiel au marché pour le Rwanda et l'Afrique du Sud. Cette décision, qui prendra effet le 1er janvier 2027, exclut ces deux pays de l'African Growth and Opportunity Act.",
+   "corps": "L'administration Trump a officialisé le retrait du Rwanda et de l'Afrique du Sud du programme AGOA, une initiative américaine facilitant les échanges commerciaux avec l'Afrique subsaharienne. Cette mesure supprime l'exonération de droits de douane pour les produits importés de ces deux nations vers les États-Unis. Les exportations concernées incluent notamment les pièces automobiles et le vin sud-africains, ainsi que le café rwandais, selon The Straits Times le 3 novembre 2026.\n\nWashington justifie cette exclusion par l'existence d'obstacles commerciaux, des préoccupations liées aux droits humains et des menaces pesant sur les intérêts américains, d'après Reuters le 2 novembre 2026. Le Financial Times précise, le 3 novembre 2026, que des motifs de sécurité nationale sont également invoqués par les autorités américaines.\n\nCe changement de politique intervient dans un contexte de tensions diplomatiques. Le ministère de la Défense rwandais a fait l'objet de sanctions de la part du Trésor américain une semaine avant cette annonce, rapporte la BBC le 3 novembre 2026. Le NRC souligne, le 3 novembre 2026, que les États-Unis sont en désaccord avec l'Afrique du Sud sur ses orientations politiques intérieures et étrangères. Le même média indique que les tensions avec le Rwanda concernent son implication militaire dans l'est de la République démocratique du Congo.\n\n## Ce que disent les sources\n\nReuters, Bloomberg et le Financial Times mentionnent des obstacles commerciaux et des menaces sur les intérêts américains comme motifs principaux. Le NRC ajoute des précisions sur les désaccords politiques spécifiques avec chaque pays, notamment l'implication militaire rwandaise au Congo et les choix politiques sud-africains. La BBC lie cette décision aux récentes sanctions imposées au ministère de la Défense rwandais.\n\nCertains détails sur les réactions officielles des gouvernements sud-africain et rwandais manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/africa/us-suspend-south-africa-rwanda-duty-free-trade-access-2026-11-02"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-02/south-africa-rwanda-lose-access-to-preferential-us-trade-pact"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/fae48a2f-7fb1-4b49-a261-0449fc335427?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/03/trump-zet-zuid-afrika-en-rwanda-buitenspel-in-handelsprogramma-en-straft-beide-landen-voor-hun-politieke-koers-a4940389"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c9j346xg0mkvo"
+    },
+    {
+     "nom": "pressenza.com",
+     "url": "https://pressenza.com/2026/11/south-africa-and-rwanda-excluded-from-duty-free-trade-access-to-united-states"
+    }
+   ],
+   "premiere_parution": "2026-11-02T12:00:00Z",
+   "suite_de": null,
+   "mots": 323,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-economie-002",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Le marché français des compléments alimentaires atteint trois milliards d'euros",
+   "chapeau": "Le secteur des compléments alimentaires a triplé son chiffre d'affaires en quinze ans en France. Ce marché attire désormais de grands groupes industriels ainsi que de nombreuses entreprises innovantes.",
+   "corps": "Le marché français des compléments alimentaires représente désormais un chiffre d'affaires de 3 milliards d'euros, selon Le Monde du 4 novembre 2026. Cette croissance s'est étalée sur une période de quinze ans. Les produits concernés incluent des gélules, des gouttes et des comprimés destinés à traiter divers maux. Les consommateurs les utilisent pour pallier le stress, les troubles du sommeil, le manque d'énergie, les problèmes de digestion ou les douleurs articulaires.\n\nLa distribution de ces produits s'effectue à la fois dans les rayons des pharmacies et via des plateformes de vente en ligne. Cette dynamique commerciale suscite l'intérêt de grands groupes économiques mais aussi de nombreuses start-up, des entreprises jeunes et innovantes, d'après Le Monde du 4 novembre 2026.\n\nPar ailleurs, le secteur de la santé reste marqué par des enjeux de remboursement. L'Assurance maladie ne prend en charge qu'une partie des frais liés aux consultations de spécialistes, aux lunettes, aux soins dentaires et aux hospitalisations. Le reste à charge, soit la part payée par le patient, peut s'avérer important en cas de dépenses cumulées sur une même année, selon La Croix du 3 novembre 2026.\n\nEnfin, certaines pathologies rares nécessitent une vigilance particulière. L'insensibilité congénitale à la douleur, une maladie causée par des mutations génétiques, touche quelques dizaines de personnes en France. Cette condition impose des mesures préventives et une surveillance constante pour éviter les risques vitaux, d'après Le Figaro du 4 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/service/comment-choisir-sa-complementaire-sante-les-criteres-a-connaitre-20261103"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/la-surprenante-reduction-de-l-ecart-de-patrimoine-entre-les-jeunes-et-leurs-aines-20261103"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/11/04/des-rayons-en-pharmacie-a-la-vente-en-ligne-l-incroyable-essor-des-complements-alimentaires_6805902_3234.html"
+    }
+   ],
+   "premiere_parution": "2026-11-03T14:56:24Z",
+   "suite_de": null,
+   "mots": 264,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-economie-003",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Nvidia demande à ses clients de réduire leurs activités en Chine",
+   "chapeau": "Le fabricant de puces Nvidia a ordonné aux fournisseurs de centres de données de limiter leur exposition aux entreprises chinoises. Cette directive vise à restreindre les liens commerciaux avec la Chine selon les informations publiées le 3 novembre 2026.",
+   "corps": "L'entreprise Nvidia, premier producteur mondial de semi-conducteurs, a transmis de nouvelles instructions à ses clients du secteur du cloud computing. Ces fournisseurs de services informatiques distants doivent désormais s'assurer qu'une majorité de leurs clients ne soient pas basés en Chine, d'après le Financial Times du 3 novembre 2026.\n\nCette mesure limite la capacité des entreprises chinoises à accéder aux technologies de pointe. Elle s'inscrit dans un contexte de concurrence accrue entre les États-Unis et la Chine concernant le développement de l'intelligence artificielle, selon le quotidien brésilien Folha de S.Paulo du 3 novembre 2026.\n\nLes sources ne précisent pas les sanctions encourues par les clients qui ne respecteraient pas ces nouvelles directives.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/nvidia-exige-que-parceiros-de-data-centers-reduzam-negocios-com-clientes-da-china.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-03T05:00:13Z",
+   "suite_de": null,
+   "mots": 151,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-economie-004",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "La dette publique brésilienne atteint 82,9 % du produit intérieur brut",
+   "chapeau": "Le gouvernement brésilien fait face à une hausse de sa dette publique, qui atteint désormais 82,9 % du produit intérieur brut. Le Trésor national prévient qu'une absence de surplus budgétaire pourrait porter ce chiffre à 91,5 % d'ici 2036.",
+   "corps": "La dette brute du gouvernement brésilien a progressé au cours des quatre dernières années, passant de 71,7 % à 82,9 % du produit intérieur brut, selon des données rapportées le 2 novembre 2026. Ce niveau représente le plus élevé depuis 2021. Les projections initiales du gouvernement en 2023 visaient une stabilisation à 76,5 % du produit intérieur brut pour 2026, mais la hausse des taux d'intérêt a contrecarré cette trajectoire.\n\nLe Trésor national brésilien indique qu'un excédent budgétaire de 0,5 % du produit intérieur brut sur dix ans permettrait de réduire la dette à 81,1 % d'ici 2036. À l'inverse, sans ces surplus, l'endettement atteindrait 91,5 % du produit intérieur brut sur la même période. Le débat économique actuel porte également sur la politique monétaire, alors que le déficit primaire est inférieur à 1 % du produit intérieur brut, tandis que les intérêts de la dette dépassent 8,8 % du produit intérieur brut, selon des informations du 4 novembre 2026.\n\nPar ailleurs, en Espagne, le Trésor a placé 6,42 milliards d'euros de dette à six et douze mois, avec une rentabilité supérieure à 3 %, un niveau inédit depuis deux ans, selon une source du 3 novembre 2026.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/colunas/cecilia-machado/2026/11/o-desafio-e-grande-e-solucoes-magicas-perigosas.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-03/las-letras-del-tesoro-afianzan-su-rentabilidad-en-maximos-de-dos-anos-y-por-encima-del-3.html"
+    }
+   ],
+   "premiere_parution": "2026-11-02T19:41:00Z",
+   "suite_de": null,
+   "mots": 236,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-economie-005",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Le Premier ministre annonce une hausse du plafond du Livret A",
+   "chapeau": "Le Premier ministre Sébastien Lecornu a annoncé mardi 3 novembre à l'Assemblée nationale une hausse du plafond du Livret A. Cette mesure entrera en vigueur en février prochain et portera le montant maximal entre 25 000 et 30 000 euros.",
+   "corps": "Le gouvernement prévoit de relever ce seuil pour mobiliser l'épargne des Français. Cette initiative vise notamment à financer des projets d'adaptation au changement climatique, comme la rénovation de bâtiments publics ou de lycées. Le taux d'intérêt du livret augmentera également en février, a précisé le chef du gouvernement.\n\nLe ministre de l'Économie, Roland Lescure, doit encore définir le montant exact du nouveau plafond. Il mènera pour cela une concertation finale avec les banques et la Caisse des dépôts dans les semaines à venir. Certaines analyses soulignent toutefois les conséquences potentielles de cette décision. Le relèvement du plafond pourrait engendrer un manque à gagner fiscal pour l'État, selon des informations rapportées par Franceinfo le 4 novembre 2026.\n\n## Ce que disent les sources\n\nLes sources divergent sur le montant actuel du plafond du Livret A. Franceinfo (03/11/2026), La Croix (03/11/2026), Le Monde (03/11/2026) et Franceinfo (04/11/2026) citent 22 950 euros. Le Figaro (03/11/2026) et La Croix (03/11/2026) mentionnent 22 900 euros.\n\nLe montant précis du nouveau plafond reste à déterminer.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/votre-argent/livret-a/le-plafond-du-livret-a-sera-releve-en-fevrier-pour-atteindre-au-moins-25-000-euros-annonce-sebastien-lecornu_8265983.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/livret-a-lecornu-annonce-un-relevement-du-plafond-entre-25-000-et-30-000-euros-20261103"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/11/03/livret-a-sebastien-lecornu-annonce-un-relevement-du-plafond-entre-25-000-et-30-000-euros-en-fevrier_6805615_3234.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/sebastien-lecornu-annonce-un-relevement-en-fevrier-du-plafond-du-livret-a-qui-pourra-aller-jusqu-a-30-000-euros-20261103"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/livret-a-sebastien-lecornu-annonce-un-relevement-du-plafond-qui-pourra-desormais-aller-jusqua-30-000-euros-20261103_6XCP7KZ63ZGE3KCYY5RXTI3GRA"
+    }
+   ],
+   "premiere_parution": "2026-11-03T15:26:55Z",
+   "suite_de": null,
+   "mots": 220,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Google lie l'accès au moteur de recherche à l'usage de l'intelligence artificielle",
+   "chapeau": "Le groupe Google a annoncé mardi 3 novembre 2026 que les établissements scolaires devront accepter ses outils d'intelligence artificielle pour conserver l'accès au moteur de recherche. Cette mesure concerne les élèves de l'éducation primaire et secondaire utilisant les services de l'entreprise.",
+   "corps": "L'entreprise Alphabet, maison mère de Google, a dévoilé mardi une nouvelle politique concernant ses services numériques dans les écoles. Les administrateurs scolaires pourront désormais choisir de désactiver les outils d'intelligence artificielle, comme Gemini, au sein de leurs environnements numériques. Cependant, cette option de désactivation entraîne une conséquence directe sur l'utilisation du moteur de recherche Google.\n\nLe groupe précise que les fonctionnalités d'intelligence artificielle sont désormais intégrées au cœur de son moteur de recherche. Par conséquent, les établissements qui refusent l'activation des outils d'intelligence artificielle perdront également l'accès au moteur de recherche pour leurs élèves. Google justifie cette décision en expliquant que l'intelligence artificielle est devenue indissociable du fonctionnement actuel de son service de recherche en ligne.\n\nCette nouvelle configuration sera déployée au début de l'année prochaine. Les écoles devront effectuer une démarche explicite pour activer les outils d'intelligence artificielle si elles souhaitent maintenir l'accès aux services de recherche. Cette annonce intervient dans un contexte de débats croissants parmi les enseignants et les parents concernant l'usage des technologies d'intelligence artificielle dans le milieu scolaire.\n\n## Ce que disent les sources\n\nLes sources présentent des nuances sur la portée géographique de cette mesure. Bloomberg et The Straits Times mentionnent spécifiquement les écoles aux États-Unis dans leurs titres et résumés. Les autres sources, telles que The Guardian, Folha de S.Paulo et The Hindu, présentent cette annonce comme une directive globale de l'entreprise sans restreindre explicitement l'application de la mesure au territoire américain.\n\nLe texte ne précise pas les modalités techniques exactes de désactivation du moteur de recherche pour les établissements concernés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/google-lets-schools-turn-off-gemini-but-not-the-ai-in-search"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/google-desativara-aplicativo-de-busca-em-escolas-que-rejeitarem-ia-da-empresa.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/google-will-turn-off-search-for-schools-in-us-that-reject-ai"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/google-blockiert-suchfunktion-wenn-schulen-ki-ablehnen-a-127ea560-4390-4851-ab2f-1c6caf198a73"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-03T17:54:43Z",
+   "suite_de": null,
+   "mots": 299,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-tech-002",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "La plateforme de design Canva supprime plus de mille postes",
+   "chapeau": "L'entreprise australienne Canva a annoncé une restructuration majeure ce mercredi 4 novembre 2026. Cette réorganisation concerne 22 % de ses effectifs mondiaux, soit plus de 1 200 employés.",
+   "corps": "La direction de l'entreprise a confirmé le départ ou le changement de fonction de plus de 1 000 collaborateurs. Cette mesure s'inscrit dans une restructuration globale de la société. La directrice générale, Melanie Perkins, a qualifié cette période de moment difficile pour l'entreprise fondée il y a treize ans.\n\nLa restructuration prévoit la fusion des équipes produit, croissance et plateforme au sein d'une organisation unique. Canva justifie ces changements par un ralentissement de sa croissance. La société a également précisé que ces suppressions de postes ne résultent pas d'un remplacement des employés par l'intelligence artificielle.\n\n## Ce que disent les sources\n\nBloomberg (04/11/2026) attribue ces changements structurels à la pression exercée par l'intelligence artificielle sur l'entreprise. À l'inverse, The Register (04/11/2026) ne mentionne pas l'intelligence artificielle et évoque plutôt le rythme des évolutions technologiques. Le Newcastle Herald (04/11/2026) précise que la direction a formellement écarté l'idée d'un remplacement du personnel par des outils d'intelligence artificielle.\n\nLe montant exact des indemnités de départ versées aux employés concernés n'est pas précisé dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw77pg7neydmo"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/canva-to-cut-about-22-of-staff-as-growth-slowdown-triggers-restructuring/article71663792.ece"
+    },
+    {
+     "nom": "newcastleherald.com.au",
+     "url": "https://newcastleherald.com.au/story/9385536/canva-rules-out-ai-replacement-amid-sweeping-job-cuts"
+    }
+   ],
+   "premiere_parution": "2026-11-03T22:35:12Z",
+   "suite_de": null,
+   "mots": 205,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-04-tech-003",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Binance révèle les méthodes utilisées lors du vol de six milliards",
+   "chapeau": "La plateforme d'échange de cryptomonnaies Binance a détaillé les techniques employées par des pirates informatiques pour dérober 6,3 milliards de dollars. L'entreprise a communiqué ces informations mardi 3 novembre 2026 après une enquête interne sur ce vol.",
+   "corps": "Les attaquants ont utilisé des entretiens d'embauche fictifs pour tromper un ingénieur de Binance. Ils ont contacté cette personne via une plateforme de recrutement légitime. Les pirates ont ensuite mené des entretiens avec de faux représentants d'entreprise pour obtenir un accès au système. Cette opération a débuté en juin 2026 par le téléchargement involontaire de logiciels malveillants, des programmes conçus pour endommager ou infiltrer des systèmes informatiques.\n\nL'attaque s'est poursuivie en septembre 2026 avec la campagne de recrutement frauduleuse. Les pirates ont également exploité un outil d'intelligence artificielle interne à l'entreprise. Ils ont finalement accédé la semaine dernière aux portefeuilles numériques actifs, des espaces de stockage de cryptomonnaies connectés à internet, pour effectuer le vol. Binance précise que l'incident ne résulte pas d'une faille isolée ou d'une simple tentative de hameçonnage, une technique visant à voler des données personnelles par courriel.\n\nLa plateforme a réussi à bloquer environ 2,85 milliards de dollars sur la somme totale dérobée, selon The Hindu le 4 novembre 2026. Ce gel empêche les attaquants d'utiliser ou de convertir ces fonds. Binance a qualifié cet événement de vol le plus important de son histoire.\n\n## Ce que disent les sources\n\nNPR et The Register attribuent l'attaque à des pirates informatiques nord-coréens. Les autres sources consultées ne mentionnent pas l'origine géographique des auteurs du vol.\n\nIl manque des précisions sur l'identité exacte des pirates informatiques et sur les mesures de sécurité spécifiques qui ont été contournées lors de l'accès aux portefeuilles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/binance-hackers-used-fake-job-interviews-in-6-3-billion-heist"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck5ynwz9gy67o"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/binance-reveals-hackers-used-fake-job-interviews-malicious-code-in-6-billion-heist/article71663791.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-03T14:43:22Z",
+   "suite_de": null,
+   "mots": 282,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-04-monde-001",
+  "2026-11-04-monde-002",
+  "2026-11-04-monde-003",
+  "2026-11-04-monde-004",
+  "2026-11-04-monde-005",
+  "2026-11-04-geopolitique-001",
+  "2026-11-04-monde-006",
+  "2026-11-04-geopolitique-002"
+ ]
+}

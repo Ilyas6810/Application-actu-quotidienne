@@ -1,6 +1,73 @@
 {
- "maj": "2026-11-03T23:45:20Z",
+ "maj": "2026-11-04T06:30:57Z",
  "alertes": [
+  {
+   "id": "2026-11-04-alerte-03",
+   "date": "2026-11-04",
+   "publiee_a": "2026-11-04T06:30:57Z",
+   "titre": "James Talarico remporte un siège de sénateur américain au Texas",
+   "texte": "Le démocrate James Talarico a battu le républicain Ken Paxton lors des élections de mi-mandat au Texas le 4 novembre 2026. Cette victoire attribue aux démocrates un siège de sénateur dans cet État pour la première fois depuis 1988.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/midterms-aux-etats-unis-james-talarico-l-ancien-seminariste-devenu-espoir-des-democrates-au-texas-20261027"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/in-huge-blow-to-republicans-democrat-talarico-flips-us-senate-seat-in-texas/article71663939.ece"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6n8dnn09jg7o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-04/james-talarico-pone-fin-a-decadas-de-hegemonia-republicana-en-texas-con-su-victoria-en-el-senado.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/le-democrate-james-talarico-donne-gagnant-pour-un-siege-au-senat-lors-des-midterms-2026-une-premiere-depuis-1988_8266994.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261104-au-texas-le-d%C3%A9mocrate-james-talarico-se-f%C3%A9licite-d-avoir-renvers%C3%A9-le-goliath-r%C3%A9publicain"
+    }
+   ],
+   "cluster": "115e0d228ec77ffe",
+   "urls": [
+    "https://aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance",
+    "https://aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals",
+    "https://bbc.co.uk/news/articles/c6n8dnn09jg7o",
+    "https://corriere.it/esteri/elezioni-usa/midterm-2026/26_novembre_03/james-talarico-chi-e-midterm-texas-a10c3b26-33fc-4d94-9863-cef596be1xlk.shtml",
+    "https://corriere.it/esteri/elezioni-usa/midterm-2026/26_novembre_04/james-talarico-vittoria-texas-e2556ac2-a48d-4047-8450-1babc690fxlk.shtml",
+    "https://elpais.com/us/2026-11-04/james-talarico-pone-fin-a-decadas-de-hegemonia-republicana-en-texas-con-su-victoria-en-el-senado.html",
+    "https://france24.com/fr/am%C3%A9riques/20261104-midterms-2026-democrate-talarico-elu-senateur-texas-exploit-bastion-republicain",
+    "https://france24.com/fr/vid%C3%A9o/20261103-midterms-le-d%C3%A9mocrate-james-talarico-remet-en-p%C3%A9ril-33-ann%C3%A9es-d-h%C3%A9g%C3%A9monie-r%C3%A9publicaine-au-texas",
+    "https://france24.com/fr/vid%C3%A9o/20261103-midterms-le-d%C3%A9mocrate-james-talarico-tente-de-convaincre-le-texas-bastion-r%C3%A9publicain",
+    "https://france24.com/fr/vid%C3%A9o/20261104-au-texas-le-d%C3%A9mocrate-james-talarico-se-f%C3%A9licite-d-avoir-renvers%C3%A9-le-goliath-r%C3%A9publicain",
+    "https://france24.com/fr/vid%C3%A9o/20261104-midterms-2026-le-d%C3%A9mocrate-talarico-fait-basculer-le-texas-exploit-dans-un-bastion-r%C3%A9publicain",
+    "https://france24.com/fr/vid%C3%A9o/20261104-midterms-2026-qui-est-james-talarico-le-d%C3%A9mocrate-%C3%A0-l-assaut-du-texas",
+    "https://franceinfo.fr/monde/usa/midterms-2018/le-democrate-james-talarico-donne-gagnant-pour-un-siege-au-senat-lors-des-midterms-2026-une-premiere-depuis-1988_8266994.html",
+    "https://ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1",
+    "https://haaretz.com/us-news/2026-11-04/ty-article/.premium/talarico-wins-texas-senate-race-in-historic-democratic-breakthrough/000001a1-a44a-d2e9-a5ad-beda07370000",
+    "https://lefigaro.fr/international/midterms-aux-etats-unis-james-talarico-l-ancien-seminariste-devenu-espoir-des-democrates-au-texas-20261027",
+    "https://lemonde.fr/international/article/2026/11/03/midterms-2026-le-texas-l-un-des-etats-les-plus-conservateurs-des-etats-unis-au-bord-d-un-basculement-historique_6805571_3210.html",
+    "https://liberation.fr/international/amerique/midterms-2026-qui-est-ken-paxton-le-sulfureux-candidat-republicain-du-texas-soutenu-par-trump-20261102_GM6B3D6QOZAHVKYTS4DDTMTA34",
+    "https://straitstimes.com/world/united-states/us-midterms-james-talarico-becomes-first-democrat-to-win-statewide-in-texas-since-1994-projections",
+    "https://theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate",
+    "https://thehindu.com/news/international/in-huge-blow-to-republicans-democrat-talarico-flips-us-senate-seat-in-texas/article71663939.ece",
+    "https://wvoc.iheart.com/content/2026-11-04-talarico-wins-texas-senate-race-against-paxton",
+    "https://www1.folha.uol.com.br/mundo/2026/11/james-talarico-se-torna-1o-democrata-eleito-senador-pelo-texas-em-quase-40-anos.shtml"
+   ]
+  },
   {
    "id": "2026-11-04-alerte-01",
    "date": "2026-11-04",

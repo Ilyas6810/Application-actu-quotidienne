@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-04T07:14:15Z",
- "derniere": "2026-11-04",
+ "maj": "2026-11-05T07:33:22Z",
+ "derniere": "2026-11-05",
  "editions": [
+  {
+   "date": "2026-11-05",
+   "genere_a": "2026-11-05T07:33:22Z",
+   "articles": 34,
+   "une": [
+    "Hong Kong condamne le militant Joshua Wong à dix ans de prison",
+    "JD Vance attribue la défaite des républicains à la guerre en Iran",
+    "Le Parti démocrate remporte la majorité absolue au Congrès américain"
+   ],
+   "octets": 108209
+  },
   {
    "date": "2026-11-04",
    "genere_a": "2026-11-04T07:14:15Z",

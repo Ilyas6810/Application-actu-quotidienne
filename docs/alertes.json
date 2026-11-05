@@ -1,6 +1,218 @@
 {
- "maj": "2026-11-04T23:58:28Z",
+ "maj": "2026-11-05T23:51:48Z",
  "alertes": [
+  {
+   "id": "2026-11-06-alerte-01",
+   "date": "2026-11-06",
+   "publiee_a": "2026-11-05T23:46:36Z",
+   "titre": "Le président du Paraguay Santiago Peña démissionne après une crise bancaire",
+   "texte": "Le président du Paraguay Santiago Peña a annoncé sa démission le jeudi 5 novembre 2026 à Asunción. Sa décision fait suite au gel des avoirs de l'établissement Ueno Bank qui touche des millions de clients.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/explainer-what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/05/trumpgezinde-president-pena-zwaait-af-nu-bijna-helft-paraguayanen-niet-bij-bankrekening-kan-a4940657"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/veja-em-dez-pontos-as-semelhancas-e-diferencas-entre-ueno-bank-e-banco-master.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/dimite-presidente-paraguay-arrastrado-escandalo-ueno-bank-20261105173812-nt.html"
+    }
+   ],
+   "cluster": "6d1f7b48d31338a9",
+   "urls": [
+    "https://abc.es/internacional/dimite-presidente-paraguay-arrastrado-escandalo-ueno-bank-20261105173812-nt.html",
+    "https://aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
+    "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f",
+    "https://bbc.co.uk/news/articles/c6p9g39vln3yo",
+    "https://bloomberg.com/news/articles/2026-11-04/paraguay-names-new-central-banker-after-lender-is-taken-over",
+    "https://bloomberg.com/news/articles/2026-11-05/paraguay-s-pena-resigns-amid-ueno-bank-crisis-abc-reports-mw3qgdu9",
+    "https://c-level.folha.uol.com.br/financas/2026/11/veja-em-dez-pontos-as-semelhancas-e-diferencas-entre-ueno-bank-e-banco-master.shtml",
+    "https://corriere.it/esteri/26_novembre_05/paraguay-crac-della-banca-ueno-impedito-l-accesso-ai-conti-a-tre-di-milioni-di-clienti-il-presidente-pena-si-dimette-621d30ec-1aca-4452-84d4-477e3834cxlk.shtml",
+    "https://dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/paraguay-s-president-santiago-pena-resigns-amid-a-bank-crisis-that-froze-millions-of-customers-accounts-and-sparked-protests/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/america/2026-11-05/santiago-pena-renuncia-a-la-presidencia-de-paraguay-jaqueado-por-un-escandalo-financiero.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5?evenement=cfebc1a20e",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5?evenement=e1673394d3",
+    "https://france24.com/es/minuto-a-minuto/20261105-santiago-peña-renuncia-a-la-presidencia-de-paraguay-en-medio-del-escándalo-de-ueno-bank",
+    "https://france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national",
+    "https://franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html",
+    "https://franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html",
+    "https://la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
+    "https://lefigaro.fr/international/paraguay-la-crise-bancaire-contraint-le-president-santiago-pena-a-demissionner-20261105",
+    "https://lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
+    "https://liberation.fr/international/amerique/paraguay-embourbe-dans-une-crise-bancaire-le-president-santiago-pena-demissionne-20261105_U6AQHGHZAJAORFDMR5GRSLIFCI",
+    "https://npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+    "https://nrc.nl/nieuws/2026/11/05/trumpgezinde-president-pena-zwaait-af-nu-bijna-helft-paraguayanen-niet-bij-bankrekening-kan-a4940657",
+    "https://reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05",
+    "https://spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5",
+    "https://straitstimes.com/world/explainer-what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis",
+    "https://straitstimes.com/world/paraguay-bank-crisis-spurs-lawmakers-calls-to-impeach-president",
+    "https://straitstimes.com/world/paraguay-congress-begins-session-to-debate-president-penas-impeachment",
+    "https://straitstimes.com/world/paraguay-president-pena-resigns-under-mounting-pressure-from-bank-collapse",
+    "https://straitstimes.com/world/paraguays-central-bank-chief-resigns-at-presidents-request-as-digital-lender-crisis-deepens",
+    "https://theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "https://www1.folha.uol.com.br/mundo/2026/11/com-impeachment-pos-massacre-e-assassinato-de-vice-paraguai-teve-outros-dois-lideres-que-nao-terminaram-mandato.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/escandalo-do-ueno-bank-foi-estopim-mas-nao-causa-da-queda-de-pena.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/santiago-pena-presidente-do-paraguai-renuncia-apos-escandalo-financeiro.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-06-alerte-02",
+   "date": "2026-11-06",
+   "publiee_a": "2026-11-05T23:47:56Z",
+   "titre": "Des centaines de milliers de personnes ont manifesté jeudi en France",
+   "texte": "Les syndicats et les étudiants ont manifesté à travers la France le jeudi 5 novembre 2026 pour réclamer une hausse du pouvoir d'achat. Le ministère de l'Intérieur a comptabilisé 575 000 participants dans le pays, tandis que la CGT en a revendiqué 1,6 million.",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261105-%C3%A7a-fait-des-ann%C3%A9es-qu-on-attend-que-%C3%A7a-converge-en-france-salari%C3%A9s-et-lyc%C3%A9ens-ont-manifest%C3%A9-en-masse-ce-jeudi"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
+    }
+   ],
+   "cluster": "15f75547b9ba3349",
+   "urls": [
+    "https://abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html",
+    "https://aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles",
+    "https://aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action",
+    "https://bbc.co.uk/news/articles/ckx2qzv835pgo",
+    "https://centralwesterndaily.com.au/story/9386841/numbers-surge-in-french-protests-as-unions-join-strikes",
+    "https://dw.com/en/france-more-than-600-000-people-protest-as-cost-of-living-anger-grows/a-79860616?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/france-more-than-600000-protest-as-anger-grows-over-cost-of-living/a-79860616",
+    "https://elpais.com/internacional/2026-11-05/francia-afronta-un-jueves-de-protestas-y-manifestaciones-masivas-en-todo-el-pais.html",
+    "https://france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
+    "https://france24.com/fr/vid%C3%A9o/20261105-france-manifestations-dans-plusieurs-villes-ce-5-novembre",
+    "https://france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-jusqu-%C3%A0-700-000-manifestants-attendus-partout-dans-le-pays",
+    "https://france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-le-cort%C3%A8ge-devrait-rassembler-entre-40-000-et-80-000-manifestants-%C3%A0-paris",
+    "https://france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ves-en-france-comment-les-manifestations-sont-vues-de-l-%C3%A9tranger",
+    "https://france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-un-appel-%C3%A0-la-gr%C3%A8ve-d-ampleur-nationale",
+    "https://franceinfo.fr/economie/greve/greve/meme-les-steaks-haches-c-est-devenu-un-grand-luxe-les-corteges-contre-la-vie-chere-font-le-plein-en-france_8269823.html",
+    "https://franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html",
+    "https://franceinfo.fr/economie/greve/greve/reportage-je-continue-de-croire-au-changement-de-douai-a-limoges-en-passant-par-paris-les-corteges-du-5-novembre-font-le-plein-et-s-interrogent-sur-la-suite_8269412.html",
+    "https://ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
+    "https://la-croix.com/societe/live-greve-jeudi-5-novembre-transports-sncf-ratp-ecole-manifestations-france-aujourdhui-20261105",
+    "https://lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105",
+    "https://lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
+    "https://lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
+    "https://lemonde.fr/videos/video/2026/11/05/greve-du-5-novembre-les-images-des-manifestations-partout-en-france_6807333_1669088.html",
+    "https://liberation.fr/economie/social/manifestations-du-5-novembre-on-voit-que-ce-nest-pas-fini-20261105_OZT5RGYRKVGDHFP24UPDPVIISY",
+    "https://liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I",
+    "https://rfi.fr/fr/france/20261105-%C3%A7a-fait-des-ann%C3%A9es-qu-on-attend-que-%C3%A7a-converge-en-france-salari%C3%A9s-et-lyc%C3%A9ens-ont-manifest%C3%A9-en-masse-ce-jeudi",
+    "https://rfi.fr/fr/france/20261105-en-direct-gr%C3%A8ve-du-5-novembre-la-col%C3%A8re-sociale-monte-d-un-cran-des-manifestations-attendues-partout-en-france",
+    "https://spiegel.de/ausland/frankreich-mehr-als-250-000-menschen-demonstrieren-zum-generalstreik-a-3487beed-37b0-48d6-8113-6b28079566c5",
+    "https://theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+    "https://www1.folha.uol.com.br/mundo/2026/11/manifestantes-voltam-as-ruas-da-franca-e-entram-em-confronto-com-policiais-torre-eiffel-e-fechada.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-06-alerte-03",
+   "date": "2026-11-06",
+   "publiee_a": "2026-11-05T23:51:48Z",
+   "titre": "Le gouverneur de Californie commue les peines des condamnés à mort",
+   "texte": "Le gouverneur Gavin Newsom a annoncé jeudi 5 novembre 2026 le remplacement du châtiment suprême par la prison à perpétuité pour les détenus de son État. Cette mesure concerne plus de 500 prisonniers qui purgeront leur sanction sans possibilité de libération conditionnelle.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/etats-uniens-le-gouverneur-de-californie-annonce-commuer-les-548-peines-de-mort-dans-l-etat-20261105"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/california-governor-newsom-says-commuting-all-death-sentences-in-state"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqrkyyd2j8mvo"
+    }
+   ],
+   "cluster": "2e8a136dfae03bb2",
+   "urls": [
+    "https://abc.es/internacional/gobernador-california-conmuta-penas-muerte-estado-cadena-20261105203959-nt.html",
+    "https://bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+    "https://dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5?evenement=10236412a9",
+    "https://franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html",
+    "https://kcra.com/article/newsom-commutes-548-california-death-sentences/74348779",
+    "https://la-croix.com/international/etats-uniens-le-gouverneur-de-californie-annonce-commuer-les-548-peines-de-mort-dans-l-etat-20261105",
+    "https://lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
+    "https://liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM",
+    "https://nvdaily.com/associated_press_national/california-gov-newsom-says-he-will-commute-all-death-sentences-in-state-to-life-without/article_c2bd3e6a-8ccc-5ddd-8526-7e48dc0b53dd.html",
+    "https://reflector.com/news/national/california-gov-newsom-says-he-will-commute-all-death-sentences-in-state-to-life-without/article_2a06bcd8-b533-55ff-ba8a-4c57cb03352c.html",
+    "https://spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c",
+    "https://straitstimes.com/world/united-states/california-governor-newsom-says-commuting-all-death-sentences-in-state",
+    "https://www1.folha.uol.com.br/mundo/2026/11/governador-da-california-cancela-pena-de-morte-de-548-pessoas.shtml"
+   ]
+  },
   {
    "id": "2026-11-05-alerte-01",
    "date": "2026-11-05",
@@ -1075,242 +1287,6 @@
     "https://wmuk.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
     "https://www1.folha.uol.com.br/ilustrada/2026/10/morre-patrick-stewart-o-professor-charles-xavier-de-x-men-aos-86-anos.shtml",
     "https://www1.folha.uol.com.br/ilustrada/2026/10/professor-xavier-em-x-men-relembre-personagens-de-patrick-stewart.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-29-alerte-01",
-   "date": "2026-10-29",
-   "publiee_a": "2026-10-28T20:24:01Z",
-   "titre": "Deux trains entrent en collision en Espagne et font au moins 68 morts",
-   "texte": "Deux rames ferroviaires ont heurté leurs structures mercredi 28 octobre 2026 près d'Urda, au sud de Madrid. Selon les bilans provisoires établis mercredi soir par les autorités espagnoles et rapportés par Le Figaro et Libération, l'événement a causé la mort d'au moins 68 personnes et fait plus de 100 blessés.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/accident-ferroviaire-en-espagne-au-dela-de-l-erreur-humaine-les-questions-sur-letat-du-reseau-20261028"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/surfrequentation-vetuste-le-rail-espagnol-est-il-dangereux-apres-un-nouvel-accident-mortel_8257880.html"
-    }
-   ],
-   "cluster": "021694c2880003a9",
-   "urls": [
-    "https://aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain",
-    "https://aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain",
-    "https://aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade",
-    "https://bbc.co.uk/news/articles/cm8xz7pkd0jjo",
-    "https://bbc.co.uk/news/articles/cm9qzd47ng98o",
-    "https://bbc.co.uk/news/videos/cv8ezjdkle59o",
-    "https://bbc.co.uk/news/videos/cw5ynjgy3vvgo",
-    "https://bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video",
-    "https://bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid",
-    "https://dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-30-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_28?evenement=7ce17d50ed",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_28?evenement=bfaaff3dbe",
-    "https://english.elpais.com/spain/2026-10-28/at-least-10-people-killed-in-high-speed-rail-crash-in-spain.html",
-    "https://english.elpais.com/spain/2026-10-28/key-facts-about-the-rail-crash-in-spain-what-is-known-so-far-about-the-collision.html",
-    "https://english.elpais.com/spain/2026-10-28/the-crash-between-two-high-speed-trains-in-spain-in-images.html",
-    "https://english.elpais.com/spain/2026-10-28/where-did-the-spain-crash-train-happen-early-details-of-the-accident-in-toledo.html",
-    "https://france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda",
-    "https://france24.com/fr/europe/20261028-deux-trains-%C3%A0-grande-vitesse-entrent-en-collision-entre-madrid-et-l-andalousie",
-    "https://france24.com/fr/vid%C3%A9o/20261028-accident-ferroviaire-en-espagne-les-t%C3%A9moignages-des-rescap%C3%A9s-%C3%A0-urda",
-    "https://france24.com/fr/vid%C3%A9o/20261028-collision-entre-deux-trains-en-espagne-l-une-des-pires-catastrophes-ferroviaires-du-pays",
-    "https://france24.com/fr/vid%C3%A9o/20261028-collision-meurtri%C3%A8re-en-espagne-pedro-s%C3%A1nchez-prend-la-parole",
-    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-ce-que-l-on-sait-de-l-accident-ferroviaire-mortel-%C3%A0-tol%C3%A8de",
-    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-comment-expliquer-la-collision-des-deux-trains-pr%C3%A8s-de-tol%C3%A8de",
-    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-le-ministre-des-transports-prend-la-parole-sur-l-accident-mortel-entre-deux-trains",
-    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-plus-de-46-morts-dans-une-collision-entre-deux-trains-%C3%A0-grande-vitesse",
-    "https://france24.com/fr/vid%C3%A9o/20261028-espagne-une-collision-entre-deux-trains-%C3%A0-moins-d-un-an-du-drame-similaire-%C3%A0-adamouz",
-    "https://franceinfo.fr/faits-divers/au-moins-30-morts-dans-un-accident-de-train-sur-une-ligne-a-grande-vitesse-en-espagne_8257324.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/accident-de-trains-en-espagne-intervention-des-secours_8257709.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/espagne-pourquoi-les-deux-trains-se-sont-ils-percutes_8257889.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-premier-ministre-espagnol-annonce-trois-jours-de-deuil-national-apres-une-collision-entre-deux-trains_8257697.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-gens-hurlaient-a-l-interieur-des-passagers-et-des-temoins-evoquent-des-scenes-de-chaos-apres-la-collision-mortelle-entre-deux-trains-en-espagne_8257216.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/surfrequentation-vetuste-le-rail-espagnol-est-il-dangereux-apres-un-nouvel-accident-mortel_8257880.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html",
-    "https://franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-une-deuxieme-collision-meurtriere-en-moins-d-un-an-sur-le-reseau-ferroviaire-espagnol_8257477.html",
-    "https://franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html",
-    "https://franceinfo.fr/monde/espagne/ce-que-l-on-sait-sur-la-cause-de-la-collision-entre-deux-trains-en-espagne_8257300.html",
-    "https://franceinfo.fr/monde/espagne/collision-de-trains-en-espagne-au-moins-30-morts_8257321.html",
-    "https://franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html",
-    "https://franceinfo.fr/monde/espagne/collision-meurtriere-entre-deux-trains-en-espagne-le-roi-felipe-vi-reagit_8257306.html",
-    "https://franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html",
-    "https://franceinfo.fr/monde/espagne/plusieurs-dizaines-de-morts-dans-une-collision-de-trains-en-espagne_8257189.html",
-    "https://franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html",
-    "https://franceinfo.fr/replay-jt/france-2/20-heures/les-gens-criaient-et-pleuraient-au-moins-68-morts-apres-un-accident-ferroviaire-en-espagne_8257865.html",
-    "https://franceinfo.fr/replay-radio/la-question-des-informes/collision-ferroviaire-en-espagne-on-n-est-absolument-pas-a-l-abri-de-ce-genre-de-catastrophe-en-france-alerte-un-eurodepute_8236300.html",
-    "https://ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
-    "https://la-croix.com/international/accident-de-trains-en-espagne-un-tres-vaste-reseau-ferre-a-grande-vitesse-tres-utilise-20261028",
-    "https://la-croix.com/international/accident-ferroviaire-en-espagne-au-dela-de-l-erreur-humaine-les-questions-sur-letat-du-reseau-20261028",
-    "https://la-croix.com/international/accident-ferroviaire-en-espagne-urda-sous-le-choc-apres-la-collision-meurtriere-de-deux-trains-20261028",
-    "https://la-croix.com/international/espagne-une-collision-entre-deux-trains-fait-au-moins-dix-morts-20261028",
-    "https://lefigaro.fr/conjoncture/deux-accidents-graves-en-moins-d-un-an-la-descente-aux-enfers-du-reseau-de-train-a-grande-vitesse-espagnol-20261028",
-    "https://lefigaro.fr/international/collision-ferroviaire-en-espagne-le-temoignage-d-un-journaliste-d-el-pais-present-dans-un-train-lors-de-l-accident-20261028",
-    "https://lefigaro.fr/international/collision-mortelle-entre-deux-trains-en-espagne-les-premieres-images-de-la-catastrophe-ferroviaire-20261028",
-    "https://lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028",
-    "https://lefigaro.fr/international/en-direct-espagne-nouvelle-catastrophe-ferroviaire-au-moins-10-morts-au-sud-de-madrid-20261028",
-    "https://lefigaro.fr/international/espagne-deux-trains-entrent-en-collision-au-sud-de-madrid-plusieurs-blesses-20261028",
-    "https://lefigaro.fr/voyages/conseils/trains-en-espagne-ce-que-les-voyageurs-doivent-savoir-20260121",
-    "https://lemonde.fr/economie/article/2026/10/28/accident-ferroviaire-en-espagne-la-question-epineuse-de-l-etat-du-reseau-et-de-sa-maintenance_6801638_3234.html",
-    "https://lemonde.fr/international/article/2026/10/28/cartes-ou-et-comment-a-eu-lieu-l-accident-entre-deux-trains-en-espagne_6801595_3211.html",
-    "https://lemonde.fr/international/article/2026/10/28/ce-que-l-on-sait-de-l-accident-entre-deux-trains-en-espagne-qui-a-fait-au-moins-64-morts_6801589_3210.html",
-    "https://lemonde.fr/international/article/2026/10/28/en-espagne-deux-trains-sont-entres-en-collision-au-sud-de-madrid_6801548_3210.html",
-    "https://lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-trois-jours-de-deuil-national-et-des-minutes-de-silence-organisees-a-travers-le-pays_6801550_3210.html",
-    "https://lemonde.fr/international/live/2026/10/28/en-direct-une-collision-entre-deux-trains-en-espagne-fait-de-nombreux-morts_6801550_3210.html",
-    "https://lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html",
-    "https://lemonde.fr/international/video/2026/10/28/espagne-les-premieres-images-de-la-collision-entre-deux-trains_6801568_3210.html",
-    "https://liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-ces-accidents-de-train-les-plus-meurtriers-en-europe-depuis-2000-20260119_H26F5XYZTBALJEM33MVXMXJZKI",
-    "https://liberation.fr/international/europe/jai-cesse-davoir-confiance-dans-les-trains-lespagne-frappee-par-une-nouvelle-catastrophe-ferroviaire-20261028_DUL6F6B7LNDNZKLBJJG5BDKPVQ",
-    "https://liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM",
-    "https://npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-    "https://politico.eu/article/renfe-spain-urda-toledo-10-dead-second-serious-train-crash",
-    "https://rfi.fr/fr/europe/20261028-collision-de-trains-en-espagne-au-moins-dix-morts-sont-%C3%A0-d%C3%A9plorer-selon-les-autorit%C3%A9s",
-    "https://spiegel.de/ausland/spanien-mindestens-30-tote-bei-kollision-zweier-hochgeschwindigkeitszuege-a-10741be2-8d61-4d3b-b195-d5bc80db51c7",
-    "https://spiegel.de/ausland/toedliches-zugunglueck-in-spanien-17-verhaengnisvolle-minuten-a-e2a5ee1c-6fa8-4c4e-8a96-157602b0a236",
-    "https://spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1",
-    "https://spiegel.de/panorama/spanien-opferzahl-bei-zugkollision-in-spanien-steigt-auf-mehr-als-60-a-d7b7eaaa-9ead-4ed1-b565-dffacf97111d",
-    "https://straitstimes.com/world/europe/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
-    "https://straitstimes.com/world/europe/two-high-speed-trains-rear-end-in-spain-rail-operator-says",
-    "https://theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-    "https://theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
-    "https://theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-    "https://theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-    "https://thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/10/acidente-entre-trens-de-alta-velocidade-mata-ao-menos-30-pessoas-na-espanha.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-29-alerte-02",
-   "date": "2026-10-29",
-   "publiee_a": "2026-10-28T20:25:37Z",
-   "titre": "Mort aux États-Unis du juge fédéral chargé du dossier Nicolás Maduro",
-   "texte": "Le magistrat fédéral américain Alvin Hellerstein est décédé mercredi de causes naturelles à New York à l'âge de 92 ans. Il supervisait la procédure judiciaire visant l'ancien président vénézuélien Nicolás Maduro.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-10-28/fallece-el-juez-federal-que-supervisaba-el-juicio-de-nicolas-maduro-en-estados-unidos.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/fallece-magistrado-supervisaba-juicio-nicolas-maduro-20261028190348-nt.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/28/le-juge-americain-charge-de-l-affaire-nicolas-maduro-alvin-hellerstein-est-mort-a-92-ans_6801632_3210.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/morre-aos-92-anos-juiz-que-conduzia-caso-de-maduro-em-ny.shtml"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/92-year-old-us-judge-handling-nicolas-maduro-case-dies"
-    }
-   ],
-   "cluster": "3c530e903b3a759a",
-   "urls": [
-    "https://abc.es/internacional/fallece-magistrado-supervisaba-juicio-nicolas-maduro-20261028190348-nt.html",
-    "https://elpais.com/us/2026-10-28/fallece-el-juez-federal-que-supervisaba-el-juicio-de-nicolas-maduro-en-estados-unidos.html",
-    "https://france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans",
-    "https://ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1",
-    "https://lemonde.fr/international/article/2026/10/28/le-juge-americain-charge-de-l-affaire-nicolas-maduro-alvin-hellerstein-est-mort-a-92-ans_6801632_3210.html",
-    "https://straitstimes.com/world/united-states/92-year-old-us-judge-handling-nicolas-maduro-case-dies",
-    "https://www1.folha.uol.com.br/mundo/2026/10/morre-aos-92-anos-juiz-que-conduzia-caso-de-maduro-em-ny.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-29-alerte-03",
-   "date": "2026-10-29",
-   "publiee_a": "2026-10-28T20:30:45Z",
-   "titre": "La Réserve fédérale américaine maintient son taux directeur inchangé",
-   "texte": "La Réserve fédérale des États-Unis a maintenu son taux directeur entre 3,75 % et 4 % mercredi 28 octobre 2026 à Washington. Dix membres du comité de politique monétaire ont voté pour ce statu quo et deux contre, selon The Hindu le 28 octobre 2026.",
-   "sources": [
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mercado/2026/10/fed-mantem-juros-nos-eua-e-reforca-postura-dependente-de-dados.shtml"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad"
-    },
-    {
-     "nom": "El País",
-     "url": "https://english.elpais.com/economy-and-business/2026-10-28/the-federal-reserve-leaves-interest-rates-unchanged-less-than-a-week-before-the-midterms.html"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-10-28/fed-says-more-data-will-help-next-decision-fed-special-video"
-    }
-   ],
-   "cluster": "004c915ea97dd2e7",
-   "urls": [
-    "https://aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us",
-    "https://bloomberg.com/news/articles/2026-10-28/fed-holds-rates-says-more-data-will-help-next-decision",
-    "https://bloomberg.com/news/articles/2026-10-28/key-takeaways-from-fed-decision-to-hold-rates-steady",
-    "https://bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video",
-    "https://bloomberg.com/news/videos/2026-10-28/fed-says-more-data-will-help-next-decision-fed-special-video",
-    "https://bloomberg.com/news/videos/2026-10-28/former-fed-president-harker-policy-is-not-restrictive-video",
-    "https://bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video",
-    "https://english.elpais.com/economy-and-business/2026-10-28/the-federal-reserve-leaves-interest-rates-unchanged-less-than-a-week-before-the-midterms.html",
-    "https://ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
-    "https://ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
-    "https://npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
-    "https://spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad",
-    "https://theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-    "https://thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
-    "https://www1.folha.uol.com.br/mercado/2026/10/fed-mantem-juros-nos-eua-e-reforca-postura-dependente-de-dados.shtml"
    ]
   }
  ]

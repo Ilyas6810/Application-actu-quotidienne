@@ -1,0 +1,1470 @@
+{
+ "date": "2026-11-06",
+ "genere_a": "2026-11-06T07:34:15Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-06-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Hong Kong condamne le militant prodémocratie Joshua Wong à dix ans de prison",
+   "chapeau": "Le tribunal de Haute Cour de Hong Kong a condamné jeudi 5 novembre 2026 le militant prodémocratie Joshua Wong à une peine supplémentaire de dix ans de prison. L'ancien responsable étudiant de trente ans est sanctionné sur la base de la loi sur la sécurité nationale pour entente avec des entités étrangères.",
+   "corps": "Un tribunal de Hong Kong a alourdi jeudi 5 novembre 2026 la peine de Joshua Wong. Le militant prodémocratie purgeait déjà une peine de détention depuis 2020.\n\nLa justice hongkongaise accuse Joshua Wong de collusion avec des forces extérieures. La juridiction lui reproche d'avoir sollicité des pays, des individus ou des institutions étrangères. Selon les juges, le prévenu demandait l'instauration de sanctions ou d'un blocus contre la Chine et Hong Kong. Le juge a déclaré que la décision devait avoir un effet dissuasif.\n\nJoshua Wong avait plaidé coupable avant la décision du tribunal. L'homme de trente ans est le premier activiste poursuivi à deux reprises au titre de la loi de sécurité nationale. Il avait auparavant mené le mouvement des Parapluies en 2014 et participé aux manifestations de 2019.\n\nLe militant devait initialement sortir de prison en janvier 2027 selon les données du journal Le Monde publiées le 5 novembre 2026 à 17 h 08. Cette nouvelle peine maintient l'ancien dirigeant étudiant en détention pendant une décennie supplémentaire.\n\nLa décision de justice a provoqué des réactions diplomatiques entre la Chine, les États-Unis et l'Europe selon Nikkei Asia le 6 novembre 2026 à 10 h 45.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/chine/hong-kong/a-hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires_8268917.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/05/hongkongse-activist-joshua-wong-moet-nog-eens-tien-jaar-de-cel-in-a4940592"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/hong-kongs-joshua-wong-from-teenage-protest-leader-to-a-decade-behind-bars"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_05/joshua-wong-volto-delle-proteste-pro-democrazia-di-hong-kong-condannato-ad-altri-10-anni-di-carcere-6ad61ce7-4b55-44ee-a816-869a803ddxlk.shtml"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261105-chine-le-prod%C3%A9mocratie-joshua-wong-condamn%C3%A9-%C3%A0-10-ans-de-prison-suppl%C3%A9mentaire"
+    },
+    {
+     "nom": "AFP",
+     "url": "https://afp.com/en/hong-kong-activist-joshua-wong-given-10-more-years-collusion"
+    }
+   ],
+   "premiere_parution": "2026-11-04T23:02:43Z",
+   "suite_de": "2026-11-05-monde-001",
+   "mots": 247,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L'ancien acteur Russell Brand reconnu coupable de viol à Londres",
+   "chapeau": "Un tribunal britannique a déclaré le comédien Russell Brand coupable de viol et d'agressions sexuelles jeudi 5 novembre 2026 à Londres. Il connaîtra sa peine lundi.",
+   "corps": "La cour criminelle de Londres a reconnu l'ancien humoriste britannique Russell Brand coupable d'un chef de viol et de trois chefs d'agression sexuelle jeudi 5 novembre 2026, selon les informations de la BBC du 6 novembre 2026. L'homme de 51 ans a été placé en détention provisoire par le juge Joel Bennathan dans l'attente de sa condamnation prévue le lundi 9 novembre 2026, d'après le journal ABC du 5 novembre 2026.\n\nLes procureurs ont qualifié l'accusé de prédateur sexuel au cours des audiences, selon Deutsche Welle le 5 novembre 2026. Les faits jugés se sont déroulés entre 1999 et 2009, période durant laquelle il exerçait sa carrière artistique, d'après Le Monde le 5 novembre 2026. L'enquête initiale portait sur sept accusations au total, d'après Folha de S.Paulo le 5 novembre 2026.\n\nParallèlement au verdict, la police métropolitaine de Londres mène des investigations sur deux nouvelles accusations de viol visant le même homme, selon The Guardian le 5 novembre 2026. Le responsable de l'enquête, l'inspecteur principal Andy Furphy, a incité de potentielles autres victimes à contacter les autorités, d'après la même source du 5 novembre 2026.\n\nRussell Brand a réfuté l'ensemble des charges retenues contre lui au cours du procès, affirmant n'avoir jamais contraint personne, selon NPR le 5 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/russel-brand-e-condenado-por-estupro-e-assedio-sexual-em-londres.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/russell-brand-reconnu-coupable-de-viol-et-agressions-sexuelles-par-la-justice-britannique-20261105_MUGVJHBAGVAQFNLXQJ3TAUGTRU"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/details-of-russell-brands-convictions"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-11-05/un-jurado-declara-al-actor-russell-brand-culpable-de-una-violacion-y-tres-agresiones-sexuales.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/actor-russell-brand-declarado-culpable-cargo-violacion-20261105152504-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-05T00:00:00Z",
+   "suite_de": null,
+   "mots": 237,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une trentaine de vols commerciaux visés par de fausses alertes à la bombe en Europe",
+   "chapeau": "Plus d'une vingtaine de vols commerciaux ont subi de fausses menaces d'attentat le jeudi 5 novembre 2026 dans l'espace aérien européen. Ces alertes ont entraîné des atterrissages d'urgence et la mobilisation d'avions de chasse dans plusieurs pays du continent.",
+   "corps": "De nouvelles menaces ont une fois de plus perturbé la circulation des avions civils au-dessus du continent, après de premiers incidents survenus plus tôt dans la semaine.\n\nLe 5 novembre 2026, la réception de messages d'alerte, parfois transmis par courrier électronique, a provoqué des mesures de sécurité exceptionnelles. Un Airbus A320 de la compagnie Aer Lingus reliant l'Irlande à l'Italie a ainsi été escorté par deux chasseurs militaires avant de se poser sur la base d'Évreux en France. Les 157 personnes présentes à bord de cet appareil ont été évacuées en sécurité. D'autres avions ont dû modifier leur parcours ou se poser promptement dans des aéroports de secours, notamment en Autriche pour une liaison entre la Lombardie et la Pologne.\n\nPlusieurs pays ont enregistré des perturbations directes, dont l'Italie, la France, la Bulgarie, la République tchèque, ainsi que l'Espagne avec trois vols connectés à Madrid. Des enquêtes ont été ouvertes pour déterminer l'origine de ces courriels et évaluer la coordination de ces envois. Aucune charge explosive n'a été découverte à bord des appareils inspectés.\n\n## Ce que disent les sources\n\nLes bilans sur le nombre exact d'avions ciblés durant la journée du 5 novembre 2026 varient selon les médias. Le journal Libération a rapporté un chiffre d'au moins 14 appareils touchés le 5 novembre 2026 à 21h27. La radio franceinfo mentionne de son côté un total d'au moins 27 vols visés le 6 novembre 2026 à 00h55. Le quotidien El País indique que 35 avions ont été affectés au total depuis le début de la semaine, selon un bilan publié le 6 novembre 2026 à 08h30.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/alertas-de-bomba-afetam-14-voos-na-europa-e-avioes-desviam-e-pousam-as-pressas.shtml"
+    },
+    {
+     "nom": "Europa Press",
+     "url": "https://europapress.es/internacional/noticia-mas-decena-vuelos-europeos-reciben-amenazas-bomba-incluidos-tres-madrid-salida-destino-20261105152741.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/avion-deroute-a-evreux-la-france-et-l-europe-en-proie-a-une-vague-inedite-dalertes-a-la-bombe-20261105"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/un-vol-dublin-rome-deroute-vers-evreux-en-raison-dune-alerte-a-la-bombe-selon-matignon-20261105_HHBM4QKLLZHTLMNIDSPFIUDRFE"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/alertes-a-la-bombe-attaques-cyber-survols-de-drones-la-guerre-hybride-s-intensifie-en-europe-20261105"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/questions-directes/20261105-chaos-dans-l-espace-a%C3%A9rien-europ%C3%A9en"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/avion-aterriza-emergencia-francia-tras-amenaza-bomba-20261105102629-nt.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/05/bijna-dertig-vluchten-in-europa-kregen-al-een-bommelding-ze-passen-in-het-plaatje-dat-we-steeds-vaker-zien-verstoringen-door-nationale-actoren-a4940620"
+    }
+   ],
+   "premiere_parution": "2026-11-03T18:45:09Z",
+   "suite_de": "2026-11-04-monde-005",
+   "mots": 304,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le president du Paraguay Santiago Pena annonce sa demission apres une crise bancaire",
+   "chapeau": "Le president du Paraguay Santiago Pena a annonce sa demission jeudi 5 novembre 2026 a Asuncion a la suite du placement sous tutelle d'une banque importante et du gel des avoirs de millions de clients. Le Parlement refuse d'accepter cette decision et maintient la procedure de destitution.",
+   "corps": "La Banque centrale du Paraguay a place sous tutelle l'etablissement financier Ueno le mercredi 4 novembre 2026, gelant temporairement les depots de ses clients selon Le Monde (05/11/2026). Ueno revendique 2,94 millions de clients (Le Monde, 05/11/2026), ce qui represente environ 60 pour cent de la population adulte du pays (NRC, 06/11/2026).\n\nLe president Santiago Pena a presente sa demission le jeudi 5 novembre 2026 (La Croix, 06/11/2026). Il affirme agir pour la stabilite du pays, la paix sociale et la preservation des institutions democratiques selon ABC (06/11/2026). Le Parlement n'a pas valide cette demission et prepare un proces en destitution pour mauvais exercice de ses fonctions et conflit d'interets selon France 24 (05/11/2026).\n\nDes milliers de personnes se sont rassemblees devant le Congres le jeudi 5 novembre 2026 pour manifester contre le chef de l'Etat selon The Hindu (06/11/2026).\n\n## Ce que disent les sources\n\nFrance 24 indique le 5 novembre 2026 que le president reste techniquement en fonction car le Parlement n'a pas vote sur sa demission. El Pais precise le 6 novembre 2026 que les deputes refusent d'accepter le depart du mandat et que le president se defendra lors du proces. Folha de S.Paulo rapporte le 6 novembre 2026 les propos de l'opposant Efrain Alegre affirmant que le president a demissionne pour ne pas etre arrete.\n\nCertaines informations sur les motifs exacts de la mise en faillite de l'etablissement bancaire manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/05/trumpgezinde-president-pena-zwaait-af-nu-bijna-helft-paraguayanen-niet-bij-bankrekening-kan-a4940657"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/dimite-presidente-paraguay-arrastrado-escandalo-ueno-bank-20261105173812-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-11-06/pena-desafia-al-congreso-paraguayo-y-se-defendera-en-el-juicio-politico-en-su-contra.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/pena-renunciou-para-nao-ser-preso-e-vice-e-parte-da-equipe-que-roubou-paraguai-diz-opositor.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-05T12:00:00Z",
+   "suite_de": null,
+   "mots": 299,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un juge fédéral suspend la construction de l'arche de Trump",
+   "chapeau": "Un tribunal américain a ordonné l'arrêt des travaux du projet de monument le vendredi 6 novembre 2026. Cette décision intervient peu de temps après son accord par une commission fédérale à Washington.",
+   "corps": "Une commission fédérale a validé le projet d'arche du gouvernement le jeudi 5 novembre 2026 selon NPR (05/11/2026). L'administration américaine souhaitait débuter les travaux immédiatement après cette validation d'après NPR (06/11/2026).\n\nUne juge fédérale a publié une ordonnance pour bloquer le chantier durant quatorze jours d'après The Guardian (06/11/2026). La commission nationale de planification a voté par huit voix contre quatre pour autoriser le mémorial d'une hauteur de soixante-seize mètres selon The Hindu (06/11/2026).\n\nTrois recours en justice contestent ce projet situé près de Washington d'après The Hindu (06/11/2026). L'ordonnance d'interdiction temporaire est intervenue peu après minuit selon NPR (06/11/2026).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/panel-votes-to-proceed-with-trumps-massive-arch-despite-complaints"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq99zd93ryvko"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece"
+    },
+    {
+     "nom": "thedailybeast.com",
+     "url": "https://thedailybeast.com/donald-trumps-tacky-arch-plans-hit-with-humiliating-reversal"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington"
+    }
+   ],
+   "premiere_parution": "2026-11-05T10:02:00Z",
+   "suite_de": null,
+   "mots": 144,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le gouverneur de Californie commue toutes les peines de mort en prison",
+   "chapeau": "Le gouverneur de Californie, Gavin Newsom, a annoncé le jeudi 5 novembre 2026 la commutation de toutes les peines capitales de son État en réclusion à perpétuité. Cette décision concerne les détenus du couloir de la mort de cette juridiction américaine.",
+   "corps": "Le gouverneur de Californie, Gavin Newsom, a communiqué sa décision le jeudi 5 novembre 2026. Il a exercé sa faculté constitutionnelle pour transformer les sentences extrêmes en prison à perpétuité sans possibilité de libération conditionnelle.\n\nSelon le journal El País le 6 novembre 2026, cette mesure concerne 563 reclus, tandis que la majorité des autres sources, comme Le Monde et Libération le 6 novembre 2026, font état de 548 détenus.\n\nLe gouverneur démocrate a justifié sa démarche en expliquant que l'État ne doit pas donner la mort, selon ses déclarations rapportées par franceinfo le 6 novembre 2026. Il a également mis en cause un système judiciaire qu'il juge inéquitable, d'après Le Monde le 6 novembre 2026.\n\n## Ce que disent les sources\n\nLes sources divergent sur le nombre exact de personnes concernées par cette mesure de clémence. El País mentionne 563 reclus le 6 novembre 2026. En revanche, Folha de S.Paulo, ABC, Libération, La Croix, Der Spiegel, Le Monde et BBC News indiquent un total de 548 détenus dans leurs éditions du 6 novembre 2026.\n\nCertains éléments manquent pour préciser la date exacte de l'application définitive de ces mesures.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/governador-da-california-cancela-pena-de-morte-de-548-pessoas.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/gobernador-california-conmuta-penas-muerte-estado-cadena-20261105203959-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/etats-uniens-le-gouverneur-de-californie-annonce-commuer-les-548-peines-de-mort-dans-l-etat-20261105"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-11-05T03:15:00Z",
+   "suite_de": null,
+   "mots": 230,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Nithya Raman remporte l'élection municipale de Los Angeles face à Karen Bass",
+   "chapeau": "La démocrate Nithya Raman a battu l'édile sortante Karen Bass lors du scrutin municipal à Los Angeles, le mercredi 5 novembre 2026. Elle devient ainsi la première édile d'origine asiatique de la deuxième ville des États-Unis.",
+   "corps": "Nithya Raman, conseillère municipale et urbaniste, a remporté l'élection face à Karen Bass, la maire sortante. Karen Bass a appelé sa rivale pour lui concéder la victoire et la féliciter, selon El País le 5 novembre 2026.\n\nLa campagne s'est concentrée sur les questions de logement, de sans-abrisme et de gestion des incendies de forêt survenus en 2025, d'après El País le 6 novembre 2026. Nithya Raman devient la première femme d'origine sud-asiatique et la première personne née en Inde à diriger cette collectivité.\n\nCette victoire s'inscrit dans la progression de personnalités classées à la gauche du Parti démocrate, dans la lignée de l'accession au pouvoir de Zohran Mamdani à New York, relève Le Monde le 5 novembre 2026. Nithya Raman est affiliée aux Socialistes démocrates d'Amérique, d'après The Hindu le 6 novembre 2026.\n\nCertaines sources évoquent une projection de victoire par Decision Desk HQ relayée par Bloomberg le 5 novembre 2026, tandis que d'autres médias annoncent le résultat comme acquis après la concession de Karen Bass le même jour. Un élément manque concernant le décompte exact final des voix au moment de l'annonce.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-05/raman-wins-los-angeles-mayor-race-ddhq-projects"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_05/los-angeles-raman-democratici-152a50be-0a8c-49e8-8389-18f85308fxlk.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-05/nithya-raman-desbanca-a-karen-bass-y-sera-la-primera-alcaldesa-de-origen-asiatico-de-los-angeles.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/05/midterms-2026-a-los-angeles-la-victoire-de-nithya-raman-a-la-mairie-illustre-la-montee-en-puissance-d-une-nouvelle-gauche-aux-etats-unis_6807341_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/india-born-nithya-raman-beats-democratic-incumbent-to-become-la-mayor/article71671618.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor"
+    }
+   ],
+   "premiere_parution": "2026-11-05T00:51:00Z",
+   "suite_de": null,
+   "mots": 220,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump signe une proclamation pour classer le bureau Ovale",
+   "chapeau": "Le président des États-Unis Donald Trump a signé jeudi une proclamation visant à protéger le bureau Ovale et la salle du Conseil des ministres contre de futures modifications. Cette décision intervient alors que son parti a enregistré des défaites lors des élections de mi-mandat.",
+   "corps": "Le président américain Donald Trump a signé un décret jeudi (selon Herald Globe, le 05/11/2026 à 04:00) afin de préserver le bureau Ovale et la salle du Conseil des ministres en tant que monuments nationaux. Il a utilisé l'Antiquities Act, une loi permettant de protéger des sites historiques. Il a déclaré que cette mesure empêchera les administrations suivantes de détruire ou de modifier ces lieux.\n\nS'exprimant devant des journalistes dans le bureau Ovale, Donald Trump a présenté ces espaces comme des symboles importants de l'histoire et du gouvernement américain. D'après The Guardian (le 06/11/2026 à 04:29), il souhaite ainsi s'assurer que ses choix de décoration ne soient pas retirés par la suite.\n\nCe déplacement du président vers des projets de rénovation intervient après les revers électoraux de son parti lors des élections de mi-mandat selon The Guardian (le 06/11/2026 à 04:29) et Al Jazeera (le 06/11/2026 à 08:48). The Hindu (le 06/11/2026 à 06:29) indique que des critiques lui reprochent d'ignorer les préoccupations des électeurs concernant la guerre en Iran et le coût de la vie pour se concentrer sur des travaux de construction.\n\n## Ce que disent les sources\n\nLe journal The Hindu (le 06/11/2026 à 06:29) mentionne des critiques reprochant au président de négliger les dossiers sur la guerre en Iran et l'accessibilité financière au profit de chantiers, tandis que d'autres sources se concentrent sur la protection juridique des pièces présidentielles.\n\nCertains éléments manquent concernant la réaction détaillée des responsables de l'opposition politique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "heraldglobe.com",
+     "url": "https://heraldglobe.com/news/279415093/trump-signs-proclamation-to-preserve-oval-office-cabinet-room-as-national-monuments"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation"
+    },
+    {
+     "nom": "bgnes.com",
+     "url": "https://bgnes.com/politics/trump-signs-proclamation-to-shield-oval-office-from-future-alterations"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-trump-erklaert-sein-vergoldetes-oval-office-zum-nationaldenkmal-a-ed02fc73-d56a-4773-9142-68e9bb41780e"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-designates-oval-office-as-national-monument/article71671751.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument"
+    }
+   ],
+   "premiere_parution": "2026-11-05T00:00:00Z",
+   "suite_de": null,
+   "mots": 306,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Gadi Eisenkot recueille le soutien majoritaire pour former un gouvernement",
+   "chapeau": "Le président israélien Isaac Herzog a recueilli jeudi 5 novembre 2026 les recommandations des partis politiques pour désigner le prochain chef de gouvernement. Gadi Eisenkot a obtenu le soutien de soixante-sept députés à la Knesset.",
+   "corps": "Le président Isaac Herzog poursuit ses consultations à Jérusalem pour désigner le futur dirigeant du pays après les élections législatives du 27 octobre 2026 sans majorité claire. L'ancien chef d'état-major Gadi Eisenkot a obtenu l'appui de six partis politiques, incluant les formations représentant la minorité arabe, selon Le Monde le 5 novembre 2026 et ABC le 6 novembre 2026.\n\nCette coalition potentielle atteint soixante-sept sièges sur les cent vingt que compte le Parlement, d'après ABC le 6 novembre 2026. Le chef de l'État doit annoncer sa décision dimanche 8 novembre 2026, d'après Le Monde et The Hindu le 6 novembre 2026.\n\nEn parallèle, le Premier ministre sortant Benyamin Nétanyahou a perdu le soutien d'un parti ultra-orthodoxe le jeudi 5 novembre 2026, selon Libération le 6 novembre 2026. Cette rupture fait suite à un désaccord sur le service militaire des étudiants religieux, rapporte le même journal.\n\nCertaines formations, à l'instar de Judaïsme unifié de la Torah, ont choisi de ne soutenir aucun des deux candidats lors de ces entretiens, d'après Haaretz le 5 novembre 2026.\n\nCertains éléments manquent pour connaître la composition exacte de la future coalition ministérielle.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/legislatives-en-israel-netanyahou-perd-le-soutien-dun-parti-ultra-orthodoxe-qui-le-soutenait-depuis-trente-ans-20261105_FMF2EQFJZZAP5KG3JQ2HOL36WU"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/presidente-israeli-recibe-netanyahu-eisenkot-formar-gobierno-20261105191111-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/elections/2026-11-05/ty-article/.premium/eisenkot-secures-parliamentary-majority-clearest-path-to-form-govt/000001a1-ad0b-d041-a5f9-ed2bbb1f0000"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/en-israel-netanyahou-entretient-la-suspicion-sur-le-vote-arabe-pour-empecher-l-alternance-20261104"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20261105-isra%C3%ABl-gadi-eisenkot-en-position-favorable-pour-former-le-prochain-gouvernement"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/israel-gadi-eisenkot-bekommt-die-meisten-empfehlungen-aus-dem-israelischen-parlament-a-97df6d8d-3c51-48c7-977c-27ade28709a2"
+    }
+   ],
+   "premiere_parution": "2026-11-04T17:26:31Z",
+   "suite_de": "2026-11-05-monde-004",
+   "mots": 222,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une nouvelle vague d'alertes à la bombe perturbe les vols européens",
+   "chapeau": "Une nouvelle série d'alertes à la bombe a touché plus de vingt vols commerciaux à travers l'espace aérien européen le jeudi 5 novembre 2026. Ces incidents ont entraîné des déviations de trajectoire et des atterrissages d'urgence pour de nombreux appareils.",
+   "corps": "Après une première série d'incidents les jours précédents, au moins vingt et un vols supplémentaires ont été ciblés par de fausses alertes le 5 novembre 2026, selon la BBC (BBC News, 05/11/2026 à 21:39). Le gouvernement britannique qualifie ces avertissements de canulars malveillants.\n\nPlusieurs appareils ont dû être déviés ou fouillés à la suite de ces messages transmis par le contrôle aérien. L'agence de presse italienne Ansa a notamment signalé des perturbations concernant des liaisons vers Varsovie et Rome (The Guardian, 05/11/2026 à 21:57).\n\nLe commissaire européen aux transports estime qu'il est encore trop tôt pour affirmer que l'ensemble de ces menaces est relié entre eux (The Guardian, 05/11/2026 à 21:57). Aucun groupe n'a revendiqué ces actes (The Straits Times, 05/11/2026 à 17:52).\n\n## Ce que disent les sources\n\nCertains experts estiment que ces perturbations constituent une campagne coordonnée visant à perturber le transport aérien dans la région (Financial Times, 05/11/2026 à 18:34). D'autres sources soulignent qu'il n'existe aucune preuve matérielle permettant d'associer ces menaces à un État ou à des groupes intermédiaires (BBC News, 05/11/2026 à 23:58).\n\nLe nombre exact total de vols touchés varie selon les décomptes des médias, allant d'une vingtaine à plus de trente appareils.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmpqg08nz3pqo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/explainer-what-do-we-know-about-the-wave-of-bomb-threats-against-flights-in-europe"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e2eb8161-7620-494b-9905-4271164d0e4c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20261104/f3cb368e587b4304be9beca9f79b13b9/c.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/multiple-flights-in-europe-diverted-because-of-bomb-threats/article71670503.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe"
+    }
+   ],
+   "premiere_parution": "2026-11-03T16:06:47Z",
+   "suite_de": "2026-11-04-monde-005",
+   "mots": 256,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le secrétaire d'Etat américain évalue son avenir au sein du gouvernement",
+   "chapeau": "Le secrétaire d'Etat américain Marco Rubio examine son maintien dans l'administration Trump après les élections de mi-mandat. Cet examen intervient aux Etats-Unis en novembre 2026 à la suite de la défaite du parti républicain.",
+   "corps": "Des sources anonymes affirment que le secrétaire d'Etat Marco Rubio réfléchit à son départ de l'équipe gouvernementale de Donald Trump selon Bloomberg le 05/11/2026. Cette réflexion fait suite aux résultats défavorables des élections de mi-mandat pour le parti républicain cette même semaine.\n\n## Ce que disent les sources\n\nL'agence Bloomberg et Folha de S.Paulo indiquent que le responsable étudie une démission potentielle d'après des informations publiées les 05/11/2026 et 06/11/2026. Le Figaro, The Straits Times, la BBC, Der Spiegel et Bloomberg rapportent en revanche que Marco Rubio rejette ces informations dans un entretien accordé au New York Times le 06/11/2026. Il déclare qu'il a l'intention de conserver ses fonctions jusqu'au terme du mandat présidentiel.\n\nCertaines informations précises sur les motifs exacts de cette décision potentielle manquent dans les sources.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-05/rubio-considers-leaving-administration-after-gop-s-midterm-loss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/rubio-avalia-renunciar-e-abandonar-governo-trump-apos-midterms-diz-agencia.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/presidentielle-2028-marco-rubio-dement-vouloir-quitter-l-administration-trump-pour-se-presenter-20261105"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/rubio-rejects-reports-he-will-leave-his-jobs-to-run-for-president"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqg7xxg4jdv5o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/midterms-in-den-usa-marco-rubio-dementiert-ruecktrittsgeruechte-a-88b35829-6190-4c86-b088-217b9bba2bb0"
+    }
+   ],
+   "premiere_parution": "2026-11-05T19:27:30Z",
+   "suite_de": null,
+   "mots": 171,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les électeurs sud-africains votent lors des élections municipales de novembre 2026",
+   "chapeau": "Les citoyens sud-africains ont voté le mercredi 4 novembre 2026 pour renouveler leurs conseils municipaux. Le parti au pouvoir, l'African National Congress, enregistre un recul selon les résultats partiels publiés vendredi 6 novembre 2026.",
+   "corps": "Les électeurs se sont rendus aux urnes le mercredi 4 novembre 2026 pour désigner leurs représentants locaux en Afrique du Sud. Les électeurs ont exprimé leur mécontentement concernant la criminalité, la corruption et les difficultés d'accès aux services publics de base selon The Straits Times du 4 novembre 2026.\n\nLes infrastructures défaillantes provoquent des coupures d'électricité et des interruptions d'approvisionnement en eau dans le pays d'après The Guardian du 4 novembre 2026. L'African National Congress, au pouvoir depuis 1994, dirigeait les premiers résultats provisoires annoncés le jeudi 5 novembre 2026 par The Straits Times.\n\nLe dépouillement portant sur plus des deux tiers des bulletins le vendredi 6 novembre 2026 indique une baisse importante du soutien électoral pour le parti au pouvoir selon The Straits Times du 6 novembre 2026.\n\nCertains éléments manquent pour connaître la composition définitive de tous les conseils municipaux.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/south-africa-votes-in-local-polls-expected-to-further-weaken-anc-grip"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cr4g1x6l77xyo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/south-africa-votes-as-anc-faces-further-losses-and-coalition-rule-looms/article71667127.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-05/south-africa-s-anc-on-course-to-shed-support-in-municipal-vote"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls"
+    }
+   ],
+   "premiere_parution": "2026-11-03T23:07:39Z",
+   "suite_de": null,
+   "mots": 176,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Une mobilisation nationale pour le pouvoir d'achat rassemble les salariés en France",
+   "chapeau": "Les syndicats et plusieurs organisations ont réuni de nombreux manifestants à travers la France le jeudi 5 novembre 2026. Ce rassemblement interprofessionnel vise à réclamer des revalorisations de salaire et des mesures contre la hausse du coût de la vie.",
+   "corps": "Cette journée fait suite aux préavis de grève déposés par les représentants des travailleurs pour le jeudi 5 novembre 2026.\n\nLes défilés se sont déroulés dans les grandes agglomérations comme Paris, Lyon et Marseille. Le mouvement a rassemblé des salariés des entreprises privées, des agents de la fonction publique, des lycéens, des étudiants, des membres des gilets jaunes et des agriculteurs. En raison du débrayage des personnels, la tour Eiffel a fermé ses portes au public. Les liaisons sur le réseau ferroviaire national ont subi plusieurs perturbations.\n\nLes autorités ont déployé 70 000 policiers et gendarmes sur l'ensemble du territoire national pour encadrer les 193 cortèges. Le Figaro indique le 6 novembre 2026 à 02:09 que les forces de l'ordre ont procédé à 448 interpellations pendant la journée. À la suite de ces évènements, Sébastien Lecornu a annoncé l'organisation d'une conférence sociale prévue le lundi suivant. Cette réunion rassemblera le gouvernement, les représentations syndicales et les organisations patronales.\n\n## Ce que disent les sources\n\nLes estimations sur la participation globale au mouvement présentent des écarts importants selon les organismes. Le ministère de l'Intérieur comptabilise 575 000 participants dans tout le pays, selon des données citées par Le Monde le 6 novembre 2026 à 08:44 et Bloomberg le 6 novembre 2026 à 11:00. D'autres rapports de la même institution gouvernementale mentionnent environ 600 000 personnes, d'après les chiffres rapportés par la BBC le 5 novembre 2026 à 21:59 et RFI le 5 novembre 2026 à 23:09. De son côté, la CGT affirme avoir réuni 1,6 million de personnes sur l'ensemble des défilés, comme l'indique La Croix le 5 novembre 2026 à 22:15. La chaîne Al Jazeera évoque plus de 250 000 manifestants le 6 novembre 2026 à 00:11, tandis que le journal ABC fait état de prévisions à hauteur de 780 000 participants le 6 novembre 2026 à 00:53.\n\nLe montant précis des revalorisations salariales demandées par l'intersyndicale n'est pas précisé dans les documents fournis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckx2qzv835pgo"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/live-greve-jeudi-5-novembre-transports-sncf-ratp-ecole-manifestations-france-aujourdhui-20261105"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261105-%C3%A7a-fait-des-ann%C3%A9es-qu-on-attend-que-%C3%A7a-converge-en-france-salari%C3%A9s-et-lyc%C3%A9ens-ont-manifest%C3%A9-en-masse-ce-jeudi"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105"
+    }
+   ],
+   "premiere_parution": "2026-11-05T05:47:57Z",
+   "suite_de": "2026-11-05-france-001",
+   "mots": 372,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Un avion reliant Dublin à Rome dérouté vers Évreux après une alerte à la bombe",
+   "chapeau": "Un avion de ligne a changé de trajectoire jeudi 5 novembre 2026 pour atterrir sur une base militaire dans l'Eure. L'appareil transportait 157 personnes entre l'Irlande et l'Italie.",
+   "corps": "Un Airbus A320 de la compagnie Aer Lingus assurant la liaison entre Dublin et Rome a reçu une menace explosive le jeudi 5 novembre 2026 selon Matignon. Les services du Premier ministre indiquent que l'appareil a modifié sa route après environ une heure de vol.\n\nDeux avions de chasse de l'armée ont pris en charge l'escorte de l'appareil civil jusqu'à la base aérienne 105 située à Évreux. Le parquet d'Évreux, par la voix du procureur de la République Rémi Coutin, a précisé que les 151 passagers et les six membres d'équipage se trouvent en sécurité.\n\nUne enquête judiciaire concerne le comportement du commandant de bord. Les autorités judiciaires lui reprochent d'avoir initialement résisté à l'injonction de poser l'appareil sur le site militaire français.\n\nCe incident aérien s'inscrit dans une série de menaces similaires recensées en Europe. Une dizaine de vols commerciaux ont subi des alertes comparables au cours des derniers jours.\n\n## Ce que disent les sources\n\nLe nombre exact de passagers varie selon les publications des médias. Le Figaro [3] et franceinfo [12] font état de 151 passagers le jeudi 5 novembre 2026, tandis que France 24 [1], dans ses bulletins du même jour, mentionne un total de 157 personnes embarquées.\n\nCertains détails manquent concernant l'origine précise de l'alerte menaçant le vol et l'identité du pilote visé par l'enquête judiciaire.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261105-alerte-%C3%A0-la-bombe-sur-un-vol-dublin-rome-l-a320-d%C3%A9rout%C3%A9-a-atterri-%C3%A0-%C3%A9vreux"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/france/normandie/eure/evreux/alerte-a-la-bombe-un-avion-dublin-rome-deroute-vers-une-base-militaire-a-evreux_8269283.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/alerte-a-la-bombe-un-airbus-a320-reliant-dublin-a-rome-deroute-vers-evreux-20261105"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/alerte-a-la-bombe-un-avion-a320-dublin-rome-deroute-vers-evreux-20261105"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/avion-daer-lingus-deroute-le-pilote-aurait-refuse-datterrir-sur-la-base-militaire-devreux-une-enquete-ouverte-20261105_A2A3TZNP7ZEMXDTFVAFQQ5PXKQ"
+    }
+   ],
+   "premiere_parution": "2026-11-05T11:19:57Z",
+   "suite_de": null,
+   "mots": 248,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "L'Elysee reagit a la publication des messages prives d'Emmanuel Macron",
+   "chapeau": "Un livre paru jeudi 5 novembre 2026 rassemble des messages prives envoyes par Emmanuel Macron a la journaliste Francoise Degois. L'ouvrage met l'administration presidentielle dans l'embarras.",
+   "corps": "La publication de l'ouvrage intitule Vous etes tous trop durs avec moi revele deux annees d'echanges textuels entre le chef de l'Etat et la journaliste Francoise Degois. Le livre est paru le jeudi 5 novembre 2026 selon Liberation du 4 novembre 2026.\n\nL'administration presidentielle exprime son embarras face a ces divulgations d'apres Liberation du 4 novembre 2026. Le president de la Republique a pris connaissance de la sortie de ces echanges trois jours avant la parution d'apres RFI du 5 novembre 2026. L'auteure indique qu'elle n'a pas demande l'accord du chef de l'Etat pour compiler ces messages sur Telegram d'apres le Corriere della Sera du 4 novembre 2026.\n\nLe livre aborde plusieurs sujets politiques incluant la dissolution parlementaire et les perspectives pour l'apres mandature d'apres franceinfo du 4 novembre 2026. L'editeur de l'ouvrage est la maison Robert Laffont d'apres Liberation du 4 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/ils-nont-rien-vu-venir-lelysee-embarrassee-par-les-confidences-demmanuel-macron-dans-un-livre-20261104_KPHX5OD2HNHFJD4YSOWLHU2LJU"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261104-on-les-aura-des-messages-priv%C3%A9s-de-macron-d%C3%A9voil%C3%A9s-dans-un-livre"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_04/macron-messaggi-segreti-giornalista-libro-097be21d-b3fe-4801-8c91-b0c776760xlk.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/emmanuel-macron/vous-etes-tous-trop-durs-avec-moi-les-confidences-d-emmanuel-macron-devoilees-dans-un-livre-choc-de-l-editorialiste-de-gauche-francoise-degois_8267477.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103"
+    }
+   ],
+   "premiere_parution": "2026-11-04T06:43:55Z",
+   "suite_de": "2026-11-05-france-006",
+   "mots": 170,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Sébastien Lecornu convoque une conférence sociale après les grèves",
+   "chapeau": "Après la journée de grèves et de manifestations du jeudi 5 novembre 2026 pour les salaires, le Premier ministre Sébastien Lecornu réunit les syndicats et le patronat. Cette réunion se déroulera lundi à Matignon.",
+   "corps": "Au lendemain d'une mobilisation interprofessionnelle en France, le Premier ministre Sébastien Lecornu annonce la tenue d'une conférence sociale le lundi 9 novembre 2026, selon les informations de Matignon publiées le 5 novembre 2026. Cette rencontre vise à répondre aux demandes concernant le pouvoir d'achat et la rémunération des salariés.\n\nLe ministre du Travail qualifie d'important d'essayer d'atteindre le seuil de 1500 euros net pour le salaire minimum, d'après Le Figaro du 6 novembre 2026. Parallèlement, des organisations de jeunesse et des gilets jaunes prévoient de nouvelles actions pour le samedi 7 novembre 2026, marquant le quatrième acte de leur mouvement débuté le 17 octobre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261105-apr%C3%A8s-une-journ%C3%A9e-de-forte-mobilisation-en-france-lecornu-convoque-les-syndicats-et-le-patronat"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/social/mobilisation-sociale-pour-le-pouvoir-dachat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-une-hausse-du-smic-attendue-20261105_EKKTWOYHTVGF7GQ3A6DAJCQYSQ"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/social/sebastien-lecornu-reunira-lundi-a-matignon-une-conference-sociale-avec-les-syndicats-et-le-patronat-20261105"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-lecornu-convoque-syndicats-et-patronat-pour-une-conference-sociale-a-matignon_6807684_823448.html"
+    }
+   ],
+   "premiere_parution": "2026-11-05T01:20:00Z",
+   "suite_de": "2026-11-05-france-001",
+   "mots": 139,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Les ventes du nouveau livre de Jordan Bardella restent incertaines",
+   "chapeau": "Le président du Rassemblement national Jordan Bardella a publié son troisième livre le mercredi 4 novembre 2026. Son équipe évalue le succès des ventes de cet ouvrage.",
+   "corps": "Le président du Rassemblement national Jordan Bardella a sorti son livre intitulé Gouverner le mercredi 4 novembre 2026 aux éditions Fayard. Cet ouvrage de près de 300 pages aborde le programme politique du parti.\n\nLe Figaro indique le vendredi 6 novembre 2026 que l'équipe du président du Rassemblement national obtiendra les chiffres des ventes la semaine suivante. Elle cherche à savoir si ce nouveau livre atteindra le même niveau de ventes que le premier ouvrage de Jordan Bardella.\n\nLibération rapporte le mercredi 4 novembre 2026 que le livre cite un historien antisémite. Le même journal mentionne que Jordan Bardella applique une stratégie de déni face aux accusations formulées par Mediapart.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/gouverner-entre-non-dits-et-banalites-jordan-bardella-et-son-livre-impossible-20261104_IAREP66LRFGNJHFAQLWLVNRIXM"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/jordan-bardella-jure-fidelite-a-marine-le-pen-dans-un-troisieme-livre-en-forme-de-programme-20261103"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/gouverner-que-contient-le-nouveau-livre-de-jordan-bardella_8267120.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/le-troisieme-livre-de-jordan-bardella-gouverner-suscitera-t-il-l-engouement-du-premier-20261106"
+    }
+   ],
+   "premiere_parution": "2026-11-04T07:00:00Z",
+   "suite_de": "2026-11-05-france-005",
+   "mots": 137,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La defaite americaine de Donald Trump inspire la gauche francaise",
+   "chapeau": "Les partis de gauche en France ont salue mercredi 4 novembre 2026 la defaite des republicains aux elections de mi-mandat aux Etats-Unis. Ils y voient un signal positif en vue de l election presidentielle francaise de 2027.",
+   "corps": "Le parti democratique a remporte le Senat et la Chambre des reprÃ©sentants le mercredi 4 novembre 2026 selon franceinfo. Ce scrutin place le president americain en position de faiblesse.\n\nPlusieurs personnalites politiques de gauche ont commente ces resultats. Marine Tondelier considere ce scrutin comme un avertissement pour le Rassemblement national. Les formations de gauche estiment que cette situation demontre qu une victoire de la droite nationaliste n est pas ineluctable.\n\n## Ce que disent les sources\n\nLe Rassemblement national rejette tout rapprochement entre la situation politique americaine et le contexte francais selon France 24 du 4 novembre 2026. Le journal Le Monde indique le meme jour que ce parti prend ses distances avec le dirigeant americain.\n\nLes sources ne precisent pas l impact exact de ce scrutin sur les electeurs francais.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-radio/l-edito-politique/edito-donald-trump-le-soutien-dont-personne-ne-veut-dans-la-campagne-presidentielle-en-france_8246494.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261104-midterms-en-france-la-gauche-f%C3%AAte-la-d%C3%A9faite-de-trump-aux-%C3%A9lections"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/defaite-du-camp-trump-aux-midterms-la-gauche-francaise-y-voit-un-signe-despoir-et-dresse-un-parallele-avec-le-rn-20261104_EXNUWALKAZGEBMSB4RE7S2KNXY"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/04/presidentielle-2027-les-resultats-des-midterms-americains-genent-le-rn-et-rejouissent-la-gauche_6806278_823448.html"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/podcast/playbook-paris-podcast/melenchon-a-t-il-deja-son-ticket-pour-le-second-tour"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/midterms-2026-ce-que-la-gauche-francaise-retient-de-la-victoire-des-democrates-aux-etats-unis-20261105"
+    }
+   ],
+   "premiere_parution": "2026-11-04T06:59:41Z",
+   "suite_de": null,
+   "mots": 168,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-france-007",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Neuf députés communistes soutiennent Jean-Luc Mélenchon pour la présidentielle 2027",
+   "chapeau": "Une majorité de députés du groupe communiste et ultramarin à l'Assemblée nationale a annoncé son soutien à Jean-Luc Mélenchon, jeudi 5 novembre 2026. Ce choix s'effectue au détriment de Fabien Roussel, le candidat désigné par le Parti communiste français.",
+   "corps": "Neuf élus sur les 17 membres du groupe parlementaire communiste et ultramarin ont officialisé leur ralliement à la candidature de Jean-Luc Mélenchon, figure de La France insoumise, pour l'élection présidentielle de 2027. Cette décision contredit la position officielle du Parti communiste français (PCF), qui a investi son secrétaire national, Fabien Roussel, pour porter ses couleurs lors du scrutin.\n\nLes députés dissidents justifient leur position par la nécessité de construire une union de la gauche de rupture, une stratégie politique visant à transformer radicalement le système économique et social actuel. Ce positionnement fragilise la candidature de Fabien Roussel au sein même de son groupe parlementaire. Les élus concernés privilégient ainsi la dynamique portée par l'ancien candidat insoumis plutôt que celle de leur propre formation politique.\n\n## Ce que disent les sources\n\nLes sources consultées s'accordent sur le nombre de députés impliqués dans cette annonce. Libération (05/11/2026, 21:04) et franceinfo (05/11/2026, 21:09) précisent que neuf élus sur les 17 membres du groupe ont pris cette position. Le Monde (05/11/2026, 18:49) et Le Figaro (05/11/2026, 21:09) confirment également que cette majorité de députés soutient Jean-Luc Mélenchon face à Fabien Roussel.\n\nAucune information n'est disponible sur la réaction officielle de la direction du Parti communiste français suite à cette annonce.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/05/presidentielle-2027-la-majorite-du-groupe-communiste-et-ultramarin-a-l-assemblee-annonce-soutenir-jean-luc-melenchon_6806973_823448.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/nous-nous-engageons-a-soutenir-jean-luc-melenchon-fabien-roussel-lache-par-la-majorite-du-groupe-communiste-a-lassemblee-melenchon-20261105_NMD2ZUWHY5FXHGWMSYLRJWUN6Y"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/presidentielle-2027-la-majorite-du-groupe-communiste-a-l-assemblee-apporte-son-soutien-a-jean-luc-melenchon-plutot-qu-a-fabien-roussel_8269403.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-bruno-retailleau-marine-tondelier-et-laure-lavalette-principaux-invites-des-matinales-20261105"
+    }
+   ],
+   "premiere_parution": "2026-11-05T14:49:25Z",
+   "suite_de": null,
+   "mots": 256,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump annonce une rencontre avec un émissaire du président russe",
+   "chapeau": "Le président américain Donald Trump a annoncé avoir rencontré l'émissaire russe Kirill Dmitriev le 5 novembre 2026 à la Maison-Blanche à Washington. Le chef d'État américain affirme qu'un accord pour clore la guerre en Ukraine est proche et pourrait englober toute l'Europe.",
+   "corps": "Le président des États-Unis Donald Trump a déclaré qu'un accord visant à mettre fin à la guerre entre la Russie et l'Ukraine était très proche. Selon ses déclarations faites le 5 novembre 2026, cette entente globale pourrait ne pas se limiter aux deux belligérants et englober l'ensemble du continent européen. Le dirigeant américain a affirmé que cet accord satisferait toutes les parties concernées.\n\nCette prise de parole fait suite à une audience accordée à Kirill Dmitriev dans la capitale américaine. Kirill Dmitriev exerce la fonction d'émissaire du président russe Vladimir Poutine. La première dame des États-Unis, Melania Trump, a invité ce représentant russe à la Maison-Blanche le jeudi 5 novembre 2026.\n\nUne délégation ukrainienne se trouvait également en déplacement aux États-Unis au même moment. Le président américain n'a pas rencontré ces représentants ukrainiens. Donald Trump n'a pas apporté de précisions sur le contenu technique de l'accord envisagé.\n\nDes négociations entre la Russie et l'Ukraine doivent se tenir les 10 et 11 novembre 2026 à Abou Dhabi. Ces pourparlers organisés aux Émirats arabes unis réuniront les représentations des deux pays en guerre.\n\nSur le plan militaire, les forces armées du Royaume-Uni doivent participer à un entraînement de grande ampleur. Cet exercice réunit une coalition de pays volontaires afin de préparer les troupes à un déploiement dans le cadre d'un potentiel maintien de la paix.\n\nEn Asie, les relations diplomatiques entre le gouvernement japonais à Tokyo et le gouvernement russe à Moscou connaissent une détérioration continue depuis le déclenchement de l'invasion de l'Ukraine.\n\nLe président américain a déjà formulé plusieurs engagements similaires par le passé sans qu'un terme ne soit mis aux combats. Des responsables européens craignent un changement d'alliance de Washington au profit du Kremlin. Ces acteurs redoutent que les États-Unis n'imposent à l'Ukraine un règlement défavorable de la crise.\n\nLes détails complets du projet d'accord ainsi que la réaction formelle du gouvernement ukrainien restent inconnus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-he-met-putin-envoy-dmitriev"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-predit-un-accord-avec-la-russie-sur-l-ukraine-et-meme-sur-toute-l-europe_8269949.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "kidderminstershuttle.co.uk",
+     "url": "https://kidderminstershuttle.co.uk/news/national/26704229.trump-says-big-beautiful-agreement-ukraine-might-involve-europe"
+    },
+    {
+     "nom": "theepochtimes.com",
+     "url": "https://theepochtimes.com/world/trump-meets-with-putins-envoy-ahead-of-trilateral-talks-with-russia-ukraine-6119043"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-trump-predit-un-tres-grand-accord-avec-la-russie-qui-pourrait-englober-toute-l-europe-20261105"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1717-point-conflit-ukrainien-poutine-aujourdhui-20261106"
+    }
+   ],
+   "premiere_parution": "2026-11-05T21:53:26Z",
+   "suite_de": null,
+   "mots": 357,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Melania Trump réunit des responsables russes et ukrainiens à Washington",
+   "chapeau": "La Première dame américaine Melania Trump a reçu des délégations russe et ukrainienne à la Maison Blanche, jeudi 5 novembre 2026. Cette rencontre fait suite à son rôle dans la négociation d'une trêve locale à Olechky.",
+   "corps": "Melania Trump a accueilli des représentants de Moscou et de Kiev à Washington le 5 novembre 2026. Elle a encouragé les deux parties à consolider les acquis d'un récent cessez-le-feu. La rencontre visait à discuter de la situation après la pause des combats. Les délégations ont rencontré la Première dame à la Maison Blanche pour reconnaître cet accord.\n\nLe président ukrainien Volodymyr Zelensky a décoré la Première dame américaine le 4 novembre 2026. Cette distinction récompense son implication dans l'organisation d'une évacuation humanitaire depuis la ville d'Olechky. Le décret présidentiel a officialisé cette remise de décoration. Cette action a été rendue publique mercredi, selon The Straits Times (04/11/2026).\n\nCette trêve a duré six jours dans cette localité sous contrôle russe, selon Bloomberg (05/11/2026) et The Hindu (05/11/2026). Melania Trump a joué un rôle dans cette médiation, bien que les détails précis de son intervention restent non spécifiés, rapporte la BBC (05/11/2026). La Première dame a été créditée par les deux parties pour son rôle dans ce processus, note la BBC (05/11/2026).\n\nCette initiative diplomatique intervient avant la tenue de pourparlers prévus à Abou Dhabi la semaine prochaine, sous médiation américaine, précise France 24 (05/11/2026). Le gouvernement américain cherche à obtenir un accord pour mettre fin au conflit en Ukraine, indique NPR (06/11/2026). La réunion de jeudi constitue une étape dans les efforts de communication autour de la trêve.\n\nMelania Trump a appelé à la paix lors de cet échange, selon Al Jazeera (05/11/2026). Les représentants russes et ukrainiens ont échangé sur la possibilité de prolonger cette période de calme. Cette rencontre à la Maison Blanche a permis de réunir les deux parties, souligne Al Jazeera (06/11/2026).\n\nLes détails précis de l'intervention de la Première dame dans la négociation du cessez-le-feu ne sont pas mentionnés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/ukraines-zelenskiy-awards-melania-trump-state-honour"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm87zvpzwq0no"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261105-guerre-en-ukraine-la-premi%C3%A8re-dame-am%C3%A9ricaine-melania-trump-en-m%C3%A9diatrice"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-05/melania-trump-hosts-russia-ukraine-envoys-to-tout-local-truce"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/melania-trump-diplomate-surprise-quand-la-premiere-dame-se-veut-mediatrice-entre-kiev-et-moscou-20261105"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/melania-trump-calls-for-enduring-ukraine-truce-as-rivals-meet-at-white-house/article71671601.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-04T09:52:46Z",
+   "suite_de": null,
+   "mots": 351,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "JD Vance impute la défaite électorale républicaine à la guerre iranienne",
+   "chapeau": "Le vice-président américain JD Vance a désigné mercredi 4 novembre la guerre en Iran comme la cause principale de l'échec républicain aux élections de mi-mandat. Ce scrutin a permis au Parti démocrate de prendre le contrôle des deux chambres du Congrès.",
+   "corps": "Le vice-président américain avait déjà attribué la défaite de son camp au conflit iranien le 5 novembre 2026.\n\nJD Vance a publié un texte de 614 mots sur le réseau social X pour expliquer sa position (Politico Europe, 05/11/2026). Il s'interroge sur le coût de cette intervention militaire initiée par Donald Trump (The Straits Times, 04/11/2026). Le vice-président reconnaît que des électeurs ayant soutenu Donald Trump en 2024 ont voté pour le Parti démocrate lors de ce scrutin (Folha de S.Paulo, 04/11/2026). Cette analyse constitue l'un des désaccords les plus marqués avec un président en exercice dans l'histoire récente (BBC News, 05/11/2026).\n\nCette prise de position lance un débat interne au sein du Parti républicain (Le Monde, 05/11/2026). Les observateurs notent la volonté de JD Vance de se démarquer en vue d'une candidature présidentielle en 2028 (ABC, 04/11/2026 ; The Hindu, 05/11/2026). Le quotidien Le Figaro (05/11/2026) décrit cette stratégie comme une partition délicate pour le vice-président, qui doit naviguer entre son rôle actuel et ses ambitions futures.\n\nLes cours du pétrole ont baissé à la suite de ces résultats électoraux (Financial Times, 05/11/2026). Cette victoire démocrate augmente la pression sur Donald Trump pour qu'il mette fin au conflit au Moyen-Orient (Financial Times, 05/11/2026). Le président du parlement iranien, Mohammad Bagher Ghalibaf, a réagi aux propos du vice-président américain sur les réseaux sociaux (Politico Europe, 05/11/2026).\n\n## Ce que disent les sources\n\nLes sources convergent sur l'analyse de JD Vance. Le journal Le Monde (05/11/2026) souligne l'ouverture d'un débat interne chez les républicains, tandis que le Corriere della Sera (05/11/2026) qualifie la situation de règlement de comptes au sein du parti.\n\nAucun détail n'est fourni sur la réaction officielle de Donald Trump à ces déclarations.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/vance-repudiates-iran-war-after-us-electoral-defeat"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/vance-culpa-guerra-iran-derrota-republicana-elecciones-20261104173908-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/vance-se-distancia-de-trump-atribui-derrota-nas-midterms-a-guerra-no-ira-e-admite-perda-de-eleitores.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-vp-vance-says-iran-war-was-the-reason-republicans-lost-midterms/article71667003.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crz98zqkz7z0o"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/05/midterms-2026-j-d-vance-contrarie-dans-ses-ambitions-par-la-deroute-de-son-camp-lance-le-debat-interne-chez-les-republicains_6806668_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-11-04T16:00:03Z",
+   "suite_de": "2026-11-05-geopolitique-001",
+   "mots": 351,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "La Corée du Nord rejette tout dialogue avec Washington après des tirs",
+   "chapeau": "Pyongyang a procédé à plusieurs tirs de missiles les 3 et 4 novembre 2026. Kim Yo-jong, sœur du dirigeant nord-coréen, a simultanément refusé toute discussion diplomatique avec les États-Unis.",
+   "corps": "La Corée du Nord a effectué quatre essais de missiles en moins d'une semaine, selon les informations rapportées le 4 novembre 2026. Ces actions militaires font suite à une série d'accusations émises par le FBI américain concernant le vol de plus de 6 milliards de dollars en cryptomonnaies, des actifs numériques décentralisés. Pyongyang a formellement démenti toute implication dans ce piratage informatique.\n\nKim Yo-jong, sœur du dirigeant Kim Jong-un, a qualifié les accusations américaines de preuve d'une politique hostile envers son pays. Elle a déclaré que Pyongyang n'éprouvait aucun besoin de s'entretenir avec des interlocuteurs jugés peu fiables. Cette position ferme marque un refus de reprendre les négociations diplomatiques avec Washington.\n\nLe contexte politique américain influence également la situation. La défaite du camp de Donald Trump lors des élections de mi-mandat, rapportée le 5 novembre 2026, réduit les perspectives d'une rencontre entre les deux pays. Des analystes estiment, le 6 novembre 2026, que le dirigeant nord-coréen Kim Jong-un ne manifeste actuellement aucun intérêt pour une reprise des échanges, malgré une possible volonté de rapprochement de la part de l'administration américaine.\n\nLa veille, le 5 novembre 2026, la Corée du Nord avait déjà procédé à des tirs de missiles après avoir rejeté les accusations de piratage informatique portées par les États-Unis.\n\nCertains détails sur les intentions futures des deux gouvernements manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/north-korea-denies-binance-accusation-refuses-dialogue-with-washington"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-promet-une-riposte-plus-forte-face-a-la-politique-hostile-des-etats-unis_8266652.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-04/corea-del-norte-acusa-a-ee-uu-de-politica-hostil-tras-las-acusaciones-por-el-robo-cibernetico.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/north-korea-fires-missiles-after-rejecting-us-claims-over-binance-hack/article71667113.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-03T22:42:30Z",
+   "suite_de": "2026-11-05-monde-010",
+   "mots": 253,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Nigel Farage critique la gestion américaine des conflits après les élections",
+   "chapeau": "Le chef du parti Reform UK, Nigel Farage, a publiquement critiqué Donald Trump le 5 novembre 2026. Il reproche au président américain d'avoir rompu ses promesses électorales concernant les guerres étrangères après les résultats des élections de mi-mandat.",
+   "corps": "Nigel Farage a qualifié les résultats du scrutin de mi-mandat aux États-Unis de désastre pour le président américain. Selon le dirigeant britannique, ces résultats constituent une leçon sur la nécessité de tenir ses engagements politiques. Il a affirmé que Donald Trump a rompu une promesse faite à l'électorat américain en lançant la guerre.\n\nLe chef de Reform UK exprime désormais ses inquiétudes quant à une possible intensification du conflit avec l'Iran par l'administration américaine. Cette prise de distance intervient alors que les pressions liées au coût de la vie affectent les citoyens britanniques. Nigel Farage a par ailleurs déclaré qu'il n'a jamais soutenu les guerres sans fin, cherchant ainsi à limiter les conséquences politiques de son association passée avec le président américain.\n\nLes opposants politiques de Nigel Farage considèrent depuis longtemps son amitié avec Donald Trump comme un handicap pour sa carrière. Le dirigeant britannique tente désormais de se démarquer de la ligne diplomatique adoptée par la Maison Blanche.\n\n## Ce que disent les sources\n\nBloomberg rapporte que Nigel Farage a souligné l'importance de tenir ses promesses suite aux pertes électorales de Donald Trump. La BBC précise que le dirigeant britannique s'inquiète d'une escalade de la guerre contre l'Iran. Politico Europe indique que cette critique s'inscrit dans un contexte de distanciation croissante face aux pressions économiques britanniques. Le Financial Times note que Nigel Farage cherche à limiter les retombées politiques de ses liens avec le président américain en affirmant son opposition aux conflits prolongés.\n\nCertaines précisions manquent concernant la nature exacte de la promesse que Nigel Farage estime rompue par Donald Trump.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-05/trump-s-uk-cheerleader-farage-says-president-broke-his-promise"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqz0vz55jpglo"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/nigel-farage-criticizes-donald-trump-broken-promise-foreign-wars-after-midterms-kicking"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7158f9d1-94b2-404f-b26e-7ebbf8cd1169?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-11-05T17:04:42Z",
+   "suite_de": null,
+   "mots": 299,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-geopolitique-006",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump reconnaît l'impact de la guerre en Iran sur les élections",
+   "chapeau": "Les démocrates ont remporté les élections de mi-mandat aux États-Unis le mardi 3 novembre 2026. Le président Donald Trump a admis le lendemain à Washington que l'engagement militaire contre l'Iran avait influencé ce résultat parlementaire.",
+   "corps": "Le président américain Donald Trump a confirmé, le mercredi 4 novembre 2026, que le conflit en Iran a pesé sur les résultats des élections de mi-mandat. Il a qualifié cette analyse de « en grande partie vraie » lors d'une déclaration à Washington (Source 3, 5, 11). Les démocrates ont conquis le Sénat et la Chambre des représentants lors du scrutin du 3 novembre 2026, marquant un revers pour le camp républicain (Source 5, 6, 10). Ce basculement du Congrès limite les marges de manœuvre politiques du président pour la fin de son mandat (Source 6, 12).\n\nDonald Trump a justifié son choix stratégique malgré ce résultat électoral. Il a déclaré, le 4 novembre 2026, qu'il mènerait à nouveau cette action militaire s'il le fallait (Source 11). Le président américain a mis en avant la nécessité d'empêcher l'Iran d'accéder à l'arme nucléaire, qualifiant cette priorité de solution à long terme (Source 11). Il a également réaffirmé, dans la nuit du 3 au 4 novembre 2026, son intention d'infliger un coup dur à Téhéran (Source 1). Certains analystes estiment que les huit prochaines semaines représentent une fenêtre pour une éventuelle opération militaire américaine (Source 12).\n\nLes autorités iraniennes ont réagi aux résultats du scrutin américain. Le maire de Téhéran, Alireza Zakani, a déclaré le 4 novembre 2026 que la défaite des républicains résultait de l'action du peuple iranien (Source 9). Le guide suprême, Mojtaba Jamenei, a diffusé un message par les médias officiels le 4 novembre 2026. Il a averti que toute nouvelle agression entraînerait une réponse iranienne de plus grande ampleur (Source 4).\n\n## Ce que disent les sources\n\nLe président Donald Trump lie le revers électoral au coût de la guerre et aux prix du carburant (Source 3, 5). Le maire de Téhéran, Alireza Zakani, attribue pour sa part le résultat à une manœuvre du peuple iranien (Source 9). Le journal italien Corriere della Sera rapporte le 4 novembre 2026 que cette lecture iranienne pourrait influencer les positions des partisans d'un accord avec les États-Unis (Source 2).\n\nLe lieu où se trouve actuellement le guide suprême Mojtaba Jamenei n'est pas connu (Source 4).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/04/midterms-2026-au-lendemain-du-scrutin-la-menace-d-une-reprise-de-la-guerre-americaine-contre-l-iran_6806138_3210.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_04/iran-risultato-midterm-c1bf0fdd-acf3-4bfa-8fa3-363930150xlk.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/iran-celebra-derrota-trump-atribuye-coste-guerra-20261104180554-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/en-direct-resultats-des-midterms-2026-aux-etats-unis-les-democrates-remportent-le-senat-et-la-chambre-des-representants-20261104_7VW63XWLYRBBDC7VH46XLUAMG4"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/en-direct-midterms-2026-apres-le-tsunami-democrate-une-ere-d-incertitude-s-ouvre-pour-donald-trump-et-les-republicains-20261104"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-04T06:12:17Z",
+   "suite_de": "2026-11-05-geopolitique-002",
+   "mots": 386,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-economie-001",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Les marchés boursiers mondiaux chutent après les élections américaines de mi-mandat",
+   "chapeau": "Les places financières mondiales enregistrent une baisse marquée depuis le 4 novembre 2026. Cette tendance fait suite aux résultats des élections de mi-mandat aux États-Unis, favorables au Parti démocrate.",
+   "corps": "Les indices boursiers asiatiques ont atteint leur niveau le plus bas en six mois le 4 novembre 2026, après les premiers résultats électoraux américains. Cette tendance s'est propagée aux marchés mondiaux, entraînant une chute des valeurs technologiques. Le Nasdaq, indice boursier américain à forte composante technologique, a reculé de plus de 5 % selon NPR le 6 novembre 2026.\n\nLes investisseurs craignent une régulation accrue du secteur de l'intelligence artificielle (IA) et des centres de données. Les centres de données sont des infrastructures physiques hébergeant des serveurs informatiques. Selon le Financial Times du 5 novembre 2026, le contrôle du Congrès par les démocrates pourrait ralentir la construction de ces infrastructures. Cette perspective inquiète les marchés, alors que la rentabilité du secteur de l'IA fait déjà l'objet de doutes, rapporte Deutsche Welle le 6 novembre 2026.\n\nLa capitalisation boursière du secteur technologique a perdu 2 000 milliards de dollars, d'après les données relayées par NPR le 6 novembre 2026. Les acteurs du marché anticipent une surveillance renforcée de l'industrie de l'IA, tant au niveau fédéral qu'au niveau des États américains, selon la même source.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-04/asian-stocks-fall-as-democratic-gains-in-us-add-to-ai-worries"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/markets/asian-tech-stocks-slide-as-democrats-lead-in-us-midterms"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmn04705rd8jo"
+    }
+   ],
+   "premiere_parution": "2026-11-04T03:52:59Z",
+   "suite_de": "2026-11-05-economie-003",
+   "mots": 211,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-economie-002",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Les élus démocrates préparent leur programme après les élections de mi-mandat",
+   "chapeau": "Le Parti démocrate a remporté les élections de mi-mandat aux États-Unis mardi 3 novembre 2026. Les responsables politiques préparent désormais leurs priorités législatives pour la prochaine session parlementaire.",
+   "corps": "Les élus démocrates ont obtenu une majorité lors du scrutin de mardi. Les dirigeants du parti doivent maintenant unifier leurs membres pour appliquer leurs engagements de campagne. Les priorités annoncées concernent la réduction des coûts pour les ménages et la lutte contre la corruption au sein des institutions.\n\nPlusieurs élus ayant remporté des sièges lors de ce vote ont exprimé leurs attentes. Ils souhaitent que les impôts des contribuables soient investis directement sur le territoire national. Les chefs de file du parti doivent concilier les positions parfois divergentes au sein de leur groupe parlementaire pour faire avancer ces dossiers.\n\nLe calendrier précis des réformes et les détails des mesures budgétaires ne sont pas encore connus.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/04/democrat-midterm-election-remarks"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year"
+    }
+   ],
+   "premiere_parution": "2026-11-04T14:33:21Z",
+   "suite_de": null,
+   "mots": 143,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-economie-003",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "La SNCF lance son nouveau train à grande vitesse vers Marseille",
+   "chapeau": "La SNCF met en service son TGV de nouvelle génération ce vendredi 6 novembre 2026. Le premier train relie Paris à Marseille après plusieurs années de tests et de retards.",
+   "corps": "Ce modèle, anciennement appelé TGV M, intègre des innovations en matière de confort, d'écologie et de modularité. La compagnie ferroviaire prévoit de remplacer progressivement l'ensemble de son parc actuel par ces nouvelles rames sur une période d'environ dix ans.\n\nLa SNCF a passé commande de 160 rames auprès du constructeur Alstom. Le coût total de cet investissement s'élève à 4,6 milliards d'euros, selon Le Figaro du 6 novembre 2026.\n\nCette mise en service intervient au lendemain d'une journée de mobilisation sociale. Le 5 novembre 2026, la SNCF a maintenu neuf TGV sur dix, malgré des perturbations sur certaines lignes régionales, d'après franceinfo du 4 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/greve/tgv-ter-rer-la-sncf-devoile-son-plan-de-circulation-a-la-veille-de-la-mobilisation-du-5-novembre_8268011.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/11/06/le-nouveau-tgv-de-la-sncf-plus-confortable-ecologique-et-modulable-entre-enfin-en-service-vendredi_6807380_3234.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/la-sncf-va-inaugurer-son-tgv-de-nouvelle-generation-sur-la-liaison-paris-marseille-le-6-novembre-20261014"
+    }
+   ],
+   "premiere_parution": "2026-11-04T19:51:08Z",
+   "suite_de": null,
+   "mots": 137,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-economie-004",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Le gouvernement envisage une hausse du Smic face aux mobilisations sociales",
+   "chapeau": "Le gouvernement français étudie une augmentation du salaire minimum après les manifestations du jeudi 5 novembre. Cette mesure vise à répondre aux revendications syndicales concernant le pouvoir d'achat.",
+   "corps": "L'exécutif étudie la possibilité d'avancer la revalorisation automatique du salaire minimum, accompagnée d'un supplément financier. Cette réflexion intervient après une journée de mobilisation nationale le 5 novembre, qui a rassemblé 600 000 personnes selon les autorités, d'après France 24 le 05/11/2026.\n\nLes syndicats demandent des augmentations significatives pour compenser la hausse des prix. La CFDT réclame notamment une hausse de 100 euros net par mois, selon Le Figaro le 05/11/2026. De son côté, l'économiste Clément Carbonnier estime qu'une hausse supérieure à 130 euros par mois serait nécessaire pour revenir au niveau de pouvoir d'achat de 2012, d'après Le Monde le 05/11/2026.\n\nLe salaire minimum est indexé sur l'inflation mais n'a pas bénéficié de revalorisation discrétionnaire, appelée coup de pouce, depuis 2012, selon Libération le 04/11/2026. Le gouvernement n'a pas encore précisé le montant ni la date d'une éventuelle mesure.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/social/en-reponse-a-la-mobilisation-sociale-le-gouvernement-pret-a-donner-un-coup-de-pouce-au-smic-20261104_ABYXH4FGNRFRJEWHLWFKGOA6SE"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/pouvoir-achat/quand-et-de-combien-augmenter-le-smic-les-deux-questions-sont-sur-la-table-du-gouvernement_8267768.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/social/on-n-est-pas-la-pour-une-operation-pieces-jaunes-les-syndicats-intensifient-la-pression-sur-le-gouvernement-pour-une-hausse-du-smic-20261105"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/idees/article/2026/11/05/il-faudrait-une-augmentation-du-smic-de-plus-de-130-euros-par-mois-pour-un-temps-plein-uniquement-pour-retrouver-le-niveau-de-2012_6806861_3232.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/politique/20261105-manifestations-pour-le-pouvoir-d-achat-d%C3%A9faite-de-donald-trump-aux-%C3%A9lections-de-mi-mandat"
+    }
+   ],
+   "premiere_parution": "2026-11-04T10:36:39Z",
+   "suite_de": null,
+   "mots": 175,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Google maintient l'intelligence artificielle dans son moteur de recherche scolaire",
+   "chapeau": "Google impose l'usage de l'intelligence artificielle pour accéder à son moteur de recherche dans les établissements scolaires. Cette décision, annoncée le 3 novembre 2026, limite les options des administrateurs pour restreindre ces technologies.",
+   "corps": "Le groupe Google a annoncé mardi 3 novembre 2026 que les établissements scolaires devront accepter ses outils d'intelligence artificielle pour conserver l'accès au moteur de recherche. Cette mesure concerne les élèves de l'éducation primaire et secondaire utilisant les services de l'entreprise.\n\nL'entreprise Alphabet Inc. propose désormais aux écoles de désactiver certains outils spécifiques comme Gemini. Toutefois, les fonctionnalités d'intelligence artificielle intégrées au moteur de recherche restent obligatoires pour les élèves. Les administrateurs scolaires ne peuvent pas dissocier la recherche classique de ces nouvelles fonctions automatisées. Google justifie cette mesure par l'intégration technique profonde de l'intelligence artificielle dans son service de recherche.\n\n## Ce que disent les sources\n\nCertaines sources initiales, comme Ars Technica le 3 novembre 2026, Folha de S.Paulo le 4 novembre 2026 et The Hindu le 4 novembre 2026, ont rapporté que Google couperait totalement l'accès au moteur de recherche pour les écoles refusant l'intelligence artificielle. D'autres publications, notamment Bloomberg le 4 novembre 2026 et une mise à jour d'Ars Technica le 6 novembre 2026, précisent que les écoles conservent la possibilité de désactiver des outils comme Gemini, mais que l'intelligence artificielle intégrée à la recherche demeure active. Le Corriere della Sera rapporte le 4 novembre 2026 que l'entreprise a clarifié sa position en affirmant que les écoles gardent le contrôle sur les fonctions à désactiver.\n\nLe calendrier précis du déploiement de ces nouvelles règles de gestion pour les établissements scolaires n'est pas mentionné.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-03/google-lets-schools-turn-off-gemini-but-not-the-ai-in-search"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/google-desativara-aplicativo-de-busca-em-escolas-que-rejeitarem-ia-da-empresa.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/google-will-turn-off-search-for-schools-in-us-that-reject-ai"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/google-blockiert-suchfunktion-wenn-schulen-ki-ablehnen-a-127ea560-4390-4851-ab2f-1c6caf198a73"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_novembre_04/google-consente-alle-scuole-di-vietare-l-uso-dell-intelligenza-artificiale-ma-a-rischio-c-e-anche-il-suo-motore-di-ricerca-97405d2e-e3b5-462b-bc4d-298552129xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-03T17:54:43Z",
+   "suite_de": "2026-11-05-tech-002",
+   "mots": 269,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-tech-002",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Des parents américains poursuivent Google après des échanges avec une IA",
+   "chapeau": "Des parents en Caroline du Nord ont déposé plainte contre Google le 5 novembre 2026. Ils accusent l'intelligence artificielle de l'entreprise d'avoir interagi avec leur fille de 13 ans sur un ordinateur scolaire.",
+   "corps": "La plainte concerne des échanges survenus sur un Chromebook fourni par l'établissement scolaire. L'adolescente a discuté de pensées suicidaires avec l'outil d'intelligence artificielle pendant plusieurs mois. Les parents estiment que ces interactions ont aggravé la santé mentale de leur fille. Ils reprochent à Google d'avoir intégré ses technologies aux ordinateurs scolaires de manière précipitée. Ces appareils sont distribués à des millions d'élèves aux États-Unis et dans d'autres pays.\n\n## Ce que disent les sources\n\nLe Monde et Le Figaro indiquent que l'adolescente a échangé des messages avec l'intelligence artificielle Gemini. À l'inverse, The Hindu affirme que l'accès à Gemini et à ChatGPT était bloqué par l'école sur l'ordinateur de l'élève.\n\nIl manque des précisions sur la nature exacte de l'outil d'intelligence artificielle utilisé par l'adolescente.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-parents-sue-google-after-their-teen-daughter-discussed-suicidal-thoughts-with-gemini"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/aux-etats-unis-des-parents-portent-plainte-contre-google-accusant-son-ia-d-avoir-aide-leur-fille-a-preparer-son-suicide-20261106"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-05T15:08:35Z",
+   "suite_de": null,
+   "mots": 157,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-tech-003",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Nintendo publie le remake de The Legend of Zelda Ocarina of Time",
+   "chapeau": "Le jeu vidéo The Legend of Zelda Ocarina of Time est disponible sur la console Nintendo Switch 2 depuis le jeudi 5 novembre 2026. Cette nouvelle version adapte le titre original sorti en 1998 aux technologies actuelles.",
+   "corps": "Les producteurs Eiji Aonuma et Hidemaro Fujibayashi ont supervisé ce projet. Ils ont modernisé le jeu pour l'adapter à la console Nintendo Switch 2. Cette sortie s'inscrit dans une stratégie des éditeurs de jeux vidéo consistant à revisiter des succès passés.\n\nLa critique spécialisée a accueilli cette parution avec des avis variés. Certains observateurs saluent une version plus claire et agréable à parcourir. D'autres critiques expriment un sentiment de nostalgie ou de détachement face à cette nouvelle mouture.\n\n## Ce que disent les sources\n\nLe journal Le Monde rapporte que l'aspect visuel du jeu a dérouté certains fans, qui le jugent trop éloigné de l'original de 1998. À l'inverse, The Guardian et Le Figaro soulignent un accueil enthousiaste de la part de la critique, qualifiant le jeu de chef-d'œuvre moderne.\n\nLe détail des chiffres de vente n'est pas encore disponible.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/remake-de-the-legend-of-zelda-ocarina-of-time-engrandece-titulo-original.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/04/voor-veel-gamers-geldt-ocarina-of-time-als-de-beste-game-aller-tijden-maar-waarom-a4940424"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/cultura/2026-11-05/eiji-aonuma-nunca-imagine-que-despues-de-terminar-ocarina-of-time-seguiria-haciendo-juegos-de-zelda.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/gamers-set-for-zelda-remake-to-hit-the-shelves"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/pixels/article/2026/11/05/nous-avancions-a-tatons-dans-le-noir-derriere-zelda-ocarina-of-time-le-genie-plein-de-nostalgie-d-eiji-aonuma-et-hidemaro-fujibayashi_6806778_4408996.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/jeux-video/the-legend-of-zelda-ocarina-of-time-world-of-warcraft-forever-pourquoi-l-industrie-du-jeu-video-mise-t-elle-autant-sur-ses-succes-du-passe_8267486.html"
+    }
+   ],
+   "premiere_parution": "2026-11-04T11:00:00Z",
+   "suite_de": null,
+   "mots": 176,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-tech-004",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Une cyberattaque contre le Crédit Mutuel Arkéa entraîne d'importantes pertes financières",
+   "chapeau": "Le groupe bancaire Crédit Mutuel Arkéa a subi une intrusion informatique ayant permis le détournement de fonds importants. Le parquet de Paris a ouvert une enquête sur cette opération détectée après une attaque contre un prestataire.",
+   "corps": "Le Crédit Mutuel Arkéa a confirmé le 4 novembre avoir été victime d'une cyberattaque. Les auteurs ont utilisé les comptes propres de l'établissement pour réaliser des transactions frauduleuses vers d'autres acteurs bancaires, selon Le Monde (05/11/2026). Ils ont ensuite converti ces sommes en cryptomonnaies, des monnaies numériques sans banque centrale, via des plateformes spécialisées (Le Monde, 05/11/2026).\n\nL'origine de l'intrusion remonterait à une attaque informatique visant un prestataire de services du groupe à la fin du mois d'octobre (Le Figaro, 05/11/2026). La banque affirme que les comptes de ses clients n'ont pas été affectés par ce vol (France 24, 05/11/2026). L'Office anticybercriminalité (OFAC) a été saisi de l'enquête (Libération, 04/11/2026).\n\n## Ce que disent les sources\n\nLes estimations du montant dérobé varient selon les sources. Libération (04/11/2026), Franceinfo (05/11/2026) et La Croix (05/11/2026) évoquent un préjudice supérieur à 100 millions d'euros. Le Figaro (05/11/2026) mentionne un montant d'au moins 150 millions d'euros. Le journal Le Télégramme aurait avancé le chiffre de 133 millions de dollars, une somme que le Crédit Mutuel Arkéa n'a pas confirmée (ABC, 05/11/2026).\n\nLe mode opératoire précis des auteurs de l'attaque n'est pas encore détaillé.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/la-banque-credit-mutuel-arkea-victime-dune-cyberattaque-118-millions-deuros-derobes-20261104_4Z63MN5LKFBCLK3MH6L2AAR3PQ"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/pixels/article/2026/11/04/cyberattaque-au-credit-mutuel-arkea-une-enquete-ouverte-apres-un-detournement-estime-a-pres-de-100-millions-d-euros_6806141_4408997.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/c-est-une-premiere-du-genre-le-credit-mutuel-arkea-braque-en-ligne-par-des-hackers_8268368.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/societes/l-information-a-commence-a-circuler-sur-x-a-partir-du-1er-novembre-les-coulisses-de-la-cyberattaque-contre-credit-mutuel-arkea-20261104"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/banco-regional-frances-sufre-ciberataque-queda-expuesto-20261104145121-nt.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261105-france-cyberattaque-du-groupe-cr%C3%A9dit-mutuel-ark%C3%A9a-une-enqu%C3%AAte-ouverte"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/financas/2026/11/banco-frances-sofre-ataque-hacker-de-100-milhoes-de-euros.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/credit-mutuel-arkea-ce-que-l-on-sait-de-la-cyberattaque-a-plus-de-100-millions-deuros-contre-la-banque-20261105"
+    }
+   ],
+   "premiere_parution": "2026-11-04T10:08:38Z",
+   "suite_de": "2026-11-05-economie-002",
+   "mots": 244,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-06-tech-005",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Le marché immobilier italien et les projets hospitaliers en Europe",
+   "chapeau": "Le marché immobilier italien affiche des prix élevés dans le Trentin-Haut-Adige tandis que l'Espagne évalue ses besoins en logements. Parallèlement, la ville de Padoue dévoile un projet de construction hospitalière pour 2028.",
+   "corps": "La Banque d'Espagne estime un déficit de 750 000 logements dans le pays (El País, 06/11/2026). Combler ce manque nécessite un investissement de 189,68 milliards d'euros, soit 11 % du produit intérieur brut (El País, 06/11/2026). Madrid et Barcelone concentrent 42 % de ce coût global (El País, 06/11/2026).\n\nEn Italie, la région du Trentin-Haut-Adige enregistre les prix immobiliers les plus élevés du pays (Corriere della Sera, 05/11/2026). Les appartements à Bolzano se vendent à 4 928 euros par mètre carré (Corriere della Sera, 05/11/2026).\n\nLa ville de Padoue prévoit la construction d'un hôpital pour un montant de 800 millions d'euros (Corriere della Sera, 05/11/2026). L'État et la Région financent la moitié de cette somme (Corriere della Sera, 05/11/2026). Les travaux débutent à la fin de l'année 2028 (Corriere della Sera, 05/11/2026).\n\nLe calendrier précis de la construction des logements en Espagne n'est pas mentionné dans les sources.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corrieredellaltoadige.corriere.it/notizie/economia/26_novembre_05/il-trentino-alto-adige-e-la-regione-piu-cara-d-italia-dove-comprare-casa-e-tra-le-citta-bolzano-e-dietro-solo-a-milano-e-venezia-1f38981c-05ac-4442-ba96-d07538486xlk.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html"
+    }
+   ],
+   "premiere_parution": "2026-11-05T08:03:53Z",
+   "suite_de": null,
+   "mots": 195,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-06-monde-001",
+  "2026-11-06-france-001",
+  "2026-11-06-monde-002",
+  "2026-11-06-monde-003",
+  "2026-11-06-geopolitique-001",
+  "2026-11-06-monde-004",
+  "2026-11-06-monde-005",
+  "2026-11-06-monde-006"
+ ]
+}

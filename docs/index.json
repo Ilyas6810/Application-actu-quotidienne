@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-05T07:33:22Z",
- "derniere": "2026-11-05",
+ "maj": "2026-11-06T07:34:15Z",
+ "derniere": "2026-11-06",
  "editions": [
+  {
+   "date": "2026-11-06",
+   "genere_a": "2026-11-06T07:34:15Z",
+   "articles": 34,
+   "une": [
+    "Hong Kong condamne le militant prodémocratie Joshua Wong à dix ans de prison",
+    "Une mobilisation nationale pour le pouvoir d'achat rassemble les salariés en France",
+    "L'ancien acteur Russell Brand reconnu coupable de viol à Londres"
+   ],
+   "octets": 107117
+  },
   {
    "date": "2026-11-05",
    "genere_a": "2026-11-05T07:33:22Z",

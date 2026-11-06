@@ -1,6 +1,88 @@
 {
- "maj": "2026-11-05T23:51:48Z",
+ "maj": "2026-11-06T23:23:57Z",
  "alertes": [
+  {
+   "id": "2026-11-07-alerte-01",
+   "date": "2026-11-07",
+   "publiee_a": "2026-11-06T23:23:57Z",
+   "titre": "Donald Trump nomme Stephen Miller comme nouveau directeur de cabinet",
+   "texte": "Le président américain Donald Trump a désigné son conseiller Stephen Miller au poste de directeur de cabinet de la Maison Blanche. Cette nomination survient après les élections de mi-mandat aux États-Unis.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/remaniement-apres-la-debacle-des-midterms-trump-fait-de-lun-de-ses-conseillers-les-plus-durs-son-nouveau-directeur-de-cabinet-20261106_PHPMB444VVGXVLFBAOER5VTRNA"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-06/bloomberg-businessweek-daily-xx-xx-2026-video"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_06/trump-promuove-il-falco-stephen-miller-e-si-prepara-alla-guerra-col-congresso-96abeed6-1693-4281-8bc9-411d6876dxlk.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/before-his-promotion-stephen-miller-designed-trumps-immigration-crackdown"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+    }
+   ],
+   "cluster": "d8bd3965b3bf3456",
+   "urls": [
+    "https://abc.es/internacional/trump-sacrifica-jefa-gabinete-entrega-casa-blanca-20261106200437-nt.html",
+    "https://aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff",
+    "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff",
+    "https://aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things",
+    "https://bbc.co.uk/news/articles/cm9qzz5x9g5yo",
+    "https://bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff",
+    "https://bloomberg.com/news/videos/2026-11-06/bloomberg-businessweek-daily-xx-xx-2026-video",
+    "https://bloomberg.com/news/videos/2026-11-06/trump-names-stephen-miller-to-replace-susie-wiles-video",
+    "https://bloomberg.com/news/videos/2026-11-06/trump-taps-miller-to-replace-wiles-as-chief-of-staff-video",
+    "https://corriere.it/esteri/26_novembre_06/stephen-miller-capo-staff-trump-a6c90bb7-b308-4e28-ab1a-a0a591c16xlk.shtml",
+    "https://corriere.it/esteri/26_novembre_06/trump-promuove-il-falco-stephen-miller-e-si-prepara-alla-guerra-col-congresso-96abeed6-1693-4281-8bc9-411d6876dxlk.shtml",
+    "https://die-glocke.de/blick-in-die-welt/politik/artikel/trumps-stabschefin-wiles-geht-1793991903",
+    "https://dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571",
+    "https://dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html",
+    "https://english.elpais.com/usa/2026-11-06/trump-names-architect-of-his-immigration-policy-stephen-miller-as-white-house-chief-of-staff.html",
+    "https://france24.com/fr/am%C3%A9riques/20261106-stephen-miller-figure-de-la-droite-identitaire-devient-le-nouveau-directeur-de-cabinet-de-trump",
+    "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html",
+    "https://ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+    "https://haaretz.com/us-news/2026-11-06/ty-article/trump-names-far-right-pro-israel-stephen-miller-as-white-house-chief-of-staff/000001a1-b245-d2e9-a5ad-badf186e0000",
+    "https://jamaica-gleaner.com/article/world-news/20261106/stephen-miller-replaces-susie-wiles-trumps-white-house-chief-staff",
+    "https://la-croix.com/stephen-miller-representant-de-la-droite-identitaire-promu-directeur-de-cabinet-de-trump-20261106",
+    "https://lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+    "https://liberation.fr/international/amerique/remaniement-apres-la-debacle-des-midterms-trump-fait-de-lun-de-ses-conseillers-les-plus-durs-son-nouveau-directeur-de-cabinet-20261106_PHPMB444VVGXVLFBAOER5VTRNA",
+    "https://npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+    "https://nvdaily.com/associated_press_national/the-latest-trump-replaces-susie-wiles-with-stephen-miller-as-white-house-chief-of-staff/article_62d71405-0bcb-5404-b092-4adc4c7d4fbf.html",
+    "https://reflector.com/news/national/the-latest-trump-replaces-susie-wiles-with-stephen-miller-as-white-house-chief-of-staff/article_27be269b-12ce-5b23-a11f-09cf9e68ebf6.html",
+    "https://sbs.com.au/news/article/stephen-miller-white-house-chief-of-staff-donald-trump-midterm-election/2vgxun4qf",
+    "https://spiegel.de/ausland/usa-donald-trump-ersetzt-stabschefin-susie-wiles-stephen-miller-soll-nachfolgen-a-2c11d3f6-4f4d-43d3-923a-c17f6695c082",
+    "https://straitstimes.com/world/before-his-promotion-stephen-miller-designed-trumps-immigration-crackdown",
+    "https://straitstimes.com/world/united-states/trump-promotes-stephen-miller-to-chief-of-staff-role-replacing-susie-wiles",
+    "https://theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+    "https://theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+    "https://thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece",
+    "https://theyeshivaworld.com/news/general/2620197/%F0%9F%9A%A8-trump-names-stephen-miller-new-white-house-chief-of-staff-as-susie-wiles-steps-down-following-gop-election-disaster.html",
+    "https://wjbo.iheart.com/content/2026-11-06-trump-names-stephen-miller-new-chief-of-staff",
+    "https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-chefe-de-gabinete-de-trump-tem-relacao-proxima-com-bolsonaristas.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-historica-trump-promove-stephen-miller-a-chefe-de-gabinete-sinalizando-radicalizacao.shtml"
+   ]
+  },
   {
    "id": "2026-11-06-alerte-01",
    "date": "2026-11-06",
@@ -1129,164 +1211,6 @@
     "https://liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA",
     "https://liberation.fr/societe/attentat-raciste-edouard-philippe-present-a-un-rassemblement-a-la-verriere-mais-pas-a-trappes-20261030_AKET225HIZEGTH4L4YISXZRNJM",
     "https://liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-des-centaines-de-personnes-rassemblees-a-la-verriere-20261030_F66UFI6UHBAHZNGRFG7NNXGNOI"
-   ]
-  },
-  {
-   "id": "2026-10-30-alerte-02",
-   "date": "2026-10-30",
-   "publiee_a": "2026-10-30T10:11:06Z",
-   "titre": "L'Insee annonce une baisse du PIB français au troisième trimestre 2026",
-   "texte": "L'Insee a mesuré un recul de 0,1 % de la richesse nationale au troisième trimestre, d'après les chiffres rendus publics le 30 octobre 2026. Le ministre de l'Économie Roland Lescure a déclaré le même jour à Paris que l'activité nationale est arrêtée.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261030-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt-pr%C3%A9vient-le-ministre-de-l-%C3%A9conomie-roland-lescure"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/economie/croissance-le-pib-affiche-un-recul-de-01-au-troisieme-trimestre-20261030"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/economie/victime-d-une-baisse-des-exportations-le-pib-recule-de-0-1-au-troisieme-trimestre-2026-en-france-selon-l-insee_8260019.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/conjoncture/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-budget-alerte-roland-lescure-20261030"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1"
-    }
-   ],
-   "cluster": "1122777022b46c32",
-   "urls": [
-    "https://france24.com/fr/france/20261030-l-%C3%A9conomie-fran%C3%A7aise-est-%C3%A0-l-arr%C3%AAt-pr%C3%A9vient-le-ministre-de-l-%C3%A9conomie-roland-lescure",
-    "https://franceinfo.fr/economie/victime-d-une-baisse-des-exportations-le-pib-recule-de-0-1-au-troisieme-trimestre-2026-en-france-selon-l-insee_8260019.html",
-    "https://ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
-    "https://la-croix.com/economie/croissance-le-pib-affiche-un-recul-de-01-au-troisieme-trimestre-20261030",
-    "https://lefigaro.fr/conjoncture/l-economie-francaise-est-a-l-arret-et-ira-dans-le-mur-sans-budget-alerte-roland-lescure-20261030",
-    "https://lemonde.fr/economie/article/2026/10/30/le-pib-francais-a-recule-de-0-1-au-troisieme-trimestre-apres-avoir-stagne-au-deuxieme-trimestre-et-recule-de-0-2-au-premier_6802906_3234.html",
-    "https://lemonde.fr/economie/article/2026/10/30/recul-surprise-du-pib-au-troisieme-trimestre-l-economie-francaise-flirte-avec-la-recession_6802918_3234.html",
-    "https://liberation.fr/economie/le-pib-en-recul-au-troisieme-trimestre-leconomie-francaise-est-a-larret-reconnait-roland-lescure-20261030_M6ISMI24OVFVXOIWGHVYKVAKS4",
-    "https://spiegel.de/wirtschaft/frankreichs-wirtschaft-schrumpft-im-dritten-quartal-a-50efa359-3e3d-4196-a8b0-639fedbe29c1"
-   ]
-  },
-  {
-   "id": "2026-10-30-alerte-03",
-   "date": "2026-10-30",
-   "publiee_a": "2026-10-30T10:12:17Z",
-   "titre": "En Russie, le journal indépendant Novaïa Gazeta annonce son arrêt définitif",
-   "texte": "Le journal russe d'opposition Novaïa Gazeta cesse ses activités à Moscou ce vendredi 30 octobre 2026. La rédaction et son responsable Sergueï Sokolov expliquent cette fermeture par des contraintes imposées par les autorités et les services de sécurité russes.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/30/avec-l-arret-de-novaia-gazeta-la-liberte-de-la-presse-en-russie-vit-son-chant-du-cygne_6802910_3210.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/asie-pacifique/en-russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030_QYYSCOIU35ACVJF4YXLMX2SMY4"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/europe/20261030-nova%C3%AFa-gazeta-cesse-d-exister-le-journal-russe-contraint-de-fermer-sous-la-pression-des-autorit%C3%A9s"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html"
-    }
-   ],
-   "cluster": "0bf78d3f4635f1f5",
-   "urls": [
-    "https://france24.com/fr/europe/20261030-nova%C3%AFa-gazeta-cesse-d-exister-le-journal-russe-contraint-de-fermer-sous-la-pression-des-autorit%C3%A9s",
-    "https://franceinfo.fr/monde/russie/ils-nous-ont-tues-le-bastion-historique-de-la-presse-independante-russe-oblige-de-fermer-sous-la-pression-des-autorites_8260061.html",
-    "https://lefigaro.fr/international/russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030",
-    "https://lemonde.fr/international/article/2026/10/30/avec-l-arret-de-novaia-gazeta-la-liberte-de-la-presse-en-russie-vit-son-chant-du-cygne_6802910_3210.html",
-    "https://lemonde.fr/international/article/2026/10/30/ils-nous-ont-tues-les-adieux-de-la-redaction-de-novaia-gazeta-journal-russe-independant-contraint-par-les-autorites-de-cesser-son-activite_6802913_3210.html",
-    "https://liberation.fr/international/asie-pacifique/en-russie-le-journal-independant-novaia-gazeta-annonce-sa-fermeture-sous-la-pression-des-autorites-20261030_QYYSCOIU35ACVJF4YXLMX2SMY4"
-   ]
-  },
-  {
-   "id": "2026-10-30-alerte-01",
-   "date": "2026-10-30",
-   "publiee_a": "2026-10-30T01:06:33Z",
-   "titre": "L'acteur britannique Patrick Stewart est mort à l'âge de 86 ans",
-   "texte": "Le comédien britannique Patrick Stewart est mort à l'âge de 86 ans à Los Angeles. Sa famille et ses proches ont annoncé sa disparition jeudi 29 octobre 2026.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/entretenimiento/2026-10-29/muere-patrick-stewart-el-capitan-picard-de-star-trek-a-los-86-anos.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/spettacoli/26_ottobre_29/e-morto-patrick-stewart-il-picard-di-star-trek-01cf84f7-466f-4f0b-b40e-6d912573axlk.shtml"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/10/29/patrick-stewart-de-britse-acteur-die-een-franse-star-trek-kapitein-iconisch-maakte-a4940110"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/videos/c6qxnlxn0n15o"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/kultur/patrick-stewart-fans-und-wegbegleiter-trauern-um-captain-jean-luc-picard-a-25743358-65a6-45e7-b64d-6e1f861f98dd"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://f5.folha.uol.com.br/celebridades/2026/10/hugh-jackman-william-shatner-e-outros-famosos-lamentam-a-morte-de-patrick-stewart.shtml"
-    }
-   ],
-   "cluster": "3047bc9e1fe4b63e",
-   "urls": [
-    "https://aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86",
-    "https://bbc.co.uk/news/articles/cye0l23lx15o",
-    "https://bbc.co.uk/news/videos/c6qxnlxn0n15o",
-    "https://corriere.it/spettacoli/26_ottobre_29/e-morto-patrick-stewart-il-picard-di-star-trek-01cf84f7-466f-4f0b-b40e-6d912573axlk.shtml",
-    "https://dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/entretenimiento/2026-10-29/muere-patrick-stewart-el-capitan-picard-de-star-trek-a-los-86-anos.html",
-    "https://f5.folha.uol.com.br/celebridades/2026/10/hugh-jackman-william-shatner-e-outros-famosos-lamentam-a-morte-de-patrick-stewart.shtml",
-    "https://france24.com/fr/culture/20261029-acteur-patrick-stewart-c%C3%A9l%C3%A8bre-r%C3%B4les-x-men-star-trek-mort",
-    "https://franceinfo.fr/culture/cinema/l-acteur-britannique-patrick-stewart-legendaire-capitaine-picard-dans-la-serie-star-trek-est-mort-a-l-age-de-86-ans_8259416.html",
-    "https://kzyx.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
-    "https://lemonde.fr/culture/article/2026/10/29/patrick-stewart-acteur-britannique-celebre-pour-ses-roles-dans-x-men-et-star-trek-est-mort_6802388_3246.html",
-    "https://liberation.fr/culture/cinema/celebre-pour-star-trek-et-les-x-men-lacteur-patrick-stewart-meurt-a-86-ans-20261029_OOKRYOVS6JH5JM6CWEDYEWJFUI",
-    "https://npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-    "https://nrc.nl/nieuws/2026/10/29/patrick-stewart-de-britse-acteur-die-een-franse-star-trek-kapitein-iconisch-maakte-a4940110",
-    "https://rfi.fr/fr/culture/20261029-cin%C3%A9ma-l-acteur-patrick-stewart-connu-notamment-pour-ses-r%C3%B4les-dans-star-trek-et-x-men-est-mort",
-    "https://spiegel.de/kultur/patrick-stewart-fans-und-wegbegleiter-trauern-um-captain-jean-luc-picard-a-25743358-65a6-45e7-b64d-6e1f861f98dd",
-    "https://spiegel.de/kultur/tv/patrick-stewart-ist-tot-a-40ffba85-794a-45f4-b2a3-7948168155d4",
-    "https://theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
-    "https://thehindu.com/entertainment/patrick-stewart-shakespearean-actor-turned-star-trek-and-x-men-star-dies-at-86/article71642350.ece",
-    "https://wboi.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
-    "https://wmuk.org/npr-news/2026-10-29/patrick-stewart-a-perceptive-patriarch-in-star-trek-and-x-men-dies-at-86",
-    "https://www1.folha.uol.com.br/ilustrada/2026/10/morre-patrick-stewart-o-professor-charles-xavier-de-x-men-aos-86-anos.shtml",
-    "https://www1.folha.uol.com.br/ilustrada/2026/10/professor-xavier-em-x-men-relembre-personagens-de-patrick-stewart.shtml"
    ]
   }
  ]

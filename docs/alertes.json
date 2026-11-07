@@ -1,6 +1,69 @@
 {
- "maj": "2026-11-07T13:15:54Z",
+ "maj": "2026-11-07T19:32:02Z",
  "alertes": [
+  {
+   "id": "2026-11-07-alerte-03",
+   "date": "2026-11-07",
+   "publiee_a": "2026-11-07T19:32:02Z",
+   "titre": "Une fusillade fait au moins six morts samedi à Cracovie",
+   "texte": "Un individu a abattu au moins six personnes samedi 7 novembre sur la place centrale de Cracovie, en Pologne. Les forces de l'ordre ont blessé par balle le suspect puis l'ont interpellé.",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/homem-mata-a-tiros-ao-menos-5-e-fere-10-pessoas-na-principal-praca-de-cracovia-na-polonia.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/pologne-une-fusillade-a-cracovie-fait-cinq-morts-le-tireur-interpelle-20261107"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
+    }
+   ],
+   "cluster": "0ab5db8d29170bde",
+   "urls": [
+    "https://abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html",
+    "https://cancan.ro/tragedie-in-polonia-cel-putin-sase-morti-si-15-raniti-dupa-un-atac-armat-in-centrul-cracoviei-21543602",
+    "https://dw.com/de/polen-sch%C3%BCtze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202",
+    "https://dw.com/pt-br/ataque-a-tiros-no-centro-de-crac%C3%B3via-deixa-ao-menos-seis-mortos/a-79887404",
+    "https://dw.com/uk/strilanina-v-centri-krakova-patero-zagiblih-ponad-desatok-poranenih-napadnika-zatrimali/a-79887319",
+    "https://eldiariodechihuahua.mx/estados-unidos/2026/nov/07/deja-tiroteo-5-muertos-en-plaza-publica-de-cracovia-polonia-855314.html",
+    "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
+    "https://focus.ua/world/773954-strelba-v-krakove-policiya-zaderzhala-prestupnika-foto",
+    "https://france24.com/fr/europe/20261107-fusillade-pologne-au-moins-cinq-morts-plusieurs-bless%C3%A9s-tireur-interpell%C3%A9",
+    "https://franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
+    "https://la-croix.com/international/pologne-une-fusillade-a-cracovie-fait-cinq-morts-le-tireur-interpelle-20261107",
+    "https://lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
+    "https://lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+    "https://liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM",
+    "https://regionews.ua/ukr/news/world/1794066648-u-krakovi-nevidomi-vidkrili-strilyaninu-z-avtomobilya-e-zhertvi",
+    "https://rfi.fr/fr/europe/20261107-pologne-fusillade-dans-le-centre-de-cracovie-le-tireur-interpell%C3%A9",
+    "https://spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29",
+    "https://stuttgarter-zeitung.de/politik/krakau-fuenf-tote-und-zehn-verletzte-nach-schuessen-in-polen-79676083.html",
+    "https://www1.folha.uol.com.br/mundo/2026/11/homem-mata-a-tiros-ao-menos-5-e-fere-10-pessoas-na-principal-praca-de-cracovia-na-polonia.shtml"
+   ]
+  },
   {
    "id": "2026-11-07-alerte-02",
    "date": "2026-11-07",

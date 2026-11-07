@@ -1,6 +1,44 @@
 {
- "maj": "2026-11-06T23:23:57Z",
+ "maj": "2026-11-07T13:15:54Z",
  "alertes": [
+  {
+   "id": "2026-11-07-alerte-02",
+   "date": "2026-11-07",
+   "publiee_a": "2026-11-07T13:15:54Z",
+   "titre": "Gaël Monfils devient le capitaine des Bleus en Coupe Davis",
+   "texte": "La Fédération française de tennis a désigné Gaël Monfils au rôle de sélectionneur de l'équipe nationale ce samedi 7 novembre 2026. L'ex-joueur de 40 ans prend la suite de Paul-Henri Mathieu après l'arrêt officiel de sa carrière sportive.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Tennis/Actualites/Gael-monfils-tres-bientot-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis/1741870"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/tennis/coupe-davis/tennis-le-nouveau-defi-de-gael-monfils-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis-20261107"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/11/07/a-peine-retraite-gael-monfils-est-nomme-capitaine-des-bleus-en-coupe-davis_6808273_3242.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU"
+    }
+   ],
+   "cluster": "38d53198bff52077",
+   "urls": [
+    "https://franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html",
+    "https://lefigaro.fr/sports/tennis/coupe-davis/tennis-le-nouveau-defi-de-gael-monfils-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis-20261107",
+    "https://lemonde.fr/sport/article/2026/11/07/a-peine-retraite-gael-monfils-est-nomme-capitaine-des-bleus-en-coupe-davis_6808273_3242.html",
+    "https://lequipe.fr/Tennis/Actualites/Gael-monfils-tres-bientot-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis/1741870",
+    "https://lequipe.fr/Tennis/Actualites/La-fft-officialise-la-nomination-de-gael-monfils-comme-capitaine-de-l-equipe-de-france-de-coupe-davis/1741876",
+    "https://liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU"
+   ]
+  },
   {
    "id": "2026-11-07-alerte-01",
    "date": "2026-11-07",

@@ -1,7 +1,17 @@
 {
- "maj": "2026-11-06T07:34:15Z",
- "derniere": "2026-11-06",
+ "maj": "2026-11-07T06:55:56Z",
+ "derniere": "2026-11-07",
  "editions": [
+  {
+   "date": "2026-11-07",
+   "genere_a": "2026-11-07T06:55:56Z",
+   "articles": 2,
+   "une": [
+    "Donald Trump nomme Stephen Miller directeur de cabinet de la Maison Blanche",
+    "Le Sénat du Paraguay destitue le président Santiago Peña"
+   ],
+   "octets": 9656
+  },
   {
    "date": "2026-11-06",
    "genere_a": "2026-11-06T07:34:15Z",

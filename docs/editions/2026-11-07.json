@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-07",
+ "genere_a": "2026-11-07T06:55:56Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-07-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump nomme Stephen Miller directeur de cabinet de la Maison Blanche",
+   "chapeau": "Le président américain Donald Trump a nommé son conseiller Stephen Miller au poste de directeur de cabinet de la Maison Blanche le vendredi 6 novembre 2026 à Washington. Cette décision intervient quelques jours après les résultats des élections législatives de mi-mandat marquées par la perte du contrôle du Congrès par le Parti républicain.",
+   "corps": "Donald Trump a choisi d'écarter Susie Wiles du poste de directeur de cabinet pour la remplacer par Stephen Miller. Le rôle de directeur de cabinet consiste à gérer l'administration de la présidence américaine. Selon le média RFI le 7 novembre 2026, cette fonction équivaut à celle de secrétaire général de l'Élysée en France. Susie Wiles rejoint désormais l'équipe chargée des opérations politiques de Donald Trump, d'après des informations diffusées par Bloomberg le 7 novembre 2026.\n\nStephen Miller travaillait déjà comme proche conseiller du président depuis 2016. Donald Trump l'a décrit comme l'un de ses représentants les plus fidèles et comme un élément clé de son équipe. Stephen Miller a conçu les politiques d'immigration de l'administration américaine. Le responsable politique s'oppose publiquement aux courants culturels qu'il qualifie de woke, communistes ou nocifs. Les journaux Le Monde et franceinfo ont rapporté le 7 novembre 2026 qu'il incarne la droite identitaire et une ligne politique réactionnaire.\n\nLe changement au sommet de l'administration suit le scrutin du 3 novembre 2026. La perte de la majorité républicaine au Parlement modifie l'équilibre institutionnel. Plusieurs observateurs, dont la BBC et le Corriere della Sera le 7 novembre 2026, indiquent que ce choix préfigure des oppositions directes entre la Maison Blanche et le Congrès américain.\n\nDu côté de l'opposition, le responsable démocrate au Sénat Chuck Schumer a rejeté cette nomination. L'élu a affirmé que le président n'aurait pas pu faire un pire choix et qu'il n'avait pas tiré de leçons du récent résultat électoral. Les parlementaires démocrates ont annoncé leur intention de s'opposer fermement aux initiatives de Stephen Miller, selon RFI le 7 novembre 2026.\n\nL'agenda du chef de l'État prévoit des réunions privées à Washington, suivies d'une cérémonie de célébration de la fête de Diwali à la Maison Blanche à 13 heures 30 heure de l'Est, selon The Guardian le 7 novembre 2026. Sur le plan financier, l'agence Bloomberg indique le 7 novembre 2026 que les marchés boursiers américains ont modéré leurs gains du début de journée face aux incertitudes liées au secteur technologique et à l'intelligence artificielle.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/remaniement-apres-la-debacle-des-midterms-trump-fait-de-lun-de-ses-conseillers-les-plus-durs-son-nouveau-directeur-de-cabinet-20261106_PHPMB444VVGXVLFBAOER5VTRNA"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-06/bloomberg-businessweek-daily-xx-xx-2026-video"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_06/trump-promuove-il-falco-stephen-miller-e-si-prepara-alla-guerra-col-congresso-96abeed6-1693-4281-8bc9-411d6876dxlk.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/before-his-promotion-stephen-miller-designed-trumps-immigration-crackdown"
+    }
+   ],
+   "premiere_parution": "2026-11-06T00:00:00Z",
+   "suite_de": null,
+   "mots": 394,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-07-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le Sénat du Paraguay destitue le président Santiago Peña",
+   "chapeau": "Le Sénat du Paraguay a destitué le président Santiago Peña le vendredi 6 novembre 2026 à Assomption. Le vice-président Pedro Alliana a pris ses fonctions de chef de l'État dans la foulée de cette décision.",
+   "corps": "Le Parlement paraguayen a refusé la démission de Santiago Peña proposée le jeudi 5 novembre 2026 afin d'aller au terme de la procédure de destitution. Cette décision retire à l'ancien président l'immunité accordée aux anciens chefs de l'État. Les sénateurs, y compris les membres du Parti Colorado au pouvoir, ont voté cette mesure en raison de la responsabilité de l'ex-dirigeant dans une crise bancaire majeure. La justice a ordonné le placement de Santiago Peña en détention à domicile, et l'ex-président doit se présenter devant la Procureure.\n\nLa crise financière découle de la mise sous tutelle de la banque en ligne Ueno le mardi 3 novembre 2026. L'établissement concentrait les comptes de la moitié des habitants du pays. La suspension des activités de la banque bloque l'accès aux fonds de trois millions de personnes, selon les données publiées le samedi 7 novembre 2026 par RFI et Le Monde. Cette mesure affecte également des fonds publics de retraite et de santé, d'après Deutsche Welle le 7 novembre 2026. La justice recherche si l'ancien président a usé de son influence politique pour favoriser cet établissement bancaire.\n\nLe nouveau président Pedro Alliana a prêté serment devant le Congrès. Le nouveau chef de l'État fait lui aussi l'objet d'enquêtes liées à cette affaire financière, d'après les informations diffusées par NRC le samedi 7 novembre 2026. Des manifestations citoyennes se déroulent dans les rues pour réclamer des explications sur le blocage des comptes bancaires.\n\n## Ce que disent les sources\n\nLes médias présentent des informations différentes sur l'identité du nouveau président et sur le lieu de détention de Santiago Peña. Le journal espagnol ABC nomme le successeur Sergio Alliana, tandis que RFI, Le Monde, El País et NRC citent Pedro Alliana. Concernant la détention de l'ancien chef d'État, Folha de S.Paulo, Deutsche Welle, Le Monde, NRC et The Guardian rapportent son placement en détention à domicile à son domicile personnel. De son côté, la chaîne Al Jazeera indique le samedi 7 novembre 2026 que Santiago Peña a été transféré sur une base militaire pour garantir sa protection.\n\nLes sources ne précisent pas la date exacte de la fin des enquêtes menées par le ministère public.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261106-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-destitu%C3%A9-au-terme-de-son-proc%C3%A8s-au-s%C3%A9nat-apr%C3%A8s-la-crise-bancaire"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/au-paraguay-le-president-santiago-pena-emporte-par-l-effondrement-d-une-banque-en-ligne-20261106"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/apos-impeachment-ministerio-publico-do-paraguai-ordena-detencao-imediata-de-ex-presidente.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/ante-crisis-bancaria-presidente-paraguay-destituido-congreso-20261105234950-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/07/paraguay-le-vice-president-pedro-alliana-investi-president-apres-la-destitution-de-santiago-pena-par-le-senat_6807901_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html"
+    }
+   ],
+   "premiere_parution": "2026-11-04T20:53:39Z",
+   "suite_de": "2026-11-06-monde-004",
+   "mots": 394,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-07-monde-001",
+  "2026-11-07-monde-002"
+ ]
+}

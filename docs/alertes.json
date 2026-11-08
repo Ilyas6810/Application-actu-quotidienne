@@ -1,6 +1,214 @@
 {
- "maj": "2026-11-07T19:32:02Z",
+ "maj": "2026-11-08T00:46:28Z",
  "alertes": [
+  {
+   "id": "2026-11-08-alerte-01",
+   "date": "2026-11-08",
+   "publiee_a": "2026-11-08T00:40:13Z",
+   "titre": "Isaac Herzog charge l'opposant Gadi Eisenkot de former le gouvernement",
+   "texte": "Le président israélien Isaac Herzog a confié au chef de l'opposition Gadi Eisenkot la mission de composer le futur gouvernement en Israël. L'ancien général du parti Yashar dispose du soutien de 67 députés sur 120 pour constituer son cabinet.",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmy8367lj5xlo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/reportage-international/20261107-isra%C3%ABl-dans-le-d%C3%A9sert-du-n%C3%A9guev-les-b%C3%A9douins-se-sont-mobilis%C3%A9s-aux-l%C3%A9gislatives-face-aux-d%C3%A9molitions"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/who-is-gadi-eisenkot-the-ex-general-tasked-with-forming-new-israeli-government"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml"
+    }
+   ],
+   "cluster": "278ffba4185f76cc",
+   "urls": [
+    "https://abc.es/internacional/juan-caldes-veo-cerca-repeticion-electoral-israel-20261103011821-nt.html",
+    "https://abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html",
+    "https://abc.es/internacional/presidente-israeli-recibe-netanyahu-eisenkot-formar-gobierno-20261105191111-nt.html",
+    "https://aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+    "https://aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government",
+    "https://aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government",
+    "https://bbc.co.uk/news/articles/cmy8367lj5xlo",
+    "https://bloomberg.com/news/articles/2026-11-07/israel-president-to-give-eisenkot-a-chance-to-form-government",
+    "https://dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+    "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+    "https://france24.com/fr/moyen-orient/20261105-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement-avec-le-soutien-des-partis-arabes",
+    "https://france24.com/fr/moyen-orient/20261106-isra%C3%ABl-eisenkot-fait-part-progr%C3%A8s-importants-but-former-gouvernement",
+    "https://france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+    "https://france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-le-pr%C3%A9sident-annoncera-dimanche-qui-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
+    "https://france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
+    "https://france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-gadi-eisenkot-charg%C3%A9-de-former-un-gouvernement",
+    "https://franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html",
+    "https://franceinfo.fr/monde/israel/israel-benyamin-netanyahou-menace-de-perdre-le-pouvoir-apres-les-legislatives_8270399.html",
+    "https://franceinfo.fr/monde/israel/israel-futur-premier-ministre-gadi-eizenkot-va-faire-face-a-un-processus-complexe-pour-former-son-gouvernement_8272040.html",
+    "https://ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+    "https://haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/israeli-preisdent-tasks-gadi-eisenkot-with-forming-governing-coalition/000001a1-b77b-d146-ada9-ff7f4fcc0000",
+    "https://haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/thousands-gather-across-israel-urging-opposition-to-cooperate-with-arab-parties/000001a1-b677-d146-ada9-fe7ff6740000",
+    "https://kcbx.org/npr-top-news/2026-11-07/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
+    "https://kgou.org/world/2026-11-07/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
+    "https://lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
+    "https://lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
+    "https://lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
+    "https://lemonde.fr/international/article/2026/11/05/israel-les-deux-principales-listes-arabes-soutiennent-gadi-eisenkot-pour-former-le-prochain-gouvernement_6807111_3210.html",
+    "https://lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+    "https://liberation.fr/international/moyen-orient/israel-eisenkot-en-passe-detre-choisi-pour-remplacer-netanyahou-a-la-tete-du-gouvernement-20261106_72EOCQNXKFGIZLUMUDK2BGKOCM",
+    "https://liberation.fr/international/moyen-orient/legislatives-en-israel-netanyahou-perd-le-soutien-dun-parti-ultra-orthodoxe-qui-le-soutenait-depuis-trente-ans-20261105_FMF2EQFJZZAP5KG3JQ2HOL36WU",
+    "https://npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+    "https://npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+    "https://rfi.fr/fr/moyen-orient/20261105-isra%C3%ABl-gadi-eisenkot-en-position-favorable-pour-former-le-prochain-gouvernement",
+    "https://rfi.fr/fr/moyen-orient/20261106-l%C3%A9gislatives-en-isra%C3%ABl-une-majorit%C3%A9-se-d%C3%A9gage-autour-de-gadi-eisenkot-fin-du-suspens-le-8-novembre",
+    "https://rfi.fr/fr/moyen-orient/20261107-isra%C3%ABl-la-pr%C3%A9sidence-va-charger-gadi-eisenkot-de-former-le-prochain-gouvernement",
+    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261106-isra%C3%ABl-qui-de-netanyahu-ou-de-eisenkot-peut-r%C3%A9unir-une-majorit%C3%A9",
+    "https://rfi.fr/fr/podcasts/reportage-international/20261107-isra%C3%ABl-dans-le-d%C3%A9sert-du-n%C3%A9guev-les-b%C3%A9douins-se-sont-mobilis%C3%A9s-aux-l%C3%A9gislatives-face-aux-d%C3%A9molitions",
+    "https://spiegel.de/ausland/israel-netanjahu-rivale-gadi-einsenkot-mit-regierungsbildung-beauftragt-a-309f7855-3a51-4503-a6e8-2ead13f9dfe8",
+    "https://straitstimes.com/world/middle-east/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government",
+    "https://straitstimes.com/world/middle-east/who-is-gadi-eisenkot-the-ex-general-tasked-with-forming-new-israeli-government",
+    "https://theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+    "https://thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-as-religious-party-drops-netanyahu/article71669957.ece",
+    "https://thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece",
+    "https://thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
+    "https://wrvo.org/2026-11-07/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
+    "https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/presidente-de-israel-escolhe-gadi-eisenkot-rival-de-netanyahu-para-tentar-formar-governo.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-08-alerte-02",
+   "date": "2026-11-08",
+   "publiee_a": "2026-11-08T00:41:45Z",
+   "titre": "Le XV de France bat les Fidji mais perd Romain Ntamack blessé",
+   "texte": "L'équipe de France de rugby a battu les Fidji 54 à 17 le samedi 7 novembre 2026 à Décines-Charpieu lors du Championnat des nations. L'ouvreur français Romain Ntamack s'est blessé à l'épaule gauche pendant la rencontre et manque le reste de la compétition.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/11/07/le-xv-de-france-confronte-a-une-hecatombe-de-blessures-avant-son-match-contre-les-fidji-un-casse-tete-pour-fabien-galthie_6808289_3242.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Rugby/Actualites/Appliquee-l-equipe-de-france-prend-nettement-le-dessus-sur-les-fidji-dans-le-championnat-des-nations/1742109"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261107-rugby-la-france-l-emporte-face-aux-fidji-avant-le-choc-contre-les-champions-du-monde-sud-africains"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107"
+    }
+   ],
+   "cluster": "72b1a94f29fb802a",
+   "urls": [
+    "https://franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html",
+    "https://lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
+    "https://lemonde.fr/sport/article/2026/11/07/le-xv-de-france-confronte-a-une-hecatombe-de-blessures-avant-son-match-contre-les-fidji-un-casse-tete-pour-fabien-galthie_6808289_3242.html",
+    "https://lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
+    "https://lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
+    "https://lequipe.fr/Rugby/Actualites/-on-sait-ce-qui-nous-attend-apres-la-victoire-face-aux-fidji-fabien-galthie-le-selectionneur-des-bleus-se-projette-sur-le-choc-face-a-l-afrique-du-sud/1742151",
+    "https://lequipe.fr/Rugby/Actualites/Appliquee-l-equipe-de-france-prend-nettement-le-dessus-sur-les-fidji-dans-le-championnat-des-nations/1742109",
+    "https://rfi.fr/fr/sports/20261107-rugby-la-france-l-emporte-face-aux-fidji-avant-le-choc-contre-les-champions-du-monde-sud-africains"
+   ]
+  },
+  {
+   "id": "2026-11-08-alerte-03",
+   "date": "2026-11-08",
+   "publiee_a": "2026-11-08T00:46:28Z",
+   "titre": "Une fusillade fait au moins six morts au centre de Cracovie",
+   "texte": "Un automobiliste armé a tué au moins six personnes et blessé plus d'une dizaine de passants samedi 7 novembre 2026 sur la place centrale de Cracovie, en Pologne. Les forces de l'ordre ont blessé et interpellé l'assaillant après l'attaque.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6n9r01d2709o"
+    }
+   ],
+   "cluster": "1353d4fe3ac217af",
+   "urls": [
+    "https://aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
+    "https://aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting",
+    "https://bbc.co.uk/news/articles/c6n9r01d2709o",
+    "https://bbc.co.uk/news/articles/cmd7q15drwgeo",
+    "https://bbc.com/news/articles/cmd7q15drwgeo",
+    "https://bloomberg.com/news/articles/2026-11-07/gunman-opens-fire-in-krakow-poland-killing-five-people",
+    "https://burytimes.co.uk/news/national/26709211.investigations-continue-briton-among-six-killed-poland-mass-shooting",
+    "https://cp24.com/news/world/2026/11/07/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says",
+    "https://dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489",
+    "https://dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_7?evenement=cd69a241f3",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_7?evenement=ea20e5854c",
+    "https://english.aawsat.com/world/5338659-5-people-were-killed-more-dozen-injured-krakow-shooting",
+    "https://ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
+    "https://haaretz.com/world-news/europe/2026-11-07/ty-article/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say/000001a1-b6b1-d1cd-aded-beb3cf2a0000",
+    "https://irishmirror.ie/news/world-news/krakow-shooting-suspect-inspired-far-37854745",
+    "https://kcbx.org/npr-top-news/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+    "https://ketv.com/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/74364751",
+    "https://ksbw.com/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/74364751",
+    "https://npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+    "https://reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07",
+    "https://southwalesargus.co.uk/news/national/26708803.six-killed-least-15-injured-krakow-shooting",
+    "https://straitstimes.com/world/europe/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say",
+    "https://straitstimes.com/world/europe/five-people-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say",
+    "https://theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+    "https://theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+    "https://thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece",
+    "https://wkms.org/npr-news/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+    "https://wrvo.org/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+   ]
+  },
   {
    "id": "2026-11-07-alerte-03",
    "date": "2026-11-07",
@@ -1156,162 +1364,6 @@
     "https://rfi.fr/fr/sports/20261031-boxe-saul-canelo-alvarez-bat-le-fran%C3%A7ais-christian-mbili-aux-points-et-r%C3%A9cup%C3%A8re-la-ceinture-wbc-des-super-moyens",
     "https://theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
     "https://theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup"
-   ]
-  },
-  {
-   "id": "2026-10-31-alerte-02",
-   "date": "2026-10-31",
-   "publiee_a": "2026-10-31T19:25:10Z",
-   "titre": "Des centaines de milliers de manifestants ont défilé en France samedi",
-   "texte": "Plusieurs centaines de milliers de personnes ont protesté contre le coût de la vie et la situation scolaire ce samedi 31 octobre dans plusieurs villes de France. Les autorités dénombrent 320 000 participants et près de 300 interpellations, tandis que les organisateurs annoncent environ 500 000 manifestants.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/societe/manifestations/ca-depasse-les-bornes-les-retraites-solidaires-de-la-mobilisation_8262005.html"
-    },
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.eu/article/france-youth-protests-cost-of-living-spread-europe"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-10-31/mas-de-300000-franceses-salen-a-la-calle-por-tercer-fin-de-semana-para-protestar-por-el-coste-de-la-vida.html"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/francia-contiene-disturbios-tercer-acto-protestas-300-20261031192903-nt.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9"
-    }
-   ],
-   "cluster": "a5ad25cb82bfa7b3",
-   "urls": [
-    "https://2news.com/news/national/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-sweep-europe/article_0250e256-42e4-5ad8-be59-ffa059b6c88d.html",
-    "https://abc.es/internacional/francia-contiene-disturbios-tercer-acto-protestas-300-20261031192903-nt.html",
-    "https://aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france",
-    "https://bloomberg.com/news/features/2026-10-30/france-protests-who-is-on-the-streets-and-what-do-they-want",
-    "https://dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-10-31/mas-de-300000-franceses-salen-a-la-calle-por-tercer-fin-de-semana-para-protestar-por-el-coste-de-la-vida.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_31?evenement=87310b1367",
-    "https://france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-    "https://franceinfo.fr/societe/manifestations/ca-depasse-les-bornes-les-retraites-solidaires-de-la-mobilisation_8262005.html",
-    "https://impartialreporter.com/news/national/26687375.third-weekend-protests-france-youth-led-rallies-sweep-europe",
-    "https://messengernewspapers.co.uk/news/national/26687375.third-weekend-protests-france-youth-led-rallies-sweep-europe",
-    "https://politico.eu/article/france-youth-protests-cost-of-living-spread-europe",
-    "https://spiegel.de/ausland/frankreich-erneute-ausschreitungen-bei-protesten-gegen-bildungs-missstaende-a-f05333eb-83b0-45b3-85fc-1c30c44fddc9",
-    "https://theglobeandmail.com/world/article-france-protests-paris-macron-october-31",
-    "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml"
-   ]
-  },
-  {
-   "id": "2026-10-31-alerte-03",
-   "date": "2026-10-31",
-   "publiee_a": "2026-10-31T19:33:50Z",
-   "titre": "L'ambassade américaine alerte sur un risque d'attentat à Moscou",
-   "texte": "L'ambassade des États-Unis en Russie a signalé samedi 31 octobre 2026 une menace crédible d'attaque visant le musée de Tsaritsyno à Moscou. Les services de sécurité russes ont déclaré appliquer les mesures nécessaires après avoir reçu cet avertissement.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/fsb-says-us-warned-russia-of-possible-moscow-attack"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/russias-fsb-says-us-warned-russia-of-possible-moscow-attack/article71650748.ece"
-    }
-   ],
-   "cluster": "1839fe9b9838bc4c",
-   "urls": [
-    "https://bloomberg.com/news/articles/2026-10-31/us-embassy-warns-of-mass-casualty-threat-at-moscow-museum",
-    "https://franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html",
-    "https://lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031",
-    "https://lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html",
-    "https://spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942",
-    "https://straitstimes.com/world/europe/fsb-says-us-warned-russia-of-possible-moscow-attack",
-    "https://thehindu.com/news/international/russias-fsb-says-us-warned-russia-of-possible-moscow-attack/article71650748.ece"
-   ]
-  },
-  {
-   "id": "2026-10-31-alerte-01",
-   "date": "2026-10-31",
-   "publiee_a": "2026-10-30T22:27:23Z",
-   "titre": "Des milliers de personnes se rassemblent à Trappes contre le racisme",
-   "texte": "Des milliers de personnes et plusieurs responsables politiques de gauche se sont réunis vendredi 30 octobre à Trappes. Ce rassemblement municipal rend hommage aux victimes d'un attentat raciste survenu une semaine plus tôt dans les Yvelines.",
-   "sources": [
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/politique/un-rapport-extremement-degrade-a-la-lutte-pour-la-republique-jadot-proche-de-glucksmann-deplore-l-absence-de-philippe-et-attal-a-trappes-20261030"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/societe/video/2026/10/30/attentat-raciste-dans-les-yvelines-des-milliers-de-personnes-rassemblees-a-trappes_6803136_3224.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/trappes-une-semaine-apres-l-attentat-une-foule-nombreuse-au-rassemblement-antiraciste-20261030"
-    }
-   ],
-   "cluster": "0cdcb0d03773bdf7",
-   "urls": [
-    "https://france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe",
-    "https://france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-dans-les-yvelines-les-partis-de-gauche-pr%C3%A9sents-pour-l-hommage-pr%C3%A9vu-%C3%A0-trappes",
-    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html",
-    "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-c-est-nous-une-semaine-apres-l-attentat-raciste-a-trappes-un-rassemblement-pour-faire-face-aux-discours-xenophobes_8260991.html",
-    "https://franceinfo.fr/societe/racisme/a-trappes-et-un-peu-partout-en-france-des-milliers-de-personnes-reunies-contre-le-racisme_8261003.html",
-    "https://la-croix.com/societe/trappes-une-semaine-apres-l-attentat-une-foule-nombreuse-au-rassemblement-antiraciste-20261030",
-    "https://lefigaro.fr/politique/un-rapport-extremement-degrade-a-la-lutte-pour-la-republique-jadot-proche-de-glucksmann-deplore-l-absence-de-philippe-et-attal-a-trappes-20261030",
-    "https://lemonde.fr/politique/article/2026/10/30/attentat-raciste-de-trappes-yannick-jadot-regrette-l-absence-d-edouard-philippe-et-de-gabriel-attal-au-rassemblement-en-hommage-aux-victimes-prevu-vendredi-soir_6803029_823448.html",
-    "https://lemonde.fr/societe/article/2026/10/30/attentat-raciste-a-trappes-que-faut-il-de-plus-pour-ouvrir-les-yeux-a-lance-le-maire-ali-rabeh-lors-du-rassemblement-en-hommage-aux-victimes-pointant-la-responsabilite-du-rn_6803131_3224.html",
-    "https://lemonde.fr/societe/video/2026/10/30/attentat-raciste-dans-les-yvelines-des-milliers-de-personnes-rassemblees-a-trappes_6803136_3224.html",
-    "https://liberation.fr/politique/rassemblement-contre-le-racisme-a-trappes-les-bonnes-excuses-dattal-philippe-et-retailleau-pour-secher-lhommage-20261030_H7GYBDAI2FEMBC2O47F4L7OLBY",
-    "https://liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA",
-    "https://liberation.fr/societe/attentat-raciste-edouard-philippe-present-a-un-rassemblement-a-la-verriere-mais-pas-a-trappes-20261030_AKET225HIZEGTH4L4YISXZRNJM",
-    "https://liberation.fr/societe/police-justice/attentat-raciste-dans-les-yvelines-des-centaines-de-personnes-rassemblees-a-la-verriere-20261030_F66UFI6UHBAHZNGRFG7NNXGNOI"
    ]
   }
  ]

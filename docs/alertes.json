@@ -1,6 +1,189 @@
 {
- "maj": "2026-11-08T00:46:28Z",
+ "maj": "2026-11-08T22:27:01Z",
  "alertes": [
+  {
+   "id": "2026-11-09-alerte-01",
+   "date": "2026-11-09",
+   "publiee_a": "2026-11-08T22:10:42Z",
+   "titre": "Nvidia lance une enquête interne sur son dirigeant Jensen Huang",
+   "texte": "L'entreprise Nvidia a déclenché une enquête indépendante le dimanche 8 novembre 2026 aux États-Unis après des révélations visant son directeur général. Jensen Huang a reconnu une relation intime avec une femme d'affaires que Washington soupçonne d'espionnage pour Pékin.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/ceo-da-nvidia-admite-relacionamento-intimo-apos-alegacoes-de-caso-com-espia-chinesa.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/nvidia-abre-investigacion-ceo-despues-admitiera-relacion-20261108213625-nt.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3dxw10rjn9no"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/nvidia-opens-probe-after-report-of-ceo-huangs-relationship-with-alleged-chinese-spy"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns"
+    }
+   ],
+   "cluster": "2fe60bd881b7c696",
+   "urls": [
+    "https://abc.es/internacional/nvidia-abre-investigacion-ceo-despues-admitiera-relacion-20261108213625-nt.html",
+    "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns",
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns",
+    "https://bbc.co.uk/news/articles/c3dxw10rjn9no",
+    "https://bloomberg.com/news/articles/2026-11-07/us-believes-woman-close-to-nvidia-ceo-was-a-china-spy-nyt-says",
+    "https://bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+    "https://bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang",
+    "https://c-level.folha.uol.com.br/ia/2026/11/eua-acreditam-que-ceo-da-nvidia-teve-relacionamento-amoroso-com-suposta-espia-chinesa.shtml",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/ceo-da-nvidia-admite-relacionamento-intimo-apos-alegacoes-de-caso-com-espia-chinesa.shtml",
+    "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
+    "https://franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html",
+    "https://ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+    "https://ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
+    "https://ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+    "https://lefigaro.fr/conjoncture/le-patron-de-nvidia-aurait-il-ete-piege-par-une-espionne-chinoise-le-senat-americain-va-enqueter-20261108",
+    "https://lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+    "https://spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b",
+    "https://spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48",
+    "https://spiegel.de/wirtschaft/unternehmen/nvidia-medienbericht-wirft-huang-affaere-mit-mutmasslicher-chinesischer-spionin-vor-a-8b6c5163-b475-4478-a335-3aeaeccdca48",
+    "https://straitstimes.com/world/united-states/chinas-top-spy-agency-recruited-woman-who-targeted-nvidias-jensen-huang",
+    "https://straitstimes.com/world/united-states/nvidia-opens-probe-after-report-of-ceo-huangs-relationship-with-alleged-chinese-spy",
+    "https://theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+   ]
+  },
+  {
+   "id": "2026-11-09-alerte-02",
+   "date": "2026-11-09",
+   "publiee_a": "2026-11-08T22:19:25Z",
+   "titre": "Une collision entre deux trains en Égypte fait sept morts",
+   "texte": "Au moins sept personnes sont mortes et 112 autres ont été blessées le 8 novembre 2026 lors d'une collision entre deux trains en Égypte. L'accident s'est produit dans le district d'Al-Ayyat, situé dans le gouvernorat de Gizeh au sud du Caire.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/flash-actu/egypte-au-moins-sept-morts-et-plus-d-une-centaine-de-blesses-dans-une-collision-entre-deux-trains-20261108"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/colisao-de-trens-no-egito-mata-7-pessoas-e-fere-112.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwvgr20mmmevo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece"
+    }
+   ],
+   "cluster": "02262f88591d9507",
+   "urls": [
+    "https://abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html",
+    "https://aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city",
+    "https://aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt",
+    "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235",
+    "https://bakersfieldnow.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
+    "https://bbc.co.uk/news/articles/cwvgr20mmmevo",
+    "https://dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-11-08/varios-muertos-y-heridos-por-la-colision-de-dos-trenes-en-la-provincia-egipcia-de-giza.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_8?evenement=688aa52ddd",
+    "https://franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html",
+    "https://katu.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
+    "https://lefigaro.fr/flash-actu/egypte-au-moins-sept-morts-et-plus-d-une-centaine-de-blesses-dans-une-collision-entre-deux-trains-20261108",
+    "https://northwalespioneer.co.uk/news/national/26710005.seven-killed-125-injured-train-collision-egypt",
+    "https://straitstimes.com/world/middle-east/train-collision-in-egypts-giza-province-kills-4-and-injures-88-health-ministry-says",
+    "https://straitstimes.com/world/train-collision-in-egypts-giza-kills-4-injures-88-health-ministry",
+    "https://thegazette.com/news/world/collision-between-2-trains-in-egypt-kills-7-and-injures-at-least-125/article_cf3ce0d4-ee63-5856-9e75-6be9cc913bd3.html",
+    "https://theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+    "https://thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
+    "https://vanguardngr.com/2026/11/seven-killed-over-100-injured-in-egypt-train-collision",
+    "https://wcyb.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
+    "https://www1.folha.uol.com.br/mundo/2026/11/colisao-de-trens-no-egito-mata-7-pessoas-e-fere-112.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-09-alerte-03",
+   "date": "2026-11-09",
+   "publiee_a": "2026-11-08T22:27:01Z",
+   "titre": "Lando Norris gagne le Grand Prix de Formule 1 du Brésil",
+   "texte": "Le pilote McLaren Lando Norris a remporté le Grand Prix automobile du Brésil à São Paulo le dimanche 8 novembre 2026. Le Britannique a devancé Max Verstappen et Isack Hadjar sur une piste rendue humide par les averses.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/auto-moto/formule-1/sous-la-pluie-lando-norris-remporte-le-grand-prix-du-bresil-devant-max-verstappen-et-isack-hadjar_8273651.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/formule-1/formule-1-troisieme-succes-de-la-saison-pour-norris-hadjar-arrache-un-nouveau-podium-au-bresil-20261108"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Formule-1/Actualites/Lando-norris-vainqueur-au-bresil-sous-la-pluie-j-ai-su-garder-mon-sang-froid/1742333"
+    }
+   ],
+   "cluster": "47904b3306b6c90c",
+   "urls": [
+    "https://bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo",
+    "https://bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo",
+    "https://bbc.co.uk/sport/formula1/articles/cmde81d9nkxko",
+    "https://franceinfo.fr/sports/auto-moto/formule-1/sous-la-pluie-lando-norris-remporte-le-grand-prix-du-bresil-devant-max-verstappen-et-isack-hadjar_8273651.html",
+    "https://lefigaro.fr/sports/formule-1/formule-1-norris-comme-a-la-maison-hadjar-et-red-bull-tout-sourire-alpine-anonyme-les-tops-et-les-flops-du-grand-prix-du-bresil-20261108",
+    "https://lefigaro.fr/sports/formule-1/formule-1-troisieme-succes-de-la-saison-pour-norris-hadjar-arrache-un-nouveau-podium-au-bresil-20261108",
+    "https://lequipe.fr/Formule-1/Actualites/-ce-n-etait-vraiment-pas-facile-en-piste-en-pole-au-bresil-lando-norris-s-est-fait-quelques-frayeurs/1742088",
+    "https://lequipe.fr/Formule-1/Actualites/Donnez-une-note-au-grand-prix-du-bresil/1742355",
+    "https://lequipe.fr/Formule-1/Actualites/Lando-norris-vainqueur-au-bresil-sous-la-pluie-j-ai-su-garder-mon-sang-froid/1742333",
+    "https://spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7",
+    "https://theguardian.com/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying",
+    "https://theguardian.com/sport/2026/nov/08/lando-norris-wins-f1-sao-paulo-grand-prix-max-verstappen-kimi-antonelli-lewis-hamilton-mercedes",
+    "https://theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
+    "https://theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
+    "https://video.lefigaro.fr/figaro/sports/formule-1/formule-1-lando-norris-remporte-le-grand-prix-du-bresil-son-troisieme-succes-de-la-saison-20261108"
+   ]
+  },
   {
    "id": "2026-11-08-alerte-01",
    "date": "2026-11-08",
@@ -1240,130 +1423,6 @@
     "https://theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
     "https://wbaltv.com/article/palm-beach-jet-crash/74305816",
     "https://www1.folha.uol.com.br/mundo/2026/11/acidente-de-jatinho-mata-9-pessoas-no-sul-da-florida.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-01-alerte-03",
-   "date": "2026-11-01",
-   "publiee_a": "2026-11-01T13:31:02Z",
-   "titre": "La championne d'Europe d'athlétisme Ciara Mageean meurt à 34 ans",
-   "texte": "L'athlète irlandaise Ciara Mageean est morte le 1er novembre 2026 des suites d'un cancer à l'âge de 34 ans. Sa famille a annoncé son décès sur les réseaux sociaux.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/athletics/articles/cn81px29032o"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Athletisme/Actualites/Mort-de-l-irlandaise-ciara-mageean-championne-d-europe-2024-du-1-500-m-des-suites-d-un-cancer/1740245"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/athletisme/athletisme-ciara-mageean-championne-d-europe-du-1-500-m-en-2024-est-morte-a-la-suite-d-un-cancer_8262734.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/sport/26_novembre_01/ciara-mageean-morta-90760144-9c48-40e6-b5cf-55dfe6169xlk.shtml"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34"
-    }
-   ],
-   "cluster": "381a634aba524080",
-   "urls": [
-    "https://bbc.co.uk/sport/athletics/articles/cn81px29032o",
-    "https://corriere.it/sport/26_novembre_01/ciara-mageean-morta-90760144-9c48-40e6-b5cf-55dfe6169xlk.shtml",
-    "https://franceinfo.fr/sports/athletisme/athletisme-ciara-mageean-championne-d-europe-du-1-500-m-en-2024-est-morte-a-la-suite-d-un-cancer_8262734.html",
-    "https://lequipe.fr/Athletisme/Actualites/Mort-de-l-irlandaise-ciara-mageean-championne-d-europe-2024-du-1-500-m-des-suites-d-un-cancer/1740245",
-    "https://theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34"
-   ]
-  },
-  {
-   "id": "2026-11-01-alerte-01",
-   "date": "2026-11-01",
-   "publiee_a": "2026-11-01T00:12:55Z",
-   "titre": "Lewis Hamilton partira en pole position au Grand Prix du Mexique",
-   "texte": "Lewis Hamilton a obtenu le meilleur temps des qualifications au Mexique samedi soir pour l'écurie Ferrari. Le pilote britannique commencera la course dimanche devant son compatriote George Russell.",
-   "sources": [
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Formule-1/Actualites/Lewis-hamilton-offre-a-ferrari-sa-premiere-pole-position-de-la-saison-au-gp-du-mexique/1740188"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/flash-actu/formule-1-premiere-pole-position-depuis-2023-pour-hamilton-antonelli-en-troisieme-ligne-au-mexique-20261031"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/live/2026/oct/31/mexican-grand-prix-qualifying-formula-one-2026-live"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/10/hamilton-volta-a-pole-apos-tres-anos-e-antonelli-vai-largar-em-quarto.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo"
-    }
-   ],
-   "cluster": "1c99f63d18875dcf",
-   "urls": [
-    "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo",
-    "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html",
-    "https://lefigaro.fr/flash-actu/formule-1-premiere-pole-position-depuis-2023-pour-hamilton-antonelli-en-troisieme-ligne-au-mexique-20261031",
-    "https://lequipe.fr/Formule-1/Actualites/Lewis-hamilton-heureux-apres-sa-premiere-pole-avec-ferrari-au-mexique-j-aime-ce-que-je-fais-et-cet-amour-ne-m-a-jamais-quitte/1740207",
-    "https://lequipe.fr/Formule-1/Actualites/Lewis-hamilton-offre-a-ferrari-sa-premiere-pole-position-de-la-saison-au-gp-du-mexique/1740188",
-    "https://theguardian.com/sport/2026/oct/31/lewis-hamilton-storms-to-first-ferrari-pole-at-f1-mexican-grand-prix-with-antonelli-fifth",
-    "https://theguardian.com/sport/live/2026/oct/31/mexican-grand-prix-qualifying-formula-one-2026-live",
-    "https://www1.folha.uol.com.br/esporte/2026/10/hamilton-volta-a-pole-apos-tres-anos-e-antonelli-vai-largar-em-quarto.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-01-alerte-02",
-   "date": "2026-11-01",
-   "publiee_a": "2026-11-01T00:15:13Z",
-   "titre": "Saul Alvarez bat Christian Mbilli à Riyad et reprend sa ceinture",
-   "texte": "Le boxeur mexicain Saul Alvarez a battu le Français Christian Mbilli à Riyad samedi 31 octobre 2026. Cette victoire aux points permet au pugiliste de reprendre le titre mondial WBC des super-moyens.",
-   "sources": [
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Boxe/Actualites/-je-vois-christian-dominer-canelo-les-cles-du-combat-alvarez-mbili-selon-bruno-surace/1739994"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/autres-sports/boxe-pas-de-miracle-pour-le-francais-mbilli-maitrise-par-la-legende-canelo-20261031"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20261031-boxe-saul-canelo-alvarez-bat-le-fran%C3%A7ais-christian-mbili-aux-points-et-r%C3%A9cup%C3%A8re-la-ceinture-wbc-des-super-moyens"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/boxing/articles/cmy4xey44yqno"
-    }
-   ],
-   "cluster": "66c2034aded944ca",
-   "urls": [
-    "https://bbc.co.uk/sport/boxing/articles/cmy4xey44yqno",
-    "https://lefigaro.fr/sports/autres-sports/boxe-pas-de-miracle-pour-le-francais-mbilli-maitrise-par-la-legende-canelo-20261031",
-    "https://lefigaro.fr/sports/boxe/boxe-le-francais-christian-mbilli-pret-a-choquer-le-monde-face-a-canelo-alvarez-20261029",
-    "https://lefigaro.fr/sports/boxe/en-direct-boxe-le-combat-d-une-vie-pour-le-francais-mbilli-face-a-la-legende-canelo-20261031",
-    "https://lequipe.fr/Boxe/Actualites/-je-vois-christian-dominer-canelo-les-cles-du-combat-alvarez-mbili-selon-bruno-surace/1739994",
-    "https://lequipe.fr/Boxe/Actualites/A-quelle-heure-et-sur-quelle-chaine-suivre-le-combat-entre-christian-mbilli-et-saul-canelo-alvarez-en-wbc/1739030",
-    "https://lequipe.fr/Boxe/Actualites/Le-reve-brise-de-christian-mbilli-le-francais-battu-aux-points-saul-canelo-alvarez-recupere-la-ceinture-wbc-des-super-moyens/1740196",
-    "https://rfi.fr/fr/sports/20261031-boxe-%C3%A0-riyad-le-fran%C3%A7ais-mbilli-se-mesure-%C3%A0-la-l%C3%A9gende-mexicaine-canelo",
-    "https://rfi.fr/fr/sports/20261031-boxe-saul-canelo-alvarez-bat-le-fran%C3%A7ais-christian-mbili-aux-points-et-r%C3%A9cup%C3%A8re-la-ceinture-wbc-des-super-moyens",
-    "https://theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
-    "https://theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup"
    ]
   }
  ]

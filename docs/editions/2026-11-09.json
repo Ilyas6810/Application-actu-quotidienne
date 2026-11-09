@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-09",
+ "genere_a": "2026-11-09T07:25:36Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-09-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Gadi Eisenkot entame des négociations complexes pour former le gouvernement israélien",
+   "chapeau": "Le président israélien Isaac Herzog a confié le 8 novembre 2026 à Jérusalem le mandat de former le gouvernement à Gadi Eisenkot. Le chef du parti Yashar cherche à construire une coalition après les élections législatives du 27 octobre 2026.",
+   "corps": "Cette désignation intervient après le scrutin législatif organisé en Israël le mois dernier. Le dirigeant de la formation Yashar a entamé ses démarches officielles pour composer une majorité parlementaire à la Knesset. L'ancien chef d'état-major des armées cherche à rassembler une alliance au sein d'un paysage politique divisé.\n\nSelon une information diffusée par Bloomberg le 9 novembre 2026 à 10h33, l'ancien général a obtenu le soutien de 67 députés à la Knesset. Ce chiffre lui permet d'initier les pourparlers avec les différentes factions représentées au Parlement. Le président Isaac Herzog a validé cette recommandation avant de lui remettre la charge des négociations.\n\nÂgé de 66 ans, le chef du parti Yashar a exprimé son intention de réduire les divisions politiques nées sous la gestion précédente. Selon Le Figaro le 8 novembre 2026 à 20h15, le mandataire a qualifié la situation du pays de crise majeure. Le dirigeant a affirmé que l'État s'approchait d'un seuil critique si aucun compromis n'émergeait.\n\nLe chef du bloc d'opposition a tendu la main aux partenaires politiques du Premier ministre sortant. D'après Folha de S.Paulo le 8 novembre 2026 à 20h09, Gadi Eisenkot se dit disposé à intégrer le Likoud de Benyamin Netanyahou et certains de ses alliés d'extrême droite au sein d'une coalition. Cette ouverture reste conditionnée au fait qu'il conserve la direction exclusive du futur cabinet.\n\nLe Premier ministre en fin de mandat Benyamin Netanyahou n'a pas effectué d'apparition publique depuis la tenue du scrutin. Selon le journal ABC le 9 novembre 2026 à 00h36, le chef du gouvernement sortant conteste les résultats des urnes. Il dénonce des fraudes attribuées aux formations politiques arabes lors des opérations de vote.\n\nLa création d'une majorité nécessite des arbitrages complexes entre les partis politiques. D'après La Croix le 8 novembre 2026 à 21h35, les formations arabes comptent 19 députés à la Knesset. Une alliance s'appuyant sur ces élus constituerait une modification par rapport aux orientations idéologiques de l'ancienne majorité parlementaire.\n\nLes délibérations achoppent également sur des sujets sociétaux et religieux. Selon Le Figaro le 8 novembre 2026 à 20h15, la question du service militaire des juifs ultraorthodoxes divise les membres de l'opposition. Le négociateur doit concilier les revendications des partis religieux avec celles des formations arabes pour stabiliser son projet.\n\nL'image du dirigeant joue un rôle dans le processus en cours. Selon Samy Cohen, directeur de recherche émérite au CERI de Sciences Po, interrogé par France 24 le 9 novembre 2026 à 00h44, le chef du parti Yashar bénéficie d'une popularité liée à sa capacité d'apaisement dans le débat public israélien.\n\n## Ce que disent les sources\n\nLes médias présentent des calendriers divergents concernant le délai accordé pour former le gouvernement. Selon Le Figaro le 8 novembre 2026 à 20h15, The Hindu le 8 novembre 2026 à 21h31 et ABC le 9 novembre 2026 à 00h36, le mandataire dispose d'un délai initial de 28 jours. ABC précise le 9 novembre 2026 à 00h36 qu'une prolongation de 14 jours reste possible. Le journal Haaretz indique de son côté le 8 novembre 2026 à 23h38 que le responsable politique a jusqu'au 26 février pour finaliser son accord avant la dissolution automatique de la Knesset et la convocation de nouvelles élections. Haaretz ajoute le 8 novembre 2026 à 23h38 que le président Herzog pourrait promouvoir un gouvernement d'union avec Benyamin Netanyahou en cas d'échec.\n\nLa répartition exacte des sièges attribués à chaque parti au sein du bloc mené par Gadi Eisenkot n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-apos-eleicoes-em-israel.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/en-israel-gadi-eisenkot-charge-de-former-un-gouvernement-avec-une-majorite-encore-introuvable-20261108"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/eisenkot-warns-of-israel-crisis-as-he-seeks-to-replace-netanyahus-government/article71681159.ece"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/israel-un-possible-tournant-democratique-20261108"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/qui-est-gadi-eisenkot-le-possible-successeur-de-benyamin-netanyahou_8273612.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/en-israel-gadi-eisenkot-a-lepreuve-des-contradictions-de-son-camp-20261108_ME7D6IMIVVEEHEKKCMEB4KIVDE"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
+    }
+   ],
+   "premiere_parution": "2026-11-06T07:12:55Z",
+   "suite_de": "2026-11-08-monde-002",
+   "mots": 617,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-09-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump déclare avoir plaisanté sur la désignation du dirigeant de l'UFC",
+   "chapeau": "Le président américain Donald Trump a indiqué dimanche 8 novembre 2026 que son offre d'attribuer le rôle de porte-parole de la Maison-Blanche à Dana White consistait en une plaisanterie. L'exécutif recherche un titulaire pour ce poste à Washington depuis le départ de la précédente responsable mi-octobre 2026.",
+   "corps": "Le chef d'État des États-Unis a précisé ses intentions devant les journalistes lors de son trajet de retour depuis son club privé situé en Floride vers la résidence présidentielle. Donald Trump a affirmé qu'il souhaitait seulement s'amuser en imaginant le dirigeant de la principale ligue d'arts martiaux mixtes face aux journalistes d'information.\n\nLa veille, samedi 7 novembre 2026, le président avait diffusé un message sur la plateforme Truth Social. Il y expliquait avoir proposé le poste de secrétaire à la presse à Dana White. Donald Trump décrivait l'homme d'affaires comme un intervenant pugnace capable d'affronter le corps de presse. Il suggérait également que le chef d'entreprise se fasse accompagner par des combattants sportifs pour l'assister dans cette tâche, y compris des athlètes issus de nationalités étrangères.\n\nDonald Trump a déclaré dimanche 8 novembre 2026 que le patron de l'Ultimate Fighting Championship appréciait l'idée de cette fonction. Le président a toutefois souligné qu'il n'avait jamais envisagé cette nomination de manière sérieuse. Il a confirmé que Dana White se rendrait à la Maison-Blanche le lundi 9 novembre 2026, mais pour un motif différent.\n\nDana White est âgé de 57 ans selon la publication de Libération du 9 novembre 2026. L'homme d'affaires entretient une relation d'amitié avec le président américain et lui a apporté son soutien politique public. Il n'a cependant jamais occupé de fonction au sein d'une administration gouvernementale.\n\nLa vacance du poste de porte-parole dure depuis l'éviction de Katie Zacharia le 16 octobre 2026, selon les informations diffusées par Le Monde le 9 novembre 2026. Cette dernière a quitté ses fonctions cinq jours après son entrée en poste, d'après les éléments rapportés par RFI le 9 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-diz-querer-o-chefe-do-ufc-dana-white-como-secretario-de-imprensa-da-casa-branca.shtml"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261108-%C3%A9tats-unis-donald-trump-veut-dana-white-f%C3%A9roce-patron-de-l-ufc-comme-porte-parole-de-la-maison-blanche"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-08/trump-says-asked-ufc-s-white-to-be-his-press-secretary-as-a-joke"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/donald-trump-ufc-chef-dana-white-als-pressesprecher-war-alles-nur-spass-a-cd80c40a-389c-4843-9e29-32d7df86fc41"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-marcha-atras-sobre-nombrar-dana-white-20261109015338-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-09/trump-dice-ahora-que-bromeaba-al-ofrecer-su-portavocia-al-presidente-de-la-competicion-de-lucha-ufc.html"
+    }
+   ],
+   "premiere_parution": "2026-11-07T00:00:00Z",
+   "suite_de": null,
+   "mots": 324,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-09-monde-001",
+  "2026-11-09-monde-002"
+ ]
+}

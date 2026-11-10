@@ -1,0 +1,197 @@
+{
+ "date": "2026-11-10",
+ "genere_a": "2026-11-10T08:03:21Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-10-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Nvidia et son dirigeant Jensen Huang font face à plusieurs enquêtes",
+   "chapeau": "Le fabricant de puces électroniques Nvidia et son dirigeant Jensen Huang affrontent des procédures judiciaires et internes à la suite de révélations sur des liens avec une espionne présumée. Le conseil d'administration du groupe et le FBI mènent des investigations aux États-Unis le 10 novembre 2026.",
+   "corps": "Jensen Huang fait l'objet d'une convocation par des parlementaires américains le 6 novembre 2026 en raison de ses liens avec une entrepreneuse soupçonnée d'être un agent chinois. Le responsable a déclaré aux salariés de Nvidia avoir été infidèle à son épouse, sans préciser l'identité de sa partenaire. Selon la presse italienne, la femme identifiée sous le nom d'Alice Huang Le a disparu. Sa mission consistait à surveiller Jensen Huang et à informer le gouvernement chinois de ses échanges avec la présidence américaine.\n\nLe conseil d'administration de Nvidia a ouvert une enquête interne sur cette relation extraconjugale. Les administrateurs cherchent à déterminer si des données sensibles ont été compromises et évaluent les risques liés à la succession de Jensen Huang. De son côté, la police fédérale américaine intervient dans ce dossier, selon des déclarations du président Donald Trump rapportées par la presse allemande. Le président des États-Unis a exprimé sa sympathie envers le dirigeant, affirmant que celui-ci ignorait la qualité d'espionne de sa partenaire.\n\nSur le plan financier, des actionnaires menés par Mark Kistenmacher ont déposé une plainte collective contre Nvidia et Jensen Huang. Les plaignants accusent l'entreprise et son patron d'avoir trompé les investisseurs par leurs déclarations. À la Bourse, le titre du concepteur de composants pour l'intelligence artificielle enregistrait un repli supérieur à 4 % le 9 novembre 2026.\n\nDes informations précises manquent sur la localisation actuelle d'Alice Huang Le et sur l'éventuelle fuite de données confidentielles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cj3vqv3nee72o"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/nvidia-ceo-jensen-huang-sued-over-disclosures-related-to-suspected-chinese-spy"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/entenda-tamanho-dos-negocios-da-nvidia-que-investiga-caso-de-ceo-com-suposta-espia-chinesa.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/10/nvidia-en-topman-huang-aangeklaagd-in-verband-met-spionagezaak-a4940977"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/article71684853.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-07T15:02:00Z",
+   "suite_de": "2026-11-08-monde-005",
+   "mots": 283,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-10-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump et Dana White apparaissent ensemble à la Maison Blanche",
+   "chapeau": "Le président des États-Unis Donald Trump a présenté le dirigeant d'arts martiaux mixtes Dana White dans la salle de presse de la Maison Blanche le lundi 9 novembre 2026. Le chef d'entreprise de 57 ans a refusé publiquement d'occuper le poste de porte-parole de l'exécutif américain lors de cette intervention à Washington.",
+   "corps": "Le président américain Donald Trump s'est présenté avec le dirigeant d'organisation sportive Dana White devant les journalistes le lundi 9 novembre 2026. La scène s'est déroulée dans la salle de presse James Brady de la Maison Blanche à Washington. L'arrivée improvisée des deux hommes a devancé l'installation de l'élément visuel officiel. Les conseillers présidentiels n'ont pas eu le temps de fixer le sceau présidentiel sur le pupitre avant la prise de parole.\n\nDana White s'est avancé vers le pupitre réservé aux communications de la présidence américaine. Le responsable d'organisation sportive a déclaré en riant qu'il avait toujours souhaité accomplir ce geste. Il a ensuite demandé aux journalistes présents dans la salle qui posait la première question. Le président américain se tenait à ses côtés lors de cet échange devant les caméras de télévision.\n\nLe dirigeant sportif a profité de cette tribune pour clarifier sa position sur une éventuelle entrée au gouvernement. Dana White a publiquement décliné l'offre d'emploi attribuée à la présidence. Il a affirmé aux journalistes qu'il ne souhaitait pas faire de politique. Le responsable d'entreprise a ainsi mis un terme aux déclarations sur sa venue au sein de l'administration américaine.\n\nCette intervention publique fait suite aux déclarations faites sur les réseaux sociaux au cours du week-end précédent. Le président américain Donald Trump avait publié un message le samedi 7 novembre 2026 sur la plate-forme Truth Social. Il y proposait au responsable sportif de devenir le nouveau porte-parole de la résidence présidentielle. Le dimanche 8 novembre 2026, Donald Trump avait révisé ses propos en affirmant qu'il s'agissait d'une plaisanterie.\n\nLe poste de responsable de la communication de la résidence présidentielle américaine reste inoccupé. La précédente titulaire de la fonction, Katie Zacharia, a été relevée de ses fonctions le 16 octobre 2026. Son éviction est intervenue cinq jours seulement après sa prise de poste. L'administration américaine cherche un successeur depuis ce départ.\n\nDana White est âgé de 57 ans. Il dirige l'Ultimate Fighting Championship, désigné par l'acronyme UFC. Cette structure constitue la principale entreprise mondiale consacrée aux arts martiaux mixtes, un sport de combat combinant plusieurs techniques. Le dirigeant d'entreprise entretient des liens d'amitié avec le président américain Donald Trump. Il a soutenu publiquement la candidature du président lors des campagnes électorales. Dana White n'a jamais exercé de fonctions administratives ou politiques au sein d'un gouvernement.\n\nL'apparition conjointe de Donald Trump et de Dana White dans la salle de presse s'est déroulée dans une ambiance détendue. Les deux hommes se sont amusés devant les caméras des échanges survenus les jours précédents. Le président des États-Unis et le dirigeant de l'organisation d'arts martiaux mixtes ont plaisanté ensemble sur la proposition transmise le week-end précédent.\n\nLa direction de la Maison Blanche n'a pas communiqué de nouvelle nomination pour le poste de porte-parole à la suite de cette séquence. La recherche d'un nouveau titulaire pour la gestion des relations avec la presse se poursuit.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/09/donald-trump-affirme-que-sa-proposition-de-nommer-dana-white-patron-de-l-ufc-porte-parole-de-la-maison-blanche-etait-une-blague_6808598_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/le-patron-du-mma-dana-white-porte-parole-de-la-maison-blanche-je-plaisantais-assure-donald-trump-20261109_HE7BHJIFIFF45O22UYN3CSRBCM"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-diz-que-estava-brincando-ao-oferecer-cargo-de-secretario-de-imprensa-ao-chefe-do-ufc-dana-white.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/le-patron-d-une-federation-de-mma-porte-parole-de-washington-donald-trump-ironise_8274584.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/video-verticali/trump-smentisce-le-voci-su-dana-white/733b9705-a79c-463e-a0fc-2d64cf932xlk"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cwm2328pyy1jo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-alarga-broma-dana-white-pone-dirigir-20261109000641-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-07T18:57:57Z",
+   "suite_de": "2026-11-09-monde-002",
+   "mots": 533,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-10-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Russell Brand condamné à dix ans et demi de prison pour viol",
+   "chapeau": "Le tribunal de Londres a condamné lundi 9 novembre 2026 l'acteur britannique Russell Brand à une peine de plus de dix ans de prison pour le viol d'une de ses fans et des agressions sexuelles sur trois autres femmes. Le juge a qualifié le comédien de prédateur sexuel lors de l'audience.",
+   "corps": "Russell Brand, acteur, humoriste et influenceur âgé de 51 ans, a écopé d'une peine de dix ans et six mois de décennie carcérale lundi 9 novembre 2026 à Londres, selon le journal ABC (09/11/2026). La condamnation comprend une peine de neuf ans de prison pour le chef d'accusation de viol, assortie de peines pour les agressions sexuelles (ABC, 09/11/2026).\n\nLe juge Mr Justice Bennathan a estimé que le statut de l'artiste l'avait protégé jusqu'en 2023, année où des enquêtes de journalistes ont mis en lumière des infractions sexuelles et incité des victimes à porter plainte (franceinfo, 09/11/2026; The Guardian, 09/11/2026; Le Monde, 10/11/2026). Le magistrat a décrit le comportement du condamné comme un mépris désinvolte et arrogant envers le droit des femmes de refuser des actes sexuels, tout en louant le courage des plaignantes (The Guardian, 09/11/2026; Corriere della Sera, 09/11/2026).\n\nL'ex-partenaire de Russell Brand, Jemima Goldsmith, a affirmé qu'il l'avait physiquement agressée par le passé, d'après les informations rapportées par The Guardian le 9 novembre 2026. L'homme est arrivé au tribunal à bord d'un fourgon pénitentiaire en provenance de l'établissement où il était détenu sous statut de préventif depuis sa reconnaissance de culpabilité intervenue avant le week-end (ABC, 09/11/2026).\n\nCertaines sources mentionnent une peine de dix ans ronds (Libération, 09/11/2026; franceinfo, 09/11/2026; France 24, 09/11/2026; Le Monde, 10/11/2026), tandis que d'autres précisent la durée exacte de dix ans et six mois (Folha de S.Paulo, 09/11/2026; ABC, 09/11/2026; El País, 09/11/2026; Corriere della Sera, 09/11/2026).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/un-predateur-sexuel-russell-brand-condamne-a-plus-de-dix-ans-de-prison-pour-viol-et-agressions-sexuelles-20261109_IQI5B7JRYNH4TJ5PP6273CLMI4"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/russell-brand-e-condenado-a-dez-anos-de-prisao-pelos-crimes-de-estupro-e-assedio.shtml"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/09/seksueel-roofdier-russell-brand-veroordeeld-tot-105-jaar-gevangenis-voor-verkrachting-en-aanranding-a4940934"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261109-com%C3%A9dien-russell-brand-condamn%C3%A9-dix-ans-prison-viol-agressions-sexuelles"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/comico-russell-brand-condenado-diez-anos-seis-20261109153357-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault"
+    }
+   ],
+   "premiere_parution": "2026-11-08T15:07:15Z",
+   "suite_de": null,
+   "mots": 329,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-10-monde-001",
+  "2026-11-10-monde-002",
+  "2026-11-10-monde-003"
+ ]
+}

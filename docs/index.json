@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-09T07:25:36Z",
- "derniere": "2026-11-09",
+ "maj": "2026-11-10T08:03:21Z",
+ "derniere": "2026-11-10",
  "editions": [
+  {
+   "date": "2026-11-10",
+   "genere_a": "2026-11-10T08:03:21Z",
+   "articles": 3,
+   "une": [
+    "Nvidia et son dirigeant Jensen Huang font face à plusieurs enquêtes",
+    "Donald Trump et Dana White apparaissent ensemble à la Maison Blanche",
+    "Russell Brand condamné à dix ans et demi de prison pour viol"
+   ],
+   "octets": 13834
+  },
   {
    "date": "2026-11-09",
    "genere_a": "2026-11-09T07:25:36Z",

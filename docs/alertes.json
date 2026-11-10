@@ -1,6 +1,170 @@
 {
- "maj": "2026-11-10T14:59:58Z",
+ "maj": "2026-11-10T21:36:28Z",
  "alertes": [
+  {
+   "id": "2026-11-11-alerte-01",
+   "date": "2026-11-11",
+   "publiee_a": "2026-11-10T21:31:10Z",
+   "titre": "Un militaire americain arrete au Royaume-Uni pour espionnage",
+   "texte": "La police antiterroriste britannique a arrete un militaire americain de 41 ans mardi 10 novembre 2026 pres de Gloucester. Les autorites le soupconnent d'espionnage au profit de la Russie.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/10/hooggeplaatste-amerikaanse-militair-in-vk-opgepakt-op-verdenking-van-spionage-voor-rusland-a4941048"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6d7q77xgw0vo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/reino-unido-detiene-miembro-ejercito-estados-unidos-20261110201216-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie"
+    }
+   ],
+   "cluster": "10f6188fd7afbb9e",
+   "urls": [
+    "https://abc.es/internacional/reino-unido-detiene-miembro-ejercito-estados-unidos-20261110201216-nt.html",
+    "https://aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage",
+    "https://bbc.co.uk/news/articles/c6d7q77xgw0vo",
+    "https://bloomberg.com/news/articles/2026-11-10/uk-arrests-us-army-soldier-over-russia-spying-allegations",
+    "https://dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/us-american-soldier-arrested-uk-spying-russia/a-79913240",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10?evenement=b3b051cf62",
+    "https://ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
+    "https://lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html",
+    "https://nrc.nl/nieuws/2026/11/10/hooggeplaatste-amerikaanse-militair-in-vk-opgepakt-op-verdenking-van-spionage-voor-rusland-a4941048",
+    "https://rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie",
+    "https://straitstimes.com/world/europe/uk-arrests-us-army-member-suspected-of-helping-russia",
+    "https://theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+   ]
+  },
+  {
+   "id": "2026-11-11-alerte-02",
+   "date": "2026-11-11",
+   "publiee_a": "2026-11-10T21:32:23Z",
+   "titre": "Éric Zemmour officialise sa candidature à l'élection présidentielle de 2027",
+   "texte": "Le président du parti Reconquête Éric Zemmour a annoncé sa candidature à l'élection présidentielle de 2027. L'homme politique s'est exprimé le mardi 10 novembre 2026 lors du journal télévisé de la chaîne TF1.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-10/french-anti-immigrant-politician-zemmour-joins-presidential-race"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/eric-zemmour-says-he-will-stand-in-french-presidential-election"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/presidentielle-2027-eric-zemmour-annonce-officiellement-sa-candidature-20261110"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/candidats/eric-zemmour-se-lance-dans-une-seconde-campagne-presidentielle-20261110"
+    }
+   ],
+   "cluster": "0258f22e5d0225ed",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-11-10/french-anti-immigrant-politician-zemmour-joins-presidential-race",
+    "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+    "https://franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html",
+    "https://la-croix.com/politique/presidentielle-2027-eric-zemmour-annonce-officiellement-sa-candidature-20261110",
+    "https://lefigaro.fr/elections/presidentielles/candidats/eric-zemmour-se-lance-dans-une-seconde-campagne-presidentielle-20261110",
+    "https://lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html",
+    "https://liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY",
+    "https://straitstimes.com/world/europe/eric-zemmour-says-he-will-stand-in-french-presidential-election"
+   ]
+  },
+  {
+   "id": "2026-11-11-alerte-03",
+   "date": "2026-11-11",
+   "publiee_a": "2026-11-10T21:36:28Z",
+   "titre": "Arrestation aux États-Unis du père de Meghan Markle en novembre 2026",
+   "texte": "Les autorités des États-Unis ont arrêté Thomas Markle en Floride le mardi 10 novembre 2026. Le père de la duchesse de Sussex a retiré son bracelet électronique de surveillance.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/meghan-wife-of-prince-harry-will-no-longer-speak-at-brussels-event"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_10/usa-padre-meghan-markle-si-e-tolto-braccialetto-elettronico-ora-e-in-custodia-bec7b87f-2661-4422-9cab-04030ac90xlk.shtml"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/voceviu/2026/11/pai-de-meghan-markle-e-preso-novamente-apos-romper-tornozeleira-nos-eua.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c9j3433zy4vro"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/entretenimiento/2026-11-10/thomas-markle-se-corta-la-pulsera-electronica-de-vigilancia-y-el-fiscal-exige-que-ingrese-en-prision.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html"
+    }
+   ],
+   "cluster": "14c3bed523b71ddf",
+   "urls": [
+    "https://abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html",
+    "https://bbc.co.uk/news/articles/c9j3433zy4vro",
+    "https://corriere.it/esteri/26_novembre_10/usa-padre-meghan-markle-si-e-tolto-braccialetto-elettronico-ora-e-in-custodia-bec7b87f-2661-4422-9cab-04030ac90xlk.shtml",
+    "https://elpais.com/us/entretenimiento/2026-11-10/thomas-markle-se-corta-la-pulsera-electronica-de-vigilancia-y-el-fiscal-exige-que-ingrese-en-prision.html",
+    "https://f5.folha.uol.com.br/voceviu/2026/11/pai-de-meghan-markle-e-preso-novamente-apos-romper-tornozeleira-nos-eua.shtml",
+    "https://f5.folha.uol.com.br/voceviu/2026/11/pai-de-meghan-markle-sera-submetido-a-avaliacao-psiquiatrica.shtml",
+    "https://straitstimes.com/world/europe/meghan-wife-of-prince-harry-will-no-longer-speak-at-brussels-event",
+    "https://straitstimes.com/world/united-states/psychiatric-exam-ordered-for-thomas-markle-in-child-pornography-case",
+    "https://theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+    "https://thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
+    "https://thehindu.com/news/international/us-judge-orders-psychiatric-exam-for-meghan-markles-father/article71685753.ece"
+   ]
+  },
   {
    "id": "2026-11-10-alerte-02",
    "date": "2026-11-10",
@@ -1339,128 +1503,6 @@
     "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261103-1-%C3%A9mission-sp%C3%A9ciale-%C3%A9tats-unis-vos-questions-sur-les-midterms",
     "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261103-2-%C3%A9mission-sp%C3%A9ciale-%C3%A9tats-unis-vos-questions-sur-les-midterms",
     "https://tvmag.lefigaro.fr/programme-tv/actu-tele/midterms-ou-et-a-quelle-heure-suivre-cette-nuit-les-elections-americaines-de-mi-mandats-a-la-television-20261103"
-   ]
-  },
-  {
-   "id": "2026-11-03-alerte-03",
-   "date": "2026-11-03",
-   "publiee_a": "2026-11-03T06:57:32Z",
-   "titre": "Les électeurs américains votent ce mardi pour les élections de mi-mandat",
-   "texte": "Les citoyens des États-Unis se rendent aux urnes ce mardi 3 novembre 2026 pour renouveler le Congrès. Ce scrutin déterminera si le Parti républicain conserve la majorité à la Chambre des représentants et au Sénat durant la fin du second mandat de Donald Trump.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6wyz223j19po"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/7906251c-c903-4e4d-88db-cfe104271b0a?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-11-03/trump-faces-referendum-as-voters-head-to-polls-in-midterm-elections-2026"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
-    }
-   ],
-   "cluster": "7567b407b3dcfb6c",
-   "urls": [
-    "https://bbc.co.uk/news/articles/c6wyz223j19po",
-    "https://bbc.co.uk/news/articles/cq2d6k4r5n9ro",
-    "https://bloomberg.com/news/articles/2026-11-03/trump-faces-referendum-as-voters-head-to-polls-in-midterm-elections-2026",
-    "https://ft.com/content/7906251c-c903-4e4d-88db-cfe104271b0a?syn-25a6b1a6=1",
-    "https://straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake",
-    "https://thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece"
-   ]
-  },
-  {
-   "id": "2026-11-03-alerte-01",
-   "date": "2026-11-03",
-   "publiee_a": "2026-11-02T21:48:47Z",
-   "titre": "Des bombardements russes frappent un centre d'aide humanitaire en Ukraine",
-   "texte": "Les forces russes ont bombardé un centre humanitaire situé dans le sud de l'Ukraine le 2 novembre 2026. Les autorités ukrainiennes recensent au moins 24 victimes mortelles selon Bloomberg le 2 novembre à 23h57 et 26 morts selon la BBC le 3 novembre à 01h10.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/absolument-horrible-24-personnes-tuees-dans-le-bombardement-du-village-ukrainien-de-komyshuvakha-20261102_6NMF4M5RORAIDMAAPIEIWM4PC4"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-berichtet-von-luftangriff-mit-18-toten-bei-saporischschja-a-bc3b3fee-59a1-4120-8686-a7a64a7d0921"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-11-02/varios-muertos-por-un-bombardeo-ruso-contra-una-escuela-en-ucrania.html"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-11-02/ukraine-says-russian-strike-on-humanitarian-aid-center-kills-24"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html"
-    }
-   ],
-   "cluster": "303edf39d8ca4d27",
-   "urls": [
-    "https://abc.es/internacional/muertos-ataque-ruso-zaporiyia-ucrania-20261102202010-nt.html",
-    "https://aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
-    "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
-    "https://bbc.com/news/articles/cjy56dndlyz0o",
-    "https://bloomberg.com/news/articles/2026-11-02/ukraine-says-russian-strike-on-humanitarian-aid-center-kills-24",
-    "https://elpais.com/internacional/2026-11-02/varios-muertos-por-un-bombardeo-ruso-contra-una-escuela-en-ucrania.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_2?evenement=959cf5d599",
-    "https://france24.com/fr/europe/20261102-en-direct-ukraine-et-russie-touch%C3%A9es-par-cyberattaques-apr%C3%A8s-fin-tr%C3%AAve",
-    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html",
-    "https://lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-dix-huit-personnes-ont-ete-tuees-par-des-bombardements-russes-dans-l-oblast-de-zaporijia-annonce-volodymyr-zelensky_6803934_3210.html",
-    "https://liberation.fr/international/europe/absolument-horrible-24-personnes-tuees-dans-le-bombardement-du-village-ukrainien-de-komyshuvakha-20261102_6NMF4M5RORAIDMAAPIEIWM4PC4",
-    "https://spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-berichtet-von-luftangriff-mit-18-toten-bei-saporischschja-a-bc3b3fee-59a1-4120-8686-a7a64a7d0921",
-    "https://straitstimes.com/world/europe/ukraines-zelenskiy-russian-bombing-kills-18-in-southeastern-zaporizhzhia-region"
-   ]
-  },
-  {
-   "id": "2026-11-03-alerte-02",
-   "date": "2026-11-03",
-   "publiee_a": "2026-11-02T21:56:24Z",
-   "titre": "Au procès d'un triple assassinat, deux accusés ont reconnu leur culpabilité",
-   "texte": "La cour d'assises des Bouches-du-Rhône a entendu les aveux de deux accusés le lundi 2 novembre 2026. Ces hommes comparaissent avec trois autres personnes pour les assassinats de Brahim Chabane, Réda Khaldi et Nassim Loubani commis fin 2020.",
-   "sources": [
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/societe/narcotrafic-au-proces-pour-un-triple-assassinat-la-douleur-de-trois-meres-endeuillees-20261102"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/police-justice/proces-du-narchomicide-du-demi-frere-damine-kessaci-et-soudain-deux-accuses-reconnaissent-leur-implication-20261102_G2A4SNORCRFEXNTXHYXGHPCEDI"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/marseille/le-tireur-c-est-oualane-le-commanditaire-c-est-harrat-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-les-aveux-explosifs-d-un-accuse-20261102"
-    }
-   ],
-   "cluster": "23de898abd0d16c7",
-   "urls": [
-    "https://la-croix.com/societe/narcotrafic-au-proces-pour-un-triple-assassinat-la-douleur-de-trois-meres-endeuillees-20261102",
-    "https://lefigaro.fr/marseille/le-tireur-c-est-oualane-le-commanditaire-c-est-harrat-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-les-aveux-explosifs-d-un-accuse-20261102",
-    "https://liberation.fr/societe/police-justice/proces-du-narchomicide-du-demi-frere-damine-kessaci-et-soudain-deux-accuses-reconnaissent-leur-implication-20261102_G2A4SNORCRFEXNTXHYXGHPCEDI"
    ]
   }
  ]

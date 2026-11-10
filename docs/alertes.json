@@ -1,6 +1,74 @@
 {
- "maj": "2026-11-08T22:27:01Z",
+ "maj": "2026-11-10T03:39:58Z",
  "alertes": [
+  {
+   "id": "2026-11-10-alerte-01",
+   "date": "2026-11-10",
+   "publiee_a": "2026-11-10T03:39:58Z",
+   "titre": "Donald Trump annonce une enquête visant le dirigeant de Nvidia",
+   "texte": "Le président Donald Trump a affirmé le 10 novembre 2026 aux États-Unis que la police fédérale examine les liens entre Jensen Huang et une espionne chinoise présumée. Le dirigeant américain a déclaré que le patron de Nvidia ignorait les activités de cette femme tout en lui apportant son soutien.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-09/trump-stands-by-nvidia-s-huang-and-defense-secretary-hegseth"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqg7x7dpvym8o"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece"
+    }
+   ],
+   "cluster": "61da4f090d5f1f57",
+   "urls": [
+    "https://aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy",
+    "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations",
+    "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal",
+    "https://bbc.co.uk/news/articles/cqg7x7dpvym8o",
+    "https://bloomberg.com/news/articles/2026-11-08/trump-defends-nvidia-s-huang-after-he-admits-affair-with-spy",
+    "https://bloomberg.com/news/articles/2026-11-09/trump-says-fbi-investigating-huang-affair-called-embattled-ceo",
+    "https://bloomberg.com/news/videos/2026-11-09/trump-backs-nvidia-ceo-after-he-admits-affair-video",
+    "https://bloomberg.com/news/videos/2026-11-09/trump-stands-by-nvidia-s-huang-and-defense-secretary-hegseth",
+    "https://brisbanetimes.com.au/business/companies/trump-s-close-ties-to-nvidia-boss-under-scrutiny-amid-chinese-spy-probe-20261110-p61cr8.html",
+    "https://broomfieldenterprise.com/2026/11/09/nvidia-jensen-huang-china-spy",
+    "https://chinatechnews.com/2026/11/09/132383-trump-calls-jensen-huang-honorable-says-he-has-not-discussed-allegations-with-nvidia-ceo",
+    "https://ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+    "https://readingeagle.com/2026/11/09/nvidia-jensen-huang-china-spy",
+    "https://spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982",
+    "https://staradvertiser.com/2026/11/09/breaking-news/trump-huang-ties-face-scrutiny-after-nvidia-intelligence-probe",
+    "https://straitstimes.com/world/united-states/trump-calls-nvidias-jensen-huang-fine-says-he-has-not-discussed-allegations-with-him",
+    "https://straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy",
+    "https://straitstimes.com/world/united-states/trumps-close-ties-to-nvidias-huang-scrutinised-after-foreign-intelligence-concerns",
+    "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+    "https://theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
+    "https://thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
+    "https://thehindu.com/news/international/trumps-close-ties-to-nvidias-huang-scrutinised-after-foreign-intelligence-concerns/article71683989.ece",
+    "https://timesofindia.indiatimes.com/world/us/he-probably-has-an-excuse-trump-reacts-to-nvidia-ceo-jensen-huangs-chinese-spy-scandal/articleshow/135673048.cms",
+    "https://video.corriere.it/trump-difende-il-numero-uno-di-nvidia-dalle-accuse-di-spionaggio-e-una-brava-persona/bbca0941-da1a-46c8-94f4-49a794a4exlk"
+   ]
+  },
   {
    "id": "2026-11-09-alerte-01",
    "date": "2026-11-09",
@@ -1222,207 +1290,6 @@
     "https://la-croix.com/societe/narcotrafic-au-proces-pour-un-triple-assassinat-la-douleur-de-trois-meres-endeuillees-20261102",
     "https://lefigaro.fr/marseille/le-tireur-c-est-oualane-le-commanditaire-c-est-harrat-au-proces-de-l-assassinat-du-frere-d-amine-kessaci-les-aveux-explosifs-d-un-accuse-20261102",
     "https://liberation.fr/societe/police-justice/proces-du-narchomicide-du-demi-frere-damine-kessaci-et-soudain-deux-accuses-reconnaissent-leur-implication-20261102_G2A4SNORCRFEXNTXHYXGHPCEDI"
-   ]
-  },
-  {
-   "id": "2026-11-02-alerte-01",
-   "date": "2026-11-02",
-   "publiee_a": "2026-11-02T00:52:28Z",
-   "titre": "Kimi Antonelli décroche le titre mondial de Formule 1 au Mexique",
-   "texte": "Le coureur automobile Kimi Antonelli a remporté la couronne de Formule 1 lors du Grand Prix du Mexique dimanche 1er novembre 2026. Le représentant de Mercedes a fini troisième sur le circuit derrière Max Verstappen et Lewis Hamilton.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/auto-moto/formule-1/les-six-moments-de-la-saison-qui-ont-transforme-le-prodige-italien-kimi-antonelli-en-champion-du-monde-de-formule-1_8253199.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/formule-1/en-direct-formule-1-jour-de-gloire-pour-kimi-antonelli-au-mexique-20261101"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Formule-1/Actualites/Donnez-une-note-au-grand-prix-du-mexique/1740450"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/nov/01/kimi-antonelli-world-champion-mexican-grand-prix-lando-norris-lewis-hamilton-max-verstappen"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/sport/formel-1-kimi-antonelli-ist-weltmeister-reaktionen-von-sebastian-vettel-und-der-presse-a-7779c1d2-c279-450a-9ab2-92f91e57a2b1"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/11/dez-momentos-da-trajetoria-de-antonelli-rumo-ao-titulo-mundial-de-f1.shtml"
-    }
-   ],
-   "cluster": "bf8a4f4ef093d31b",
-   "urls": [
-    "https://abc.es/deportes/formula-1/kimi-antonelli-nino-prodigio-bolonia-heredo-volante-20261021013631-nt.html",
-    "https://abc.es/deportes/formula-1/verstappen-vence-coronacion-antonelli-20261101232719-nt.html",
-    "https://aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history",
-    "https://bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo",
-    "https://bbc.co.uk/sport/formula1/articles/c98rzkv5y115o",
-    "https://bbc.co.uk/sport/formula1/articles/cjy56wkdk3nko",
-    "https://bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o",
-    "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_1?evenement=b34a47f045",
-    "https://franceinfo.fr/sports/auto-moto/formule-1/kimi-antonelli-devient-le-plus-jeune-champion-du-monde-de-l-histoire-de-la-formule-1-a-l-issue-du-gp-du-mexique-remporte-par-max-verstappen_8253553.html",
-    "https://franceinfo.fr/sports/auto-moto/formule-1/les-six-moments-de-la-saison-qui-ont-transforme-le-prodige-italien-kimi-antonelli-en-champion-du-monde-de-formule-1_8253199.html",
-    "https://lefigaro.fr/sports/formule-1/en-direct-formule-1-jour-de-gloire-pour-kimi-antonelli-au-mexique-20261101",
-    "https://lefigaro.fr/sports/formule-1/formule-1-kimi-antonelli-le-sacre-d-un-monstre-de-precocite-20261101",
-    "https://lefigaro.fr/sports/formule-1/formule-1-verstappen-s-offre-une-nouvelle-victoire-au-mexique-antonelli-assure-son-titre-avec-de-champion-du-monde-avec-un-podium-20261101",
-    "https://lemonde.fr/sport/article/2026/11/01/kimi-antonelli-sacre-champion-du-monde-de-f1-a-20-ans-le-pari-gagnant-de-mercedes_6804705_3242.html",
-    "https://lequipe.fr/Formule-1/Actualites/Donnez-une-note-au-grand-prix-du-mexique/1740450",
-    "https://lequipe.fr/Formule-1/Actualites/Kimi-antonelli-apres-son-premier-titre-de-champion-du-monde-a-20-ans-j-essaie-de-realiser-ce-qui-vient-de-se-passer/1740441",
-    "https://lequipe.fr/Formule-1/Actualites/Kimi-antonelli-devient-le-plus-jeune-champion-du-monde-de-l-histoire-de-la-f1-max-verstappen-vainqueur-du-grand-prix-du-mexique/1740427",
-    "https://lequipe.fr/Formule-1/Actualites/L-incroyable-precocite-de-kimi-antonelli-sacre-champion-du-monde-lors-du-gp-du-mexique-en-chiffres/1740430",
-    "https://lequipe.fr/Formule-1/Article/Un-grand-enfant-aux-reflexes-de-champion-kimi-antonelli-pilote-biberonne-depuis-toujours-par-mercedes/1740432",
-    "https://nrc.nl/nieuws/2026/11/01/f1-kampioen-antonelli-deed-als-kind-al-ongelofelijke-dingen-achter-het-stuur-a4940134",
-    "https://spiegel.de/sport/formel-1-kimi-antonelli-ist-weltmeister-reaktionen-von-sebastian-vettel-und-der-presse-a-7779c1d2-c279-450a-9ab2-92f91e57a2b1",
-    "https://spiegel.de/sport/formel1/formel-1-kimi-antonelli-ist-juengster-weltmeister-der-geschichte-a-b78e9346-c766-4f1b-b503-93a81618588a",
-    "https://theguardian.com/sport/2026/nov/01/kimi-antonelli-world-champion-mexican-grand-prix-lando-norris-lewis-hamilton-max-verstappen",
-    "https://theguardian.com/sport/2026/nov/01/kimi-antonelli-youngest-f1-champion-mexican-gp",
-    "https://theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live",
-    "https://www1.folha.uol.com.br/esporte/2026/11/antonelli-coroa-aposta-ousada-da-mercedes-e-se-torna-o-mais-jovem-campeao-da-f1.shtml",
-    "https://www1.folha.uol.com.br/esporte/2026/11/com-antonelli-no-time-dos-campeoes-veja-os-maiores-vencedores-da-f1.shtml",
-    "https://www1.folha.uol.com.br/esporte/2026/11/dez-momentos-da-trajetoria-de-antonelli-rumo-ao-titulo-mundial-de-f1.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-02-alerte-02",
-   "date": "2026-11-02",
-   "publiee_a": "2026-11-02T00:53:37Z",
-   "titre": "Michigan : l'élue démocrate Haley Stevens soutient le républicain Mike Rogers",
-   "texte": "La représentante démocrate Haley Stevens a rallié le républicain Mike Rogers pour l'élection sénatoriale dans le Michigan dimanche 1er novembre 2026. Elle refuse d'appuyer son rival Abdul El-Sayed, vainqueur de la primaire démocrate.",
-   "sources": [
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/democratic-divisions-shake-up-key-michigan-senate-race"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-stupefaction-et-colere-au-sein-des-democrates-apres-le-soutien-de-l-elue-haley-stevens-au-republicain-mike-rogers-dans-le-michigan_6801590_3210.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/usa-demokraten-in-michigan-werfen-haley-stevens-nach-eklat-offenbar-raus-a-67205fbb-ee59-455a-a672-4286150733f4"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c95ynzv88n68o"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
-    }
-   ],
-   "cluster": "1250df62ab1998be",
-   "urls": [
-    "https://aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers",
-    "https://aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate",
-    "https://aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections",
-    "https://aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival",
-    "https://bbc.co.uk/news/articles/c95ynzv88n68o",
-    "https://bbc.com/news/articles/c95ynzv88n68o",
-    "https://bloomberg.com/news/articles/2026-11-01/el-sayed-s-democratic-rival-appears-at-church-with-gop-s-rogers",
-    "https://bozemandailychronicle.com/wire/politics/turmoil-in-michigans-senate-race-as-democrat-haley-stevens-appears-with-republican-mike-rogers/article_a8296ff7-89f8-5138-aec3-d0a7b130200c.html",
-    "https://ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-    "https://haaretz.com/us-news/2026-10-31/ty-article-magazine/.premium/el-sayed-and-stevens-feud-over-ad-snarling-democrats-unity-push-in-michigan/000001a1-9323-d8a4-a7b5-bfbf40270000",
-    "https://haaretz.com/usmidterms2026/2026-11-01/ty-article/.premium/haley-stevens-backs-gop-in-michigan-senate-race-after-israel-feud-with-el-sayed/000001a1-983c-df63-ade5-fa7f36ff0000",
-    "https://kake.com/news/national/democrat-haley-stevens-endorses-gop-s-mike-rogers-in-michigan-senate-race-2-days-before/article_16c3dec7-0886-44af-986d-7c26b49c31d1.html",
-    "https://lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-stupefaction-et-colere-au-sein-des-democrates-apres-le-soutien-de-l-elue-haley-stevens-au-republicain-mike-rogers-dans-le-michigan_6801590_3210.html",
-    "https://npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-    "https://spiegel.de/ausland/usa-demokraten-in-michigan-werfen-haley-stevens-nach-eklat-offenbar-raus-a-67205fbb-ee59-455a-a672-4286150733f4",
-    "https://spiegel.de/ausland/usa-streit-mit-abdul-el-sayed-demokratin-haley-stevens-wechselt-ins-rogers-lager-a-497c62cc-2c82-4511-968b-e3725a27f52b",
-    "https://straitstimes.com/world/united-states/democratic-divisions-shake-up-key-michigan-senate-race",
-    "https://theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-    "https://theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
-    "https://yahoo.com/news/politics/articles/michigan-democrats-unity-push-falters-160726549.html"
-   ]
-  },
-  {
-   "id": "2026-11-02-alerte-03",
-   "date": "2026-11-02",
-   "publiee_a": "2026-11-02T00:54:25Z",
-   "titre": "Neuf personnes meurent dans un crash d'avion d'affaires en Floride",
-   "texte": "Un avion privé reliant le Texas aux Bahamas s'est écrasé dimanche 1er novembre 2026 dans le comté de Palm Beach en Floride. Le ministre américain des Transports Sean Duffy confirme le décès des neuf occupants de l'appareil.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/nov/01/business-jet-crash-florida"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/mueren-nueve-personas-estrellarse-avion-privado-florida-20261101222542-nt.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/usa/neuf-morts-dans-le-crash-d-un-petit-avion-en-floride_8263259.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/acidente-de-jatinho-mata-9-pessoas-no-sul-da-florida.shtml"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/nine-dead-in-learjet-plane-crash-near-trumps-florida-home"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cm369yy7lw73o"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video"
-    }
-   ],
-   "cluster": "197d92fb6cf7ec32",
-   "urls": [
-    "https://abc.es/internacional/mueren-nueve-personas-estrellarse-avion-privado-florida-20261101222542-nt.html",
-    "https://abc7chicago.com/post/palm-beach-plane-crash-today-learjet-60-florida-causes-massive-fireball-bahamas-bound-jet-carried-9-people/20006401",
-    "https://aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida",
-    "https://andoveradvertiser.co.uk/news/national/26688513.nine-killed-florida-plane-crash",
-    "https://asianimage.co.uk/news/national/26688513.nine-killed-florida-plane-crash",
-    "https://austinglobe.com/news/279407022/private-jet-carrying-9-crashes-near-trump-mar-a-lago-residence-in-florida",
-    "https://bakersfieldnow.com/news/nation-world/nine-killed-as-learjet-60-goes-crashes-in-a-residential-area-in-florida",
-    "https://bbc.co.uk/news/articles/cm369yy7lw73o",
-    "https://bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
-    "https://calcuttanews.net/news/279407022/private-jet-carrying-9-crashes-near-trump-mar-a-lago-residence-in-florida",
-    "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_1?evenement=428bea39a2",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_1?evenement=42ab04de0f",
-    "https://franceinfo.fr/monde/usa/neuf-morts-dans-le-crash-d-un-petit-avion-en-floride_8263259.html",
-    "https://kbtx.com/2026/11/01/business-jet-carrying-9-people-crashed-florida-neighborhood-erupting-massive-fireball",
-    "https://ktre.com/2026/11/01/business-jet-carrying-9-people-crashed-florida-neighborhood-erupting-massive-fireball",
-    "https://straitstimes.com/world/united-states/nine-dead-in-learjet-plane-crash-near-trumps-florida-home",
-    "https://theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
-    "https://wbaltv.com/article/palm-beach-jet-crash/74305816",
-    "https://www1.folha.uol.com.br/mundo/2026/11/acidente-de-jatinho-mata-9-pessoas-no-sul-da-florida.shtml"
    ]
   }
  ]

@@ -1,6 +1,177 @@
 {
- "maj": "2026-11-10T03:39:58Z",
+ "maj": "2026-11-10T14:59:58Z",
  "alertes": [
+  {
+   "id": "2026-11-10-alerte-02",
+   "date": "2026-11-10",
+   "publiee_a": "2026-11-10T14:58:26Z",
+   "titre": "Cyberattaque de frigos en France : Paris convoque l'ambassadeur d'Iran",
+   "texte": "Le ministère des Affaires étrangères français a convoqué l'ambassadeur d'Iran le mardi 10 novembre 2026 à Paris. La France accuse une unité iranienne d'avoir piraté les réfrigérateurs de centaines de supermarchés en octobre 2026, ce que Téhéran dément.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-la-france-va-convoquer-l-ambassadeur-d-iran-et-demander-des-sanctions-europeennes-20261110"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261110-cyberattaques-attribu%C3%A9es-%C3%A0-l-iran-t%C3%A9h%C3%A9ran-nie-paris-%C3%A0-l-offensive"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/economie-numerique/cyberattaques-contre-les-frigos-de-supermarches-shahid-kaveh-le-bras-cyber-des-gardiens-de-la-revolution-iraniens-pointe-par-paris-20261110_BUZ5XWVCFFAHTLPBOPCF2FNJZE"
+    }
+   ],
+   "cluster": "123191a825ab59e7",
+   "urls": [
+    "https://abc.es/internacional/francia-acusa-iran-ciberataques-camaras-frigorificas-20261109173503-nt.html",
+    "https://aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+    "https://aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
+    "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
+    "https://bloomberg.com/news/articles/2026-11-09/iran-suspected-of-fridge-hacks-french-prosecutors-say",
+    "https://corriere.it/politica/26_novembre_09/attacchi-ai-freezer-la-pista-dell-iran-il-caso-hacker-al-summit-del-g7-esteri-0ebad166-078c-4b26-bd97-b13b8627fxlk.shtml",
+    "https://dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-11-09/francia-acusa-a-iran-del-ciberataque-contra-los-sistemas-de-refrigeracion-de-cientos-de-supermercados.html",
+    "https://france24.com/fr/%C3%A9missions/info-%C3%A9co/20261110-cyberattaques-contre-les-supermarch%C3%A9s-pourquoi-l-iran-m%C3%A8ne-t-il-une-guerre-%C3%A9conomique-en-france",
+    "https://france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran",
+    "https://france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
+    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html",
+    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-accuse-l-iran-de-la-cyberattaque-contre-des-frigos-de-supermarches_8275238.html",
+    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-accuse-l-iran-pour-la-cyberattaque-des-supermarches_8276150.html",
+    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-accuse-d-etre-a-l-origine-de-la-cyberattaque-contre-des-frigos-connectes-affirme-jean-noel-barrot_8275883.html",
+    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html",
+    "https://franceinfo.fr/replay-jt/france-2/20-heures/piratage-des-frigos-la-france-accuse-l-iran-et-les-gardiens-de-la-revolution_8275106.html",
+    "https://franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/si-nous-sommes-capables-de-savoir-qui-se-trouve-derriere-une-attaque-cela-temoigne-de-nos-capacites-d-identification-et-de-la-capacite-de-represailles-de-la-france-analyse-guy-philippe-goldstein-enseignant-a-l-ecole-de-guerre-economique_8275985.html",
+    "https://ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
+    "https://kazu.org/npr-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "https://la-croix.com/international/piratage-des-frigos-la-france-accuse-l-iran-detre-a-lorigine-de-la-cyberattaque-20261109",
+    "https://lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-la-france-va-convoquer-l-ambassadeur-d-iran-et-demander-des-sanctions-europeennes-20261110",
+    "https://lefigaro.fr/international/cyberattaques-contre-des-frigos-de-supermarches-les-services-francais-identifient-la-main-de-l-iran-20261109",
+    "https://lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
+    "https://lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
+    "https://lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+    "https://liberation.fr/economie/economie-numerique/cyberattaques-contre-les-frigos-de-supermarches-shahid-kaveh-le-bras-cyber-des-gardiens-de-la-revolution-iraniens-pointe-par-paris-20261110_BUZ5XWVCFFAHTLPBOPCF2FNJZE",
+    "https://liberation.fr/societe/police-justice/avec-lattribution-des-cyberattaques-contre-les-frigos-a-liran-la-france-hausse-dun-cran-sa-replique-20261110_O2MDF7TQCJFP5FEFHMCXR4RAGQ",
+    "https://liberation.fr/societe/police-justice/cyberattaques-contre-les-frigos-de-supermarches-la-justice-francaise-pointe-liran-20261109_AQM4IVG3S5GGNH4ZYHCBBFEF2I",
+    "https://npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "https://politico.eu/article/france-blames-iran-for-cyberattacks-targeting-supermarket-fridges",
+    "https://politico.eu/article/la-france-accuse-liran-detre-a-lorigine-de-cyberattaques-visant-les-refrigerateurs-des-supermarches",
+    "https://rfi.fr/fr/france/20261109-la-france-accuse-l-iran-d-%C3%AAtre-responsable-de-l-attaque-contre-les-frigos-connect%C3%A9s",
+    "https://rfi.fr/fr/france/20261110-cyberattaques-attribu%C3%A9es-%C3%A0-l-iran-t%C3%A9h%C3%A9ran-nie-paris-%C3%A0-l-offensive",
+    "https://spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5",
+    "https://spiegel.de/netzwelt/netzpolitik/angriffe-auf-kuehlanlagen-in-supermaerkten-frankreich-beschuldigt-iran-a-43f4789a-967f-4470-883e-a91963b0ada8",
+    "https://straitstimes.com/world/europe/france-accuses-iran-of-hacking-supermarket-refrigerators",
+    "https://theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+    "https://thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece",
+    "https://thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
+    "https://theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+    "https://wamc.org/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "https://www1.folha.uol.com.br/mercado/2026/11/franca-acusa-o-ira-de-hackear-refrigeradores-de-supermercados.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-10-alerte-03",
+   "date": "2026-11-10",
+   "publiee_a": "2026-11-10T14:59:58Z",
+   "titre": "Un élu républicain lance une procédure de destitution contre le secrétaire à la Défense",
+   "texte": "Le représentant républicain Thomas Massie a déposé huit articles de destitution contre le secrétaire américain à la Défense Pete Hegseth aux États-Unis le 10 novembre 2026. L'élu reproche au chef du Pentagone d'avoir mené des opérations militaires sans respecter la Constitution.",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwr5y58jjp8ro"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/what-are-the-impeachment-articles-facing-pete-hegseth"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+    }
+   ],
+   "cluster": "2b1642d0420805fb",
+   "urls": [
+    "https://2news.com/news/national/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article_7eb80d03-9b6c-59eb-a364-84ba96f8d1be.html",
+    "https://aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce",
+    "https://aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth",
+    "https://aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment",
+    "https://aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth",
+    "https://aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears",
+    "https://armytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may",
+    "https://bbc.co.uk/news/articles/cwr5y58jjp8ro",
+    "https://bicesteradvertiser.net/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
+    "https://bloomberg.com/news/articles/2026-11-09/lawmaker-set-to-launch-impeachment-effort-against-hegseth",
+    "https://bloomberg.com/news/articles/2026-11-10/pentagon-chief-hegseth-slams-impeachment-push-in-congress",
+    "https://bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
+    "https://bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video",
+    "https://bostonherald.com/2026/11/10/pete-hegseth-news-briefing-impeachment-effort",
+    "https://dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
+    "https://english.elpais.com/usa/2026-11-09/republican-lawmaker-moves-to-impeach-defense-secretary-pete-hegseth.html",
+    "https://freepressseries.co.uk/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
+    "https://ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
+    "https://herefordtimes.com/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
+    "https://knpr.org/npr/2026-11-09/thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth",
+    "https://ktbs.com/news/national_politics/hegseth-says-bipartisan-impeachment-push-is-about-policy-disagreements-not-high-crimes/article_35e030e7-e56e-5199-9052-e61344f0fb4f.html",
+    "https://northernpublicradio.org/2026-11-09/thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth",
+    "https://npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+    "https://peeblesshirenews.com/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
+    "https://staradvertiser.com/2026/11/09/breaking-news/house-republican-introduces-impeachment-articles-against-hegseth",
+    "https://straitstimes.com/world/middle-east/what-are-the-impeachment-articles-facing-pete-hegseth",
+    "https://straitstimes.com/world/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail",
+    "https://straitstimes.com/world/united-states/how-impeaching-us-defence-secretary-pete-hegseth-would-work",
+    "https://straitstimes.com/world/united-states/republican-launches-impeachment-against-us-defense-chief-pete-hegseth",
+    "https://theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
+    "https://theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie",
+    "https://theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+    "https://thehindu.com/news/international/defence-secretary-pete-hegseth-thomas-massie-8-articles-of-impeachment-filed-united-states-war-power-resolution/article71684991.ece",
+    "https://thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece",
+    "https://thehindu.com/news/international/republican-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article71685083.ece",
+    "https://wbrc.com/2026/11/10/gop-lawmaker-introduces-articles-impeachment-against-hegseth",
+    "https://whtimes.co.uk/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
+    "https://winknews.com/news/hegseth-says-bipartisan-impeachment-push-is-about-policy-disagreements-not-high-crimes/article_43642213-b251-4829-b6b0-1e98a9395395.html",
+    "https://wpxi.com/news/local/rep-thomas-massie-kentucky-files-resolution-impeach-defense-secretary-pete-hegseth/47MVPTLA3NEMZBYJCJ54HKWHE4",
+    "https://wysu.org/npr-national-news/2026-11-09/thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth"
+   ]
+  },
   {
    "id": "2026-11-10-alerte-01",
    "date": "2026-11-10",

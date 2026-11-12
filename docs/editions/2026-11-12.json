@@ -1,0 +1,1014 @@
+{
+ "date": "2026-11-12",
+ "genere_a": "2026-11-12T07:55:34Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-12-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Scott Colom remporte l'élection sénatoriale américaine dans l'État du Mississippi",
+   "chapeau": "Le candidat démocrate Scott Colom a remporté l'élection pour un siège au Sénat des États-Unis dans l'État du Mississippi. Il s'est imposé face à la sénatrice républicaine sortante Cindy Hyde-Smith à l'issue du scrutin des élections de mi-mandat.",
+   "corps": "Le procureur de district âgé de 43 ans a devancé sa rivale républicaine après plusieurs jours de dépouillement des bulletins de vote dans cet État conservateur du Sud du pays.\n\nDurant les dernières semaines de la campagne électorale, l'ancien président Bill Clinton et l'ancienne vice-présidente Kamala Harris ont soutenu publiquement la candidature de Scott Colom. Le candidat démocrate a appuyé sa campagne sur le terrain par du porte-à-porte ainsi que par la diffusion d'une vidéo électorale sur Internet.\n\n## Ce que disent les sources\n\nAu sujet de la dernière présence démocrate à ce siège, Le Monde et La Croix rapportent qu'aucun démocrate n'a représenté le Mississippi au Sénat depuis 1989. De son côté, The Guardian indique le 12 novembre 2026 qu'aucun démocrate n'y avait été élu depuis 1982.\n\nConcernant l'élection d'un sénateur noir dans cet État, The Straits Times mentionne une première depuis 1874, tandis que le Corriere della Sera avance l'année 1871. Der Spiegel évoque un délai de 145 ans, la BBC mentionne plus de 140 ans, et d'autres médias tels que Le Monde, RFI ou franceinfo situent cet événement à près de 150 ans, en référence à la période de la Reconstruction ayant suivi la guerre de Sécession.\n\nLes sources ne précisent pas le nombre exact de voix obtenues par chacun des candidats.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/12/midterms-2026-le-democrate-scott-colom-devient-le-premier-senateur-noir-du-mississippi-depuis-pres-de-150-ans_6809036_3210.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article71692151.ece"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/midterms-in-den-usa-mississippi-wie-scott-colom-trotz-aller-widerstaende-siegte-a-edaaf9b7-8649-49f9-ba5e-a4657d9f51cc"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw7vppyr80eeo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/democrat-colom-wins-mississippi-senate-seat-becomes-states-first-black-senator-since-18741"
+    }
+   ],
+   "premiere_parution": "2026-11-11T00:00:00Z",
+   "suite_de": null,
+   "mots": 252,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un immeuble s'effondre à Brooklyn à New York faisant plusieurs victimes",
+   "chapeau": "Un bâtiment résidentiel de trois étages s'est partiellement effondré mercredi 11 novembre 2026 dans le quartier de Flatbush à Brooklyn, un district de la ville de New York. Les services de secours recherchent d'éventuelles victimes sous les décombres tandis que les autorités tentent de déterminer l'origine de l'incident.",
+   "corps": "L'effondrement s'est produit vers 16 heures à proximité du croisement entre les avenides Bedford et une zone adjacente à un chantier de construction. Un terrain voisin hébergeait auparavant un bâtiment d'un étage détruit dans le cadre d'un projet immobilier. Plus de 250 secouristes et pompiers ont été déployés sur les lieux pour fouiller les ruines. Le maire de la ville, Zohran Mamdani, a indiqué que les premiers secours sont arrivés sur place une minute après l'appel d'urgence. Les équipes d'intervention doivent évoluer au milieu de décombres instables et de cavités sous la surface.\n\n## Ce que disent les sources\n\nLe bilan des victimes a évolué au fil des communications des autorités et des médias. La première dépêche d'Associated Press, publiée le 11 novembre 2026 à 16h00, faisait état d'au moins un mort et quatre blessés. Folha de S.Paulo a rapporté le 12 novembre 2026 à 04h33 un bilan d'un mort et d'au moins dix blessés selon le corps des pompiers local.\n\nLes publications ultérieures ont révisé ces chiffres à la hausse. The Straits Times à 04h18, The Guardian à 05h51, El País à 05h55, The Hindu à 07h01, Al Jazeera à 07h31 et la BBC à 09h12 le 12 novembre 2026 indiquent au moins deux morts et plus de dix blessés. El País précise que quatre ouvriers du chantier ont été conduits à l'hôpital, dont un dans un état critique.\n\nEnfin, Le Monde à 06h41, Le Figaro à 09h36, ABC à 10h18 et franceinfo à 11h15 le 12 novembre 2026 font état d'au moins deux morts et dix-sept blessés. Le Monde et franceinfo ajoutent que sept enfants figurent parmi les blessés, dont quatre touchés grièvement.\n\nLes raisons de l'effondrement de la structure ne sont pas encore connues par les services administratifs et les secours.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/brooklyn-building-collapse-202ddc195fbf2dcf14e85d004f3ac130"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/building-collapse-in-brooklyn-kills-at-least-one-injures-10"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/desabamento-de-predio-em-nova-york-mata-1-pessoa-e-fere-ao-menos-outras-10.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-11/se-derrumba-un-edificio-en-brooklyn-y-deja-personas-atrapadas-entre-los-escombros.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-deux-morts-dans-l-effondrement-d-un-immeuble-de-brooklyn_6809041_3210.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/brooklyn-building-collapse-updates/article71692198.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen"
+    }
+   ],
+   "premiere_parution": "2026-11-11T12:00:00Z",
+   "suite_de": null,
+   "mots": 342,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Une grève générale pour le logement secoue l'Espagne avant les législatives",
+   "chapeau": "Les salariés et les associations de locataires ont suivi un débrayage national en Espagne le mercredi 11 novembre 2026. Ce mouvement social intervient dix-huit jours avant les élections législatives anticipées prévues le 29 novembre 2026.",
+   "corps": "Les travailleurs espagnols ont mené une grève générale de vingt-quatre heures sur l'ensemble du territoire national. Les associations de locataires ont initié ce mouvement d'arrêt du travail, ensuite rejoint par les syndicats et les organisations de salariés. Les grévistes ont installé des piquets de grève dans plusieurs villes pour protester contre l'augmentation des loyers et la baisse du pouvoir d'achat.\n\nCette protestation constitue la première grève générale organisée dans le pays depuis l'année 2012. À cette époque, les salariés protestaient contre les mesures d'austérité décrites pendant la crise de la dette dans la zone euro selon la publication de Folha de S.Paulo le 11 novembre 2026. La mobilisation actuelle met en évidence la distance entre les bons indicateurs économiques de l'Espagne et les difficultés de la population face au coût de la vie.\n\nLes difficultés d'accès à l'immobilier touchent la jeunesse. La moyenne des prix de location représente environ 98,7 % du salaire mensuel d'un jeune habitant en Espagne selon les données transmises par The Straits Times le 12 novembre 2026 à 08:31. Cette crise immobilière a provoqué la convocation des élections législatives anticipées fixées au 29 novembre 2026 selon Deutsche Welle le 12 novembre 2026 à 01:58.\n\nLe contexte politique divise la classe dirigeante. Le gouvernement de gauche soutient la mobilisation sociale selon Libération le 12 novembre 2026 à 00:01. Les partis de droite expriment leur colère et dénoncent une manœuvre destinée à les priver d'un succès électoral le 29 novembre 2026 selon la même source. L'extrême droite pourrait accéder au pouvoir lors de ce scrutin selon The Guardian le 11 novembre 2026 à 22:51.\n\nDes rassemblements se sont prolongés durant la nuit dans plusieurs agglomérations. Des affrontements sont survenus au cours de ces rassemblements selon The Straits Times le 12 novembre 2026 à 08:31.\n\nDes données précises manquent sur le taux exact de suivi de la grève secteur par secteur.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261111-espagne-journ%C3%A9e-de-gr%C3%A8ve-historique-%C3%A0-moins-de-trois-semaines-des-l%C3%A9gislatives-anticip%C3%A9es"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/espanha-tem-1o-greve-geral-desde-2012-com-multidao-nas-ruas-as-vesperas-das-eleicoes-legislativas.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c920xlpdl28eo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/11/espagne-une-greve-generale-sur-fond-de-crise-du-logement-et-de-colere-sur-le-pouvoir-d-achat_6809018_3210.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/c-est-le-debut-d-un-mouvement-plus-grand-en-espagne-la-crise-du-logement-declenche-la-greve-generale-20261111"
+    }
+   ],
+   "premiere_parution": "2026-11-10T18:07:23Z",
+   "suite_de": null,
+   "mots": 353,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le vice-président indonésien Gibran Rakabuming Raka quitte ses fonctions gouvernementales",
+   "chapeau": "Le vice-président de l'Indonésie, Gibran Rakabuming Raka, a transmis sa démission aux institutions parlementaires le jeudi 12 novembre 2026. Cet abandon de poste intervient après des procédures judiciaires contestant l'authenticité de son diplôme de fin d'études secondaires et la conformité de sa scolarité effectuée à l'étranger.",
+   "corps": "Le président du Parlement indonésien a annoncé officiellement le départ du vice-président le jeudi 12 novembre 2026. L'élu, âgé de 39 ans, a adressé sa démission à l'assemblée nationale, l'instance législative du pays. Cette démarche active l'organisation d'un processus électoral interne visant à choisir un nouveau dirigeant. Le successeur désigné aura pour mission d'accomplir le reste du mandat exécutif qui s'achèvera en 2029. Gibran Rakabuming Raka est le fils de l'ancien chef de l'État indonésien Joko Widodo.\n\nLe départ du responsable politique concrétise plusieurs semaines de contestation sur ses diplômes scolaires. La Cour suprême et la Cour constitutionnelle ont rendu des arrêts le mois dernier concernant son dossier administratif. Les deux instances de décision juridique ont établi que les pièces présentées sur son éducation à l'étranger ne satisfaisaient pas aux règles électorales. De plus, la Cour suprême avait invalidé son diplôme d'études secondaires un mois avant la présentation de sa démission.\n\nL'évolution de la situation a été documentée par plusieurs organes d'information entre le 10 et le 12 novembre 2026. Selon une dépêche de l'agence Reuters publiée le 10 novembre 2026 à 16:00, un officiel de la présidence avait fait part de l'intention du vice-président de quitter ses fonctions. Le réseau NPR avait indiqué le même jour à 18:01 que cette offre de démission s'inscrivait dans le cadre de doutes sur son éligibilité.\n\nLe 11 novembre 2026 à 16:00, l'agence Reuters a rapporté que trois sources politiques confirmaient le dépôt effectif de la démission. À 16:38, le média Bloomberg a indiqué que le président Prabowo Subianto avait accepté ce départ, en s'appuyant sur des personnes informées du dossier. À 20:38, BBC News a souligné l'affaiblissement de l'alliance au pouvoir. À 21:08, le média Nikkei Asia a fait état d'un projet de démission et de menaces de destitution, qui désigne une procédure visant à déchoir un élu de son mandat.\n\nLe 12 novembre 2026, la confirmation s'est poursuivie dans la presse. Le média RFI a rapporté à 00:27 la démission du responsable face aux tensions de l'alliance gouvernementale. Le canal Al Jazeera a diffusé l'information à 06:22. Bloomberg a confirmé à 08:46 la transmission formelle du document à l'assemblée nationale. Le journal The Hindu et Al Jazeera ont apporté des détails supplémentaires respectivement à 10:16 et 10:38 sur les décisions judiciaires rendues le mois dernier. Enfin, RFI a relayé à 11:28 la déclaration du président du Parlement confirmant la démission.\n\nCette démission s'insère dans un contexte de frictions politiques au sommet du pouvoir indonésien. Un désaccord croissant s'est installé entre le président en exercice Prabowo Subianto et son prédécesseur Joko Widodo. Cette divergence provoque un effritement de la coalition gouvernementale ainsi qu'une rupture politique au niveau de la direction de l'État. Le gouvernement indonésien fait face à une succession de crises politiques et sociales, accompagnées d'un mécontentement global au sein de la population.\n\nUne autre affaire judiciaire secoue parallèlement l'appareil d'État indonésien. Une enquête distincte a été ouverte concernant des actes d'écoutes téléphoniques. Ces investigations ciblent des hauts responsables des forces de police accusés d'avoir surveillé le président de la République.\n\n## Ce que disent les sources\n\nLes sources d'information présentent des nuances concernant la confirmation de l'acceptation de la démission par la présidence. L'agence Bloomberg a affirmé le 11 novembre 2026 à 16:38 que le président Prabowo Subianto avait accepté la démission du vice-président selon des personnes proches du dossier. De son côté, l'agence Reuters a indiqué le 11 novembre 2026 à 16:00 que le gouvernement indonésien n'avait pas encore confirmé publiquement cette acceptation. La communication officielle a été formellement établie par la déclaration du président du Parlement rapportée par RFI le 12 novembre 2026 à 11:28.\n\nLe nom de la personne qui sera élue par l'assemblée nationale pour remplacer le vice-président jusqu'en 2029 n'est pas indiqué dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/asia-pacific/indonesia-vice-president-expresses-intention-resign-presidential-official-says-2026-11-10"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-11/indonesia-s-prabowo-said-to-accept-resignation-of-vice-president"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmvgxgz87qqro"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/indonesian-vp-s-resignation-plan-and-impeachment-threat-5-things-to-know"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261111-indon%C3%A9sie-derri%C3%A8re-la-d%C3%A9mission-du-vice-pr%C3%A9sident-gibran-une-alliance-politique-qui-se-dissout"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-10T11:53:07Z",
+   "suite_de": null,
+   "mots": 691,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des vagues de fausses alertes à la bombe touchent plusieurs pays européens",
+   "chapeau": "Des milliers d'établissements scolaires ont reçu des messages d'alerte à la bombe le mercredi 11 novembre 2026. Ces attaques par courriel ont ciblé des écoles en Italie, au Royaume-Uni, en Irlande et en Bulgarie.",
+   "corps": "De nombreux établissements scolaires ont procédé à des évacuations préventives après la réception de courriers électroniques menaçants. Les messages ont été envoyés depuis une adresse associée au domaine de l'université Dayeh à Taïwan et portaient la signature d'un individu nommé Mikhail Andropov. Les autorités italiennes ont rapidement évoqué la piste d'une cyberattaque visant à semer l'inquiétude plutôt qu'une menace réelle.\n\nLa cheffe du gouvernement italien Giorgia Meloni a déclaré qu'aucun danger concret n'a été identifié sur le terrain. De leur côté, les autorités locales à Belfast, Dublin et Édimbourg ont également cherché à minimiser le risque direct pour la population. Ces événements ont rouvert le débat en Europe sur la vulnérabilité des infrastructures face aux tactiques de guerre hybride et aux tentatives de déstabilisation cybernétique.\n\n## Ce que disent les sources\n\nLe nombre exact d'écoles touchées et évacuées en Italie varie selon les données communiquées par les médias entre le 11 et le 12 novembre 2026. Le 11 novembre 2026 à 22 h 34, France 24 a fait état de 3 600 écoles italiennes visées par ces faux messages et de plusieurs centaines d'évacuations. Le même jour à 22 h 38, BBC News a indiqué que plus de 6 000 écoles italiennes avaient reçu ce courrier. Libération a rapporté le 11 novembre 2026 à 23 h 21 que 85 % des établissements scolaires du pays étaient concernés. Enfin, le 12 novembre 2026 à 02 h 25, ABC a mentionné qu'au moins 300 écoles avaient été évacuées après des envois groupés à plus de 6 000 établissements.\n\nL'origine exacte des courriels et l'identité de leurs auteurs n'ont pas été établies par les enquêteurs.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/bomb-threats-disrupting-hundreds-schools-italy-ireland-uk"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261111-italie-des-centaines-d-%C3%A9coles-%C3%A9vacu%C3%A9es-apr%C3%A8s-des-fausses-alertes-%C3%A0-la-bombe"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwz0k79pr8z2o"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/alerte-a-la-bombe-en-italie-au-moins-300-ecoles-evacuees-20261111_LZK4MBES6RGMTPXJDP2NTWNTZI"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/apres-les-menaces-d-alertes-a-la-bombe-l-italie-veut-rassurer-et-renforcer-sa-cybersecurite-20261111"
+    }
+   ],
+   "premiere_parution": "2026-11-11T10:58:48Z",
+   "suite_de": null,
+   "mots": 304,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Congrès américain examine les liens entre Donald Trump et Jensen Huang",
+   "chapeau": "Le Congrès des États-Unis a renforcé son contrôle sur les relations entre le président américain et le dirigeant de Nvidia à Washington ce jeudi 12 novembre 2026. Cette initiative fait suite aux révélations sur la liaison entretenue par le patron de l'entreprise technologique avec une femme soupçonnée d'espionnage pour la Chine.",
+   "corps": "Cette affaire fait suite à l'annonce par Donald Trump d'une enquête du FBI sur la relation extramatrimoniale de Jensen Huang.\n\nLes parlementaires américains examinent désormais les décisions prises par l'administration présidentielle et par le chef d'entreprise. Les interrogations portent sur l'accès potentiel de la Chine aux puces informatiques conçues par la société pour l'intelligence artificielle, ainsi que sur l'exposition d'informations confidentielles dans la compétition technologique entre Washington et Pékin.\n\n## Ce que disent les sources\n\nLe président Donald Trump affirme qu'il ignorait tout des risques pour la sécurité nationale provoqués par cette relation. À l'inverse, des informations publiées par le New York Times et rapportées par Bloomberg le 12 novembre 2026 indiquent que le chef d'État avait reçu un briefing sur ces dangers avant son voyage en Chine effectué plus tôt dans l'année.\n\nDe son côté, Donald Trump a déclaré que Jensen Huang n'avait pas connaissance du travail présumé de sa partenaire pour les services de renseignement chinois. Le dirigeant de Nvidia a reconnu sa relation extramatrimoniale mais a nié que sa compagne soit une agente de la Chine.\n\nL'identité de la femme accusée d'espionnage n'est pas précisée dans les documents disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/fbi-investiga-ceo-nvidia-romance-espia-china-20261110075927-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/trump-diz-que-fbi-esta-investigando-ceo-da-nvidia-e-afirma-confiar-em-huang.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-11/huang-s-ties-to-trump-under-scrutiny-after-spy-claim-video"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/trump-difende-il-numero-uno-di-nvidia-dalle-accuse-di-spionaggio-e-una-brava-persona/bbca0941-da1a-46c8-94f4-49a794a4exlk"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982"
+    }
+   ],
+   "premiere_parution": "2026-11-09T14:38:22Z",
+   "suite_de": "2026-11-11-monde-003",
+   "mots": 242,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un garde militaire rappelle à l'ordre le secrétaire américain à la Défense Pete Hegseth",
+   "chapeau": "Un sentinelle de l'armée américaine a réprimandé le secrétaire à la Défense Pete Hegseth et son entourage au cimetière national d'Arlington. L'incident s'est produit le mercredi 11 novembre 2026, à l'occasion de la Journée des anciens combattants, après une cérémonie de dépôt de gerbe.",
+   "corps": "Le ministre de la Défense des États-Unis, Pete Hegseth, se trouvait auprès de la tombe du Soldat inconnu en compagnie de plusieurs collaborateurs. La tombe du Soldat inconnu est un monument militaire dédié aux combattants décédés dont l'identité demeure inconnue.\n\nAprès une session de photographies de groupe, un rire fort a retenti au sein de la délégation ministérielle. Le militaire chargé de la garde des lieux est immédiatement intervenu à haute voix. Le soldat a crié aux membres du groupe de conserver le silence et de faire preuve de respect en tout temps sur le site sacré.\n\nLa sentinelle a rappelé les consignes de décence applicables aux visiteurs du cimetière d'Arlington. Le garde exige une atmosphère de calme absolu et de recueillement autour de la sépulture. L'intervention a été captée en vidéo avant de devenir virale sur les réseaux sociaux.\n\nAucune réaction officielle ultérieure de Pete Hegseth ou de ses services n'est mentionnée dans les informations publiées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "wsls.com",
+     "url": "https://wsls.com/news/politics/2026/11/11/hegseth-and-staff-reprimanded-by-guard-at-tomb-of-the-unknown-soldier"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/ck5y132yq1ymo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/us-soldat-ruegt-gruppe-um-verteidigungsminister-hegseth-in-voller-lautstaerke-a-308d4589-97a3-402a-b0c3-6ea575133714"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-defence-secretary-hegseth-staff-reprimanded-by-guard-at-tomb-of-the-unknown-soldier/article71692421.ece"
+    },
+    {
+     "nom": "deccanchronicle.com",
+     "url": "https://deccanchronicle.com/world/americas/hegseth-staff-reprimanded-by-guard-at-tomb-of-the-unknown-soldier-2003706"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/12/faites-preuve-de-respect-un-garde-rappelle-a-l-ordre-pete-hegseth-pres-de-la-tombe-du-soldat-inconnu_6809067_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-11-11T21:21:33Z",
+   "suite_de": null,
+   "mots": 201,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-008",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'épidémie d'Ebola dépasse 11 000 cas en République démocratique du Congo",
+   "chapeau": "Les autorités sanitaires de République démocratique du Congo et les institutions internationales ont établi mercredi 11 novembre 2026 que la résurgence de la maladie à virus Ebola comptait plus de 11 000 contaminations. Le virus frappe actuellement huit des vingt-six provinces congolaises depuis sa détection officielle au cours du mois de mai 2026.",
+   "corps": "Cette dix-septième épidémie recensée sur le territoire congolais s'est déclarée à la mi-mai 2026. Des spécialistes estiment toutefois que la maladie est apparue plusieurs semaines ou plusieurs mois avant cette déclaration officielle. Le gouvernement congolais peine à freiner la circulation du virus dans les différentes régions touchées.\n\nPlusieurs obstacles ralentissent la riposte sanitaire sur le terrain. Les affrontements armés et la crise du système de santé fragilisent le suivi des personnes malades. Les mouvements de population et les agressons ciblant les personnels de santé entravent également le travail des équipes médicales. L'absence d'un traitement vaccinal adapté complexifie la prise en charge des patients.\n\nL'Organisation internationale pour les migrations a indiqué mardi 10 novembre 2026 que les services sanitaires avaient identifié 71 cas confirmés le long des axes de transit depuis le début de la crise. L'organisation préconise un élargissement des contrôles au-delà des voies de déplacement formelles pour repérer les infections.\n\nL'organisation Médecins sans frontières a affirmé jeudi 12 novembre 2026 que l'épidémie restait hors de contrôle. L'ONG précise que les financements n'arrivent pas jusqu'aux agents positionnés en première ligne. Certains de ces intervenants ne reçoivent aucune rémunération et ne disposent pas de formation préalable.\n\nEn dehors des frontières congolaises, la situation sanitaire montre des évolutions distinctes. L'Organisation des Nations unies a indiqué mercredi 11 novembre 2026 que le Kenya voisin avait guéri son dernier patient enregistré.\n\n## Ce que disent les sources\n\nLe nombre exact de personnes décédées varie selon les publications publiées le mercredi 11 novembre 2026. Les médias Al Jazeera, The Hindu et le portail Wikipédia attribuent aux autorités sanitaires un bilan d'au moins 5 387 morts. Les médias Le Monde et ONU Info font état de plus de 5 300 décès provoqués par le virus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/article71688652.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/afrique/article/2026/11/11/ebola-en-rdc-principal-foyer-de-l-epidemie-plus-de-11-000-cas-recenses-pami-lesquels-5-300-morts_6808950_3212.html"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_11?evenement=cf37ef3ff4"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/surto-de-ebola-na-republica-democratica-do-congo-supera-11-mil-casos.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/congo-ebola-outbreak-still-out-of-control-after-six-months-msf-says"
+    }
+   ],
+   "premiere_parution": "2026-11-10T12:00:00Z",
+   "suite_de": null,
+   "mots": 341,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le pape Léon XIV effectue une visite officielle de six jours au Pérou",
+   "chapeau": "Le pontife est arrivé mercredi 11 novembre 2026 au Pérou pour un séjour de six jours après des étapes en Uruguay et en Argentine. Trois millions de personnes se sont rassemblées à Lima pour l'accueillir selon les estimations de la presse.",
+   "corps": "Le pape Léon XIV a débarqué au Pérou pour la dernière étape de sa tournée sud-américaine. Il a vécu près de vingt ans dans ce pays en tant que missionnaire, curé et évêque, et il possède la nationalité péruvienne.\n\nLors de son premier discours au Grand Théâtre National, le souverain pontife a évoqué son lien avec le pays et a qualifié sa venue de retour à sa patrie. Il a demandé aux politiciens de faire preuve d'honnêteté et de rectitude afin de défendre la démocratie. Il a également déclaré que les conflits armés nécessitent une diplomatie respectueuse du droit international et que les faits passés doivent recevoir un traitement juste.\n\nLe séjour doit durer jusqu'au lundi 16 novembre 2026 et comprend des déplacements dans quatre grandes villes péruviennes.\n\n## Ce que disent les sources\n\nLe quotidien Corriere della Sera (12/11/2026 à 07:14) et la chaîne Deutsche Welle (12/11/2026 à 08:42) évaluent à trois millions le nombre de personnes présentes pour l'accueil du pape à Lima le mercredi 11 novembre 2026. Le journal ABC (12/11/2026 à 10:15) mentionne également ce chiffre de trois millions de personnes dans les rues de la capitale.\n\nLa source [5] mentionne que des éléments manquent pour préciser l'intégralité du programme des visites dans les quatre villes.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/america/2026-11-11/el-papa-regresa-a-peru-el-pais-que-fue-su-casa-y-donde-forjo-su-mision.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/papa-chega-ao-peru-ultima-parada-de-tour-e-pais-onde-se-tornou-latino-americano.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/leon-xiv-comienza-viaje-peru-pais-moldeo-20261109000717-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/cronache/26_novembre_12/papa-leone-xiv-torna-in-peru-e-si-commuove-ad-accoglierlo-tre-milioni-di-persone-la-mia-storia-appartiene-a-voi-f4cfdf05-8c1d-4543-9303-b53cfc816xlk.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "cope.es",
+     "url": "https://cope.es/religion/hoy-en-dia/vaticano/noticias/papa-leon-xiv-reencuentra-peru-regreso-mi-patria-20261112_3473395.html"
+    }
+   ],
+   "premiere_parution": "2026-11-11T19:26:11Z",
+   "suite_de": null,
+   "mots": 259,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La famille Kennedy conteste en justice le projet d'arc de Trump",
+   "chapeau": "Neuf membres de la famille Kennedy ont déposé une plainte pour bloquer la construction d'un arc de triomphe voulu par Donald Trump à Washington. Ils estiment que ce monument de 76 mètres perturberait le cimetière national d'Arlington.",
+   "corps": "La famille Kennedy cherche à intervenir dans une procédure judiciaire existante pour empêcher l'édification d'un arc de triomphe à Washington. Le projet, porté par le président Donald Trump, fait déjà l'objet de contestations juridiques de la part de militaires vétérans, d'un historien, ainsi que des gouvernements du district de Columbia, de la Virginie et du comté d'Arlington, selon Folha de S.Paulo (11/11/2026).\n\nLes plaignants soutiennent que la structure, haute de 76 mètres (environ 250 pieds), projetterait une ombre permanente sur les sépultures familiales. Ils affirment que le monument masquerait la vue sur les tombes et sur la flamme éternelle de John F. Kennedy située au cimetière national d'Arlington.\n\nUn juge a suspendu temporairement la construction de l'arche dans le cadre d'une autre procédure judiciaire, rapporte The Straits Times (11/11/2026).\n\n## Ce que disent les sources\n\nLes sources convergent sur l'action en justice des neuf membres de la famille Kennedy et sur les motifs invoqués concernant l'ombre et la vue sur les tombes d'Arlington. Aucune divergence n'est relevée dans les informations fournies par les médias cités.\n\nLa date précise de la décision du juge ayant suspendu les travaux n'est pas mentionnée dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-10/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/kennedys-move-to-block-trumps-arch-saying-it-would-disturb-jfk-gravesite"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/11/la-famille-kennedy-porte-plainte-contre-le-projet-d-arc-de-triomphe-voulu-par-donald-trump-a-washington_6808913_3210.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-11/la-familia-kennedy-intenta-frenar-con-una-demanda-el-arco-triunfal-de-trump-en-washington.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw8dvpmzp2p4o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-kennedy-familie-wehrt-sich-gegen-trumps-triumphbogen-in-washington-a-84d245f3-56b4-41ac-abf7-6112b9359bbd"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/la-famille-kennedy-porte-plainte-contre-le-projet-darc-de-triomphe-de-trump-a-washington-20261111_7QND55RGANAYPON7BIEI2BDQGM"
+    }
+   ],
+   "premiere_parution": "2026-11-10T23:19:09Z",
+   "suite_de": null,
+   "mots": 234,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le paquebot SS United States coule pour devenir un récif",
+   "chapeau": "Le navire américain SS United States a été volontairement coulé au large des côtes de la Floride le mercredi 12 novembre 2026. Cette opération transforme l'ancien paquebot en un récif artificiel sous-marin.",
+   "corps": "Cinq remorqueurs ont déplacé la coque du SS United States depuis un quai de Mobile, en Alabama, le lundi 10 novembre 2026 selon The Guardian du même jour. Le navire a ensuite été sabordé le mercredi 12 novembre 2026 au large de Destin et de Fort Walton Beach, d'après les informations de Reuters et de Wikipédia publiées le 11 novembre 2026.\n\nLe paquebot mesure près de 1 000 pieds, soit environ 305 mètres, selon The Guardian du 12 novembre 2026. Lancé en 1952, il avait établi un record de vitesse transatlantique lors de son voyage inaugural d'après la même source. Le bâtiment était hors service depuis des décennies selon BBC News du 12 novembre 2026.\n\nDes militants ont mené des actions pour conserver le paquebot et le transformer en musée, sans succès d'après BBC News du 12 novembre 2026. Le site submergé servira désormais de destination pour la plongée et d'habitat pour la faune marine selon NPR du 12 novembre 2026.\n\nCertains détails concernant les coûts exacts de l'opération manquent dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/10/ocean-liner-ship-sunk-artificial-reef"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/famed-ship-heads-afterlife-artificial-reef-deliberate-sinking-off-florida-2026-11-12"
+    },
+    {
+     "nom": "Wikipédia (portail d'actualité)",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_11?evenement=c8b6990112"
+    },
+    {
+     "nom": "wnyc.org",
+     "url": "https://wnyc.org/npr/nx-s1-6030853"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/famed-ship-heads-for-afterlife-as-artificial-reef-in-deliberate-sinking-off-florida"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c3x298n87rn2o"
+    }
+   ],
+   "premiere_parution": "2026-11-10T14:05:32Z",
+   "suite_de": null,
+   "mots": 206,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Gadi Eisenkot demande a Benyamin Netanyahou la prudence face a l'Iran",
+   "chapeau": "Le chef de l'opposition israelienne Gadi Eisenkot a demande au premier ministre sortant Benyamin Netanyahou de faire preuve de retenue concernant l'Iran. Cette demande a ete formulee en Israel entre le 11 et le 12 novembre 2026.",
+   "corps": "Gadi Eisenkot, charge de former un nouveau gouvernement selon Le Monde (11/11/2026 à 23:21) et Der Spiegel (12/11/2026 à 04:40), a demande a Benyamin Netanyahou de ne pas mener de nouvelles attaques en Iran. Le premier ministre sortant a evoque la menace nucleaire iranienne mardi 10 novembre 2026 selon Le Monde (11/11/2026 à 23:21).\n\nGadi Eisenkot a aussi demande au procureur general d'obliger Benyamin Netanyahou a l'informer sur les questions de securite selon Haaretz (11/11/2026 à 23:50). Cette action fait suite aux tentatives de Benyamin Netanyahou de bloquer la surveillance de la Knesset, le parlement israelien, sur les agences de securite d'apres Haaretz (11/11/2026 à 23:50).\n\nLe bureau de Benyamin Netanyahou a rejete l'avertissement de Gadi Eisenkot selon The Straits Times (12/11/2026 à 02:25). Le cabinet du premier ministre sortant accuse Gadi Eisenkot de politiser la securite nationale selon The Straits Times (12/11/2026 à 02:25).\n\nCertains elements sur le contenu exact des discussions entre les deux hommes manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/11/israel-gadi-eisenkot-appelle-benyamin-netanyahou-a-faire-preuve-de-retenue-et-de-prudence-quant-a-de-possibles-nouvelles-attaques-en-iran_6809024_3210.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-politics/2026-11-11/ty-article/.premium/netanyahu-moves-to-block-knesset-oversight-of-security-agencies-amid-tensions/000001a1-cbea-dd97-a9f9-cbeeb29f0000"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/israels-eisenkot-urges-netanyahu-to-exercise-prudence-on-security-issues"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/israel-gadi-eisenkot-warnt-benjamin-netanyahu-vor-alleingaengen-gegen-iran-a-e6f48d28-6f33-4543-a133-a7f6874ccff5"
+    }
+   ],
+   "premiere_parution": "2026-11-11T19:21:03Z",
+   "suite_de": null,
+   "mots": 219,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La commémoration obligatoire du 11-Novembre dans les écoles suscite des désaccords",
+   "chapeau": "Une circulaire du ministère de l'éducation nationale impose aux élèves du CM1 à la terminale une cérémonie d'hommage aux morts pour la France dans les établissements scolaires. Cette mesure instaurée cette année provoque des critiques au sein de la communauté éducative en France.",
+   "corps": "Le ministère de l'éducation nationale a publié une circulaire en juillet 2026 demandant à toutes les écoles, collèges et lycées d'organiser un temps mémoriel autour du 11 novembre pour le 108e anniversaire de l'Armistice de 1918 (France 24, 11/11/2026). Cette obligation concerne les élèves du cours moyen première année jusqu'à la terminale (France 24, 11/11/2026). Des élus et des militaires peuvent participer à ces cérémonies organisées dans l'enceinte des établissements (France 24, 11/11/2026).\n\nPlusieurs organisations syndicales d'enseignants contestent cette décision (La Croix, 10/11/2026). Le syndicat Snes FSU qualifie ce dispositif d'embrigadement et de promotion de la guerre (franceinfo, 11/11/2026). D'autres syndicats craignent une instrumentalisation politique à l'approche de l'élection présidentielle ainsi qu'une militarisation de l'enseignement (Le Monde, 09/11/2026).\n\n## Ce que disent les sources\n\nLe gouvernement défend la mesure par la voix de ses ministres. La ministre déléguée aux armées, Alice Rufo, qualifie la polémique de regrettable et rappelle qu'il s'agit d'une célébration de la paix (Le Figaro, 11/11/2026). Le ministre Sébastien Lecornu défend un temps de concorde nécessaire (franceinfo, 12/11/2026). Les sources ne précisent pas le nombre d'établissements ayant appliqué cette directive.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/09/11-novembre-la-commemoration-obligatoire-a-l-ecole-divise-les-enseignants_6808691_3224.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/la-commemoration-du-11-novembre-a-t-elle-sa-place-a-l-ecole-20261110"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/11-novembre-a-lecole-entre-occasion-pedagogique-et-crainte-de-militarisation-de-lenseignement-des-premieres-ceremonies-en-rangs-disperses-20261110_672ZZK5XPVER3BBDKCNLGUS63U"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261111-la-france-c%C3%A9l%C3%A8bre-le-108e-anniversaire-de-l-armistice-du-11-novembre-1918"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/commemoration-du-11-novembre-a-l-ecole-une-polemique-tres-regrettable-estime-alice-rufo-20261111"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261111-france-pol%C3%A9mique-sur-les-comm%C3%A9morations-du-11-novembre-dans-les-%C3%A9tablissements-scolaires"
+    }
+   ],
+   "premiere_parution": "2026-11-09T18:30:05Z",
+   "suite_de": null,
+   "mots": 241,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Eric Zemmour officialise sa candidature pour la presidentielle de 2027",
+   "chapeau": "Eric Zemmour a officialise sa participation a l'election presidentielle du printemps 2027 lors d'une intervention diffusee le mardi 10 novembre 2026 sur TF1. Le dirigeant du parti Reconquete brigue ainsi un second mandat apres sa participation en 2022.",
+   "corps": "Le president du parti Reconquete Eric Zemmour a confirme sa candidature le mardi 10 novembre 2026 sur la chaine de television TF1. Il a indique vouloir lutter contre le declin et conserver une France francaise, selon France 24 du 11 novembre 2026.\n\nSelon franceinfo du 11 novembre 2026, il avait obtenu 7 % des voix et fini quatrieme du premier tour lors de l'election de 2022. La Croix note le 11 novembre 2026 que sa marge de manoeuvre est plus faible face au Rassemblement national.\n\nLes sources ne fournissent pas d'informations sur la reaction des autres partis politiques.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/presidentielle-2027-quelles-sont-les-chances-d-eric-zemmour-a-nouveau-candidat-20261111"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-10/french-anti-immigrant-politician-zemmour-joins-presidential-race"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/eric-zemmour-says-he-will-stand-in-french-presidential-election"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/candidats/eric-zemmour-se-lance-dans-une-seconde-campagne-presidentielle-20261110"
+    }
+   ],
+   "premiere_parution": "2026-11-10T19:55:14Z",
+   "suite_de": "2026-11-11-france-001",
+   "mots": 135,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Bruno Retailleau propose une primaire à droite pour l'election presidentielle",
+   "chapeau": "Bruno Retailleau a adresse le 10 novembre 2026 un courrier a plusieurs personnalites politiques pour organiser une selection interne. Edouard Philippe refuse cette proposition tandis que d'autres candidats acceptent de discuter des modalites.",
+   "corps": "Le president du parti Les Républicains, Bruno Retailleau, suggere de departager les candidats de la droite et du centre pour l'election presidentielle. Selon Le Figaro du 11 novembre 2026, il propose de fixer ce scrutin les 31 janvier et 7 fevrier. Gabriel Attal et David Lisnard soutiennent le principe d'une consultation. Leurs directeurs de campagne prevoient de se reunir le 17 novembre 2026 pour definir l'organisation technique, d'apres Libération du 12 novembre 2026.\n\nEdouard Philippe rejette cette initiative. D'apres Le Monde du 11 novembre 2026, son entourage qualifie cette procedure de scrutin de desunion et de confusion. Le representant d'Horizons ne participera donc pas a la reunion du 17 novembre 2026, selon Le Monde du 12 novembre 2026.\n\n## Ce que disent les sources\n\nLe Figaro indique le 10 novembre 2026 que Gabriel Attal s'engage a soutenir le vainqueur de la competition s'il s'agit de Bruno Retailleau ou de David Lisnard. La Croix precise le 11 novembre 2026 que la proposition officielle a ete envoyee mardi 10 novembre 2026 a Edouard Philippe, Gabriel Attal et David Lisnard. France 24 mentionne le 11 novembre 2026 que Bruno Retailleau est le patron des Républicains candidat a la fonction supreme.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-gabriel-attal-pret-a-voter-pour-bruno-retailleau-ou-david-lisnard-en-cas-de-victoire-a-la-primaire-20261110"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/presidentielle-2027-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-20261111"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/11/presidentielle-2027-bruno-retailleau-propose-aux-candidats-de-la-droite-et-du-centre-d-organiser-une-primaire-les-31-janvier-et-7-fevrier_6808981_823448.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/edouard-philippe-va-etre-oblige-de-ceder-a-droite-la-question-de-la-primaire-devient-centrale-20261112_P5EEAIDSWVEKXASNXECZJBSBIA"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html"
+    }
+   ],
+   "premiere_parution": "2026-11-10T10:47:29Z",
+   "suite_de": null,
+   "mots": 229,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Une liste de personnalites trouvee chez le suspect de l'attentat des Yvelines",
+   "chapeau": "Les enqueteurs ont decouvert une liste de quatre personnalites lors de la perquisition au domicile de Kevin Tessier, auteur presumé de l'attentat de Trappes. Cette decouverte a ete officialisée le 11 novembre 2026 par le parquet antiterroriste.",
+   "corps": "La perquisition menee chez Kevin Tessier a permis de saisir un papier contenant les noms et numeros de telephone de quatre personnalites publiques de gauche et d'extrême gauche, d'apres les informations diffusees le 11 novembre 2026 par franceinfo, Libération, Le Figaro et Le Monde.\n\nLe parquet antiterroriste a indique le 11 novembre 2026 qu'aucun element ne confirme l'existence d'un projet d'action violente contre ces personnes. Kevin Tessier a explique en garde a vue le 11 novembre 2026 qu'il n'avait pas de projet en cours les concernant et qu'il avait conserve ces informations pour un usage eventuel.\n\nPlusieurs personnalites politiques ont reagi le 12 novembre 2026 pour denoncer le fait d'avoir appris leur presence sur cette liste par l'intermediaire de la presse.\n\nCertaines sources precisent que les noms inscrits sont ceux du depute LFI David Guiraud, de la militante Assa Traoré ainsi que des deputes ecologistes Aymeric Caron et Sandrine Rousseau, d'apres Le Figaro du 11 novembre 2026. D'autres sources indiquent plus globalement deux deputes ecologistes, un elu LFI et une militante antiraciste, d'apres Libération du 11 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/je-me-suis-dit-que-ca-pouvait-peut-etre-servir-un-jour-une-liste-de-personnalites-de-gauche-retrouvee-chez-le-tireur-de-lattentat-des-yvelines-20261111_XQWHT2WZRBCZ7FL7Z5TRLOA7KQ"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/attentat-raciste-dans-les-yvelines-aucun-element-n-etaie-l-existence-d-un-projet-d-action-violente-contre-les-personnalites-de-gauche-listees-par-kevin-tessier-20261111"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/11/attentat-de-trappes-aucun-element-n-etaie-un-projet-visant-des-personnalites-de-gauche-selon-le-parquet-antiterroriste_6809029_3224.html"
+    }
+   ],
+   "premiere_parution": "2026-11-11T15:49:11Z",
+   "suite_de": null,
+   "mots": 215,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Polémique autour des propos de Jean-Luc Mélenchon sur le Donbass",
+   "chapeau": "Le candidat Jean-Luc Mélenchon a proposé de consulter la population du Donbass lors d'un meeting au Bourget samedi 7 novembre 2026. Cette déclaration a provoqué de nombreuses réactions en Ukraine et en France.",
+   "corps": "Samedi 7 novembre 2026 au Bourget, Jean-Luc Mélenchon a suggéré que les habitants du Donbass soient interrogés pour choisir entre l'Ukraine et la Russie en cas d'accord de paix, selon franceinfo du 10 novembre 2026.\n\nLa diplomatie ukrainienne a rappelé le 9 novembre 2026, d'après Libération, que cette population s'était déjà prononcée pour l'indépendance de l'Ukraine en 1991.\n\nLa France insoumise a rejeté les critiques le 11 novembre 2026, affirmant que les propos du candidat avaient été déformés par les médias, selon Le Monde.\n\n## Ce que disent les sources\n\nLibération et franceinfo indiquent que la proposition de référendum suscite des critiques sur un alignement avec Moscou. La France insoumise soutient que le candidat défendait seulement un droit à l'autodétermination similaire aux positions de Kiev et des alliés occidentaux.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/les-ukrainiens-ont-deja-vote-kyiv-repond-aux-propos-de-melenchon-sur-le-donbass-20261109_N3QZBU4ZMVDQRGUYW4CDXYY3BY"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/podcast/playbook-paris-podcast/ukraine-melenchon-embarrasse"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261111-il-faut-demander-aux-populations-m%C3%A9lenchon-d%C3%A9fend-sa-position-sur-l-ukraine"
+    }
+   ],
+   "premiere_parution": "2026-11-09T17:34:55Z",
+   "suite_de": null,
+   "mots": 161,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Appel des personnels des lycées à un rassemblement contre les violences",
+   "chapeau": "Le principal syndicat de proviseurs convie les équipes éducatives à manifester devant chaque établissement vendredi 13 novembre 2026. Cette mobilisation fait suite à de multiples agressions et dégradations recensées dans plusieurs villes françaises.",
+   "corps": "Plusieurs équipes éducatives signalent des agressions visant des chefs d'établissement et du personnel, selon franceinfo le 10 novembre 2026. Les faits incluent des tirs de mortiers d'artifice à l'intérieur des locaux, des incendies et des intimidations, d'après Le Figaro et La Croix le 11 et le 12 novembre 2026. Des messages sur les réseaux sociaux encouragent à cibler directement les responsables d'établissements, relève La Croix le 11 novembre 2026.\n\nLe ministre de l'Éducation recense deux cent quarante-cinq personnels blessés depuis le début de ces incidents, d'après Le Figaro le 12 novembre 2026. Les syndicats de direction reprochent à l'État l'absence de réponse gouvernementale appropriée face à cette situation, selon Libération le 12 novembre 2026. Certains éléments précis sur l'origine exacte des auteurs de ces actes manquent dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/apres-plusieurs-agressions-les-personnels-des-lycees-appeles-a-se-mobiliser-vendredi_8276027.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/mouvement-lyceen-un-cap-a-t-il-ete-franchi-dans-la-violence-20261111"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/violences-dans-les-lycees-on-ne-va-pas-pouvoir-tenir-comme-ca-comme-dernier-rempart-alertent-les-proviseurs-20261112_ZHK2VDLLPJFLZNSFJXRCGNN3EA"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/mortiers-tires-a-l-interieur-des-lycees-incendies-violences-sur-les-proviseurs-le-mouvement-lyceen-se-radicalise-alors-que-les-discussions-sont-dans-l-impasse-20261112"
+    }
+   ],
+   "premiere_parution": "2026-11-10T09:36:29Z",
+   "suite_de": null,
+   "mots": 163,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-france-007",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Sébastien Lecornu annonce la création de 5 000 places en licence",
+   "chapeau": "Le Premier ministre Sébastien Lecornu a officialisé la création de 5 000 places supplémentaires en licence dans un courrier envoyé aux universités. Cette décision intervient en réponse à la mobilisation des lycéens et des étudiants.",
+   "corps": "Le chef du gouvernement a transmis un courrier aux présidents d'universités pour formaliser cette mesure selon Le Figaro du 11 novembre 2026 à 22h43. Il exprime son soutien ainsi que celui de son gouvernement face aux tensions actuelles d'après franceinfo du 11 novembre 2026 à 23h35.\n\n## Ce que disent les sources\n\nLe Monde indique le 12 novembre 2026 à 00h07 que la mesure de Sébastien Lecornu répond à la mobilisation étudiante. La Croix précise le 12 novembre 2026 à 10h59 que le courrier date du 10 novembre 2026. Le Monde et La Croix rapportent que les organisations étudiantes demandent 250 000 places supplémentaires dans les universités.\n\nCertaines informations précises sur le coût total de cette mesure manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/politique/colere-lyceenne-sebastien-lecornu-formalise-la-creation-de-5000-places-supplementaires-en-licence-20261111"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/education/article/2026/11/11/sebastien-lecornu-promet-5-000-places-supplementaires-en-licence-pour-repondre-a-la-mobilisation-etudiante_6809030_1473685.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence-20261111"
+    }
+   ],
+   "premiere_parution": "2026-11-11T18:43:20Z",
+   "suite_de": null,
+   "mots": 155,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des émissaires américains rencontrent Vladimir Poutine puis Volodymyr Zelensky ce jeudi",
+   "chapeau": "Les émissaires américains Steve Witkoff et Jared Kushner sont arrivés à Moscou ce jeudi 12 novembre 2026 afin de s'entretenir avec le président russe Vladimir Poutine. Les deux représentants se rendront ensuite le même jour à Dublin pour échanger avec le président ukrainien Volodymyr Zelensky.",
+   "corps": "Les diplomates des États-Unis cherchent à faire avancer les négociations en vue d'un accord de paix pour mettre fin à la guerre en Ukraine. Steve Witkoff et Jared Kushner, gendre du président américain, ont fait le voyage en Russie après l'achèvement de pourparlers trilatéraux aux Émirats arabes unis. Ces discussions directes se sont tenues les mardi 10 et mercredi 11 novembre 2026 à Abou Dhabi entre des représentants russes et ukrainiens sous la médiation de Washington.\n\nÀ l'issue de ces deux journées de dialogues aux Émirats arabes unis, les deux parties ont accepté de réaliser un échange de prisonniers. Le président ukrainien Volodymyr Zelensky a déclaré voir une possibilité de progrès pour obtenir la paix lors du 1 723e jour de conflit. Le chef d'État ukrainien a indiqué qu'il espérait obtenir des détails précis de la rencontre organisée à Moscou entre les représentants de Washington et le président russe.\n\nParallèlement à ces démarches diplomatiques, la diplomatie russe cherche à modifier l'organisation de la sécurité en Europe. Les émissaires américains et le président russe doivent aborder la question du rôle des nations européennes dans les futures discussions. Le ministère des Affaires étrangères de la Fédération de Russie a par ailleurs annoncé le décès soudain de son ambassadeur aux États-Unis. Alexandre Dartchiev est mort à l'âge de 66 ans le mercredi 11 novembre 2026. L'administration russe n'a communiqué aucun détail concernant le lieu ou la cause de sa disparition.\n\n## Ce que disent les sources\n\nLe journal Le Figaro indique le 11 novembre 2026 à 21h59 que les pourparlers d'Abou Dhabi se sont soldés par un échec en raison de la position de la Russie. Le même quotidien précise le 12 novembre 2026 à 01h07 que les délégations ont conclu un accord sur un échange de prisonniers.\n\nLes informations communiquées ne précisent pas les modalités exactes ni le calendrier retenus pour l'échange de prisonniers.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1723-point-conflit-ukrainien-poutine-aujourdhui-20261112"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-12/us-envoys-witkoff-kushner-putin-talks-ukraine-zelenskyy-opportunity"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261112-guerre-ukraine-la-russie-cherche-%C3%A0-redessiner-l-architecture-de-paix-europ%C3%A9enne"
+    }
+   ],
+   "premiere_parution": "2026-11-11T08:47:10Z",
+   "suite_de": null,
+   "mots": 356,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "La Russie et l'Ukraine s'accordent sur un échange de prisonniers",
+   "chapeau": "La Russie et l'Ukraine ont conclu un accord pour effectuer un échange de prisonniers de guerre lors de pourparlers organisés à Abou Dhabi. Ces discussions directes se sont déroulées les mardi 10 et mercredi 11 novembre 2026 sous la médiation des États-Unis.",
+   "corps": "Les deux nations en conflit ont mené deux journées de négociations dans la capitale des Émirats arabes unis. Il s'agit des premières rencontres directes entre les représentants russes et ukrainiens depuis le mois de février 2026. Une suspension de neuf mois des discussions s'était produite en raison de la guerre en Iran, d'après les informations publiées par le Financial Times le 12 novembre 2026.\n\nLes deux gouvernements ont dépêché des délégations de haut niveau pour mener ces négociations. La représentation ukrainienne comptait notamment dans ses rangs Kyrylo Boudanov, le chef de cabinet du président Volodymyr Zelensky. La médiation américaine a été assurée par Jared Kushner et Steve Witkoff, émissaires du président Donald Trump. L'objectif affiché de ces démarches diplomatiques est de trouver une solution pour terminer un conflit débuté par l'invasion russe en 2022, rappelle le quotidien The Hindu le 11 novembre 2026.\n\nÀ l'issue des sessions du mercredi 11 novembre 2026, le chef de la délégation russe a confirmé la conclusion d'une entente portant sur la libération réciproque de détenus. Le nombre précis de soldats concernés doit être arrêté le jeudi 12 novembre 2026, selon des déclarations de Jared Kushner rapportées par franceinfo le 11 novembre 2026. Ce type de mesure humanitaire prolonge des actions similaires au cours desquelles des milliers de militaires ont été échangés depuis le début des hostilités.\n\nLes émissaires des États-Unis poursuivent leur mission le jeudi 12 novembre 2026 avec de nouveaux déplacements. D'après le journal The Guardian du 11 novembre 2026, les médiateurs américains doivent se rendre à Moscou pour échanger avec le président Vladimir Poutine. Ils ont également prévu un voyage à Dublin afin de rencontrer le président ukrainien Volodymyr Zelensky. L'un des objectifs des émissaires américains consiste à obtenir l'accord du président russe pour intégrer les pays européens aux futures négociations de paix. La participation des représentants de l'Europe constitue un point de blocage central entre les deux parties.\n\nLes diplomates ont accordé une attention prioritaire aux dossiers humanitaires pendant l'ensemble des rencontres, comme l'avait indiqué Kyrylo Boudanov dès le 10 novembre 2026. Malgré l'accord obtenu sur les captifs, les délégations n'ont pas enregistré de progrès vers la signature d'un traité de paix global. Un manque de confiance entre les belligérants freine le déroulement des discussions, selon des déclarations américaines relayées par The Straits Times le 12 novembre 2026. Les deux camps ont toutefois affirmé leur intention de poursuivre les négociations.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-les-negociations-entre-l-ukraine-et-la-russie-sous-mediation-americain-vont-reprendre-ce-mardi-a-abou-dhabi_6808609_3210.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261111-ukraine-russie-un-%C3%A9change-massif-de-prisonniers-act%C3%A9-apr%C3%A8s-deux-jours-de-pourparlers"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/russland-und-ukraine-vereinbaren-grossen-gefangenenaustausch-gespraeche-in-abu-dhabi-a-ac5871d0-5d90-41d1-a1f6-2a2b78462bd6"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/u-s-to-seek-putins-blessing-for-europe-to-join-ukraine-talks"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1722-point-conflit-ukrainien-poutine-aujourdhui-20261111"
+    }
+   ],
+   "premiere_parution": "2026-11-09T19:12:21Z",
+   "suite_de": null,
+   "mots": 441,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-12-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Le conseil d'administration de Nvidia discute du sort du directeur général",
+   "chapeau": "Le conseil d'administration de l'entreprise de puces électroniques Nvidia s'est réuni mercredi 11 novembre 2026 pour statuer sur l'avenir de son dirigeant Jensen Huang. Cette décision intervient après des révélations concernant la vie privée du dirigeant.",
+   "corps": "Le conseil d'administration de Nvidia examine le remplacement de son directeur général Jensen Huang, selon le Wall Street Journal cité par France 24 le 12 novembre 2026. La Federal Bureau of Investigation, la police fédérale américaine, mène des investigations sur ce dossier, d'après Ars Technica le 12 novembre 2026.\n\nLe cours de l'action de l'entreprise baisse, d'après The Guardian le 12 novembre 2026. Le départ du dirigeant pose des difficultés pour la recherche de son successeur, selon The Straits Times le 12 novembre 2026.\n\n## Ce que disent les sources\n\nFolha de S.Paulo indique le 12 novembre 2026 que le conseil d'administration se prépare à destituer le directeur général. The Guardian rapporte le 12 novembre 2026 que le conseil se réunit pour décider d'une éventuelle éviction.\n\nCertains détails manquent concernant la décision finale du conseil d'administration de Nvidia à l'issue de sa réunion.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/nvidia-se-prepara-para-destituir-o-ceo-jensen-huang-diz-jornal.shtml"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261112-le-conseil-d-administration-de-nvidia-doit-d%C3%A9cider-de-l-avenir-de-son-patron-jensen-huang"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/who-could-potentially-replace-jensen-huang-if-nvidia-ousts-him"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/221421b5-fac5-4f60-9260-583212cfd822?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-11-10T17:48:24Z",
+   "suite_de": null,
+   "mots": 179,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-12-monde-001",
+  "2026-11-12-monde-002",
+  "2026-11-12-geopolitique-001",
+  "2026-11-12-monde-003",
+  "2026-11-12-monde-004",
+  "2026-11-12-tech-001",
+  "2026-11-12-monde-005",
+  "2026-11-12-geopolitique-002"
+ ]
+}

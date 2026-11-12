@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-11T07:18:23Z",
- "derniere": "2026-11-11",
+ "maj": "2026-11-12T07:55:34Z",
+ "derniere": "2026-11-12",
  "editions": [
+  {
+   "date": "2026-11-12",
+   "genere_a": "2026-11-12T07:55:34Z",
+   "articles": 22,
+   "une": [
+    "Scott Colom remporte l'élection sénatoriale américaine dans l'État du Mississippi",
+    "Un immeuble s'effondre à Brooklyn à New York faisant plusieurs victimes",
+    "Des émissaires américains rencontrent Vladimir Poutine puis Volodymyr Zelensky ce jeudi"
+   ],
+   "octets": 76012
+  },
   {
    "date": "2026-11-11",
    "genere_a": "2026-11-11T07:18:23Z",

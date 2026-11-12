@@ -1,6 +1,55 @@
 {
- "maj": "2026-11-12T01:04:03Z",
+ "maj": "2026-11-12T11:19:14Z",
  "alertes": [
+  {
+   "id": "2026-11-12-alerte-03",
+   "date": "2026-11-12",
+   "publiee_a": "2026-11-12T11:19:14Z",
+   "titre": "Manchester United se sépare de son entraîneur Michael Carrick ce jeudi",
+   "texte": "La direction de Manchester United a limogé son entraîneur Michael Carrick ce jeudi 12 novembre 2026 en Angleterre. Le club anglais occupe la dix-huitième position du championnat national après une série de mauvais résultats.",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6151c41d-cd56-4cba-aa5d-36c9bc07e847?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/18e-de-premier-league-manchester-united-a-licencie-michael-carrick-de-son-poste-d-entraineur/1743132"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/angleterre/premier-league-carrick-limoge-par-manchester-united-pochettino-en-tete-pour-lui-succeder-20261112"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261112-manchester-united-michael-carrick-sur-la-sellette"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/videos/c5ev37egv97mo"
+    }
+   ],
+   "cluster": "3e5d8513ff90cdd5",
+   "urls": [
+    "https://aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager",
+    "https://bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo",
+    "https://bbc.co.uk/sport/football/videos/c5ev37egv97mo",
+    "https://ft.com/content/6151c41d-cd56-4cba-aa5d-36c9bc07e847?syn-25a6b1a6=1",
+    "https://lefigaro.fr/sports/football/angleterre/premier-league-carrick-limoge-par-manchester-united-pochettino-en-tete-pour-lui-succeder-20261112",
+    "https://lequipe.fr/Football/Actualites/18e-de-premier-league-manchester-united-a-licencie-michael-carrick-de-son-poste-d-entraineur/1743132",
+    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261112-manchester-united-michael-carrick-sur-la-sellette",
+    "https://theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino",
+    "https://theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live"
+   ]
+  },
   {
    "id": "2026-11-12-alerte-01",
    "date": "2026-11-12",

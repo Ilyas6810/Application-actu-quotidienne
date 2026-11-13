@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-13",
+ "genere_a": "2026-11-13T07:26:04Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-13-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Scott Colom remporte le siège de sénateur des États-Unis dans le Mississippi",
+   "chapeau": "Le démocrate Scott Colom a gagné le scrutin sénatorial dans l'État du Mississippi le mercredi 11 novembre 2026. Ce procureur de district de quarante-trois ans devance la sénatrice républicaine sortante Cindy Hyde-Smith après plus d'une semaine de dépouillement.",
+   "corps": "À la suite des élections américaines de mi-mandat, le candidat démocrate Scott Colom a obtenu un mandat au Sénat des États-Unis pour le Mississippi. L'homme de quarante-trois ans exerce la profession de procureur de district, un magistrat chargé de mener les poursuites pénales dans une circonscription locale. Il s'est imposé face à Cindy Hyde-Smith, membre du Parti républicain qui occupait le siège jusqu'alors. Les opérations de décompte des bulletins se sont étalées sur plus d'une semaine avant la proclamation des résultats le 11 novembre 2026.\n\nDurant sa campagne électorale, le candidat démocrate a effectué du démarchage en faisant du porte-à-porte auprès des habitants. Il a diffusé un clip publicitaire ciblant l'augmentation du coût de la vie et le prix de la viande. Le démocrate a déclaré que sa démarche politique avait débuté par une prière. Dans cet État du Sud des États-Unis, la population afro-américaine représente près de 30 % des citoyens selon France 24 le 12 novembre 2026, ce qui constitue la plus forte proportion d'habitants noirs du pays d'après Le Monde le 13 novembre 2026. L'État du Mississippi est également identifié par Folha de S.Paulo le 13 novembre 2026 comme le territoire ayant opposé la plus forte résistance à la fin de la ségrégation raciale, une politique d'isolation forcée des personnes noires.\n\nCette élection modifie l'équilibre politique de la chambre haute du Congrès américain. Selon le journal néerlandais NRC le 12 novembre 2026, la répartition au Sénat s'établit à 55 sièges pour les démocrates contre 44 pour les républicains, tandis que le résultat de l'élection dans l'État de l'Alaska reste non attribué. En parallèle, la Présidence des États-Unis a transmis un courrier d'avertissement aux parlementaires démocrates qui envisagent de lancer des enquêtes sur l'administration fédérale, rapporte le média américain NPR le 12 novembre 2026. Le juriste Reed Brody, qui a occupé les fonctions de procureur adjoint au sein de l'État de New York, est intervenu sur France 24 le 12 novembre 2026 pour commenter la portée politique du scrutin.\n\n## Ce que disent les sources\n\nLes médias présentent des informations divergentes concernant l'histoire politique du Mississippi.\n\nS'agissant de la dernière élection d'un démocrate au Sénat dans cet État, le journal français La Croix indique le 12 novembre 2026 que le dernier succès démocrate remontait à 1989. Le quotidien Le Monde affirme pour sa part le 13 novembre 2026 qu'aucun démocrate n'avait accédé à ce poste depuis 1982.\n\nS'agissant de la présence d'un élu noir représentant le Mississippi au Sénat, le média britannique BBC News avance le 12 novembre 2026 que le dernier sénateur noir occupait ce siège en 1874. En revanche, le quotidien italien Corriere della Sera et la chaîne qatarie Al Jazeera affirment le 13 novembre 2026 que le dernier sénateur noir de cet État a exercé son mandat jusqu'en 1881.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/etats-unis-exploit-des-democrates-dans-le-mississippi-qui-decrochent-un-siege-au-senat-20261112"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/midterms-2018/a-l-issue-des-elections-de-mi-mandat-aux-etats-unis-exploit-des-democrates-dans-le-mississippi-qui-decrochent-un-siege-au-senat-apres-les-elections-de-mi-mandat_8278790.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/midterms-le-democrate-scott-colom-premier-senateur-noir-du-mississipi-depuis-pres-dun-siecle-et-demi-20261112_76PBRGYYX5DYVOCQFJGO5HUMRU"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/midterms-2026-les-democrates-remportent-une-victoire-historique-dans-le-mississippi-20261112"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmde1y19g19do"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/12/wie-is-scott-colom-de-nieuwe-senator-voor-mississippi-en-waarom-is-zijn-zege-historisch-a4941182"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat"
+    }
+   ],
+   "premiere_parution": "2026-11-11T00:00:00Z",
+   "suite_de": "2026-11-12-monde-001",
+   "mots": 501,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-13-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une panne mondiale des services Microsoft perturbe les entreprises et administrations",
+   "chapeau": "L'entreprise informatique Microsoft subit une interruption majeure de ses services en ligne depuis le jeudi 12 novembre 2026. L'incident touche des dizaines de milliers d'utilisateurs à travers le monde, perturbant le fonctionnement des messageries et des outils de travail à distance.",
+   "corps": "La panne affecte les outils de la suite Microsoft 365, notamment le service de messagerie Outlook, la plateforme de communication Teams ainsi que l'assistant virtuel Copilot. Les difficultés d'accès ont débuté dans la nuit du 12 au 13 novembre 2026. Des utilisateurs situés sur le continent américain, en Europe, en Asie et en Afrique signalent des dysfonctionnements sur les serveurs de la firme.\n\nSelon les explications fournies par Microsoft, une partie de son infrastructure informatique subit une charge excessive. Cette surcharge entraîne l'indisponibilité imprévue de plusieurs serveurs informatiques, à la suite d'un échec survenu lors de vérifications automatisées. Cette panne d'équipements génère un report de trafic qui saturerait le reste des systèmes restés en ligne.\n\nL'interruption des opérations touche divers secteurs d'activité. En Australie, l'indisponibilité de Teams et d'Outlook perturbe les services gouvernementaux, les tribunaux ainsi que les établissements scolaires. En Inde, de nombreux salariés constatent l'impossibilité d'accéder à leur boîte de réception professionnelle à leur réveil le vendredi 13 novembre 2026.\n\nL'entreprise américaine tente de rétablir le fonctionnement normal de ses infrastructures. Un porte-parole de la firme indique que les premières tentatives de réparation n'ont pas donné les résultats escomptés. Le groupe observe toutefois un début de rétablissement partiel de ses fonctionnalités. La société déclare qu'aucun élément ne pointe vers une attaque informatique ou une action malveillante à l'origine du problème.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/major-outage-hits-microsoft-outlook"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/internet/widespread-outage-hits-microsoft-apps/article71695400.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-11-12T12:00:00Z",
+   "suite_de": null,
+   "mots": 263,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-13-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Chris Van Hollen dispute le leadership du Sénat à Chuck Schumer",
+   "chapeau": "Le sénateur démocrate Chris Van Hollen a annoncé le jeudi 12 novembre 2026 sa candidature à la direction de la majorité au Sénat des États-Unis à Washington. Le représentant du Maryland conteste la position du chef démocrate Chuck Schumer après la victoire de leur parti aux élections législatives de mi-mandat.",
+   "corps": "La décision de Chris Van Hollen survient dans la foulée des résultats électoraux qui ont vu le Parti démocrate remporter la majorité des sièges à la Chambre des représentants et au Sénat. Le sénateur du Maryland a expliqué que la population américaine a exprimé un souhait clair de transformation lors de ce scrutin. Selon lui, le message des urnes exige une rupture avec les orientations politiques de Donald Trump. Il a également affirmé que les citoyens demandent un changement profond par rapport au statut quo entretenu par les dirigeants actuels.\n\nChris Van Hollen défend des positions inscrites à l'aile gauche du Parti démocrate. Le sénateur s'est fait connaître pour ses prises de position contre la guerre et pour la défense de causes progressistes. Sa démarche s'appuie sur une hausse des revendications au sein de la formation politique pour imposer un projet plus audacieux et populiste. Le candidat entend prendre la tête du groupe lors de l'ouverture du nouveau Congrès au mois de janvier, période où les démocrates occuperont la majorité de la chambre haute.\n\nSon rival Chuck Schumer exerce actuellement la direction des démocrates au Sénat. Figure modérée de l'institution, ce responsable chevronné refuse de céder sa place. Le sénateur affirme posséder les soutiens et les voix nécessaires pour demeurer le chef du groupe démocrate au sein du nouveau Congrès. Cette compétition constitue le premier affrontement direct opposant la sensibilité progressiste au courant modéré pour l'attribution du rôle de chef de la majorité.\n\nLes récents scrutins ont également marqué un changement dans plusieurs circonscriptions. Scott Colom a ainsi décroché un siège en devenant le premier sénateur démocrate élu dans l'État du Mississippi depuis l'année 1982. Ce succès global pousse les responsables du parti à débattre de l'organisation de leur direction à la Chambre des représentants comme au Sénat.\n\nLa contestation lancée par Chris Van Hollen oblige la formation démocrate à arbitrer sa ligne politique interne avant la prise de fonction de la nouvelle majorité. Les sénateurs démocrates devront choisir entre la continuité incarnée par Chuck Schumer et la direction proposée par le sénateur du Maryland.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "wset.com",
+     "url": "https://wset.com/news/nation-world/sen-van-hollen-floated-as-schumer-alternative-as-dems-debate-senate-house-leadership-chuck-schumer-jeffries"
+    },
+    {
+     "nom": "wcbm.com",
+     "url": "https://wcbm.com/local-story/van-hollen-to-challenge-schumer-for-senate-democratic-leader"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-13/van-hollen-challenges-schumer-for-senate-leader-in-new-congress"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader"
+    },
+    {
+     "nom": "abc7.com",
+     "url": "https://abc7.com/post/chris-van-hollen-challenge-chuck-schumer-senate-democratic-leader/20037297"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-senator-van-hollen-to-challenge-schumer-for-senate-majority-leader"
+    }
+   ],
+   "premiere_parution": "2026-11-12T03:51:31Z",
+   "suite_de": null,
+   "mots": 395,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-13-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les émissaires américains enchaînent les rencontres diplomatiques à Moscou puis à Dublin",
+   "chapeau": "Les émissaires américains Steve Witkoff et Jared Kushner se sont rendus à Moscou puis à Dublin le jeudi 12 novembre 2026 pour négocier la fin du conflit ukrainien. Ces représentants du président américain Donald Trump ont rencontré le chef d'État russe Vladimir Poutine au Kremlin avant de s'entretenir avec le président ukrainien Volodymyr Zelensky en Irlande.",
+   "corps": "Cette tournée diplomatique fait suite aux discussions menées pendant deux journées à Abou Dhabi entre des représentants de la Russie et de l'Ukraine, sous la médiation des États-Unis. Lors d'un épisode précédent survenu le jeudi 12 novembre 2026, l'arrivée de la délégation américaine à Moscou avait précédé son déplacement vers la capitale irlandaise pour y consulter la partie ukrainienne.\n\nÀ l'issue des échanges dans la capitale russe, l'émissaire américain Steve Witkoff et le président ukrainien Volodymyr Zelensky ont annoncé une avancée procédurale importante. Le chef d'État russe a donné son accord pour que des négociateurs européens participent aux prochaines sessions de discussions consacrées au conflit. Cette ouverture survient alors que les responsables politiques du continent européen se trouvaient rassemblés à Dublin en compagnie du dirigeant ukrainien.\n\nSur le fond des négociations, le président russe Vladimir Poutine a maintenu une position ferme quant à ses exigences globales pour mettre un terme aux hostilités. La seule concession formulée par le dirigeant du Kremlin concerne l'organisation d'un dispositif humanitaire à Kostiantynivka, une localité située dans la partie orientale de l'Ukraine. Selon les informations transmises à l'issue de cet entretien, ce projet s'inspire directement d'une initiative similaire conduite au début du mois de novembre à Olechky.\n\nDu côté ukrainien, Volodymyr Zelensky a exprimé l'espoir de voir cette séquence apporter des éléments précis de la part du pouvoir russe. Le président ukrainien a indiqué qu'il percevait une période favorable pour réaliser un progrès significatif dans le processus de négociation. Dans le même temps, les autorités de Kyiv ont signalé la résurgence de contraintes d'utilisation visant le système de défense aérienne Starshield, un équipement déployé auprès de leurs troupes situées sur le front.\n\nLe secrétaire général de l'Organisation du traité de l'Atlantique Nord s'est montré mesuré quant aux perspectives de règlement rapide de ce conflit qui atteignait son 1 723e jour le jeudi 12 novembre 2026. Interrogé par l'Agence France-Presse, le responsable de l'alliance militaire a déclaré qu'il demeurait complexe de déterminer si ces démarches rapprochaient l'Ukraine de la paix.\n\nLes informations concernant les modalités exactes des prochaines sessions de négociation n'ont pas été précisées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-12/us-envoys-witkoff-kushner-putin-talks-ukraine-zelenskyy-opportunity"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/enviados-estadounidenses-llegan-rusia-reunirse-putin-tras-20261112083347-nt.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261112-guerre-ukraine-mediateurs-etats-unis-moscou-dublin-conseil-politique-ue-zelensky"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-a-moscou-vladimir-poutine-reste-inflexible-face-aux-emissaires-americains-20261112"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/nato-chief-tells-afp-very-difficult-to-say-if-ukraine-peace-any-closer"
+    }
+   ],
+   "premiere_parution": "2026-11-11T08:47:10Z",
+   "suite_de": "2026-11-12-geopolitique-001",
+   "mots": 405,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-13-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les Etats-Unis et l'Ukraine annoncent la présence de l'Europe aux négociations",
+   "chapeau": "Les émissaires américains Jared Kushner et Steve Witkoff ont rencontré le président ukrainien Volodymyr Zelensky à Dublin le jeudi 12 novembre 2026 après des discussions à Moscou avec le président russe Vladimir Poutine. Les représentants américain et ukrainien ont déclaré que des délégués européens participeront aux prochaines négociations de paix entre l'Ukraine et la Russie.",
+   "corps": "Cette initiative fait suite aux rencontres menées le 12 novembre 2026 par les représentants de la présidence américaine en Russie puis en Irlande.\n\nLes émissaires de la présidence américaine, Jared Kushner et Steve Witkoff, ont tenu plus de quatre heures d'entretiens avec le président russe Vladimir Poutine au Kremlin le jeudi 12 novembre 2026. À l'issue de cette réunion à Moscou, les deux représentants américains se sont rendus directement à Dublin. Ils ont débriefé la situation tard dans la soirée avec le président ukrainien Volodymyr Zelensky.\n\nÀ la suite de cette entrevue en Irlande, Volodymyr Zelensky et Jared Kushner ont fait une déclaration commune. Le président ukrainien a affirmé que les représentants des pays d'Europe siégeront à la table du prochain cycle de discussions. Jared Kushner a souligné qu'aucun accord entre Kiev et Moscou ne pourra aboutir sans la participation directe des diplomates européens.\n\nSelon le journal Le Monde du 13 novembre 2026 à 08:00, les gouvernements européens réclament une place dans les pourparlers depuis plusieurs mois. Le journal Der Spiegel indique le 13 novembre 2026 à 01:46 que l'identité exacte des personnes destinées à représenter l'Europe lors des réunions ultérieures n'est pas encore établie.\n\nSur le fond des discussions, le président russe conserve ses positions d'origine. Les agences France 24 et RFI rapportent le 13 novembre 2026 que Vladimir Poutine refuse de revenir sur ses exigences initiales pour clore ce conflit commencé il y a près de cinq ans. Le dirigeant russe maintient ses revendications sur les territoires revendiqués. Il s'oppose également au déploiement de troupes étrangères de maintien de la paix sur le sol ukrainien, d'après les informations diffusées par Reuters le 12 novembre 2026 à 16:00.\n\nSur le terrain technique, le gouvernement ukrainien a signalé de nouvelles perturbations touchant le service de télécommunication par satellite Starshield. Le journal The Straits Times a fait part de cette interruption du service le 12 novembre 2026 à 21:14.\n\n## Ce que disent les sources\n\nLes agences Reuters, The Straits Times, Politico Europe et Der Spiegel déclarent que le président Vladimir Poutine a donné son accord ou s'est montré ouvert à la venue des Européens à la table des négociations. De leur côté, Le Monde et franceinfo affirment que le Kremlin n'a pas confirmé l'acceptation par le président russe de cette présence européenne pour les réunions à venir.\n\nLes informations concernant le lieu précis, la date exacte du futur cycle diplomatique ainsi que les noms des médiateurs européens ne sont pas communiquées.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/vladimir-putin-open-to-europe-joining-ukraine-peace-talks-steve-witkoff"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/ukrainekrieg-witkoff-kuendigt-beteiligung-europas-an-verhandlungen-an-a-aa8619e7-7ea6-4b1d-bf03-3bf4cf42e0a1"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-zelensky-affirme-que-l-europe-sera-a-la-table-des-prochaines-negociations-20261112"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-ukraine-say-europe-to-join-russia-talks-as-putin-sticks-to-hardline-stance/article71696395.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine"
+    }
+   ],
+   "premiere_parution": "2026-11-11T18:22:00Z",
+   "suite_de": "2026-11-12-geopolitique-001",
+   "mots": 469,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-13-tech-001",
+   "rubrique": "tech",
+   "format": "standard",
+   "titre": "Jensen Huang démissionne de la direction du fabricant de puces Nvidia",
+   "chapeau": "Jensen Huang a démissionné de son poste de directeur général de l'entreprise américaine Nvidia le jeudi 12 novembre 2026 à la suite de révélations sur plusieurs liaisons extraconjugales. La directrice financière Colette Kress prend la tête du fabricant de puces informatiques à titre intérimaire.",
+   "corps": "Le conseil d'administration de Nvidia s'est réuni le mercredi 11 novembre 2026 pour délibérer sur l'avenir de Jensen Huang. Le dirigeant a présenté sa démission le jeudi 12 novembre 2026, renonçant à la conduite du groupe qu'il a fondé.\n\nCette décision fait suite à la révélation de plusieurs relations extraconjugales maintenues par le fondateur du groupe. Les informations publiées font état d'une liaison avec une femme soupçonnée par les services de renseignement des États-Unis d'être une agente d'espionnage pour le gouvernement chinois. Le journal espagnol ABC indique le vendredi 13 novembre 2026 que cette femme se nomme Alice Huang, sans lien de parenté avec le dirigeant. Un homme d'affaires nommé Kang Wei a présenté Alice Huang à Jensen Huang. Kang Wei est l'époux d'Alice Huang.\n\nLes révélations concernent également deux salariées de l'entreprise Nvidia. Le journal The Hindu rapporte le vendredi 13 novembre 2026 que l'une de ces personnes est Kimberly Powell, vice-présidente chargée du secteur de la santé au sein de Nvidia. Deux sources proches du dossier ont confirmé au journal brésilien Folha de S.Paulo le vendredi 13 novembre 2026 l'existence d'une relation avec une seconde employée du groupe, ce qui porte à trois le nombre de liaisons recensées.\n\nLe départ du fondateur entraîne des changements dans la direction. La directrice financière Colette Kress assume la direction générale par intérim. Elle occupe cette fonction jusqu'à la désignation d'un successeur permanent par le conseil d'administration.\n\nLes marchés financiers ont réagi à ce changement de direction. Le cours des actions de Nvidia a enregistré une baisse. Les observateurs économiques notent des répercussions sur l'ensemble du secteur des technologies d'intelligence artificielle.\n\nSelon des informations transmises à Bloomberg le vendredi 13 novembre 2026 par une personne familière de la situation, Jensen Huang a opposé une résistance pendant plusieurs semaines aux accusations avant de céder tard dans la nuit du mercredi 11 novembre 2026. La source décrit un changement d'attitude du dirigeant lors de ses dernières heures à son poste, affirmant que Jensen Huang a exprimé son détachement par des formules abandonnant le contrôle de la situation.\n\nCertaines informations détaillées sur le calendrier de nomination du futur directeur général permanent ne sont pas disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-12/jensen-huang-mantuvo-una-tercera-relacion-extramarital-con-una-empleada-de-nvidia.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-manteve-terceiro-caso-extraconjugal-diz-reuters.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c6wy9l859r94o"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/inside-jensen-huangs-last-hours-as-nvidia-ceo"
+    }
+   ],
+   "premiere_parution": "2026-11-11T00:37:34Z",
+   "suite_de": "2026-11-12-tech-001",
+   "mots": 405,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-13-tech-001",
+  "2026-11-13-monde-001",
+  "2026-11-13-geopolitique-001",
+  "2026-11-13-monde-002",
+  "2026-11-13-geopolitique-002",
+  "2026-11-13-monde-003"
+ ]
+}

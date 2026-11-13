@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-12T07:55:34Z",
- "derniere": "2026-11-12",
+ "maj": "2026-11-13T07:26:04Z",
+ "derniere": "2026-11-13",
  "editions": [
+  {
+   "date": "2026-11-13",
+   "genere_a": "2026-11-13T07:26:04Z",
+   "articles": 6,
+   "une": [
+    "Jensen Huang démissionne de la direction du fabricant de puces Nvidia",
+    "Scott Colom remporte le siège de sénateur des États-Unis dans le Mississippi",
+    "Les émissaires américains enchaînent les rencontres diplomatiques à Moscou puis à Dublin"
+   ],
+   "octets": 27783
+  },
   {
    "date": "2026-11-12",
    "genere_a": "2026-11-12T07:55:34Z",

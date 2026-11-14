@@ -1,6 +1,40 @@
 {
- "maj": "2026-11-14T01:51:57Z",
+ "maj": "2026-11-14T22:36:36Z",
  "alertes": [
+  {
+   "id": "2026-11-15-alerte-01",
+   "date": "2026-11-15",
+   "publiee_a": "2026-11-14T22:36:36Z",
+   "titre": "Découverte d'une bombe dans une usine en Illinois aux États-Unis",
+   "texte": "Les autorités américaines ont découvert un engin explosif vendredi 13 novembre 2026 sur le site de BioUrja Renewables à Peoria, dans l'Illinois. Les forces de l'ordre ont fait évacuer les riverains dans un rayon d'un mille avant de désamorcer la bombe.",
+   "sources": [
+    {
+     "nom": "fox23.com",
+     "url": "https://fox23.com/news/nation-world/headline-11-14-2026"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device"
+    }
+   ],
+   "cluster": "03954f8828fb6ac0",
+   "urls": [
+    "https://fox23.com/news/nation-world/headline-11-14-2026",
+    "https://foxreno.com/news/nation-world/headline-11-14-2026",
+    "https://local21news.com/news/nation-world/headline-11-14-2026",
+    "https://npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+    "https://straitstimes.com/world/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device",
+    "https://theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
+   ]
+  },
   {
    "id": "2026-11-14-alerte-01",
    "date": "2026-11-14",
@@ -1352,189 +1386,6 @@
     "https://thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece",
     "https://wkms.org/npr-news/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
     "https://wrvo.org/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
-   ]
-  },
-  {
-   "id": "2026-11-07-alerte-03",
-   "date": "2026-11-07",
-   "publiee_a": "2026-11-07T19:32:02Z",
-   "titre": "Une fusillade fait au moins six morts samedi à Cracovie",
-   "texte": "Un individu a abattu au moins six personnes samedi 7 novembre sur la place centrale de Cracovie, en Pologne. Les forces de l'ordre ont blessé par balle le suspect puis l'ont interpellé.",
-   "sources": [
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/homem-mata-a-tiros-ao-menos-5-e-fere-10-pessoas-na-principal-praca-de-cracovia-na-polonia.shtml"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/pologne-une-fusillade-a-cracovie-fait-cinq-morts-le-tireur-interpelle-20261107"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
-    }
-   ],
-   "cluster": "0ab5db8d29170bde",
-   "urls": [
-    "https://abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html",
-    "https://cancan.ro/tragedie-in-polonia-cel-putin-sase-morti-si-15-raniti-dupa-un-atac-armat-in-centrul-cracoviei-21543602",
-    "https://dw.com/de/polen-sch%C3%BCtze-feuert-in-krakau-aus-auto-mehrere-tote/a-79887202",
-    "https://dw.com/pt-br/ataque-a-tiros-no-centro-de-crac%C3%B3via-deixa-ao-menos-seis-mortos/a-79887404",
-    "https://dw.com/uk/strilanina-v-centri-krakova-patero-zagiblih-ponad-desatok-poranenih-napadnika-zatrimali/a-79887319",
-    "https://eldiariodechihuahua.mx/estados-unidos/2026/nov/07/deja-tiroteo-5-muertos-en-plaza-publica-de-cracovia-polonia-855314.html",
-    "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-    "https://focus.ua/world/773954-strelba-v-krakove-policiya-zaderzhala-prestupnika-foto",
-    "https://france24.com/fr/europe/20261107-fusillade-pologne-au-moins-cinq-morts-plusieurs-bless%C3%A9s-tireur-interpell%C3%A9",
-    "https://franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html",
-    "https://la-croix.com/international/pologne-une-fusillade-a-cracovie-fait-cinq-morts-le-tireur-interpelle-20261107",
-    "https://lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
-    "https://lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
-    "https://liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM",
-    "https://regionews.ua/ukr/news/world/1794066648-u-krakovi-nevidomi-vidkrili-strilyaninu-z-avtomobilya-e-zhertvi",
-    "https://rfi.fr/fr/europe/20261107-pologne-fusillade-dans-le-centre-de-cracovie-le-tireur-interpell%C3%A9",
-    "https://spiegel.de/ausland/krakau-tote-und-verletzte-nach-schuessen-in-polen-a-706b54e1-b14f-4068-bf4d-be1aae44cf29",
-    "https://stuttgarter-zeitung.de/politik/krakau-fuenf-tote-und-zehn-verletzte-nach-schuessen-in-polen-79676083.html",
-    "https://www1.folha.uol.com.br/mundo/2026/11/homem-mata-a-tiros-ao-menos-5-e-fere-10-pessoas-na-principal-praca-de-cracovia-na-polonia.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-07-alerte-02",
-   "date": "2026-11-07",
-   "publiee_a": "2026-11-07T13:15:54Z",
-   "titre": "Gaël Monfils devient le capitaine des Bleus en Coupe Davis",
-   "texte": "La Fédération française de tennis a désigné Gaël Monfils au rôle de sélectionneur de l'équipe nationale ce samedi 7 novembre 2026. L'ex-joueur de 40 ans prend la suite de Paul-Henri Mathieu après l'arrêt officiel de sa carrière sportive.",
-   "sources": [
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Tennis/Actualites/Gael-monfils-tres-bientot-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis/1741870"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/tennis/coupe-davis/tennis-le-nouveau-defi-de-gael-monfils-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis-20261107"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/11/07/a-peine-retraite-gael-monfils-est-nomme-capitaine-des-bleus-en-coupe-davis_6808273_3242.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU"
-    }
-   ],
-   "cluster": "38d53198bff52077",
-   "urls": [
-    "https://franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html",
-    "https://lefigaro.fr/sports/tennis/coupe-davis/tennis-le-nouveau-defi-de-gael-monfils-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis-20261107",
-    "https://lemonde.fr/sport/article/2026/11/07/a-peine-retraite-gael-monfils-est-nomme-capitaine-des-bleus-en-coupe-davis_6808273_3242.html",
-    "https://lequipe.fr/Tennis/Actualites/Gael-monfils-tres-bientot-nomme-capitaine-de-l-equipe-de-france-de-coupe-davis/1741870",
-    "https://lequipe.fr/Tennis/Actualites/La-fft-officialise-la-nomination-de-gael-monfils-comme-capitaine-de-l-equipe-de-france-de-coupe-davis/1741876",
-    "https://liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU"
-   ]
-  },
-  {
-   "id": "2026-11-07-alerte-01",
-   "date": "2026-11-07",
-   "publiee_a": "2026-11-06T23:23:57Z",
-   "titre": "Donald Trump nomme Stephen Miller comme nouveau directeur de cabinet",
-   "texte": "Le président américain Donald Trump a désigné son conseiller Stephen Miller au poste de directeur de cabinet de la Maison Blanche. Cette nomination survient après les élections de mi-mandat aux États-Unis.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/amerique/remaniement-apres-la-debacle-des-midterms-trump-fait-de-lun-de-ses-conseillers-les-plus-durs-son-nouveau-directeur-de-cabinet-20261106_PHPMB444VVGXVLFBAOER5VTRNA"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-11-06/bloomberg-businessweek-daily-xx-xx-2026-video"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_novembre_06/trump-promuove-il-falco-stephen-miller-e-si-prepara-alla-guerra-col-congresso-96abeed6-1693-4281-8bc9-411d6876dxlk.shtml"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/before-his-promotion-stephen-miller-designed-trumps-immigration-crackdown"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
-    }
-   ],
-   "cluster": "d8bd3965b3bf3456",
-   "urls": [
-    "https://abc.es/internacional/trump-sacrifica-jefa-gabinete-entrega-casa-blanca-20261106200437-nt.html",
-    "https://aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff",
-    "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff",
-    "https://aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things",
-    "https://bbc.co.uk/news/articles/cm9qzz5x9g5yo",
-    "https://bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff",
-    "https://bloomberg.com/news/videos/2026-11-06/bloomberg-businessweek-daily-xx-xx-2026-video",
-    "https://bloomberg.com/news/videos/2026-11-06/trump-names-stephen-miller-to-replace-susie-wiles-video",
-    "https://bloomberg.com/news/videos/2026-11-06/trump-taps-miller-to-replace-wiles-as-chief-of-staff-video",
-    "https://corriere.it/esteri/26_novembre_06/stephen-miller-capo-staff-trump-a6c90bb7-b308-4e28-ab1a-a0a591c16xlk.shtml",
-    "https://corriere.it/esteri/26_novembre_06/trump-promuove-il-falco-stephen-miller-e-si-prepara-alla-guerra-col-congresso-96abeed6-1693-4281-8bc9-411d6876dxlk.shtml",
-    "https://die-glocke.de/blick-in-die-welt/politik/artikel/trumps-stabschefin-wiles-geht-1793991903",
-    "https://dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571",
-    "https://dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html",
-    "https://english.elpais.com/usa/2026-11-06/trump-names-architect-of-his-immigration-policy-stephen-miller-as-white-house-chief-of-staff.html",
-    "https://france24.com/fr/am%C3%A9riques/20261106-stephen-miller-figure-de-la-droite-identitaire-devient-le-nouveau-directeur-de-cabinet-de-trump",
-    "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html",
-    "https://ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
-    "https://haaretz.com/us-news/2026-11-06/ty-article/trump-names-far-right-pro-israel-stephen-miller-as-white-house-chief-of-staff/000001a1-b245-d2e9-a5ad-badf186e0000",
-    "https://jamaica-gleaner.com/article/world-news/20261106/stephen-miller-replaces-susie-wiles-trumps-white-house-chief-staff",
-    "https://la-croix.com/stephen-miller-representant-de-la-droite-identitaire-promu-directeur-de-cabinet-de-trump-20261106",
-    "https://lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
-    "https://liberation.fr/international/amerique/remaniement-apres-la-debacle-des-midterms-trump-fait-de-lun-de-ses-conseillers-les-plus-durs-son-nouveau-directeur-de-cabinet-20261106_PHPMB444VVGXVLFBAOER5VTRNA",
-    "https://npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
-    "https://nvdaily.com/associated_press_national/the-latest-trump-replaces-susie-wiles-with-stephen-miller-as-white-house-chief-of-staff/article_62d71405-0bcb-5404-b092-4adc4c7d4fbf.html",
-    "https://reflector.com/news/national/the-latest-trump-replaces-susie-wiles-with-stephen-miller-as-white-house-chief-of-staff/article_27be269b-12ce-5b23-a11f-09cf9e68ebf6.html",
-    "https://sbs.com.au/news/article/stephen-miller-white-house-chief-of-staff-donald-trump-midterm-election/2vgxun4qf",
-    "https://spiegel.de/ausland/usa-donald-trump-ersetzt-stabschefin-susie-wiles-stephen-miller-soll-nachfolgen-a-2c11d3f6-4f4d-43d3-923a-c17f6695c082",
-    "https://straitstimes.com/world/before-his-promotion-stephen-miller-designed-trumps-immigration-crackdown",
-    "https://straitstimes.com/world/united-states/trump-promotes-stephen-miller-to-chief-of-staff-role-replacing-susie-wiles",
-    "https://theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-    "https://theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-    "https://thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece",
-    "https://theyeshivaworld.com/news/general/2620197/%F0%9F%9A%A8-trump-names-stephen-miller-new-white-house-chief-of-staff-as-susie-wiles-steps-down-following-gop-election-disaster.html",
-    "https://wjbo.iheart.com/content/2026-11-06-trump-names-stephen-miller-new-chief-of-staff",
-    "https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-chefe-de-gabinete-de-trump-tem-relacao-proxima-com-bolsonaristas.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-historica-trump-promove-stephen-miller-a-chefe-de-gabinete-sinalizando-radicalizacao.shtml"
    ]
   }
  ]

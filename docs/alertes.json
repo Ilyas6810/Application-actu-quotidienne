@@ -1,6 +1,193 @@
 {
- "maj": "2026-11-12T20:13:50Z",
+ "maj": "2026-11-14T01:51:57Z",
  "alertes": [
+  {
+   "id": "2026-11-14-alerte-01",
+   "date": "2026-11-14",
+   "publiee_a": "2026-11-14T01:36:52Z",
+   "titre": "L'aviation américaine suspend tous les vols après une panne télécom",
+   "texte": "L'administration fédérale de l'aviation américaine a ordonné la suspension des décollages sur tout le territoire national le 14 novembre 2026. Cette décision fait suite à une défaillance générale des systèmes de communication des centres de contrôle aérien.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-14/balance-of-power-late-edition-11-13-2026-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-14/all-flights-grounded-across-the-us-over-extraordinary-circumstances-and-security-concerns.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/i-may-lose-my-mind-frustrated-travellers-stuck-in-us-flight-havoc"
+    }
+   ],
+   "cluster": "25fd0a2211d5a6bb",
+   "urls": [
+    "https://aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
+    "https://aljazeera.com/news/liveblog/2026/11/13/groundling-live",
+    "https://aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication",
+    "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history",
+    "https://bloomberg.com/news/videos/2026-11-13/faa-grounds-all-flights-nationwide-video",
+    "https://bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video",
+    "https://bloomberg.com/news/videos/2026-11-13/flights-halted-across-us-faa-cites-safety-reasons-video",
+    "https://bloomberg.com/news/videos/2026-11-13/lahood-says-antiquated-faa-system-likely-failed-video",
+    "https://bloomberg.com/news/videos/2026-11-14/balance-of-power-late-edition-11-13-2026-video",
+    "https://bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
+    "https://dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-xml-mrss",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_13?evenement=710734e239",
+    "https://english.elpais.com/usa/2026-11-14/all-flights-grounded-across-the-us-over-extraordinary-circumstances-and-security-concerns.html",
+    "https://ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+    "https://gazetteseries.co.uk/news/national/26729050.flights-halted-us-airports-amid-air-traffic-control-communications-problems",
+    "https://haaretz.com/us-news/2026-11-13/ty-article/u-s-aviation-agency-grounds-all-departing-flights-due-to-safety-reasons/000001a1-d6cb-d1ce-a9a3-f6db644f0000",
+    "https://nbcmiami.com/news/national-international/faa-ground-stop-nationwide-us-airports/3887941",
+    "https://news9.com/oklahoma-city-news/faa-reportedly-issues-nationwide-ground-stop",
+    "https://npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+    "https://nvdaily.com/associated_press_national/flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems/article_12788846-910a-5845-a4f3-0a4a98735b83.html",
+    "https://reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13",
+    "https://securityinfowatch.com/industry-news/news/55418972/faa-orders-nationwide-ground-stop-amid-air-traffic-control-communications-outage",
+    "https://straitstimes.com/world/united-states/i-may-lose-my-mind-frustrated-travellers-stuck-in-us-flight-havoc",
+    "https://straitstimes.com/world/united-states/us-faa-grounds-all-departing-flights-due-to-extraordinary-circumstance-safety-reasons",
+    "https://theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+    "https://theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+    "https://theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+    "https://theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912"
+   ]
+  },
+  {
+   "id": "2026-11-14-alerte-02",
+   "date": "2026-11-14",
+   "publiee_a": "2026-11-14T01:45:37Z",
+   "titre": "SpaceX annule la capture du premier étage de sa fusée Starship",
+   "texte": "L'entreprise SpaceX a lancé la fusée Starship depuis la base de Starbase au Texas le vendredi 13 novembre 2026. La société américaine a renoncé à rattraper le premier étage du lanceur en raison d'un problème technique.",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ciencia/2026/11/pela-1a-vez-spacex-tentara-pousar-propulsor-e-nave-do-starship-no-mesmo-teste.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sciences/en-raison-d-un-probleme-technique-spacex-renonce-a-recuperer-le-premier-etage-de-sa-megafusee-starship-20261114"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_novembre_13/starship-stanotte-la-sfida-del-doppio-recupero-la-torre-provera-a-riprendere-al-volo-sia-il-booster-sia-la-navicella-f0d2c1a2-fe20-4807-9a7e-c337fb697xlk.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckregdgnl0xpo"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/ciencia/previa-starship-vuelo-20261113182525-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+    }
+   ],
+   "cluster": "7e24566af98a62e1",
+   "urls": [
+    "https://abc.es/ciencia/previa-starship-vuelo-20261113182525-nt.html",
+    "https://bbc.co.uk/news/articles/ckregdgnl0xpo",
+    "https://bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video",
+    "https://corriere.it/tecnologia/26_novembre_13/starship-stanotte-la-sfida-del-doppio-recupero-la-torre-provera-a-riprendere-al-volo-sia-il-booster-sia-la-navicella-f0d2c1a2-fe20-4807-9a7e-c337fb697xlk.shtml",
+    "https://ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+    "https://lefigaro.fr/sciences/en-raison-d-un-probleme-technique-spacex-renonce-a-recuperer-le-premier-etage-de-sa-megafusee-starship-20261114",
+    "https://lefigaro.fr/sciences/pour-la-premiere-fois-spacex-va-tenter-de-rattraper-les-deux-etages-de-starship-20261113",
+    "https://theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+    "https://www1.folha.uol.com.br/ciencia/2026/11/pela-1a-vez-spacex-tentara-pousar-propulsor-e-nave-do-starship-no-mesmo-teste.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-14-alerte-03",
+   "date": "2026-11-14",
+   "publiee_a": "2026-11-14T01:51:57Z",
+   "titre": "L'Agence fédérale de l'aviation américaine interrompt tous les vols nationaux",
+   "texte": "L'Agence fédérale de l'aviation a ordonné la suspension de tous les vols aux États-Unis le vendredi 13 novembre 2026. Le régulateur explique cette mesure par un problème de communication touchant les centres de contrôle du trafic.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/usa-luftfahrtaufsicht-verhaengt-landesweiten-flugstopp-a-b9af612f-04c1-4e44-ab9e-476361bfae5c"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/video-mostra-trafego-aereo-dos-eua-caindo-em-tempo-real-apos-suspensao-veja.shtml"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/economia/trasporti/aerei/26_novembre_13/fermi-tutti-aerei-stati-uniti-guasto-479d63fd-0027-46bd-88ec-5fd7ea94dxlk.shtml"
+    }
+   ],
+   "cluster": "2b43b6676ed58df9",
+   "urls": [
+    "https://24-ore.com/shba-ndalon-te-fluturimet-cfare-dihet-deri-tani-per-kaosin-ne-aeroporte",
+    "https://abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
+    "https://corriere.it/economia/trasporti/aerei/26_novembre_13/fermi-tutti-aerei-stati-uniti-guasto-479d63fd-0027-46bd-88ec-5fd7ea94dxlk.shtml",
+    "https://elpais.com/america/2026-11-13/el-caos-aereo-en-estados-unidos-en-imagenes-pasajeros-varados-y-vuelos-suspendidos-en-todo-el-pais.html",
+    "https://elpais.com/us/2026-11-13/asi-se-vacio-el-cielo-de-estados-unidos-tras-la-suspension-de-los-vuelos.html",
+    "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html",
+    "https://france24.com/fr/am%C3%A9riques/20261113-%C3%A9tats-unis-tous-les-vols-arr%C3%AAt%C3%A9s-dans-les-a%C3%A9roports-du-pays-en-raison-d-un-probl%C3%A8me-de-communication",
+    "https://franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html",
+    "https://lefigaro.fr/international/etats-unis-le-regulateur-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication-20261113",
+    "https://lemonde.fr/international/article/2026/11/13/aux-etats-unis-l-agence-de-l-aviation-civile-ordonne-l-arret-de-tous-les-vols-en-raison-d-un-probleme-de-communication_6809389_3210.html",
+    "https://liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI",
+    "https://rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication",
+    "https://spiegel.de/panorama/usa-luftfahrtaufsicht-verhaengt-landesweiten-flugstopp-a-b9af612f-04c1-4e44-ab9e-476361bfae5c",
+    "https://www1.folha.uol.com.br/mercado/2026/11/empresa-aerea-tem-de-custear-alimentacao-apos-duas-horas-de-atraso-de-voo-conheca-os-direitos.shtml",
+    "https://www1.folha.uol.com.br/mercado/2026/11/falha-de-comunicacao-suspende-voos-nos-eua-entenda-como-funciona-o-controle-aereo.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/suspensao-total-de-voos-nos-eua-so-aconteceu-duas-vezes-em-25-anos.shtml",
+    "https://www1.folha.uol.com.br/mundo/2026/11/video-mostra-trafego-aereo-dos-eua-caindo-em-tempo-real-apos-suspensao-veja.shtml"
+   ]
+  },
   {
    "id": "2026-11-13-alerte-01",
    "date": "2026-11-13",
@@ -1348,218 +1535,6 @@
     "https://wjbo.iheart.com/content/2026-11-06-trump-names-stephen-miller-new-chief-of-staff",
     "https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-chefe-de-gabinete-de-trump-tem-relacao-proxima-com-bolsonaristas.shtml",
     "https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-historica-trump-promove-stephen-miller-a-chefe-de-gabinete-sinalizando-radicalizacao.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-06-alerte-01",
-   "date": "2026-11-06",
-   "publiee_a": "2026-11-05T23:46:36Z",
-   "titre": "Le président du Paraguay Santiago Peña démissionne après une crise bancaire",
-   "texte": "Le président du Paraguay Santiago Peña a annoncé sa démission le jeudi 5 novembre 2026 à Asunción. Sa décision fait suite au gel des avoirs de l'établissement Ueno Bank qui touche des millions de clients.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/explainer-what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/11/05/trumpgezinde-president-pena-zwaait-af-nu-bijna-helft-paraguayanen-niet-bij-bankrekening-kan-a4940657"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://c-level.folha.uol.com.br/financas/2026/11/veja-em-dez-pontos-as-semelhancas-e-diferencas-entre-ueno-bank-e-banco-master.shtml"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/dimite-presidente-paraguay-arrastrado-escandalo-ueno-bank-20261105173812-nt.html"
-    }
-   ],
-   "cluster": "6d1f7b48d31338a9",
-   "urls": [
-    "https://abc.es/internacional/dimite-presidente-paraguay-arrastrado-escandalo-ueno-bank-20261105173812-nt.html",
-    "https://aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
-    "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f",
-    "https://bbc.co.uk/news/articles/c6p9g39vln3yo",
-    "https://bloomberg.com/news/articles/2026-11-04/paraguay-names-new-central-banker-after-lender-is-taken-over",
-    "https://bloomberg.com/news/articles/2026-11-05/paraguay-s-pena-resigns-amid-ueno-bank-crisis-abc-reports-mw3qgdu9",
-    "https://c-level.folha.uol.com.br/financas/2026/11/veja-em-dez-pontos-as-semelhancas-e-diferencas-entre-ueno-bank-e-banco-master.shtml",
-    "https://corriere.it/esteri/26_novembre_05/paraguay-crac-della-banca-ueno-impedito-l-accesso-ai-conti-a-tre-di-milioni-di-clienti-il-presidente-pena-si-dimette-621d30ec-1aca-4452-84d4-477e3834cxlk.shtml",
-    "https://dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/paraguay-s-president-santiago-pena-resigns-amid-a-bank-crisis-that-froze-millions-of-customers-accounts-and-sparked-protests/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/america/2026-11-05/santiago-pena-renuncia-a-la-presidencia-de-paraguay-jaqueado-por-un-escandalo-financiero.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5?evenement=cfebc1a20e",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5?evenement=e1673394d3",
-    "https://france24.com/es/minuto-a-minuto/20261105-santiago-peña-renuncia-a-la-presidencia-de-paraguay-en-medio-del-escándalo-de-ueno-bank",
-    "https://france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national",
-    "https://franceinfo.fr/monde/ameriques/au-paraguay-le-president-santiago-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire_8269847.html",
-    "https://franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html",
-    "https://la-croix.com/international/paraguay-le-president-pena-annonce-sa-demission-dans-la-foulee-d-une-crise-bancaire-20261105",
-    "https://lefigaro.fr/international/paraguay-la-crise-bancaire-contraint-le-president-santiago-pena-a-demissionner-20261105",
-    "https://lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
-    "https://liberation.fr/international/amerique/paraguay-embourbe-dans-une-crise-bancaire-le-president-santiago-pena-demissionne-20261105_U6AQHGHZAJAORFDMR5GRSLIFCI",
-    "https://npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-    "https://nrc.nl/nieuws/2026/11/05/trumpgezinde-president-pena-zwaait-af-nu-bijna-helft-paraguayanen-niet-bij-bankrekening-kan-a4940657",
-    "https://reuters.com/world/americas/paraguay-president-pea-resigns-under-mounting-pressure-bank-collapse-2026-11-05",
-    "https://spiegel.de/ausland/paraguay-praesident-santiago-pena-tritt-nach-bankenskandal-zurueck-a-60b496c3-7c63-4504-a2f4-65becb965ca5",
-    "https://straitstimes.com/world/explainer-what-is-ueno-bank-and-how-did-it-trigger-paraguays-political-crisis",
-    "https://straitstimes.com/world/paraguay-bank-crisis-spurs-lawmakers-calls-to-impeach-president",
-    "https://straitstimes.com/world/paraguay-congress-begins-session-to-debate-president-penas-impeachment",
-    "https://straitstimes.com/world/paraguay-president-pena-resigns-under-mounting-pressure-from-bank-collapse",
-    "https://straitstimes.com/world/paraguays-central-bank-chief-resigns-at-presidents-request-as-digital-lender-crisis-deepens",
-    "https://theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-    "https://www1.folha.uol.com.br/mundo/2026/11/com-impeachment-pos-massacre-e-assassinato-de-vice-paraguai-teve-outros-dois-lideres-que-nao-terminaram-mandato.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/11/escandalo-do-ueno-bank-foi-estopim-mas-nao-causa-da-queda-de-pena.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/11/santiago-pena-presidente-do-paraguai-renuncia-apos-escandalo-financeiro.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-06-alerte-02",
-   "date": "2026-11-06",
-   "publiee_a": "2026-11-05T23:47:56Z",
-   "titre": "Des centaines de milliers de personnes ont manifesté jeudi en France",
-   "texte": "Les syndicats et les étudiants ont manifesté à travers la France le jeudi 5 novembre 2026 pour réclamer une hausse du pouvoir d'achat. Le ministère de l'Intérieur a comptabilisé 575 000 participants dans le pays, tandis que la CGT en a revendiqué 1,6 million.",
-   "sources": [
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/france/20261105-%C3%A7a-fait-des-ann%C3%A9es-qu-on-attend-que-%C3%A7a-converge-en-france-salari%C3%A9s-et-lyc%C3%A9ens-ont-manifest%C3%A9-en-masse-ce-jeudi"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
-    }
-   ],
-   "cluster": "15f75547b9ba3349",
-   "urls": [
-    "https://abc.es/internacional/francia-vuelve-calles-huelga-general-amplio-despliegue-20261105141142-nt.html",
-    "https://aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles",
-    "https://aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action",
-    "https://bbc.co.uk/news/articles/ckx2qzv835pgo",
-    "https://centralwesterndaily.com.au/story/9386841/numbers-surge-in-french-protests-as-unions-join-strikes",
-    "https://dw.com/en/france-more-than-600-000-people-protest-as-cost-of-living-anger-grows/a-79860616?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/france-more-than-600000-protest-as-anger-grows-over-cost-of-living/a-79860616",
-    "https://elpais.com/internacional/2026-11-05/francia-afronta-un-jueves-de-protestas-y-manifestaciones-masivas-en-todo-el-pais.html",
-    "https://france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
-    "https://france24.com/fr/vid%C3%A9o/20261105-france-manifestations-dans-plusieurs-villes-ce-5-novembre",
-    "https://france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-jusqu-%C3%A0-700-000-manifestants-attendus-partout-dans-le-pays",
-    "https://france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-le-cort%C3%A8ge-devrait-rassembler-entre-40-000-et-80-000-manifestants-%C3%A0-paris",
-    "https://france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ves-en-france-comment-les-manifestations-sont-vues-de-l-%C3%A9tranger",
-    "https://france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-un-appel-%C3%A0-la-gr%C3%A8ve-d-ampleur-nationale",
-    "https://franceinfo.fr/economie/greve/greve/meme-les-steaks-haches-c-est-devenu-un-grand-luxe-les-corteges-contre-la-vie-chere-font-le-plein-en-france_8269823.html",
-    "https://franceinfo.fr/economie/greve/greve/pres-de-1-6-million-de-personnes-ont-defile-en-france-lors-de-la-mobilisation-du-5-novembre-selon-la-cgt-575-000-selon-le-ministere-de-l-interieur_8269868.html",
-    "https://franceinfo.fr/economie/greve/greve/reportage-je-continue-de-croire-au-changement-de-douai-a-limoges-en-passant-par-paris-les-corteges-du-5-novembre-font-le-plein-et-s-interrogent-sur-la-suite_8269412.html",
-    "https://ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
-    "https://la-croix.com/societe/live-greve-jeudi-5-novembre-transports-sncf-ratp-ecole-manifestations-france-aujourdhui-20261105",
-    "https://lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105",
-    "https://lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
-    "https://lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
-    "https://lemonde.fr/videos/video/2026/11/05/greve-du-5-novembre-les-images-des-manifestations-partout-en-france_6807333_1669088.html",
-    "https://liberation.fr/economie/social/manifestations-du-5-novembre-on-voit-que-ce-nest-pas-fini-20261105_OZT5RGYRKVGDHFP24UPDPVIISY",
-    "https://liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I",
-    "https://rfi.fr/fr/france/20261105-%C3%A7a-fait-des-ann%C3%A9es-qu-on-attend-que-%C3%A7a-converge-en-france-salari%C3%A9s-et-lyc%C3%A9ens-ont-manifest%C3%A9-en-masse-ce-jeudi",
-    "https://rfi.fr/fr/france/20261105-en-direct-gr%C3%A8ve-du-5-novembre-la-col%C3%A8re-sociale-monte-d-un-cran-des-manifestations-attendues-partout-en-france",
-    "https://spiegel.de/ausland/frankreich-mehr-als-250-000-menschen-demonstrieren-zum-generalstreik-a-3487beed-37b0-48d6-8113-6b28079566c5",
-    "https://theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-    "https://www1.folha.uol.com.br/mundo/2026/11/manifestantes-voltam-as-ruas-da-franca-e-entram-em-confronto-com-policiais-torre-eiffel-e-fechada.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-06-alerte-03",
-   "date": "2026-11-06",
-   "publiee_a": "2026-11-05T23:51:48Z",
-   "titre": "Le gouverneur de Californie commue les peines des condamnés à mort",
-   "texte": "Le gouverneur Gavin Newsom a annoncé jeudi 5 novembre 2026 le remplacement du châtiment suprême par la prison à perpétuité pour les détenus de son État. Cette mesure concerne plus de 500 prisonniers qui purgeront leur sanction sans possibilité de libération conditionnelle.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/etats-uniens-le-gouverneur-de-californie-annonce-commuer-les-548-peines-de-mort-dans-l-etat-20261105"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/california-governor-newsom-says-commuting-all-death-sentences-in-state"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqrkyyd2j8mvo"
-    }
-   ],
-   "cluster": "2e8a136dfae03bb2",
-   "urls": [
-    "https://abc.es/internacional/gobernador-california-conmuta-penas-muerte-estado-cadena-20261105203959-nt.html",
-    "https://bbc.co.uk/news/articles/cqrkyyd2j8mvo",
-    "https://dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_5?evenement=10236412a9",
-    "https://franceinfo.fr/monde/usa/le-gouverneur-de-californie-va-transformer-toutes-les-peines-de-mort-dans-l-etat-en-prison-a-perpetuite_8269928.html",
-    "https://kcra.com/article/newsom-commutes-548-california-death-sentences/74348779",
-    "https://la-croix.com/international/etats-uniens-le-gouverneur-de-californie-annonce-commuer-les-548-peines-de-mort-dans-l-etat-20261105",
-    "https://lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
-    "https://liberation.fr/international/amerique/etats-unis-le-gouverneur-de-californie-va-accorder-une-grace-partielle-aux-548-condamnes-a-mort-son-etat-20261105_UQ6UV5FXVZHOZKHQEBLZHG5SSM",
-    "https://nvdaily.com/associated_press_national/california-gov-newsom-says-he-will-commute-all-death-sentences-in-state-to-life-without/article_c2bd3e6a-8ccc-5ddd-8526-7e48dc0b53dd.html",
-    "https://reflector.com/news/national/california-gov-newsom-says-he-will-commute-all-death-sentences-in-state-to-life-without/article_2a06bcd8-b533-55ff-ba8a-4c57cb03352c.html",
-    "https://spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c",
-    "https://straitstimes.com/world/united-states/california-governor-newsom-says-commuting-all-death-sentences-in-state",
-    "https://www1.folha.uol.com.br/mundo/2026/11/governador-da-california-cancela-pena-de-morte-de-548-pessoas.shtml"
    ]
   }
  ]

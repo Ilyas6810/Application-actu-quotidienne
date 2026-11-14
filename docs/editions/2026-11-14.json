@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-14",
+ "genere_a": "2026-11-14T07:17:15Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-14-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les États-Unis suspendent puis reprennent leurs vols après une panne",
+   "chapeau": "L'autorité fédérale de l'aviation américaine a ordonné une interruption nationale des décollages le vendredi 13 novembre 2026. Cette mesure d'urgence a bloqué des milliers de vols et des millions de passagers à travers les États-Unis.",
+   "corps": "L'Administration fédérale de l'aviation (FAA) a imposé une interdiction de décollage à l'échelle nationale pour des raisons de sécurité. Les avions déjà en vol ont reçu l'autorisation d'atterrir. Les appareils au sol ont dû suspendre leurs départs de tous les aéroports américains. L'interdiction a été levée après plusieurs heures d'interruption.\n\nCette décision fait suite à un problème de communication d'envergure. La panne de télécommunication a affecté l'ensemble des centres de contrôle de la circulation aérienne sur le territoire. Il s'agit de la seconde mesure de blocage national de cette nature depuis les attentats du 11 septembre 2001.\n\nSelon The Guardian, au moins 7 000 vols ont subi des retards ou des annulations le 14 novembre 2026. D'après The Hindu, cette décision a perturbé le trajet de plus d'un million de voyageurs d'une côte à l'autre du pays le 14 novembre 2026. La mesure a provoqué d'importants encombrements dans les réseaux de transport aérien.\n\nLes autorités de l'administration du président Donald Trump ont exclu l'hypothèse d'une cyberattaque. Elles ont également affirmé que l'événement n'était pas lié à la panne informatique de la société Microsoft. Les responsables gouvernementaux expliquent le dysfonctionnement par la surcharge et la détérioration d'équipements devenus obsolètes.\n\nDes représentants officiels ont avancé que l'intégration de nouvelles technologies avait surchargé le matériel ancien. Un ancien secrétaire aux Transports, Ray LaHood, a indiqué sur Bloomberg le 14 novembre 2026 que la défaillance provenait de la vétusté des systèmes en place plutôt que de la transition vers les nouveaux outils. Les parlementaires du Parti démocrate ont réclamé des précisions supplémentaires aux responsables du gouvernement.\n\nLa panne a provoqué des désorganisations majeures pour les usagers et les compagnies aériennes. La remise en service des équipements n'a pas immédiatement résolu les retards accumulés dans les aéroports. Les perturbations sur les programmes de vol doivent se prolonger le temps de réorganiser les rotations des appareils.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-13/ty-article/u-s-aviation-agency-grounds-all-departing-flights-due-to-safety-reasons/000001a1-d6cb-d1ce-a9a3-f6db644f0000"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-14/balance-of-power-late-edition-11-13-2026-video"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20261114/807e950600af4ccf98854697159a1a76/c.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-14/all-flights-grounded-across-the-us-over-extraordinary-circumstances-and-security-concerns.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/i-may-lose-my-mind-frustrated-travellers-stuck-in-us-flight-havoc"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-13T00:00:00Z",
+   "suite_de": null,
+   "mots": 345,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-14-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les États-Unis rouvrent leur espace aérien après une panne informatique majeure",
+   "chapeau": "L'Agence fédérale de l'aviation des États-Unis a interrompu tous les décollages dans le pays vendredi 13 novembre 2026 durant plus de quatre heures. L'administration américaine a autorisé la reprise progressive des vols après la résolution d'une défaillance technique du système de contrôle aérien.",
+   "corps": "L'Agence fédérale de l'aviation des États-Unis (FAA) a ordonné la suspension de l'ensemble des décollages sur le territoire américain dans la soirée du vendredi 13 novembre 2026. La mesure a débuté en début de soirée. La FAA a levé cette interdiction de voler à 22 h 15, heure de Brasília, selon le journal Folha de S.Paulo le 14 novembre 2026 à 05 h 26.\n\nUn dysfonctionnement des systèmes de communication a touché les centres régionaux de contrôle du trafic aérien sur l'ensemble de la nation. Le ministre des Transports américain, Sean Duffy, a déclaré que le problème affectait tous les centres de contrôle du trafic des routes aériennes. Les liaisons radio et les systèmes radars ont fonctionné de manière intermittente dans plusieurs centres, selon les explications du ministre des Transports rapportées par franceinfo le 14 novembre 2026 à 10 h 47.\n\nLes autorités américaines ont motivé l'arrêt des vols par des raisons de sécurité et des circonstances d'une nature exceptionnelle, a indiqué le quotidien Libération le 14 novembre 2026 à 01 h 31. Le président des États-Unis, Donald Trump, a reçu des informations directement sur cet incident pendant la soirée, selon Le Figaro le 14 novembre 2026 à 10 h 46.\n\nLa suspension du trafic a entraîné des conséquences sur les déplacements nationaux et internationaux. La mesure a également bloqué des vols en provenance du continent européen, a précisé Der Spiegel le 14 novembre 2026 à 06 h 06. De nombreux voyageurs sont restés bloqués dans les aéroports américains dans l'attente d'une reprogrammation de leurs trajets, a rapporté El País le 14 novembre 2026 à 05 h 16.\n\nLe ministre des Transports, Sean Duffy, a attribué la responsabilité de cet incident à du matériel informatique obsolète. Le responsable gouvernemental a mis en cause des équipements datant des années 1980, selon des propos cités par Le Monde le 14 novembre 2026 à 06 h 31. L'administration Trump a demandé l'attribution d'une enveloppe de 50 milliards de dollars au Congrès américain pour moderniser ces structures, a indiqué Le Monde le 14 novembre 2026 à 09 h 00. Le ministre a réclamé de nouveaux moyens financiers aux parlementaires, selon France 24 le 14 novembre 2026 à 06 h 42.\n\nLa piste d'une intervention malveillante extérieure est écartée par les autorités. La chaîne de télévision américaine CNN a indiqué qu'aucun élément ne pointait vers une cyberattaque, selon NRC le 14 novembre 2026 à 02 h 12. La chaîne France 24 a également confirmé que l'hypothèse d'une attaque informatique avait été rejetée le 14 novembre 2026 à 06 h 42.\n\nLes perturbations sur le réseau aérien se poursuivent malgré la réouverture des pistes. Les autorités prévoient un rétablissement complet et un retour à la normale de façon progressive, a ajouté France 24 le 14 novembre 2026 à 06 h 42.\n\n## Ce que disent les sources\n\nLes données chiffrées sur le nombre de vols affectés présentent de légères variations selon les médias. Le quotidien Libération mentionne près de 7 000 vols affectés le 14 novembre 2026 à 01 h 31. Le journal Le Figaro avance un chiffre de près de 7 000 vols retardés ou annulés le 14 novembre 2026 à 10 h 46. Pour sa part, le journal espagnol El País fait état de 6 000 vols annulés le 14 novembre 2026 à 07 h 29. Le média franceinfo rapporte également le chiffre de 6 000 vols annulés le 14 novembre 2026 à 10 h 47. Concernant le nombre de passagers touchés, El País évoque des centaines de milliers de personnes affectées le 14 novembre 2026 à 07 h 29.\n\nLes sources ne précisent pas la durée exacte nécessaire pour un rétablissement complet de l'ensemble du trafic aérien aux États-Unis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/13/vliegtuigen-in-de-vs-moeten-aan-de-grond-blijven-door-communicatieproblemen-a4941377"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/eua-encerram-suspensao-de-voos-apos-4-horas-de-paralisacao.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/starts-an-us-flughaefen-wieder-erlaubt-a-13c2241a-9b4b-450e-acad-ccf1eaf7720f"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-13T00:00:00Z",
+   "suite_de": null,
+   "mots": 659,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-14-monde-001",
+  "2026-11-14-monde-002"
+ ]
+}

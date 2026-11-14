@@ -1,7 +1,17 @@
 {
- "maj": "2026-11-13T07:26:04Z",
- "derniere": "2026-11-13",
+ "maj": "2026-11-14T07:17:15Z",
+ "derniere": "2026-11-14",
  "editions": [
+  {
+   "date": "2026-11-14",
+   "genere_a": "2026-11-14T07:17:15Z",
+   "articles": 2,
+   "une": [
+    "Les États-Unis suspendent puis reprennent leurs vols après une panne",
+    "Les États-Unis rouvrent leur espace aérien après une panne informatique majeure"
+   ],
+   "octets": 10817
+  },
   {
    "date": "2026-11-13",
    "genere_a": "2026-11-13T07:26:04Z",

@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-15",
+ "genere_a": "2026-11-15T07:29:36Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-15-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les aéroports américains gèrent les suites d'une panne aérienne générale",
+   "chapeau": "Les compagnies aériennes réorganisent leurs vols aux États-Unis ce samedi 14 novembre 2026 après l'arrêt ordonné la veille par l'Agence fédérale de l'aviation. Les autorités techniques travaillent à stabiliser les réseaux informatiques après plusieurs heures d'interruption totale des décollages.",
+   "corps": "Ce blocage fait suite à l'interruption de tous les décollages ordonnée le 13 novembre 2026 par l'administration américaine.\n\nLe ministre des Transports Sean Duffy a déclaré que le trafic aérien reprend de manière progressive. Les transporteurs doivent réattribuer les appareils aux lignes prévues. Les équipages de bord doivent également rejoindre leurs affectations initiales. L'arrêt des décollages avait commencé vendredi à 15 h 54, heure de New York. L'Agence fédérale de l'aviation a levé cette mesure à 20 h 15 le même jour.\n\nUne opération de remplacement de câblages a provoqué la panne des systèmes de liaison, d'après les indications communiquées par l'agence nationale de l'aviation. Des équipements physiques anciens sont mis en cause dans ce dysfonctionnement technique. Selon la chaîne de télévision CNN, aucun élément n'indique une action malveillante d'origine informatique externe.\n\nL'administration de l'aviation utilise encore des disquettes magnétiques pour faire fonctionner certains centres régionaux de surveillance des avions. Les disquettes sont des supports de stockage carrés en plastique. L'agence publique avait annoncé une semaine avant l'incident son intention d'abandonner ces supports d'ici l'année 2028. Certaines pièces de rechange nécessaires aux systèmes informatiques proviennent du site marchand eBay.\n\n## Ce que disent les sources\n\nLe journal Libération écrivait le 14 novembre 2026 à 11 h 28 que la panne affectait près de 7 000 vols. Le quotidien La Croix rapportait le 14 novembre 2026 à 13 h 26 un total de 16 000 annulations de vols et 1,5 million de passagers concernés. Le journal Le Monde a dénombré le 14 novembre 2026 à 19 h 31 plus de 18 400 vols annulés pour les journées de vendredi et samedi. Le quotidien Le Figaro indiquait le 14 novembre 2026 à 20 h 44 un volume supérieur à 16 000 liaisons annulées en deux jours. Enfin, le média Folha de S.Paulo mentionnait le 14 novembre 2026 à 20 h 56 un total dépassant 28 000 vols perturbés selon les données fournies par l'Agence fédérale de l'aviation.\n\nLe coût financier global des annulations pour les transporteurs aériens n'est pas précisé dans les déclarations officielles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/13/vliegtuigen-in-de-vs-moeten-aan-de-grond-blijven-door-communicatieproblemen-a4941377"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/starts-an-us-flughaefen-wieder-erlaubt-a-13c2241a-9b4b-450e-acad-ccf1eaf7720f"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/les-avions-cloues-au-sol-aux-etats-unis-en-raison-de-circonstances-exceptionnelles-et-pour-des-raisons-de-securite-20261113_GLSL27DPABAHLC5GLVAFHUFNJI"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/aux-etats-unis-la-panne-du-trafic-aerien-a-seme-le-chaos-et-ravive-les-inquietudes-sur-l-etat-des-infrastructures-20261114"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261114-que-sait-on-de-la-suspension-totale-des-vols-de-vendredi-aux-%C3%A9tats-unis"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/etats-unis-des-vols-encore-annules-et-retardes-ce-samedi-apres-la-suspension-exceptionnelle-de-tous-les-decollages-20261114"
+    }
+   ],
+   "premiere_parution": "2026-11-13T00:00:00Z",
+   "suite_de": "2026-11-14-monde-002",
+   "mots": 382,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-15-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les États-Unis expliquent l'arrêt des vols par une opération de maintenance",
+   "chapeau": "Le secrétaire aux Transports américain a présenté samedi les causes de la suspension des vols survenue vendredi aux États-Unis. Sean Duffy attribue cette panne générale des transmissions à une intervention technique.",
+   "corps": "L'autorité fédérale de l'aviation américaine avait interrompu les décollages sur tout le territoire le vendredi 13 novembre 2026 avant de lever la mesure quelques heures plus tard.\n\nLe ministre des Transports Sean Duffy s'est exprimé samedi 14 novembre 2026 lors d'un point presse. Selon ses déclarations, un prestataire effectuait un entretien programmé sur un site isolé de l'agence fédérale. L'opération visait à modifier des équipements quand les anomalies de communication sont apparues. Le ministre avait précisé plus tôt que cette défaillance touchait l'ensemble des centres de contrôle en route du pays. Des représentants du gouvernement désignent des équipements saturés et anciens pour expliquer le blocage.\n\nLes conséquences sur les voyages aériens persistent pendant le week-end. Des milliers de liaisons restent supprimées ou retardées selon plusieurs médias. Le groupe de presse Al Jazeera comptabilise plus de 1,5 million de voyageurs pénalisés le 14 novembre 2026 à 09 h 42. Le quotidien The Hindu évoque le 14 novembre 2026 à 10 h 30 plus d'un million d'usagers touchés. Les compagnies aériennes intérieures et internationales prévoient des reports en cascade dans leurs programmes. Des déplacements sportifs pour des compétitions de basket-ball, de hockey sur glace et de football américain universitaire ont subi des perturbations le samedi.\n\nL'analyste George Ferguson, spécialiste du secteur aérien pour Bloomberg, expose la complexité de moderniser ce réseau ancien sans suspendre la circulation des appareils. Les transporteurs s'efforcent de rétablir leurs grilles horaires après l'annulation de plusieurs milliers de départs.\n\nDes exceptions ont existé durant l'application de la consigne fédérale. Selon le quotidien The Straits Times, certains trajets internationaux ont obtenu l'autorisation de décoller malgré l'interdiction générale.\n\nL'identité du prestataire de maintenance et le lieu exact de l'installation de l'autorité aérienne ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-13/ty-article/u-s-aviation-agency-grounds-all-departing-flights-due-to-safety-reasons/000001a1-d6cb-d1ce-a9a3-f6db644f0000"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912"
+    },
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/20261114/807e950600af4ccf98854697159a1a76/c.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-14/all-flights-grounded-across-the-us-over-extraordinary-circumstances-and-security-concerns.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-13T00:00:00Z",
+   "suite_de": "2026-11-14-monde-001",
+   "mots": 321,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-15-monde-001",
+  "2026-11-15-monde-002"
+ ]
+}

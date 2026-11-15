@@ -1,6 +1,117 @@
 {
- "maj": "2026-11-14T22:36:36Z",
+ "maj": "2026-11-15T16:37:08Z",
  "alertes": [
+  {
+   "id": "2026-11-15-alerte-02",
+   "date": "2026-11-15",
+   "publiee_a": "2026-11-15T16:28:19Z",
+   "titre": "Alexander Zverev bat Rafael Jodar aux Finales ATP à Turin",
+   "texte": "Alexander Zverev a battu l'Espagnol Rafael Jodar dimanche 15 novembre 2026 à Turin lors de son premier match des Finales ATP. Le joueur allemand, actuel numéro un mondial, s'est imposé en deux manches avec un score de 6-4, 6-4.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/tennis/atp/avant-le-masters-a-turin-alexander-zverev-est-il-un-numero-un-mondial-au-rabais_8281652.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/sport/tennis/26_novembre_15/zverev-jodar-risultato-atp-finals-2026-torino-e39f936e-c025-4f4a-b764-f31ec86e5xlk.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/tennis/tennis-un-solide-zverev-eteint-jodar-et-reussit-ses-debuts-aux-atp-finals-20261115"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Tennis/Actualites/Alexander-zverev-ne-tremble-pas-face-a-rafael-jodar-et-se-lance-idealement-dans-les-finales-atp/1743817"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/tenis/jodar-paga-novatada-ante-zverev-20261115155717-nt.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o"
+    }
+   ],
+   "cluster": "772b6695c1e2ef87",
+   "urls": [
+    "https://abc.es/deportes/tenis/jodar-paga-novatada-ante-zverev-20261115155717-nt.html",
+    "https://bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o",
+    "https://corriere.it/sport/tennis/26_novembre_15/zverev-jodar-risultato-atp-finals-2026-torino-e39f936e-c025-4f4a-b764-f31ec86e5xlk.shtml",
+    "https://franceinfo.fr/sports/tennis/atp/avant-le-masters-a-turin-alexander-zverev-est-il-un-numero-un-mondial-au-rabais_8281652.html",
+    "https://lefigaro.fr/sports/tennis/tennis-un-solide-zverev-eteint-jodar-et-reussit-ses-debuts-aux-atp-finals-20261115",
+    "https://lequipe.fr/Tennis/Actualites/Alexander-zverev-ne-tremble-pas-face-a-rafael-jodar-et-se-lance-idealement-dans-les-finales-atp/1743817",
+    "https://theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live"
+   ]
+  },
+  {
+   "id": "2026-11-15-alerte-03",
+   "date": "2026-11-15",
+   "publiee_a": "2026-11-15T16:37:08Z",
+   "titre": "L'Iran affirme avoir attaqué une base militaire américaine au Bahreïn",
+   "texte": "Les Gardiens de la révolution iraniens ont revendiqué une attaque de drones contre une base américaine au Bahreïn le dimanche 15 novembre 2026 au matin. Les autorités bahreïniennes ont indiqué avoir intercepté ces frappes survenues entre 4 h 30 et 6 h.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-revendique-une-attaque-contre-une-base-americaine-au-bahrein_8283197.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-11-15/ty-article/bahrain-intercepts-iranian-drone-attacks-as-tehran-says-it-hit-u-s-base/000001a1-debc-da30-a7fb-debdb7ed0000"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqn4e2py48kwo"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/guerre-au-moyen-orient-a-bahrein-l-iran-reprend-ses-frappes-contre-les-installations-americaines-20261115"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+    }
+   ],
+   "cluster": "2690774eafb22b42",
+   "urls": [
+    "https://aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us",
+    "https://aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
+    "https://aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes",
+    "https://bbc.co.uk/news/articles/cqn4e2py48kwo",
+    "https://bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
+    "https://canberratimes.com.au/story/9391689/iran-strikes-us-base-bahrain-intercepts-aerial-attacks",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_14?evenement=a773601f73",
+    "https://france24.com/fr/moyen-orient/20261115-iran-revendique-frappes-drones-contre-base-am%C3%A9ricaine-au-bahre%C3%AFn",
+    "https://france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine",
+    "https://france24.com/fr/vid%C3%A9o/20261115-l-iran-revendique-une-attaque-contre-un-site-militaire-am%C3%A9ricain-%C3%A0-bahre%C3%AFn",
+    "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-revendique-une-attaque-contre-une-base-americaine-au-bahrein_8283197.html",
+    "https://ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
+    "https://haaretz.com/middle-east-news/2026-11-15/ty-article/bahrain-intercepts-iranian-drone-attacks-as-tehran-says-it-hit-u-s-base/000001a1-debc-da30-a7fb-debdb7ed0000",
+    "https://haaretz.com/middle-east-news/iran/2026-11-13/ty-article/u-s-downs-two-iranian-drones-as-iran-says-it-struck-u-s-radar-in-bahrain/000001a1-d63d-d1ce-a9a3-f63f97d80000",
+    "https://la-croix.com/international/guerre-au-moyen-orient-a-bahrein-l-iran-reprend-ses-frappes-contre-les-installations-americaines-20261115",
+    "https://lefigaro.fr/international/iran-les-gardiens-disent-avoir-attaque-une-base-militaire-au-bahrein-avec-des-drones-20261115",
+    "https://lemonde.fr/international/article/2026/11/15/l-iran-revendique-une-attaque-de-drones-contre-une-base-americaine-a-bahrein_6810990_3210.html",
+    "https://liberation.fr/international/moyen-orient/liran-revendique-une-nouvelle-attaque-contre-une-base-militaire-des-etats-unis-a-bahrein-20261115_VSADW3X4B5BTBJTSUPFQTRM2LU",
+    "https://straitstimes.com/world/middle-east/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base",
+    "https://theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+   ]
+  },
   {
    "id": "2026-11-15-alerte-01",
    "date": "2026-11-15",

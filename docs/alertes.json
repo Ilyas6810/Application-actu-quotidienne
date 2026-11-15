@@ -1,6 +1,174 @@
 {
- "maj": "2026-11-15T16:37:08Z",
+ "maj": "2026-11-15T23:00:47Z",
  "alertes": [
+  {
+   "id": "2026-11-16-alerte-01",
+   "date": "2026-11-16",
+   "publiee_a": "2026-11-15T22:58:10Z",
+   "titre": "La France bat la Turquie et accède aux quarts de finale",
+   "texte": "L'équipe de France a gagné deux buts à un face à la Turquie le dimanche 15 novembre 2026 à Bordeaux. Cette victoire lors du dernier match de poules permet aux joueurs français de terminer en tête de leur groupe et d'obtenir leur place en quarts de finale de la Ligue des nations.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Ibrahima-konate-apres-la-victoire-de-la-france-contre-la-turquie-en-ligue-des-nations-on-retient-le-resultat/1743901"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261115-ligue-des-nations-la-france-se-qualifie-dans-la-douleur-contre-la-turquie"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html"
+    }
+   ],
+   "cluster": "64ff35dbcc2b978f",
+   "urls": [
+    "https://france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
+    "https://france24.com/fr/sports/20261115-ligue-des-nations-la-france-se-qualifie-dans-la-douleur-contre-la-turquie",
+    "https://france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
+    "https://franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html",
+    "https://franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html",
+    "https://lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-le-grand-retour-de-mbappe-des-surprises-au-milieu-et-en-defense-zidane-a-tranche-pour-la-compo-des-bleus-20261115",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-une-victoire-et-du-spectacle-la-mission-des-bleus-pour-le-retour-de-zidane-a-bordeaux-20261114",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-qu-attendez-vous-de-france-turquie-20261114",
+    "https://lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-stade-atlantique-a-guichets-fermes-hommage-a-carlo-molinari-les-informations-avant-le-match-france-turquie-20261115",
+    "https://lefigaro.fr/sports/football/live/ligue-des-nations/2026/2627015/france-turquie",
+    "https://lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
+    "https://lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
+    "https://lequipe.fr/Football/Actualites/Ibrahima-konate-apres-la-victoire-de-la-france-contre-la-turquie-en-ligue-des-nations-on-retient-le-resultat/1743901",
+    "https://lequipe.fr/Football/Actualites/La-france-qualifiee-dimanche-en-quarts-de-finale-de-ligue-des-nations-si/1743342",
+    "https://lequipe.fr/Football/Actualites/Les-bleus-souffrent-mais-s-imposent-contre-la-turquie-et-assurent-leur-qualification-pour-les-quarts-de-finale-de-ligue-des-nations/1743891",
+    "https://lequipe.fr/Football/Actualites/Qu-est-ce-qui-changerait-si-les-bleus-finissaient-a-la-premiere-place-de-leur-groupe-en-ligue-des-nations/1743501",
+    "https://liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ",
+    "https://rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations"
+   ]
+  },
+  {
+   "id": "2026-11-16-alerte-02",
+   "date": "2026-11-16",
+   "publiee_a": "2026-11-15T22:59:22Z",
+   "titre": "Mirra Andreeva bat Elina Svitolina en finale du Masters de tennis féminin",
+   "texte": "La Russe Mirra Andreeva a gagné le tournoi des Finales WTA face à l'Ukrainienne Elina Svitolina dimanche 15 novembre 2026 à Indian Wells, aux États-Unis. La joueuse de 19 ans a conclu la rencontre en deux manches, 7-5 et 6-3 selon le quotidien L'Équipe le 16 novembre 2026.",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/tennis/tennis-elina-svitolina-rejoint-mirra-andreeva-en-finale-du-masters-20261115"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Tennis/Actualites/Mirra-andreeva-remporte-a-19-ans-les-finales-wta-pour-la-premiere-fois-en-venant-a-bout-d-elina-svitolina-en-finale/1743902"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/tennis/masters/la-russe-mirra-andreeva-sacree-a-19-ans-au-masters-wta-apres-sa-victoire-en-finale-face-a-l-ukrainienne-elina-svitolina_8283959.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/11/mirra-andreeva-tenista-russa-de-19-anos-e-campea-do-wta-finals.shtml"
+    }
+   ],
+   "cluster": "97b3ecd047f1b35a",
+   "urls": [
+    "https://bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o",
+    "https://franceinfo.fr/sports/tennis/masters/la-russe-mirra-andreeva-sacree-a-19-ans-au-masters-wta-apres-sa-victoire-en-finale-face-a-l-ukrainienne-elina-svitolina_8283959.html",
+    "https://lefigaro.fr/sports/tennis/tennis-andreeva-domine-svitolina-et-s-adjuge-le-masters-wta-20261115",
+    "https://lefigaro.fr/sports/tennis/tennis-elina-svitolina-rejoint-mirra-andreeva-en-finale-du-masters-20261115",
+    "https://lefigaro.fr/sports/tennis/tennis-insubmersible-andreeva-ecrase-pegula-et-file-en-finale-du-masters-wta-20261114",
+    "https://lefigaro.fr/sports/tennis/tennis-jamais-deux-sans-trois-pour-andreeva-au-masters-wta-20261113",
+    "https://lequipe.fr/Tennis/Actualites/Elina-svitolina-surclasse-linda-noskova-et-rejoint-mirra-andreeva-en-finale-des-finales-wta/1743768",
+    "https://lequipe.fr/Tennis/Actualites/Mirra-andreeva-remporte-a-19-ans-les-finales-wta-pour-la-premiere-fois-en-venant-a-bout-d-elina-svitolina-en-finale/1743902",
+    "https://lequipe.fr/Tennis/Actualites/Mirra-andreeva-se-qualifie-pour-la-finale-des-finales-wta-et-s-assure-la-deuxieme-place-mondiale/1743746",
+    "https://theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
+    "https://theguardian.com/sport/live/2026/nov/15/wta-finals-final-elina-svitolina-v-mirra-andreeva-live",
+    "https://www1.folha.uol.com.br/esporte/2026/11/mirra-andreeva-tenista-russa-de-19-anos-e-campea-do-wta-finals.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-16-alerte-03",
+   "date": "2026-11-16",
+   "publiee_a": "2026-11-15T23:00:47Z",
+   "titre": "L'Estonie fermera sa frontière avec la Russie le premier décembre",
+   "texte": "Le gouvernement estonien a annoncé dimanche 15 novembre 2026 la fermeture de ses points de passage avec la Russie dès le 1er décembre. Tallinn accuse les services de renseignement militaire russes d'avoir commandité une tentative de sabotage contre un fabricant de drones.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/estonia-cerrara-partir-diciembre-frontera-rusia-tras-20261115194947-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/15/estland-sluit-grensovergangen-met-rusland-na-poging-tot-brandstichting-bij-dronefabrikant-a4941442"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    }
+   ],
+   "cluster": "32ea085da9174386",
+   "urls": [
+    "https://abc.es/internacional/estonia-cerrara-partir-diciembre-frontera-rusia-tras-20261115194947-nt.html",
+    "https://aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
+    "https://aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack",
+    "https://bloomberg.com/news/articles/2026-11-15/estonia-says-russia-behind-failed-arson-attempt-on-drone-maker",
+    "https://dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/es/estonia-cerrar%C3%A1-su-frontera-con-rusia-tras-denunciar-intento-de-sabotaje/a-79953162",
+    "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_15?evenement=52d4d0ed8a",
+    "https://france24.com/fr/europe/20261115-estonie-accuse-russie-tentative-sabotage-et-d%C3%A9cide-de-fermer-fronti%C3%A8re",
+    "https://franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html",
+    "https://ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1",
+    "https://lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
+    "https://nrc.nl/nieuws/2026/11/15/estland-sluit-grensovergangen-met-rusland-na-poging-tot-brandstichting-bij-dronefabrikant-a4941442",
+    "https://politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker",
+    "https://rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones",
+    "https://spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819",
+    "https://straitstimes.com/world/europe/estonia-to-close-russian-border-crossings-after-attempted-arson-attack",
+    "https://theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+    "https://zazoom.it/2026-11-15/estonia-stop-totale-ai-passaggi-con-la-russia-lannuncio-dopo-il-blitz-sventato-del-gru/19932847"
+   ]
+  },
   {
    "id": "2026-11-15-alerte-02",
    "date": "2026-11-15",
@@ -1289,214 +1457,6 @@
     "https://theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
     "https://theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
     "https://video.lefigaro.fr/figaro/sports/formule-1/formule-1-lando-norris-remporte-le-grand-prix-du-bresil-son-troisieme-succes-de-la-saison-20261108"
-   ]
-  },
-  {
-   "id": "2026-11-08-alerte-01",
-   "date": "2026-11-08",
-   "publiee_a": "2026-11-08T00:40:13Z",
-   "titre": "Isaac Herzog charge l'opposant Gadi Eisenkot de former le gouvernement",
-   "texte": "Le président israélien Isaac Herzog a confié au chef de l'opposition Gadi Eisenkot la mission de composer le futur gouvernement en Israël. L'ancien général du parti Yashar dispose du soutien de 67 députés sur 120 pour constituer son cabinet.",
-   "sources": [
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmy8367lj5xlo"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/podcasts/reportage-international/20261107-isra%C3%ABl-dans-le-d%C3%A9sert-du-n%C3%A9guev-les-b%C3%A9douins-se-sont-mobilis%C3%A9s-aux-l%C3%A9gislatives-face-aux-d%C3%A9molitions"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/middle-east/who-is-gadi-eisenkot-the-ex-general-tasked-with-forming-new-israeli-government"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml"
-    }
-   ],
-   "cluster": "278ffba4185f76cc",
-   "urls": [
-    "https://abc.es/internacional/juan-caldes-veo-cerca-repeticion-electoral-israel-20261103011821-nt.html",
-    "https://abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html",
-    "https://abc.es/internacional/presidente-israeli-recibe-netanyahu-eisenkot-formar-gobierno-20261105191111-nt.html",
-    "https://aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
-    "https://aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government",
-    "https://aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government",
-    "https://bbc.co.uk/news/articles/cmy8367lj5xlo",
-    "https://bloomberg.com/news/articles/2026-11-07/israel-president-to-give-eisenkot-a-chance-to-form-government",
-    "https://dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
-    "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
-    "https://france24.com/fr/moyen-orient/20261105-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement-avec-le-soutien-des-partis-arabes",
-    "https://france24.com/fr/moyen-orient/20261106-isra%C3%ABl-eisenkot-fait-part-progr%C3%A8s-importants-but-former-gouvernement",
-    "https://france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
-    "https://france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-le-pr%C3%A9sident-annoncera-dimanche-qui-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
-    "https://france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
-    "https://france24.com/fr/vid%C3%A9o/20261107-isra%C3%ABl-gadi-eisenkot-charg%C3%A9-de-former-un-gouvernement",
-    "https://franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html",
-    "https://franceinfo.fr/monde/israel/israel-benyamin-netanyahou-menace-de-perdre-le-pouvoir-apres-les-legislatives_8270399.html",
-    "https://franceinfo.fr/monde/israel/israel-futur-premier-ministre-gadi-eizenkot-va-faire-face-a-un-processus-complexe-pour-former-son-gouvernement_8272040.html",
-    "https://ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
-    "https://haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/israeli-preisdent-tasks-gadi-eisenkot-with-forming-governing-coalition/000001a1-b77b-d146-ada9-ff7f4fcc0000",
-    "https://haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/thousands-gather-across-israel-urging-opposition-to-cooperate-with-arab-parties/000001a1-b677-d146-ada9-fe7ff6740000",
-    "https://kcbx.org/npr-top-news/2026-11-07/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
-    "https://kgou.org/world/2026-11-07/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
-    "https://lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
-    "https://lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
-    "https://lemonde.fr/international/article/2026/11/05/israel-gadi-eisenkot-l-ancien-chef-d-etat-major-israelien-en-mission-pour-remplacer-benyamin-netanyahou_6807323_3210.html",
-    "https://lemonde.fr/international/article/2026/11/05/israel-les-deux-principales-listes-arabes-soutiennent-gadi-eisenkot-pour-former-le-prochain-gouvernement_6807111_3210.html",
-    "https://lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
-    "https://liberation.fr/international/moyen-orient/israel-eisenkot-en-passe-detre-choisi-pour-remplacer-netanyahou-a-la-tete-du-gouvernement-20261106_72EOCQNXKFGIZLUMUDK2BGKOCM",
-    "https://liberation.fr/international/moyen-orient/legislatives-en-israel-netanyahou-perd-le-soutien-dun-parti-ultra-orthodoxe-qui-le-soutenait-depuis-trente-ans-20261105_FMF2EQFJZZAP5KG3JQ2HOL36WU",
-    "https://npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-    "https://npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-    "https://rfi.fr/fr/moyen-orient/20261105-isra%C3%ABl-gadi-eisenkot-en-position-favorable-pour-former-le-prochain-gouvernement",
-    "https://rfi.fr/fr/moyen-orient/20261106-l%C3%A9gislatives-en-isra%C3%ABl-une-majorit%C3%A9-se-d%C3%A9gage-autour-de-gadi-eisenkot-fin-du-suspens-le-8-novembre",
-    "https://rfi.fr/fr/moyen-orient/20261107-isra%C3%ABl-la-pr%C3%A9sidence-va-charger-gadi-eisenkot-de-former-le-prochain-gouvernement",
-    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261106-isra%C3%ABl-qui-de-netanyahu-ou-de-eisenkot-peut-r%C3%A9unir-une-majorit%C3%A9",
-    "https://rfi.fr/fr/podcasts/reportage-international/20261107-isra%C3%ABl-dans-le-d%C3%A9sert-du-n%C3%A9guev-les-b%C3%A9douins-se-sont-mobilis%C3%A9s-aux-l%C3%A9gislatives-face-aux-d%C3%A9molitions",
-    "https://spiegel.de/ausland/israel-netanjahu-rivale-gadi-einsenkot-mit-regierungsbildung-beauftragt-a-309f7855-3a51-4503-a6e8-2ead13f9dfe8",
-    "https://straitstimes.com/world/middle-east/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government",
-    "https://straitstimes.com/world/middle-east/who-is-gadi-eisenkot-the-ex-general-tasked-with-forming-new-israeli-government",
-    "https://theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-    "https://thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-as-religious-party-drops-netanyahu/article71669957.ece",
-    "https://thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece",
-    "https://thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
-    "https://wrvo.org/2026-11-07/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
-    "https://www1.folha.uol.com.br/mundo/2026/11/opositor-a-netanyahu-tentara-formar-governo-em-israel-sem-mudar-impasse-palestino.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/11/presidente-de-israel-escolhe-gadi-eisenkot-rival-de-netanyahu-para-tentar-formar-governo.shtml",
-    "https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-08-alerte-02",
-   "date": "2026-11-08",
-   "publiee_a": "2026-11-08T00:41:45Z",
-   "titre": "Le XV de France bat les Fidji mais perd Romain Ntamack blessé",
-   "texte": "L'équipe de France de rugby a battu les Fidji 54 à 17 le samedi 7 novembre 2026 à Décines-Charpieu lors du Championnat des nations. L'ouvreur français Romain Ntamack s'est blessé à l'épaule gauche pendant la rencontre et manque le reste de la compétition.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/11/07/le-xv-de-france-confronte-a-une-hecatombe-de-blessures-avant-son-match-contre-les-fidji-un-casse-tete-pour-fabien-galthie_6808289_3242.html"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Rugby/Actualites/Appliquee-l-equipe-de-france-prend-nettement-le-dessus-sur-les-fidji-dans-le-championnat-des-nations/1742109"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/sports/20261107-rugby-la-france-l-emporte-face-aux-fidji-avant-le-choc-contre-les-champions-du-monde-sud-africains"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107"
-    }
-   ],
-   "cluster": "72b1a94f29fb802a",
-   "urls": [
-    "https://franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html",
-    "https://lefigaro.fr/sports/rugby/xv-de-france/france-fidji-du-travail-bien-fait-par-les-bleus-mais-la-tuile-ntamack-20261107",
-    "https://lemonde.fr/sport/article/2026/11/07/le-xv-de-france-confronte-a-une-hecatombe-de-blessures-avant-son-match-contre-les-fidji-un-casse-tete-pour-fabien-galthie_6808289_3242.html",
-    "https://lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
-    "https://lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
-    "https://lequipe.fr/Rugby/Actualites/-on-sait-ce-qui-nous-attend-apres-la-victoire-face-aux-fidji-fabien-galthie-le-selectionneur-des-bleus-se-projette-sur-le-choc-face-a-l-afrique-du-sud/1742151",
-    "https://lequipe.fr/Rugby/Actualites/Appliquee-l-equipe-de-france-prend-nettement-le-dessus-sur-les-fidji-dans-le-championnat-des-nations/1742109",
-    "https://rfi.fr/fr/sports/20261107-rugby-la-france-l-emporte-face-aux-fidji-avant-le-choc-contre-les-champions-du-monde-sud-africains"
-   ]
-  },
-  {
-   "id": "2026-11-08-alerte-03",
-   "date": "2026-11-08",
-   "publiee_a": "2026-11-08T00:46:28Z",
-   "titre": "Une fusillade fait au moins six morts au centre de Cracovie",
-   "texte": "Un automobiliste armé a tué au moins six personnes et blessé plus d'une dizaine de passants samedi 7 novembre 2026 sur la place centrale de Cracovie, en Pologne. Les forces de l'ordre ont blessé et interpellé l'assaillant après l'attaque.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6n9r01d2709o"
-    }
-   ],
-   "cluster": "1353d4fe3ac217af",
-   "urls": [
-    "https://aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow",
-    "https://aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting",
-    "https://bbc.co.uk/news/articles/c6n9r01d2709o",
-    "https://bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "https://bbc.com/news/articles/cmd7q15drwgeo",
-    "https://bloomberg.com/news/articles/2026-11-07/gunman-opens-fire-in-krakow-poland-killing-five-people",
-    "https://burytimes.co.uk/news/national/26709211.investigations-continue-briton-among-six-killed-poland-mass-shooting",
-    "https://cp24.com/news/world/2026/11/07/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says",
-    "https://dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489",
-    "https://dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_7?evenement=cd69a241f3",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_7?evenement=ea20e5854c",
-    "https://english.aawsat.com/world/5338659-5-people-were-killed-more-dozen-injured-krakow-shooting",
-    "https://ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-    "https://haaretz.com/world-news/europe/2026-11-07/ty-article/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say/000001a1-b6b1-d1cd-aded-beb3cf2a0000",
-    "https://irishmirror.ie/news/world-news/krakow-shooting-suspect-inspired-far-37854745",
-    "https://kcbx.org/npr-top-news/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-    "https://ketv.com/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/74364751",
-    "https://ksbw.com/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/74364751",
-    "https://npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-    "https://reuters.com/world/europe/two-kiled-least-10-injured-shooting-polish-city-krakow-tvn24-reports-2026-11-07",
-    "https://southwalesargus.co.uk/news/national/26708803.six-killed-least-15-injured-krakow-shooting",
-    "https://straitstimes.com/world/europe/five-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say",
-    "https://straitstimes.com/world/europe/five-people-killed-in-shooting-in-main-square-of-polish-city-of-krakow-police-say",
-    "https://theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-    "https://theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-    "https://thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece",
-    "https://wkms.org/npr-news/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-    "https://wrvo.org/2026-11-07/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
    ]
   }
  ]

@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-16",
+ "genere_a": "2026-11-16T07:30:29Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-16-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Des milliers de Tchèques manifestent à Prague contre la réforme de l'audiovisuel",
+   "chapeau": "Des centaines de milliers de personnes se sont rassemblées à Prague le dimanche 15 novembre 2026 pour contester un projet de révision du financement des médias publics. Les manifestants rejettent l'initiative portée par le premier ministre Andrej Babis visant à supprimer la redevance audiovisuelle au profit d'une allocation budgétaire de l'État.",
+   "corps": "Le rassemblement s'est tenu sur l'esplanade du parc de Letná à Prague. Ce lieu avait accueilli d'importantes réunions politiques lors de la Révolution de velours en 1989, événement qui avait mis fin à plus de quarante ans de régime communiste dans le pays.\n\nLe projet de loi contesté prévoit la suppression de la redevance audiovisuelle obligatoire et son remplacement par un financement prélevé directement sur le budget général de l'État. Le parlement tchèque a fait avancer le texte au cours du mois d'octobre 2026. La mesure concerne à la fois la télévision et la radio publiques tchèques, dont le modèle économique reposait jusqu'ici sur cette contribution directe des foyers.\n\nLes organisateurs du rassemblement et la coalition d'opposition affirment que le transfert des ressources vers les caisses de l'État constitue une menace directe pour l'indépendance de la presse. Selon les critiques de la réforme, ce changement de mécanisme place les diffuseurs dans une situation de dépendance financière vis-à-vis des autorités politiques en place. Les opposants soutiennent que la coalition nationale au pouvoir cherche ainsi à réduire au silence les médias critiques et à exercer un contrôle direct sur la ligne éditoriale des chaînes publiques.\n\nLe gouvernement mené par Andrej Babis avance une position différente concernant cette restructuration. Selon les autorités gouvernementales, les médias publics tchèques doivent impérativement réduire leurs dépenses de fonctionnement. Le pouvoir exécutif soutient que le passage par le budget de l'État répond à une nécessité de rationalisation des coûts de l'audiovisuel public et de simplification de sa gestion financière.\n\nLa mobilisation enregistrée ce dimanche figure parmi les plus importantes réunions publiques observées dans le pays depuis la fin du régime communiste en 1989. Les manifestants ont exprimé leur refus de voir le système audiovisuel public soumis aux décisions budgétaires annuelles des parlementaires et des ministres.\n\n## Ce que disent les sources\n\nLes évaluations de l'affluence lors du rassemblement de dimanche varient selon les organismes et les médias. Selon le journal The Guardian du 15 novembre 2026 à 22:20, les organisateurs de la manifestation estiment le nombre de participants à plus de 350 000 personnes. Pour sa part, le quotidien Le Monde du 16 novembre 2026 à 10:52 fait état d'un décompte atteignant 400 000 manifestants au parc de Letná.\n\nLes sources ne précisent pas la date exacte du vote définitif du texte au parlement ni l'issue des prochains débats législatifs.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-15/czechs-protest-against-new-funding-plan-for-public-broadcasters"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/a-prague-une-mobilisation-massive-pour-defendre-les-medias-publics-20261115_7DMDZP3GFJCH5E2F4LGIJ6EJUA"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/tschechien-massenproteste-gegen-rundfunkreform-a-a936f58f-3277-403f-b795-591524b7a9de"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm8e0knr7604o"
+    }
+   ],
+   "premiere_parution": "2026-11-13T08:35:00Z",
+   "suite_de": null,
+   "mots": 444,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-16-monde-001"
+ ]
+}

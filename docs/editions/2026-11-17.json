@@ -1,0 +1,1046 @@
+{
+ "date": "2026-11-17",
+ "genere_a": "2026-11-17T08:41:04Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-17-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Cinq Etats de l'Union europeenne prevoient d'expulser des migrants au Rwanda",
+   "chapeau": "L'Autriche, l'Allemagne, les Pays-Bas, la Grece et le Danemark ont officialise lundi 16 novembre 2026 la creation d'un centre de renvoi situe au Rwanda. Cette structure accueillera des etrangers dont les demandes de protection ont recu une reponse negative sur le continent europeen.",
+   "corps": "Cette demarche commune a fait l'objet d'une conference de presse tenue a Vienne, en Autriche. Les autorites autrichiennes ont decrit l'ouverture prochaine de cet etablissement implante en Afrique de l'Est comme une etape dans l'application de la directive de l'Union europeenne sur les retours, un texte reglementaire entre en vigueur a la mi-octobre 2026.\n\nCe mecanisme pilote vise les personnes privees du droit legal de demeurer au sein de l'espace communautaire europeen. Les cinq gouvernements partenaires envisagent ce transfert vers l'Afrique pour accelerer l'eloignement des personnes n'ayant pas obtenu de titre de sejour.\n\nLes promoteurs de l'initiative ont qualifie ce projet de nouvelle chance pour les personnes deplacees. En revanche, plusieurs militants des droits humains ont fustige cette decision. Ces organisations ont decrit le plan comme un echec moral et ont alerte sur le manque de surveillance institutionnelle et de garanties juridiques accordees aux individus transferes.\n\nCertaines critiques de presse ont appele cette politique une honte pour l'Europe, precurseur de contestations devant les juridictions competentes. De son cote, la France refuse de s'associer a cette methode, le president Emmanuel Macron ayant rejete un dispositif non conforme aux regles defendues par Paris.\n\nLes sources ne precisent ni le cout financier de l'accord, ni la date exacte de mise en service de ce centre, ni le nombre d'etrangers qui y seront envoyes.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/five-eu-countries-to-announce-rwanda-deportation-hub-scheme"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/cinco-paises-ue-crearan-ruanda-primer-centro-20261116163319-nt.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/hubs-de-retour-cinq-pays-de-lue-veulent-envoyer-des-migrants-au-rwanda-20261116_23Z6HE6QVRG5ZLHJB2NFNN257U"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/grupo-de-paises-europeus-acelera-acordo-para-deportar-imigrantes-rejeitados-para-ruanda.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/migrants/cinq-pays-devoilent-leur-projet-de-hub-de-retour-au-rwanda-pour-des-personnes-migrantes-expulsees-de-l-union-europeenne_8285039.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw987343352go"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+    }
+   ],
+   "premiere_parution": "2026-11-15T14:52:30Z",
+   "suite_de": null,
+   "mots": 263,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le Canada et la Chine réduisent leurs barrières douanières lors d'une rencontre bilatérale",
+   "chapeau": "Le premier ministre canadien Mark Carney et le président chinois Xi Jinping se sont réunis mardi 17 novembre 2026 à Shenzhen en Chine. Les deux dirigeants ont conclu une diminution mutuelle de restrictions commerciales sur plusieurs secteurs économiques avant le sommet de la Coopération économique Asie-Pacifique.",
+   "corps": "Mark Carney et Xi Jinping ont acté un allègement des droits de douane visant les exportations agricoles et les livraisons d'acier. Les discussions tenues en milieu de matinée ont également porté sur l'énergie, les services financiers et l'industrie automobile.\n\nLe chef du gouvernement canadien a qualifié les liens bilatéraux de plus stables et prévisibles au cours d'une prise de parole rapportée par The Hindu le 17 novembre 2026. Cette démarche s'inscrit dans un plan économique destiné à atténuer la dépendance commerciale d'Ottawa envers Washington.\n\nAvant ce déplacement en Chine, Mark Carney s'était exprimé lundi 16 novembre 2026 depuis le Cambodge sur l'avenir du secteur automobile nord-américain. Le dirigeant a indiqué que le Canada envisage de travailler avec des constructeurs chinois si les négociations avec l'administration de Donald Trump n'aboutissent pas au maintien d'une chaîne logistique intégrée. Mark Carney a précisé qu'une entente coopérative entre le Canada et les États-Unis représente le choix optimal, tout en affirmant que le pays avancera quelle que soit l'issue des échanges bilatéraux.\n\nLe gouvernement canadien fixe des limites strictes à toute collaboration avec des entreprises automobiles asiatiques. Mark Carney a souligné que d'éventuels investissements chinois devront financer des activités réelles d'usinage sur le sol canadien. Les simples opérations d'assemblage de composants importés de l'étranger ne recevront aucune autorisation officielle de la part des autorités fédérales.\n\nLes discussions entre les deux délégations se sont tenues en marge des préparatifs du sommet de la Coopération économique Asie-Pacifique, une organisation regroupant les pays riverains de l'océan Pacifique. Les délégations cherchent à intensifier les accords d'approvisionnement en produits alimentaires et les partenariats énergétiques.\n\nLa liste complète des produits visés par les nouvelles exemptions tarifaires ainsi que les montants financiers associés aux échanges n'ont pas été communiqués par les deux gouvernements.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "hurriyetdailynews.com",
+     "url": "https://hurriyetdailynews.com/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail-229442"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-16/carney-eyes-auto-partners-beyond-us-as-xi-meeting-looms"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article71706703.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/canada-prime-minister-carney-eyes-auto-partners-beyond-us-as-meeting-with-china-president-xi-looms"
+    },
+    {
+     "nom": "medicinehatnews.com",
+     "url": "https://medicinehatnews.com/news/national-news/2026/11/16/carney-meets-with-chinese-president-xi-in-shenzhen-china"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-canada-s-carney-meets-xi-touts-recalibration-of-china-ties"
+    }
+   ],
+   "premiere_parution": "2026-11-16T02:25:58Z",
+   "suite_de": null,
+   "mots": 337,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "United Airlines règle une panne informatique responsable de retards de vols",
+   "chapeau": "La compagnie aérienne United Airlines a résolu un problème informatique lundi 16 novembre 2026 aux États-Unis. Cet incident technique a retardé plusieurs décollages d'avions sur son réseau avant un retour à la normale.",
+   "corps": "La compagnie aérienne américaine United Airlines a annoncé lundi 16 novembre 2026 le rétablissement de ses outils informatiques. Une anomalie interne a perturbé les opérations au sol et retardé le départ de nombreux appareils.\n\nL'entreprise a précisé que cet incident n'a touché aucun vol déjà en cours. Les trajets assurés par sa filiale régionale United Express sont également restés indemnes de toute perturbation. Selon le journal Las Vegas Sun le 17 novembre 2026 à 02h09, l'interruption de service a duré plus de 90 minutes. L'incident a empêché les avions de recevoir l'autorisation de décoller.\n\nCette panne intervient trois jours après un arrêt de trafic aérien décrété par l'administration fédérale de l'aviation aux États-Unis le 13 novembre 2026. L'agence gouvernementale avait alors suspendu les décollages sur tout le territoire pendant cinq heures d'après Deutsche Welle le 17 novembre 2026 à 03h13. Le quotidien The Straits Times a précisé le 17 novembre 2026 à 03h30 qu'aucun élément n'indique un lien entre la panne de United Airlines et cet arrêt général précédent. Le journal n'a relevé aucune trace d'attaque informatique.\n\nUnited Airlines constitue le troisième transporteur aérien du pays, derrière American Airlines et Delta Air Lines, selon le journal ABC le 17 novembre 2026 à 03h22. Les passagers bloqués dans les aéroports ont exprimé leurs réclamations sur les réseaux sociaux pendant la durée du blocage. Le transporteur a communiqué directement en ligne pour confirmer la fin de l'avarie et la reprise graduelle des décollages.\n\nEn parallèle, plusieurs banques américaines ont subi des anomalies sur leurs services en ligne ce même lundi, d'après le Corriere della Sera le 17 novembre 2026 à 04h19. Les clients de certains établissements financiers ont signalé des difficultés pour consulter leurs comptes ou ordonner des virements.\n\nL'origine exacte de la défaillance technique et le total des vols retardés ne sont pas connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "lasvegassun.com",
+     "url": "https://lasvegassun.com/news/2026/nov/16/15-hour-long-system-outage-forces-united-airlines-"
+    },
+    {
+     "nom": "14news.com",
+     "url": "https://14news.com/2026/11/16/united-airlines-says-it-has-widespread-system-outage-days-after-nationwide-ground-stop"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/falha-em-sistema-da-united-airlines-atrasa-voos-nos-eua-tres-dias-apos-pane-no-pais.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/united-airlines-sufre-caida-sistema-obliga-paralizar-20261116232934-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/united-airlines-grossflaechiger-systemausfall-beeintraechtigt-hunderte-starts-a-68f49855-80e5-4785-9509-f02175a25548"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-airlines-says-tech-outage-disrupts-departures-no-signs-of-cyberattack"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/societes/la-compagnie-aerienne-united-airlines-annonce-une-panne-generalisee-de-ses-systemes-20261116"
+    }
+   ],
+   "premiere_parution": "2026-11-16T22:09:49Z",
+   "suite_de": null,
+   "mots": 336,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La justice israélienne enquête sur le bureau de Benjamin Netanyahu",
+   "chapeau": "La police et le procureur général d'Israël ont ouvert une enquête le 16 novembre 2026 sur les collaborateurs de Benjamin Netanyahu. Les autorités vérifient des soupçons de manœuvres visant des partis arabes lors du scrutin législatif d'octobre.",
+   "corps": "Selon les révélations diffusées par la chaîne de télévision N12, le directeur de cabinet du Premier ministre sortant a déposé le signalement initial contre des membres de la formation politique arabe Raam. Cette démarche a provoqué l'arrestation de trois militants de ce mouvement le jour du scrutin du 27 octobre 2026. Les accusations portaient sur un achat présumé de voix.\n\nLe chef des services de renseignement a aussi tenté d'organiser des écoutes, d'après les éléments rapportés par Der Spiegel. Les forces de l'ordre auraient ainsi ciblé des adversaires politiques sur instruction directe de l'entourage du chef du gouvernement pendant la soirée électorale.\n\nFace à ces révélations, deux dirigeants de l'opposition israélienne dénoncent une tentative de coup d'État. Les rivaux politiques de Benjamin Netanyahu réclament des poursuites judiciaires ainsi que des sanctions contre le Premier ministre sortant. Ces opposants s'organisent actuellement au Parlement pour désigner un nouveau président de séance, dans le cadre de pourparlers destinés à former une nouvelle coalition gouvernementale.\n\nBenjamin Netanyahu rejette ces accusations. Le Premier ministre affirme que les partis arabes ont commis des fraudes électorales après leur progression dans les urnes, où ils ont remporté un nombre inédit de sièges, d'après The Hindu le 16 novembre 2026 à 20h35. Le chef du gouvernement accuse également le dirigeant d'opposition Gadi Eisenkot d'exploiter cette affaire afin d'empêcher la création d'un exécutif d'union nationale.\n\nL'enquête judiciaire en cours n'a pas encore déterminé l'étendue des ordres directs donnés par Benjamin Netanyahu à ses collaborateurs.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/investigan-gobierno-netanyahu-fabrico-partidos-arabes-propiciar-20261116103956-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/oposicao-em-israel-acusa-netanyahu-de-tentativa-de-golpe-apos-denuncias-de-interferencia-eleitoral.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/israel-opposition-spricht-von-versuchtem-staatsstreich-durch-benjamin-netanyahu-a-b08a0580-e6bf-430b-bee2-25ce834b21fa"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup/article71709115.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81"
+    }
+   ],
+   "premiere_parution": "2026-11-16T09:15:00Z",
+   "suite_de": null,
+   "mots": 281,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des pannes en ligne touchent plusieurs grandes banques aux États-Unis",
+   "chapeau": "Plusieurs grandes banques des États-Unis subissent des perturbations sur leurs services en ligne depuis le lundi 16 novembre 2026. Des milliers d'usagers signalent des blocages d'accès à leurs comptes et aux plateformes de transfert.",
+   "corps": "Des milliers de clients américains ont signalé des dysfonctionnements sur leurs applications bancaires le lundi 16 novembre 2026. L'incident concerne des établissements financiers majeurs. Les usagers citent notamment Chase, Bank of America, Wells Fargo, US Bank et Truist. Le service de transfert d'argent Zelle subit également des interruptions de fonctionnement. Les signalements proviennent de la plateforme de suivi downdetector.com, d'après The Hindu le 17 novembre 2026 à 02:21.\n\nUne défaillance survenue chez JPMorgan Chase a provoqué des répercussions sur d'autres acteurs du secteur financier. La direction de JPMorgan Chase présente cette anomalie comme un problème d'ordre technique lié à un composant logiciel. L'entreprise indique qu'un défaut de programmation informatique pourrait expliquer cette situation. Un porte-parole de Chase assure que cet incident ne découle pas d'une attaque informatique externe. L'institution bancaire affirme aussi que la difficulté rencontrée ne présente aucun caractère systémique.\n\nLes équipes de JPMorgan Chase déclarent intervenir pour rétablir les opérations normales. Les clients des différents établissements mentionnent des difficultés pour charger les pages de connexion et exécuter des opérations de paiement. Selon infotechlead.com le 17 novembre 2026 à 08:10, les plaintes déposées par les utilisateurs se comptent par milliers au sein de ces multiples réseaux bancaires.\n\nLa durée exacte de l'interruption et le nombre total d'usagers affectés par ces pannes ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/etats-unis-des-utilisateurs-rapportent-massivement-des-bugs-sur-plusieurs-applications-bancaires-20261116_HF3ZZQDJNFAQDKAY2PWRPAG7SQ"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/usuarios-relatam-problemas-em-servicos-online-dos-principais-bancos-dos-eua.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/customers-at-some-of-the-us-largest-banks-are-reporting-difficulty-accessing-accounts-online/article71709556.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cj752wvqneq6o"
+    },
+    {
+     "nom": "infotechlead.com",
+     "url": "https://infotechlead.com/digital/major-us-banks-face-online-banking-outages-as-jpmorgan-chase-software-bug-disrupts-transactions-99679"
+    }
+   ],
+   "premiere_parution": "2026-11-16T19:18:10Z",
+   "suite_de": null,
+   "mots": 257,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Lindsay Clancy sera jugée une seconde fois aux États-Unis en mars",
+   "chapeau": "Le magistrat William Sullivan a fixé le 16 novembre 2026 à Plymouth, dans le Massachusetts, la date du nouveau procès de Lindsay Clancy au 29 mars 2027. Cette femme fait face à des accusations de meurtre pour la mort de ses trois jeunes enfants survenue dans sa résidence en 2023.",
+   "corps": "Cette audience fait suite à une première procédure criminelle qui n'a pas abouti. Les procureurs réclament toujours une condamnation pénale contre cette femme de 36 ans, selon le décompte d'âge fourni par BBC News le 16 novembre 2026 à 23 heures 30.\n\nLe magistrat a rejeté la requête de la défense. Les avocats demandaient l'annulation pure et simple des poursuites.\n\nLe premier procès s'est terminé sans verdict. En septembre 2026, les douze jurés n'ont pas réussi à trouver un accord unanime malgré plusieurs jours de délibérations. Face à ce blocage, le magistrat a invalidé les débats de cette première audience.\n\nUn jury entièrement renouvelé devra examiner l'affaire lors de cette nouvelle convocation. Les jurés devront déterminer la responsabilité pénale de Lindsay Clancy dans le décès de ses trois enfants.\n\n## Ce que disent les sources\n\nConcernant l'origine exacte du blocage des jurés, ABC indique le 16 novembre 2026 à 20 heures 35 qu'un seul membre du groupe refusait de s'accorder avec les autres. Les autres médias mentionnent seulement une incapacité collective à parvenir à un consensus unanime, sans chiffrer le nombre de personnes en désaccord.\n\nNPR situe l'ouverture de ce second procès au printemps 2027. Les sept autres sources précisent une date exacte arrêtée au 29 mars de cette même année.\n\nL'identité des enfants et la nature des arguments invoqués par la défense pour demander l'abandon des poursuites ne figurent pas dans les sources transmises.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/lindsay-clancy-returns-to-court-as-potential-murder-retrial-looms"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-16/el-juez-fija-para-marzo-el-nuevo-juicio-a-lindsay-clancy-por-el-asesinato-de-sus-tres-hijos.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_16/lindsay-clancy-nuovo-processo-omicidio-figli-f45fa506-6486-4da8-be2d-41730a10bxlk.shtml"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/senalan-fecha-nuevo-juicio-lindsay-clancy-mujer-20261116165153-nt.html"
+    },
+    {
+     "nom": "times-standard.com",
+     "url": "https://times-standard.com/2026/11/16/lindsay-clancy-retrial-scheduled-for-march"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw5y1v8de35go"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/justica-dos-eua-marca-novo-julgamento-de-lindsay-clancy-acusada-de-matar-os-tres-filhos.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-16T11:09:44Z",
+   "suite_de": null,
+   "mots": 284,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Japon déploie des chasseurs après une intrusion aérienne",
+   "chapeau": "Deux avions présumés russes ont pénétré dans l'espace aérien japonais mardi 17 novembre 2026. Tokyo a protesté auprès de Moscou et dépêché des appareils militaires.",
+   "corps": "Le Japon a formulé des protestations officielles auprès de Moscou mardi 17 novembre 2026, selon The Straits Times, Deutsche Welle et France 24. Tokyo indique que deux aéronefs présumés russes ont franchi sa frontière aérienne, d'après Le Figaro, Der Spiegel, France 24 et ABC.\n\nLes forces de défense japonaises ont fait décoller des avions de chasse en réaction, d'après France 24 et ABC. L'incident s'est produit à Okinoshima, dans la zone de Fukuoka, le mardi 17 novembre 2026 à un peu plus de quatre heures du matin, selon ABC.\n\nAu même moment, l'état-major interarmées sud-coréen a signalé le déploiement d'avions de combat à la suite de la pénbration d'appareils militaires russes dans sa zone de défense aérienne, d'après Le Figaro et France 24.\n\nLe ministère japonais de la Défense rappelle que la dernière intrusion aérienne russe avérée datait de septembre 2024 au large de l'île de Rebun, d'après The Hindu du 17 novembre 2026 à 11h52. Certains détails géographiques précis manquent dans l'ensemble des rapports.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/japan-scrambles-jets-after-two-suspected-russian-aircraft-enter-airspace"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/asie-pacifique/20261117-japon-accuse-russie-deux-avions-viole-espace-aerien"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/tension-pacifico-aviones-rusos-desafian-espacio-aereo-20261117083901-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-17T02:35:50Z",
+   "suite_de": null,
+   "mots": 190,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le maire de New York supprime une unité de police spécialisée",
+   "chapeau": "Le maire de New York Zohran Mamdani a annoncé le démantèlement d'une unité de police lundi 16 novembre 2026. Il prévoit son remplacement par un groupe civil.",
+   "corps": "Zohran Mamdani a officialisé la dissolution du Groupe de réponse stratégique, une unité de la police new-yorkaise qui gérait les rassemblements. Cette entité intervenait également dans la lutte contre le terrorisme et lors de manifestations, notamment celles liées au conflit à Gaza sur le campus de l'université Columbia selon ABC (16/11/2026) et Haaretz (17/11/2026).\n\nPour remplacer cette structure, la municipalité met en place une équipe civile composée de membres non armés et dépourvus de pouvoir d'arrestation d'après The Straits Times (17/11/2026). Cette nouvelle organisation privilégie la discussion pour apaiser les tensions selon ABC (16/11/2026). Le maire a également interdit l'utilisation de gaz lacrymogène et la technique du bouclage policier lors des rassemblements selon Haaretz (17/11/2026).\n\n## Ce que disent les sources\n\nLe syndicat de police accuse le maire de céder aux exigences de sa base radicale, tandis que l'Anti-Defamation League met en garde contre les dangers de cette décision selon Haaretz (17/11/2026). ABC (16/11/2026) mentionne que l'unité dissoute faisait l'objet de critiques de la part de mouvements de gauche concernant des excès de recours à la force.\n\nCertains détails sur la composition exacte du nouveau corps civil manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mamdani-disuelve-unidad-especial-antidisturbios-prohibe-uso-20261116160905-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/new-york-mayor-mamdani-disbands-notorious-police-unit-that-used-excessive-force-on-protesters"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-17/ty-article/.premium/mamdani-disbands-controversial-nypd-unit-that-policed-pro-palestinian-protests/000001a1-e69e-d381-ade5-efffc0500000"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/new-york-zohran-mamdani-loest-umstrittene-polizeieinheit-auf-a-553547e8-a2e1-4069-8d88-331600553e7d"
+    }
+   ],
+   "premiere_parution": "2026-11-16T17:20:05Z",
+   "suite_de": null,
+   "mots": 231,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le president de la Mongolie annonce sa demission apres des accusations de corruption",
+   "chapeau": "Le president mongol Ukhnaa Khurelsukh a annonce sa demission mardi 17 novembre 2026 en Mongolie. Cette decision intervient alors qu'il fait face a des accusations de corruption de la part de l'opposition.",
+   "corps": "Le president mongol Ukhnaa Khurelsukh a communique son depart lors d'une conference de presse. L'opposition au parlement le visait par des accusations de corruption et menacait de lancer une procedure de destitution selon les sources de Bloomberg du 17 novembre 2026 a 08h34, de La Croix du 17 novembre 2026 a 11h15 et de Folha de S.Paulo du 17 novembre 2026 a 11h28.\n\nUkhnaa Khurelsukh rejette les allegations qui le visent. Il affirme avoir recu de fausses accusations et avoir subi de la diffamation d'apres les elements publies par Deutsche Welle le 17 novembre 2026 a 09h55 et The Straits Times le 17 novembre 2026 a 10h30.\n\n## Ce que disent les sources\n\nBloomberg indique que le president a fait l'annonce de maniere inattendue le 17 novembre 2026 a 08h34. Deutsche Welle precise le 17 novembre 2026 a 09h55 que les accusations portent sur un profit tire d'un projet ferroviaire gouvernemental. La Croix mentionne le 17 novembre 2026 a 11h15 que cet evenement plonge le pays dans une nouvelle crise politique.\n\nCertains details sur la date exacte du debut des procedures parlementaires manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-17/mongolian-president-abruptly-resigns-after-alleged-misconduct"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/mongolian-president-khurelsukh-to-resign-amid-corruption-allegations/a-79964717?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/mongolia-president-announces-resignation-after-graft-accusations"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/le-president-mongol-annonce-sa-demission-apres-des-accusations-de-corruption-20261117"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/presidente-da-mongolia-renuncia-apos-acusacoes-de-corrupcao.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-17T04:34:56Z",
+   "suite_de": null,
+   "mots": 218,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Gadi Eisenkot demande le départ immédiat du Premier ministre Benjamin Netanyahu",
+   "chapeau": "Le responsable politique israélien Gadi Eisenkot a réclamé le départ du Premier ministre sortant Benjamin Netanyahu le dimanche 15 novembre 2026. Cette demande intervient après des informations concernant une manipulation visant des militants arabes lors des élections législatives du 27 octobre 2026.",
+   "corps": "Gadi Eisenkot a estimé que Benjamin Netanyahu ne pouvait pas rester en poste une minute de plus, selon des déclarations relayées le dimanche 15 novembre 2026 par France 24. Cette prise de position fait suite à un reportage diffusé le même jour par la chaîne 12, qui met en cause l'entourage du Premier ministre sortant.\n\nD'après ce reportage mentionné par France 24 le dimanche 15 novembre 2026, des proches de Benjamin Netanyahu auraient transmis à la police une plainte infondée concernant des militants du parti arabe Raam à la veille des élections du 27 octobre 2026. Gadi Eisenkot exige l'ouverture immédiate d'une enquête criminelle sur ces faits.\n\nPendant ce temps, les négociations pour la formation d'un gouvernement patinent en Israël. Le camp mené par Gadi Eisenkot est passé à l'offensive à la Knesset, le parlement israélien, le lundi 16 novembre 2026 selon RFI. Le bloc d'Eisenkot tente de reprendre le contrôle de l'institution et s'apprête à remplacer le président de la Knesset.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20261114-isra%C3%ABl-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-gouvernement-pi%C3%A9tine"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/eisenkot-says-netanyahu-cannot-stay-in-office-a-minute-longer"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/benyamin-netanyahou-dont-l-entourage-est-soupconne-de-manipulations-electorales-ne-peut-pas-rester-une-minute-de-plus-en-poste-pour-gadi-eisenkot_8284325.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-politics/2026-11-16/ty-article/.premium/eisenkot-bloc-demands-probe-into-netanyahus-fabricated-election-fraud-claims/000001a1-e35d-d098-a5bd-e7dd0fe60000"
+    }
+   ],
+   "premiere_parution": "2026-11-14T19:05:38Z",
+   "suite_de": null,
+   "mots": 204,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "L ancien Premier ministre pakistanais Imran Khan demande des soins medicaux urgents",
+   "chapeau": "L ancien Premier ministre pakistanais Imran Khan a adresse une demande de soins medicaux urgents a la Cour supreme le lundi 16 novembre 2026. Incarcere depuis l annee 2023, il affirme que sa sante et celle de son epouse se degradent.",
+   "corps": "Imran Khan a saisi la haute juridiction pour reclamer une assistance medicale pour lui et sa femme selon The Straits Times du 16 novembre 2026. Il indique que les decisions de justice ordonnant leur prise en charge medicale n ont pas ete appliquees d apres la meme source. L ancien dirigeant estime qu il risque de ne pas survivre a sa detention d apres Al Jazeera du 16 novembre 2026.\n\nImran Khan est fondeur du parti Pakistan Tehreek-e-Insaf et fait face a plus de cent procedures judiciaires selon The Hindu du 16 novembre 2026. Il est en prison depuis le mois d aout 2023 d apres BBC News du 17 novembre 2026. Ses avocats et ses partisans relayent ses demandes de traitement aupres des juges selon Deutsche Welle du 16 novembre 2026.\n\nCertains elements manquent concernant la nature exacte des problemes de sante de l ancien Premier ministre.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/pakistan-ex-pm-imran-khan-appeals-for-urgent-medical-help-says-he-may-not-return-alive"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/former-pakistan-pm-imran-khan-warns-he-may-not-return-alive-seeks-medical-treatment-for-himself-wife/article71708296.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pakistan-former-leader-khan-pleads-for-medical-care/a-79961718?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cr894xq5yeyko"
+    }
+   ],
+   "premiere_parution": "2026-11-16T12:39:43Z",
+   "suite_de": null,
+   "mots": 189,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-monde-012",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le Premier ministre britannique Andy Burnham annonce un long processus de rapprochement avec l'Union européenne",
+   "chapeau": "Le Premier ministre britannique Andy Burnham a déclaré à Londres le lundi 17 novembre 2026 que toute modification importante des liens entre le Royaume-Uni et l'Union européenne prendrait du temps et ne s'appliquerait qu'après les prochaines élections.",
+   "corps": "Le Premier ministre britannique Andy Burnham s'est exprimé devant les dirigeants de la City de Londres lors d'un banquet le lundi 17 novembre 2026 (Bloomberg, le 17/11/2026 à 11:01). Il a indiqué qu'un débat serait engagé avec les partenaires européens concernant les options pour la relation à long terme (Bloomberg, le 17/11/2026 à 11:01). Le dirigeant a ainsi utilisé un discours prononcé à Londres pour apaiser les inquiétudes liées à l'ouverture d'un débat sur un retour éventuel dans le bloc européen (Financial Times, le 17/11/2026 à 03:37).\n\nCette intervention intervient avant la tenue d'un sommet entre le Royaume-Uni et l'Union européenne prévu le vendredi suivant (The Guardian, le 16/11/2026 à 10:46). Auparavant, lors d'un sommet de la Communauté politique européenne organisé à Dublin la semaine précédente, le président français Emmanuel Macron a invité le dirigeant britannique à s'asseoir à la table des discussions en présence de la présidente de la Commission européenne Ursula von der Leyen (The Guardian, le 16/11/2026 à 22:37).\n\nLes sources ne fournissent pas d'autres détails sur la date précise des prochaines élections.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-16/new-uk-relationship-with-europe-will-take-time-burnham-says"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d6a8f196-fe95-4480-9c36-283b79b7cf33?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-11-16T06:46:27Z",
+   "suite_de": null,
+   "mots": 228,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-france-001",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Vingt et quatorze ans de réclusion requis pour les parents",
+   "chapeau": "Le ministère public a demandé des peines de prison contre les parents d'Inass Touloub lundi 16 novembre 2026 devant la cour d'assises du Loir-et-Cher à Blois. Le verdict dans cette affaire de meurtre d'enfant survenu en 1987 doit intervenir mardi 17 novembre 2026.",
+   "corps": "Le procès des parents d'Inass Touloub s'est ouvert deux semaines avant le 16 novembre 2026 selon franceinfo du 16 novembre 2026. La mère, Halima El Bakhti, comparaît pour des violences mortelles aggravées sur mineur. Le père, Ahmed Touloub, répond de complicité dans ces mêmes infractions selon franceinfo du 16 novembre 2026.\n\nLe ministère public a demandé une peine de vingt ans de réclusion criminelle contre la mère et une peine de quatorze ans contre le père lors de l'audience du lundi 16 novembre 2026 d'après La Croix du 16 novembre 2026 et Le Monde du 17 novembre 2026. La cour d'assises du Loir-et-Cher doit rendre son verdict mardi 17 novembre 2026 selon Libération du 16 novembre 2026.\n\nLes investigations menées pendant onze jours de débats n'ont fourni que peu d'informations sur les quatre années d'existence de la victime, retrouvée le long d'une autoroute en août 1987 d'après franceinfo du 17 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/proces-de-la-martyre-de-l-a10-20-ans-de-reclusion-requis-contre-la-mere-14-ans-contre-le-pere-20261116"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/martyre-de-l-a10/petite-martyre-de-l-a10-vingt-ans-de-reclusion-ont-ete-requis-contre-la-mere-d-inass-touloub-et-quatorze-ans-contre-son-pere_8285060.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/proces-de-la-petite-inconnue-de-la10-20-ans-de-prison-requis-contre-la-mere-dinass-touloub-et-14-ans-contre-son-pere-20261116_E2ZVBXVRHFDJ7EZL7YD7UDVU2M"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html"
+    }
+   ],
+   "premiere_parution": "2026-11-16T16:48:28Z",
+   "suite_de": null,
+   "mots": 195,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Grève générale et manifestations dans les transports et la fonction publique",
+   "chapeau": "Les syndicats de la fonction publique appellent à la grève et à des manifestations partout en France ce mardi 17 novembre 2026. Cette mobilisation vise à réclamer des augmentations de salaires.",
+   "corps": "Huit organisations syndicales de la fonction publique appellent les agents à cesser le travail pour exiger des revalorisations salariales. Les syndicats jugent insuffisantes les annonces du gouvernement concernant les salaires des agents les plus modestes.\n\nLe mouvement touche les transports, les écoles et divers services publics. Des manifestations se déroulent dans plusieurs villes, dont Paris, Lyon, Marseille, Toulouse, Lille et Rennes. Des lycéens, des étudiants et des membres du mouvement des Gilets jaunes se joignent aux cortèges.\n\nLa RFI indique que le pays compte 5,8 millions d'agents publics le 17 novembre 2026. Libération mentionne un rassemblement de 100 000 à 200 000 personnes le samedi 14 novembre 2026.\n\n## Ce que disent les sources\n\nLibération évoque entre 100 000 et 200 000 participants le 14 novembre 2026, tandis que les autres sources ne donnent pas de chiffrage précis pour les manifestations précédentes.\n\nLe nombre total de grévistes pour la journée du 17 novembre 2026 n'est pas précisé dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261117-nouvelle-journ%C3%A9e-de-mobilisation-et-de-gr%C3%A8ve-partout-en-france"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/17/a-lyon-toulouse-lille-ou-rennes-les-ressorts-d-une-revolte-sociale-qui-s-est-ancree-au-fil-des-semaines_6812893_823448.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/economie/direct-greve-mardi-17-novembre-2026-sncf-ecole-parcours-manifestation-aujourdhui-20261117"
+    }
+   ],
+   "premiere_parution": "2026-11-16T11:45:15Z",
+   "suite_de": null,
+   "mots": 191,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Interdiction des rassemblements autour de plusieurs lycées et universités à Paris",
+   "chapeau": "La préfecture de police de Paris a interdit les rassemblements non déclarés autour de certains établissements scolaires et universitaires. Cette mesure s'applique du lundi 16 au vendredi 20 novembre 2026.",
+   "corps": "Le préfet de police Patrice Faure a pris un arrêté publié le dimanche 15 novembre 2026 selon France 24. Cette disposition concerne un périmètre de 100 mètres autour de dix lycées et cinq sites universitaires parisiens d'après Le Figaro du 16 novembre 2026.\n\nLe préfet de police justifie cette décision par la nécessité d'éviter les débordements, les blocages et les dégradations de biens publics, selon les informations rapportées par France 24 et franceinfo le 16 novembre 2026. L'autorité préfectorale estime que ces actions entravent le droit à l'enseignement pour les élèves et suscitent le mécontentement des parents d'élèves d'après Le Monde du 16 novembre 2026.\n\nEn réaction à cette interdiction, le syndicat étudiant Unef menace de saisir le tribunal administratif selon La Croix du 16 novembre 2026. Par ailleurs, des mesures similaires concernent certains établissements de la petite couronne francilienne d'après franceinfo du 16.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261115-les-rassemblements-autour-de-certains-lyc%C3%A9es-et-universit%C3%A9s-interdits-%C3%A0-paris"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/15/a-paris-les-rassemblements-interdits-de-lundi-a-vendredi-autour-de-certains-lycees-et-universites_6811050_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/blocages-a-paris-la-prefecture-durcit-le-ton-et-interdit-les-rassemblements-autour-de-certains-lycees-et-universites-20261115"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/paris-interdiction-de-rassemblement-autour-de-certains-lycees-et-universites-20261115"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/les-rassemblements-et-corteges-sont-interdits-autour-de-plusieurs-lycees-et-universites-a-paris-et-en-region-parisienne_8284295.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/french-police-ban-protests-near-some-paris-schools-and-universities"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqm2j0jvep4eo"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/education/en-direct-mobilisation-lyceenne-et-etudiante-les-rassemblements-interdits-autour-de-certains-etablissements-a-paris-20261116_3RW4TCVB55DSVFMBCL27WKJSEU"
+    }
+   ],
+   "premiere_parution": "2026-11-15T20:19:27Z",
+   "suite_de": null,
+   "mots": 174,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "La droite discute d une primaire pour la presidentielle",
+   "chapeau": "Les equipes de Gabriel Attal, Bruno Retailleau et David Lisnard preparent une primaire pour la droite et le centre en vue de l election presidentielle. Edouard Philippe refuse de participer a ce scrutin.",
+   "corps": "Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard se reunissent mardi 17 novembre 2026 en fin d apres midi pour organiser cette competition. L objectif avance est d eviter la dispersion des voix selon Gabriel Attal (France 24, 16/11/2026).\n\nEdouard Philippe rejette l idee d une telle consultation pour le moment (France 24, 16/11/2026). Gerard Larcher appelle les autres candidats a se preparer a ce scrutin (franceinfo, 17/11/2026).\n\n## Ce que disent les sources\n\nLibeneration indique le 16 novembre 2026 que Gabriel Attal et Bruno Retailleau reclament cette primaire apres avoir ete opposes. France 24 evoque une chute conjointe dans les sondages pour ces deux candidats a la date du 16 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/sur-les-quatre-candidats-de-droite-trois-doivent-mettre-fin-a-leur-ego-trip-20261116_APTKVIH5L5FLVG26EJMKGEPPNM"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261116-pr%C3%A9sidentielle-2027-la-primaire-de-droite-refus%C3%A9e-par-%C3%A9douard-philippe"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/idees/article/2026/11/17/presidentielle-2027-la-primaire-apparue-a-l-origine-comme-un-outil-apte-a-reveiller-la-mobilisation-des-electeurs-est-en-train-de-devenir-l-arme-des-perdants_6812900_3232.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html"
+    }
+   ],
+   "premiere_parution": "2026-11-16T05:00:00Z",
+   "suite_de": null,
+   "mots": 155,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Andy Burnham juge que le Brexit n'a pas fonctionné pour le pays",
+   "chapeau": "Le Premier ministre britannique Andy Burnham a prononcé un discours lundi 16 novembre 2026 à Londres devant le secteur financier. Le chef du gouvernement a affirmé que la sortie de l'Union européenne avait affaibli le Royaume-Uni avant un sommet bilatéral prévu vendredi.",
+   "corps": "Andy Burnham a pris la parole lors du banquet annuel du lord-maire au cœur du quartier d'affaires de Londres. Le Premier ministre britannique a déclaré que l'accord négocié par Boris Johnson n'avait pas apporté les bénéfices annoncés. Il a utilisé l'image du conte des habits neufs de l'empereur pour décrire la situation actuelle. Selon ses propos, le Royaume-Uni a perdu davantage qu'il n'a gagné en quittant l'Union européenne. Il a également qualifié cette décision de premier événement d'un mouvement mondial vers la fermeture des frontières et le repli commercial.\n\nLe chef de l'exécutif a préparé le terrain pour une rencontre officielle entre Londres et Bruxelles prévue le vendredi 20 novembre 2026. Cette réunion constitue le second sommet bilatéral entre les deux parties. Andy Burnham souhaite obtenir un nouvel accord avec les dirigeants européens. Les discussions porteront notamment sur la suppression de formalités aux frontières. Selon les informations publiées par le journal The Guardian le 16 novembre 2026 à 11 h 00, ces futurs arrangements pourraient augmenter le produit intérieur brut du pays de 0,4 pour cent. Le produit intérieur brut mesure la richesse totale produite, soit la valeur des biens créés.\n\nDowning Street a précisé que ces initiatives respectent le programme du Parti travailliste et les limites fixées par le gouvernement. Cette intervention s'inscrit dans une suite de déclarations publiques du dirigeant travailliste. Deux jours auparavant, Andy Burnham s'était adressé aux membres de son parti lors du congrès travailliste gallois. Il y avait déjà affirmé que le départ du bloc continental s'était soldé par un bilan négatif pour la nation. Devant les représentants des entreprises financières, il a affirmé que la rupture avec les partenaires continentaux correspondait aux objectifs des rivaux de la nation.\n\nCette démarche gouvernementale intervient dans un climat politique et économique contrasté. Les acteurs de la finance londonienne observent pour l'instant ces propositions sans accorder une grande attention aux déclarations du Premier ministre, le secteur souhaitant éviter de nouvelles secousses liées au commerce européen. Dans le même temps, les partisans du départ de l'Union européenne réorganisent leurs arguments pour répondre aux déclarations du dirigeant et défendre le résultat du vote initial.\n\nLe détail précis des mesures techniques discutées lors du sommet de vendredi n'est pas mentionné dans les documents disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-15/burnham-to-tell-city-of-london-audience-brexit-has-not-worked"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/the-city-of-london-isnt-up-for-more-brexit-trauma"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/andy-burnham-britischer-premierminister-erklaert-brexit-fuer-gescheitert-a-ca924ef5-f2b7-43b8-81eb-0b5e219f10ff"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/burnham-cuatro-dias-cumbre-reino-unido-ue-20261116161741-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-16/burnham-denuncia-que-el-brexit-no-ha-funcionado-el-emperador-esta-desnudo.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crp3e1n5kezpo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/brexit-the-sequel-leave-voices-reorganise-as-burnham-chases-eu-reset"
+    }
+   ],
+   "premiere_parution": "2026-11-14T15:34:54Z",
+   "suite_de": null,
+   "mots": 416,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump entame une tournée diplomatique aux Philippines puis en Chine",
+   "chapeau": "Le président américain Donald Trump arrive ce mardi 17 novembre 2026 à Manille aux Philippines pour rencontrer les dirigeants asiatiques. Il se rendra ensuite en Chine pour participer à des sommets multilatéraux et bilatéraux.",
+   "corps": "Donald Trump atterrit ce mardi à Manille, capitale des Philippines, à l'occasion des réunions régionales de l'Asie du Sud-Est. Il s'agit de son premier déplacement international depuis la défaite de son camp politique lors des récentes élections américaines de mi-mandat. Cette visite marque une transition de ses activités vers la politique étrangère.\n\nLe programme de Donald Trump aux Philippines comporte des échanges avec le président philippin Ferdinand Marcos Jr. et les représentants des pays de la zone. Les participants prévoient d'aborder les questions commerciales, les accords de sécurité et l'influence régionale de la Chine. Elon Musk fait partie des personnalités signalées pour participer aux activités liées aux affaires économiques en marge de ces rendez-vous.\n\nAprès son escale à Manille, le président américain partira en Chine, dans la ville de Shenzhen. Cette étape constitue son deuxième déplacement en Chine au cours de l'année 2026. Il participera aux sessions du forum de la Coopération économique pour l'Asie-Pacifique. Les discussions aborderont les restrictions décidées par Washington sur l'accès de la Chine aux technologies, dans le cadre des tensions relatives au fabricant Nvidia.\n\nEn marge du forum économique en Chine, Donald Trump participera à un sommet à trois avec le dirigeant chinois Xi Jinping et le président russe Vladimir Poutine. Les échanges porteront sur les armes nucléaires ainsi que sur la guerre menée par la Russie en Ukraine. Une rencontre éventuelle avec le dirigeant nord-coréen Kim Jong Un est également envisagée lors de ce voyage.\n\n## Ce que disent les sources\n\nRFI indique le 16 novembre 2026 à 13:14 que Donald Trump participe à la conclusion du quarante-neuvième sommet de l'Association des nations de l'Asie du Sud-Est, où les onze dirigeants lui réservent une séance spéciale. De son côté, Deutsche Welle rapporte le 17 novembre 2026 à 04:00 et à 11:34 que le président américain se rend à Manille pour une réunion du groupe Quad, alliance qui associe quatre pays de la région Indo-Pacifique. The Straits Times précise le 17 novembre 2026 à 05:29 que cette rencontre du Quad aux Philippines est la première organisée depuis deux ans, tout en mentionnant de possibles manifestations locales.\n\nLes sources ne précisent pas la composition exacte de la délégation d'affaires américaine ni la date précise d'un éventuel entretien avec Kim Jong Un.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video"
+    },
+    {
+     "nom": "texarkanagazette.com",
+     "url": "https://texarkanagazette.com/news/2026/nov/15/trump-heads-to-asia-with-hopes-of-shifting-the"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/se-asia/spy-scandal-and-midterm-defeat-heat-up-trumps-asia-visit"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261116-sommet-de-l-asean-la-venue-de-donald-trump-tr%C3%A8s-attendue-par-les-philippines"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin"
+    }
+   ],
+   "premiere_parution": "2026-11-15T00:15:00Z",
+   "suite_de": null,
+   "mots": 412,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'Iran revendique une attaque de drones contre une base américaine à Bahreïn",
+   "chapeau": "Les Gardiens de la révolution iraniens ont affirmé avoir visé une installation militaire américaine à Bahreïn dimanche 15 novembre 2026 au matin. Les autorités bahreïniennes ont déclaré avoir détruit l'ensemble des engins avant qu'ils ne touchent leur cible.",
+   "corps": "Des détonations ont retenti dimanche 15 novembre 2026 au matin dans le royaume de Bahreïn, notamment dans le secteur de la capitale Manama. Selon le média France 24, ces événements se sont déroulés entre 4 h 30 et 6 h du matin. Les autorités locales ont diffusé des consignes d'alerte invitant les résidents à se mettre immédiatement à l'abri face au danger aérien.\n\nL'armée idéologique de Téhéran, le Corps des Gardiens de la révolution islamique, a déclaré avoir mené cette action à l'aide d'aéronefs sans pilote. L'agence iranienne Fars a indiqué que l'opération constituait une riposte à des actes hostiles menés par les forces américaines. Le média franceinfo a rapporté que l'offensive visait un radar de surveillance aérienne situé sur la base d'hélicoptères d'al-Riffa. Un radar sert à localiser des cibles à distance.\n\nCette offensive constitue la deuxième attaque de drones contre Bahreïn en l'espace de trois jours, selon la BBC, La Croix, The Guardian et Bloomberg. D'après Folha de S.Paulo et Haaretz, le royaume n'avait pas émis de message d'alerte ni subi d'attaque directe de la part de l'Iran depuis le mois de septembre 2026. Le journal La Croix a précisé le 15 novembre 2026 à 19 h 47 que ces frappes n'ont provoqué aucun dégât matériel.\n\nCe regain de tension intervient dans un contexte de blocage entre Washington et Téhéran au sujet du détroit d'Ormuz. Selon The Guardian, ces frappes fragilisent les pourparlers de paix engagés entre les deux pays. Par ailleurs, Bloomberg a rapporté le déploiement du porte-avions américain USS Theodore Roosevelt dans la zone de responsabilité du commandement central américain, citant les propos d'un journaliste du média Axios relayant une source officielle américaine le 15 novembre 2026.\n\n## Ce que disent les sources\n\nLes parties divergent sur l'issue matérielle de l'opération menée le 15 novembre 2026. Les Gardiens de la révolution iraniens ont affirmé avoir touché la base militaire américaine et son dispositif radar. À l'opposé, le gouvernement de Bahreïn a affirmé que ses systèmes de défense antiaérienne ont intercepté et abattu la totalité des drones iraniens avant qu'ils n'atteignent leurs objectifs.\n\nLe nombre précis de drones tirés par l'Iran lors de cette opération n'est pas précisé par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/liran-revendique-une-nouvelle-attaque-contre-une-base-militaire-des-etats-unis-a-bahrein-20261115_VSADW3X4B5BTBJTSUPFQTRM2LU"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-revendique-une-attaque-contre-une-base-americaine-au-bahrein_8283197.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/middle-east-news/2026-11-15/ty-article/bahrain-intercepts-iranian-drone-attacks-as-tehran-says-it-hit-u-s-base/000001a1-debc-da30-a7fb-debdb7ed0000"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqn4e2py48kwo"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/guerre-au-moyen-orient-a-bahrein-l-iran-reprend-ses-frappes-contre-les-installations-americaines-20261115"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ira-ataca-bahrein-e-amplia-escalada-militar-no-golfo.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+    }
+   ],
+   "premiere_parution": "2026-11-14T12:00:00Z",
+   "suite_de": null,
+   "mots": 402,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Xi Jinping réunit Donald Trump et Vladimir Poutine en Chine",
+   "chapeau": "Le président chinois Xi Jinping accueille Donald Trump et Vladimir Poutine le jeudi 19 novembre 2026 à Shenzhen. Cette rencontre trilatérale se déroule en marge du sommet de la Coopération économique Asie-Pacifique.",
+   "corps": "Le ministère chinois des Affaires étrangères a confirmé la tenue de cet échange à trois dirigeants dans le sud de la Chine. Moscou a également confirmé la préparation d'entretiens bilatéraux entre Vladimir Poutine et Donald Trump. Selon les autorités russes, le pouvoir à Moscou cherche à obtenir une déclaration commune à l'issue des pourparlers. Le Kremlin affirme que cette rencontre exercera une influence sur les affaires internationales.\n\nLe pouvoir chinois indique que les trois présidents aborderont la préservation de la paix dans le monde. Des responsables américains mentionnent aussi des discussions possibles sur la limitation des armes atomiques et la situation énergétique au Proche-Orient. Le commerce international figure également parmi les thèmes évoqués par le président des États-Unis.\n\nCe rendez-vous survient après des défaites électorales subies par le Parti républicain lors des élections de mi-mandat aux États-Unis. La question des exportations de composants électroniques par l'entreprise américaine Nvidia entoure également le déplacement en Asie. Donald Trump a toutefois affirmé qu'il n'évoquerait pas la situation de Jensen Huang, le dirigeant de cette société technologique, avec Xi Jinping.\n\n## Ce que disent les sources\n\nLes déclarations divergent quant à l'inscription de la guerre en Ukraine au programme officiel des discussions. Selon The Guardian, Donald Trump a affirmé le 16 novembre 2026 que le conflit ukrainien ferait partie des sujets abordés lors de la réunion trilatérale. Des représentants américains cités par The Hindu le 16 novembre 2026 ont également inscrit ce dossier à l'ordre du jour. À l'opposé, un haut responsable de l'administration américaine cité par Bloomberg le 17 novembre 2026 indique que l'Ukraine ne figurera probablement pas au menu des échanges tripartites. Deutsche Welle mentionne pour sa part le conflit comme une simple éventualité.\n\nL'ordre du jour définitif et le programme horaire précis de la réunion n'ont pas été communiqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/china-confirma-cupula-trilateral-de-xi-com-trump-e-putin-na-quinta-19.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/china-confirma-trump-putin-reuniran-jueves-shenzen-20261116073536-nt.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/kremlin-says-putin-xi-trump-meeting-in-china-will-have-major-impact-on-global-affairs"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-16/kremlin-says-putin-trump-meeting-in-china-is-being-prepared"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china"
+    }
+   ],
+   "premiere_parution": "2026-11-15T05:16:00Z",
+   "suite_de": null,
+   "mots": 329,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-tech-001",
+   "rubrique": "tech",
+   "format": "standard",
+   "titre": "Donald Trump soutient le retour de Jensen Huang à la tête de Nvidia",
+   "chapeau": "Le président américain Donald Trump a soutenu publiquement lundi 16 novembre 2026 à Washington le rétablissement de Jensen Huang au poste de directeur général du fabricant de puces Nvidia. Cette prise de position intervient quelques jours après la démission du cofondateur de l'entreprise californienne.",
+   "corps": "Avant d'entamer un voyage officiel vers le continent asiatique, Donald Trump a déclaré aux journalistes qu'un retour de Jensen Huang à la direction de Nvidia ne constituerait pas une mauvaise option. Le chef de l'État américain a affirmé que l'ancien dirigeant avait retenu une leçon importante. Il a également assuré qu'un groupe étendu de personnes souhaitait son retour aux commandes.\n\nJensen Huang a quitté ses fonctions la semaine passée après la révélation d'une relation extraconjugale avec une cadre d'une société cliente établie à Singapour. Depuis ce départ, des personnalités du secteur technologique réclament sa réintégration. Elon Musk et plusieurs figures de la Silicon Valley ont notamment signé une pétition lancée vendredi sur les réseaux sociaux pour demander son retour.\n\nSelon des analystes de marché cités par la chaîne Al Jazeera le 16 novembre 2026 à 21 h 24, l'entreprise Nvidia risque une baisse de valorisation de 30 % sans la présence de Jensen Huang à sa tête. Cette estimation intervient dans un contexte de recul du cours boursier de la société.\n\n## Ce que disent les sources\n\nDes divergences notables apparaissent concernant la réintégration effective du dirigeant. Selon les informations publiées par le Financial Times et Folha de S.Paulo, le conseil d'administration de Nvidia n'envisage pas de réinstaller Jensen Huang dans ses fonctions exécutives. Le quotidien italien Corriere della Sera confirme également une opposition ferme de l'entreprise à cette perspective, tout comme Der Spiegel qui qualifie les rumeurs de retour d'hypothèses sans consistance concrète.\n\nÀ l'inverse, Donald Trump et des signataires de la Silicon Valley appuient une telle réhabilitation. D'autres observateurs du secteur expriment une position divergente. Bradley Tusk, cofondateur du fonds Tusk Ventures, a estimé sur Bloomberg que Jensen Huang ne devait pas revenir. Il a demandé au Congrès d'examiner les liens entre les anciens dirigeants de Nvidia et le gouvernement américain au regard des exportations de semi-conducteurs vers la Chine et de la sécurité nationale.\n\nLe nom de la personne assurant actuellement la direction par intérim de Nvidia n'est pas précisé par les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/nvidia-un-retour-de-jensen-huang-a-la-tete-de-l-entreprise-ne-serait-vraiment-pas-une-mauvaise-idee-selon-trump-20261116"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-would-not-mind-huang-being-reinstated-at-nvidia/article71709259.ece"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-suma-llamamiento-regreso-huang-nvidia-20261116164746-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-16/trump-says-he-would-not-mind-if-jensen-huang-returns-to-nvidia.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
+    },
+    {
+     "nom": "MIT Technology Review",
+     "url": "https://technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back"
+    }
+   ],
+   "premiere_parution": "2026-11-15T13:45:00Z",
+   "suite_de": null,
+   "mots": 380,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "L'acteur britannique Robert Pattinson incarnera le prochain James Bond au cinéma",
+   "chapeau": "Le groupe Amazon a annoncé lundi 16 novembre 2026 le choix du comédien britannique Robert Pattinson pour incarner James Bond au cinéma. L'acteur âgé de 40 ans prend ainsi la succession directe de Daniel Craig dans le rôle de l'agent secret.",
+   "corps": "Amazon, désormais propriétaire de la franchise cinématographique, a rendu publique la désignation de Robert Pattinson le lundi 16 novembre 2026. Cette décision attribue le rôle de l'espion britannique à un comédien âgé de 40 ans. Selon les producteurs cités par Ars Technica le 16 novembre 2026 à 23h36, ce choix s'appuie sur le courage du comédien dans son jeu d'acteur, sur son autodérision ainsi que sur sa capacité constante de renouvellement. L'acteur a pour sa part qualifié cette décision de rêve devenu réalité, d'après les éléments rapportés par Al Jazeera le 16 novembre 2026 à 22h13.\n\nCe recrutement conclut une période de recherche étalée sur plusieurs années pour trouver un nouvel interprète. Robert Pattinson devient le successeur de Daniel Craig, qui a prêté ses traits au personnage de 2006 à 2021 selon les données de franceinfo publiées le 17 novembre 2026 à 09h00. Avant lui, Sean Connery, George Lazenby, Roger Moore, Timothy Dalton et Pierce Brosnan ont également campé l'agent secret dans la série de films officiels, comme le répertorie El País le 17 novembre 2026 à 08h30. Sean Connery avait inauguré la série au cinéma en 1962 dans le long-métrage Dr No, rappelle The Guardian le 16 novembre 2026 à 22h47.\n\nRobert Pattinson compte parmi les acteurs les plus renommés choisis pour cette fonction, souligne le quotidien néerlandais NRC le 16 novembre 2026 à 22h30. Le grand public l'a d'abord découvert dans la saga Twilight, avant qu'il ne se tourne vers des productions indépendantes, puis vers des superproductions telles que The Batman et The Odyssey, selon les informations de la BBC diffusées le 17 novembre 2026 à 06h11. Avec ce profil, Amazon vise notamment le public de la jeunesse, d'après le journal Libération le 17 novembre 2026 à 09h50.\n\nL'annonce a suscité la republication d'anciennes déclarations du comédien britannique. Folha de S.Paulo rappelle le 16 novembre 2026 à 23h51 que l'acteur avait évoqué en 2012 son souhait de jouer ce rôle vingt ans plus tard. Le quotidien italien Corriere della Sera mentionne pour sa part, le 17 novembre 2026 à 11h55, un entretien télévisé accordé à la BBC en 2010 dans lequel l'acteur affirmait sur le ton de la plaisanterie qu'il serait très mauvais dans la peau de l'agent 007.\n\nLa date de sortie du film, son titre, son réalisateur ainsi que le reste de la distribution ne sont pas précisés par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/16/wat-voor-een-james-bond-wordt-acteur-robert-pattinson-a4941541"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/celebridades/2026/11/robert-pattinson-disse-em-2012-que-gostaria-de-viver-james-bond-em-20-anos.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/kino/robert-pattinson-als-james-bond-so-reagiert-das-netz-auf-den-neuen-007-a-f4bf23d7-a11e-404d-a7f7-e4d0672a0fdf"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/29fb712d-776e-42f9-a639-4ffdce7d652e?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwx2ev0pxmvjo"
+    }
+   ],
+   "premiere_parution": "2026-11-16T15:01:42Z",
+   "suite_de": null,
+   "mots": 437,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-17-culture-002",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "Gérard Depardieu renonce à son appel et admet sa culpabilité pour agressions sexuelles",
+   "chapeau": "Gérard Depardieu a annoncé lundi 16 novembre 2026 l'abandon de son recours en appel après un jugement pour agressions sexuelles commises à Paris. Le comédien français a présenté des excuses publiques aux plaignantes et accepte sa peine.",
+   "corps": "L'acteur de 77 ans a choisi d'interrompre l'action judiciaire qu'il avait engagée. Cette décision transforme le jugement initial en sanction finale. La justice avait prononcé contre lui une peine de 18 mois d'emprisonnement avec sursis, selon La Croix le 16 novembre 2026 à 14h21. Le sursis suspend l'exécution de la prison.\n\nLe dossier concerne des événements survenus en 2021 pendant la préparation du long-métrage Les Volets verts réalisé par Jean Becker et diffusé en 2022. La juridiction a estimé le comédien coupable d'atteintes sexuelles envers Amélie, responsable de la décoration, et Sarah, collaboratrice de mise en scène dont l'identité réelle reste protégée. Gérard Depardieu a déclaré avoir pris la mesure de ses actes passés. Il a précisé qu'il pensait ses gestes anodins mais qu'ils portaient préjudice, en ajoutant que son statut de figure d'autorité pesait sur ses interlocuteurs.\n\nLe texte diffusé par le comédien suscite des réserves auprès des parties civiles. L'acteur a écrit avoir utilisé la provocation et le registre paillard pour masquer son comportement. Maître Michelin, représentante légale de l'une des victimes, a rappelé que l'infraction retenue sanctionne une agression sexuelle et non de simples écarts de langage. Elle fait état d'un sentiment partagé entre le soulagement d'éviter une nouvelle audience et le regret de ne pas entendre de débat contradictoire. Selon l'association Ensemble contre le sexisme, les deux femmes estiment que cette formulation atténue la réalité des délits.\n\nCe désistement intervient alors que d'autres procédures judiciaires visent l'acteur. El País relevait le 16 novembre 2026 à 17h49 une vingtaine de dénonciations pour atteintes sexuelles déposées contre lui. L'autorité judiciaire doit se prononcer le 26 novembre 2026 sur un éventuel transfert de Gérard Depardieu devant une juridiction criminelle pour des accusations de viols. De plus, des documents vidéo montrant des gestes inappropriés envers une figurante sont apparus quelques jours avant le procès prévu.\n\nLe contenu intégral de la décision attendue le 26 novembre reste pour l'instant inconnu.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/16/gerard-depardieu-renonce-a-faire-appel-et-assume-sa-condamnation-pour-agressions-sexuelles_6811634_3224.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/condamne-pour-agressions-sexuelles-gerard-depardieu-renonce-a-etre-rejuge-20261115"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/ator-gerard-depardieu-pede-desculpas-apos-condenacao-por-agressao-sexual.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm20vexye1d0o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-11-16/gerard-depardieu-reconoce-su-culpabilidad-y-envia-sus-excusas-profundas-y-sinceras-a-las-victimas.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261116-proc%C3%A8s-depardieu-je-croyais-mes-gestes-sans-cons%C3%A9quences-ils-ne-l-%C3%A9taient-pas"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/video-accablante-menace-dun-proces-pour-viols-pourquoi-gerard-depardieu-change-de-strategie-de-defense-20261116_DW25UPXZW5BDPGZ6H4JAP64JNQ"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/cinema/depardieu/le-renoncement-de-gerard-depardieu-a-son-proces-en-appel-est-un-melange-de-frustration-et-de-soulagement-selon-l-avocate-d-une-des-deux-victimes-de-l-acteur_8285288.html"
+    }
+   ],
+   "premiere_parution": "2026-11-16T08:30:29Z",
+   "suite_de": null,
+   "mots": 356,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-17-culture-001",
+  "2026-11-17-geopolitique-001",
+  "2026-11-17-geopolitique-002",
+  "2026-11-17-geopolitique-003",
+  "2026-11-17-monde-001",
+  "2026-11-17-geopolitique-004",
+  "2026-11-17-culture-002",
+  "2026-11-17-tech-001"
+ ]
+}

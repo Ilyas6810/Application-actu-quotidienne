@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-16T07:30:29Z",
- "derniere": "2026-11-16",
+ "maj": "2026-11-17T08:41:04Z",
+ "derniere": "2026-11-17",
  "editions": [
+  {
+   "date": "2026-11-17",
+   "genere_a": "2026-11-17T08:41:04Z",
+   "articles": 23,
+   "une": [
+    "L'acteur britannique Robert Pattinson incarnera le prochain James Bond au cinéma",
+    "Andy Burnham juge que le Brexit n'a pas fonctionné pour le pays",
+    "Donald Trump entame une tournée diplomatique aux Philippines puis en Chine"
+   ],
+   "octets": 80385
+  },
   {
    "date": "2026-11-16",
    "genere_a": "2026-11-16T07:30:29Z",

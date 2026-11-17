@@ -1,6 +1,135 @@
 {
- "maj": "2026-11-17T03:58:44Z",
+ "maj": "2026-11-17T16:06:14Z",
  "alertes": [
+  {
+   "id": "2026-11-17-alerte-02",
+   "date": "2026-11-17",
+   "publiee_a": "2026-11-17T16:05:46Z",
+   "titre": "Philippe Diallo défie Gianni Infantino pour la présidence de la FIFA",
+   "texte": "Le président de la Fédération française de football, Philippe Diallo, a officialisé sa candidature le mardi 17 novembre 2026 pour l'élection de la FIFA prévue en mars prochain. Il critique la gestion du dirigeant sortant, Gianni Infantino, et indique posséder des soutiens hors de l'Europe.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/17/op-de-valreep-vindt-uefa-toch-een-uitdager-voor-fifa-baas-infantino-maakt-de-relatief-onbekende-philippe-diallo-nog-kans-a4941090"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/detroner-infantino-projet-planetaire-soutien-de-zidane-et-macron-les-verites-de-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261117"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Candidat-a-la-presidence-de-la-fifa-philippe-diallo-veut-en-finir-avec-la-gouvernance-solitaire-de-gianni-infantino/1744228"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/11/dirigente-frances-diz-que-conta-com-apoio-fora-da-europa-por-presidencia-da-fifa.shtml"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/jai-lexperience-les-convictions-et-les-valeurs-philippe-diallo-lance-sa-campagne-contre-gianni-infantino-pour-la-presidence-de-la-federation-internationale-de-foot-20261117_W3CUJDYG3NA55E57GRHGOIXJ2Y"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/des-derives-qui-ont-introduit-le-poison-de-la-division-les-raisons-de-la-candidature-de-philippe-diallo-face-a-gianni-infantino-pour-la-presidence-de-la-fifa_8286545.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait"
+    }
+   ],
+   "cluster": "0469faf0131cbfc3",
+   "urls": [
+    "https://abc.es/deportes/futbol/uefa-lanza-philippe-diallo-infantino-apoderarse-futbol-20261116180431-nt.html",
+    "https://aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election",
+    "https://aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe",
+    "https://aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency",
+    "https://dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/deportes/futbol/2026-11-16/la-uefa-presenta-al-frances-philippe-diallo-para-derrocar-a-infantino-como-presidente-de-la-fifa.html",
+    "https://france24.com/fr/sports/20261116-presidence-fifa-philippe-diallo-candidat-contre-infantino",
+    "https://france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait",
+    "https://franceinfo.fr/sports/foot/des-derives-qui-ont-introduit-le-poison-de-la-division-les-raisons-de-la-candidature-de-philippe-diallo-face-a-gianni-infantino-pour-la-presidence-de-la-fifa_8286545.html",
+    "https://franceinfo.fr/sports/foot/la-presidence-de-la-fifa-ou-la-quete-sans-fin-d-un-adversaire-a-gianni-infantino_8285057.html",
+    "https://franceinfo.fr/sports/foot/philippe-diallo-patron-de-la-federation-francaise-de-football-candidat-a-la-presidence-de-la-fifa_8285006.html",
+    "https://la-croix.com/sport/football-le-patron-de-la-fff-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261116",
+    "https://lefigaro.fr/sports/football/detroner-infantino-projet-planetaire-soutien-de-zidane-et-macron-les-verites-de-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261117",
+    "https://lefigaro.fr/sports/football/equipe-de-france/election-fifa-le-comex-de-la-fff-valide-la-candidature-de-philippe-diallo-le-francais-defiera-bien-gianni-infantino-20261117",
+    "https://lefigaro.fr/sports/football/foot-le-patron-de-la-federation-francaise-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261116",
+    "https://lefigaro.fr/sports/football/philippe-diallo-sera-t-il-elu-a-la-tete-de-la-fifa-20261116",
+    "https://lefigaro.fr/sports/football/presidence-de-la-fifa-comment-fonctionne-l-election-a-laquelle-se-presente-philippe-diallo-20261116",
+    "https://lemonde.fr/sport/article/2026/11/16/philippe-diallo-candidat-a-la-presidence-de-la-fifa-face-a-gianni-infantino_6812163_3242.html",
+    "https://lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html",
+    "https://lemonde.fr/sport/article/2026/11/17/avec-la-candidature-de-philippe-diallo-a-la-tete-de-la-fifa-la-presse-internationale-decouvre-un-candidat-peu-connu-qui-devra-fissurer-le-bloc-autour-de-gianni-infantino_6812953_3242.html",
+    "https://lequipe.fr/Football/Actualites/-le-football-europeen-merite-mieux-que-ca-candidat-a-la-presidence-de-la-fifa-ramon-vega-fustige-le-soutien-de-l-uefa-a-philippe-diallo/1744117",
+    "https://lequipe.fr/Football/Actualites/Candidat-a-la-presidence-de-la-fifa-philippe-diallo-veut-en-finir-avec-la-gouvernance-solitaire-de-gianni-infantino/1744228",
+    "https://lequipe.fr/Football/Actualites/La-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa-acceptee-par-le-comite-executif-de-la-fff/1744201",
+    "https://lequipe.fr/Football/Actualites/Plusieurs-postulants-deux-presidents-avant-philippe-diallo-quels-candidats-francais-ont-voulu-prendre-la-tete-de-la-fifa/1744099",
+    "https://lequipe.fr/Football/Article/Entre-gianni-infantino-le-triple-tenant-et-philippe-diallo-son-principal-challenger-le-combat-pour-la-presidence-de-la-fifa-pourrait-etre-moins-desequilibre-qu-il-y-parait/1744136",
+    "https://lequipe.fr/Medias/Actualites/-choix-tardif-tache-compliquee-candidat-capable-de-mettre-fin-a-la-domination-d-infantino-la-revue-de-presse-internationale-apres-la-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa/1744199",
+    "https://liberation.fr/sports/football/congres-de-la-fifa-le-president-de-la-federation-francaise-philippe-diallo-dans-la-course-contre-gianni-infantino-20261116_QVO7ZDIJWVDD7EHHP6QB5YV44Q",
+    "https://liberation.fr/sports/football/jai-lexperience-les-convictions-et-les-valeurs-philippe-diallo-lance-sa-campagne-contre-gianni-infantino-pour-la-presidence-de-la-federation-internationale-de-foot-20261117_W3CUJDYG3NA55E57GRHGOIXJ2Y",
+    "https://nrc.nl/nieuws/2026/11/17/op-de-valreep-vindt-uefa-toch-een-uitdager-voor-fifa-baas-infantino-maakt-de-relatief-onbekende-philippe-diallo-nog-kans-a4941090",
+    "https://rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
+    "https://spiegel.de/sport/fussball/fifa-praesidentschaftswahl-uefa-nominiert-philippe-diallo-als-herausforderer-fuer-gianni-infantino-a-5d50e5bb-a0d5-4ed0-b50b-d95bbb3bb5bb",
+    "https://theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
+    "https://video.lefigaro.fr/figaro/sports/football/presidence-de-la-fifa-philippe-diallo-president-de-la-federation-francaise-de-football-designe-candidat-par-l-uefa-20261116",
+    "https://video.lefigaro.fr/figaro/sports/presidence-de-la-fifa-philippe-diallo-confirme-avoir-accepte-de-candidater-20261117",
+    "https://video.lefigaro.fr/figaro/sports/presidence-de-la-fifa-philippe-diallo-denonce-une-serie-de-decisions-qui-ont-bafoue-les-valeurs-du-football-20261117",
+    "https://video.lefigaro.fr/figaro/sports/presidence-de-la-fifa-suivez-en-direct-la-validation-de-la-candidature-de-philippe-diallo-20261117",
+    "https://www1.folha.uol.com.br/esporte/2026/11/dirigente-frances-diz-que-conta-com-apoio-fora-da-europa-por-presidencia-da-fifa.shtml",
+    "https://www1.folha.uol.com.br/esporte/2026/11/presidente-da-federacao-francesa-sera-o-candidato-da-uefa-contra-infantino.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-17-alerte-03",
+   "date": "2026-11-17",
+   "publiee_a": "2026-11-17T16:06:14Z",
+   "titre": "Wayne Rooney révèle avoir eu des pensées suicidaires durant sa carrière",
+   "texte": "L'ancien attaquant de Manchester United, Wayne Rooney, a confié ce mardi 17 novembre 2026 dans un podcast avoir traversé une période de détresse psychologique. Il a admis avoir envisagé le suicide alors qu'il évoluait au sommet de sa carrière sportive.",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/j-en-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-l-ex-footballeur-britannique-wayne-rooney-revele-avoir-traverse-une-periode-tres-sombre-au-sommet-de-sa-carriere_8286548.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/jen-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-lex-star-du-foot-anglais-wayne-rooney-revele-ses-episodes-depressifs-20261117_JYSENASJB5CHZOP64LTCUCXUJU"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/cx1l0n3v003eo"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Au-sommet-de-sa-carriere-wayne-rooney-s-isolait-buvait-trop-et-pensait-au-suicide-j-ai-vraiment-beaucoup-souffert/1744247"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/11/ex-atacante-rooney-admite-ter-tido-pensamentos-suicidas-durante-a-carreira.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/foot-j-en-suis-arrive-a-envisager-le-suicide-wayne-rooney-revele-son-profond-mal-etre-au-sommet-de-sa-carriere-20261117"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health"
+    }
+   ],
+   "cluster": "2be816b3bb2d4118",
+   "urls": [
+    "https://bbc.co.uk/sport/football/articles/cx1l0n3v003eo",
+    "https://franceinfo.fr/sports/foot/j-en-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-l-ex-footballeur-britannique-wayne-rooney-revele-avoir-traverse-une-periode-tres-sombre-au-sommet-de-sa-carriere_8286548.html",
+    "https://lefigaro.fr/sports/football/foot-j-en-suis-arrive-a-envisager-le-suicide-wayne-rooney-revele-son-profond-mal-etre-au-sommet-de-sa-carriere-20261117",
+    "https://lequipe.fr/Football/Actualites/Au-sommet-de-sa-carriere-wayne-rooney-s-isolait-buvait-trop-et-pensait-au-suicide-j-ai-vraiment-beaucoup-souffert/1744247",
+    "https://liberation.fr/sports/football/jen-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-lex-star-du-foot-anglais-wayne-rooney-revele-ses-episodes-depressifs-20261117_JYSENASJB5CHZOP64LTCUCXUJU",
+    "https://theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
+    "https://www1.folha.uol.com.br/esporte/2026/11/ex-atacante-rooney-admite-ter-tido-pensamentos-suicidas-durante-a-carreira.shtml"
+   ]
+  },
   {
    "id": "2026-11-17-alerte-01",
    "date": "2026-11-17",

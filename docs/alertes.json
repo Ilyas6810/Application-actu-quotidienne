@@ -1,6 +1,44 @@
 {
- "maj": "2026-11-15T23:00:47Z",
+ "maj": "2026-11-17T03:58:44Z",
  "alertes": [
+  {
+   "id": "2026-11-17-alerte-01",
+   "date": "2026-11-17",
+   "publiee_a": "2026-11-17T03:58:44Z",
+   "titre": "Tokyo proteste après l'incursion de deux avions russes présumés",
+   "texte": "Le gouvernement japonais a fait décoller des avions de chasse mardi 17 novembre 2026 après l'intrusion supposée de deux appareils russes dans son espace aérien. Tokyo a transmis une ferme protestation diplomatique aux autorités de Moscou.",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/japan-scrambles-jets-after-two-suspected-russian-aircraft-enter-airspace"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece"
+    }
+   ],
+   "cluster": "06b585d986294abb",
+   "urls": [
+    "https://dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss",
+    "https://lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117",
+    "https://spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f",
+    "https://straitstimes.com/asia/east-asia/japan-scrambles-jets-after-two-suspected-russian-aircraft-enter-airspace",
+    "https://straitstimes.com/asia/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace",
+    "https://thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece"
+   ]
+  },
   {
    "id": "2026-11-16-alerte-01",
    "date": "2026-11-16",
@@ -1274,189 +1312,6 @@
     "https://thehindu.com/news/international/trumps-close-ties-to-nvidias-huang-scrutinised-after-foreign-intelligence-concerns/article71683989.ece",
     "https://timesofindia.indiatimes.com/world/us/he-probably-has-an-excuse-trump-reacts-to-nvidia-ceo-jensen-huangs-chinese-spy-scandal/articleshow/135673048.cms",
     "https://video.corriere.it/trump-difende-il-numero-uno-di-nvidia-dalle-accuse-di-spionaggio-e-una-brava-persona/bbca0941-da1a-46c8-94f4-49a794a4exlk"
-   ]
-  },
-  {
-   "id": "2026-11-09-alerte-01",
-   "date": "2026-11-09",
-   "publiee_a": "2026-11-08T22:10:42Z",
-   "titre": "Nvidia lance une enquête interne sur son dirigeant Jensen Huang",
-   "texte": "L'entreprise Nvidia a déclenché une enquête indépendante le dimanche 8 novembre 2026 aux États-Unis après des révélations visant son directeur général. Jensen Huang a reconnu une relation intime avec une femme d'affaires que Washington soupçonne d'espionnage pour Pékin.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/ceo-da-nvidia-admite-relacionamento-intimo-apos-alegacoes-de-caso-com-espia-chinesa.shtml"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/nvidia-abre-investigacion-ceo-despues-admitiera-relacion-20261108213625-nt.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c3dxw10rjn9no"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/nvidia-opens-probe-after-report-of-ceo-huangs-relationship-with-alleged-chinese-spy"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html"
-    },
-    {
-     "nom": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns"
-    }
-   ],
-   "cluster": "2fe60bd881b7c696",
-   "urls": [
-    "https://abc.es/internacional/nvidia-abre-investigacion-ceo-despues-admitiera-relacion-20261108213625-nt.html",
-    "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns",
-    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns",
-    "https://bbc.co.uk/news/articles/c3dxw10rjn9no",
-    "https://bloomberg.com/news/articles/2026-11-07/us-believes-woman-close-to-nvidia-ceo-was-a-china-spy-nyt-says",
-    "https://bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
-    "https://bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang",
-    "https://c-level.folha.uol.com.br/ia/2026/11/eua-acreditam-que-ceo-da-nvidia-teve-relacionamento-amoroso-com-suposta-espia-chinesa.shtml",
-    "https://c-level.folha.uol.com.br/negocios/2026/11/ceo-da-nvidia-admite-relacionamento-intimo-apos-alegacoes-de-caso-com-espia-chinesa.shtml",
-    "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
-    "https://franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html",
-    "https://ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
-    "https://ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1",
-    "https://ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-    "https://lefigaro.fr/conjoncture/le-patron-de-nvidia-aurait-il-ete-piege-par-une-espionne-chinoise-le-senat-americain-va-enqueter-20261108",
-    "https://lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
-    "https://spiegel.de/ausland/nvidia-chef-jensen-huang-entschuldigt-sich-fuer-affaere-mit-mutmasslicher-spionin-a-66db6061-9340-44ba-9c9d-75726df75e3b",
-    "https://spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48",
-    "https://spiegel.de/wirtschaft/unternehmen/nvidia-medienbericht-wirft-huang-affaere-mit-mutmasslicher-chinesischer-spionin-vor-a-8b6c5163-b475-4478-a335-3aeaeccdca48",
-    "https://straitstimes.com/world/united-states/chinas-top-spy-agency-recruited-woman-who-targeted-nvidias-jensen-huang",
-    "https://straitstimes.com/world/united-states/nvidia-opens-probe-after-report-of-ceo-huangs-relationship-with-alleged-chinese-spy",
-    "https://theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
-   ]
-  },
-  {
-   "id": "2026-11-09-alerte-02",
-   "date": "2026-11-09",
-   "publiee_a": "2026-11-08T22:19:25Z",
-   "titre": "Une collision entre deux trains en Égypte fait sept morts",
-   "texte": "Au moins sept personnes sont mortes et 112 autres ont été blessées le 8 novembre 2026 lors d'une collision entre deux trains en Égypte. L'accident s'est produit dans le district d'Al-Ayyat, situé dans le gouvernorat de Gizeh au sud du Caire.",
-   "sources": [
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/flash-actu/egypte-au-moins-sept-morts-et-plus-d-une-centaine-de-blesses-dans-une-collision-entre-deux-trains-20261108"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/colisao-de-trens-no-egito-mata-7-pessoas-e-fere-112.shtml"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cwvgr20mmmevo"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece"
-    }
-   ],
-   "cluster": "02262f88591d9507",
-   "urls": [
-    "https://abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html",
-    "https://aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city",
-    "https://aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt",
-    "https://apnews.com/article/egypt-train-crash-giza-collision-cairo-injuries-4ad591268ce015d85ae302e22185b235",
-    "https://bakersfieldnow.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
-    "https://bbc.co.uk/news/articles/cwvgr20mmmevo",
-    "https://dw.com/en/egypt-train-crash-leaves-several-dead-many-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-11-08/varios-muertos-y-heridos-por-la-colision-de-dos-trenes-en-la-provincia-egipcia-de-giza.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_8?evenement=688aa52ddd",
-    "https://franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html",
-    "https://katu.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
-    "https://lefigaro.fr/flash-actu/egypte-au-moins-sept-morts-et-plus-d-une-centaine-de-blesses-dans-une-collision-entre-deux-trains-20261108",
-    "https://northwalespioneer.co.uk/news/national/26710005.seven-killed-125-injured-train-collision-egypt",
-    "https://straitstimes.com/world/middle-east/train-collision-in-egypts-giza-province-kills-4-and-injures-88-health-ministry-says",
-    "https://straitstimes.com/world/train-collision-in-egypts-giza-kills-4-injures-88-health-ministry",
-    "https://thegazette.com/news/world/collision-between-2-trains-in-egypt-kills-7-and-injures-at-least-125/article_cf3ce0d4-ee63-5856-9e75-6be9cc913bd3.html",
-    "https://theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-    "https://thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
-    "https://vanguardngr.com/2026/11/seven-killed-over-100-injured-in-egypt-train-collision",
-    "https://wcyb.com/news/nation-world/train-collision-kills-at-least-7-injures-over-100-in-egypt-kfr-ammar-al-raqqa-alexandria-cairo-derailment-train-crash-giza-president-abdel-fattah-el-sissi-egyptian-national-railways-train-driver-accident",
-    "https://www1.folha.uol.com.br/mundo/2026/11/colisao-de-trens-no-egito-mata-7-pessoas-e-fere-112.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-09-alerte-03",
-   "date": "2026-11-09",
-   "publiee_a": "2026-11-08T22:27:01Z",
-   "titre": "Lando Norris gagne le Grand Prix de Formule 1 du Brésil",
-   "texte": "Le pilote McLaren Lando Norris a remporté le Grand Prix automobile du Brésil à São Paulo le dimanche 8 novembre 2026. Le Britannique a devancé Max Verstappen et Isack Hadjar sur une piste rendue humide par les averses.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/auto-moto/formule-1/sous-la-pluie-lando-norris-remporte-le-grand-prix-du-bresil-devant-max-verstappen-et-isack-hadjar_8273651.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/formule-1/formule-1-troisieme-succes-de-la-saison-pour-norris-hadjar-arrache-un-nouveau-podium-au-bresil-20261108"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Formule-1/Actualites/Lando-norris-vainqueur-au-bresil-sous-la-pluie-j-ai-su-garder-mon-sang-froid/1742333"
-    }
-   ],
-   "cluster": "47904b3306b6c90c",
-   "urls": [
-    "https://bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo",
-    "https://bbc.co.uk/sport/formula1/articles/c6gell5l7l3zo",
-    "https://bbc.co.uk/sport/formula1/articles/cmde81d9nkxko",
-    "https://franceinfo.fr/sports/auto-moto/formule-1/sous-la-pluie-lando-norris-remporte-le-grand-prix-du-bresil-devant-max-verstappen-et-isack-hadjar_8273651.html",
-    "https://lefigaro.fr/sports/formule-1/formule-1-norris-comme-a-la-maison-hadjar-et-red-bull-tout-sourire-alpine-anonyme-les-tops-et-les-flops-du-grand-prix-du-bresil-20261108",
-    "https://lefigaro.fr/sports/formule-1/formule-1-troisieme-succes-de-la-saison-pour-norris-hadjar-arrache-un-nouveau-podium-au-bresil-20261108",
-    "https://lequipe.fr/Formule-1/Actualites/-ce-n-etait-vraiment-pas-facile-en-piste-en-pole-au-bresil-lando-norris-s-est-fait-quelques-frayeurs/1742088",
-    "https://lequipe.fr/Formule-1/Actualites/Donnez-une-note-au-grand-prix-du-bresil/1742355",
-    "https://lequipe.fr/Formule-1/Actualites/Lando-norris-vainqueur-au-bresil-sous-la-pluie-j-ai-su-garder-mon-sang-froid/1742333",
-    "https://spiegel.de/sport/formel1/formel-1-lando-norris-siegt-in-sao-paulo-mercedes-jubelt-ueber-team-wm-a-8515aa9f-3837-4ac7-b019-b121968f9cb7",
-    "https://theguardian.com/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying",
-    "https://theguardian.com/sport/2026/nov/08/lando-norris-wins-f1-sao-paulo-grand-prix-max-verstappen-kimi-antonelli-lewis-hamilton-mercedes",
-    "https://theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-    "https://theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
-    "https://video.lefigaro.fr/figaro/sports/formule-1/formule-1-lando-norris-remporte-le-grand-prix-du-bresil-son-troisieme-succes-de-la-saison-20261108"
    ]
   }
  ]

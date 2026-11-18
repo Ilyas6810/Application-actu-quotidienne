@@ -1,6 +1,153 @@
 {
- "maj": "2026-11-17T16:06:14Z",
+ "maj": "2026-11-18T01:13:20Z",
  "alertes": [
+  {
+   "id": "2026-11-18-alerte-01",
+   "date": "2026-11-18",
+   "publiee_a": "2026-11-18T01:09:06Z",
+   "titre": "Matan Kahana élu président de la Knesset avec soixante-six voix",
+   "texte": "Le Parlement israélien a élu Matan Kahana au poste de président mardi 17 novembre 2026, selon Le Monde et Franceinfo. Cet allié de Gadi Eisenkot a obtenu soixante-six voix sur un total de cent vingt députés.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_17/israele-la-knesset-volta-pagina-kahana-alla-guida-del-parlamento-primo-colpo-a-netanyahu-e1608b13-db38-42be-abb5-8f1e344a9xlk.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/parlamento-de-israel-elege-opositor-de-netayahu-para-comandar-o-legislativo.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+    }
+   ],
+   "cluster": "7088e8a85f864201",
+   "urls": [
+    "https://abc.es/internacional/israel-elige-hoy-presidente-parlamento-20261117201933-nt.html",
+    "https://aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker",
+    "https://bloomberg.com/news/articles/2026-11-17/israel-opposition-gains-ground-in-bid-to-undo-netanyahu-s-agenda",
+    "https://corriere.it/esteri/26_novembre_17/israele-la-knesset-volta-pagina-kahana-alla-guida-del-parlamento-primo-colpo-a-netanyahu-e1608b13-db38-42be-abb5-8f1e344a9xlk.shtml",
+    "https://france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement",
+    "https://france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p...",
+    "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html",
+    "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81",
+    "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
+    "https://haaretz.com/israel-news/elections/2026-11-17/ty-article/.premium/eisenkot-rejects-likud-request-to-bar-arab-parties-from-knesset-leadership-role/000001a1-ea29-d9ff-a7b5-fbafd0bb0000",
+    "https://haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/knesset-set-to-elect-eisenkot-ally-matan-kahana-as-new-speaker/000001a1-e5dc-d381-ade5-effd223b0000",
+    "https://haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/knesset-votes-to-replace-likud-speaker-with-eisenkot-ally-matan-kahana/000001a1-eb2a-d3e7-a9ff-ef7ab0900000",
+    "https://haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/who-is-matan-kahana-poised-to-be-israels-next-knesset-speaker/000001a1-e99c-d848-abeb-fb9c8f3e0000",
+    "https://lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html",
+    "https://rfi.fr/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-alli%C3%A9-d-eisenkot-et-opposant-%C3%A0-netanyahu-%C3%A9lu-pr%C3%A9sident-de-la-knesset",
+    "https://spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e",
+    "https://straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker",
+    "https://theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+    "https://www1.folha.uol.com.br/mundo/2026/11/parlamento-de-israel-elege-opositor-de-netayahu-para-comandar-o-legislativo.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-18-alerte-02",
+   "date": "2026-11-18",
+   "publiee_a": "2026-11-18T01:13:20Z",
+   "titre": "Le conseil d'administration de Nvidia refuse de réintégrer Jensen Huang",
+   "texte": "Le président du conseil d'administration de Nvidia, Harvey Jones, a annoncé le refus de réintégrer l'ancien directeur général Jensen Huang aux États-Unis le 18 novembre 2026. Cette déclaration intervient alors que le fondateur du groupe technologique venait d'affirmer sa disponibilité pour reprendre ses fonctions.",
+   "sources": [
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm2kl50vkwkdo"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-board-says-jensen-huang-will-not-return-as-ceo"
+    }
+   ],
+   "cluster": "517e97cef66a9ffd",
+   "urls": [
+    "https://abc.es/economia/jensen-huang-plantea-forzar-regreso-frente-nvidia-20261116022858-nt.html",
+    "https://abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html",
+    "https://abc7.com/story/nvidia-forms-national-security-committee-feds-probe-company-center-scandal/20048239",
+    "https://aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role",
+    "https://americanbazaaronline.com/2026/11/16/will-jensen-huang-return-to-nvidia-492394",
+    "https://aol.com/articles/nvidia-forms-national-security-committee-164702000.html",
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-board-says-jensen-huang-will-not-return-as-ceo",
+    "https://bbc.co.uk/news/articles/cm2kl50vkwkdo",
+    "https://bbc.co.uk/news/articles/cwx2en2vrxmdo",
+    "https://bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+    "https://bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
+    "https://bloomberg.com/news/videos/2026-11-16/opinion-jensen-huang-cannot-return-to-nvidia-video",
+    "https://bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
+    "https://bloomberg.com/news/videos/2026-11-17/bloomberg-businessweek-daily-11-17-2026-video",
+    "https://bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/ceos-de-empresas-de-tecnologia-defendem-huang-e-pedem-volta-do-executivo-a-nvidia.shtml",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/conselho-da-nvidia-descarta-retorno-de-jensen-huang-ao-comando.shtml",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados.shtml",
+    "https://dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/us/2026-11-15/jensen-huang-planea-su-regreso-a-nvidia-con-el-apoyo-de-silicon-valley.html",
+    "https://elpais.com/us/economia/2026-11-16/trump-dice-que-no-le-importaria-si-jensen-huang-vuelve-a-nvidia.html",
+    "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
+    "https://english.elpais.com/economy-and-business/2026-11-17/jensen-huang-breaks-his-silence-after-nvidia-exit-says-he-is-open-to-returning.html",
+    "https://ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+    "https://ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+    "https://ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
+    "https://ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+    "https://kansaspublicradio.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+    "https://news.wjct.org/tech/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+    "https://npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
+    "https://npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+    "https://salisburyjournal.co.uk/news/national/26738711.ousted-jensen-huang-says-honoured-return-nvidia",
+    "https://spiegel.de/netzwelt/nvidia-elon-musk-und-weitere-tech-promis-fordern-rueckkehr-von-jensen-huang-zu-nvidia-a-2b8df6de-9596-489f-a912-17586e192336",
+    "https://spiegel.de/wirtschaft/nvidia-konzern-schliesst-rueckkehr-von-jensen-huang-offenbar-aus-a-81b915e6-b63f-4074-a333-b1cdec5a3990",
+    "https://spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95",
+    "https://spiegel.de/wirtschaft/unternehmen/nvidia-warum-die-tech-bosse-jensen-huangs-rueckkehr-fordern-a-7c966f6a-6430-47e6-b5f4-edb6202a2617",
+    "https://spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6",
+    "https://theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+    "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+    "https://wondradio.com/abc-business/3de59a00095f8e94cd28ff0b764b706d"
+   ]
+  },
   {
    "id": "2026-11-17-alerte-02",
    "date": "2026-11-17",
@@ -1202,245 +1349,6 @@
     "https://theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
     "https://thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
     "https://thehindu.com/news/international/us-judge-orders-psychiatric-exam-for-meghan-markles-father/article71685753.ece"
-   ]
-  },
-  {
-   "id": "2026-11-10-alerte-02",
-   "date": "2026-11-10",
-   "publiee_a": "2026-11-10T14:58:26Z",
-   "titre": "Cyberattaque de frigos en France : Paris convoque l'ambassadeur d'Iran",
-   "texte": "Le ministère des Affaires étrangères français a convoqué l'ambassadeur d'Iran le mardi 10 novembre 2026 à Paris. La France accuse une unité iranienne d'avoir piraté les réfrigérateurs de centaines de supermarchés en octobre 2026, ce que Téhéran dément.",
-   "sources": [
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-la-france-va-convoquer-l-ambassadeur-d-iran-et-demander-des-sanctions-europeennes-20261110"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/france/20261110-cyberattaques-attribu%C3%A9es-%C3%A0-l-iran-t%C3%A9h%C3%A9ran-nie-paris-%C3%A0-l-offensive"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/economie/economie-numerique/cyberattaques-contre-les-frigos-de-supermarches-shahid-kaveh-le-bras-cyber-des-gardiens-de-la-revolution-iraniens-pointe-par-paris-20261110_BUZ5XWVCFFAHTLPBOPCF2FNJZE"
-    }
-   ],
-   "cluster": "123191a825ab59e7",
-   "urls": [
-    "https://abc.es/internacional/francia-acusa-iran-ciberataques-camaras-frigorificas-20261109173503-nt.html",
-    "https://aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-    "https://aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
-    "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
-    "https://bloomberg.com/news/articles/2026-11-09/iran-suspected-of-fridge-hacks-french-prosecutors-say",
-    "https://corriere.it/politica/26_novembre_09/attacchi-ai-freezer-la-pista-dell-iran-il-caso-hacker-al-summit-del-g7-esteri-0ebad166-078c-4b26-bd97-b13b8627fxlk.shtml",
-    "https://dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-11-09/francia-acusa-a-iran-del-ciberataque-contra-los-sistemas-de-refrigeracion-de-cientos-de-supermercados.html",
-    "https://france24.com/fr/%C3%A9missions/info-%C3%A9co/20261110-cyberattaques-contre-les-supermarch%C3%A9s-pourquoi-l-iran-m%C3%A8ne-t-il-une-guerre-%C3%A9conomique-en-france",
-    "https://france24.com/fr/europe/20261109-cyberattaques-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-france-pointe-doigt-iran",
-    "https://france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
-    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html",
-    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-accuse-l-iran-de-la-cyberattaque-contre-des-frigos-de-supermarches_8275238.html",
-    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-accuse-l-iran-pour-la-cyberattaque-des-supermarches_8276150.html",
-    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-accuse-d-etre-a-l-origine-de-la-cyberattaque-contre-des-frigos-connectes-affirme-jean-noel-barrot_8275883.html",
-    "https://franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html",
-    "https://franceinfo.fr/replay-jt/france-2/20-heures/piratage-des-frigos-la-france-accuse-l-iran-et-les-gardiens-de-la-revolution_8275106.html",
-    "https://franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/si-nous-sommes-capables-de-savoir-qui-se-trouve-derriere-une-attaque-cela-temoigne-de-nos-capacites-d-identification-et-de-la-capacite-de-represailles-de-la-france-analyse-guy-philippe-goldstein-enseignant-a-l-ecole-de-guerre-economique_8275985.html",
-    "https://ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
-    "https://kazu.org/npr-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "https://la-croix.com/international/piratage-des-frigos-la-france-accuse-l-iran-detre-a-lorigine-de-la-cyberattaque-20261109",
-    "https://lefigaro.fr/international/cyberattaque-contre-des-frigos-de-supermarches-la-france-va-convoquer-l-ambassadeur-d-iran-et-demander-des-sanctions-europeennes-20261110",
-    "https://lefigaro.fr/international/cyberattaques-contre-des-frigos-de-supermarches-les-services-francais-identifient-la-main-de-l-iran-20261109",
-    "https://lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
-    "https://lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
-    "https://lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
-    "https://liberation.fr/economie/economie-numerique/cyberattaques-contre-les-frigos-de-supermarches-shahid-kaveh-le-bras-cyber-des-gardiens-de-la-revolution-iraniens-pointe-par-paris-20261110_BUZ5XWVCFFAHTLPBOPCF2FNJZE",
-    "https://liberation.fr/societe/police-justice/avec-lattribution-des-cyberattaques-contre-les-frigos-a-liran-la-france-hausse-dun-cran-sa-replique-20261110_O2MDF7TQCJFP5FEFHMCXR4RAGQ",
-    "https://liberation.fr/societe/police-justice/cyberattaques-contre-les-frigos-de-supermarches-la-justice-francaise-pointe-liran-20261109_AQM4IVG3S5GGNH4ZYHCBBFEF2I",
-    "https://npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-    "https://politico.eu/article/france-blames-iran-for-cyberattacks-targeting-supermarket-fridges",
-    "https://politico.eu/article/la-france-accuse-liran-detre-a-lorigine-de-cyberattaques-visant-les-refrigerateurs-des-supermarches",
-    "https://rfi.fr/fr/france/20261109-la-france-accuse-l-iran-d-%C3%AAtre-responsable-de-l-attaque-contre-les-frigos-connect%C3%A9s",
-    "https://rfi.fr/fr/france/20261110-cyberattaques-attribu%C3%A9es-%C3%A0-l-iran-t%C3%A9h%C3%A9ran-nie-paris-%C3%A0-l-offensive",
-    "https://spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5",
-    "https://spiegel.de/netzwelt/netzpolitik/angriffe-auf-kuehlanlagen-in-supermaerkten-frankreich-beschuldigt-iran-a-43f4789a-967f-4470-883e-a91963b0ada8",
-    "https://straitstimes.com/world/europe/france-accuses-iran-of-hacking-supermarket-refrigerators",
-    "https://theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-    "https://thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece",
-    "https://thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
-    "https://theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
-    "https://wamc.org/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "https://www1.folha.uol.com.br/mercado/2026/11/franca-acusa-o-ira-de-hackear-refrigeradores-de-supermercados.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-10-alerte-03",
-   "date": "2026-11-10",
-   "publiee_a": "2026-11-10T14:59:58Z",
-   "titre": "Un élu républicain lance une procédure de destitution contre le secrétaire à la Défense",
-   "texte": "Le représentant républicain Thomas Massie a déposé huit articles de destitution contre le secrétaire américain à la Défense Pete Hegseth aux États-Unis le 10 novembre 2026. L'élu reproche au chef du Pentagone d'avoir mené des opérations militaires sans respecter la Constitution.",
-   "sources": [
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cwr5y58jjp8ro"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/middle-east/what-are-the-impeachment-articles-facing-pete-hegseth"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
-    }
-   ],
-   "cluster": "2b1642d0420805fb",
-   "urls": [
-    "https://2news.com/news/national/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article_7eb80d03-9b6c-59eb-a364-84ba96f8d1be.html",
-    "https://aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce",
-    "https://aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth",
-    "https://aljazeera.com/video/newsfeed/2026/11/10/hegseth-promises-to-defend-warriors-as-he-faces-impeachment",
-    "https://aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth",
-    "https://aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears",
-    "https://armytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may",
-    "https://bbc.co.uk/news/articles/cwr5y58jjp8ro",
-    "https://bicesteradvertiser.net/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
-    "https://bloomberg.com/news/articles/2026-11-09/lawmaker-set-to-launch-impeachment-effort-against-hegseth",
-    "https://bloomberg.com/news/articles/2026-11-10/pentagon-chief-hegseth-slams-impeachment-push-in-congress",
-    "https://bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
-    "https://bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video",
-    "https://bostonherald.com/2026/11/10/pete-hegseth-news-briefing-impeachment-effort",
-    "https://dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
-    "https://english.elpais.com/usa/2026-11-09/republican-lawmaker-moves-to-impeach-defense-secretary-pete-hegseth.html",
-    "https://freepressseries.co.uk/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
-    "https://ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
-    "https://herefordtimes.com/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
-    "https://knpr.org/npr/2026-11-09/thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth",
-    "https://ktbs.com/news/national_politics/hegseth-says-bipartisan-impeachment-push-is-about-policy-disagreements-not-high-crimes/article_35e030e7-e56e-5199-9052-e61344f0fb4f.html",
-    "https://northernpublicradio.org/2026-11-09/thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth",
-    "https://npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-    "https://peeblesshirenews.com/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
-    "https://staradvertiser.com/2026/11/09/breaking-news/house-republican-introduces-impeachment-articles-against-hegseth",
-    "https://straitstimes.com/world/middle-east/what-are-the-impeachment-articles-facing-pete-hegseth",
-    "https://straitstimes.com/world/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail",
-    "https://straitstimes.com/world/united-states/how-impeaching-us-defence-secretary-pete-hegseth-would-work",
-    "https://straitstimes.com/world/united-states/republican-launches-impeachment-against-us-defense-chief-pete-hegseth",
-    "https://theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
-    "https://theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie",
-    "https://theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-    "https://thehindu.com/news/international/defence-secretary-pete-hegseth-thomas-massie-8-articles-of-impeachment-filed-united-states-war-power-resolution/article71684991.ece",
-    "https://thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece",
-    "https://thehindu.com/news/international/republican-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article71685083.ece",
-    "https://wbrc.com/2026/11/10/gop-lawmaker-introduces-articles-impeachment-against-hegseth",
-    "https://whtimes.co.uk/news/national/26713931.pete-hegseth-accused-high-crimes-misdemeanours-impeachment-fight",
-    "https://winknews.com/news/hegseth-says-bipartisan-impeachment-push-is-about-policy-disagreements-not-high-crimes/article_43642213-b251-4829-b6b0-1e98a9395395.html",
-    "https://wpxi.com/news/local/rep-thomas-massie-kentucky-files-resolution-impeach-defense-secretary-pete-hegseth/47MVPTLA3NEMZBYJCJ54HKWHE4",
-    "https://wysu.org/npr-national-news/2026-11-09/thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth"
-   ]
-  },
-  {
-   "id": "2026-11-10-alerte-01",
-   "date": "2026-11-10",
-   "publiee_a": "2026-11-10T03:39:58Z",
-   "titre": "Donald Trump annonce une enquête visant le dirigeant de Nvidia",
-   "texte": "Le président Donald Trump a affirmé le 10 novembre 2026 aux États-Unis que la police fédérale examine les liens entre Jensen Huang et une espionne chinoise présumée. Le dirigeant américain a déclaré que le patron de Nvidia ignorait les activités de cette femme tout en lui apportant son soutien.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-11-09/trump-stands-by-nvidia-s-huang-and-defense-secretary-hegseth"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqg7x7dpvym8o"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece"
-    }
-   ],
-   "cluster": "61da4f090d5f1f57",
-   "urls": [
-    "https://aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy",
-    "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations",
-    "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal",
-    "https://bbc.co.uk/news/articles/cqg7x7dpvym8o",
-    "https://bloomberg.com/news/articles/2026-11-08/trump-defends-nvidia-s-huang-after-he-admits-affair-with-spy",
-    "https://bloomberg.com/news/articles/2026-11-09/trump-says-fbi-investigating-huang-affair-called-embattled-ceo",
-    "https://bloomberg.com/news/videos/2026-11-09/trump-backs-nvidia-ceo-after-he-admits-affair-video",
-    "https://bloomberg.com/news/videos/2026-11-09/trump-stands-by-nvidia-s-huang-and-defense-secretary-hegseth",
-    "https://brisbanetimes.com.au/business/companies/trump-s-close-ties-to-nvidia-boss-under-scrutiny-amid-chinese-spy-probe-20261110-p61cr8.html",
-    "https://broomfieldenterprise.com/2026/11/09/nvidia-jensen-huang-china-spy",
-    "https://chinatechnews.com/2026/11/09/132383-trump-calls-jensen-huang-honorable-says-he-has-not-discussed-allegations-with-nvidia-ceo",
-    "https://ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
-    "https://readingeagle.com/2026/11/09/nvidia-jensen-huang-china-spy",
-    "https://spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982",
-    "https://staradvertiser.com/2026/11/09/breaking-news/trump-huang-ties-face-scrutiny-after-nvidia-intelligence-probe",
-    "https://straitstimes.com/world/united-states/trump-calls-nvidias-jensen-huang-fine-says-he-has-not-discussed-allegations-with-him",
-    "https://straitstimes.com/world/united-states/trump-says-nvidia-ceo-jensen-huang-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy",
-    "https://straitstimes.com/world/united-states/trumps-close-ties-to-nvidias-huang-scrutinised-after-foreign-intelligence-concerns",
-    "https://theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-    "https://theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
-    "https://thehindu.com/news/international/trump-says-fbi-looking-into-nvidia-ceo-jensen-huangs-affair-with-chinese-agent/article71684773.ece",
-    "https://thehindu.com/news/international/trumps-close-ties-to-nvidias-huang-scrutinised-after-foreign-intelligence-concerns/article71683989.ece",
-    "https://timesofindia.indiatimes.com/world/us/he-probably-has-an-excuse-trump-reacts-to-nvidia-ceo-jensen-huangs-chinese-spy-scandal/articleshow/135673048.cms",
-    "https://video.corriere.it/trump-difende-il-numero-uno-di-nvidia-dalle-accuse-di-spionaggio-e-una-brava-persona/bbca0941-da1a-46c8-94f4-49a794a4exlk"
    ]
   }
  ]

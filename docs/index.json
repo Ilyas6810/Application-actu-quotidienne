@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-17T08:41:04Z",
- "derniere": "2026-11-17",
+ "maj": "2026-11-18T08:12:52Z",
+ "derniere": "2026-11-18",
  "editions": [
+  {
+   "date": "2026-11-18",
+   "genere_a": "2026-11-18T08:12:52Z",
+   "articles": 8,
+   "une": [
+    "La démocrate Mary Peltola remporte le siège sénatorial de l'Alaska",
+    "Donald Trump soutient le retour de Jensen Huang chez Nvidia",
+    "L'acteur britannique Robert Pattinson succède à Daniel Craig dans James Bond"
+   ],
+   "octets": 31625
+  },
   {
    "date": "2026-11-17",
    "genere_a": "2026-11-17T08:41:04Z",

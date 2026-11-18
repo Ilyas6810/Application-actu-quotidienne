@@ -1,0 +1,441 @@
+{
+ "date": "2026-11-18",
+ "genere_a": "2026-11-18T08:12:52Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-18-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La démocrate Mary Peltola remporte le siège sénatorial de l'Alaska",
+   "chapeau": "La candidate démocrate Mary Peltola a remporté le mardi 17 novembre 2026 l'élection sénatoriale en Alaska face au républicain Dan Sullivan. Ce succès permet au Parti démocrate d'atteindre 56 sièges au Sénat des États-Unis contre 44 pour le Parti républicain.",
+   "corps": "Les résultats officiels et les projections de la presse américaine ont confirmé la désignation de Mary Peltola au Sénat des États-Unis le mardi 17 novembre 2026. L'élue démocrate bat le sénateur républicain sortant Dan Sullivan. Deutsche Welle précise le 18 novembre 2026 à 10 h 27 que la candidate a recueilli 50,1 % des suffrages exprimés dans cet État.\n\nCette élection représentait la dernière course encore indécise de ces élections de mi-mandat. Le dépouillement des bulletins a nécessité deux semaines complètes de travail. L'isolement géographique de plusieurs localités d'Alaska explique les délais nécessaires pour collecter et comptabiliser les votes.\n\nLe résultat modifie les équilibres politiques de la chambre haute américaine. Selon les données publiées par France 24 le 18 novembre 2026 à 07 h 44, les démocrates compteront 56 sénateurs sur 100 à partir de janvier, tandis que les républicains en détiendront 44. Folha de S.Paulo indique le 18 novembre 2026 à 08 h 06 qu'il s'agit du neuvième basculement de siège réussi par le Parti démocrate au cours de ce scrutin.\n\nMary Peltola devient la première personnalité autochtone de l'Alaska à entrer au Sénat des États-Unis. La candidate avait rencontré ses partisans le 3 novembre 2026 dans une salle de réception de l'hôtel Sheraton à Anchorage. Elle s'était alors exprimée devant le public sans revendiquer de triomphe immédiat en raison du nombre important de bulletins restant à traiter.\n\nLe scrutin a suscité des contestations politiques. Des allégations affirment que le Parti démocrate a encouragé la candidature d'un tiers indépendant pour diviser les voix des électeurs conservateurs. Les sources mentionnent cette polémique sans détailler l'identité de ce candidat indépendant ni l'ensemble des réponses apportées par les équipes de campagne.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261118-etats-unis-midterms-senat-americain-alaska-peltola-victoire-democrates-etendent-leur-majorite-56-sieges"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/mary-peltola-vence-no-alasca-e-amplia-maioria-democrata-no-senado-dos-eua.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/midterms-au-senat-les-democrates-soffrent-lalaska-et-leur-plus-large-majorite-depuis-barack-obama-20261118_RZMBH6R3HZEAXHWQZUJS7V6RKQ"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-17T02:38:08Z",
+   "suite_de": null,
+   "mots": 320,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump soutient le retour de Jensen Huang chez Nvidia",
+   "chapeau": "Le président américain Donald Trump a approuvé le retour de Jensen Huang à la tête du fabricant de puces Nvidia depuis Washington, le lundi 16 novembre 2026. Cette déclaration intervient à la suite de la démission du cofondateur de l'entreprise californienne intervenue le 12 novembre 2026 selon Le Monde.",
+   "corps": "Le président américain Donald Trump a déclaré le lundi 16 novembre 2026 à la Maison-Blanche qu'il ne verrait pas d'inconvénient à ce que Jensen Huang retrouve son poste de directeur général chez Nvidia. D'après Bloomberg du 16 novembre 2026, le président a affirmé que de nombreuses personnes souhaitaient ce retour et a minimisé les risques pour la sécurité nationale liés aux liens de l'ancien dirigeant avec une femme soupçonnée d'espionnage chinois.\n\nPlusieurs acteurs du secteur technologique et des figures de la Silicon Valley soutiennent également cette réintégration, estimant selon The Guardian du 16 novembre 2026 que Jensen Huang a tiré les leçons de cet épisode. De son côté, l'administration fait face à des critiques concernant sa gestion des relations avec la Chine dans ce dossier, d'après Le Monde du 18 novembre 2026.\n\n## Ce que disent les sources\n\nLe journal Folha de S.Paulo mentionne le 16 novembre 2026 que Jensen Huang a quitté ses fonctions au milieu d'un scandale d'espionnage. France 24 évoque le 17 novembre 2026 un scandale mêlant espionnage présumé et contrebande de puces d'intelligence artificielle vers la Chine. Le Monde rapporte le 18 novembre 2026 que le dirigeant a été rattrapé par des affaires d'adultère.\n\nCertaines informations précises sur l'ensemble des enquêtes en cours manquent dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-he-would-not-mind-jensen-huang-being-reinstated-as-nvidia-ceo"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/nvidia-un-retour-de-jensen-huang-a-la-tete-de-l-entreprise-ne-serait-vraiment-pas-une-mauvaise-idee-selon-trump-20261116"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/trump-diz-que-nao-se-importaria-que-jensen-huang-voltasse-a-dirigir-a-nvidia.shtml"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-16/trump-huang-didn-t-put-national-security-at-risk-video"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trump-says-would-not-mind-huang-being-reinstated-at-nvidia/article71709259.ece"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-suma-llamamiento-regreso-huang-nvidia-20261116164746-nt.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-16/trump-says-he-would-not-mind-if-jensen-huang-returns-to-nvidia.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
+    }
+   ],
+   "premiere_parution": "2026-11-15T22:11:33Z",
+   "suite_de": "2026-11-17-tech-001",
+   "mots": 261,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Matan Kahana élu président de la Knesset par les oppositions",
+   "chapeau": "Le Parlement israélien a élu Matan Kahana à sa présidence mardi 17 novembre 2026. Cet allié de Gadi Eisenkot a obtenu 66 voix sur les 120 sièges avec l'appui des partis arabes.",
+   "corps": "Matan Kahana, âgé de 54 ans et ancien membre des forces spéciales selon franceinfo du 18 novembre 2026, accède à la tête de la Knesset. La formation politique de Gadi Eisenkot, le parti Yashar, remporte ainsi la direction du Parlement israélien d'après Folha de S.Paulo du 18 novembre 2026.\n\nL'élection s'est déroulée mardi 17 novembre 2026, recueillant 66 suffrages favorables sur un total de 120 députés, selon les informations de La Croix du 18 novembre 2026. Le Likud, parti du Premier ministre sortant Benyamin Nétanyahou, a mené six heures d'obstruction parlementaire avant le scrutin d'après le Corriere della Sera du 18 novembre 2026.\n\nCette fonction permet de contrôler l'ordre du jour de l'assemblée selon le Corriere della Sera du 18 novembre 2026. Le nouveau président peut ainsi faciliter l'examen de propositions de loi émanant du bloc d'opposition mené par Gadi Eisenkot, parmi lesquelles l'ouverture d'une enquête sur l'attaque du Hamas survenue le 7 octobre 2023, d'après The Straits Times du 18 novembre 2026.\n\nLes éléments factuels des sources concordent.\n\nIl manque des précisions sur la date précise de la fin des tractations pour la formation du prochain gouvernement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_17/israele-la-knesset-volta-pagina-kahana-alla-guida-del-parlamento-primo-colpo-a-netanyahu-e1608b13-db38-42be-abb5-8f1e344a9xlk.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/parlamento-de-israel-elege-opositor-de-netayahu-para-comandar-o-legislativo.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing"
+    }
+   ],
+   "premiere_parution": "2026-11-17T04:04:33Z",
+   "suite_de": null,
+   "mots": 221,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le gouvernement américain étudie des informations sur une possible attaque iranienne",
+   "chapeau": "La chaîne américaine CNN a révélé le 17 novembre 2026 l'existence de rapports sur un projet d'attaque iranien à Washington. Le président américain Donald Trump et le gouvernement d'Iran ont aussitôt commenté ces informations.",
+   "corps": "La chaîne d'information américaine CNN a rapporté le 17 novembre 2026 que les services de renseignement des États-Unis évaluaient des informations sur un éventuel projet d'attentat iranien. Les données interceptées évoquent un plan visant à frapper des responsables gouvernementaux dans la ville de Washington. Le projet mentionné s'appuierait sur l'usage d'une bombe sale ou sur des armes chimiques. Une bombe sale désigne une arme explosive classique qui disperse des substances radioactives lors de son explosion.\n\nL'administration américaine a rapidement apporté des précisions sur le niveau de danger réel. La Maison Blanche a communiqué le 17 novembre 2026 qu'il n'existait pas de menace crédible visant le territoire national des États-Unis. Le ministre des Affaires étrangères Marco Rubio a déclaré le 18 novembre 2026 que Washington ne faisait face à aucun risque imminent. Des représentants officiels ont affirmé que les données ne montraient pas de décision ferme de la part des dirigeants de Téhéran de concrétiser une attaque. Les analystes de la communauté du renseignement débattent de la faisabilité opérationnelle d'une telle action par l'Iran.\n\nLe président des États-Unis Donald Trump s'est exprimé le 17 novembre 2026 au sujet des révélations diffusées par les médias. Le dirigeant a assuré que son gouvernement examinait cette affaire avec la plus grande attention. Donald Trump a précisé que les équipes américaines effectuaient des investigations approfondies pour vérifier la portée de ces documents. Le président a adressé des avertissements aux autorités de Téhéran.\n\nLe porte-parole du ministère des Affaires étrangères d'Iran a rejeté catégoriquement l'ensemble de ces déclarations le 17 novembre 2026. Le gouvernement iranien a qualifié les affirmations de CNN de fausses et d'infondées. Téhéran soutient que l'émergence de ces rapports vise uniquement à construire un prétexte afin de légitimer la poursuite des opérations de guerre contre le pays. En parallèle de cette polémique, l'armée iranienne a lancé une troisième frappe récente contre des cibles militaires appartenant aux États-Unis sur le territoire de Bahreïn le 18 novembre 2026.\n\n## Ce que disent les sources\n\nLa chaîne américaine CNN et plusieurs officiels anonymes affirment que l'Iran étudie des plans d'attentats ciblés aux armes radioactives ou chimiques dans la capitale américaine. La présidence et le département d'État américains confirment l'existence d'enquêtes tout en précisant qu'aucune menace directe ou imminente n'a été validée sur le sol national. À l'opposé, le ministère des Affaires étrangères iranien dément l'existence de ces projets et accuse les services américains de fabriquer des récits de toutes pièces.\n\nL'identité des responsables américains ciblés ainsi que le type précis d'éléments radioactifs mentionnés ne sont pas précisés dans les documents publics.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-17/ty-article/iran-developing-plans-for-dirty-bomb-or-chemical-attack-in-d-c-report-says/000001a1-e8c8-d848-abeb-fac893430000"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_17/iran-bomba-sporca-6795a7be-b919-427e-8fab-9a5b69289xlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/irankrieg-teheran-weist-bericht-ueber-anschlagsplaene-mit-schmutziger-bombe-gegen-washington-d-c-zurueck-a-b2248849-5811-48d3-a2fa-78896a52fa44"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tehran-denies-report-of-a-potential-iranian-plan-to-detonate-dirty-bomb-in-washington"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-prend-tres-au-serieux-une-possible-menace-d-attaque-iranienne-contre-la-ville-de-washington-l-iran-denonce-des-informations-fabriquees_8286563.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+    }
+   ],
+   "premiere_parution": "2026-11-17T00:00:00Z",
+   "suite_de": null,
+   "mots": 458,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Donald Trump commence sa tournée asiatique avant le sommet de Shenzhen",
+   "chapeau": "Le président américain Donald Trump a débuté une tournée en Asie le mardi 17 novembre 2026. Il participera à une réunion avec le président chinois Xi Jinping et le président russe Vladimir Poutine le jeudi 19 novembre 2026 à Shenzhen.",
+   "corps": "Cette rencontre tripartite se déroulera en marge du sommet de la Coopération économique Asie-Pacifique. Le Kremlin a indiqué le 16 novembre 2026 que ces échanges auraient un impact important sur les affaires mondiales. Avant ce rendez-vous à trois, Donald Trump s'est déclaré ouvert à un entretien individuel avec Vladimir Poutine. Les dirigeants russe et chinois ont tenu des discussions préalables le 18 novembre 2026.\n\nL'agenda des discussions suscite des déclarations variées. Le président américain a évoqué la possibilité de discuter du conflit en Ukraine et d'organiser un sommet nucléaire. Il a également mentionné l'éventualité d'une rencontre avec le dirigeant nord-coréen Kim Jong-un. Donald Trump a par ailleurs indiqué qu'il ne prévoyait pas d'aborder le cas de Jensen Huang, le dirigeant de l'entreprise Nvidia, avec le président chinois.\n\n## Ce que disent les sources\n\nLes informations divergent concernant la présence de la guerre en Ukraine au programme des discussions. Donald Trump a affirmé son intention d'aborder le sujet, selon The Hindu le 16 novembre 2026. À l'inverse, un haut responsable de l'administration américaine a déclaré le 17 novembre 2026 à Bloomberg qu'il était peu probable que cette question figure à l'ordre du jour trilatéral.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/china-confirma-cupula-trilateral-de-xi-com-trump-e-putin-na-quinta-19.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-chine-confirme-un-sommet-trilateral-entre-xi-jinping-donald-trump-et-vladimir-poutine-jeudi-a-shenzhen-20261116"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/china-confirma-trump-putin-reuniran-jueves-shenzen-20261116073536-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/kremlin-says-putin-xi-trump-meeting-in-china-will-have-major-impact-on-global-affairs"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/replay-radio/d-un-monde-a-l-autre/un-possible-sommet-entre-donald-trump-et-kim-jong-un-en-chine_8265071.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-17/trump-set-for-china-summit-with-xi-and-putin-video"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/apec-summit-trump-to-travel-to-china-for-talks-with-putin-xi/live-79964719?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-15T22:11:26Z",
+   "suite_de": "2026-11-17-geopolitique-004",
+   "mots": 232,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Le conseil d'administration de Nvidia refuse le retour de Jensen Huang",
+   "chapeau": "Le conseil d'administration de Nvidia a exclu le retour de son ancien directeur général Jensen Huang le 17 novembre 2026. Cette décision intervient alors que le président américain Donald Trump avait soutenu la veille le rétablissement du cofondateur de l'entreprise californienne.",
+   "corps": "Jensen Huang a déclaré qu'il serait honoré de reprendre ses fonctions de directeur général si le conseil d'administration estimait que cette décision servait au mieux les intérêts des actionnaires, des employés, de la société et des États-Unis. Il s'agissait de sa première prise de parole sur un éventuel retour depuis sa démission. Harvey Jones, président du conseil d'administration de Nvidia, a répondu lors de la présentation des résultats financiers que l'entreprise n'avait pas l'intention de réembaucher l'ancien dirigeant, affirmant que celui-ci avait démissionné de son plein gré.\n\nLe fabricant de puces électroniques a publié ses résultats financiers du troisième trimestre. Selon le communiqué de l'entreprise publié le 17 novembre 2026 et rapporté par The Guardian et Deutsche Welle le 18 novembre 2026, le chiffre d'affaires trimestriel s'est élevé à 115,84 milliards de dollars, soit le double de la somme enregistrée au même trimestre de l'année précédente. L'entreprise prévoit un chiffre d'affaires de 130 milliards de dollars pour le quatrième trimestre selon Al Jazeera le 18 novembre 2026, et anticipe une hausse de 75 % de ses ventes pour l'exercice fiscal 2028 selon Bloomberg le 18 novembre 2026.\n\nHarvey Jones a également évoqué les démarches engagées pour trouver un remplaçant à Jensen Huang. La déclaration officielle sur les résultats du troisième trimestre publiée le 17 novembre 2026 ne mentionnait ni l'éviction de l'ancien dirigeant ni son possible retour, d'après The Hindu le 18 novembre 2026.\n\nLes détails sur le processus de sélection du futur directeur général ne sont pas précisés dans les documents fournis.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm2kl50vkwkdo"
+    }
+   ],
+   "premiere_parution": "2026-11-16T18:14:16Z",
+   "suite_de": "2026-11-17-tech-001",
+   "mots": 294,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-sante-001",
+   "rubrique": "sante",
+   "format": "breve",
+   "titre": "Les États-Unis perdent le statut d'élimination de la rougeole",
+   "chapeau": "L'Organisation panaméricaine de la santé a déclaré la rougeole de nouveau endémique aux États-Unis le mardi 17 novembre 2026. Cette décision survient après la circulation continue d'une même souche virale durant plus d'une année sur le territoire américain.",
+   "corps": "L'Organisation panaméricaine de la santé a retiré aux États-Unis leur statut d'élimination de la rougeole, un titre attribué lorsque la transmission d'une maladie s'interrompt pendant au moins douze mois. Le virus est désormais classé comme endémique dans le pays, vingt-six ans après la déclaration de son éradication locale. Cette perte de statut concerne également la Bolivie et le Mexique.\n\nLa décision s'appuie sur la circulation ininterrompue d'une souche de la rougeole observée depuis le mois de janvier 2025. La propagation actuelle constitue la vague de contaminations la plus élevée enregistrée sur le sol américain depuis l'année 1991. La diminution des taux de vaccination explique la hausse de ce virus très contagieux, qui est susceptible de se propager vers d'autres nations.\n\nPour l'année 2026, les autorités sanitaires recensent plus de 5 400 cas de rougeole à travers les différents États américains. Les patients touchés par l'épidémie comprennent des enfants ainsi que des adultes.\n\nCe que disent me sources Les bilans sur les victimes mortelles varient selon les publications. La chaîne britannique BBC News rapporte 10 décès liés à la rougeole le 18 novembre 2026 à 01h04. De son côté, le quotidien britannique The Guardian fait état de 8 morts le 18 novembre 2026 à 02h18.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10"
+    },
+    {
+     "nom": "Nature",
+     "url": "https://nature.com/articles/d41586-026-03747-z"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+    },
+    {
+     "nom": "Science News",
+     "url": "https://sciencenews.org/article/measles-us-elimination-status-vaccine"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-loses-measles-elimination-status-after-nearly-three-decades"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261117-us-loses-measles-free-status-as-cases-deaths-mount"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/video/2026/nov/17/us-loses-measles-elimination-status-major-setback-for-us-public-health-video"
+    }
+   ],
+   "premiere_parution": "2026-11-16T16:39:29Z",
+   "suite_de": null,
+   "mots": 242,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-18-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "L'acteur britannique Robert Pattinson succède à Daniel Craig dans James Bond",
+   "chapeau": "Le groupe Amazon a officialisé lundi 16 novembre 2026 le choix de Robert Pattinson pour incarner le prochain James Bond. Le comédien britannique de 40 ans reprend le rôle tenu par Daniel Craig entre 2006 et 2021.",
+   "corps": "Le groupe Amazon MGM Studios a annoncé le choix de Robert Pattinson pour le rôle de l'agent 007 le lundi 16 novembre 2026. L'acteur, âgé de 40 ans, succède à Daniel Craig, qui a interprété le personnage entre 2006 et 2021. Robert Pattinson a qualifié cette décision de rêve devenu réalité (Al Jazeera, 16/11/2026). Les producteurs du film justifient ce choix par plusieurs traits de caractère du comédien. Ils citent son absence de peur en tant qu'acteur, son esprit d'autodérision et sa capacité à se réinventer continuellement (Ars Technica, 16/11/2026).\n\nLe parcours professionnel de Robert Pattinson a évolué au fil des années. L'acteur a participé à la saga Twilight avant de s'orienter vers le cinéma indépendant et d'autres productions comme The Batman (franceinfo, 17/11/2026). Cette trajectoire permet à certains observateurs d'analyser les indices sur son interprétation future du personnage de James Bond (BBC, 17/11/2026). Robert Pattinson devient le septième acteur à porter le costume de l'espion depuis le début de la saga en 1962 (La Croix, 17/11/2026).\n\nL'annonce a suscité des réactions au sein de l'industrie cinématographique. Des personnalités comme Ralph Fiennes, Brad Pitt et l'ancien interprète de l'agent 007 George Lazenby ont commenté cette nomination (The Guardian, 17/11/2026). Parallèlement, des spécialistes du cinéma analysent les enjeux commerciaux liés à ce choix pour la franchise (Le Figaro, 18/11/2026). Certains médias soulignent que la franchise, désormais contrôlée par Amazon MGM Studios, fait face à une nouvelle phase de réinvention (El País, 18/11/2026).\n\nLa réception publique de cette nouvelle s'inscrit dans un contexte où les fans de la saga émettent régulièrement des avis sur les acteurs choisis pour incarner James Bond (Folha de S.Paulo, 17/11/2026). Une vidéo d'archive datant de 2010, diffusée par la BBC, montre Robert Pattinson plaisantant sur son inaptitude supposée à incarner ce personnage (Corriere della Sera, 17/11/2026).\n\nLa presse internationale se tourne désormais vers la composition du reste de la distribution. Les médias s'interrogent sur l'identité de l'actrice qui tiendra le rôle principal féminin aux côtés de Robert Pattinson (Der Spiegel, 17/11/2026). La recherche de l'antagoniste du film constitue également un sujet d'attention pour les observateurs (NRC, 17/11/2026). Il manque des informations sur la date de sortie du film et le nom du réalisateur.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/cinema/de-twilight-a-james-bond-en-passant-par-le-cinema-independant-l-ambitieux-parcours-de-robert-pattinson_8285045.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/spettacoli/robert-pattinson-nuovo-james-bond-nel-2010-diceva-sarei-pessimo-come-007/3a0c8f71-4766-4228-9a3f-c6813f0faxlk"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/007-agora-com-robert-pattinson-acumula-historico-de-criticas-a-atores-de-bond.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c8x2r6gyy2pzo"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/kino/james-bond-stimmen-sie-ab-welche-frau-soll-neben-robert-pattinson-auftreten-a-1ef27a0a-4ac5-4660-a3cd-ed9c1b375d62"
+    }
+   ],
+   "premiere_parution": "2026-11-16T15:01:42Z",
+   "suite_de": "2026-11-17-culture-001",
+   "mots": 428,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-18-monde-001",
+  "2026-11-18-monde-002",
+  "2026-11-18-culture-001",
+  "2026-11-18-tech-001",
+  "2026-11-18-geopolitique-001",
+  "2026-11-18-monde-003",
+  "2026-11-18-sante-001"
+ ]
+}

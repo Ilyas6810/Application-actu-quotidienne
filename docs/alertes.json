@@ -1,6 +1,65 @@
 {
- "maj": "2026-11-18T01:13:20Z",
+ "maj": "2026-11-18T11:57:48Z",
  "alertes": [
+  {
+   "id": "2026-11-18-alerte-03",
+   "date": "2026-11-18",
+   "publiee_a": "2026-11-18T11:57:48Z",
+   "titre": "La sonde Voyager 1 a atteint la distance d'un jour-lumière",
+   "texte": "La NASA a indiqué que la sonde spatiale Voyager 1 a atteint la distance d'un jour-lumière par rapport à la Terre ce mercredi 18 novembre 2026. L'appareil lancé en 1977 se trouve désormais à 26 milliards de kilomètres de notre planète, un parcours que les signaux radio mettent vingt-quatre heures à effectuer selon la Folha de S.Paulo du 18 novembre 2026.",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/18/reis-door-het-zonnestelsel-door-de-ogen-van-voyager-1-a4941614"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/ciencia/2026-11-18/la-voyager-1-ya-esta-a-un-dia-luz-asi-se-mantiene-vivo-el-contacto-interestelar-de-la-humanidad.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ciencia/2026/11/sonda-voyager-1-da-nasa-atinge-um-dia-luz-da-terra.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sciences/article/2026/11/18/la-sonde-voyager-1-est-desormais-a-la-distance-vertigineuse-d-un-jour-lumiere-de-la-terre_6813119_1650684.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/weltall/voyager-1-raumsonde-der-nasa-einen-lichttag-von-der-erde-a-8aa4ffb4-57cd-404c-a694-2892e775464e"
+    }
+   ],
+   "cluster": "17d379acdd85e06b",
+   "urls": [
+    "https://abc.es/ciencia/voyager-alcanza-dia-luz-hitos-conseguido-medio-20261117012822-nt.html",
+    "https://abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html",
+    "https://corriere.it/tecnologia/26_novembre_16/voyager-1-tocca-il-traguardo-di-un-giorno-luce-il-racconto-di-linda-spilker-che-ha-guidato-la-missione-per-quasi-50-anni-3788f719-4a19-4b5d-b45f-f74fda4b0xlk.shtml",
+    "https://elpais.com/ciencia/2026-11-18/la-voyager-1-ya-esta-a-un-dia-luz-asi-se-mantiene-vivo-el-contacto-interestelar-de-la-humanidad.html",
+    "https://lefigaro.fr/sciences/a-une-journee-lumiere-de-la-terre-49-ans-apres-son-lancement-l-extraordinaire-periple-de-la-sonde-voyager-1-20261118",
+    "https://lemonde.fr/sciences/article/2026/11/18/la-sonde-voyager-1-est-desormais-a-la-distance-vertigineuse-d-un-jour-lumiere-de-la-terre_6813119_1650684.html",
+    "https://liberation.fr/sciences/espace/de-jupiter-au-purgatoire-cosmique-lodyssee-de-voyager-1-desormais-a-un-jour-lumiere-de-la-terre-20261118_FMBQ7L4IBBBUFBQYDVAEAOKLLI",
+    "https://nature.com/articles/d41586-026-03672-1",
+    "https://nrc.nl/nieuws/2026/11/18/reis-door-het-zonnestelsel-door-de-ogen-van-voyager-1-a4941614",
+    "https://spiegel.de/wissenschaft/weltall/voyager-1-raumsonde-der-nasa-einen-lichttag-von-der-erde-a-8aa4ffb4-57cd-404c-a694-2892e775464e",
+    "https://straitstimes.com/world/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone",
+    "https://theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+    "https://thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
+    "https://thehindu.com/sci-tech/science/voyager-1-one-light-day-away-from-earth-today-is-a-marvel-of-science/article71708334.ece",
+    "https://www1.folha.uol.com.br/ciencia/2026/11/sonda-voyager-1-da-nasa-atinge-um-dia-luz-da-terra.shtml"
+   ]
+  },
   {
    "id": "2026-11-18-alerte-01",
    "date": "2026-11-18",

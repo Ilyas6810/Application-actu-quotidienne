@@ -1,6 +1,77 @@
 {
- "maj": "2026-11-19T02:41:05Z",
+ "maj": "2026-11-19T11:49:56Z",
  "alertes": [
+  {
+   "id": "2026-11-19-alerte-03",
+   "date": "2026-11-19",
+   "publiee_a": "2026-11-19T11:49:56Z",
+   "titre": "La Cour internationale de justice reconnaît la Birmanie coupable de génocide",
+   "texte": "La Cour internationale de justice a conclu jeudi 19 novembre 2026 à l'existence d'une intention génocidaire de la Birmanie contre la minorité rohingya. L'organe judiciaire des Nations unies attribue à cet État la responsabilité des violences commises en 2017.",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/la-cij-juge-que-la-birmanie-avait-lintention-de-detruire-la-population-rohingya-20261119_IKE5JJSBERHPVKPN3DVBODRX5U"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/asia-and-australia/2026-11-19/ty-article/top-un-court-rules-myanmars-actions-against-rohingya-meet-genocide-threshold/000001a1-f36d-d9ff-a7b5-f3efc1c90000"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/rohingyas-la-birmanie-avait-l-intention-de-detruire-la-population-declare-la-cij-20261119"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice"
+    }
+   ],
+   "cluster": "92d8064d9f55f83e",
+   "urls": [
+    "https://abc.es/internacional/cij-inicia-lectura-fallo-sobre-genocidio-rohingya-20261119101531-nt.html",
+    "https://aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar",
+    "https://aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake",
+    "https://aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+    "https://bbc.co.uk/news/articles/c5m2l90ez144o",
+    "https://dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-11-18/genocidio-la-dificultad-de-probar-el-crimen-de-los-crimenes.html",
+    "https://elpais.com/internacional/2026-11-18/ha-cometido-myanmar-un-genocidio-contra-los-rohinyas-el-maximo-organo-judicial-de-la-onu-resolvera-este-jueves.html",
+    "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
+    "https://english.elpais.com/international/2026-11-18/genocide-the-difficulty-of-proving-the-crime-of-crimes.html",
+    "https://english.elpais.com/international/2026-11-19/the-uns-top-court-finds-myanmars-military-killed-thousands-of-rohingya-and-subjected-them-to-extreme-violence.html",
+    "https://france24.com/fr/asie-pacifique/20261119-la-cij-juge-les-forces-birmanes-coupables-d-avoir-tu%C3%A9-des-milliers-de-civils-rohingyas",
+    "https://haaretz.com/world-news/asia-and-australia/2026-11-19/ty-article/top-un-court-rules-myanmars-actions-against-rohingya-meet-genocide-threshold/000001a1-f36d-d9ff-a7b5-f3efc1c90000",
+    "https://haaretz.com/world-news/asia-and-australia/2026-11-19/ty-article/top-un-court-to-rule-on-myanmars-rohingya-genocide-case/000001a1-f2a1-d175-abf5-feb508aa0000",
+    "https://la-croix.com/international/rohingyas-la-birmanie-avait-l-intention-de-detruire-la-population-declare-la-cij-20261119",
+    "https://lemonde.fr/international/article/2026/11/17/l-arret-tres-attendu-de-la-cour-internationale-de-justice-sur-la-question-du-genocide-des-rohingya_6813016_3210.html",
+    "https://liberation.fr/international/asie-pacifique/la-cij-juge-que-la-birmanie-avait-lintention-de-detruire-la-population-rohingya-20261119_IKE5JJSBERHPVKPN3DVBODRX5U",
+    "https://liberation.fr/international/asie-pacifique/rohingyas-pourquoi-larret-de-la-cij-sur-un-possible-genocide-sera-determinant-20261117_QEERYSR74FETRKDXQBGU43X7W4",
+    "https://nrc.nl/nieuws/2026/11/17/internationaal-gerechtshof-kan-belangrijk-precedent-scheppen-met-oordeel-in-genocidezaak-tegen-myanmar-a4941618",
+    "https://rfi.fr/fr/asie-pacifique/20261119-g%C3%A9nocide-des-rohingya-en-birmanie-une-d%C3%A9cision-historique-attendue-de-la-cour-internationale-de-justice",
+    "https://rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice",
+    "https://straitstimes.com/asia/from-2017-crackdown-to-un-court-a-decade-of-the-rohingya-crisis",
+    "https://straitstimes.com/asia/se-asia/rohingya-crisis-remains-unresolved-as-icj-rules-on-myanmar",
+    "https://straitstimes.com/world/europe/top-un-court-to-rule-on-alleged-genocide-of-myanmars-rohingya",
+    "https://theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+    "https://thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
+    "https://thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece"
+   ]
+  },
   {
    "id": "2026-11-19-alerte-01",
    "date": "2026-11-19",

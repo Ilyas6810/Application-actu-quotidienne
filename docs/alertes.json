@@ -1,6 +1,103 @@
 {
- "maj": "2026-11-18T11:57:48Z",
+ "maj": "2026-11-19T02:41:05Z",
  "alertes": [
+  {
+   "id": "2026-11-19-alerte-01",
+   "date": "2026-11-19",
+   "publiee_a": "2026-11-19T02:41:03Z",
+   "titre": "Un tableau de Van Gogh vendu aux enchères pour un montant record",
+   "texte": "La maison Sotheby's a adjugé la toile « Châtaigniers en fleurs » pour 190,4 millions de dollars mercredi 18 novembre 2026 à New York. Cette transaction survient après la conclusion d'un accord avec des ayants droit juifs qui contestaient la vente de cette œuvre réalisée en 1890 par le peintre hollandais.",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/culture/20261118-ch%C3%A2taigniers-en-fleurs-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_19/asta-record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari-0da5c3aa-d812-4f1f-90ba-f5d1e91d5xlk.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c5dj1dkwzvzwo"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/vincent-van-gogh-bluehende-kastanienbaeume-fuer-190-4-millionen-dollar-versteigert-a-93094bbd-5436-401b-a926-b7196c6727ab"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/19/meesterwerk-van-van-gogh-verkocht-voor-een-recordbedrag-van-1904-miljoen-dollar-a4941801"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/cultura/arte/cuadro-subastado-van-gogh-bate-record-vende-20261119005856-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/pintura-de-van-gogh-e-vendida-a-preco-recorde-de-r-11-bilhao-em-leilao.shtml"
+    }
+   ],
+   "cluster": "010f1134ac6345f9",
+   "urls": [
+    "https://abc.es/cultura/arte/cuadro-subastado-van-gogh-bate-record-vende-20261119005856-nt.html",
+    "https://bbc.co.uk/news/articles/c5dj1dkwzvzwo",
+    "https://corriere.it/esteri/26_novembre_19/asta-record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari-0da5c3aa-d812-4f1f-90ba-f5d1e91d5xlk.shtml",
+    "https://english.elpais.com/culture/2026-11-18/the-story-behind-the-van-gogh-going-under-the-hammer-at-sothebys-from-nazi-plunder-to-the-argentine-dictatorship.html",
+    "https://france24.com/fr/culture/20261118-ch%C3%A2taigniers-en-fleurs-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre",
+    "https://lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
+    "https://liberation.fr/culture/arts/new-york-la-mise-aux-encheres-dun-van-gogh-confirmee-malgre-la-contestation-dheritiers-20261117_LGJRE4RRNZCMZH6CDRQ4EBJIOM",
+    "https://nrc.nl/nieuws/2026/11/19/meesterwerk-van-van-gogh-verkocht-voor-een-recordbedrag-van-1904-miljoen-dollar-a4941801",
+    "https://spiegel.de/kultur/vincent-van-gogh-bluehende-kastanienbaeume-fuer-190-4-millionen-dollar-versteigert-a-93094bbd-5436-401b-a926-b7196c6727ab",
+    "https://www1.folha.uol.com.br/ilustrada/2026/11/pintura-de-van-gogh-e-vendida-a-preco-recorde-de-r-11-bilhao-em-leilao.shtml",
+    "https://www1.folha.uol.com.br/ilustrada/2026/11/sothebys-confirma-leilao-de-van-gogh-por-r-1-bi-apesar-de-reivindicacao-de-herdeiros.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-19-alerte-02",
+   "date": "2026-11-19",
+   "publiee_a": "2026-11-19T02:41:05Z",
+   "titre": "Elon Musk regrette ses dons financiers importants pour les républicains",
+   "texte": "Elon Musk a déclaré le 19 novembre 2026 lors du sommet Dealbook du New York Times qu'il se sentait idiot d'avoir dépensé des sommes importantes pour soutenir le parti républicain lors des élections de mi-mandat aux États-Unis.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/midterms-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autant-d-argent-20261119"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1"
+    }
+   ],
+   "cluster": "3ccfc8b63d999917",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+    "https://bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout",
+    "https://ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
+    "https://lefigaro.fr/international/midterms-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autant-d-argent-20261119",
+    "https://straitstimes.com/world/united-states/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout",
+    "https://theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
+   ]
+  },
   {
    "id": "2026-11-18-alerte-03",
    "date": "2026-11-18",
@@ -1244,170 +1341,6 @@
     "https://politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation",
     "https://straitstimes.com/world/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports",
     "https://theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship"
-   ]
-  },
-  {
-   "id": "2026-11-11-alerte-01",
-   "date": "2026-11-11",
-   "publiee_a": "2026-11-10T21:31:10Z",
-   "titre": "Un militaire americain arrete au Royaume-Uni pour espionnage",
-   "texte": "La police antiterroriste britannique a arrete un militaire americain de 41 ans mardi 10 novembre 2026 pres de Gloucester. Les autorites le soupconnent d'espionnage au profit de la Russie.",
-   "sources": [
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/11/10/hooggeplaatste-amerikaanse-militair-in-vk-opgepakt-op-verdenking-van-spionage-voor-rusland-a4941048"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c6d7q77xgw0vo"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/reino-unido-detiene-miembro-ejercito-estados-unidos-20261110201216-nt.html"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie"
-    }
-   ],
-   "cluster": "10f6188fd7afbb9e",
-   "urls": [
-    "https://abc.es/internacional/reino-unido-detiene-miembro-ejercito-estados-unidos-20261110201216-nt.html",
-    "https://aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage",
-    "https://bbc.co.uk/news/articles/c6d7q77xgw0vo",
-    "https://bloomberg.com/news/articles/2026-11-10/uk-arrests-us-army-soldier-over-russia-spying-allegations",
-    "https://dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/en/us-american-soldier-arrested-uk-spying-russia/a-79913240",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10?evenement=b3b051cf62",
-    "https://ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1",
-    "https://lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html",
-    "https://nrc.nl/nieuws/2026/11/10/hooggeplaatste-amerikaanse-militair-in-vk-opgepakt-op-verdenking-van-spionage-voor-rusland-a4941048",
-    "https://rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie",
-    "https://straitstimes.com/world/europe/uk-arrests-us-army-member-suspected-of-helping-russia",
-    "https://theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
-   ]
-  },
-  {
-   "id": "2026-11-11-alerte-02",
-   "date": "2026-11-11",
-   "publiee_a": "2026-11-10T21:32:23Z",
-   "titre": "Éric Zemmour officialise sa candidature à l'élection présidentielle de 2027",
-   "texte": "Le président du parti Reconquête Éric Zemmour a annoncé sa candidature à l'élection présidentielle de 2027. L'homme politique s'est exprimé le mardi 10 novembre 2026 lors du journal télévisé de la chaîne TF1.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-11-10/french-anti-immigrant-politician-zemmour-joins-presidential-race"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/eric-zemmour-says-he-will-stand-in-french-presidential-election"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/politique/presidentielle-2027-eric-zemmour-annonce-officiellement-sa-candidature-20261110"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/elections/presidentielles/candidats/eric-zemmour-se-lance-dans-une-seconde-campagne-presidentielle-20261110"
-    }
-   ],
-   "cluster": "0258f22e5d0225ed",
-   "urls": [
-    "https://bloomberg.com/news/articles/2026-11-10/french-anti-immigrant-politician-zemmour-joins-presidential-race",
-    "https://france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
-    "https://franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html",
-    "https://la-croix.com/politique/presidentielle-2027-eric-zemmour-annonce-officiellement-sa-candidature-20261110",
-    "https://lefigaro.fr/elections/presidentielles/candidats/eric-zemmour-se-lance-dans-une-seconde-campagne-presidentielle-20261110",
-    "https://lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html",
-    "https://liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY",
-    "https://straitstimes.com/world/europe/eric-zemmour-says-he-will-stand-in-french-presidential-election"
-   ]
-  },
-  {
-   "id": "2026-11-11-alerte-03",
-   "date": "2026-11-11",
-   "publiee_a": "2026-11-10T21:36:28Z",
-   "titre": "Arrestation aux États-Unis du père de Meghan Markle en novembre 2026",
-   "texte": "Les autorités des États-Unis ont arrêté Thomas Markle en Floride le mardi 10 novembre 2026. Le père de la duchesse de Sussex a retiré son bracelet électronique de surveillance.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/meghan-wife-of-prince-harry-will-no-longer-speak-at-brussels-event"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_novembre_10/usa-padre-meghan-markle-si-e-tolto-braccialetto-elettronico-ora-e-in-custodia-bec7b87f-2661-4422-9cab-04030ac90xlk.shtml"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://f5.folha.uol.com.br/voceviu/2026/11/pai-de-meghan-markle-e-preso-novamente-apos-romper-tornozeleira-nos-eua.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c9j3433zy4vro"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/entretenimiento/2026-11-10/thomas-markle-se-corta-la-pulsera-electronica-de-vigilancia-y-el-fiscal-exige-que-ingrese-en-prision.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html"
-    }
-   ],
-   "cluster": "14c3bed523b71ddf",
-   "urls": [
-    "https://abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html",
-    "https://bbc.co.uk/news/articles/c9j3433zy4vro",
-    "https://corriere.it/esteri/26_novembre_10/usa-padre-meghan-markle-si-e-tolto-braccialetto-elettronico-ora-e-in-custodia-bec7b87f-2661-4422-9cab-04030ac90xlk.shtml",
-    "https://elpais.com/us/entretenimiento/2026-11-10/thomas-markle-se-corta-la-pulsera-electronica-de-vigilancia-y-el-fiscal-exige-que-ingrese-en-prision.html",
-    "https://f5.folha.uol.com.br/voceviu/2026/11/pai-de-meghan-markle-e-preso-novamente-apos-romper-tornozeleira-nos-eua.shtml",
-    "https://f5.folha.uol.com.br/voceviu/2026/11/pai-de-meghan-markle-sera-submetido-a-avaliacao-psiquiatrica.shtml",
-    "https://straitstimes.com/world/europe/meghan-wife-of-prince-harry-will-no-longer-speak-at-brussels-event",
-    "https://straitstimes.com/world/united-states/psychiatric-exam-ordered-for-thomas-markle-in-child-pornography-case",
-    "https://theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
-    "https://thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
-    "https://thehindu.com/news/international/us-judge-orders-psychiatric-exam-for-meghan-markles-father/article71685753.ece"
    ]
   }
  ]

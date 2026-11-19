@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-18T08:12:52Z",
- "derniere": "2026-11-18",
+ "maj": "2026-11-19T08:08:39Z",
+ "derniere": "2026-11-19",
  "editions": [
+  {
+   "date": "2026-11-19",
+   "genere_a": "2026-11-19T08:08:39Z",
+   "articles": 6,
+   "une": [
+    "Un tableau de Vincent van Gogh vendu pour 190,4 millions de dollars à New York",
+    "Les forces ukrainiennes ont attaqué le pont de Crimée",
+    "Le sommet de Shenzhen rassemble les dirigeants des États-Unis, de la Chine et de la Russie"
+   ],
+   "octets": 21283
+  },
   {
    "date": "2026-11-18",
    "genere_a": "2026-11-18T08:12:52Z",

@@ -1,0 +1,340 @@
+{
+ "date": "2026-11-19",
+ "genere_a": "2026-11-19T08:08:39Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-19-monde-001",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump commente une menace d'attaque iranienne à Washington",
+   "chapeau": "Le gouvernement américain examine des rapports sur un projet d'attaque iranien à Washington. Le président américain Donald Trump a réagi à ces informations.",
+   "corps": "Le président américain Donald Trump a déclaré le 17 novembre 2026 que son administration examinait des informations des services de renseignement concernant un possible projet d'attaque iranien contre la capitale fédérale.\n\nLa chaîne américaine CNN a révélé l'existence de ces rapports le 17 novembre 2026. L'Iran a rejeté ces accusations en les qualifiant de fausses.\n\nDonald Trump a indiqué le 19 novembre 2026 que l'Iran s'intéressait aux armes chimiques et biologiques, tout en minimisant la menace.\n\n## Ce que disent les sources\n\nSelon CNN et The Guardian le 17 novembre 2026, des responsables américains affirment qu'il n'existe aucune preuve d'une décision de Téhéran de passer à l'acte. La Maison-Blanche a déclaré qu'il n'y avait pas de menaces crédibles contre le territoire américain. Le ministère iranien des Affaires étrangères a qualifié ces informations de fabriquées et sans fondement, selon Deutsche Welle et BBC News le 17 novembre 2026.\n\nL'article ne précise pas la nature exacte des mesures de sécurité prises à Washington.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "cincinnatisun.com",
+     "url": "https://cincinnatisun.com/news/279438900/trump-warns-iran-over-possible-washington-attack"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-17/ty-article/iran-developing-plans-for-dirty-bomb-or-chemical-attack-in-d-c-report-says/000001a1-e8c8-d848-abeb-fac893430000"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/irankrieg-teheran-weist-bericht-ueber-anschlagsplaene-mit-schmutziger-bombe-gegen-washington-d-c-zurueck-a-b2248849-5811-48d3-a2fa-78896a52fa44"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/tehran-denies-report-of-a-potential-iranian-plan-to-detonate-dirty-bomb-in-washington"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-prend-tres-au-serieux-une-possible-menace-d-attaque-iranienne-contre-la-ville-de-washington-l-iran-denonce-des-informations-fabriquees_8286563.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+    }
+   ],
+   "premiere_parution": "2026-11-17T00:00:00Z",
+   "suite_de": "2026-11-18-monde-004",
+   "mots": 183,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-19-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les forces ukrainiennes ont attaqué le pont de Crimée",
+   "chapeau": "Les forces ukrainiennes ont mené une série de frappes contre le pont de Crimée entre le 16 et le 19 novembre 2026. L'infrastructure relie le territoire russe à la péninsule de Crimée à travers le détroit de Kertch.",
+   "corps": "Le pont de Crimée a subi plusieurs assauts successifs de drones et de missiles au cours de la troisième semaine de novembre 2026. Cette voie de transport comprend deux axes parallèles réservés à la circulation routière et au trafic ferroviaire. Elle permet l'acheminement de matériel civil et d'équipements militaires vers la péninsule de Crimée ainsi que vers les lignes de front.\n\nLes autorités ukrainiennes ont affirmé avoir préparé cette opération conjointe sur une durée de plusieurs semaines. Le président ukrainien Volodymyr Zelensky a qualifié l'action de riposte aux bombardements russes dirigés contre les infrastructures de son pays. Les forces russes ont visé des liaisons fluviales sur le Dniepr et plusieurs ponts de la capitale ukrainienne Kyiv.\n\nLa première série de frappes ukrainiennes a causé l'effondrement d'une portion de la voie routière dans les eaux du détroit de Kertch. Les projectiles ont également endommagé la structure ferroviaire adjacente selon les constats techniques. Ces destructions matérielles ont conduit les autorités russes à interrompre la circulation automobile sur l'ouvrage.\n\nUne nouvelle frappe est intervenue le 19 novembre 2026 selon les déclarations des représentants installés par Moscou en Crimée. Cet assaut supplémentaire a entraîné la suspension complète du trafic ferroviaire et la fermeture totale de la voie. Les services techniques russes ont entamé une inspection sur place pour évaluer l'étendue des dégâts.\n\nCette escalade militaire coïncide avec l'organisation de discussions diplomatiques prévues sur le territoire chinois. Ces pourparlers doivent réunir le président russe Vladimir Poutine, le dirigeant chinois Xi Jinping et le président américain Donald Trump.\n\n## Ce que disent les sources\n\nAssociated Press indiquait le 18 novembre 2026 à 16:00 que les forces ukrainiennes avaient frappé la structure pour la troisième fois en quatre jours. The Straits Times rapportait le 19 novembre 2026 à 03:40 un total de trois attaques en une semaine. De son côté, The Guardian mentionnait le 19 novembre 2026 à 03:27 un nouvel assaut survenu deux jours après les deux premières frappes.\n\nLe bilan chiffré des victimes éventuelles et le coût financier des réparations du pont ne figurent pas dans les informations disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-17/ukraine-attacks-crimean-bridge-dnipro-as-russia-strikes-kyiv"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/17/g-s1-153946/russia-ukraine-war"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate/article71713178.ece"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-bridge-crimea-drones-missiles-df4b867cf8f70e88843d8fefea5d643c"
+    }
+   ],
+   "premiere_parution": "2026-11-16T22:09:38Z",
+   "suite_de": null,
+   "mots": 384,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-19-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Le sommet de Shenzhen rassemble les dirigeants des États-Unis, de la Chine et de la Russie",
+   "chapeau": "Le président américain Donald Trump est arrivé à Shenzhen, en Chine, pour participer le jeudi 19 novembre 2026 à une réunion avec le président chinois Xi Jinping et le président russe Vladimir Putin. Cette rencontre trilatérale aborde notamment le contrôle des armes nucléaires et les relations futures entre les trois puissances.",
+   "corps": "Après avoir débuté sa tournée asiatique le mardi 17 novembre 2026, le président américain Donald Trump est arrivé à Shenzhen, le pôle technologique chinois, pour une série de rencontres diplomatiques de premier plan.\n\nLe président chinois Xi Jinping a accueilli en personne le dirigeant américain à l'aéroport le mercredi 18 novembre 2026, selon les informations de Bloomberg du 19 novembre 2026 à 05:12. Der Spiegel rapporte le 18 novembre 2026 à 16:10 que cet accueil physique comprenait une accolade, tandis que la réception du président russe Vladimir Putin s'est révélée moins chaleureuse.\n\nLes trois chefs d'État doivent tenir une réunion conjointe ce jeudi 19 novembre 2026. Politico Europe indique le 18 novembre 2026 à 14:54 que les discussions portent également sur l'Iran et la dénucléarisation. The Straits Times précise le 19 novembre 2026 à 03:05 que le dirigeant américain souhaite faire progresser le contrôle des armements nucléaires, alors que Pékin montre des réticences à placer ce dossier au centre des échanges.\n\nEn marge des préparatifs, le président chinois Xi Jinping a prononcé des déclarations contre le protectionnisme, relayées par The Guardian le 18 novembre 2026 à 22:07.\n\nCertains détails précis sur l'agenda exact des négociations manquent dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/apec-summit-xi-greets-trump-on-arrival-in-shenzhen/live-79964719?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/xi-jinping-donald-trump-china-summit"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/xi-jinping-empfaengt-donald-trump-persoenlich-am-flughafen-a-1c046d0b-75bb-4cce-b787-1c29134402f7"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck9d75x5wwwwo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/takeaways-from-day-2-of-trumps-asia-tour-putins-handshake-fried-chicken-and-high-stakes-diplomacy"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi"
+    }
+   ],
+   "premiere_parution": "2026-11-16T23:38:04Z",
+   "suite_de": "2026-11-18-geopolitique-001",
+   "mots": 256,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-19-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Rencontre inedite en Chine entre les dirigeants americain, chinois et russe",
+   "chapeau": "Les dirigeants des Etats-Unis, de la Chine et de la Russie organisent leur premiere reunion a trois en marge du sommet de l'APEC. Cette rencontre se deroule le jeudi 19 novembre 2026 a Shenzhen.",
+   "corps": "Le presidence americaine, chinoise et russe se prepare a une reunion trilaterale en Chine, selon les informations publiees le 19 novembre 2026 par Deutsche Welle [5]. Donald Trump, Xi Jinping et Vladimir Putin doivent aborder plusieurs dossiers internationaux majeurs lors de cette troisieme reunion au format inedit. Les discussions portent notamment sur les conflits en Ukraine et en Iran, ainsi que sur le controle des armements nucleaires, d'apres les elements communiques le 19 novembre 2026 par Al Jazeera [8].\n\nLa reunion se tient en marge du trente-troisieme sommet de la cooperation economique pour l'Asie-Pacifique, nomme APEC, d'apres le journal The Hindu [10]. Le president americain realise actuellement une tournee en Asie qui a debute aux Philippines, selon la synthese diffusee le 19 novembre 2026 par Deutsche Welle [5]. Les autorites russes ont indique que Vladimir Putin et Donald Trump tiennent plusieurs echanges durant cet evenement, malgre l'absence de session bilaterale formellement planifiee au programme initial, d'apres Bloomberg [2].\n\nLes emissaires americains renforcent les initiatives diplomatiques afin de trouver une issue au conflit ukrainien, selon The Straits Times [3]. Les sujets abordes englobent egalement l'intelligence artificielle, d'apres les precisions apportees le 19 novembre 2026 par Al Jazeera [8]. Le journal espagnol ABC emet des reserves sur la portee concrete de cette sequence diplomatique, relevant l'absence d'attentes particulieres quant a des resultats tangibles immediats, d'apres son article du 19 novembre 2026 [11].\n\n## Ce que disent les sources\n\nLe journal ABC indique que la rencontre ne devrait aboutir a aucun resultat tangible en dehors d'une image marquante pour les autorites concernees, tandis que d'autres sources soulignent l'importance des sujets strategiques au programme de ces discussions.\n\nCertaines informations detaillees sur le contenu exact des accords eventuels issus de cette concertation font defaut dans les publications disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-18/putin-trump-to-hold-full-fledged-talk-at-apec-kremlin-says"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/putin-and-trump-expected-to-hold-bilateral-talks-at-apec-summit"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-banquet-brings-trump-and-putin-xi-and-takaichi-together"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/videos/watch-trump-xi-and-putin-to-hold-historic-trilateral-talks-in-china-on-apec-sidelines/article71718808.ece"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/comienza-historica-cumbre-trilateral-trump-putin-20261119082357-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-18T01:33:05Z",
+   "suite_de": null,
+   "mots": 326,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-19-sante-001",
+   "rubrique": "sante",
+   "format": "breve",
+   "titre": "Les Etats-Unis perdent leur statut d elimination de la rougeole",
+   "chapeau": "L Organisation panamericaine de la sante a retire le 17 novembre 2026 le statut d elimination de la rougeole aux Etats-Unis. Cette decision fait suite a une transmission continue du virus pendant plus d un an sur le territoire americain.",
+   "corps": "L Organisation panamericaine de la sante a annonce le mardi 17 novembre 2026 que les Etats-Unis ne remplissent plus les criteres pour maintenir leur statut indemne de rougeole. Cette decision intervient apres une duree d elimination observee depuis 2000 selon les donnees publiees par The BMJ le 18 novembre 2026.\n\nLa Commission regionale de verification de l Organisation panamericaine de la sante a examine les donnees epidemiologiques, de laboratoire et genetiques. Ses membres ont conclu que la transmission endemique de la maladie est de nouveau etablie aux Etats-Unis d apres The BMJ le 18 novembre 2026. La circulation ininterrompue d une meme souche virale durant plus de douze mois motive cette requalification.\n\nLes autorites sanitaires ont enregistre plus de 5 400 cas et 10 deces lies a la rougeole au cours de l annee 2026 selon les chiffres publies par la BBC le 18 novembre 2026. D autres pays de la region americaine ont egalement perdu leur statut d elimination d apres Deutsche Welle le 17 novembre 2026. La Bolivie et le Mexique figurent parmi ces nations concernees par cette evolution epidemiologique selon la meme source.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Science News",
+     "url": "https://sciencenews.org/article/measles-us-elimination-status-vaccine"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c977p71jx0xxo"
+    },
+    {
+     "nom": "The BMJ",
+     "url": "https://bmj.com/content/395/bmj-2026-101505.short"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261117-us-loses-measles-free-status-as-cases-deaths-mount"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/17/nx-s1-6044227/u-s-officially-loses-its-measles-elimination-status"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/a-ghost-from-the-past-us-doctors-lament-measles-resurgence"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/health/why-the-us-lost-its-measles-elimination-status-explained/article71714981.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-17T00:00:00Z",
+   "suite_de": "2026-11-18-sante-001",
+   "mots": 226,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-19-culture-001",
+   "rubrique": "culture",
+   "format": "breve",
+   "titre": "Un tableau de Vincent van Gogh vendu pour 190,4 millions de dollars à New York",
+   "chapeau": "Le tableau « Châtaigniers en fleurs » a été adjugé le mercredi 18 novembre 2026 à New York lors d'une vente organisée par la maison Sotheby's. Cette vente établit un record pour une œuvre du peintre Vincent van Gogh.",
+   "corps": "La maison de ventes aux enchères Sotheby's a vendu la toile « Châtaigniers en fleurs » pour la somme de 190,4 millions de dollars le mercredi 18 novembre 2026 à New York, selon les informations de France 24 du 19 novembre 2026. Ce montant constitue un record pour une œuvre de l'artiste.\n\nL'œuvre a été peinte en 1890 en France, à Auvers-sur-Oise, durant les deux derniers mois de la vie de Vincent van Gogh, d'après les précisions de la BBC du 19 novembre 2026.\n\nLa maison Sotheby's avait annoncé le mardi 17 novembre 2026 qu'un accord avait été trouvé avec une famille qui s'opposait à la mise en vente de la toile, selon Le Monde du 19 novembre 2026. Cette famille contestait l'acquisition de l'œuvre sous le régime nazi auprès d'un ancien propriétaire juif.\n\nUn élément manque dans les sources fournies pour connaître l'identité exacte des héritiers et les termes précis de l'accord conclu avant la vente.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/culture/20261118-ch%C3%A2taigniers-en-fleurs-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c5dj1dkwzvzwo"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/18/nx-s1-6044204/van-gogh-blossoming-chestnut-trees-sothebys-nazi-era"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_19/asta-record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari-0da5c3aa-d812-4f1f-90ba-f5d1e91d5xlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/vincent-van-gogh-bluehende-kastanienbaeume-fuer-190-4-millionen-dollar-versteigert-a-93094bbd-5436-401b-a926-b7196c6727ab"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/19/meesterwerk-van-van-gogh-verkocht-voor-een-recordbedrag-van-1904-miljoen-dollar-a4941801"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/pintura-de-van-gogh-e-vendida-a-preco-recorde-de-r-11-bilhao-em-leilao.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-17T12:40:00Z",
+   "suite_de": null,
+   "mots": 193,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-19-culture-001",
+  "2026-11-19-geopolitique-001",
+  "2026-11-19-geopolitique-002",
+  "2026-11-19-sante-001",
+  "2026-11-19-geopolitique-003",
+  "2026-11-19-monde-001"
+ ]
+}

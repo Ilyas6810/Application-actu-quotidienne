@@ -1,6 +1,115 @@
 {
- "maj": "2026-11-20T02:29:44Z",
+ "maj": "2026-11-20T12:01:57Z",
  "alertes": [
+  {
+   "id": "2026-11-20-alerte-02",
+   "date": "2026-11-20",
+   "publiee_a": "2026-11-20T11:51:21Z",
+   "titre": "L'armée russe bombarde l'Ukraine et endommage plusieurs ponts à Kiev",
+   "texte": "L'armée russe a tiré des missiles sur l'Ukraine dans la nuit du vendredi 20 novembre 2026. Les bombardements ont ciblé la capitale Kiev, où des infrastructures et des ponts ont subi des dégâts.",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261120-ukraine-des-frappes-russes-font-trois-morts-deux-ponts-endommag%C3%A9s-%C3%A0-kiev"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/frappes-russes-sur-lukraine-trois-morts-et-deux-ponts-endommages-a-kyiv-20261120_W7QX73VLTZCHBABYZILD6KU4HY"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/guerre-en-ukraine-deux-ponts-endommages-a-kiev-par-des-tirs-de-missiles-balistiques-russes-20261120"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mueren-cinco-personas-ataque-masivo-rusia-kiev-20261120111714-nt.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1731-point-conflit-ukrainien-poutine-aujourdhui-20261120"
+    }
+   ],
+   "cluster": "7e223ba29bef7009",
+   "urls": [
+    "https://abc.es/internacional/mueren-cinco-personas-ataque-masivo-rusia-kiev-20261120111714-nt.html",
+    "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html",
+    "https://la-croix.com/international/ukraine-russie-jour-1731-point-conflit-ukrainien-poutine-aujourdhui-20261120",
+    "https://lefigaro.fr/international/guerre-en-ukraine-deux-ponts-endommages-a-kiev-par-des-tirs-de-missiles-balistiques-russes-20261120",
+    "https://liberation.fr/international/europe/frappes-russes-sur-lukraine-trois-morts-et-deux-ponts-endommages-a-kyiv-20261120_W7QX73VLTZCHBABYZILD6KU4HY",
+    "https://rfi.fr/fr/europe/20261120-ukraine-des-frappes-russes-font-trois-morts-deux-ponts-endommag%C3%A9s-%C3%A0-kiev",
+    "https://standard.net.au/story/9395009/eight-killed-bridges-hit-as-russia-pummels-ukraine",
+    "https://www1.folha.uol.com.br/mundo/2026/11/russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.shtml"
+   ]
+  },
+  {
+   "id": "2026-11-20-alerte-03",
+   "date": "2026-11-20",
+   "publiee_a": "2026-11-20T12:01:57Z",
+   "titre": "L'ancien Premier ministre Dominique de Villepin brigue la présidence en 2027",
+   "texte": "Dominique de Villepin s'est déclaré candidat pour l'élection présidentielle de 2027 lors d'une prise de parole à Paris vendredi 20 novembre 2026. L'ancien Premier ministre affirme vouloir offrir une alternative au macronisme, à La France insoumise ainsi qu'au Rassemblement national.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/presidentielle-2027-dominique-de-villepin-au-defi-de-transformer-sa-popularite-en-votes-20261119"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-pr%C3%A9sidentielle-2027-en-france-dominique-de-villepin-annonce-officiellement-sa-candidature"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/france-s-villepin-ex-prime-minister-joins-race-for-presidency"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-dominique-de-villepin-annonce-sa-candidature"
+    }
+   ],
+   "cluster": "d93eb76370d584bd",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-11-20/france-s-villepin-ex-prime-minister-joins-race-for-presidency",
+    "https://france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs",
+    "https://france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-dominique-de-villepin-annonce-sa-candidature",
+    "https://franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html",
+    "https://franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
+    "https://la-croix.com/politique/presidentielle-2027-dominique-de-villepin-au-defi-de-transformer-sa-popularite-en-votes-20261119",
+    "https://lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
+    "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118",
+    "https://lefigaro.fr/politique/pensez-vous-que-dominique-de-villepin-peut-etre-elu-president-de-la-republique-20261120",
+    "https://lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html",
+    "https://liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI",
+    "https://rfi.fr/fr/france/20261120-pr%C3%A9sidentielle-2027-en-france-dominique-de-villepin-annonce-officiellement-sa-candidature"
+   ]
+  },
   {
    "id": "2026-11-20-alerte-01",
    "date": "2026-11-20",

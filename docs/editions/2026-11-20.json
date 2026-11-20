@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-20",
+ "genere_a": "2026-11-20T08:01:18Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-20-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La Cour internationale de justice condamne la Birmanie pour le génocide des Rohingyas",
+   "chapeau": "La Cour internationale de justice a déclaré la Birmanie coupable de génocide contre la minorité musulmane rohingya le jeudi 19 novembre 2026 à La Haye. Les juges de l'organe judiciaire des Nations unies ont ordonné au gouvernement birman d'autoriser le retour sécurisé des personnes déplacées.",
+   "corps": "La Cour internationale de justice, organe judiciaire des Nations unies, a rendu son arrêt le jeudi 19 novembre 2026. La juridiction siégeant à La Haye a établi la responsabilité de la République de l'Union de Birmanie dans le génocide ciblant la minorité musulmane rohingya dans le nord de l'État de Rakhine. Le président de la cour, Yuji Iwasawa, a annoncé la décision finale. Cette condamnation constitue la première décision de ce type contre un État depuis la création du tribunal il y a quatre-vingts ans.\n\nLes quinze juges composant le panneau judiciaire ont examiné la requête déposée à l'origine par la Gambie. L'arrêt a été adopté à une majorité de neuf voix contre six. La décision rendue par la cour est définitive. Aucun recours en appel n'est possible d'après les règles de l'institution.\n\nLes magistrats ont conclu que l'État birman a enfreint à six reprises la convention sur le génocide établie en 1948. Les juges ont appliqué une interprétation élargie de la notion de génocide, définie comme la volonté de détruire un groupe. Les évènements analysés concernent la campagne militaire menée contre la population rohingya. Selon les données publiées par Le Monde le 20 novembre 2026, l'armée birmane a massacré environ 10 000 Rohingyas et rasé leurs villages au cours des opérations.\n\nLes exactions ont été perpétrées durant la répression militaire lancée en 2016 et en 2017. Selon les informations communiquées par Libération le 20 novembre 2026, l'actuel président birman Min Aung Hlaing commandait les forces armées lors de ces événements.\n\nL'arrêt impose des obligations juridiques directes aux autorités birmanes. Le tribunal exige que la Birmanie permette le retour volontaire des Rohingyas déplacés dans leurs zones de résidence d'origine. La cour indique que ces retours doivent s'effectuer en sécurité et dans la dignité. La décision judiciaire ordonne également aux autorités de réaliser la réunification des familles séparées pendant les violences.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20261119-la-birmanie-coupable-de-g%C3%A9nocide-contre-les-rohingyas-un-arr%C3%AAt-historique-qui-fait-%C3%A9cho-%C3%A0-gaza"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/rohingyas-la-birmanie-avait-l-intention-de-detruire-la-population-declare-la-cij-20261119"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/19/wereldwijd-is-meegekeken-naar-het-vonnis-van-de-vijftien-rechters-want-de-historische-genocide-uitspraak-over-de-rohinya-kan-belangrijk-precedent-scheppen-a4941755"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/rohingya-a-distinct-lineage-close-to-bangladeshis-and-burmese-study/article71720631.ece"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/corte-internacional-justicia-condena-birmania-genocidio-rohinyas-20261119124804-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c804wzp20ddvo"
+    }
+   ],
+   "premiere_parution": "2026-11-18T04:30:01Z",
+   "suite_de": null,
+   "mots": 355,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-20-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'hippopotame Fiona meurt au zoo de Cincinnati après avoir avalé un bonnet",
+   "chapeau": "L'hippopotame femelle Fiona est morte le jeudi 19 novembre 2026 au zoo de Cincinnati, aux États-Unis. L'animal de neuf ans a succombé à des complications médicales consécutives à l'ingestion d'un bonnet d'un visiteur.",
+   "corps": "L'hippopotame Fiona s'est éteinte le jeudi 19 novembre 2026 au zoo de Cincinnati, situé dans l'État de l'Ohio aux États-Unis. La femelle âgée de neuf ans a souffert de complications de santé après avoir avalé un bonnet en tricot tombé accidentellement dans son enclos.\n\nAprès l'ingestion du couvre-chef, l'équipe vétérinaire et les soigneurs de l'établissement ont dispensé des soins continus à l'animal. Les médecins ont écarté la possibilité d'une intervention chirurgicale. Les équipes soignantes ont tenté plusieurs interventions médicales pour favoriser l'évacuation de l'objet, notamment une coloscopie et l'usage d'une plaque vibrante. Ces tentatives n'ont pas permis de sauver l'animal. L'établissement zoologique a déclaré que Fiona s'est battue jusqu'au bout de ses forces et a indiqué que cette issue n'était pas anticipée.\n\nL'animal avait acquis une renommée internationale lors de sa naissance en 2017. Née prématurément avec six semaines d'avance, la femelle avait reçu son nom en référence au personnage du film Shrek. Sa naissance et sa survie avaient suscité une attention mondiale sur Internet et à travers les réseaux sociaux. La disparition de l'animal est également présentée comme une opportunité pour les parents d'échanger avec leurs enfants sur le thème du deuil et de la vie.\n\n## Ce que disent les sources\n\nLes publications fournissent des précisions divergentes sur le délai entre l'ingestion du bonnet et le décès de l'hippopotame. Selon le quotidien brésilien Folha de S.Paulo du 20 novembre 2026 à 04h54, l'accessoire en tricot était tombé dans l'espace de l'animal environ onze jours avant sa mort. D'autres médias, dont les chaînes BBC News le 20 novembre 2026 à 02h54 et Al Jazeera le 20 novembre 2026 à 06h51, évoquent un décès survenu quelques jours après l'événement.\n\nLe propriétaire ou la personne ayant fait tomber le bonnet dans l'enclos n'est pas identifié par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/zoo-cincinnati-muetze-verschluckt-flusspferd-fiona-kann-nicht-operiert-werden-a-66027134-5e11-4831-b469-916a24bedd7b"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/animali/26_novembre_19/morta-fiona-l-ippopotamo-star-dello-zoo-di-cincinnati-aveva-ingerito-un-cappello-di-lana-102b2ff6-73f7-4ed7-8371-32d4d7ec2xlk.shtml"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cq39gvj9y7xpo"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/hipopotamo-fiona-morre-em-cincinnati-nos-eua-apos-engolir-gorro.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
+    }
+   ],
+   "premiere_parution": "2026-11-18T01:35:00Z",
+   "suite_de": null,
+   "mots": 330,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-20-monde-001",
+  "2026-11-20-monde-002"
+ ]
+}

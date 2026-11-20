@@ -1,6 +1,64 @@
 {
- "maj": "2026-11-19T11:49:56Z",
+ "maj": "2026-11-20T02:29:44Z",
  "alertes": [
+  {
+   "id": "2026-11-20-alerte-01",
+   "date": "2026-11-20",
+   "publiee_a": "2026-11-20T02:29:44Z",
+   "titre": "L'hippopotame Fiona meurt après avoir avalé un bonnet dans un zoo américain",
+   "texte": "L'hippopotame Fiona est morte le jeudi 19 novembre 2026 au zoo de Cincinnati, aux États-Unis. L'animal âgé de neuf ans a succombé après avoir ingéré un bonnet tombé dans son enclos.",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/animali/26_novembre_19/morta-fiona-l-ippopotamo-star-dello-zoo-di-cincinnati-aveva-ingerito-un-cappello-di-lana-102b2ff6-73f7-4ed7-8371-32d4d7ec2xlk.shtml"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwz0k3172xzko"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/hipopotamo-fiona-morre-em-cincinnati-nos-eua-apos-engolir-gorro.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "cluster": "90471d5fe9d354c3",
+   "urls": [
+    "https://bbc.co.uk/news/articles/cm2d93z0e9gjo",
+    "https://bbc.co.uk/news/articles/cwz0k3172xzko",
+    "https://bbc.co.uk/news/videos/cq39gvj9y7xpo",
+    "https://corriere.it/animali/26_novembre_19/morta-fiona-l-ippopotamo-star-dello-zoo-di-cincinnati-aveva-ingerito-un-cappello-di-lana-102b2ff6-73f7-4ed7-8371-32d4d7ec2xlk.shtml",
+    "https://countypress.co.uk/news/national/26746753.us-zoo-says-fiona-hippo-died-days-swallowing-visitors-hat",
+    "https://dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-xml-mrss",
+    "https://f5.folha.uol.com.br/bichos/2026/11/hipopotamo-fiona-morre-aos-9-anos-apos-engolir-gorro-nos-eua.shtml",
+    "https://latimes.com/world-nation/story/2026-11-19/cincinnati-zoo-says-fiona-hippo-has-died-days-after-ingesting-visitors-hat",
+    "https://literock973.com/news/030030-cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat",
+    "https://spiegel.de/panorama/zoo-cincinnati-muetze-verschluckt-flusspferd-fiona-kann-nicht-operiert-werden-a-66027134-5e11-4831-b469-916a24bedd7b",
+    "https://spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb",
+    "https://standard.net/top-headlines/2026/nov/19/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat",
+    "https://straitstimes.com/world/united-states/cincinnati-zoo-says-fiona-the-hippo-is-undergoing-care-after-eating-a-hat-that-got-into-enclosure",
+    "https://straitstimes.com/world/united-states/cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat",
+    "https://theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+    "https://wishtv.com/news/national/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat",
+    "https://www1.folha.uol.com.br/ambiente/2026/11/hipopotamo-fiona-morre-em-cincinnati-nos-eua-apos-engolir-gorro.shtml",
+    "https://wymg.com/news/030030-cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat"
+   ]
+  },
   {
    "id": "2026-11-19-alerte-03",
    "date": "2026-11-19",
@@ -1234,184 +1292,6 @@
     "https://thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece",
     "https://www1.folha.uol.com.br/mundo/2026/11/vice-da-indonesia-renuncia-apos-justica-questionar-formacao-escolar.shtml",
     "https://wxpr.org/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
-   ]
-  },
-  {
-   "id": "2026-11-12-alerte-03",
-   "date": "2026-11-12",
-   "publiee_a": "2026-11-12T11:19:14Z",
-   "titre": "Manchester United se sépare de son entraîneur Michael Carrick ce jeudi",
-   "texte": "La direction de Manchester United a limogé son entraîneur Michael Carrick ce jeudi 12 novembre 2026 en Angleterre. Le club anglais occupe la dix-huitième position du championnat national après une série de mauvais résultats.",
-   "sources": [
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/6151c41d-cd56-4cba-aa5d-36c9bc07e847?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/18e-de-premier-league-manchester-united-a-licencie-michael-carrick-de-son-poste-d-entraineur/1743132"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/angleterre/premier-league-carrick-limoge-par-manchester-united-pochettino-en-tete-pour-lui-succeder-20261112"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261112-manchester-united-michael-carrick-sur-la-sellette"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/videos/c5ev37egv97mo"
-    }
-   ],
-   "cluster": "3e5d8513ff90cdd5",
-   "urls": [
-    "https://aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager",
-    "https://bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo",
-    "https://bbc.co.uk/sport/football/videos/c5ev37egv97mo",
-    "https://ft.com/content/6151c41d-cd56-4cba-aa5d-36c9bc07e847?syn-25a6b1a6=1",
-    "https://lefigaro.fr/sports/football/angleterre/premier-league-carrick-limoge-par-manchester-united-pochettino-en-tete-pour-lui-succeder-20261112",
-    "https://lequipe.fr/Football/Actualites/18e-de-premier-league-manchester-united-a-licencie-michael-carrick-de-son-poste-d-entraineur/1743132",
-    "https://rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261112-manchester-united-michael-carrick-sur-la-sellette",
-    "https://theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino",
-    "https://theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live"
-   ]
-  },
-  {
-   "id": "2026-11-12-alerte-01",
-   "date": "2026-11-12",
-   "publiee_a": "2026-11-12T00:55:13Z",
-   "titre": "Le démocrate Scott Colom remporte un siège de sénateur au Mississippi",
-   "texte": "Le démocrate Scott Colom a remporté l'élection sénatoriale dans le Mississippi le mercredi 11 novembre 2026 face à la républicaine sortante Cindy Hyde-Smith. Il devient le premier sénateur noir élu dans cet État américain depuis 1874.",
-   "sources": [
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/elezioni-usa/midterm-2026/26_novembre_12/elezioni-usa-il-dem-scott-colom-conquista-il-seggio-al-senato-in-mississippi-e-il-primo-afroamericano-dopo-145-anni-ecco-chi-e-29330fd3-b628-4785-900e-abd343e7exlk.shtml"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/scott-colom-gana-misisipi-convierte-primer-senador-20261112004153-nt.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cw7vppyr80eeo"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/democrat-colom-wins-mississippi-senate-seat-becomes-states-first-black-senator-since-1874"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1"
-    }
-   ],
-   "cluster": "50c37507d805e671",
-   "urls": [
-    "https://abc.es/internacional/scott-colom-gana-misisipi-convierte-primer-senador-20261112004153-nt.html",
-    "https://aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi",
-    "https://bbc.co.uk/news/articles/cw7vppyr80eeo",
-    "https://bloomberg.com/news/articles/2026-11-11/democrat-colom-wins-mississippi-senate-race-cnn-projects",
-    "https://corriere.it/esteri/elezioni-usa/midterm-2026/26_novembre_12/elezioni-usa-il-dem-scott-colom-conquista-il-seggio-al-senato-in-mississippi-e-il-primo-afroamericano-dopo-145-anni-ecco-chi-e-29330fd3-b628-4785-900e-abd343e7exlk.shtml",
-    "https://dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-11-11/scott-colom-gana-en-misisipi-el-primer-democrata-que-manda-el-estado-al-senado-en-casi-cuatro-decadas.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_11?evenement=85b07c861b",
-    "https://france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
-    "https://ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
-    "https://goskagit.com/news/nation/the-latest-democrat-scott-colom-wins-election-to-us-senate-from-mississippi/article_6a8cc3bf-8eb6-5863-b53c-3425ac1e7333.html",
-    "https://npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-    "https://npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-    "https://rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans",
-    "https://straitstimes.com/world/democrat-colom-wins-mississippi-senate-seat-becomes-states-first-black-senator-since-1874",
-    "https://straitstimes.com/world/united-states/mississippi-democrat-flips-us-senate-seat-in-stunning-upset-us-media",
-    "https://theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
-    "https://theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-    "https://www1.folha.uol.com.br/mundo/2026/11/mississippi-elege-democrata-scott-colom-primeiro-senador-negro-pelo-estado-dos-eua-em-150-anos.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-12-alerte-02",
-   "date": "2026-11-12",
-   "publiee_a": "2026-11-12T01:04:03Z",
-   "titre": "Le conseil d'administration de Nvidia se réunit sur l'avenir de Jensen Huang",
-   "texte": "Le conseil d'administration de l'entreprise américaine Nvidia discute du maintien à son poste du directeur général Jensen Huang le 12 novembre 2026. Cette réunion intervient après des révélations sur sa relation extraconjugale avec une femme soupçonnée d'espionnage pour la Chine.",
-   "sources": [
-    {
-     "nom": "Politico Europe",
-     "url": "https://politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/ck1wvwwl3x0go"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Ars Technica",
-     "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-xml-mrss"
-    }
-   ],
-   "cluster": "4474b7a33659fb6e",
-   "urls": [
-    "https://aninews.in/news/world/us/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign20261111102800",
-    "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia",
-    "https://azerbaijannews.net/news/279422428/huang-probe-could-delay-nvidia-s-bets-analyst-warns",
-    "https://bbc.co.uk/news/articles/ck1wvwwl3x0go",
-    "https://bloomberg.com/news/articles/2026-11-10/nvidia-board-members-tap-wachtell-lipton-to-probe-ceo-affair",
-    "https://bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
-    "https://bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy",
-    "https://bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
-    "https://bloomberg.com/news/videos/2026-11-11/nvidia-preparing-to-oust-ceo-jensen-huang-wsj-video",
-    "https://bloomberg.com/news/videos/2026-11-11/nvidia-s-future-rests-squarely-on-shoulders-of-ceo-huang-video",
-    "https://bostonstar.com/news/279422428/nvidia-board-backs-huang-as-spy-probe-raises-questions",
-    "https://chinanationalnews.com/news/279422428/nvidia-board-backs-huang-as-spy-probe-raises-questions",
-    "https://dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-xml-mrss",
-    "https://ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
-    "https://ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-    "https://israelherald.com/news/279422428/nvidia-board-backs-huang-as-spy-probe-raises-questions",
-    "https://myanmarnews.net/news/279422428/huang-probe-could-delay-nvidia-s-bets-analyst-warns",
-    "https://northkoreatimes.com/news/279422428/nvidia-board-backs-huang-as-spy-probe-raises-questions",
-    "https://orlandosentinel.com/2026/11/10/nvidia-jensen-huang-fallout",
-    "https://politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation",
-    "https://straitstimes.com/world/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports",
-    "https://theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship"
    ]
   }
  ]

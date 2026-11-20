@@ -1,6 +1,144 @@
 {
- "maj": "2026-11-20T12:01:57Z",
+ "maj": "2026-11-20T20:36:24Z",
  "alertes": [
+  {
+   "id": "2026-11-21-alerte-01",
+   "date": "2026-11-21",
+   "publiee_a": "2026-11-20T20:31:32Z",
+   "titre": "Le Danemark expulse un diplomate russe soupçonné de projet d'assassinat",
+   "texte": "Le gouvernement danois a annoncé vendredi 20 novembre 2026 l'expulsion de l'attaché de défense russe. Copenhague soupçonne Moscou d'avoir planifié la tentative d'assassinat d'un rappeur ukrainien sur son territoire.",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261120-le-danemark-va-expulser-un-diplomate-russe-apr%C3%A8s-la-tentative-d-assassinat-d-un-ukrainien-sur-son-sol"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/au-danemark-les-autorites-accusent-la-russie-davoir-commandite-le-meurtre-dun-rappeur-ukrainien-20261120_IHVAG2EHGBDZTPAZP3AK7NU43A"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-20/dinamarca-acusa-a-rusia-de-intentar-asesinar-en-su-territorio-a-un-rapero-ucranio-estadounidense.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/denmark-expels-russian-diplomat-over-attempt-to-kill-ukrainian-rapper"
+    }
+   ],
+   "cluster": "1a3368e6857f97b3",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-11-20/denmark-says-russia-orchestrated-assassination-plot-on-rapper",
+    "https://elpais.com/internacional/2026-11-20/dinamarca-acusa-a-rusia-de-intentar-asesinar-en-su-territorio-a-un-rapero-ucranio-estadounidense.html",
+    "https://franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html",
+    "https://lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
+    "https://liberation.fr/international/europe/au-danemark-les-autorites-accusent-la-russie-davoir-commandite-le-meurtre-dun-rappeur-ukrainien-20261120_IHVAG2EHGBDZTPAZP3AK7NU43A",
+    "https://rfi.fr/fr/europe/20261120-le-danemark-va-expulser-un-diplomate-russe-apr%C3%A8s-la-tentative-d-assassinat-d-un-ukrainien-sur-son-sol",
+    "https://spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8",
+    "https://straitstimes.com/world/europe/denmark-expels-russian-diplomat-over-attempt-to-kill-ukrainian-rapper",
+    "https://theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+   ]
+  },
+  {
+   "id": "2026-11-21-alerte-02",
+   "date": "2026-11-21",
+   "publiee_a": "2026-11-20T20:34:23Z",
+   "titre": "Un chercheur affirme avoir résolu l'hypothèse de Riemann grâce à une intelligence artificielle",
+   "texte": "Le chercheur Levent Alpöge, employé de l'entreprise Anthropic, a déclaré vendredi 20 novembre 2026 sur son site internet avoir démontré l'hypothèse de Riemann grâce au programme Claude. Formulée en 1859, cette conjecture porte sur la répartition des nombres premiers, c'est-à-dire des entiers divisibles uniquement par un et par eux-mêmes.",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sciences/l-hypothese-de-riemann-plus-celebre-probleme-de-mathematiques-au-monde-aurait-ete-resolue-par-claude-l-ia-d-anthropic-20261120"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/anthropic-researcher-says-claude-solved-maths-greatest-riddle/article71725942.ece"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_novembre_20/un-matematico-dice-che-usando-l-ai-di-anthropic-ha-dimostrato-l-ipotesi-di-riemann-il-sacro-graal-della-matematica-67fcf2a1-be05-496f-af61-96b412000xlk.shtml"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/grace-a-lia-un-chercheur-affirme-avoir-resolu-lun-des-problemes-mathematiques-les-plus-importants-du-monde-20261120_2UWLZTQX6JF6DBEBDW6EJ7SUS4"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/anthropic-researcher-says-ai-chatbot-claude-solved-maths-greatest-riddle"
+    }
+   ],
+   "cluster": "1496e8e679ae1529",
+   "urls": [
+    "https://corriere.it/tecnologia/26_novembre_20/un-matematico-dice-che-usando-l-ai-di-anthropic-ha-dimostrato-l-ipotesi-di-riemann-il-sacro-graal-della-matematica-67fcf2a1-be05-496f-af61-96b412000xlk.shtml",
+    "https://ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87?syn-25a6b1a6=1",
+    "https://lefigaro.fr/sciences/l-hypothese-de-riemann-plus-celebre-probleme-de-mathematiques-au-monde-aurait-ete-resolue-par-claude-l-ia-d-anthropic-20261120",
+    "https://liberation.fr/international/grace-a-lia-un-chercheur-affirme-avoir-resolu-lun-des-problemes-mathematiques-les-plus-importants-du-monde-20261120_2UWLZTQX6JF6DBEBDW6EJ7SUS4",
+    "https://spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b",
+    "https://straitstimes.com/world/united-states/anthropic-researcher-says-ai-chatbot-claude-solved-maths-greatest-riddle",
+    "https://thehindu.com/sci-tech/technology/anthropic-researcher-says-claude-solved-maths-greatest-riddle/article71725942.ece"
+   ]
+  },
+  {
+   "id": "2026-11-21-alerte-03",
+   "date": "2026-11-21",
+   "publiee_a": "2026-11-20T20:36:24Z",
+   "titre": "Le Parlement français valide la présomption d'usage d'arme pour la police",
+   "texte": "Le Parlement français a voté vendredi 20 novembre 2026 un texte instaurant une présomption d'usage légal des armes pour les forces de l'ordre. Les sénateurs ont approuvé la proposition de loi par 205 voix contre 110 à Paris.",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-france-le-parlement-adopte-d%C3%A9finitivement-la-pr%C3%A9somption-d-usage-l%C3%A9gitime-des-armes-par-les-forces-de-l-ordre"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/police-la-presomption-d-usage-legal-des-armes-enterinee-au-parlement-avant-un-nouvel-acte-social-20261120"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120"
+    }
+   ],
+   "cluster": "40b5ae6bd6a2cfac",
+   "urls": [
+    "https://franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html",
+    "https://la-croix.com/police-la-presomption-d-usage-legal-des-armes-enterinee-au-parlement-avant-un-nouvel-acte-social-20261120",
+    "https://lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120",
+    "https://lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
+    "https://liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU",
+    "https://rfi.fr/fr/france/20261120-france-le-parlement-adopte-d%C3%A9finitivement-la-pr%C3%A9somption-d-usage-l%C3%A9gitime-des-armes-par-les-forces-de-l-ordre"
+   ]
+  },
   {
    "id": "2026-11-20-alerte-02",
    "date": "2026-11-20",
@@ -1207,200 +1345,6 @@
     "https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml",
     "https://www1.folha.uol.com.br/mundo/2026/11/suspensao-total-de-voos-nos-eua-so-aconteceu-duas-vezes-em-25-anos.shtml",
     "https://www1.folha.uol.com.br/mundo/2026/11/video-mostra-trafego-aereo-dos-eua-caindo-em-tempo-real-apos-suspensao-veja.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-13-alerte-01",
-   "date": "2026-11-13",
-   "publiee_a": "2026-11-12T20:04:50Z",
-   "titre": "Israël interdit l'accès à son territoire aux dirigeants de La France insoumise",
-   "texte": "Le gouvernement d'Israël a interdit l'entrée sur son territoire à Jean-Luc Mélenchon et Mathilde Panot le jeudi 12 novembre 2026. La diplomatie israélienne reproche au parti La France insoumise une position hostile envers l'État hébreu.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/politique/israel-jean-luc-melenchon-interdit-d-entree-sur-le-territoire-20261112"
-    },
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/world-news/europe/2026-11-12/ty-article/.premium/israel-bars-far-left-french-leader-over-call-for-ships-to-escort-gaza-flotillas/000001a1-d0da-ddc9-abb7-ddda2a3f0000"
-    }
-   ],
-   "cluster": "578266ca560bf77b",
-   "urls": [
-    "https://france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
-    "https://franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html",
-    "https://franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html",
-    "https://franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html",
-    "https://haaretz.com/world-news/europe/2026-11-12/ty-article/.premium/israel-bars-far-left-french-leader-over-call-for-ships-to-escort-gaza-flotillas/000001a1-d0da-ddc9-abb7-ddda2a3f0000",
-    "https://la-croix.com/politique/israel-jean-luc-melenchon-interdit-d-entree-sur-le-territoire-20261112",
-    "https://lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html",
-    "https://lemonde.fr/international/article/2026/11/12/un-representant-des-colonies-juives-en-cisjordanie-refoule-a-son-arrivee-en-france-israel-denonce-une-mesure-inacceptable_6809040_3210.html",
-    "https://liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE"
-   ]
-  },
-  {
-   "id": "2026-11-13-alerte-02",
-   "date": "2026-11-13",
-   "publiee_a": "2026-11-12T20:12:04Z",
-   "titre": "Les émissaires américains ont rencontré Vladimir Poutine à Moscou jeudi",
-   "texte": "Les émissaires américains Jared Kushner et Steve Witkoff se sont entretenus avec le président russe Vladimir Poutine le 12 novembre 2026 à Moscou. Les deux représentants des États-Unis se rendent ensuite à Dublin pour consulter le président ukrainien Volodymyr Zelensky.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-rencontrent-vladimir-poutine-a-moscou-une-femme-tuee-par-un-drone-a-kiev-les-dernieres-informations-sur-le-conflit_6808609_3210.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261112-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-affirment-des-lib%C3%A9rations-de-prisonniers"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/ukraine-russie-jour-1723-point-conflit-ukrainien-poutine-aujourdhui-20261112"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cwrkgmymk55zo"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/guerre-en-ukraine-a-moscou-vladimir-poutine-reste-inflexible-face-aux-emissaires-americains-20261112"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/europe/nato-chief-tells-afp-very-difficult-to-say-if-ukraine-peace-any-closer"
-    }
-   ],
-   "cluster": "0b0de2b1f83fe915",
-   "urls": [
-    "https://abc.es/internacional/enviados-estadounidenses-llegan-rusia-reunirse-putin-tras-20261112083347-nt.html",
-    "https://aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
-    "https://bbc.co.uk/news/articles/cwrkgmymk55zo",
-    "https://bgnes.com/politics/us-envoys-to-discuss-prospects-for-ending-the-war-with-putin-and-zelensky-after-abu-dhabi-talks",
-    "https://bicesteradvertiser.net/news/national/26721903.us-envoys-moscow-meet-putin-following-talks-abu-dhabi",
-    "https://bloomberg.com/news/articles/2026-11-11/russia-and-ukraine-resume-push-for-peace-deal-in-us-led-talks",
-    "https://bloomberg.com/news/articles/2026-11-12/us-envoys-witkoff-kushner-putin-talks-ukraine-zelenskyy-opportunity",
-    "https://burytimes.co.uk/news/national/26721903.us-envoys-moscow-meet-putin-following-talks-abu-dhabi",
-    "https://dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-xml-mrss",
-    "https://el-balad.com/17066131",
-    "https://euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-",
-    "https://france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky",
-    "https://france24.com/fr/vid%C3%A9o/20261111-fin-des-pourparlers-d-abou-dhabi",
-    "https://france24.com/fr/vid%C3%A9o/20261111-les-%C3%A9missaires-am%C3%A9ricains-rencontreront-vladimir-poutine-puis-volodymyr-zelensky-jeudi",
-    "https://france24.com/fr/vid%C3%A9o/20261112-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-affirment-des-lib%C3%A9rations-de-prisonniers",
-    "https://france24.com/fr/vid%C3%A9o/20261112-guerre-en-ukraine-une-fen%C3%AAtre-d-opportunit%C3%A9-pour-un-cessez-le-feu-d-apr%C3%A8s-zelensky",
-    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-loic-de-la-mornais-poutine-rencontre-des-emissaires-us-ce-jeudi_8278835.html",
-    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html",
-    "https://irvinetimes.com/news/national/26721903.us-envoys-moscow-meet-putin-following-talks-abu-dhabi",
-    "https://la-croix.com/international/ukraine-russie-jour-1723-point-conflit-ukrainien-poutine-aujourdhui-20261112",
-    "https://lefigaro.fr/international/guerre-en-ukraine-a-moscou-vladimir-poutine-reste-inflexible-face-aux-emissaires-americains-20261112",
-    "https://lefigaro.fr/international/guerre-en-ukraine-les-emissaires-americains-vont-rencontrer-poutine-en-russie-puis-zelensky-en-irlande-20261111",
-    "https://lefigaro.fr/international/guerre-en-ukraine-les-negociations-d-abu-dhabi-mises-en-echec-par-l-intransigeance-russe-20261111",
-    "https://lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-rencontrent-vladimir-poutine-a-moscou-une-femme-tuee-par-un-drone-a-kiev-les-dernieres-informations-sur-le-conflit_6808609_3210.html",
-    "https://lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html",
-    "https://npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-    "https://npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-    "https://rfi.fr/fr/europe/20261112-guerre-ukraine-la-russie-cherche-%C3%A0-redessiner-l-architecture-de-paix-europ%C3%A9enne",
-    "https://rfi.fr/fr/europe/20261112-guerre-ukraine-mediateurs-etats-unis-moscou-dublin-conseil-politique-ue-zelensky",
-    "https://salemnews.net/news/local-news/2026/11/us-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy",
-    "https://straitstimes.com/world/europe/nato-chief-tells-afp-very-difficult-to-say-if-ukraine-peace-any-closer",
-    "https://straitstimes.com/world/europe/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
-    "https://straitstimes.com/world/europe/us-envoys-witkoff-and-kushner-may-visit-russia-in-coming-days-tass-reports",
-    "https://telegrafi.com/witkoff-dhe-kushner-mberrijne-ne-moske-kerkojne-miratimin-e-putinit-per-perfshirjen-e-evropes-ne-negociatat-per-ukrainen",
-    "https://theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin",
-    "https://wypr.org/2026-11-12/u-s-envoys-meet-with-putin-in-the-kremlin-after-ukraine-talks-in-abu-dhabi",
-    "https://ypradio.org/npr-news/2026-11-12/u-s-envoys-meet-with-putin-in-the-kremlin-after-ukraine-talks-in-abu-dhabi"
-   ]
-  },
-  {
-   "id": "2026-11-13-alerte-03",
-   "date": "2026-11-13",
-   "publiee_a": "2026-11-12T20:13:50Z",
-   "titre": "Le vice-président indonésien démissionne après l'invalidation de ses diplômes",
-   "texte": "Le vice-président indonésien Gibran Rakabuming Raka a quitté ses fonctions le jeudi 12 novembre 2026 en Indonésie. Les plus hautes juridictions du pays ont rejeté les justificatifs scolaires requis pour son élection.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cmvgxgz87qqro"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/podcasts/la-fabrique-du-monde/20261112-indon%C3%A9sie-vice-pr%C3%A9sident-gibran-d%C3%A9missionne-nouvelle-secousse-au-sommet-de-l-%C3%A9tat"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/asie-pacifique/demission-du-vice-president-indonesien-autant-en-emporte-le-clan-au-sommet-de-letat-20261112_FYPRRZPHB5D7XBU5JSJALQMBE4"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/vice-da-indonesia-renuncia-apos-justica-questionar-formacao-escolar.shtml"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/scandale-et-lutte-d-influence-en-indonesie-le-vice-president-pousse-a-la-demission-20261112"
-    },
-    {
-     "nom": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/politics/indonesian-president-prabowo-says-vp-resignation-for-greater-good"
-    }
-   ],
-   "cluster": "0e7c90c244232e4f",
-   "urls": [
-    "https://aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
-    "https://aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row",
-    "https://asia.nikkei.com/politics/indonesian-president-prabowo-says-vp-resignation-for-greater-good",
-    "https://asia.nikkei.com/politics/indonesian-vp-s-resignation-plan-and-impeachment-threat-5-things-to-know",
-    "https://bbc.co.uk/news/articles/cmvgxgz87qqro",
-    "https://bloomberg.com/news/articles/2026-11-11/indonesia-s-prabowo-said-to-accept-resignation-of-vice-president",
-    "https://bloomberg.com/news/articles/2026-11-12/jokowi-son-gibran-rakabuming-raka-resigns-indonesia-vice-president-prabowo",
-    "https://capeandislands.org/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10?evenement=b782ac48f3",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_11?evenement=29744d5447",
-    "https://ft.com/content/87f2dfb7-e8b5-4248-9eee-fa3527200fee?syn-25a6b1a6=1",
-    "https://kzyx.org/npr-news/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-    "https://la-croix.com/international/scandale-et-lutte-d-influence-en-indonesie-le-vice-president-pousse-a-la-demission-20261112",
-    "https://liberation.fr/international/asie-pacifique/demission-du-vice-president-indonesien-autant-en-emporte-le-clan-au-sommet-de-letat-20261112_FYPRRZPHB5D7XBU5JSJALQMBE4",
-    "https://npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-    "https://npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-    "https://reuters.com/world/asia-pacific/indonesia-vice-president-expresses-intention-resign-presidential-official-says-2026-11-10",
-    "https://reuters.com/world/asia-pacific/indonesias-vice-president-has-resigned-three-political-sources-say-2026-11-11",
-    "https://rfi.fr/fr/asie-pacifique/20261111-indon%C3%A9sie-derri%C3%A8re-la-d%C3%A9mission-du-vice-pr%C3%A9sident-gibran-une-alliance-politique-qui-se-dissout",
-    "https://rfi.fr/fr/asie-pacifique/20261112-indon%C3%A9sie-vice-pr%C3%A9sident-d%C3%A9missionne-scandale-li%C3%A9-%C3%A0-ses-dipl%C3%B4mes-crise-politique",
-    "https://rfi.fr/fr/podcasts/la-fabrique-du-monde/20261112-indon%C3%A9sie-vice-pr%C3%A9sident-gibran-d%C3%A9missionne-nouvelle-secousse-au-sommet-de-l-%C3%A9tat",
-    "https://thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece",
-    "https://www1.folha.uol.com.br/mundo/2026/11/vice-da-indonesia-renuncia-apos-justica-questionar-formacao-escolar.shtml",
-    "https://wxpr.org/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
    ]
   }
  ]

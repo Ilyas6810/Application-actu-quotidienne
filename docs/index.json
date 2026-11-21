@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-20T08:01:18Z",
- "derniere": "2026-11-20",
+ "maj": "2026-11-21T07:58:04Z",
+ "derniere": "2026-11-21",
  "editions": [
+  {
+   "date": "2026-11-21",
+   "genere_a": "2026-11-21T07:58:04Z",
+   "articles": 37,
+   "une": [
+    "Donald Trump menace de taxer les centres de données construits à l'étranger",
+    "Le maire de New York veut fermer la prison de Rikers Island",
+    "Un condamné à mort est exécuté au Texas après une heure d'agonie"
+   ],
+   "octets": 123539
+  },
   {
    "date": "2026-11-20",
    "genere_a": "2026-11-20T08:01:18Z",

@@ -1,0 +1,1585 @@
+{
+ "date": "2026-11-21",
+ "genere_a": "2026-11-21T07:58:04Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-21-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump menace de taxer les centres de données construits à l'étranger",
+   "chapeau": "Le président américain Donald Trump a annoncé son intention d'imposer des taxes aux entreprises technologiques des États-Unis qui construisent des centres de données hors des frontières nationales. Il s'est exprimé devant la presse à la Maison-Blanche le vendredi 20 novembre 2026.",
+   "corps": "Donald Trump veut forcer les acteurs technologiques américains à implanter leurs infrastructures informatiques sur le territoire des États-Unis. Lors d'un point de presse organisé à Washington, le chef de l'État a averti que les sociétés nationales subiront des prélèvements fiscaux très élevés si elles choisissent de délocaliser ces installations d'intelligence artificielle.\n\nCette orientation vise à maintenir la capacité d'investissement et le contrôle des serveurs aux États-Unis. Donald Trump a lié cette initiative à la rivalité technologique avec la Chine. Selon le président américain, Washington doit impérativement devancer Pékin dans le domaine des technologies informatiques avancées. Il a affirmé que l'obtention de la première place dans cette course détermine la puissance générale.\n\nLe projet n'a pas encore fait l'objet d'un texte officiel. Donald Trump a reconnu devant les journalistes que les membres de son propre gouvernement découvraient cette proposition en même temps que le public. Il n'a présenté aucun calendrier législatif ni précisé la base juridique sur laquelle son administration pourrait s'appuyer pour instaurer ces sanctions financières.\n\nLe président a également exhorté les collectivités locales américaines à accueillir favorablement ces bâtiments industriels. Les centres de données désignent des bâtiments abritant des serveurs informatiques. Alors que ces infrastructures rencontrent une opposition grandissante dans plusieurs localités, Donald Trump a encouragé les élus locaux à négocier des retombées financières avec les entreprises pour accepter ces chantiers.\n\nDurant cette même intervention, Donald Trump a évoqué d'autres questions diplomatiques et commerciales. Il revenait d'un déplacement en Asie où il s'est entretenu avec le président chinois Xi Jinping et le président russe Vladimir Poutine. Donald Trump a affirmé que les États-Unis et la Chine mènent des négociations en vue d'un accord global portant sur les semi-conducteurs. Les semi-conducteurs désignent des composants électroniques pour processeurs. Il a également affiché son soutien à son secrétaire au Commerce Howard Lutnick et à l'ancien directeur général de Nvidia Jensen Huang, dont il a souhaité le retour chez ce concepteur de puces.\n\n## Ce que disent les sources\n\nLes médias décrivent différemment la nature de la mesure évoquée par la présidence. Bloomberg, The Straits Times, abc7.com, Folha de S.Paulo, le Financial Times et Al Jazeera rapportent que Donald Trump a promis de créer une taxe ou un impôt lourd sur les entreprises concernées. Le quotidien The Guardian indique que le président a parlé de pénalités considérables sans mentionner exclusivement une taxe. La BBC rapporte pour sa part une menace d'interdiction pure et simple pour les entreprises souhaitant ériger ces structures à l'étranger. Le journal espagnol El País évoque plus largement des sanctions financières.\n\nLes sources ne précisent ni le montant de ces pénalités ni le texte légal que la présidence envisage d'utiliser.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-20/trump-wants-tax-on-us-companies-for-foreign-data-centers-video"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-says-he-plans-to-penalise-us-tech-companies-that-build-ai-data-centres-in-other-countries"
+    },
+    {
+     "nom": "abc7.com",
+     "url": "https://abc7.com/story/trump-says-he-plans-penalize-us-tech-companies-build-ai-data-centers-other-countries/20059998"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/trump-ameaca-impor-taxas-pesadas-a-empresas-dos-eua-que-construirem-data-centers-no-exterior.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmde1lw9y54ko"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-20/trump-amenaza-con-sancionar-a-las-empresas-estadounidenses-que-construyan-centros-de-datos-en-otros-paises.html"
+    }
+   ],
+   "premiere_parution": "2026-11-20T17:43:51Z",
+   "suite_de": null,
+   "mots": 482,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le maire de New York veut fermer la prison de Rikers Island",
+   "chapeau": "Le maire de New York, Zohran Mamdani, a présenté un plan stratégique pour fermer le complexe carcéral de Rikers Island le vendredi 20 novembre 2026. Cette initiative prévoit le transfert de la population pénitentiaire vers quatre nouveaux établissements répartis dans quatre arrondissements de la ville.",
+   "corps": "Le maire de New York a présenté son nouveau plan d'action lors d'une intervention publique le vendredi 20 novembre 2026. Le chef de l'exécutif municipal s'est présenté en béquilles en raison d'une rupture du tendon d'Achille survenue pendant un match de football, selon le média Corriere della Sera du 20 novembre 2026. Au cours de son allocution, Zohran Mamdani a déclaré qu'il était temps de fermer définitivement Rikers Island, en ajoutant que les habitants réclamaient depuis plusieurs décennies un système correctionnel sûr, selon des propos rapportés par The Guardian le 20 novembre 2026.\n\nLe complexe de Rikers Island constitue la principale structure pénitentiaire de la municipalité. Le plan prévoit de remplacer ce centre unique par quatre prisons de taille plus réduite implantées dans quatre arrondissements. Le projet municipal inclut une augmentation de l'offre de soins en santé mentale et le développement de programmes de réinsertion. La stratégie vise également la diminution globale du nombre de personnes détenues. Selon NPR le 20 novembre 2026, la municipalité s'inspire du modèle carcéral allemand pour mettre en oeuvre ces transformations.\n\nLe projet de fermeture de l'île carcérale n'est pas nouveau. BBC News indique le 21 novembre 2026 que le conseil municipal de New York avait voté une première mesure d'interdiction et de fermeture dès l'année 2019. Des retards se sont accumulés depuis cette décision initiale en raison de désaccords sur les lieux de transfert des détenus. Le site actuel subit de nombreuses critiques formulées par plusieurs observateurs et médias. Les rapports mentionnent des problèmes d'insalubrité des bâtiments, une prise en charge médicale insuffisante, des agressions physiques, des décès de prisonniers ainsi que des actes de violence imputés à des agents, selon Der Spiegel, El País et NPR le 20 novembre 2026.\n\nPour exécuter la transition, l'administration municipale sollicite une modification du cadre légal auprès du conseil de la ville. Le maire souhaite faire repousser l'échéance juridique fixée pour l'arrêt définitif des incarcérations sur l'île. La mise en application de ce plan implique des ajustements budgétaires et l'aménagement préalable de nouvelles infrastructures d'accueil sécurisées dans les quartiers désignés.\n\n## Ce que disent les sources\n\nLes informations transmises par la presse présentent des divergences concernant la date limite fixée pour la fermeture complète du complexe.\n\nSelon Bloomberg, ANSA, Der Spiegel, Al Jazeera et The Straits Times dans leurs éditions du 20 novembre 2026, ainsi que BBC News dans son article du 21 novembre 2026, le plan de Zohran Mamdani reporte la fermeture à la fin de l'année 2032. Cette date représente un délai supplémentaire de cinq ans par rapport à l'échéance légale antérieure, qui était fixée au 31 août 2027 d'après ANSA le 20 novembre 2026.\n\nÀ l'inverse, une dépêche ultérieure de The Straits Times publiée le 21 novembre 2026 affirme que le complexe de Rikers Island doit fermer et être remplacé par quatre structures plus modernes d'ici l'année 2027.\n\nCertaines données financières ainsi que la localisation exacte des quatre futures prisons ne sont pas précisées dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/nyc-to-delay-rikers-jail-closing-by-five-years-to-end-of-2032"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-20/mamdani-unveils-plan-to-close-rikers-island-new-yorks-notorious-jail-plagued-by-allegations-of-abuse-violence-and-death.html"
+    },
+    {
+     "nom": "ANSA",
+     "url": "https://ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/mamdani-vuole-chiudere-il-carcere-di-rikers-island-presentato-il-piano_8e5fbe63-e516-49a3-b945-7a25f77722e6.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/new-york-il-sindaco-mamdani-in-stampelle-annuncia-la-chiusura-di-rikers-island/a68050a4-a27d-4a8d-a323-3ca224213xlk"
+    }
+   ],
+   "premiere_parution": "2026-11-20T00:00:00Z",
+   "suite_de": null,
+   "mots": 538,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un condamné à mort est exécuté au Texas après une heure d'agonie",
+   "chapeau": "Le personnel pénitentiaire du Texas a exécuté Reinaldo Dennes le jeudi 19 novembre 2026 dans la prison de Huntsville. La procédure par injection létale a duré plus d'une heure en raison de difficultés d'accès veineux.",
+   "corps": "Reinaldo Dennes avait 70 ans. La justice américaine l'avait condamné pour l'assassinat de Janos Szucs, un marchand de diamants tué par plusieurs balles dans son bureau de Houston en janvier 1996.\n\nL'exécution a débuté le jeudi 19 novembre 2026 dans le pénitencier de Huntsville, au Texas. Les agents pénitentiaires ont rencontré des difficultés pour insérer les deux aiguilles intraveineuses nécessaires à l'administration du produit. Le protocole prévoyait une dose létale de pentobarbital, un médicament sédatif qui calme le système nerveux. La procédure s'est étalée sur 63 minutes avant l'annonce du décès.\n\nPendant l'intervention, le condamné s'est plaint à plusieurs reprises. Reinaldo Dennes a poussé des gémissements et des cris de douleur. Il a signalé une gêne intense au niveau de sa jambe droite. Le détenu a demandé aux agents de ne pas le laisser souffrir ainsi et a imploré la fin de son supplice.\n\nLe même jour, l'État de Floride effectuait sa vingtième exécution de l'année 2026, selon la radio NPR le 20 novembre 2026. Cet événement survient deux mois après une autre procédure controversée. Le 30 septembre 2026, Christa Pike a survécu à l'injection de deux doses létales de pentobarbital dans l'État du Tennessee. Ces événements ravivent les débats sur la peine capitale et suscitent des demandes de moratoire national sur les injections létales.\n\n## Ce que disent les sources\n\nLe quotidien espagnol ABC rapporte le 20 novembre 2026 que Reinaldo Dennes a lui-même déclaré pendant l'exécution que le processus ne fonctionnait pas comme prévu. Le journal italien Corriere della Sera attribue cette phrase le 20 novembre 2026 au révérend Jeff Hood, présent lors de la mise à mort.\n\nDe leur côté, les autorités du Texas ont qualifié cette exécution de succès, selon le journal britannique The Guardian le 20 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "nbclosangeles.com",
+     "url": "https://nbclosangeles.com/news/national-international/texas-execution-took-over-an-hour-as-staff-struggled-to-find-a-vein-reinaldo-dennes-moaned-about-pain/3973424"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/19/record-executions-florida-texas"
+    },
+    {
+     "nom": "hindustantimes.com",
+     "url": "https://hindustantimes.com/world-news/us-news/texas-inmate-reinaldo-dennes-moaned-in-pain-as-execution-took-over-an-hour-staff-struggled-to-find-vein-101795147421040.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/20/deux-mois-apres-l-execution-ratee-de-christa-pike-la-longue-mise-a-mort-de-reinaldo-dennes-au-texas_6813583_3210.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ck20vl1dd8qzo"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_20/texas-pena-morte-reinaldo-dennes-iniezione-pentobarbital-4e7f9fea-f6be-44d9-a8b9-3bdb0b854xlk.shtml"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/recluso-condenado-muerte-texas-grita-dolor-ejecucion-20261120190655-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-19T01:28:12Z",
+   "suite_de": null,
+   "mots": 327,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un homme reconnu coupable d'incendie criminel à Los Angeles",
+   "chapeau": "Un jury fédéral américain a déclaré Jonathan Rinderknecht coupable d'incendie volontaire le vendredi 20 novembre 2026 à Los Angeles. L'homme de 30 ans est accusé d'avoir provoqué le feu destructeur de Pacific Palisades survenu en janvier 2025.",
+   "corps": "Jonathan Rinderknecht, un ancien chauffeur Uber résidant à Los Angeles, a été reconnu coupable de deux chefs d'accusation fédéraux d'incendie criminel. Ce verdict intervient à l'issue d'un second procès de deux semaines. La première procédure judiciaire s'était soldée plus tôt dans l'année par une annulation, le jury initial n'ayant pas réussi à atteindre un accord.\n\nSelon Le Monde du 21 novembre 2026, les secouristes avaient au départ pensé avoir maîtrisé le sinistre. Les flammes ont pourtant repris le 7 janvier 2025 dans le secteur de Pacific Palisades. D'après BBC News du 21 novembre 2026, cet incendie a causé la mort de 12 personnes et dévasté plus de 6 800 bâtiments.\n\nL'accusé encourt désormais une peine allant jusqu'à 20 ans de prison pour chaque infraction retenue contre lui, indique The Straits Times le 21 novembre 2026. L'instruction fédérale s'achève ainsi après la présentation des preuves par les procureurs devant le nouveau groupe de jurés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "kcby.com",
+     "url": "https://kcby.com/news/nation-world/30-year-old-man-convicted-of-starting-deadly-2025-palisades-wildfires-in-los-angeles-california-palisades-fire-malibu-flames-death-guilty-verdict-arson-true-crime"
+    },
+    {
+     "nom": "wboc.com",
+     "url": "https://wboc.com/news/national/federal-jury-convicts-man-of-starting-the-deadly-2025-palisades-fire-in-los-angeles/article_830c534d-3e19-5e79-b921-205d3cb30bb3.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/suspect-in-los-angeles-deadly-palisades-fire-convicted-of-arson-at-retrial"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c64gn0gy8rj3o"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-20T23:34:59Z",
+   "suite_de": null,
+   "mots": 190,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un ressortissant indien condamné aux États-Unis pour tentative d'assassinat",
+   "chapeau": "La justice américaine a condamné le citoyen indien Nikhil Gupta pour son rôle dans un projet d'assassinat ciblant un responsable séparatiste sikhe à New York. La peine prononcée à la fin du mois de novembre 2026 conclut des poursuites engagées après la déjoue de ce complot.",
+   "corps": "Âgé de 55 ans, Nikhil Gupta avait plaidé coupable en février 2026 de trois chefs d'accusation. L'homme a reconnu sa culpabilité pour tentative de meurtre commandité, conspiration en vue de commettre un meurtre commandité et conspiration en vue de blanchir de l'argent. La cible du projet était Gurpatwant Singh Pannun, un militant séparatiste sikhe possédant les nationalités américaine et canadienne.\n\nSelon les procureurs américains, l'accusé a agi sur les instructions d'un fonctionnaire du gouvernement indien afin d'engager un tueur à gages. Les documents judiciaires citent également l'implication d'un ancien employé de l'État indien, Vikash Yadav. L'opération visait le responsable politique en raison de ses positions idéologiques dans le cadre des actions ciblant les dissidents indiens. Des procédures d'expulsion seront engagées à l'encontre de l'accusé au terme de son incarcération.\n\n## Ce que disent les sources\n\nScroll.in affirme le 20 novembre 2026 à 04:00 que la peine prononcée contre Nikhil Gupta s'élève à 20 ans de prison. De leur côté, Bloomberg, The Guardian, BBC News, Al Jazeera, Oneindia, The Hindu Business Line et The Hindu rapportent entre le 20 novembre 2026 à 21:02 et le 21 novembre 2026 à 08:55 une condamnation à 235 mois de prison, soit un peu plus de 19 ans d'emprisonnement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "scroll.in",
+     "url": "https://scroll.in/article/1097218/nikhil-gupta-sentenced-for-20-years-in-plot-to-assassinate-sikh-separatist-leader-in-new-york"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/indian-man-sentenced-to-19-years-for-plot-to-kill-sikh-activist"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/indian-man-sentenced-to-more-than-19-years-in-us-for-plotting-to-kill-sikh-separatist"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cq702ez8d4lwo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot"
+    },
+    {
+     "nom": "oneindia.com",
+     "url": "https://oneindia.com/international/us-court-sentences-nikhil-gupta-to-19-years-in-jail-over-plot-to-kill-khalistani-terrorist-pannun-8265785.html"
+    },
+    {
+     "nom": "thehindubusinessline.com",
+     "url": "https://thehindubusinessline.com/news/world/us-court-sentences-indian-national-nikhil-gupta-to-235-months-in-jail-in-murder-for-hire-plot/article71727209.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-20T00:00:00Z",
+   "suite_de": null,
+   "mots": 253,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Daniel Thomas condamné à quinze mois de prison en Grande-Bretagne",
+   "chapeau": "La justice britannique a condamné le militant Daniel Thomas à quinze mois de prison ferme vendredi 20 novembre 2026 à Portsmouth. Cet homme de 37 ans avait lacéré une embarcation pneumatique utilisée par des migrants dans la Manche.",
+   "corps": "Le tribunal de Portsmouth a rendu son jugement vendredi 20 novembre 2026. La justice reprochait à Daniel Thomas des dégradations volontaires commises à l'aide d'un couteau sur un canot gonflable. L'activiste, connu sur Internet sous le pseudonyme de Danny Tommo, a diffusé son acte en direct sur les réseaux sociaux. L'événement s'est déroulé alors que des secouristes évacuaient des personnes à bord du bateau.\n\nLe magistrat a qualifié le prévenu de chercheur de notoriété. Selon le juge, l'intervention du militant a perturbé le travail des équipes de sauvetage en mer. La Deutsche Welle rapporte le 21 novembre 2026 qu'un secouriste français se trouvait sur l'embarcation au moment des faits.\n\nDaniel Thomas est le fondateur d'un groupe opposé à l'immigration au Royaume-Uni. Il gère des comptes suivis par un public important sur les plateformes en ligne, notamment YouTube, où il publie régulièrement ses actions. Son incarcération intervient dans un contexte de tensions autour des traversées de la Manche par des embarcations légères.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "thecomet.net",
+     "url": "https://thecomet.net/news/national/26749131.activist-danny-tommo-jailed-slashing-migrant-dinghy-knife"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/founder-of-uk-anti-migrant-group-jailed-for-slashing-small-boat-in-channel"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6lywjpn5levo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/20/royaume-uni-prison-ferme-pour-le-militant-d-extreme-droite-danny-tommo-apres-une-action-antimigrants_6813680_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/daniel-thomas-britischer-rechtsextremist-schlitzte-fluechtlingsboot-auf-15-monate-haft-a-638b7171-fe37-4b5f-9bd1-354865b1f6ed"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-20T15:30:00Z",
+   "suite_de": null,
+   "mots": 199,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La Birmanie rejette la décision de la CIJ sur le génocide",
+   "chapeau": "La junta militaire birmane a contesté le verdict de la Cour internationale de justice rendu le 19 novembre 2026 à La Haye. Le gouvernement birman a qualifié d'injuste la décision reconnaissant la responsabilité de l'État dans le génocide des Rohingyas.",
+   "corps": "Le ministère birman des Affaires étrangères a exprimé sa grande déception après le jugement. Les autorités birmanes ont déclaré que la décision du tribunal n'était ni juste ni unanime. Le pouvoir militaire conteste les conclusions attribuant aux forces de sécurité des actes génocidaires sponsorisés par l'État contre la minorité musulmane.\n\nLes réactions internationales se multiplient. Les Nations unies demandent au gouvernement birman de permettre le retour sécurisé des personnes déplacées. L'Union européenne indique prendre note de l'arrêt. De son côté, la Chine a appelé à la prudence pour éviter de compliquer la situation.\n\nLa communauté rohingya accueille favorablement le jugement, tout en soulignant la longueur des démarches à venir pour obtenir justice. Cet arrêt de la Cour internationale de justice ordonne également des réparations financières et des restitutions de biens. Le chef de l'armée birmane de l'époque, devenu président, est directement mis en cause pour son rôle dans les événements de 2017.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-20/el-gobierno-de-myanmar-critica-el-fallo-del-maximo-organo-judicial-de-la-onu-es-injusto-y-no-unanime.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/mianmar-contesta-decisao-historica-de-tribunal-da-onu-que-reconhece-genocidio-contra-minoria-rohingya.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/myanmar-says-disappointed-by-icj-ruling-on-rohingya-genocide"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/asie-pacifique/genocide-des-rohingyas-apres-la-decision-historique-de-la-cij-les-reactions-internationales-senchainent-20261120_T6GQJ2LXAJGFJOENXUVFY55D6M"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/genocide-des-rohingyas-min-aung-hlaing-le-general-president-qui-a-attise-la-haine-20261120"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/asia-and-australia/2026-11-20/ty-article-magazine/.premium/the-icj-has-found-a-country-guilty-of-genocide-israel-should-be-worried/000001a1-f85f-d5b4-a3bd-f97f72a30000"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-birmanie-condamnee-pour-genocide-contre-les-rohingyas-20261120"
+    }
+   ],
+   "premiere_parution": "2026-11-18T17:25:13Z",
+   "suite_de": "2026-11-20-monde-001",
+   "mots": 192,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump rencontre Vladimir Poutine en Chine et le qualifie d ami",
+   "chapeau": "Le président américain Donald Trump a rencontré le président russe Vladimir Poutine le jeudi 19 novembre 2026 en Chine. Les deux dirigeants ont échangé sur le sujet de l Ukraine lors de cet entretien déroulé en marge d un rassemblement international.",
+   "corps": "Cet échange constituait la première entrevue en personne entre le chef d État américain et le dirigeant russe depuis plus de quinze mois. Au moment de saluer son homologue et de lui serrer la main, le président des États-Unis a présenté le dirigeant de la Fédération de Russie en déclarant qu il s agissait de son ami. Lors de cette salutation initiale, le président américain a également adressé une remarque chuchotée au chef d État russe.\n\nÀ la suite de ce tête-à-tête, les deux dirigeants ont participé à une rencontre trilatérale organisée avec le président chinois Xi Jinping. Cet entretien tripartite s est tenu dans le cadre du même sommet réunissant des chefs d État et de gouvernement sur le sol chinois.\n\nDe retour de son déplacement en Chine le vendredi 20 novembre 2026, Donald Trump a publiquement assumé l emploi de la formule utilisée lors de son accueil. Le président des États-Unis a défendu le fait d avoir qualifié Vladimir Poutine d ami. Le dirigeant américain a toutefois déclaré qu il ne pouvait pas s exprimer pour déterminer si le président russe constitue un ami pour la nation américaine.\n\nIl manque des précisions sur la teneur exacte des discussions relatives à l Ukraine ainsi que sur le contenu du message chuchoté par le président américain.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-19/trump-meets-with-russia-s-putin-for-first-time-in-over-a-year"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/c6j9m19llmv3o"
+    },
+    {
+     "nom": "thedailybeast.com",
+     "url": "https://thedailybeast.com/mystery-swirls-over-giddy-trumps-whisper-to-friend-vladimir-putin-at-china-summit"
+    },
+    {
+     "nom": "brentwoodlive.co.uk",
+     "url": "https://brentwoodlive.co.uk/news/national/26750196.trump-defends-calling-putin-friend-wont-say-friend-us"
+    },
+    {
+     "nom": "kwtx.com",
+     "url": "https://kwtx.com/2026/11/20/trump-defends-calling-putin-friend-says-he-cant-speak-whether-hes-friend-us"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-defends-calling-russias-putin-a-friend-but-says-he-cant-speak-to-whether-hes-a-friend-to-the"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/nao-posso-falar-pelos-eua-diz-trump-ao-responder-se-putin-e-amigo-do-pais.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-19T04:33:46Z",
+   "suite_de": null,
+   "mots": 257,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des pirates informatiques infiltrent une base de donnees criminelles du FBI",
+   "chapeau": "Le Federal Bureau of Investigation enquete sur une cyberattaque controversee ayant touche son fichier national d'informations criminelles aux Etats-Unis le 21 novembre 2026. Cette intrusion informatique a ete revele par la chaine CNN selon des sources anonymes citees par l'agence ABC.",
+   "corps": "Le Federal Bureau of Investigation, la police federale americaine, examine une intrusion informatique visant son fichier national d'informations criminelles selon des informations diffusees le 21 novembre 2026 par la chaine CNN et reprises par l'agence ANSA.\n\nCe fichier informatique sert d'outil de liaison entre les differentes forces de police au niveau federal, au niveau des etats et au niveau local d'apres les precisions apportees par l'agence ABC le 21 novembre 2026.\n\nCe probleme de securite informatique s'ajoute a une serie d'incidents recents qui inquietent les autorites americaines au cours de la semaine precedant le 21 novembre 2026 selon The Straits Times.\n\nDer Spiegel indique le 21 novembre 2026 qu'un autre organisme public a subi une cyberattaque selon un rapport supplementaire.\n\nCertains elements manquent pour connaitre l'identite exacte des auteurs de cette cyberattaque et l'etendue precise des donnees derobees.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ANSA",
+     "url": "https://ansa.it/sito/notizie/mondo/2026/11/21/cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_fe757c39-8a79-4cb4-acc8-ded23218bdf8.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/fbis-criminal-information-database-hacked-cnn-reports"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/investigan-cibertataque-base-datos-criminales-fbi-20261121080221-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-21T02:54:00Z",
+   "suite_de": null,
+   "mots": 179,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Mort de l'hippopotame Fiona au zoo de Cincinnati après ingestion",
+   "chapeau": "L'hippopotame femelle Fiona est décédée le jeudi 19 novembre 2026 au zoo de Cincinnati aux États-Unis. L'animal a succombé à des complications après avoir avalé un bonnet tombé dans son enclos.",
+   "corps": "Fiona est morte à l'âge de neuf ans, selon le zoo de Cincinnati le 20 novembre 2026 [10]. L'animal avait ingéré un bonnet de laine environ onze jours avant sa mort, d'après Folha de S.Paulo le 20 novembre 2026 [3].\n\nLes équipes vétérinaires ont tenté plusieurs interventions, incluant une coloscopie et l'utilisation d'une plaque vibrante, pour aider l'animal à éliminer le vêtement, selon The Guardian le 20 novembre 2026 [6]. Ces tentatives n'ont pas permis de sauver l'hippopotame [6].\n\nLe zoo de Cincinnati appelle les visiteurs à sécuriser leurs affaires personnelles, d'après Libération le 20 novembre 2026 [10]. Des visiteurs déposent des fleurs et des messages devant le parc animalier, selon Corriere della Sera le 20 novembre 2026 [9].\n\nNée prématurément en 2017, Fiona était devenue célèbre sur les internet, un réseau mondial d'ordinateurs interconnectés, d'après la BBC le 20 novembre 2026 [2] et franceinfo le 20 novembre 2026 [8]. Le texte ne précise pas l'identité du propriétaire du bonnet.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwz0k3172xzko"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://f5.folha.uol.com.br/bichos/2026/11/hipopotamo-fiona-morre-aos-9-anos-apos-engolir-gorro-nos-eua.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/fiona-the-hippos-death-gives-parents-a-chance-to-teach-kids-about-grief-and-life"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/biodiversite/animaux/fiona-hippopotame-d-un-zoo-americain-meurt-apres-avoir-avale-un-bonnet-et-emeut-les-internautes-du-monde-entier_8291984.html"
+    }
+   ],
+   "premiere_parution": "2026-11-18T20:47:00Z",
+   "suite_de": "2026-11-20-monde-002",
+   "mots": 192,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-monde-011",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Andy Burnham ajuste sa politique européenne et craint la guerre en Iran",
+   "chapeau": "Le Premier ministre britannique Andy Burnham modifie sa stratégie concernant l'Union européenne et s'inquiète en privé de la guerre en Iran. Ces informations émanent de plusieurs sources de presse publiées entre le 19 et le 21 novembre 2026 au Royaume-Uni et aux Etats-Unis.",
+   "corps": "Le Premier ministre britannique Andy Burnham ralentit sa démarche de réinitialisation des relations avec l'Union européenne selon Politico Europe le 19 novembre 2026. Cette situation découle d'entretiens menés auprès de trente responsables politiques et militants au Royaume-Uni et à Bruxelles.\n\nLe Financial Times mentionne le projet européen du dirigeant britannique le 20 novembre 2026. Le journal évoque également les perspectives de réforme du système de protection sociale.\n\nBloomberg indique le 21 novembre 2026 que le chef du gouvernement se concentre officiellement sur les accords commerciaux avec l'Union européenne et sur la protection sociale. En privé, il exprime des inquiétudes au sujet de la guerre en Iran et des actions de Donald Trump.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/andy-burnham-eu-uk-brexit-reset"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/76543b3f-b669-42c8-9518-d67c967c6d5c?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran"
+    }
+   ],
+   "premiere_parution": "2026-11-19T03:00:00Z",
+   "suite_de": null,
+   "mots": 155,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Trois policiers condamnés à de la prison ferme pour l'agression de Michel Zecler",
+   "chapeau": "La cour criminelle de Paris a condamné trois policiers à des peines de prison ferme, vendredi 20 novembre 2026, pour l'agression du producteur de musique Michel Zecler survenue en novembre 2020. Les magistrats ont retenu la circonstance aggravante de racisme à l'encontre des fonctionnaires.",
+   "corps": "La cour criminelle départementale de Paris a rendu son verdict vendredi 20 novembre 2026 à l'issue de deux semaines de procès concernant l'agression du producteur de musique Michel Zecler, selon Le Monde du 21 novembre 2026.\n\nLes trois fonctionnaires de police impliqués, nommés Aurélien Lapersonne, Philippe Tondeux et Pierre Plantier d'après Libération du 21 novembre 2026, ont écopé de peines allant de un an à deux ans de prison ferme, ou sous bracelet électronique selon franceinfo du 21 novembre 2026. L'avocate générale avait requis la veille des peines de quatre à six ans de prison ferme avec la même circonstance aggravante, d'après Le Monde du 20 novembre 2026 et France 24 du 21 novembre 2026. Les trois condamnés font également l'objet d'une interdiction définitive d'exercer le métier de policier, d'après RFI du 21 novembre 2026.\n\nEn novembre 2020, Michel Zecler avait subi des violences dans l'entrée de son studio de musique par ces agents qui voulaient le contrôler pour non-port du masque, pendant le deuxième confinement lié à la pandémie de Covid-19, rappelle Le Monde du 21 novembre 2026. Les policiers avaient initialement rédigé des procès-verbaux affirmant que le producteur les avait agressés, selon Le Monde du 20 novembre 2020 et du 21 novembre 2026.\n\nAvant que la cour ne se retire pour délibérer vendredi matin, les trois accusés ont présenté des excuses à Michel Zecler, l'un d'eux exprimant des remords pour l'image donnée de la justice et de la police, d'après Le Figaro du 21 novembre 2026.\n\n## Ce que disent les sources\n\nLe Monde du 21 novembre 2026 et La Croix du 21 novembre 2026 indiquent dans leurs titres une condamnation à cinq ans de prison, tandis que Libération du 21 novembre 2026, RFI du 21 novembre 2026, France 24 du 21 novembre 2026 et franceinfo du 21 novembre 2026 mentionnent des peines de un à deux ans de prison ferme.\n\nL'article ne précise pas la composition exacte du jury de la cour criminelle.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/20/si-l-on-accepte-que-trois-policiers-mentent-le-lien-social-est-rompu-prison-ferme-requise-au-proces-de-l-interpellation-violente-de-michel-zecler_6813386_3224.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/justice-proces/les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-lui-renouvellent-leurs-excuses-du-fond-du-c-ur-dans-leurs-derniers-mots_8291942.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/proces-zecler-les-trois-policiers-condamnes-a-des-peines-d-un-a-deux-ans-de-prison-ferme-la-circonstance-aggravante-de-racisme-retenue-20261120"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-affaire-michel-zecler-prison-ferme-pour-les-trois-policiers-le-caract%C3%A8re-raciste-de-l-agression-retenu"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/proces-zecler-les-trois-policiers-condamnes-a-cinq-ans-de-prison-le-caractere-raciste-retenu-20261120"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme"
+    }
+   ],
+   "premiere_parution": "2026-11-18T18:05:03Z",
+   "suite_de": null,
+   "mots": 369,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-france-002",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le Parlement adopte définitivement la présomption d'usage des armes",
+   "chapeau": "Le Parlement français a adopté définitivement une proposition de loi créant une présomption d'usage légal des armes pour les forces de l'ordre. Le Sénat a voté ce texte vendredi 20 novembre 2026 à Paris.",
+   "corps": "Le Sénat a validé la proposition de loi vendredi 20 novembre 2026 avec 205 voix pour et 110 voix contre, selon les informations de franceinfo du 20 novembre 2026. Le texte a reçu le soutien du gouvernement, de la droite, du centre et de l'extrême droite. Cette adoption intervient avant une nouvelle journée de mobilisation sociale prévue le samedi 21 novembre 2026.\n\nLe ministre de l'Intérieur, Laurent Nuñez, a salué cette décision vendredi 20 novembre 2026 dans Le Figaro. Il estime que ce vote constitue une marque de confiance envers les policiers et les gendarmes.\n\n## Ce que disent les sources\n\nLes opposants de gauche qualifient le texte de permis de tuer, selon RFI le 20 novembre 2026. La gauche sénatoriale a indiqué qu'elle saisirait le Conseil constitutionnel pour empêcher la promulgation de la loi, d'après Le Monde du 20 novembre 2026.\n\nA l'inverse, le syndicat Unsa Police défend le texte. Rudy Manna, délégué national de l'organisation, déclare samedi 21 novembre 2026 sur franceinfo qu'il ne s'agit ni d'un permis de tuer ni d'une présomption générale de légitime défense.\n\nCertaines précisions sur l'application pratique de cette nouvelle règle manquent encore dans les sources disponibles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-france-le-parlement-adopte-d%C3%A9finitivement-la-pr%C3%A9somption-d-usage-l%C3%A9gitime-des-armes-par-les-forces-de-l-ordre"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261120-police-la-loi-sur-la-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-d%C3%A9finitivement-adopt%C3%A9e-par-le-parlement"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/police-la-presomption-d-usage-legal-des-armes-enterinee-au-parlement-avant-un-nouvel-acte-social-20261120"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120"
+    }
+   ],
+   "premiere_parution": "2026-11-20T18:46:02Z",
+   "suite_de": null,
+   "mots": 227,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-france-003",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Dominique de Villepin officialise sa candidature pour la course presidentielle",
+   "chapeau": "L'ancien Premier ministre Dominique de Villepin a officialise sa participation a l'election presidentielle de 2027 lors d'une intervention a Paris vendredi 20 novembre 2026. Il souhaite proposer une alternative politique et regrouper les electeurs au-dela des clivages traditionnels.",
+   "corps": "Dominique de Villepin a declare sa candidature vendredi 20 novembre 2026 a la Maison de l'Amerique latine a Paris, selon Liberation. L'ancien chef du gouvernement, qui a dirige l'executif sous la presidence de Jacques Chirac de 2005 a 2007 d'apres The Straits Times, entend lutter contre la degradation sociale, financiere et politique du pays, d'apres Bloomberg du 20 novembre 2026.\n\nIl se positionne en dehors des formations politiques existantes et critique les clivages actuels, tel que le rapporte Le Monde du 21 novembre 2026. Sa demarche provoque des reactions a droite, certaines figures de sa famille politique emettant des critiques, d'apres franceinfo du 20 novembre 2026. Edouard Philippe a quant a lui souligne des points communs avec le nouveau candidat, d'apres franceinfo du meme jour.\n\nCette candidature intervient dans un contexte ou le nombre de pretendants au centre de l'echiquier politique augmente, ce qui ajoute de l'incertitude au scrutin d'apres le Financial Times du 20 novembre 2026. Agage de 73 ans selon Le Monde du 21 novembre 2026, l'ancien ministre des Affaires etrangeres, remarque autrefois pour son intervention a l'Organisation des Nations unies contre la guerre en Irak d'apres La Croix du 20 novembre 2026, tentera de franchir l'etape du suffrage universel pour le scrutin prevu en avril 2027.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/france-s-villepin-ex-prime-minister-joins-race-for-presidency"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/former-french-pm-de-villepin-launches-2027-presidential-bid"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/71d49bc4-76df-4f0b-bb49-5db49b77aceb?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/nous-avons-evidemment-des-choses-en-commun-reagit-edouard-philippe-a-la-candidature-de-dominique-de-villepin-a-la-presidentielle-de-2027_8292626.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/villepin-candidat-en-2027-le-jour-ou-son-discours-a-l-onu-la-place-sous-les-projecteurs-20261120"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-l-ancien-premier-ministre-dominique-de-villepin-annonce-sa-candidature"
+    }
+   ],
+   "premiere_parution": "2026-11-20T06:43:38Z",
+   "suite_de": null,
+   "mots": 247,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-france-004",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Un prefet soupconne de fuites d'informations vers le Rassemblement national",
+   "chapeau": "La justice soupconne un haut fonctionnaire d'avoir transmis des documents confidentiels au Rassemblement national. Le ministre de l'Interieur a convoque le prefet mis en cause le vendredi 20 novembre 2026.",
+   "corps": "Une information judiciaire a ete ouverte au mois de juillet 2026 par le parquet de Paris, selon franceinfo du 21 novembre 2026. L'enquete porte sur des soupcons de transmission de documents secrets concernant des enquetes en cours sur le parti politique.\n\nDes perquisitions ont eu lieu au siege du parti politique et au ministere de l'Interieur, d'apres Le Monde du 20 novembre 2026. Le prefet Hugues Moutouh, ancien secretaire general du ministere, est vise par ces investigations.\n\nLe ministre de l'Interieur Laurent Nuñez a qualifie ces actes de tres graves s'ils etaient averes, lors de reactions recueillies par Le Figaro le 20 novembre 2026. Il a recu le haut fonctionnaire vendredi 20 novembre 2026 au ministere.\n\nIl manque des informations sur les suites donnees a cette convocation par le ministere.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/soupcons-de-fuites-au-profit-du-rn-si-les-faits-concernant-le-prefet-moutouh-sont-averes-ils-sont-tres-graves-reagit-laurent-nunez-20261120"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/affaire-des-fuites-dinfos-du-ministere-de-linterieur-vers-le-rn-tout-comprendre-a-cette-enquete-a-tiroirs-20261120_XRT3JQFE2BDDDOKY6IAISBFNYU"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/politique/perquisitions-prefet-convoque-ce-que-l-on-sait-de-laffaire-des-fuites-au-benefice-du-rn-20261120"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261120-fuites-au-minist%C3%A8re-de-l-int%C3%A9rieur-comment-le-rn-a-progressivement-s%C3%A9duit-les-hauts-fonctionnaires"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-france-le-silence-du-rn-interroge-apr%C3%A8s-la-r%C3%A9v%C3%A9lation-par-la-presse-de-fuites-du-minist%C3%A8re-de-l-int%C3%A9rieur"
+    }
+   ],
+   "premiere_parution": "2026-11-19T14:31:38Z",
+   "suite_de": null,
+   "mots": 160,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-france-005",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Manifestations syndicales et rassemblements de gilets jaunes à Paris samedi",
+   "chapeau": "Des syndicats, des organisations de jeunesse et des gilets jaunes manifestent ce samedi 21 novembre 2026 à Paris contre la vie chère. Ce mouvement social coïncide avec une journée de protestation nationale et européenne.",
+   "corps": "Un cortège s'élance ce samedi de la place de la République vers la place de la Nation à Paris. Cette mobilisation réunit l'intersyndicale d'Île-de-France, composée de la CGT, de la CFDT, de FO, de FSU et de Solidaires, ainsi que des organisations de jeunesse et l'association Droit au logement, selon Libération le 19 novembre 2026.\n\nLa coordination des gilets jaunes se joint également au rassemblement d'après Le Figaro du 19 novembre 2026. Cette action s'inscrit dans le cadre du mouvement contre la vie chère et d'un appel européen coordonné sur trois jours d'après franceinfo le 21 novembre 2026.\n\nLe ministre de l'Intérieur a demandé aux préfets d'être vigilants pour cette nouvelle journée de mobilisation selon franceinfo le 20 novembre 2026. Le journal Le Monde indique le 21 novembre 2026 que la mobilisation connaît une baisse d'ampleur en France.\n\nCertains éléments chiffrés manquent dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/social/paris-syndicats-gilets-jaunes-et-defenseurs-du-droit-au-logement-manifesteront-ensemble-samedi-20261119_BO23RA3HRRG2LA345E6VOMV6AE"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/social/a-paris-des-syndicats-des-jeunes-et-des-defenseurs-du-droit-au-logement-manifesteront-ensemble-ce-samedi-20261119"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261121-sixi%C3%A8me-samedi-de-manifestation-contre-la-vie-ch%C3%A8re-premier-round-contre-les-violences-sexistes"
+    }
+   ],
+   "premiere_parution": "2026-11-19T15:52:29Z",
+   "suite_de": null,
+   "mots": 179,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-france-006",
+   "rubrique": "france",
+   "format": "breve",
+   "titre": "Le Pas-de-Calais garde une vigilance orange aux crues samedi",
+   "chapeau": "Le service Vigicrues maintient le département du Pas-de-Calais en vigilance orange pour les crues ce samedi 21 novembre 2026. La préfecture recense près de huit cents évacuations depuis jeudi dernier dans cette zone.",
+   "corps": "La rivière la Canche a atteint son niveau maximal dans le Pas-de-Calais, selon les informations diffusées samedi 21 novembre 2026 par franceinfo, Le Monde et Le Figaro. Les autorités locales gèrent les déplacements des habitants touchés par la montée des eaux.\n\nEn Normandie, le service Vigicrues signale un risque pour la rivière la Vire, située entre le Calvados et la Manche. Cette institution publique indique samedi 21 novembre 2026 que le cours d'eau atteint les seuils de premiers débordements au cours de la matinée. Le service place cette zone en vigilance jaune.\n\nCertains détails géographiques précis manquent concernant la répartition exacte des communes touchées par ces mesures de sécurité.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-pas-de-calais-maintenu-en-vigilance-orange-aux-crues-samedi-la-canche-a-atteint-son-maximum_8293436.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/inondations-dans-le-pas-de-calais-le-niveau-de-la-canche-a-atteint-son-maximum-pres-de-800-personnes-evacuees-20261121"
+    }
+   ],
+   "premiere_parution": "2026-11-21T06:53:06Z",
+   "suite_de": null,
+   "mots": 142,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump, Xi Jinping et Vladimir Poutine discutent du risque nucléaire",
+   "chapeau": "Le président américain Donald Trump, le président chinois Xi Jinping et le président russe Vladimir Poutine se sont réunis à Shenzhen en Chine le 19 novembre 2026. Les chefs d'État des trois principales puissances nucléaires mondiales ont échangé sur la réduction des armes atomiques et les conflits en Ukraine et en Iran.",
+   "corps": "Les dirigeants des trois plus grandes puissances nucléaires de la planète ont tenu un sommet trilatéral dans la ville chinoise de Shenzhen le 19 novembre 2026. La rencontre a réuni le président des États-Unis Donald Trump, le président de la République populaire de Chine Xi Jinping et le président de la Fédération de Russie Vladimir Poutine. Les discussions ont porté principalement sur la maîtrise des armements nucléaires et sur la gestion des tensions mondiales.\n\nEn marge des cérémonies et des sessions officielles de ce sommet, le président américain Donald Trump a rencontré le président russe Vladimir Poutine lors d'un entretien bilatéral d'une durée de 40 minutes. Cet entretien ne figurait pas à l'agenda officiel de la réunion. À l'issue de cet échange direct, le chef d'État américain a qualifié le dirigeant russe de son ami.\n\nLes trois chefs d'État ont exprimé une position commune sur le danger d'un affrontement atomique. Ils ont affirmé conjointement qu'une guerre nucléaire ne peut pas être gagnée et ne doit jamais être livrée. Les dirigeants ont appelé à la réduction des arsenaux atomiques mondiaux et au maintien de la paix internationale. Les trois pays ont convenu de poursuivre des pourparlers ultérieurs centrés sur la prévention de la prolifération nucléaire.\n\nLes débats au sein du sommet ont également abordé la situation des affrontements armés en Ukraine et en Iran. Les représentants des trois nations ont discuté des moyens de stabiliser les marchés internationaux et d'assurer la sécurité des flux d'énergie. Les trois dirigeants se sont aussi engagés à promouvoir une réforme de l'Organisation des Nations unies.\n\nMalgré les déclarations communes sur la paix, les responsables officiels n'ont annoncé aucun accord contraignant à l'issue des travaux. Les discussions n'ont produit aucune avancée concrète immédiate concernant les traités de désarmement ou le règlement direct des guerres en Ukraine et en Iran. Les diplomates prévoient des négociations ultérieures pour établir une feuille de route détaillée sur le contrôle des armes.\n\n## Ce que disent les sources\n\nLes analystes et les médias présentent des évaluations divergentes sur la portée réelle des échanges de Shenzhen. Le quotidien britannique Financial Times indique le 19 novembre 2026 à 17:00 que les trois chefs d'État ont salué une réunion novatrice en acceptant d'engager des négociations sur la non-prolifération atomique. À l'inverse, le journal américain Norfolk Daily News rapporte le 19 novembre 2026 à 04:00 que les discussions n'ont apporté aucune percée majeure sur les risques nucléaires. Le journal singapourien The Straits Times précise le 19 novembre 2026 à 14:21 que les responsables officiels attendaient peu de progrès réels sur les armes nucléaires et sur les conflits ukrainien et iranien. Enfin, la chaîne qatarie Al Jazeera souligne le 19 novembre 2026 à 10:15 que cette rencontre rappelle les négociations de désarmement menées il y a quarante ans entre Ronald Reagan et Mikhail Gorbatchev.\n\nLes détails complets du calendrier des futures négociations tripartites sur les armes nucléaires ne sont pas précisés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "norfolkdailynews.com",
+     "url": "https://norfolkdailynews.com/news/national/news_national/trump-xi-putin-hold-rare-3-way-talks-on-nuclear-risks-but-deliver-no-breakthroughs/article_7a00429f-2d00-417a-915b-d156aae2d7e0.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age"
+    },
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/international/2026-11-19/xi-trump-and-putin-begin-historic-trilateral-meeting-in-shenzhen.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/nuclear-stakes-low-expectations-as-trump-xi-and-putin-meet"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-trump-putin-put-nuclear-arms-ukraine-war-on-table-at-historic-summit"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-19T00:00:00Z",
+   "suite_de": null,
+   "mots": 543,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "La coalition saoudienne et les rebelles houthis multiplient les frappes croisées",
+   "chapeau": "La coalition menée par l'Arabie saoudite a intercepté trois missiles balistiques le samedi 21 novembre 2026 à Riyad, au lendemain de raids aériens visant le port d'Hodeida au Yémen. Ces affrontements entre forces saoudiennes et rebelles houthis s'intensifient depuis le milieu de la semaine.",
+   "corps": "La coalition militaire dirigée par l'Arabie saoudite a détruit trois missiles balistiques le 21 novembre 2026, selon The Straits Times du 21 novembre 2026. Ces projectiles visaient la capitale saoudite, Riyad.\n\nLa veille, le vendredi 20 novembre 2026, la coalition a mené des frappes aériennes contre le port d'Hodeida et les régions de Sanaa, Saada et Taiz au Yémen, d'après Associated Press du 20 novembre 2026 et France 24 du 21 novembre 2026. La coalition indique avoir ciblé les capacités opérationnelles et les infrastructures servant à la contrebande d'armes.\n\nEn réponse, les rebelles houthis ont averti les compagnies aériennes d'éviter l'espace aérien saoudien et ont menacé le quartier financier de Riyad, selon RFI du 21 novembre 2026. L'Arabie saoudite a émis des alertes d'urgence pour sa capitale, d'après Al Jazeera du 21 novembre 2026.\n\nCertains détails manquent concernant le bilan précis des dégâts matériels au sol lors de ces dernières attaques.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/saudi-led-coalition-says-it-intercepted-houthi-missile-targeting-southern-region"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/saudi-yemen-war-iran-iraq-november-20-2026-16c39c487a23b53b73c5eabb7f0fd57a"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/saudi-led-coalition-says-targeted-yemens-hodeida-other-attacks-ongoing/article71725697.ece"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20261120-y%C3%A9men-la-coalition-saoudienne-frappe-un-port-contr%C3%B4l%C3%A9-par-les-houthis-les-rebelles-promettent-de-riposter"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261121-l-arabie-saoudite-dit-avoir-intercept%C3%A9-des-missiles-lanc%C3%A9s-par-les-houthis-vers-riyad"
+    }
+   ],
+   "premiere_parution": "2026-11-19T00:01:02Z",
+   "suite_de": null,
+   "mots": 195,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-geopolitique-003",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "La Pologne condamne une violation de son espace aérien par des objets russes",
+   "chapeau": "Trois objets, identifiés comme des missiles et un drone, ont pénétré dans l'espace aérien polonais au cours de la nuit du 20 novembre 2026. Cet événement a provoqué de vives réactions parmi les dirigeants européens et l'Organisation du traité de l'Atlantique nord, alliance militaire de défense mutuelle.",
+   "corps": "Le ministre de la défense polonais a qualifié cet incident de provocation de la part de Moscou, selon The Straits Times du 20 novembre 2026 à 12:05. Les faits se sont déroulés alors que des militaires européens participaient à un exercice militaire consécutif au conflit en Ukraine, d'après Al Jazeera du 20 novembre 2026 à 19:18.\n\nLe président ukrainien Volodymyr Zelenskyy a déclaré que cette offensive aérienne figurait parmi les plus importantes depuis le début de l'invasion, selon Deutsche Welle du 20 novembre 2026 à 21:12. Mark Rutte, le secrétaire général de l'Organisation du traité de l'Atlantique nord, a qualifié l'incident de violation grave de l'espace aérien polonais, d'après The Guardian du 21 novembre 2026 à 06:41.\n\n## Ce que disent les sources\n\nThe Straits Times indique que trois objets, probablement deux missiles et un drone, ont franchi la frontière. Deutsche Welle mentionne pour sa part que deux missiles ont touché le territoire du pays membre de l'Organisation du traité de l'Atlantique nord.\n\nCertains détails sur la nature exacte de tous les projectiles restent absents des sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/polish-army-investigates-report-of-unknown-objects-near-ukraine-border"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland"
+    }
+   ],
+   "premiere_parution": "2026-11-20T08:05:16Z",
+   "suite_de": null,
+   "mots": 228,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-geopolitique-004",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Des frappes russes endommagent plusieurs ponts et font des morts à Kiev",
+   "chapeau": "Des missiles russes ont touché trois ponts à Kiev et causé des pertes humaines dans la nuit du jeudi 19 au vendredi 20 novembre 2026. Cette offensive fait suite à des attaques ukrainiennes contre un pont reliant la Russie à la Crimée.",
+   "corps": "L'armée russe a lancé des missiles balistiques et des drones contre la capitale ukrainienne dans la nuit du jeudi 19 au vendredi 20 novembre 2026, selon le maire de la ville et les autorités locales cités par The Straits Times [1] et Naharnet [7]. Les tirs ont endommagé trois ponts traversant le fleuve Dnipro à Kiev, ainsi que des infrastructures de transport, selon Bloomberg [3] et Naharnet [7].\n\nLe maire de Kiev a annoncé que ces frappes avaient fait trois morts dans la ville, d'après The Straits Times [1] du 20 novembre 2026. Neuf personnes ont également été blessées, selon Naharnet [7] le même jour. D'autres sources, comme Politico Europe [5] et Standard.net.au [8], font état d'un total d'au moins cinq à huit morts en Ukraine pour la même journée du 20 novembre 2026.\n\nCes bombardements surviennent après des attaques ukrainiennes menées dans la semaine contre le pont de Crimée, un édifice reliant la Russie à la région annexée, d'après The Hindu [2] et Bloomberg [3] le 20 novembre 2026. Le président russe Vladimir avait promis des représailles à la suite de cette action ukrainienne, selon The Hindu [2] et Bloomberg [3] à la même date. L'objectif de Kiev était de perturber les lignes d'approvisionnement russes vers le sud et l'est du territoire ukrainien, selon The Straits Times [4] le 20 novembre 2026.\n\n## Ce que disent les sources\n\nConcernant le nombre de victimes, The Straits Times [1] et Naharnet [7] recensent trois morts à Kiev le 20 novembre 2026, tandis que Politico Europe [5] et Standard.net.au [8] évoquent au moins cinq à huit tués à l'échelle du pays à la date du 20 novembre 2026. Pour les dégâts matériels, The Straits Times [1] et Bloomberg [3] mentionnent trois ponts touchés à Kiev le 20 novembre 2026, et The Hindu [2] en dénombre deux le même jour.\n\nL'heure exacte des frappes nocturnes n'est pas précisée dans l'ensemble des sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/russia-missile-strike-on-kyiv-ukraine/article71723381.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/three-kyiv-bridges-hit-by-russia-after-putin-vowed-revenge-for-crimean-bridge"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russia-hits-3-kyiv-bridges-in-major-attack-while-poland-reports-airspace-violation"
+    },
+    {
+     "nom": "naharnet.com",
+     "url": "https://naharnet.com/stories/en/323915-russian-attacks-on-kyiv-kill-3-cripple-bridges-and-cut-power"
+    },
+    {
+     "nom": "standard.net.au",
+     "url": "https://standard.net.au/story/9395009/eight-killed-bridges-hit-as-russia-pummels-ukraine"
+    },
+    {
+     "nom": "yorkpress.co.uk",
+     "url": "https://yorkpress.co.uk/news/national/26747005.deadly-attacks-kyiv-damage-bridges-cut-power"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/ukraine-updates-kyiv-targeted-by-missile-strikes-bridges-hit/live-79999822?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-20T05:40:31Z",
+   "suite_de": null,
+   "mots": 364,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-geopolitique-005",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "L'Ukraine frappe le pont de Crimée pour la troisième fois",
+   "chapeau": "Les autorités russes ont annoncé un nouvel attentat ukrainien contre le pont de Crimée le 19 novembre 2026. Cette frappe a entraîné l'arrêt des liaisons ferroviaires sur cet axe stratégique.",
+   "corps": "L'infrastructure reliant la Russie à la péninsule de Crimée a subi une troisième attaque en l'espace d'une semaine selon les autorités russes, le 19 novembre 2026 (The Straits Times, 19/11/2026). Le gouverneur de Crimée nommé par Moscou, Sergei Aksyonov, a indiqué que le trafic ferroviaire a été suspendu temporairement après l'incident (Folha de S.Paulo, 19/11/2026).\n\nCe pont constitue une voie de transport essentielle pour l'acheminement de ravitaillement militaire et civil vers la Crimée, territoire annexé par Moscou en 2014 en violation du droit international (readingchronicle.co.uk, 19/11/2026).\n\nCe bombardement est intervenu peu de temps avant une rencontre diplomatique réunissant Vladimir Poutine, les dirigeants de la Chine et des États-Unis (The Straits Times, 19/11/2026). D'autres sources situent cette réunion à Berlin avec des émissaires américains et le président ukrainien Volodymyr Zelensky aux côtés de dirigeants européens (The Hindu, 19/11/2026).\n\n## Ce que disent les sources\n\nCertaines sources mentionnent que l'attaque s'est produite avant une réunion entre Vladimir Poutine, la Chine et les États-Unis (The Straits Times, 19/11/2026, 03:40). D'autres sources indiquent que l'événement coïncide avec des pourparlers à Berlin entre des émissaires américains, le président ukrainien et des dirigeants européens (The Hindu, 19/11/2026, 21:29).\n\nCertaines sources évoquent un troisième bombardement en une semaine (The Straits Times, 19/11/2026, 03:40), tandis que d'autres comptent trois attaques en quatre jours (readingchronicle.co.uk, 19/11/2026, 13:30).\n\nLes données précises sur l'ampleur des dégâts matériels manquent dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/third-attack-in-a-week-suspends-traffic-over-crimean-bridge-russian-official-says"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/ucrania-faz-terceiro-ataque-a-ponte-da-crimeia-as-vesperas-de-encontro-de-putin-com-trump-e-xi.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece"
+    },
+    {
+     "nom": "readingchronicle.co.uk",
+     "url": "https://readingchronicle.co.uk/news/national/26743383.third-ukrainian-strike-four-days-halts-rail-traffic-russias-kerch-bridge"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/ucrania-ataca-puente-crimea-tercera-vez-semana-20261119113742-nt.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs"
+    }
+   ],
+   "premiere_parution": "2026-11-18T23:40:12Z",
+   "suite_de": null,
+   "mots": 287,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-geopolitique-006",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Le Premier ministre britannique Andy Burnham rencontre les dirigeants européens à Bruxelles",
+   "chapeau": "Le Premier ministre britannique Andy Burnham s'est rendu à Bruxelles ce vendredi 20 novembre 2026. Il a rencontré les dirigeants de l'Union européenne pour engager un rapprochement entre le Royaume-Uni et le bloc.",
+   "corps": "Le sommet visait à renforcer les relations entre les deux parties après le retrait du Royaume-Uni de l'Union européenne en 2020. Le Premier ministre Andy Burnham a rencontré la présidente de la Commission européenne, Ursula von der Leyen, et le président du Conseil européen, António Costa, à Bruxelles. Cette rencontre s'inscrit dans une volonté de réinitialiser les liens diplomatiques et économiques entre Londres et le bloc européen, dix ans après le vote britannique en faveur du départ de l'Union européenne (NPR, 20/11/2026).\n\nLes discussions ont abouti à des accords sur plusieurs domaines techniques. Ces textes concernent les règles relatives à l'alimentation et à l'agriculture, ainsi que la mobilité des jeunes. Un volet sur les émissions polluantes fait également partie des engagements pris lors de cette rencontre. Ces accords marquent une étape dans la relation post-Brexit entre les deux entités.\n\nLe Premier ministre britannique a évalué l'impact économique de ces accords. Il a affirmé que ces mesures apporteront un gain de 17 milliards de livres sterling par an à l'économie britannique (Dunfermlinepress.com, 20/11/2026).\n\nLe ministre britannique du Commerce, Jonathan Reynolds, a évoqué le contexte des négociations. Il a indiqué que la réouverture du débat sur une éventuelle réadhésion du Royaume-Uni à l'Union européenne a favorisé les échanges (Bloomberg, 20/11/2026). Andy Burnham a exprimé son intention de poursuivre le rapprochement au-delà de ces premiers accords (Bloomberg, 20/11/2026).\n\nCe sommet constitue la deuxième rencontre bilatérale entre les deux parties (Commission européenne, 20/11/2026). Le Premier ministre a qualifié les relations entre le Royaume-Uni et l'Union européenne de plus fortes lorsqu'elles sont unies (Eastlothiancourier.com, 20/11/2026).\n\nLes observateurs notent que le Premier ministre britannique découvre la complexité des négociations avec l'Union européenne (BBC News, 20/11/2026). Malgré cette complexité, Andy Burnham maintient son objectif de renforcer les liens. Le débat sur une possible réadhésion du Royaume-Uni à l'Union européenne a été relancé par le Premier ministre à l'issue du sommet (Thecomet.net, 21/11/2026).\n\nLe détail précis des mécanismes de mobilité des jeunes n'est pas mentionné dans les sources fournies.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "stardem.com",
+     "url": "https://stardem.com/ap/world/the-uk-and-eu-are-holding-a-summit-to-patch-up-ties-after-their-bitter/article_db9fc376-61de-5bba-aace-4756e2498798.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/burnham-heads-to-brussels-what-to-expect-from-uk-eu-summit"
+    },
+    {
+     "nom": "eastlothiancourier.com",
+     "url": "https://eastlothiancourier.com/news/national/26746928.burnham-says-uk-eu-stronger-together-ahead-deal-brussels"
+    },
+    {
+     "nom": "dunfermlinepress.com",
+     "url": "https://dunfermlinepress.com/news/national/26748714.eu-deal-will-bring-gbp17bn-economic-boost-year-says-burnham"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/20/g-s1-154576/uk-eu-summit"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cm4gn092gydwo"
+    }
+   ],
+   "premiere_parution": "2026-11-19T00:15:00Z",
+   "suite_de": null,
+   "mots": 383,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-economie-001",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Le jeu vidéo GTA 6 génère 3,79 milliards de dollars en 24 heures",
+   "chapeau": "Le studio Rockstar Games a lancé le jeu vidéo GTA 6 le jeudi 19 novembre 2026. Ce titre a généré un chiffre d'affaires de 3,79 milliards de dollars lors de sa première journée de commercialisation.",
+   "corps": "Take-Two Interactive, la société mère de Rockstar Games, a confirmé ces résultats financiers. Le jeu a écoulé 32,5 millions de copies en 24 heures, selon les données publiées le 21 novembre 2026 (source : Le Figaro). Ce montant de 3,79 milliards de dollars constitue un record pour une première journée de vente dans l'industrie du divertissement.\n\nLe précédent record de la franchise appartenait à GTA 5, sorti en 2013, qui avait totalisé 815,7 millions de dollars sur la même période (source : Folha de S.Paulo, 21/11/2026). Le coût de production du nouveau titre est estimé entre 1 et 2 milliards de dollars (source : Corriere della Sera, 20/11/2026).\n\nSam Houser, président et fondateur de Rockstar Games, a exprimé sa satisfaction concernant l'accueil réservé par les joueurs (source : Le Figaro, 21/11/2026).\n\n## Ce que disent les sources\n\nLes sources présentent des variations mineures sur le chiffre d'affaires total du premier jour. Le Corriere della Sera et Der Spiegel évoquent une somme proche de 3,8 milliards de dollars, tandis que Le Figaro et Folha de S.Paulo précisent le montant exact de 3,79 milliards de dollars.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/rockstar-deve-quebrar-recordes-de-vendas-com-lancamento-de-gta-6.shtml"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/cronache/26_novembre_20/gta-vi-preordini-miliardi-dollari-74653409-823e-4b09-b6aa-fb80fdafcxlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/netzwelt/games/gta-6-spielt-am-ersten-verkaufstag-knapp-3-8-milliarden-dollar-ein-a-53c77687-45dc-47fb-a1d8-0aab58107f86"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/un-nouveau-record-le-jeu-video-gta-6-a-vendu-32-5-millions-de-copies-generant-3-79-milliards-de-dollars-en-24-heures-20261120"
+    }
+   ],
+   "premiere_parution": "2026-11-19T20:12:00Z",
+   "suite_de": null,
+   "mots": 228,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-economie-002",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "La SEC ouvre une enquête sur les pratiques comptables de Nvidia",
+   "chapeau": "La Securities and Exchange Commission examine les comptes de l'entreprise Nvidia. Cette procédure intervient après le départ de Jensen Huang de son poste de directeur général.",
+   "corps": "Le gendarme boursier américain, la Securities and Exchange Commission (SEC), a lancé une investigation sur la gestion comptable du fabricant de puces Nvidia. Cette information, rapportée le 20 novembre 2026, s'ajoute aux difficultés actuelles du groupe technologique.\n\nL'entreprise traverse une période de turbulences depuis la démission de son ancien dirigeant, Jensen Huang. Les autorités fédérales se concentrent désormais sur les méthodes de comptabilité de la société.\n\n## Ce que disent les sources\n\nDer Spiegel mentionne l'existence de détails concernant la vie privée de l'ancien dirigeant, Jensen Huang. The Hindu précise que la SEC, sous l'administration du président Donald Trump, a réduit ses activités de contrôle pour se concentrer sur les fraudes aux valeurs mobilières.\n\nCertains détails sur la nature précise des irrégularités comptables suspectées manquent à ce jour.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/eua-investigam-contabilidade-da-nvidia-em-meio-a-crise-envolvendo-ex-ceo-diz-jornal.shtml"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/article71727338.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-20T19:48:49Z",
+   "suite_de": null,
+   "mots": 153,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-economie-003",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "La Maison-Blanche crée un groupe de travail sur l'intelligence artificielle",
+   "chapeau": "Le gouvernement américain a instauré une équipe dédiée à la coordination de sa politique en matière d'intelligence artificielle. Cette initiative intervient dans un contexte de concurrence technologique accrue avec la Chine.",
+   "corps": "La Maison-Blanche a officialisé la création d'un groupe de travail pour harmoniser ses stratégies sur l'intelligence artificielle. Cette structure vise à répondre aux enjeux de la course technologique mondiale.\n\nLa Chine dispose d'atouts spécifiques dans cette compétition. Selon Bloomberg le 19 novembre 2026, Pékin diffuse des modèles d'intelligence artificielle à bas coût intégrant sa vision du monde dans les pays en développement. Par ailleurs, The Straits Times rapporte le 21 novembre 2026 que la Chine développe ses capacités énergétiques pour pallier un déficit en électricité nécessaire au fonctionnement des systèmes informatiques.\n\n## Ce que disent les sources\n\nThe Conversation souligne le 19 novembre 2026 que les récentes mesures de l'administration Trump sur la super-intelligence pourraient ne pas offrir d'avantage compétitif aux États-Unis. Bloomberg, à la même date, estime que la stratégie chinoise pourrait conférer à Pékin un avantage sur le long terme.\n\nCertains détails sur les objectifs précis et les membres de ce groupe de travail américain ne sont pas mentionnés dans les sources.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "theconversation.com",
+     "url": "https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-19/is-china-winning-the-artificial-intelligence-race-that-matters"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/in-the-ai-race-with-the-us-this-is-the-one-advantage-china-has"
+    }
+   ],
+   "premiere_parution": "2026-11-19T00:00:00Z",
+   "suite_de": null,
+   "mots": 194,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-economie-004",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "L'Arcom impose des règles de pluralisme aux créateurs de contenus numériques",
+   "chapeau": "Le 19 novembre 2026, l'Autorité de régulation de la communication audiovisuelle et numérique a dévoilé de nouvelles contraintes pour les influenceurs. Ces acteurs devront respecter le pluralisme politique lors de la campagne présidentielle de 2027.",
+   "corps": "L'Arcom, l'organisme public qui surveille les médias, exige désormais que les principaux créateurs de contenus en ligne se conforment aux règles imposées aux radios et aux télévisions. Ces obligations portent sur la répartition du temps de parole des personnalités politiques et le respect de la déontologie. Ces mesures concernent les influenceurs et podcasteurs recevant des invités politiques. Le régulateur prévoit des sanctions financières en cas de manquements répétés (France 24, 19/11/2026). Ces nouvelles règles entreront en vigueur le 1er janvier 2027 (RFI, 21/11/2026).\n\n## Ce que disent les sources\n\nPlusieurs créateurs, dont Jean Massiet et Gaspard G, contestent ces décisions (Libération, 21/11/2026). L'Umicc, un syndicat professionnel, s'oppose également à l'application de ces normes aux plateformes en ligne (Politico, 19/11/2026). Arnaud Mercier, professeur en communication, qualifie ces mesures de floues et inadaptées aux formats numériques (RFI, 20/11/2026).\n\nLes critères précis définissant les créateurs concernés par ces obligations ne sont pas détaillés.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/presidentielle-pourquoi-les-youtubeurs-ne-veulent-pas-etre-regules-comme-la-tele"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/presidentielle-2027-les-createurs-de-contenus-devront-pour-la-premiere-fois-respecter-le-pluralisme-annonce-larcom-20261119_DNP6YZIHU5AWDK4OWE4OMSCQSE"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/culture/presidentielle-2027-l-arcom-impose-les-memes-regles-aux-createurs-de-contenus-qua-la-television-et-a-la-radio-20261119"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/medias/presidentielle-les-plus-influents-createurs-de-contenu-devront-respecter-le-pluralisme-20261119"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/elections/ca-me-scandalise-les-reactions-des-createurs-de-contenus-aux-annonces-de-l-arcom-qui-impose-le-pluralisme-politique_8291759.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-pluralisme-impos%C3%A9-aux-cr%C3%A9ateurs-de-contenus-fran%C3%A7ais-ces-r%C3%A8gles-ne-sont-pas-faites-pour-des-m%C3%A9dias-en-ligne"
+    }
+   ],
+   "premiere_parution": "2026-11-19T12:11:50Z",
+   "suite_de": null,
+   "mots": 194,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-economie-005",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "L'État de Californie ouvre une enquête sur l'entreprise Nvidia",
+   "chapeau": "Les autorités californiennes ont ouvert une enquête visant le fabricant de puces électroniques Nvidia. Cette procédure fait suite au départ de son ancien directeur général, Jensen Huang.",
+   "corps": "L'enquête californienne intervient dans un contexte de tensions autour de l'ancien dirigeant de l'entreprise. Jensen Huang doit également comparaître devant des commissions du Congrès américain. Un assistant du sénateur républicain Tim Scott a confirmé, le 20 novembre 2026, que M. Huang a accepté de témoigner lors d'une audition publique devant le Sénat des États-Unis.\n\n## Ce que disent les sources\n\nLe média irvinetimes.com (20/11/2026) indique que l'enquête des autorités californiennes porte sur une liaison entretenue par Jensen Huang avec une femme soupçonnée d'être une espionne chinoise. La BBC (20/11/2026) mentionne l'enquête de la Californie sur Nvidia sans préciser la nature des faits reprochés à l'ancien dirigeant. The Straits Times (20/11/2026) se concentre sur l'audition parlementaire liée à des allégations de liens entre M. Huang et une femme accusée d'espionnage pour le compte de la Chine.\n\nCertains détails sur le contenu précis de l'enquête menée par les autorités de Californie manquent.",
+   "niveau_de_confiance": "partiel",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqn70vxp5p4no"
+    },
+    {
+     "nom": "irvinetimes.com",
+     "url": "https://irvinetimes.com/news/national/26746887.california-authorities-issue-probe-summons-nvidia-former-chiefs-affair"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says"
+    }
+   ],
+   "premiere_parution": "2026-11-19T23:04:30Z",
+   "suite_de": null,
+   "mots": 183,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-tech-001",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Le jeu video Grand Theft Auto VI enregistre des ventes records",
+   "chapeau": "Le jeu video Grand Theft Auto VI a engrene 3,79 milliards de dollars le jour de sa sortie jeudi. L editeur Rockstar Games a annonce ce chiffre vendredi 21 novembre 2026.",
+   "corps": "Le jeu video Grand Theft Auto VI s est vendu a 32,5 millions d exemplaires pour sa sortie selon les chiffres de l editeur Rockstar Games publies le 21 novembre 2026. Ce montant represente cinq fois les revenus generes par le precedent volet Grand Theft Auto V en vingt-quatre heures lors de sa parution en 2013 d apres franceinfo le 21 novembre 2026.\n\nLe jeu a egalement obtenu un score de 99 sur le site d aggregation de critiques Metacritic selon Bloomberg le 20 novembre 2026. Le journal indique que le journaliste Jason Schreier qualifie le jeu de chef-d oeuvre apres y avoir joue plus de quarante-cinq heures.\n\nLe journal The Hindu mentionne le 19 novembre 2026 que le jeu a rapporte pres de 1,7 milliard de dollars en precommandes avant sa sortie effective. Le journal precise egalement que le premier ministre indien Narendra Modi a commente la sortie.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/national/pm-modi-jumps-on-gta-vi-craze-posts-about-indias-level-up-since-gta-v/article71718844.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-20/gta-vi-earns-near-perfect-reviews-in-record-launch-video"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/jeux-video/gta-vi/les-ventes-de-gta-vi-ont-atteint-3-79-milliards-de-dollars-le-jour-de-sa-sortie-selon-l-editeur-du-jeu-video_8292920.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/jeux-video/video/2026/11/20/pourquoi-gta-vi-est-un-pari-plus-risque-qu-il-n-y-parait_6813608_1616924.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/culture/jeux-video/gta-vi-a-ete-vendu-a-325-millions-dexemplaires-generant-379-milliards-de-dollars-le-jour-de-sa-sortie-20261120_YAPSE5MSI5FRDILZLHJ2ENSWPU"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/les-ventes-de-gta-vi-ont-atteint-379-milliards-de-dollars-le-jour-de-sa-sortie-un-record-20261120"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
+    }
+   ],
+   "premiere_parution": "2026-11-19T09:10:39Z",
+   "suite_de": null,
+   "mots": 183,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-tech-002",
+   "rubrique": "tech",
+   "format": "standard",
+   "titre": "L'entreprise d'intelligence artificielle Anthropic entre en bourse sur le Nasdaq",
+   "chapeau": "La société Anthropic a réalisé son introduction en bourse le jeudi 19 novembre 2026 sur le marché électronique Nasdaq. Cette opération financière représente la plus importante levée de fonds pour une entreprise spécialisée dans l'intelligence artificielle.",
+   "corps": "Anthropic a débuté sa cotation boursière le jeudi 19 novembre 2026. L'entreprise, spécialisée dans le développement de modèles d'intelligence artificielle, a levé 81 milliards de dollars lors de cette opération (Deutsche Welle, 19/11/2026). La valorisation boursière de la société a atteint 2 000 milliards de dollars à l'issue de la première journée de transaction (Deutsche Welle, 19/11/2026). Cette introduction sur le marché électronique Nasdaq constitue la plus importante levée de fonds pour une société de ce secteur (odt.co.nz, 19/11/2026).\n\nLe cours de l'action a progressé lors de la première séance de cotation (NPR, 19/11/2026). Les investisseurs institutionnels et les particuliers ont manifesté une demande pour ces titres (Bloomberg, 20/11/2026). Pauline Yang, représentante de la société d'investissement Altimeter, a qualifié cette introduction de première étape pour l'entreprise (Bloomberg, 19/11/2026). Elle a évoqué l'amélioration de l'économie de la puissance de calcul comme un facteur déterminant pour cet investissement (Bloomberg, 19/11/2026).\n\nLa tendance s'est inversée dès le lendemain. Le cours de l'action a baissé lors de la deuxième journée de cotation, le vendredi 20 novembre 2026 (The Guardian, 21/11/2026). Le marché boursier a enregistré une baisse globale ce même jour (The Guardian, 21/11/2026). L'indice Nasdaq Composite a effacé ses gains cumulés depuis le début de l'année 2026 (The Guardian, 21/11/2026). Les sept cofondateurs de l'entreprise détiennent désormais une valeur estimée à 180 milliards de dollars (The Guardian, 21/11/2026).\n\nLes analystes soulignent la nécessité pour Anthropic de transformer son modèle économique. L'entreprise doit devenir une plateforme technologique complète pour les entreprises (Financial Times, 19/11/2026). Le secteur de l'intelligence artificielle fait face à des interrogations sur les sommes investies dans le développement des infrastructures (The Guardian, 21/11/2026).\n\n## Ce que disent les sources\n\nLes sources divergent sur la perception du marché. Bloomberg indique que les investisseurs conservent des inquiétudes malgré l'introduction en bourse (Bloomberg, 20/11/2026). Le Financial Times note que l'action a progressé le premier jour malgré une tendance baissière globale du Nasdaq (Financial Times, 20/11/2026).\n\nIl manque des précisions sur le prix unitaire de l'action lors de l'introduction.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "odt.co.nz",
+     "url": "https://odt.co.nz/business/ai-developer-anthropic-clinches-biggest-ipo-djxb2lj6"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-19/anthropic-investor-ipo-is-day-one-for-ai-giant-video"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    }
+   ],
+   "premiere_parution": "2026-11-19T00:00:00Z",
+   "suite_de": null,
+   "mots": 401,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-tech-003",
+   "rubrique": "tech",
+   "format": "standard",
+   "titre": "L'ancien dirigeant de Nvidia Jensen Huang visé par des accusations",
+   "chapeau": "Le conseil d'administration de Nvidia a destitué son ancien directeur général Jensen Huang suite à des révélations sur sa vie privée. Des employés et anciens salariés de l'entreprise de semi-conducteurs dénoncent désormais des comportements abusifs et des menaces.",
+   "corps": "Le départ de Jensen Huang de la direction de Nvidia fait suite à la révélation d'une relation extraconjugale avec une espionne chinoise, selon ABC (21/11/2026). Depuis cette destitution, plusieurs témoignages d'employés et d'anciens collaborateurs ont émergé dans la presse. Ces récits décrivent un environnement de travail marqué par des insultes, des humiliations et des menaces physiques. Une enquête du New York Times rapporte notamment qu'il a menacé un employé de lui arracher les bras, indique El País (20/11/2026). Le département des ressources humaines de Nvidia a dû traiter de nombreuses plaintes liées à ces agissements au fil des années, précise The Straits Times (21/11/2026).\n\nDes poursuites judiciaires mettent en lumière ces pratiques. Deux anciens employés ont déposé une plainte concernant le comportement de l'ex-dirigeant, rapporte Bloomberg (21/11/2026). Par ailleurs, Stephen Pettigrew, le premier avocat interne recruté par Nvidia, a affirmé avoir été licencié pour avoir signalé des préoccupations concernant la conduite des cadres de l'entreprise, selon Moneycontrol (21/11/2026). Outre la relation avec l'espionne, des allégations font état d'autres liaisons avec au moins deux employées de la société, souligne ABC (21/11/2026).\n\n## Ce que disent les sources\n\nLes représentants de Jensen Huang affirment que les allégations contenues dans la plainte des deux anciens employés sont anciennes et ne reflètent pas le comportement habituel de l'ex-dirigeant ni la perception qu'ont de lui les équipes de Nvidia, selon Bloomberg (21/11/2026). De son côté, Nvidia a justifié le licenciement de Stephen Pettigrew par des problèmes de performance professionnelle, indique Moneycontrol (21/11/2026).\n\nLe montant total des règlements financiers liés aux plaintes des employés n'est pas précisé dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-20/amenazas-de-muerte-insultos-y-humillaciones-el-lado-oscuro-del-liderazgo-de-jensen-huang-en-nvidia.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/mear-cerebro-liderazgo-jensen-huang-nvidia-golpe-20261120224110-nt.html"
+    },
+    {
+     "nom": "moneycontrol.com",
+     "url": "https://moneycontrol.com/news/business/nvidia-employees-complained-about-jensen-huangs-sexually-explicit-remarks-years-ago-14086034.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/threats-insults-settlements-how-nvidias-ex-ceo-jensen-huang-made-humiliation-routine"
+    }
+   ],
+   "premiere_parution": "2026-11-20T17:21:03Z",
+   "suite_de": null,
+   "mots": 318,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-tech-004",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "JPMorgan, Visa et Mastercard subissent des cyberattaques via un prestataire",
+   "chapeau": "Les institutions financières JPMorgan Chase, Visa et Mastercard ont confirmé jeudi 19 novembre 2026 avoir été victimes de cyberattaques. Ces intrusions informatiques ont ciblé un fournisseur tiers, exposant potentiellement des données appartenant à leurs clients.",
+   "corps": "Les entreprises concernées ont indiqué que des pirates informatiques ont accédé à des informations stockées par un prestataire externe. Selon JPMorgan Chase, les données compromises concernent principalement des fichiers marketing. Ces éléments pourraient inclure des noms de clients ainsi que des adresses électroniques.\n\nLes trois entités ont communiqué sur ces incidents après avoir constaté l'accès non autorisé à leurs systèmes par l'intermédiaire de ce fournisseur. Les investigations sont en cours pour déterminer l'ampleur exacte des données exposées et l'identité des auteurs de ces intrusions. Les services de sécurité informatique analysent actuellement les systèmes du prestataire visé pour limiter les conséquences de cette faille de sécurité.\n\n## Ce que disent les sources\n\nLe Figaro (20/11/2026) et Bloomberg (20/11/2026) précisent que les données marketing conservées par le vendeur pourraient inclure des noms et des adresses e-mail. The Register (20/11/2026) et floridastatesman.com (20/11/2026) mentionnent plus largement une exposition d'informations clients sans détailler systématiquement la nature marketing des fichiers, bien que le site floridastatesman.com confirme la présence d'adresses électroniques parmi les données accessibles.\n\nLa liste complète des types de données dérobées ainsi que le nombre précis de clients affectés par ces cyberattaques restent à déterminer.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/jpmorgan-visa-e-mastercard-relatam-ataques-ciberneticos-a-fornecedores.shtml"
+    },
+    {
+     "nom": "floridastatesman.com",
+     "url": "https://floridastatesman.com/news/279443934/hackers-access-jpmorgan-visa-customer-data-via-vendors"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/les-donnees-de-clients-de-jpmorgan-visa-et-mastercard-volees-apres-une-cyberattaque-visant-un-fournisseur-20261119"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-20/jpmorgan-visa-warn-of-cyberattack-on-outside-vendor-video"
+    }
+   ],
+   "premiere_parution": "2026-11-19T21:12:33Z",
+   "suite_de": null,
+   "mots": 235,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-tech-005",
+   "rubrique": "tech",
+   "format": "breve",
+   "titre": "Waymo suspend ses services de taxis autonomes sur les autoroutes américaines",
+   "chapeau": "L'entreprise Waymo a arrêté ses trajets sans chauffeur sur les autoroutes aux États-Unis. Cette décision survient après une interdiction imposée par les autorités de Californie suite à des incidents de circulation.",
+   "corps": "La filiale d'Alphabet a suspendu ses services de taxis autonomes sur les voies rapides à l'échelle nationale. Cette mesure fait suite à une interdiction des autorités californiennes visant les véhicules de la société sur les autoroutes de l'État. Ces régulateurs ont réagi après des intrusions dans des zones de travaux et des interactions avec des véhicules de patrouille.\n\nWaymo proposait auparavant des trajets sur autoroute dans plusieurs zones, notamment la région de la baie de San Francisco, Los Angeles et Phoenix. L'entreprise opère actuellement dans 15 villes américaines, bien que les trajets sur autoroute ne soient disponibles que dans quelques-unes d'entre elles. La suspension des services est indéterminée.\n\nCertaines sources mentionnent des difficultés liées aux voies fermées et au contrôle manuel de la circulation comme facteurs ayant motivé le rappel des véhicules.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/cmx2ryw97x4go"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/waymo-recalls-self-driving-cars-over-closed-freeway-lanes-manual-traffic-control"
+    }
+   ],
+   "premiere_parution": "2026-11-18T17:45:00Z",
+   "suite_de": null,
+   "mots": 163,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-sciences-001",
+   "rubrique": "sciences",
+   "format": "standard",
+   "titre": "Un chercheur d'Anthropic affirme avoir résolu l'hypothèse de Riemann avec l'IA",
+   "chapeau": "Le mathématicien Levent Alpöge a annoncé vendredi 20 novembre 2026 avoir résolu l'hypothèse de Riemann grâce au modèle d'intelligence artificielle Claude. Cette démonstration, réalisée par le chercheur de l'entreprise Anthropic, nécessite désormais une vérification rigoureuse par la communauté scientifique.",
+   "corps": "Levent Alpöge, mathématicien turco-américain de 34 ans employé chez Anthropic, a rendu publique sa solution sur son site internet le 20 novembre 2026 (Libération, 20/11/2026). Il indique avoir utilisé le chatbot Claude, développé par son entreprise, pour parvenir à ce résultat (Folha de S.Paulo, 21/11/2026). Cette annonce intervient peu après l'introduction en bourse de la société Anthropic (Bloomberg, 21/11/2026). Le chercheur a partagé ses travaux de manière discrète, provoquant une réaction au sein de la communauté mathématique (Le Figaro, 20/11/2026). Levent Alpöge affirme avoir collaboré avec le modèle d'intelligence artificielle pour établir cette preuve (The Hindu, 21/11/2026).\n\nL'hypothèse de Riemann concerne la répartition des nombres premiers (The Hindu, 21/11/2026). Un nombre premier est un nombre entier divisible uniquement par un et par lui-même. Formulé en 1859 par Bernhard Riemann, ce problème mathématique reste non résolu depuis plus de 160 ans (Corriere della Sera, 20/11/2026). Il figure parmi les sept problèmes du millénaire, une liste de défis mathématiques assortis d'une récompense d'un million de dollars (Libération, 20/11/2026; Corriere della Sera, 20/11/2026). La résolution de cette conjecture est considérée comme un événement majeur dans l'histoire des mathématiques (Le Figaro, 20/11/2026).\n\nLa communauté scientifique souligne la nécessité de vérifier cette démonstration (Nature, 20/11/2026). Plusieurs sources précisent que cette étape prendra du temps (BBC News, 21/11/2026). Levent Alpöge ne maîtrise pas encore totalement le raisonnement produit par l'intelligence artificielle, selon Der Spiegel (Der Spiegel, 20/11/2026). L'annonce n'a pas fait l'objet d'une vérification indépendante à ce jour (The Straits Times, 21/11/2026). L'année 2026 a vu plusieurs problèmes mathématiques traités par des outils d'intelligence artificielle (BBC News, 21/11/2026).\n\nLe contenu détaillé de la démonstration mathématique n'est pas accessible dans les sources consultées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Nature",
+     "url": "https://nature.com/articles/d41586-026-03812-7"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sciences/l-hypothese-de-riemann-plus-celebre-probleme-de-mathematiques-au-monde-aurait-ete-resolue-par-claude-l-ia-d-anthropic-20261120"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/tecnologia/26_novembre_20/un-matematico-dice-che-usando-l-ai-di-anthropic-ha-dimostrato-l-ipotesi-di-riemann-il-sacro-graal-della-matematica-67fcf2a1-be05-496f-af61-96b412000xlk.shtml"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/grace-a-lia-un-chercheur-affirme-avoir-resolu-lun-des-problemes-mathematiques-les-plus-importants-du-monde-20261120_2UWLZTQX6JF6DBEBDW6EJ7SUS4"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/anthropic-researcher-says-ai-chatbot-claude-solved-maths-greatest-riddle"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ciencia/2026/11/pesquisador-diz-que-com-ajuda-de-claude-teria-resolvido-mais-um-problema-do-milenio-da-matematica.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-20T00:00:00Z",
+   "suite_de": null,
+   "mots": 346,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-sciences-002",
+   "rubrique": "sciences",
+   "format": "standard",
+   "titre": "La sonde spatiale Voyager 1 atteint la distance d'un jour-lumière",
+   "chapeau": "La sonde américaine Voyager 1 a franchi mercredi 18 novembre la distance d'un jour-lumière par rapport à la Terre. Cet engin spatial lancé en 1977 devient l'objet fabriqué par l'homme le plus éloigné de notre planète.",
+   "corps": "La NASA a confirmé que la sonde Voyager 1 a atteint cette position le 18 novembre 2026 à 5h16, heure de la côte est des États-Unis (source NASA, 19/11/2026). Un jour-lumière correspond à la distance parcourue par la lumière en vingt-quatre heures (source NASA, 19/11/2026). Cette mesure équivaut à environ 25,9 milliards de kilomètres, soit 16,1 milliards de miles (source NASA, 19/11/2026).\n\nLa sonde Voyager 1 a quitté la Terre en 1977. Sa mission initiale devait durer cinq ans (source ABC, 19/11/2026). L'engin spatial transporte un disque contenant des images et des sons représentatifs de l'humanité (source Franceinfo, 20/11/2026).\n\nLe franchissement de cette distance ne correspond pas au passage d'une frontière physique ou à la découverte d'un nouveau territoire (source ABC, 19/11/2026). Cette étape marque néanmoins une durée de voyage prolongée pour un équipement conçu pour une mission de courte durée (source ABC, 19/11/2026). La distance atteinte implique un délai important pour la réception des signaux émis par la sonde (source ABC, 19/11/2026).\n\nPlusieurs organisations internationales ont relayé cette information. La revue Nature (20/11/2026) et le quotidien The Hindu (20/11/2026) ont confirmé le record établi par l'objet spatial. La NASA (19/11/2026) souligne que Voyager 1 demeure l'engin spatial le plus éloigné de la Terre. Le météorologue Derek Witt a également commenté l'importance de ce moment pour la mission Voyager 1 (source 13abc, 19/11/2026).\n\n## Ce que disent les sources\n\nLes sources divergent sur la durée écoulée depuis le lancement. Al Jazeera (19/11/2026) évoque cinquante ans, tandis que la NASA (19/11/2026), Franceinfo (18/11/2026) et 13abc (19/11/2026) mentionnent quarante-neuf ans. Les sources divergent également sur l'état des transmissions. 13abc (19/11/2026) et Franceinfo (20/11/2026) indiquent que la sonde continue d'envoyer des données vers la Terre. The Register (19/11/2026) affirme pour sa part que les données scientifiques et techniques ne sont plus transmises, bien que le signal porteur atteigne toujours la Terre.\n\nLa nature précise des données scientifiques transmises par la sonde n'est pas détaillée dans les sources fournies.",
+   "niveau_de_confiance": "conteste",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sciences/espace/la-sonde-voyager-1-depasse-la-distance-d-un-jour-lumiere-de-la-terre-soit-25-9-milliards-de-kilometres_8288360.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/planete/voyager-1-l-interminable-voyage-de-lengin-spatial-le-plus-eloigne-de-la-terre-20261118"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space"
+    },
+    {
+     "nom": "Science News",
+     "url": "https://sciencenews.org/article/voyager-1-light-day-earth-distance"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html"
+    },
+    {
+     "nom": "13abc.com",
+     "url": "https://13abc.com/2026/11/19/voyager-1-spacecraft-reaches-one-light-day-earth-its-still-sending-nasa-data-deep-space"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991"
+    },
+    {
+     "nom": "NASA",
+     "url": "https://nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth"
+    }
+   ],
+   "premiere_parution": "2026-11-18T16:19:32Z",
+   "suite_de": null,
+   "mots": 400,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-sport-001",
+   "rubrique": "sport",
+   "format": "breve",
+   "titre": "Mauricio Pochettino prend ses fonctions d'entraîneur principal à Manchester United",
+   "chapeau": "Mauricio Pochettino a rejoint Manchester United cette semaine pour occuper le poste d'entraîneur principal. L'Argentin dirigera son premier match ce dimanche contre Liverpool à Anfield.",
+   "corps": "Manchester United a recruté Mauricio Pochettino pour un contrat de deux ans et demi. Il remplace Michael Carrick, licencié après le début de saison en difficulté du club, actuellement 18e de Premier League (The Guardian, 19/11/2026). L'entraîneur a quitté son poste à la tête de la sélection américaine pour rejoindre l'Angleterre mercredi (The Guardian, 18/11/2026). Son équipe technique a déjà commencé à travailler au centre d'entraînement de Carrington (The Guardian, 18/11/2026).\n\nMauricio Pochettino souhaite obtenir un droit de regard sur les décisions majeures concernant l'équipe première (The Guardian, 20/11/2026). Il demande à ses joueurs de ne pas faire preuve de crainte lors de sa première rencontre à Anfield ce dimanche (The Guardian, 19/11/2026). Le nouvel entraîneur doit également gérer des priorités identifiées comme la culture du club, la défense et la situation de Bruno Fernandes (BBC News, 19/11/2026).\n\nLe club fait face à des difficultés internes, notamment des désaccords entre propriétaires et des choix commerciaux contestés (Bloomberg, 20/11/2026).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/cxlylzyg38l8o"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/angleterre/premier-league-nous-devons-aimer-les-joueurs-que-nous-avons-pochettino-lance-son-aventure-a-manchester-united-20261119"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-20/can-manchester-united-s-new-coach-fix-all-the-problems-video"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Podcast-big-5-mauricio-pochettino-peut-il-sauver-manchester-united/1744713"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation"
+    }
+   ],
+   "premiere_parution": "2026-11-18T19:58:26Z",
+   "suite_de": null,
+   "mots": 197,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-21-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "Une enquête judiciaire vise Gérard Depardieu et Michel Houellebecq à Paris",
+   "chapeau": "Une comédienne accuse l'acteur Gérard Depardieu et l'écrivain Michel Houellebecq de viol en réunion et d'agressions sexuelles. Ces faits se seraient déroulés en 2018 durant le tournage du film Thalasso.",
+   "corps": "Le parquet de Paris a confirmé l'ouverture d'une information judiciaire le vendredi 20 novembre 2026 (Source 12). Cette procédure fait suite à une plainte déposée en mai 2025 par une comédienne ayant participé au film Thalasso (Source 5, 7, 12). La plaignante dénonce des violences sexuelles survenues durant la production de ce long-métrage en 2018 (Source 3, 4, 6).\n\nLe média d'investigation Mediapart a révélé l'existence de ce dossier le 20 novembre 2026 (Source 3, 4, 9). Les accusations visent l'acteur Gérard Depardieu ainsi que l'écrivain Michel Houellebecq (Source 1, 2, 4). Les faits dénoncés sont qualifiés de viol en réunion (viol commis par plusieurs auteurs) et d'agressions sexuelles (Source 4, 6, 9).\n\nLe film Thalasso, réalisé par Guillaume Nicloux, met en scène les deux hommes jouant des versions fictives d'eux-mêmes (Source 10). Le scénario dépeint les deux personnages se rencontrant dans un centre de soins, où ils tiennent de longues conversations philosophiques tout en portant des peignoirs blancs (Source 10). L'enquête sur ces événements se déroule à Paris (Source 5, 6).\n\nAu 20 novembre 2026, ni Gérard Depardieu ni Michel Houellebecq n'ont formulé de commentaire public concernant ces révélations (Source 7). Par ailleurs, Gérard Depardieu doit savoir la semaine prochaine s'il sera jugé dans une affaire distincte impliquant une autre actrice (Source 8). La couverture médiatique de ces événements a débuté le 19 novembre 2026, avec des articles publiés par Franceinfo et El País (Source 1, 2). Le 20 novembre 2026, plusieurs médias nationaux et internationaux ont confirmé l'ouverture de l'instruction judiciaire (Source 3, 4, 5, 6, 7, 8, 9, 10, 11, 12).\n\n## Ce que disent les sources\n\nLes sources divergent concernant l'implication du réalisateur du film. RFI et le journal italien Corriere della Sera indiquent que Guillaume Nicloux est également visé par la plainte pour complicité de viol et agressions sexuelles (Source 9, 11). Les autres sources consultées ne mentionnent pas le réalisateur comme étant visé par ces poursuites, concentrant leurs informations sur l'acteur et l'écrivain (Source 1, 2, 3, 4, 5, 6, 7, 8, 10, 12).\n\nLa date précise des faits allégués n'est pas confirmée officiellement par les autorités judiciaires, bien que certaines sources mentionnent le 11 décembre 2018 (Source 6).",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-vise-par-une-nouvelle-plainte-pour-viol-et-agressions-sexuelles-en-reunion-michel-houellebecq-pour-complicite_8290478.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-11-19/nueva-denuncia-por-violacion-contra-el-actor-frances-gerard-depardieu-y-contra-el-escritor-michel-houllebecq-por-complicidad.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/gerard-depardieu-et-michel-houellebecq-vises-par-une-plainte-pour-violences-sexuelles-lors-du-tournage-du-film-thalasso-20261119_67UMH62RI5CQJGY3QBYSLIY5OI"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261120-g%C3%A9rard-depardieu-et-michel-houellebecq-accus%C3%A9s-de-viol-en-r%C3%A9union-et-d-agressions-sexuelles"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/gerard-depardieu-e-autor-michel-houellebecq-teriam-praticado-estupro-coletivo.shtml"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/accusations-de-viol-en-reunion-investigations-en-cours-visant-depardieu-et-houellebecq-20261120"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/france-probes-actor-gerard-depardieu-author-michel-houellebecq-over-alleged-gang-rape"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/france/20261120-france-g%C3%A9rard-depardieu-et-michel-houellebecq-vis%C3%A9s-par-une-plainte-pour-violences-sexuelles-en-r%C3%A9union"
+    }
+   ],
+   "premiere_parution": "2026-11-19T18:24:03Z",
+   "suite_de": null,
+   "mots": 394,
+   "modele": "gemini-3.1-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-21-monde-001",
+  "2026-11-21-monde-002",
+  "2026-11-21-monde-003",
+  "2026-11-21-geopolitique-001",
+  "2026-11-21-monde-004",
+  "2026-11-21-monde-005",
+  "2026-11-21-monde-006"
+ ]
+}

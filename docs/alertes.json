@@ -1,6 +1,122 @@
 {
- "maj": "2026-11-22T11:38:57Z",
+ "maj": "2026-11-22T19:47:48Z",
  "alertes": [
+  {
+   "id": "2026-11-22-alerte-02",
+   "date": "2026-11-22",
+   "publiee_a": "2026-11-22T19:45:39Z",
+   "titre": "Liverpool bat Manchester United quatre à zéro pour les débuts de Mauricio Pochettino",
+   "texte": "Liverpool a battu Manchester United sur le score de quatre à zéro à Anfield, dimanche 22 novembre 2026. L'équipe mancunienne disputait son premier match sous les ordres de son nouvel entraîneur argentin Mauricio Pochettino.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sport/article/2026/11/22/liverpool-manchester-united-mauricio-pochettino-deja-dans-le-grand-bain-pour-ses-debuts-avec-les-red-devils_6814210_3242.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Lourde-defaite-a-liverpool-pour-la-premiere-de-pochettino-avec-manchester-united/1745439"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/angleterre/premier-league-debuts-cauchemardesques-pour-pochettino-avec-manchester-united-balaye-par-liverpool-20261122"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9"
+    }
+   ],
+   "cluster": "bf1c671b5aba74ea",
+   "urls": [
+    "https://aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation",
+    "https://aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino",
+    "https://bbc.co.uk/sport/football/articles/ckqx5w58dgv7o",
+    "https://bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo",
+    "https://bbc.co.uk/sport/football/videos/cw20xd2zgl0xo",
+    "https://lefigaro.fr/sports/football/angleterre/premier-league-debuts-cauchemardesques-pour-pochettino-avec-manchester-united-balaye-par-liverpool-20261122",
+    "https://lemonde.fr/sport/article/2026/11/22/liverpool-manchester-united-mauricio-pochettino-deja-dans-le-grand-bain-pour-ses-debuts-avec-les-red-devils_6814210_3242.html",
+    "https://lequipe.fr/Football/Actualites/Lourde-defaite-a-liverpool-pour-la-premiere-de-pochettino-avec-manchester-united/1745439",
+    "https://lequipe.fr/Football/Actualites/Podcast-big-5-mauricio-pochettino-peut-il-sauver-manchester-united/1744713",
+    "https://lequipe.fr/Football/Actualites/Pour-sa-premiere-avec-manchester-united-pochettino-titularise-de-ligt-et-yoro-a-liverpool/1745402",
+    "https://lequipe.fr/Football/Actualites/Premier-quart-d-heure-cauchemardesque-pour-les-debuts-de-pochettino-avec-manchester-united-a-liverpool/1745419",
+    "https://lequipe.fr/Football/Article/-je-pense-que-cette-fois-mauricio-ne-va-pas-se-renier-a-manchester-united-pochettino-compte-redonner-le-gout-de-l-effort-a-ses-joueurs/1745131",
+    "https://spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9",
+    "https://theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+    "https://theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live"
+   ]
+  },
+  {
+   "id": "2026-11-22-alerte-03",
+   "date": "2026-11-22",
+   "publiee_a": "2026-11-22T19:47:48Z",
+   "titre": "Carlos Alcaraz bat Alexander Zverev et gagne les Masters à Turin",
+   "texte": "Le joueur espagnol Carlos Alcaraz a battu l'Allemand Alexander Zverev dimanche 22 novembre 2026 à Turin. Il s'adjuge ainsi ce tournoi masculin de fin de saison pour la première fois selon franceinfo, avec un score de 6-2, 7-6.",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-enfrentara-zverev-pelo-titulo-do-atp-finals.shtml"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Tennis/Article/Apres-quatre-matches-sans-avoir-perdu-le-moindre-set-alexander-zverev-s-attend-a-batailler-en-finale-face-a-carlos-alcaraz/1745270"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/tenis/2026-11-22/alexander-zverev-carlos-alcaraz-en-directo-la-final-de-las-atp-finals-en-vivo.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/tennis/en-direct-tennis-un-choc-entre-carlos-alcaraz-et-alexander-zverev-en-finale-des-atp-finals-20261122"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live"
+    }
+   ],
+   "cluster": "aa31297ed4d7d46c",
+   "urls": [
+    "https://bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o",
+    "https://elpais.com/deportes/tenis/2026-11-22/alexander-zverev-carlos-alcaraz-en-directo-la-final-de-las-atp-finals-en-vivo.html",
+    "https://franceinfo.fr/sports/tennis/masters/carlos-alcaraz-eteint-le-n-1-mondial-alexander-zverev-pour-decrocher-le-premier-masters-de-sa-carriere_8295140.html",
+    "https://franceinfo.fr/sports/tennis/masters/carlos-alcaraz-lache-un-set-mais-se-qualifie-pour-la-finale-du-masters-de-turin-apres-un-gros-combat-face-a-ben-shelton_8293823.html",
+    "https://lefigaro.fr/sports/tennis/en-direct-tennis-un-choc-entre-carlos-alcaraz-et-alexander-zverev-en-finale-des-atp-finals-20261122",
+    "https://lefigaro.fr/sports/tennis/masters-le-n01-mondial-alexander-zverev-rejoint-carlos-alcaraz-en-finale-20261121",
+    "https://lefigaro.fr/sports/tennis/tennis-alcaraz-fait-plier-zverev-et-remporte-son-premier-masters-atp-20261122",
+    "https://lefigaro.fr/sports/tennis/tennis-alcaraz-retrouve-zverev-pour-un-choc-final-au-masters-de-turin-20261122",
+    "https://lemonde.fr/sport/article/2026/11/21/alexander-zverev-un-numero-un-mondial-en-mal-de-reconnaissance-et-de-legitimite-aux-finales-atp_6813957_3242.html",
+    "https://lequipe.fr/Tennis/Actualites/Alexander-zverev-domine-daniil-medvedev-et-defiera-carlos-alcaraz-pour-le-titre-des-finales-atp/1745237",
+    "https://lequipe.fr/Tennis/Actualites/Daniil-medvedev-rejoint-alexander-zverev-dans-le-dernier-carre-des-finales-atp-de-turin/1745003",
+    "https://lequipe.fr/Tennis/Article/-cette-blessure-m-aide-a-comprendre-que-je-n-ai-pas-besoin-de-courir-comme-un-fou-sur-toutes-les-balles-carlos-alcaraz-un-cameleon-qui-s-adapte-a-toutes-les-situations/1745241",
+    "https://lequipe.fr/Tennis/Article/Apres-quatre-matches-sans-avoir-perdu-le-moindre-set-alexander-zverev-s-attend-a-batailler-en-finale-face-a-carlos-alcaraz/1745270",
+    "https://spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a",
+    "https://theguardian.com/sport/2026/nov/21/carlos-alcaraz-holds-off-ben-shelton-to-book-his-place-in-the-atp-finals",
+    "https://theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
+    "https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-enfrentara-zverev-pelo-titulo-do-atp-finals.shtml"
+   ]
+  },
   {
    "id": "2026-11-22-alerte-01",
    "date": "2026-11-22",

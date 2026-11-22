@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-21T07:58:04Z",
- "derniere": "2026-11-21",
+ "maj": "2026-11-22T07:39:09Z",
+ "derniere": "2026-11-22",
  "editions": [
+  {
+   "date": "2026-11-22",
+   "genere_a": "2026-11-22T07:39:09Z",
+   "articles": 7,
+   "une": [
+    "La Cour internationale de justice reconnaît la Birmanie coupable de génocide",
+    "Des agents de l'immigration arrêtent deux passagers à l'aéroport de Seattle",
+    "Les forces mexicaines arrêtent le chef de cartel Fausto Isidro Meza dans l'État de Sinaloa"
+   ],
+   "octets": 27235
+  },
   {
    "date": "2026-11-21",
    "genere_a": "2026-11-21T07:58:04Z",

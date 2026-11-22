@@ -1,0 +1,369 @@
+{
+ "date": "2026-11-22",
+ "genere_a": "2026-11-22T07:39:09Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-22-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La Cour internationale de justice reconnaît la Birmanie coupable de génocide",
+   "chapeau": "La Cour internationale de justice a déclaré la Birmanie responsable de génocide contre la minorité musulmane rohingya le 19 novembre 2026 à La Haye. Les juges de l'Organisation des Nations unies ont ordonné des réparations financières et le retour des populations expulsées.",
+   "corps": "La plus haute juridiction de l'Organisation des Nations unies a attribué à un État la responsabilité directe d'un génocide. La décision vise les exactions commises à partir de 2017 dans le nord de l'État de Rakhine. La junta militaire au pouvoir en Birmanie avait contesté la décision le 20 novembre 2026.\n\nL'arrêt de la cour cible le rôle des forces armées birmanes pendant les opérations de 2017. Le chef militaire de l'époque, Min Aung Hlaing, occupe désormais la présidence du pays. Les juges soulignent la responsabilité de la chaîne de commandement dans la campagne de violences subie par la minorité musulmane.\n\nSelon Le Figaro du 20 novembre 2026 et franceinfo du 21 novembre 2026, plus de 700 000 à 750 000 Rohingyas ont fui le territoire birman depuis 2017. La décision judiciaire impose à l'État birman la restitution des biens et le rétablissement des personnes déplacées dans leurs foyers. L'Organisation des Nations unies demande à Naypyidaw d'appliquer les mesures d'accueil pour les réfugiés actuellement installés au Bangladesh.\n\nLes membres de la communauté rohingya installés dans les camps du Bangladesh ont salué le jugement de la cour. Les victimes interrogées qualifient l'arrêt de reconnaissance juridique. Les réfugiés rappellent toutefois que le retour dans leur pays reste difficile sans moyen de contrainte matérielle. La Cour internationale de justice ne dispose pas de force armée ou de police pour faire exécuter ses décisions selon The Hindu du 22 novembre 2026.\n\nLes spécialistes du droit international étudient les effets de cette décision sur d'autres procédures en cours à La Haye. L'Afrique du Sud a saisi la même instance contre Israël pour des faits qualifiés de génocide dans la bande de Gaza. Les arguments de défense présentés par le gouvernement birman ressemblent à ceux développés par l'État israélien devant les juges.\n\n## Ce que disent les sources\n\nLes informations relatives à la réaction de l'Union européenne présentent des nuances selon les publications du 21 novembre 2026. Selon franceinfo, l'Union européenne a salué le verdict rendu par la Cour internationale de justice. Selon Libération, l'organisation communautaire s'est limitée à prendre note du jugement de la juridiction internationale.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/asia-and-australia/2026-11-20/ty-article-magazine/.premium/the-icj-has-found-a-country-guilty-of-genocide-israel-should-be-worried/000001a1-f85f-d5b4-a3bd-f97f72a30000"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-birmanie-condamnee-pour-genocide-contre-les-rohingyas-20261120"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/genozid-urteil-was-die-entscheidung-des-weltgerichts-in-den-haag-fuer-israel-bedeutet-a-fe9b69b6-b00f-4162-a1ed-e6120818020a"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/genocide-des-rohingyas-min-aung-hlaing-le-general-president-qui-a-attise-la-haine-20261120"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/se-asia/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home-to-myanmar"
+    }
+   ],
+   "premiere_parution": "2026-11-19T09:04:27Z",
+   "suite_de": "2026-11-21-monde-007",
+   "mots": 392,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-22-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des agents de l'immigration arrêtent deux passagers à l'aéroport de Seattle",
+   "chapeau": "Des agents masqués du service fédéral de l'immigration ont arrêté deux personnes sur une passerelle d'embarquement à l'aéroport international de Seattle-Tacoma le samedi 21 novembre 2026. L'intervention s'est déroulée pendant l'accès des passagers à un vol de la compagnie Alaska Airlines à destination de Los Angeles.",
+   "corps": "L'opération a visé deux voyageurs engagés dans le couloir menant à l'appareil. Des agents de l'agence de contrôle des frontières, appelée ICE pour le service fédéral chargé d'appliquer le droit des étrangers, sont intervenus le visage masqué. Une séquence vidéo montre des agents entraînant au moins un individu à l'écart des autres clients. L'action a entraîné un retard pour le départ de l'avion.\n\nL'administration du port de Seattle a publié une déclaration officielle après la scène. Les responsables de la structure aéroportuaire annoncent que les autorités locales vont contacter les agents fédéraux pour comprendre le déroulement des faits. Selon le journal The Hindu le 22 novembre 2026 à 10 heures 57, l'entité portuaire rapporte que l'arrestation a troublé les membres de la famille touchée et les personnes présentes sur les lieux.\n\nLe gouverneur de l'État de Washington a désapprouvé les agissements des forces fédérales. La direction de la compagnie aérienne, des représentants syndicaux et des responsables politiques ont exprimé des réserves sur l'opportunité d'une telle action. Les critiques visent le choix d'intervenir dans un espace fermé et fréquenté.\n\nL'événement s'inscrit dans le cadre de la politique de Donald Trump. Les élus démocrates s'apprêtent à prendre la tête du Congrès des États-Unis. Les parlementaires prévoient d'ouvrir des recherches sur les procédures utilisées par le service ICE lors des arrestations d'étrangers.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "fox21online.com",
+     "url": "https://fox21online.com/news/us-world/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight/article_e790ad7d-fc3d-56f1-8794-9529fd615000.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-22/ice-arrest-at-airport-prompts-outcry-from-officials-politicians"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/ice-arrest-at-us-airport-prompts-outcry-from-officials-politicians"
+    },
+    {
+     "nom": "theadvocate.com.au",
+     "url": "https://theadvocate.com.au/story/9396014/ice-officers-arrest-two-boarding-passengers-at-airport"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/article71730599.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-22T00:00:00Z",
+   "suite_de": null,
+   "mots": 265,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-22-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les forces mexicaines arrêtent le chef de cartel Fausto Isidro Meza dans l'État de Sinaloa",
+   "chapeau": "Les forces armées mexicaines ont arrêté Fausto Isidro Meza, dit Chapo Isidro, vendredi 20 novembre 2026 dans l'État de Sinaloa, au nord-ouest du Mexique. Cette opération spéciale menée par les autorités a déclenché des affrontements armés violents dans la ville de Guasave.",
+   "corps": "L'armée mexicaine a capturé Fausto Isidro Meza au cours d'un raid mené par ses forces spéciales dans l'État côtier de Sinaloa, la nuit du vendredi 20 novembre 2026. Deux autres dirigeants de son organisation criminelle ont également été interpellés durant l'intervention militaire. Fausto Isidro Meza figure sur la liste des dix fugitifs les plus recherchés par la police fédérale américaine, le FBI. Les autorités des États-Unis proposaient une prime de 5 millions de dollars pour sa capture. Le gouvernement américain l'accuse d'avoir organisé le trafic de produits stupéfiants vers son territoire durant plus de deux décennies, tout en se rendant coupable de tortures.\n\nL'arrestation du chef de gang et les tirs consécutifs ont engendré des affrontements violents dans la commune de Guasave, provoquant la panique parmi les habitants. Selon le bilan transmis le 21 novembre 2026 par les autorités mexicaines et rapporté par RFI, les combats ont causé la mort de quatre militaires et de sept criminels présumés.\n\n## Ce que disent les sources\n\nConcernant la date exacte de l'arrestation, la majorité des médias, dont Le Monde, The Straits Times, RFI et The Guardian, rapportent des faits survenus le vendredi 20 novembre 2026. De son côté, le média américain NPR indique dans sa dépêche publiée le 21 novembre 2026 que la capture s'est déroulée le samedi 21 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-captures"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261121-mexico-captures-drug-kingpin-on-fbi-s-most-wanted-list"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-21/mexico-arrests-sinaloa-drug-kingpin-on-fbi-s-most-wanted-list"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/am%C3%A9riques/20261121-le-mexique-arr%C3%AAte-le-baron-de-la-drogue-chapo-isidro-recherch%C3%A9-par-le-fbi"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+    }
+   ],
+   "premiere_parution": "2026-11-20T12:00:00Z",
+   "suite_de": null,
+   "mots": 260,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-22-monde-004",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Une doctorante de Princeton arrêtée par la police migratoire américaine",
+   "chapeau": "Les agents de la police migratoire des États-Unis ont arrêté la chercheuse chinoise Eva Yi Xie jeudi 19 novembre 2026 à l'aéroport de Washington. La doctorante de l'université de Princeton rentrait d'un colloque scientifique consacré aux neurosciences.",
+   "corps": "L'arrestation est survenue après la présentation des travaux de recherche d'Eva Yi Xie lors d'un rassemblement scientifique à Washington. L'étudiante accomplit sa troisième année de doctorat au sein de l'institut de neurosciences de Princeton. Ses recherches portent sur le fonctionnement neuronal de la prise de décision. Cette ressortissante chinoise réside sur le territoire américain depuis dix ans. Elle a déposé une demande d'asile auprès des autorités des États-Unis.\n\nDes responsables de l'université de Princeton, le directeur de thèse et des collègues de la doctorante ont signalé cette mesure de rétention. L'administration fédérale a transféré la chercheuse vers un centre de détention. Cette arrestation est la première enregistrée parmi les étudiants de cet établissement universitaire.\n\nDeux autres interventions de la police migratoire ont eu lieu dans un aéroport situé à Seattle. Les motifs de la décision administrative concernant Eva Yi Xie n'ont pas été précisés par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/migracion/2026-11-20/ice-detiene-a-una-estudiante-china-de-princeton-al-volver-de-un-congreso-de-neurociencia.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_22/ricercatrice-di-princeton-arrestata-dall-ice-a-washington-e-portata-in-un-centro-di-detenzione-8b8c34e5-7eca-4207-a73c-66401cb30xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-20T18:33:17Z",
+   "suite_de": null,
+   "mots": 184,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-22-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Un cargo russe visé par des drones dans le golfe de Finlande",
+   "chapeau": "Un navire de marchandise russe a subi une frappe de drones le 21 novembre 2026 dans les eaux internationales du golfe de Finlande. Les autorités de Finlande et de Russie ont confirmé les dommages subis par ce bâtiment qui naviguait vers Kaliningrad.",
+   "corps": "Un navire de transport marchand naviguant en direction de la région russe de Kaliningrad a fait l'objet d'un assaut mené par des engins volants sans pilote le 21 novembre 2026. Deux appareils télécommandés ont frappé le bâtiment alors qu'il se trouvait dans les eaux internationales de la mer Baltique, selon des informations diffusées par Al Jazeera le 21 novembre 2026 à 16h45.\n\nL'impact des projectiles a provoqué un incendie sur le bâtiment marchand. Le navire s'est ensuite déporté jusque dans les eaux sous souveraineté finlandaise. L'équipage présent à bord a entamé une procédure d'évacuation d'urgence après le déclenchement du sinistre.\n\nLes forces de garde-côtes et les autorités de Finlande indiquent que le cargo entretenait des liens avec les forces armées de la Fédération de Russie. Le bâtiment figurait également sur une liste de sanctions établie par les États-Unis, selon des éléments rapportés par Deutsche Welle le 21 novembre 2026 à 21h08.\n\nLe ministère de la Défense de Finlande a réagi en instaurant des limitations temporaires dans l'espace aérien et maritime dans la zone orientale du golfe de Finlande. Ces mesures préventives visent à protéger les populations civiles tout en permettant aux forces armées d'intervenir en cas de besoin d'interception d'engins sans pilote.\n\nLe Premier ministre finlandais Petteri Orpo a déclaré que les affrontements militaires se rapprochaient des frontières immédiates de son pays. Le chef du gouvernement finlandais a ajouté que l'Ukraine disposait du droit de se défendre face à l'État agresseur. Les forces armées finlandaises ont estimé que l'Ukraine était très probablement l'auteur de cette frappe de drones, selon une information publiée par la BBC le 21 novembre 2026 à 23h20.\n\nUn hélicoptère appartenant à la Russie est également soupçonné d'avoir pénétré sans autorisation dans l'espace aérien de la Finlande le même jour. Les services de la Défense finlandaise établissent un lien direct entre cette intrusion aérienne et l'attaque subie plus tôt par le navire marchand.\n\nLa Russie a souligné que la perturbation de cette route de navigation stratégique en mer Baltique accroît les risques pesant sur ses livraisons d'énergie et sur ses exportations de produits alimentaires, selon des données relayées par Bloomberg le 21 novembre 2026 à 15h44. L'exclave de Kaliningrad désigne un territoire russe séparé du reste du pays.\n\nLe nombre exact de marins évacués ainsi que l'identité précise du cargo ne sont pas précisés par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-on-fire-in-its-waters"
+    },
+    {
+     "nom": "AFP",
+     "url": "https://afp.com/en/russian-cargo-ship-hit-drone-baltic-finland-says"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cj752ddve27ko"
+    }
+   ],
+   "premiere_parution": "2026-11-21T11:44:46Z",
+   "suite_de": null,
+   "mots": 432,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-22-geopolitique-002",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Les Nations unies prolongent jusqu'en 2028 les discussions sur les armes autonomes",
+   "chapeau": "Les cent vingt-huit États membres de la Convention sur certaines armes classiques de l'Organisation des Nations unies se sont réunis à Genève jusqu'au samedi 21 novembre 2026. Les participants ont clôturé leurs débats de cinq jours sans adopter d'interdiction juridique contraignante visant les systèmes d'armes létales autonomes.",
+   "corps": "Les systèmes d'armes létales autonomes désignent du matériel militaire ciblant sans intervention humaine. Au terme des discussions menées en Suisse, les délégués n'ont pas trouvé de consensus pour rédiger un traité d'interdiction. Les pays membres ont choisi de prolonger les échanges sur ce dossier de régulation pour une durée de deux années supplémentaires, ce qui fixe la nouvelle échéance à l'année 2028.\n\nTrois gouvernements ont fait obstacle à l'ouverture immédiate de négociations juridiquement contraignantes. La Russie, les États-Unis et Israël ont bloqué la proposition soutenue par environ cent pays. Selon la radio Deutsche Welle le 21 novembre 2026 à 13h18, les pays ont accepté d'étendre les réflexions sans fixer d'interdiction légale. Le journal Le Monde indique le 21 novembre 2026 à 16h36 que ces trois nations ont refusé d'encadrer ces systèmes armés fonctionnant avec de l'intelligence artificielle. D'après le journal Der Spiegel le 21 novembre 2026 à 10h45, cent vingt-huit pays membres ont constaté ce blocage attribué à trois gouvernements.\n\nPlusieurs organisations humanitaires expriment des inquiétudes face au déploiement de ces matériels sur les théâtres de conflit. Le site franceinfo rapporte le 21 novembre 2026 à 15h49 que ces équipements posent la question des frappes aveugles, du manque de responsabilité de l'utilisateur et du non-respect des lois de la guerre. L'antenne américaine NPR note le 21 novembre 2026 à 18h18 que les technologies militaires progressent plus vite que les démarches diplomatiques. Le quotidien La Croix mentionne le 21 novembre 2026 à 18h30 que les États n'ont pas pu s'entendre sur un cadre réglementaire strict.\n\n## Ce que disent les sources\n\nLe quotidien britannique The Guardian affirme le 21 novembre 2026 à 20h36 que la conférence s'est soldée par un effondrement des négociations en raison d'une obstruction systématique de la délégation russe. À l'inverse, la station RFI indique le 21 novembre 2026 à 10h58 que la rencontre débouche sur un accord ouvrant la voie à une future réglementation internationale. La chaîne Al Jazeera précise le 21 novembre 2026 à 14h25 que les diplomates s'accordent pour élaborer des règles d'ici 2028 tout en renonçant à une adoption rapide. Le journal Libération confirme le 21 novembre 2026 à 20h18 qu'un accord d'encadrement a été trouvé mais sans aucune interdiction. Le site Politico indique le 21 novembre 2026 à 20h43 que la Russie a bloqué le processus avec le soutien d'autres nations opposées.\n\nLe compte rendu final des Nations unies ne détaille pas la date exacte des prochaines réunions de travail planifiées avant 2028.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/monde/20261121-robots-tueurs-un-accord-%C3%A0-l-onu-en-vue-d-un-possible-encadrement-international"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/societe/armee-securite-defense/une-conference-de-l-onu-ouvre-a-la-voie-a-un-possible-encadrement-international-des-robots-tueurs_8293439.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/robots-tueurs-l-echec-de-la-communaute-internationale-20261121"
+    }
+   ],
+   "premiere_parution": "2026-11-20T16:58:32Z",
+   "suite_de": null,
+   "mots": 456,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-22-culture-001",
+   "rubrique": "culture",
+   "format": "breve",
+   "titre": "Le joaillier italien Paolo Bulgari est mort à l'âge de 89 ans",
+   "chapeau": "La famille de Paolo Bulgari a annoncé le samedi 21 novembre 2026 le décès de l'homme d'affaires à l'âge de 89 ans. Ses obsèques se tiendront le 23 novembre 2026 à Rome.",
+   "corps": "La famille du dirigeant a communiqué son décès le samedi 21 novembre 2026. Ses proches l'ont qualifié de plus grand joaillier de notre temps. Ils ont également salué son talent d'entrepreneur ainsi que son humanité.\n\nPaolo Bulgari est le petit-fils d'un orfèvre grec. Il a dirigé la maison de joaillerie familiale à partir de 1984, cumulant 42 ans à la tête de l'entreprise. Durant cette période, il a transformé l'entreprise familiale en un groupe international du secteur du luxe. Les créations de la marque se caractérisent par des pierres précieuses, l'utilisation des couleurs et des motifs particuliers.\n\nEn 2011, le groupe de luxe LVMH a acheté l'entreprise auprès de Paolo Bulgari et de son frère Nicola. Bernard Arnault, dirigeant du groupe LVMH, a décrit Paolo Bulgari comme l'un des principaux architectes du succès de la marque. Le groupe LVMH a aussi salué l'âme créative de cet expert en pierres précieuses.\n\nDes personnalités du cinéma, du mannequinat et du spectacle ont porté des bijoux de l'enseigne familiale. Audrey Hepburn, Elizabeth Taylor et Kim Kardashian figurent parmi les personnes ayant arboré ces créations, tout comme divers collectionneurs.\n\nLa cause exacte de la mort de Paolo Bulgari n'est pas mentionnée dans les informations transmises par sa famille.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/moda/26_novembre_21/e-morto-paolo-bulgari-addio-al-grande-gioielliere-aveva-89-anni-3f42ca2e-a40e-4cca-a05c-a113f77b0xlk.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/mode/paolo-bulgari-le-petit-fils-du-fondateur-de-la-fameuse-marque-de-joaillerie-est-mort-a-l-age-de-89-ans_8293886.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/gente/2026-11-21/muere-paolo-bulgari-presidente-de-la-firma-de-joyas-italiana-bvlgari-a-los-89-anos.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/disparitions/article/2026/11/21/paolo-bulgari-president-du-groupe-de-joaillerie-rachete-par-lvmh-est-mort-a-89-ans_6814053_3382.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442"
+    },
+    {
+     "nom": "wsbradio.com",
+     "url": "https://wsbradio.com/news/world/paolo-bulgari/KKVPMOFKBY73TMIE6MAGQRFLSU"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/21/italiaanse-juwelenontwerper-en-zakenman-paolo-bulgari-overleden-a4941992"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/21/g-s1-154971/bulgari-jewelry-obit"
+    }
+   ],
+   "premiere_parution": "2026-11-21T12:29:38Z",
+   "suite_de": null,
+   "mots": 236,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-22-monde-001",
+  "2026-11-22-monde-002",
+  "2026-11-22-monde-003",
+  "2026-11-22-culture-001",
+  "2026-11-22-geopolitique-001",
+  "2026-11-22-geopolitique-002",
+  "2026-11-22-monde-004"
+ ]
+}

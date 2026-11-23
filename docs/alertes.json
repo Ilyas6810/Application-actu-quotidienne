@@ -1,6 +1,142 @@
 {
- "maj": "2026-11-22T19:47:48Z",
+ "maj": "2026-11-23T12:55:15Z",
  "alertes": [
+  {
+   "id": "2026-11-23-alerte-01",
+   "date": "2026-11-23",
+   "publiee_a": "2026-11-23T12:49:23Z",
+   "titre": "L Union europeenne ouvre une enquete contre Coca Cola Europacific Partners",
+   "texte": "La Commission europeenne a lance une enquete formelle le 23 novembre 2026 concernant Coca Cola Europacific Partners pour des soupcons d entrave au commerce transfrontalier de boissons. Cette procedure vise a verifier si l entreprise enfreint les regles de concurrence de l Union europeenne.",
+   "sources": [
+    {
+     "nom": "Commission européenne",
+     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/eu-opens-antitrust-probe-into-coca-cola-bottler"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/economia/union-europea-abre-investigacion-cocacola-practicas-monopolisticas-20261123124355-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/coca-cola-eu-kommission-leitet-wettbewerbsverfahren-gegen-abfueller-ein-a-299661c2-fc74-4333-bc61-2025aaea1f44"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/economia/2026-11-23/bruselas-investiga-a-la-embotelladora-de-coca-cola-por-una-posible-conducta-anticompetitiva.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/23/le-principal-producteur-europeen-de-coca-cola-vise-par-une-enquete-approfondie-de-l-ue-pour-des-soupcons-de-pratiques-anticoncurrentielles_6814382_3210.html"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1"
+    }
+   ],
+   "cluster": "1014d52c1957d441",
+   "urls": [
+    "https://abc.es/economia/union-europea-abre-investigacion-cocacola-practicas-monopolisticas-20261123124355-nt.html",
+    "https://bloomberg.com/news/articles/2026-11-23/coca-cola-bottler-hit-by-eu-probe-into-abuse-of-market-power",
+    "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530",
+    "https://elpais.com/economia/2026-11-23/bruselas-investiga-a-la-embotelladora-de-coca-cola-por-una-posible-conducta-anticompetitiva.html",
+    "https://ft.com/content/a9686a35-ba71-4f5c-8fe8-ca3bc34a67b1?syn-25a6b1a6=1",
+    "https://lemonde.fr/international/article/2026/11/23/le-principal-producteur-europeen-de-coca-cola-vise-par-une-enquete-approfondie-de-l-ue-pour-des-soupcons-de-pratiques-anticoncurrentielles_6814382_3210.html",
+    "https://politico.eu/article/eu-opens-antitrust-probe-into-coca-cola-bottler",
+    "https://spiegel.de/wirtschaft/unternehmen/coca-cola-eu-kommission-leitet-wettbewerbsverfahren-gegen-abfueller-ein-a-299661c2-fc74-4333-bc61-2025aaea1f44"
+   ]
+  },
+  {
+   "id": "2026-11-23-alerte-02",
+   "date": "2026-11-23",
+   "publiee_a": "2026-11-23T12:55:06Z",
+   "titre": "Plus de quatre cent cinquante écoles ciblées par des alertes à la bombe",
+   "texte": "Plus de quatre cent cinquante écoles en Allemagne et des établissements au Danemark ont reçu des messages d'alerte le lundi 23 novembre 2026. La police écarte tout danger réel.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/allemagne-des-alertes-a-la-bombe-contre-plus-de-450-ecoles-dans-plusieurs-regions-20261123_BERLKHVTY5BXTONWDAXJHBNUEY"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/450-escuelas-alemania-reciben-amenaza-bomba-correo-20261123114505-nt.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/23/en-allemagne-et-au-danemark-des-alertes-a-la-bombe-dans-des-etablissements-scolaires-sans-menace-concrete-ou-jugees-infondees-par-les-autorites_6814378_3210.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/allemagne-une-vague-de-fausses-alertes-a-la-bombe-contre-plus-de-450-ecoles-20261123"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/schools-across-germany-denmark-receive-bomb-threats"
+    }
+   ],
+   "cluster": "0d1f170178f2fd81",
+   "urls": [
+    "https://abc.es/internacional/450-escuelas-alemania-reciben-amenaza-bomba-correo-20261123114505-nt.html",
+    "https://dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-all-1573-xml-mrss",
+    "https://la-croix.com/international/allemagne-une-vague-de-fausses-alertes-a-la-bombe-contre-plus-de-450-ecoles-20261123",
+    "https://lemonde.fr/international/article/2026/11/23/en-allemagne-et-au-danemark-des-alertes-a-la-bombe-dans-des-etablissements-scolaires-sans-menace-concrete-ou-jugees-infondees-par-les-autorites_6814378_3210.html",
+    "https://liberation.fr/international/europe/allemagne-des-alertes-a-la-bombe-contre-plus-de-450-ecoles-dans-plusieurs-regions-20261123_BERLKHVTY5BXTONWDAXJHBNUEY",
+    "https://straitstimes.com/world/europe/schools-across-germany-denmark-receive-bomb-threats"
+   ]
+  },
+  {
+   "id": "2026-11-23-alerte-03",
+   "date": "2026-11-23",
+   "publiee_a": "2026-11-23T12:55:15Z",
+   "titre": "Le Tribunal arbitral du sport annonce son verdict pour la Coupe d'Afrique des nations",
+   "texte": "Le Tribunal arbitral du sport communiquera sa décision ce mardi 24 novembre 2026 concernant l'identité du vainqueur de la finale de la Coupe d'Afrique des nations 2025 entre le Maroc et le Sénégal. L'institution judiciaire sportive tranche ainsi un différend opposant les deux fédérations nationales.",
+   "sources": [
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261123-can-2025-maroc-senegal-verdict-tas"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Can-2025-le-tas-rendra-son-verdict-ce-mardi-pour-la-designation-definitive-du-vainqueur-entre-le-maroc-et-le-senegal/1745543"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/can-2025-le-verdict-de-la-finale-maroc-senegal-sera-rendu-mardi-apres-midi-par-le-tas-20261123"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/finale-maroc-senegal-de-la-can-2025-le-tribunal-arbitral-du-sport-rendra-sa-decision-mardi-20261123_LG5SAI3QC5BPHNBQNMCUMTVJLA"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/football/articles/ckjw5jj2l26lo"
+    }
+   ],
+   "cluster": "3acea38446e8ae1f",
+   "urls": [
+    "https://aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal",
+    "https://bbc.co.uk/sport/football/articles/ckjw5jj2l26lo",
+    "https://france24.com/fr/sports/20261123-can-2025-maroc-senegal-verdict-tas",
+    "https://lefigaro.fr/sports/football/can-2025-le-verdict-de-la-finale-maroc-senegal-sera-rendu-mardi-apres-midi-par-le-tas-20261123",
+    "https://lequipe.fr/Football/Actualites/Can-2025-le-tas-rendra-son-verdict-ce-mardi-pour-la-designation-definitive-du-vainqueur-entre-le-maroc-et-le-senegal/1745543",
+    "https://liberation.fr/sports/football/finale-maroc-senegal-de-la-can-2025-le-tribunal-arbitral-du-sport-rendra-sa-decision-mardi-20261123_LG5SAI3QC5BPHNBQNMCUMTVJLA"
+   ]
+  },
   {
    "id": "2026-11-22-alerte-02",
    "date": "2026-11-22",
@@ -1173,151 +1309,6 @@
     "https://straitstimes.com/world/europe/estonia-to-close-russian-border-crossings-after-attempted-arson-attack",
     "https://theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
     "https://zazoom.it/2026-11-15/estonia-stop-totale-ai-passaggi-con-la-russia-lannuncio-dopo-il-blitz-sventato-del-gru/19932847"
-   ]
-  },
-  {
-   "id": "2026-11-15-alerte-02",
-   "date": "2026-11-15",
-   "publiee_a": "2026-11-15T16:28:19Z",
-   "titre": "Alexander Zverev bat Rafael Jodar aux Finales ATP à Turin",
-   "texte": "Alexander Zverev a battu l'Espagnol Rafael Jodar dimanche 15 novembre 2026 à Turin lors de son premier match des Finales ATP. Le joueur allemand, actuel numéro un mondial, s'est imposé en deux manches avec un score de 6-4, 6-4.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/tennis/atp/avant-le-masters-a-turin-alexander-zverev-est-il-un-numero-un-mondial-au-rabais_8281652.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/sport/tennis/26_novembre_15/zverev-jodar-risultato-atp-finals-2026-torino-e39f936e-c025-4f4a-b764-f31ec86e5xlk.shtml"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/tennis/tennis-un-solide-zverev-eteint-jodar-et-reussit-ses-debuts-aux-atp-finals-20261115"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Tennis/Actualites/Alexander-zverev-ne-tremble-pas-face-a-rafael-jodar-et-se-lance-idealement-dans-les-finales-atp/1743817"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/deportes/tenis/jodar-paga-novatada-ante-zverev-20261115155717-nt.html"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o"
-    }
-   ],
-   "cluster": "772b6695c1e2ef87",
-   "urls": [
-    "https://abc.es/deportes/tenis/jodar-paga-novatada-ante-zverev-20261115155717-nt.html",
-    "https://bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o",
-    "https://corriere.it/sport/tennis/26_novembre_15/zverev-jodar-risultato-atp-finals-2026-torino-e39f936e-c025-4f4a-b764-f31ec86e5xlk.shtml",
-    "https://franceinfo.fr/sports/tennis/atp/avant-le-masters-a-turin-alexander-zverev-est-il-un-numero-un-mondial-au-rabais_8281652.html",
-    "https://lefigaro.fr/sports/tennis/tennis-un-solide-zverev-eteint-jodar-et-reussit-ses-debuts-aux-atp-finals-20261115",
-    "https://lequipe.fr/Tennis/Actualites/Alexander-zverev-ne-tremble-pas-face-a-rafael-jodar-et-se-lance-idealement-dans-les-finales-atp/1743817",
-    "https://theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live"
-   ]
-  },
-  {
-   "id": "2026-11-15-alerte-03",
-   "date": "2026-11-15",
-   "publiee_a": "2026-11-15T16:37:08Z",
-   "titre": "L'Iran affirme avoir attaqué une base militaire américaine au Bahreïn",
-   "texte": "Les Gardiens de la révolution iraniens ont revendiqué une attaque de drones contre une base américaine au Bahreïn le dimanche 15 novembre 2026 au matin. Les autorités bahreïniennes ont indiqué avoir intercepté ces frappes survenues entre 4 h 30 et 6 h.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-revendique-une-attaque-contre-une-base-americaine-au-bahrein_8283197.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/middle-east-news/2026-11-15/ty-article/bahrain-intercepts-iranian-drone-attacks-as-tehran-says-it-hit-u-s-base/000001a1-debc-da30-a7fb-debdb7ed0000"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cqn4e2py48kwo"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/guerre-au-moyen-orient-a-bahrein-l-iran-reprend-ses-frappes-contre-les-installations-americaines-20261115"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
-    }
-   ],
-   "cluster": "2690774eafb22b42",
-   "urls": [
-    "https://aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us",
-    "https://aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
-    "https://aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes",
-    "https://bbc.co.uk/news/articles/cqn4e2py48kwo",
-    "https://bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
-    "https://canberratimes.com.au/story/9391689/iran-strikes-us-base-bahrain-intercepts-aerial-attacks",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_14?evenement=a773601f73",
-    "https://france24.com/fr/moyen-orient/20261115-iran-revendique-frappes-drones-contre-base-am%C3%A9ricaine-au-bahre%C3%AFn",
-    "https://france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine",
-    "https://france24.com/fr/vid%C3%A9o/20261115-l-iran-revendique-une-attaque-contre-un-site-militaire-am%C3%A9ricain-%C3%A0-bahre%C3%AFn",
-    "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-revendique-une-attaque-contre-une-base-americaine-au-bahrein_8283197.html",
-    "https://ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
-    "https://haaretz.com/middle-east-news/2026-11-15/ty-article/bahrain-intercepts-iranian-drone-attacks-as-tehran-says-it-hit-u-s-base/000001a1-debc-da30-a7fb-debdb7ed0000",
-    "https://haaretz.com/middle-east-news/iran/2026-11-13/ty-article/u-s-downs-two-iranian-drones-as-iran-says-it-struck-u-s-radar-in-bahrain/000001a1-d63d-d1ce-a9a3-f63f97d80000",
-    "https://la-croix.com/international/guerre-au-moyen-orient-a-bahrein-l-iran-reprend-ses-frappes-contre-les-installations-americaines-20261115",
-    "https://lefigaro.fr/international/iran-les-gardiens-disent-avoir-attaque-une-base-militaire-au-bahrein-avec-des-drones-20261115",
-    "https://lemonde.fr/international/article/2026/11/15/l-iran-revendique-une-attaque-de-drones-contre-une-base-americaine-a-bahrein_6810990_3210.html",
-    "https://liberation.fr/international/moyen-orient/liran-revendique-une-nouvelle-attaque-contre-une-base-militaire-des-etats-unis-a-bahrein-20261115_VSADW3X4B5BTBJTSUPFQTRM2LU",
-    "https://straitstimes.com/world/middle-east/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base",
-    "https://theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
-   ]
-  },
-  {
-   "id": "2026-11-15-alerte-01",
-   "date": "2026-11-15",
-   "publiee_a": "2026-11-14T22:36:36Z",
-   "titre": "Découverte d'une bombe dans une usine en Illinois aux États-Unis",
-   "texte": "Les autorités américaines ont découvert un engin explosif vendredi 13 novembre 2026 sur le site de BioUrja Renewables à Peoria, dans l'Illinois. Les forces de l'ordre ont fait évacuer les riverains dans un rayon d'un mille avant de désamorcer la bombe.",
-   "sources": [
-    {
-     "nom": "fox23.com",
-     "url": "https://fox23.com/news/nation-world/headline-11-14-2026"
-    },
-    {
-     "nom": "NPR",
-     "url": "https://npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device"
-    }
-   ],
-   "cluster": "03954f8828fb6ac0",
-   "urls": [
-    "https://fox23.com/news/nation-world/headline-11-14-2026",
-    "https://foxreno.com/news/nation-world/headline-11-14-2026",
-    "https://local21news.com/news/nation-world/headline-11-14-2026",
-    "https://npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-    "https://straitstimes.com/world/law-enforcement-searches-illinois-plant-after-credible-threat-of-explosive-device",
-    "https://theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
    ]
   }
  ]

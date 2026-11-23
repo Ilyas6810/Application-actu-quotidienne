@@ -1,0 +1,690 @@
+{
+ "date": "2026-11-23",
+ "genere_a": "2026-11-23T08:22:22Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-23-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un incendie touche une usine de confiseries en Indonésie",
+   "chapeau": "Un incendie a ravagé un bâtiment d'une usine de confiseries samedi 21 novembre 2026 dans la province de Banten, en Indonésie. Les équipes de secours recherchent des dizaines de personnes portées disparues dans les décombres de l'installation.",
+   "corps": "Le feu s'est déclaré le samedi 21 novembre 2026 en fin de journée dans un bâtiment du complexe industriel de l'entreprise PT Fonusa Agung Mulia, selon The Hindu le 23 novembre 2026 à 10h31. L'usine se situe dans le district de Serang, plus précisément dans la localité de Cikande, à environ une heure de route de la capitale Jakarta, selon The Hindu le 22 novembre 2026 à 08h45 et le 23 novembre 2026 à 10h31. Environ trois cents employés travaillaient sur le site au moment où le sinistre a débuté, selon le quotidien NRC le 22 novembre 2026 à 14h38.\n\nLes opérations de secours ont permis de sortir au moins quinze personnes du site, selon Al Jazeera le 22 novembre 2026 à 11h46. Quatre personnes blessées ont été transportées vers des centres médicaux pour y recevoir des soins, selon RFI le 22 novembre 2026 à 13h35 et la BBC le 22 novembre 2026 à 18h05.\n\nLes destructions matérielles sont importantes dans la structure. Des images capturées par des drones montrent l'effondrement partiel du toit ainsi que des colonnes de fumée s'élevant du bâtiment, selon The Guardian le 23 novembre 2026 à 09h45. Les secouristes ont inspecté les pièces calcinées afin de retrouver les victimes, selon le même média.\n\nEn dehors de l'usine, des proches des travailleurs se sont rassemblés devant l'entrée principale pour obtenir des informations sur leurs parents, selon The Guardian le 23 novembre 2026 à 09h45. Les autorités indonésiennes procèdent à des analyses sur des restes humains découverts sur place, selon Der Spiegel le 23 novembre 2026 à 11h38. L'identification officielle de l'ensemble des victimes pourrait nécessiter plusieurs semaines, selon le journal allemand.\n\nDes enquêtes sont en cours pour déterminer l'origine du départ de feu, selon Al Jazeera le 22 novembre 2026 à 11h46 et The Hindu le 23 novembre 2026 à 10h31. Les incendies dans les bâtiments industriels ont causé la mort de plusieurs travailleurs en Indonésie au cours des dernières années, selon le quotidien NRC le 22 novembre 2026 à 14h38.\n\n## Ce que disent les sources\n\nLes bilans humains transmis par les secours et les autorités ont évolué entre le 22 et le 23 novembre 2026.\n\nLe 22 novembre 2026 à 08h58, France 24 a rapporté un bilan d'un responsable des secours établissant trois morts et trente-six personnes disparues. Ce même bilan de trois décès et trente-six disparus a été confirmé par RFI le 22 novembre 2026 à 13h35 et par Al Jazeera le 22 novembre 2026 à 11h46. Le quotidien néerlandais NRC a indiqué pour sa part le 22 novembre 2026 à 14h38 un bilan de cinquante personnes recherchées et l'extraction de sept sacs mortuaires, tandis que franceinfo annonçait également cinquante ouvriers recherchés le 22 novembre 2026 à 16h22.\n\nLe 23 novembre 2026 à 06h35, Al Jazeera a fait état de vingt-quatre victimes mortelles confirmées après le retrait de vingt-quatre sacs mortuaires par la police, avec trente personnes toujours disparues. Ce chiffre de vingt-quatre morts a été repris par The Guardian le 23 novembre 2026 à 09h45 et par The Hindu le 23 novembre 2026 à 10h31. Enfin, Der Spiegel a mentionné le 23 novembre 2026 à 11h38 que trente-deux personnes demeuraient portées disparues.\n\nLes causes exactes du départ de feu n'ont pas été précisées par les autorités.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/rescuers-say-many-missing-after-indonesia-factory-fire/article71730558.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261122-three-dead-36-missing-after-indonesia-factory-fire"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261122-indon%C3%A9sie-un-incendie-dans-une-usine-fait-au-moins-trois-morts-et-36-disparus-pr%C3%A8s-de-jakarta"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/22/brand-in-snoepfabriek-op-west-java-vijftig-mensen-vermist-en-zeven-lijkzakken-naar-buiten-gedragen-a4942005"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/incendie/une-usine-de-confiseries-ravagee-par-un-incendie-meurtrier-en-indonesie_8294852.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+    }
+   ],
+   "premiere_parution": "2026-11-21T12:00:00Z",
+   "suite_de": null,
+   "mots": 580,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Les démocrates obtiennent au moins 258 sièges à la Chambre des représentants",
+   "chapeau": "Le Parti démocrate a remporté la majorité des sièges à la Chambre des représentants lors des élections de mi-mandat aux États-Unis le dimanche 22 novembre 2026. Cette victoire assure au parti le contrôle des deux chambres du Congrès américain dès le mois de janvier.",
+   "corps": "Le Parti démocrate a atteint le seuil de 258 sièges sur 435 à la Chambre des représentants le dimanche 22 novembre 2026. Le candidat démocrate Chuck Hubbard a battu la représentante républicaine sortante Virginia Foxx en Caroline du Nord. Ce succès donne au Parti démocrate sa plus large majorité dans cette chambre depuis l'année 1992.\n\nSelon le journal américain Sun-Sentinel le 22 novembre 2026 à 22h07, les démocrates ont gagné 44 sièges supplémentaires. Ce chiffre dépasse de quatre sièges le gain de 40 sièges obtenu lors des élections de mi-mandat de 2018 sous le premier mandat de Donald Trump.\n\nSelon le journal français Le Figaro le 23 novembre 2026 à 01h22, le Parti républicain détient au moins 173 sièges à la Chambre des représentants. Selon le journal espagnol El País le 22 novembre 2026 à 23h08, quatre scrutins restent encore non attribués à cette date.\n\nOutre la Chambre des représentants, le Parti démocrate conserve le contrôle du Sénat américain. Selon Le Figaro le 23 novembre 2026 à 01h22, la chambre haute compte 56 sièges démocrates contre 44 sièges républicains. Le journal indien The Hindu indique le 23 novembre 2026 à 09h10 que le Parti démocrate a aussi remporté l'élection du gouverneur dans l'État de Géorgie.\n\nSelon le journal brésilien Folha de S.Paulo le 22 novembre 2026 à 23h59, ce résultat électoral survient après la hausse des prix et durant le second mandat du président Donald Trump.\n\nLes résultats définitifs pour les quatre derniers sièges restants ne sont pas encore connus.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "sun-sentinel.com",
+     "url": "https://sun-sentinel.com/2026/11/22/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-22/los-democratas-se-aseguran-la-mayor-victoria-en-la-camara-de-representantes-desde-1992.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992.shtml"
+    },
+    {
+     "nom": "dailyliberal.com.au",
+     "url": "https://dailyliberal.com.au/story/9396114/us-democrats-clinch-historic-majority-of-house-seats"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/midterms-2026-les-derniers-depouillements-confirment-la-victoire-historique-du-parti-democrate-20261122"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
+    }
+   ],
+   "premiere_parution": "2026-11-22T18:07:01Z",
+   "suite_de": null,
+   "mots": 295,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "La conférence climatique de l'ONU à Antalya s'achève sans accord",
+   "chapeau": "Les négociateurs de la COP31 ont mis fin à leurs travaux le dimanche 22 novembre 2026 à Antalya, en Turquie, sans parvenir à un accord final. Les pays participants n'ont pas trouvé de consensus sur l'avenir des énergies fossiles et sur le financement de l'adaptation climatique.",
+   "corps": "La 31e conférence des Nations unies sur le changement climatique s'est conclue le dimanche 22 novembre 2026 à Antalya, en Turquie. Les négociations ont durement achoppé sur la question de la sortie du charbon, du pétrole et du gaz, ainsi que sur l'aide financière accordée aux pays vulnérables touchés par le réchauffement global. La rencontre a dépassé son calendrier prévu de deux jours après deux semaines de discussions, ce qui en fait le sommet climatique le plus long de l'histoire de l'ONU selon les données de Reuters et de la BBC enregistrées le 23 novembre 2026.\n\nLe blocage principal découle de l'absence de consensus autour d'un texte soumis par la présidence de la COP31. Environ 130 parties représentées, incluant l'Union européenne, le Royaume-Uni et le Panama, ont rejeté ce projet de document final. Darragh O'Brien, ministre de l'Environnement de l'Irlande et s'exprimant au nom de l'Union européenne, a déclaré que la proposition faite était inacceptable car elle ne mentionnait pas les combustibles fossiles. Les représentants du Panama et d'autres délégations ont affirmé que le texte proposé cherchait à masquer l'impact de ces énergies polluantes.\n\nLes divisions géopolitiques sont apparues nettement entre plusieurs groupes d'États. Une coalition menée par l'Union européenne et soutenue par plusieurs pays en développement a refusé de valider un texte exempt d'engagements clairs sur l'abandon progressif du gaz, du pétrole et du charbon. À l'opposé, des pays comme l'Inde, la Chine, la Arabie saoudite et les membres du groupe arabe se sont opposés aux contraintes exigées sur les politiques d'énergies fossiles.\n\nFace à l'échec des discussions à Antalya, le Secrétaire général de l'Organisation des Nations unies, António Guterres, a qualifié ce résultat de recul profondément décevant tout en rappelant la certitude des conclusions scientifiques sur le climat. L'absence d'accord final relance les discussions au sein des délégations sur le principe de décision à l'unanimité qui régit les conférences climatiques de l'ONU.\n\nIl manque des informations sur la désignation du prochain pays hôte pour la COP32 et sur la reprise des négociations formelles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168855"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/global-climate-talks-have-collapsed-here-is-what-just-happened"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse"
+    }
+   ],
+   "premiere_parution": "2026-11-20T20:31:00Z",
+   "suite_de": null,
+   "mots": 381,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Controverses aux États-Unis après l'arrestation par l'ICE à Seattle",
+   "chapeau": "Les autorités de l'État de Washington et du Port de Seattle ont vivement réagi à l'interpellation de deux personnes par la police fédérale de l'immigration à l'aéroport international de Seattle-Tacoma le samedi 21 novembre 2026. La diffusion de vidéos filmées par des passagers a relancé le débat politique sur les méthodes d'intervention des agents fédéraux.",
+   "corps": "Cette opération fait suite à l'arrestation, le 21 novembre 2026, de deux voyageurs par des agents masqués du service d'immigration sur la passerelle d'embarquement d'un vol Alaska Airlines à destination de Los Angeles.\n\nLe Service d'immigration et de douane des États-Unis (ICE) a confirmé l'arrestation de deux personnes au sein de l'aéroport. L'agence fédérale justifie cette mesure en indiquant que ces deux individus avaient dépassé la durée d'autorisation délivrée par leur visa.\n\nL'administration de l'aéroport, par la voix du Port de Seattle, a publié une déclaration officielle contestant le déroulement de l'intervention. L'organisme indique que l'arrestation a causé du désarroi chez la famille concernée ainsi que chez les autres voyageurs présents dans le terminal, et signale que l'intervention a causé un retard pour le vol concerné. Le Port de Seattle annonce l'ouverture de démarches auprès des responsables fédéraux afin d'obtenir des explications détaillées sur le déroulement des faits.\n\nLe gouverneur de l'État de Washington est intervenu publiquement pour critiquer l'opération. Il a qualifié l'intervention d'horrible et de glaçante, estimant que la police fédérale de l'immigration agissait de manière hors de contrôle. Plusieurs représentants politiques, des représentants de la compagnie aérienne ainsi que des organisations syndicales ont également exprimé leurs inquiétudes concernant les méthodes employées dans l'enceinte aéroportuaire.\n\nL'événement s'inscrit dans un contexte de critiques visant l'ICE, créée sous la présidence de Donald Trump. Des rapports récents ont mis en évidence des défaillances de gestion au sein de cette administration fédérale.\n\n## Ce que disent les sources\n\nLes informations concernant l'identité des deux personnes interpellées varient selon les médias. Le journal espagnol El País indique le 22 novembre 2026 à 05h44 qu'il s'agit de deux ressortissants mexicains. Le journal espagnol ABC précise de son côté le 22 novembre 2026 à 15h16 que les deux passagers arrêtés sont un père et sa fille.\n\nLes détails sur l'identité exacte des agents intervenus n'ont pas été communiqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/migracion/2026-11-22/agentes-del-ice-causan-terror-al-detener-a-dos-personas-en-el-embarque-de-un-vuelo-en-seattle.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/article71730599.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-governor/a-80012480?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/washington-governor-calls-ice-out-of-control-after-airport-arrests"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/22/arrestations-de-l-ice-dans-un-aeroport-le-gouverneur-de-washington-denonce-une-police-de-l-immigration-hors-de-controle_6814205_3210.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/agentes-ice-desatan-panico-aeropuerto-seattle-detener-20261122121325-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/video-verticali/blitz-dell-ice-all-aeroporto-di-seattle-agenti-mascherati-fermano-due-persone/c78f32e4-7b4b-4ad7-971c-3aaa673a2xlk"
+    }
+   ],
+   "premiere_parution": "2026-11-22T00:00:00Z",
+   "suite_de": "2026-11-22-monde-002",
+   "mots": 367,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-005",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Israël : discussions sans accord entre Gadi Eisenkot et le Likoud",
+   "chapeau": "Le parti centriste Yashar de Gadi Eisenkot et le Likoud de Benyamin Nétanyahou se sont séparés sans accord dimanche 22 novembre 2026 à Herzliya. Les deux formations politiques tentent de négocier une coalition gouvernementale après les élections législatives de la fin du mois d'octobre.",
+   "corps": "L'ancien chef des forces armées Gadi Eisenkot tente de constituer une majorité au Parlement. Son parti Yashar a invité le Likoud du Premier ministre sortant à engager des pourparlers pour former un gouvernement d'union nationale. Les représentants des deux camps ont discuté pendant plus de quatre heures sans parvenir à un compromis.\n\nLes discussions butent sur plusieurs points de désaccord. Le Likoud impose le rejet d'un État palestinien et l'exclusion des partis arabes de la coalition. Les deux formations s'opposent également sur l'attribution de la direction du gouvernement et sur la présence du ministre d'extrême droite Itamar Ben-Gvir.\n\nLe bloc centriste étudie en parallèle d'autres alliances, notamment avec les formations ultra-orthodoxes. Gadi Eisenkot dispose d'un délai fixé au 6 décembre pour bâtir son gouvernement. Une nouvelle session de négociations entre les deux partis reste prévue.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/gadi-eisenkot-invites-netanyahus-party-for-israeli-coalition-talks"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/israel-news/israel-politics/2026-11-22/ty-article/.premium/members-of-eisenkots-yashar-netanyahus-likud-meet-for-coalition-talks/000001a2-030b-d175-abf6-1f3f54b90000"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/netanyahu-eisenkot-parties-resume-talks-to-form-israel-government/article71732120.ece"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/moyen-orient/20261122-isra%C3%ABl-pas-d-avanc%C3%A9e-entre-les-partis-d-eisenkot-et-de-netanyahu-pour-la-formation-d-un-gouvernement"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+    }
+   ],
+   "premiere_parution": "2026-11-21T13:49:24Z",
+   "suite_de": null,
+   "mots": 179,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Donald Trump maintient ses propos sur Vladimir Poutine face aux critiques",
+   "chapeau": "Le président américain a défendu le fait d'avoir qualifié le président russe d'ami après leur rencontre en Chine. Cette déclaration a suscité des réactions négatives de la part de l'Ukraine, du Royaume-Uni et de responsables américains entre le 20 et le 22 novembre 2026.",
+   "corps": "Le président américain Donald Trump a affirmé le 20 novembre 2026 qu'il ne pouvait pas s'exprimer au nom des Américains pour déterminer si le dirigeant russe Vladimir Poutine était un ami des États-Unis. Il réagissait aux commentaires créés par sa rencontre du 19 novembre 2026 en Chine avec le chef d'État russe.\n\nLe président ukrainien Volodymyr Zelensky a déclaré le 21 novembre 2026 que le président russe est un assassin pour les Ukrainiens. Il a ajouté que la position américaine ne facilitait pas la résolution de la guerre. De son côté, le ministre britannique Hamish Falconer a qualifié Vladimir Poutine de boucher le 22 novembre 2026 et a affirmé qu'il n'était pas un ami du Royaume-Uni.\n\nAux États-Unis, le directeur du renseignement national Jay Clayton est intervenu le 22 novembre 2026 dans les médias. Il a déclaré que Vladimir Poutine n'était pas l'ami des États-Unis concernant le sujet ukrainien. Il a toutefois défendu les termes employés par Donald Trump. Il a affirmé faire une confiance totale au président américain et a jugé sa remarque appropriée dans le contexte de la réunion diplomatique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "kwtx.com",
+     "url": "https://kwtx.com/2026/11/20/trump-defends-calling-putin-friend-says-he-cant-speak-whether-hes-friend-us"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/trump-defends-calling-russias-putin-a-friend-but-says-he-cant-speak-to-whether-hes-a-friend-to-the"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/nao-posso-falar-pelos-eua-diz-trump-ao-responder-se-putin-e-amigo-do-pais.shtml"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-21/zelenski-despues-de-que-trump-se-refiriera-a-putin-como-un-amigo-para-nosotros-es-un-asesino.html"
+    },
+    {
+     "nom": "eastlothiancourier.com",
+     "url": "https://eastlothiancourier.com/news/national/26751515.minister-condemns-trumps-embrace-butcher-putin"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his"
+    }
+   ],
+   "premiere_parution": "2026-11-20T18:54:22Z",
+   "suite_de": "2026-11-21-monde-008",
+   "mots": 226,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-007",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Recommandations et réactions internationales après la condamnation de la Birmanie",
+   "chapeau": "À la suite de la décision de la Cour internationale de justice du 19 novembre 2026 à La Haye condamnant la Birmanie pour génocide, le président de l'Assemblée générale de l'ONU s'est rendu le 20 novembre 2026 dans les camps de réfugiés au Bangladesh. Cette visite dans la région de Cox's Bazar vise à demander l'application concrète de l'arrêt exigeant le retour des populations expulsées et des réparations financières.",
+   "corps": "Le 19 novembre 2026, la Cour internationale de justice a reconnu la Birmanie responsable de génocide contre la minorité musulmane rohingya.\n\nLes membres de la communauté rohingya vivant dans les camps de réfugiés au Bangladesh ont accueilli favorablement l'arrêt de la juridiction internationale. Ils déclarent vouloir retourner dans leur pays, mais ils précisent que l'obtention de changements réels représentera un processus long et difficile. D'après Le Figaro le 20 novembre 2026, 750 000 personnes ont fui les violences depuis 2017. La chaîne franceinfo mentionne de son côté le 21 novembre 2026 un chiffre supérieur à 700 000 personnes.\n\nAu cours de son déplacement le 20 novembre 2026 à Cox's Bazar, le président de l'Assemblée générale de l'ONU a déclaré aux réfugiés que la communauté internationale ne les laisserait pas seuls. Il a demandé aux États de transformer le verdict en actions concrètes. Les Nations unies appellent les autorités birmanes installées à Naypyidaw à autoriser le retour des populations déplacées.\n\nLes institutions internationales et plusieurs acteurs juridiques ont réagi à la décision. Philippe Sands, avocat franco-britannique ayant représenté la Gambie contre la Birmanie devant la Cour, a affirmé sur France 24 le 23 novembre 2026 que cet arrêt constitue un moment clé de l'histoire du droit. Le journal The Hindu souligne le 22 novembre 2026 que la Cour internationale de justice ne possède aucun moyen propre pour exécuter sa décision et forcer la Birmanie à respecter le jugement. Les médias Haaretz, Al Jazeera et Le Monde indiquent que la décision sur la Birmanie pourrait influencer la procédure engagée par l'Afrique du Sud contre Israël à propos de la bande de Gaza.\n\n## Ce que disent les sources\n\nLes médias présentent des informations divergentes sur la position de l'Union européenne. Le canal franceinfo affirme le 21 novembre 2026 que l'Union européenne a salué la décision de la Cour internationale de justice. Le journal Libération indique pour sa part le 21 novembre 2026 que l'organisation internationale s'est limitée à prendre note du verdict.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168853"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/world-news/asia-and-australia/2026-11-20/ty-article-magazine/.premium/the-icj-has-found-a-country-guilty-of-genocide-israel-should-be-worried/000001a1-f85f-d5b4-a3bd-f97f72a30000"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/la-birmanie-condamnee-pour-genocide-contre-les-rohingyas-20261120"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/genocide-des-rohingyas-min-aung-hlaing-le-general-president-qui-a-attise-la-haine-20261120"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/se-asia/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home-to-myanmar"
+    }
+   ],
+   "premiere_parution": "2026-11-20T08:11:49Z",
+   "suite_de": "2026-11-22-monde-001",
+   "mots": 398,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-008",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "L'arrestation du chef de cartel Fausto Isidro Meza provoque des violences",
+   "chapeau": "Les forces armées mexicaines ont arrêté Fausto Isidro Meza, dirigeant présumé d'un cartel de la drogue et recherché par la police fédérale américaine, dans l'État de Sinaloa au nord-ouest du Mexique. L'intervention militaire déroulée le vendredi 20 novembre 2026 à Guasave a provoqué des affrontements armés mortels et une vague de violences dans plusieurs localités.",
+   "corps": "Les forces armées mexicaines avaient arrêté Fausto Isidro Meza le vendredi 20 novembre 2026 dans l'État de Sinaloa lors d'une opération spéciale ayant déclenché des combats violents.\n\nL'armée mexicaine a capturé le suspect, également appelé Chapo Isidro, aux côtés de deux autres cadres de son organisation de trafic de stupéfiants lors d'un raid utilisant des hélicoptères et des véhicules blindés. Le ministère mexicain de la Sécurité a rendu publique cette arrestation le samedi 21 novembre 2026 au matin. Fausto Isidro Meza figure sur la liste des dix criminels les plus recherchés par le Bureau fédéral d'enquête américain, le FBI. La justice américaine le recherche pour des accusations de trafic de stupéfiants vers le territoire américain depuis plus de vingt ans et pour des faits de torture.\n\nL'assaut militaire a donné lieu à des affrontements armés qui ont fait onze morts selon les bilans publiés le samedi 21 novembre 2026 par NPR, France 24 et franceinfo. Les fusillades ont plongé la ville de Guasave dans le désordre et provoqué la panique dans un stade local. Des élèves sont demeurés confinés à l'intérieur de leurs écoles et des conducteurs ont été contraints de s'abriter dans des stations-service environnantes pendant les échanges de tirs.\n\nÀ la suite de cette opération, les membres des groupes criminels ont entrepris des actions de représailles. Des hommes armés ont engagé de lourds combats contre les forces de sécurité et ont semé le chaos dans l'État de Sinaloa au cours des heures suivantes.\n\nLe gouvernement des États-Unis a salué la réussite de cette intervention et a qualifié l'événement de victoire importante dans la lutte contre le crime organisé. Selon El País le dimanche 22 novembre 2026, ce succès consolide le changement de stratégie de la présidente mexicaine Claudia Sheinbaum après les arrestations antérieures d'autres chefs de cartels surnommés El Mencho, El Jardinero et Los R.\n\n## Ce que disent les sources\n\nLe jour exact de l'arrestation fait l'objet de versions différentes. Selon The Straits Times, The Guardian, Deutsche Welle et France 24, les forces de sécurité ont capturé le suspect dans la nuit du vendredi 20 novembre 2026. La station de radio NPR rapporte quant à elle que cette arrestation s'est produite le samedi 21 novembre 2026.\n\nL'identité des onze personnes décédées lors des affrontements n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-captures"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-21/mexico-arrests-sinaloa-drug-kingpin-on-fbi-s-most-wanted-list"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckz749ey0r75o"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_22/il-boss-della-droga-el-chapo-isidro-arrestato-in-messico-11-morti-sparatorie-in-strada-guerriglia-e-panico-allo-stadio-7cc16323-c5d0-4a72-8997-e76119a64xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-20T12:00:00Z",
+   "suite_de": "2026-11-22-monde-003",
+   "mots": 437,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-009",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "La chercheuse d'origine chinoise Eva Yi Xie transférée dans un centre de détention",
+   "chapeau": "Les autorités migratoires américaines ont transféré la doctorante Eva Yi Xie dans un centre de détention après son arrestation le 19 novembre 2026 à l'aéroport de Washington. La chercheuse d'origine chinoise de l'université de Princeton rentrait d'un colloque scientifique.",
+   "corps": "La police migratoire américaine a arrêté la doctorante Eva Yi Xie jeudi 19 novembre 2026 à l'aéroport de Washington alors qu'elle revenait d'un congrès sur les neurosciences. Les agents fédéraux ont envoyé cette chercheuse de 24 ans dans un centre de détention. Les autorités affirment que l'étudiante ne peut pas rester sur le territoire des États-Unis.\n\nEva Yi Xie vit aux États-Unis depuis dix ans. Elle effectue sa troisième année de doctorat à l'Institut de neuroscience de l'université de Princeton. Ses recherches portent sur les mécanismes neuronaux de la prise de décision. Elle avait déposé une demande d'asile auprès des services américains.\n\nLe tuteur de la doctorante et ses collègues ont dénoncé cette arrestation. Il s'agit de la première détention connue d'une étudiante de l'université de Princeton par des agents fédéraux. La communauté académique demande le maintien de la chercheuse au sein de l'établissement. Deux autres arrestations ont eu lieu dans un aéroport à Seattle.\n\nDes informations précises sur le lieu exact du centre de détention n'ont pas été communiquées.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/migracion/2026-11-20/ice-detiene-a-una-estudiante-china-de-princeton-al-volver-de-un-congreso-de-neurociencia.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_22/ricercatrice-di-princeton-arrestata-dall-ice-a-washington-e-portata-in-un-centro-di-detenzione-8b8c34e5-7eca-4207-a73c-66401cb30xlk.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-20T18:33:17Z",
+   "suite_de": "2026-11-22-monde-004",
+   "mots": 209,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-monde-010",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Le ministre sud-coréen de l'Éducation démissionne après un scandale de triche",
+   "chapeau": "Le ministre de l'Éducation sud-coréen Choi Kyo-jin a présenté sa démission dimanche 22 novembre 2026 à Séoul. Le président Lee Jae Myung a accepté ce départ après les critiques visant la gestion administrative des fraudes par intelligence artificielle lors d'examens nationaux.",
+   "corps": "L'affaire a débuté le dimanche 15 novembre 2026. Le candidat ayant obtenu la meilleure note à un examen national d'expert-comptable a avoué l'utilisation d'un téléphone portable et d'une caméra miniature pour tricher avec une intelligence artificielle.\n\nCette révélation a provoqué l'inquiétude des autorités avant le test national d'accès à l'université organisé la semaine suivante. Le ministère de l'Éducation a réagi en interdisant les téléphones portables et en instaurant des fouilles vestimentaires pour détecter les caméras cachées. Ces consignes de dernière minute ont engendré des désordres durant les épreuves.\n\nLe ministre Choi Kyo-jin, âgé de 72 ans, a déclaré qu'il n'avait pas préparé correctement l'organisation du concours. Ses remarques affirmant qu'il était trop âgé pour faire face à la triche par intelligence artificielle ont provoqué la colère du public. Le président Lee Jae Myung a validé sa démission le dimanche 22 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw3dgk29d37no"
+    },
+    {
+     "nom": "AFP",
+     "url": "https://afp.com/en/south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1"
+    }
+   ],
+   "premiere_parution": "2026-11-22T04:06:08Z",
+   "suite_de": null,
+   "mots": 183,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-france-001",
+   "rubrique": "france",
+   "format": "standard",
+   "titre": "Procès de l'agression de Michel Zecler : les réactions succèdent au verdict",
+   "chapeau": "La cour criminelle de Paris a condamné trois policiers, vendredi 20 novembre 2026, pour des violences à caractère raciste et la rédaction d'un rapport mensonger contre le producteur Michel Zecler. À la suite du délibéré, la victime et ses conseils juridiques ont pris la parole durant le week-end à Paris pour commenter les sanctions prononcées.",
+   "corps": "Pour rappel, la cour criminelle de Paris a infligé vendredi 20 novembre 2026 des peines de prison ferme à trois fonctionnaires pour des violences commises en novembre 2020.\n\nLes juges ont retenu la circonstance de racisme à l'encontre des trois prévenus. Selon Le Figaro le 23 novembre 2026, la cour criminelle de Paris a prononcé des peines pouvant atteindre cinq ans d'emprisonnement, dont trois ans avec sursis. Selon France 24 le 21 novembre 2026, la partie ferme des sanctions s'étend de douze mois exécutés sous bracelet électronique jusqu'à deux ans d'emprisonnement ferme. Selon France 24 le 23 novembre 2026, les magistrats ont également prononcé une interdiction d'exercer la profession d'agent de police.\n\nLes faits s'étaient déroulés devant puis à l'intérieur du studio de musique du producteur. Les trois agents de police avaient roué de coups la victime avant d'inscrire sur leur rapport officiel que le producteur les avait attaqués. Les débats devant la cour criminelle de Paris se sont déroulés sur une durée de deux semaines en présence d'un public nombreux.\n\nLes représentants légaux du producteur de musique ont commenté le délibéré à l'issue de l'audience et les jours suivants. Selon France 24 le 21 novembre 2026, Maître Serge Money et Maître Seydi Ba ont exprimé leur satisfaction concernant le maintien de la qualification raciste. Les deux avocats considèrent que cette décision judiciaire constitue une référence utile pour les citoyens dénonçant des injures ou des violences subies de la part de fonctionnaires de police.\n\nToutefois, Maître Serge Money a fait part d'une insatisfaction relative quant au niveau des peines fixées par la cour. Le tribunal a décidé d'infliger des condamnations moins lourdes que les peines réclamées par le ministère public lors des réquisitions.\n\nL'avocate Caroline Toby a souligné l'importance des preuves visuelles recueillies au cours de l'enquête. Selon France 24 le 23 novembre 2026, le producteur de musique aurait subi une erreur judiciaire sans le soutien des images captées par les caméras de sécurité de son établissement. Ces enregistrements vidéo ont démenti les déclarations écrites déposées initialement par les agents de police.\n\nLe producteur s'est lui-même exprimé sur la portée de cette condamnation. Selon Le Figaro le 23 novembre 2026, Michel Zecler considère que le prononcé de punitions plus dissuasives aurait garanti une meilleure efficacité pour prévenir de futurs agissements similaires dans la police.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/proces-zecler-les-trois-policiers-condamnes-a-cinq-ans-de-prison-le-caractere-raciste-retenu-20261120"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/actualite-france/affaire-michel-zecler-le-recit-mensonger-des-policiers-mis-a-nu-au-proces-20261120"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/societe/police-justice/racisme-mensonges-incompetence-ce-que-le-proces-des-agresseurs-de-michel-zecler-dit-de-la-police-francaise-20261121_43MGR2EKZBFOXN77M5LOWKB5OY"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/serge-money-avocat-de-michel-zecler-salue-une-decision-historique-mais-les-peines-laissent-un-petit-gout-amer_8293472.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261121-au-proc%C3%A8s-zecler-le-racisme-retenu-prison-ferme-pour-trois-policiers"
+    }
+   ],
+   "premiere_parution": "2026-11-20T10:38:34Z",
+   "suite_de": "2026-11-21-france-001",
+   "mots": 439,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "L'Ukraine revendique la destruction d'une corvette russe au port de Benghazi",
+   "chapeau": "Le président ukrainien Volodymyr Zelensky a déclaré le lundi 23 novembre 2026 que les forces de son pays ont coulé la corvette russe Merkury au large de la Libye. L'attaque s'est produite au port de Benghazi où le bâtiment militaire faisait escale pour effectuer son ravitaillement.",
+   "corps": "Des explosions et un incendie ont touché le navire de guerre russe Merkury alors qu'il se trouvait à quai dans la base navale de Benghazi, dans l'est de la Libye. Les premières détonations sont survenues dimanche 22 novembre 2026 tôt le matin. L'embouchure du port et les installations militaires côtières ont subi des dégâts importants à la suite des frappes et du départ de feu qui a suivi.\n\nLe bâtiment touché est la corvette Merkury, un navire récent de la marine russe mis en service en 2023. L'embarcation avait fait escale dans l'est libyen pour faire le plein de carburant et s'approvisionner en fournitures diverses. Le navire accomplissait son voyage du retour vers le territoire de la Fédération de Russie au moment des faits. Deux responsables militaires libyens ont confirmé que plusieurs drones ont ciblé le navire ainsi que d'autres embarcations stationnées dans le même périmètre portuaire.\n\nSelon les autorités de l'est de la Libye, l'incendie s'est déclaré immédiatement après la première série d'explosions à bord. Un second navire, identifié comme un cargo, a également pris feu lors des attaques répétées menées dans la même zone navale. Les gouvernements locaux ont rapidement évoqué l'intervention d'engins non identifiés et sans pilote avant que les détails de l'opération ne soient précisés par les belligérants.\n\nLe président ukrainien Volodymyr Zelensky a pris la parole le lundi 23 novembre 2026 pour attribuer cette action à ses troupes. Le chef d'État a qualifié la frappe d'opération exemplaire menée par des véhicules marins sans pilote. Sept drones navals construits sur le territoire ukrainien ont été déployés pour détruire le navire russe. Les autorités ukrainiennes ont confirmé avoir ciblé le Merkury ainsi qu'un cargo navigant à proximité des côtes libyennes.\n\nSelon des responsables officiels cités par la presse, les drones marins auraient été lancés depuis une base située dans la partie occidentale de la Libye. Cette installation dans l'ouest libyen serait gérée et opérée par des forces ukrainiennes. Les engins ont parcouru la distance nécessaire jusqu'à la base navale de Benghazi pour atteindre la corvette amarrée.\n\n## Ce que disent les sources\n\nLe média CJME indique le 22 novembre 2026 à 04h15 que le navire russe a subi de lourds dégâts et qu'un incendie s'est déclaré après le lancement de plusieurs drones marins depuis l'ouest de la Libye. Reuters rapporte le 22 novembre 2026 à 16h00 que la corvette Merkury est considérablement endommagée par des explosions et un incendie sans mentionner le naufrage du navire. Bloomberg indique le 22 novembre 2026 à 18h57 que les autorités de l'est libyen attribuent l'explosion à des véhicules sans pilote et mentionnent un second navire en feu dans la même zone. Al Jazeera rapporte le 22 novembre 2026 à 21h12 qu'aucune revendication n'a été formulée immédiatement et que la Russie n'a émis aucune réaction directe. The Guardian indique le 23 novembre 2026 à 01h33 que le navire de guerre russe a coulé dans le port de Benghazi après la frappe. Le journal The Hindu précise le 23 novembre 2026 à 09h37 que deux responsables militaires libyens attribuent l'attaque à des drones marins ukrainiens ayant provoqué un incendie dans la base. Le journal The Straits Times rapporte le 23 novembre 2026 à 11h57 les propos de Volodymyr Zelensky affirmant que sept drones navals de fabrication ukrainienne ont coulé la corvette Merkury et atteint un cargo près du littoral libyen.\n\nLe nombre exact de victimes humaines à bord des navires touchés et l'ampleur des dégâts matériels subis par la base navale de Benghazi ne sont pas précisés dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "cjme.com",
+     "url": "https://cjme.com/2026/11/22/suspected-ukrainian-drones-hit-russian-warship-in-libya-port"
+    },
+    {
+     "nom": "Reuters",
+     "url": "https://reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-22/eastern-libya-says-blast-on-russian-ship-likely-due-to-attack"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cr894gjz0j0yo"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base-libyan-officials-say/article71733178.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-22T00:15:00Z",
+   "suite_de": null,
+   "mots": 632,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-sciences-001",
+   "rubrique": "sciences",
+   "format": "standard",
+   "titre": "La mission BepiColombo s'est insérée en orbite autour de Mercure",
+   "chapeau": "L'Agence spatiale européenne et l'Agence d'exploration aérospatiale japonaise ont placé la mission spatiale BepiColombo en orbite autour de la planète Mercure après un trajet de huit ans. La manœuvre d'insertion des deux engins d'exploration s'est déroulée lors du week-end des 21 et 22 novembre 2026 à proximité de l'astre le plus proche du Soleil.",
+   "corps": "La mission spatiale conjointe menée par l'Europe et le Japon s'était élancée depuis la Terre en octobre 2018. L'ensemble spatial d'une masse de quatre tonnes a parcouru une distance totale supérieure à dix milliards de kilomètres, selon les chiffres rapportés par le média franceinfo le 22 novembre 2026. L'engin a réalisé un parcours complexe dans le système solaire interne. L'appareil a modifié sa trajectoire ainsi que sa vitesse pendant huit années de transit afin de s'insérer correctement dans le champ de gravité de sa destination.\n\nLe vaisseau spatial transporte deux satellites scientifiques distincts sous une structure commune. Ces deux modules doivent se détacher prochainement pour commencer leurs opérations individuelles. Chaque sonde adoptera une trajectoire spécifique autour du corps céleste pour accomplir ses objectifs propres. Le premier satellite mesurera la topographie et la composition chimique de la surface rocheuse. Le deuxième satellite analysera la structure du champ magnétique ainsi que les particules présentes dans l'environnement spatial proche.\n\nCette arrivée fait de la mission le troisième survol de l'histoire spatiale au voisinage de Mercure. BepiColombo devient en outre seulement le deuxième engin automatisé de l'histoire à s'insérer en orbite autour de cet astre de petite taille. La planète demeure le corps rocheux le moins étudié du système solaire en raison de sa grande proximité avec le Soleil.\n\nLes scientifiques espèrent exploiter ces mesures pour résoudre de nombreuses interrogations sur la formation et l'évolution des planètes. Les chercheurs souhaitent déterminer la raison pour laquelle cette planète possède un champ magnétique propre. Les équipes tenteront aussi d'expliquer la présence de glace d'eau au fond des cratères situés près des pôles. Les instruments observeront également d'étranges dépressions géologiques nommées cavités qui émaillent la surface rocheuse.\n\nLes médias The Straits Times et The Hindu ont mentionné le 23 novembre 2026 un problème technique survenu pendant l'insertion orbitale. La nature exacte et l'impact de ce dysfonctionnement ne sont pas détaillés par les agences spatiales.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Nature",
+     "url": "https://nature.com/articles/d41586-026-03803-8"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/mercury-bepicolombo-space-planet-esa-0c80bbf2039ed4f6ee4a34426b3594a0"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sciences/article/2026/11/21/les-mysteres-de-mercure-l-etrange-planete-du-systeme-solaire-que-la-mission-bepicolombo-devrait-lever_6814059_1650684.html"
+    },
+    {
+     "nom": "news4jax.com",
+     "url": "https://news4jax.com/tech/2026/11/22/little-mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit"
+    },
+    {
+     "nom": "standard.net.au",
+     "url": "https://standard.net.au/story/9395953/little-mercury-gets-its-first-visitor-in-years"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261122-apr%C3%A8s-huit-ans-de-voyage-la-mission-bepicolombo-est-entr%C3%A9e-dans-l-orbite-de-mercure"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c39w9l4v1p9ro"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sciences/espace/la-mission-spatiale-bepicolombo-est-entree-dans-l-orbite-de-mercure-apres-huit-ans-de-voyage_8294507.html"
+    }
+   ],
+   "premiere_parution": "2026-11-21T00:00:00Z",
+   "suite_de": null,
+   "mots": 371,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-23-culture-001",
+   "rubrique": "culture",
+   "format": "breve",
+   "titre": "Les obsèques de l'homme d'affaires Paolo Bulgari se tiennent ce lundi à Rome",
+   "chapeau": "La famille de Paolo Bulgari organise la cérémonie funèbre du joaillier italien ce lundi 23 novembre 2026 à Rome. L'ancien dirigeant du groupe de luxe s'est éteint samedi 21 novembre 2026 à l'âge de 89 ans.",
+   "corps": "La cérémonie d'adieu à Paolo Bulgari se déroule en la basilique Santa Croce in Gerusalemme, dans la capitale italienne. Les proches de l'homme d'affaires avaient fait part de son décès survenu samedi dernier.\n\nPaolo Bulgari dirigeait l'entreprise familiale depuis 1984. Petit-fils du fondateur Sotirio Bulgari, il exerçait la présidence de la société spécialisée dans les pierres précieuses, qu'il a cédée en 2011 au groupe français LVMH conjointement avec son frère Nicola. Il a conservé ses fonctions de président au sein de la maison de haute joaillerie après cette transaction.\n\nLe dirigeant avait également apporté des financements privés pour soutenir le réaménagement d'une place située dans le quartier populaire de Tor Bella Monaca, à Rome. Les détails relatifs à l'organisation de la succession financière ou aux représentants officiels présents lors des funérailles restent inconnus à ce jour.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/moda/26_novembre_21/e-morto-paolo-bulgari-addio-al-grande-gioielliere-aveva-89-anni-3f42ca2e-a40e-4cca-a05c-a113f77b0xlk.shtml"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/mode/paolo-bulgari-le-petit-fils-du-fondateur-de-la-fameuse-marque-de-joaillerie-est-mort-a-l-age-de-89-ans_8293886.html"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/gente/2026-11-21/muere-paolo-bulgari-presidente-de-la-firma-de-joyas-italiana-bvlgari-a-los-89-anos.html"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/disparitions/article/2026/11/21/paolo-bulgari-president-du-groupe-de-joaillerie-rachete-par-lvmh-est-mort-a-89-ans_6814053_3382.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/morre-paolo-bulgari-aos-89-anos-herdeiro-que-ajudou-a-levar-a-joalheria-italiana-ao-mundo.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442"
+    },
+    {
+     "nom": "wsbradio.com",
+     "url": "https://wsbradio.com/news/world/paolo-bulgari/KKVPMOFKBY73TMIE6MAGQRFLSU"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/21/italiaanse-juwelenontwerper-en-zakenman-paolo-bulgari-overleden-a4941992"
+    }
+   ],
+   "premiere_parution": "2026-11-21T12:29:38Z",
+   "suite_de": "2026-11-22-culture-001",
+   "mots": 172,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-23-monde-001",
+  "2026-11-23-monde-002",
+  "2026-11-23-monde-003",
+  "2026-11-23-monde-004",
+  "2026-11-23-geopolitique-001",
+  "2026-11-23-sciences-001",
+  "2026-11-23-culture-001",
+  "2026-11-23-monde-005"
+ ]
+}

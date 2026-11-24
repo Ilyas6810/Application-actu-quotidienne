@@ -1,6 +1,108 @@
 {
- "maj": "2026-11-24T02:16:24Z",
+ "maj": "2026-11-24T13:48:44Z",
  "alertes": [
+  {
+   "id": "2026-11-24-alerte-02",
+   "date": "2026-11-24",
+   "publiee_a": "2026-11-24T13:48:39Z",
+   "titre": "L'armée israélienne tue le chef de la sécurité du Hamas",
+   "texte": "L'armée israélienne a tué le responsable de la sécurité intérieure du Hamas mardi 24 novembre 2026 à Gaza. Les bombardements menés dans l'ouest de la ville ont fait plusieurs morts selon les autorités locales.",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/gaza-des-frappes-israeliennes-font-six-morts-dont-un-adolescent-selon-les-secours-20261124"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/gaza-une-frappe-israelienne-fait-6-morts-le-responsable-de-la-securite-interieure-du-hamas-tue-20261124_EQIECSE2WNDRRAR52APIQFL34Q"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6rrg7ggq190o"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/moyen-orient/20261124-chef-s%C3%A9curit%C3%A9-int%C3%A9rieure-hamas-tu%C3%A9-gaza-frappe-israel-netanyahu"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/israeli-strikes-in-gaza-kill-7-including-senior-hamas-security-official"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-le-responsable-de-la-securite-interieure-du-hamas-tue-par-une-frappe-israelienne_8297706.html"
+    }
+   ],
+   "cluster": "378aeb0c4c84d8c8",
+   "urls": [
+    "https://bbc.co.uk/news/articles/c6rrg7ggq190o",
+    "https://france24.com/fr/moyen-orient/20261124-chef-s%C3%A9curit%C3%A9-int%C3%A9rieure-hamas-tu%C3%A9-gaza-frappe-israel-netanyahu",
+    "https://franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-le-responsable-de-la-securite-interieure-du-hamas-tue-par-une-frappe-israelienne_8297706.html",
+    "https://franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-font-six-morts-dont-un-adolescent-selon-les-secours_8297418.html",
+    "https://lefigaro.fr/international/gaza-des-frappes-israeliennes-font-six-morts-dont-un-adolescent-selon-les-secours-20261124",
+    "https://lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html",
+    "https://lemonde.fr/international/article/2026/11/24/gaza-six-personnes-tuees-par-des-frappes-israeliennes-selon-les-services-de-secours-palestiniens_6814740_3210.html",
+    "https://liberation.fr/international/moyen-orient/gaza-une-frappe-israelienne-fait-6-morts-le-responsable-de-la-securite-interieure-du-hamas-tue-20261124_EQIECSE2WNDRRAR52APIQFL34Q",
+    "https://straitstimes.com/world/middle-east/israeli-strikes-in-gaza-kill-7-including-senior-hamas-security-official",
+    "https://thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece"
+   ]
+  },
+  {
+   "id": "2026-11-24-alerte-03",
+   "date": "2026-11-24",
+   "publiee_a": "2026-11-24T13:48:44Z",
+   "titre": "Sanofi rachète l'entreprise américaine Insmed pour 37,6 milliards d'euros",
+   "texte": "Le groupe pharmaceutique français Sanofi a conclu un accord ce mardi 24 novembre 2026 pour acquérir la société de biotechnologie américaine Insmed. Cette transaction atteint un montant de 37,6 milliards d'euros, soit 41 milliards de dollars.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/11/24/sanofi-groupe-pharmaceutique-francais-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_6814719_3234.html"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-24/sanofi-agrees-to-buy-us-biotech-insmed-for-41-billion-video"
+    },
+    {
+     "nom": "El País",
+     "url": "https://cincodias.elpais.com/companias/2026-11-24/sanofi-cierra-un-acuerdo-para-comprar-insmed-por-37600-millones-en-la-mayor-operacion-del-sector-farmaceutico-en-tres-anos.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sante/medicament/le-groupe-pharmaceutique-francais-sanofi-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_8297424.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/sanofi-debourse-376-milliards-d-euros-pour-acquerir-l-americain-insmed-et-preparer-son-avenir-20261124"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/laboratoires-pharmaceutiques-avec-le-rachat-de-lamericain-insmed-sanofi-realise-la-plus-grosse-acquisition-de-son-histoire-20261124_JZ6D6TECL5AXPP7EY3F3BRMZSI"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124"
+    }
+   ],
+   "cluster": "094ac562e2f24f2b",
+   "urls": [
+    "https://bloomberg.com/news/videos/2026-11-24/sanofi-agrees-to-buy-us-biotech-insmed-for-41-billion-video",
+    "https://cincodias.elpais.com/companias/2026-11-24/sanofi-cierra-un-acuerdo-para-comprar-insmed-por-37600-millones-en-la-mayor-operacion-del-sector-farmaceutico-en-tres-anos.html",
+    "https://franceinfo.fr/sante/medicament/le-groupe-pharmaceutique-francais-sanofi-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_8297424.html",
+    "https://la-croix.com/sanofi-debourse-376-milliards-d-euros-pour-acquerir-l-americain-insmed-et-preparer-son-avenir-20261124",
+    "https://lefigaro.fr/societes/avec-le-rachat-a-41-milliards-de-dollars-de-l-americain-insmed-sanofi-trouve-enfin-l-operation-qui-assure-son-avenir-20261124",
+    "https://lemonde.fr/economie/article/2026/11/24/sanofi-groupe-pharmaceutique-francais-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_6814719_3234.html",
+    "https://lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
+    "https://liberation.fr/economie/laboratoires-pharmaceutiques-avec-le-rachat-de-lamericain-insmed-sanofi-realise-la-plus-grosse-acquisition-de-son-histoire-20261124_JZ6D6TECL5AXPP7EY3F3BRMZSI"
+   ]
+  },
   {
    "id": "2026-11-24-alerte-01",
    "date": "2026-11-24",

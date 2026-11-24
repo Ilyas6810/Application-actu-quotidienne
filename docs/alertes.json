@@ -1,6 +1,108 @@
 {
- "maj": "2026-11-23T12:55:15Z",
+ "maj": "2026-11-24T02:16:24Z",
  "alertes": [
+  {
+   "id": "2026-11-24-alerte-01",
+   "date": "2026-11-24",
+   "publiee_a": "2026-11-24T02:16:24Z",
+   "titre": "Nvidia réintègre Jensen Huang à sa direction générale lundi",
+   "texte": "Le conseil d'administration de Nvidia a réintégré Jensen Huang aux postes de directeur général et de président lundi aux États-Unis. Cette décision survient après son départ lié à une affaire touchant l'entreprise.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/11/jensen-huang-comprova-o-trumpismo-nao-morreu.shtml"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-feiert-comeback-und-gelobt-besserung-a-aff2ebf3-e78a-40d4-9770-9f19439197f8"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/videos/ckedq2edqegzo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/what-are-the-various-us-federal-and-state-probes-faced-by-nvidia-and-jensen-huang"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-reinstates-jensen-huang-as-ceo"
+    }
+   ],
+   "cluster": "3f2123effdcede1b",
+   "urls": [
+    "https://aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here",
+    "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
+    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-reinstates-jensen-huang-as-ceo",
+    "https://bbc.co.uk/news/articles/cmze750zg0jeo",
+    "https://bbc.co.uk/news/articles/cq5y1k8ez407o",
+    "https://bbc.co.uk/news/videos/ckedq2edqegzo",
+    "https://bbc.co.uk/news/videos/cq8r7e35mkzlo",
+    "https://bbc.co.uk/news/videos/cqze7lwdglngo",
+    "https://bloomberg.com/news/newsletters/2026-11-23/jensen-huang-s-return-to-nvidia-ramps-up-congressional-probes",
+    "https://bloomberg.com/news/videos/2026-11-23/bloomberg-businessweek-daily-11-23-2026-video",
+    "https://bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video",
+    "https://bloomberg.com/news/videos/2026-11-23/jensen-huang-returns-to-nvidia-offices-video",
+    "https://bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/huang-e-recebido-com-aplausos-ao-retornar-a-sede-da-nvidia-veja-video.shtml",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/secretario-do-tesouro-dos-eua-se-recusa-a-descartar-retorno-de-jensen-huang-a-nvidia.shtml",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/trump-teria-articulado-retorno-de-jensen-huang-ao-comando-da-nvidia.shtml",
+    "https://capitalgazette.com/2026/11/23/nvidia-jensen-huang-11-days",
+    "https://dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-xml-mrss",
+    "https://dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-bus-2091-rdf",
+    "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+    "https://elpais.com/us/2026-11-23/jensen-huang-vuelve-a-las-oficinas-de-nvidia-entre-ovaciones-de-los-empleados.html",
+    "https://elpais.com/us/economia/2026-11-23/trump-celebra-el-regreso-de-jensen-huang-a-nvidia-no-representa-algun-riesgo-a-la-seguridad-nacional.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_23?evenement=002ec3d06e",
+    "https://english.elpais.com/economy-and-business/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo.html",
+    "https://france24.com/fr/%C3%A9co-tech/20261123-jensen-huang-r%C3%A9tabli-son-poste-directeur-g%C3%A9n%C3%A9ral-nvidia",
+    "https://france24.com/fr/vid%C3%A9o/20261123-jensen-huang-de-retour-%C3%A0-la-t%C3%AAte-de-nvidia-dans-un-volte-face-inattendu",
+    "https://france24.com/fr/vid%C3%A9o/20261123-nvidia-jensen-huang-retrouve-ses-fonctions-de-directeur-g%C3%A9n%C3%A9ral",
+    "https://franceinfo.fr/internet/nvidia-reintegre-jensen-huang-comme-pdg-apres-son-depart-lie-a-une-affaire-d-espionnage_8296410.html",
+    "https://franceinfo.fr/internet/nvidia/coup-de-theatre-a-nvidia-l-ombre-de-donald-trump_8296782.html",
+    "https://franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html",
+    "https://franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html",
+    "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/nvidia-jensen-huang-redevient-pdg-donald-trump-aux-commandes-de-l-operation_8296710.html",
+    "https://haaretz.com/israel-news/tech-news/2026-11-23/ty-article/jensen-huang-reinstated-as-nvidia-ceo-following-brief-resignation-over-scandal/000001a2-08cd-d7ca-abf6-6edda57b0000",
+    "https://la-croix.com/economie/scandale-nvidia-jensen-huang-reintegre-a-la-tete-du-geant-americain-des-puces-electroniques-20261123",
+    "https://lefigaro.fr/secteur/high-tech/avant-jensen-huang-ces-pdg-boomerang-qui-ont-regagne-la-tete-de-leur-entreprise-apres-en-avoir-ete-ejectes-20261123",
+    "https://lefigaro.fr/secteur/high-tech/en-direct-nvidia-jensen-huang-presse-de-reprendre-le-travail-apres-sa-reintegration-surprise-a-la-tete-de-l-entreprise-20261123",
+    "https://lefigaro.fr/secteur/high-tech/j-ai-hate-de-me-remettre-au-travail-les-coulisses-de-l-invraisemblable-retour-de-jensen-huang-chez-nvidia-20261123",
+    "https://lefigaro.fr/secteur/high-tech/qui-est-jensen-huang-le-puissant-patron-de-nvidia-englue-dans-une-affaire-d-espionnage-presume-et-d-adultere-20261109",
+    "https://lefigaro.fr/secteur/high-tech/remercie-apres-ses-frasques-extraconjugales-jensen-huang-fait-son-retour-a-la-tete-de-nvidia-20261123",
+    "https://lefigaro.fr/secteur/high-tech/retour-de-jensen-huang-a-la-tete-de-nvidia-l-action-du-geant-americain-s-envole-de-pres-de-30-a-wall-street-20261123",
+    "https://lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
+    "https://lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+    "https://liberation.fr/economie/economie-numerique/jensen-huang-rappele-par-nvidia-le-retour-dun-infidele-au-poste-20261123_JSTDI2H2BZCN5CNCX3VPHGWYQY",
+    "https://liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q",
+    "https://liberation.fr/international/amerique/le-sexe-fait-vendre-comment-donald-trump-a-pilote-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261123_HSZPXB34VFEGNE6IU5GN2OEZ4Y",
+    "https://nrc.nl/nieuws/2026/11/23/de-onverwachte-terugkeer-van-jensen-huang-bij-nvidia-in-het-nieuws-a4942117",
+    "https://rfi.fr/fr/am%C3%A9riques/20261123-nvidia-annonce-la-r%C3%A9int%C3%A9gration-de-jensen-huang-comme-pdg-deux-semaines-apr%C3%A8s-son-d%C3%A9part",
+    "https://sandiegouniontribune.com/2026/11/23/nvidia-jensen-huang-11-days",
+    "https://spiegel.de/wirtschaft/unternehmen/jensen-huang-spionage-affaere-aktieneinbruch-rueckkehr-der-nvidia-skandal-um-seien-firmenchef-a-1a743c65-aff8-4c40-bb80-a0e2398f1863",
+    "https://spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-feiert-comeback-und-gelobt-besserung-a-aff2ebf3-e78a-40d4-9770-9f19439197f8",
+    "https://straitstimes.com/world/united-states/ai-spies-and-jensen-huang-a-timeline-of-the-nvidia-scandal",
+    "https://straitstimes.com/world/united-states/nvidias-jensen-huang-the-indispensable-godfather-of-ai",
+    "https://straitstimes.com/world/united-states/us-lawmakers-criticise-nvidia-decision-to-reinstate-huang-as-ceo",
+    "https://straitstimes.com/world/united-states/what-are-the-various-us-federal-and-state-probes-faced-by-nvidia-and-jensen-huang",
+    "https://thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+    "https://times-standard.com/2026/11/23/nvidia-jensen-huang-11-days",
+    "https://timesherald.com/2026/11/23/nvidia-jensen-huang-11-days",
+    "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/11/jensen-huang-comprova-o-trumpismo-nao-morreu.shtml"
+   ]
+  },
   {
    "id": "2026-11-23-alerte-01",
    "date": "2026-11-23",
@@ -1141,174 +1243,6 @@
     "https://straitstimes.com/asia/east-asia/japan-scrambles-jets-after-two-suspected-russian-aircraft-enter-airspace",
     "https://straitstimes.com/asia/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace",
     "https://thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece"
-   ]
-  },
-  {
-   "id": "2026-11-16-alerte-01",
-   "date": "2026-11-16",
-   "publiee_a": "2026-11-15T22:58:10Z",
-   "titre": "La France bat la Turquie et accède aux quarts de finale",
-   "texte": "L'équipe de France a gagné deux buts à un face à la Turquie le dimanche 15 novembre 2026 à Bordeaux. Cette victoire lors du dernier match de poules permet aux joueurs français de terminer en tête de leur groupe et d'obtenir leur place en quarts de finale de la Ligue des nations.",
-   "sources": [
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Ibrahima-konate-apres-la-victoire-de-la-france-contre-la-turquie-en-ligue-des-nations-on-retient-le-resultat/1743901"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20261115-ligue-des-nations-la-france-se-qualifie-dans-la-douleur-contre-la-turquie"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html"
-    }
-   ],
-   "cluster": "64ff35dbcc2b978f",
-   "urls": [
-    "https://france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
-    "https://france24.com/fr/sports/20261115-ligue-des-nations-la-france-se-qualifie-dans-la-douleur-contre-la-turquie",
-    "https://france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
-    "https://franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html",
-    "https://franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-s-impose-face-a-la-turquie-et-se-qualifie-pour-les-quarts-de-finale-de-la-ligue-des-nations_8283920.html",
-    "https://lefigaro.fr/flash-sport/les-notes-des-bleus-mbappe-percutant-da-cunha-clairvoyant-olise-agacant-20261115",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-en-video-le-but-avec-beaucoup-de-reussite-qui-libere-les-bleus-de-zidane-face-aux-turcs-20261115",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-le-grand-retour-de-mbappe-des-surprises-au-milieu-et-en-defense-zidane-a-tranche-pour-la-compo-des-bleus-20261115",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-sans-rassurer-les-bleus-de-zidane-se-hissent-en-quarts-de-finale-de-la-ligue-des-nations-20261115",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/france-turquie-une-victoire-et-du-spectacle-la-mission-des-bleus-pour-le-retour-de-zidane-a-bordeaux-20261114",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-qu-attendez-vous-de-france-turquie-20261114",
-    "https://lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-stade-atlantique-a-guichets-fermes-hommage-a-carlo-molinari-les-informations-avant-le-match-france-turquie-20261115",
-    "https://lefigaro.fr/sports/football/live/ligue-des-nations/2026/2627015/france-turquie",
-    "https://lemonde.fr/sport/article/2026/11/15/france-turquie-le-resume-de-la-qualification-laborieuse-des-bleus-en-quarts-de-finale-de-la-ligue-des-nations-de-football_6811064_3242.html",
-    "https://lemonde.fr/sport/live/2026/11/15/en-direct-france-turquie-suivez-le-match-de-ligue-des-nations-de-football_6811042_3242.html",
-    "https://lequipe.fr/Football/Actualites/Ibrahima-konate-apres-la-victoire-de-la-france-contre-la-turquie-en-ligue-des-nations-on-retient-le-resultat/1743901",
-    "https://lequipe.fr/Football/Actualites/La-france-qualifiee-dimanche-en-quarts-de-finale-de-ligue-des-nations-si/1743342",
-    "https://lequipe.fr/Football/Actualites/Les-bleus-souffrent-mais-s-imposent-contre-la-turquie-et-assurent-leur-qualification-pour-les-quarts-de-finale-de-ligue-des-nations/1743891",
-    "https://lequipe.fr/Football/Actualites/Qu-est-ce-qui-changerait-si-les-bleus-finissaient-a-la-premiere-place-de-leur-groupe-en-ligue-des-nations/1743501",
-    "https://liberation.fr/sports/football/ligues-des-nations-les-bleus-par-une-toute-petite-porte-20261115_NZVH5XN6VNAH7ENH33T7CWP5DQ",
-    "https://rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations"
-   ]
-  },
-  {
-   "id": "2026-11-16-alerte-02",
-   "date": "2026-11-16",
-   "publiee_a": "2026-11-15T22:59:22Z",
-   "titre": "Mirra Andreeva bat Elina Svitolina en finale du Masters de tennis féminin",
-   "texte": "La Russe Mirra Andreeva a gagné le tournoi des Finales WTA face à l'Ukrainienne Elina Svitolina dimanche 15 novembre 2026 à Indian Wells, aux États-Unis. La joueuse de 19 ans a conclu la rencontre en deux manches, 7-5 et 6-3 selon le quotidien L'Équipe le 16 novembre 2026.",
-   "sources": [
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/tennis/tennis-elina-svitolina-rejoint-mirra-andreeva-en-finale-du-masters-20261115"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Tennis/Actualites/Mirra-andreeva-remporte-a-19-ans-les-finales-wta-pour-la-premiere-fois-en-venant-a-bout-d-elina-svitolina-en-finale/1743902"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/tennis/masters/la-russe-mirra-andreeva-sacree-a-19-ans-au-masters-wta-apres-sa-victoire-en-finale-face-a-l-ukrainienne-elina-svitolina_8283959.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/11/mirra-andreeva-tenista-russa-de-19-anos-e-campea-do-wta-finals.shtml"
-    }
-   ],
-   "cluster": "97b3ecd047f1b35a",
-   "urls": [
-    "https://bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o",
-    "https://franceinfo.fr/sports/tennis/masters/la-russe-mirra-andreeva-sacree-a-19-ans-au-masters-wta-apres-sa-victoire-en-finale-face-a-l-ukrainienne-elina-svitolina_8283959.html",
-    "https://lefigaro.fr/sports/tennis/tennis-andreeva-domine-svitolina-et-s-adjuge-le-masters-wta-20261115",
-    "https://lefigaro.fr/sports/tennis/tennis-elina-svitolina-rejoint-mirra-andreeva-en-finale-du-masters-20261115",
-    "https://lefigaro.fr/sports/tennis/tennis-insubmersible-andreeva-ecrase-pegula-et-file-en-finale-du-masters-wta-20261114",
-    "https://lefigaro.fr/sports/tennis/tennis-jamais-deux-sans-trois-pour-andreeva-au-masters-wta-20261113",
-    "https://lequipe.fr/Tennis/Actualites/Elina-svitolina-surclasse-linda-noskova-et-rejoint-mirra-andreeva-en-finale-des-finales-wta/1743768",
-    "https://lequipe.fr/Tennis/Actualites/Mirra-andreeva-remporte-a-19-ans-les-finales-wta-pour-la-premiere-fois-en-venant-a-bout-d-elina-svitolina-en-finale/1743902",
-    "https://lequipe.fr/Tennis/Actualites/Mirra-andreeva-se-qualifie-pour-la-finale-des-finales-wta-et-s-assure-la-deuxieme-place-mondiale/1743746",
-    "https://theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
-    "https://theguardian.com/sport/live/2026/nov/15/wta-finals-final-elina-svitolina-v-mirra-andreeva-live",
-    "https://www1.folha.uol.com.br/esporte/2026/11/mirra-andreeva-tenista-russa-de-19-anos-e-campea-do-wta-finals.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-16-alerte-03",
-   "date": "2026-11-16",
-   "publiee_a": "2026-11-15T23:00:47Z",
-   "titre": "L'Estonie fermera sa frontière avec la Russie le premier décembre",
-   "texte": "Le gouvernement estonien a annoncé dimanche 15 novembre 2026 la fermeture de ses points de passage avec la Russie dès le 1er décembre. Tallinn accuse les services de renseignement militaire russes d'avoir commandité une tentative de sabotage contre un fabricant de drones.",
-   "sources": [
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/estonia-cerrara-partir-diciembre-frontera-rusia-tras-20261115194947-nt.html"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/11/15/estland-sluit-grensovergangen-met-rusland-na-poging-tot-brandstichting-bij-dronefabrikant-a4941442"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
-    }
-   ],
-   "cluster": "32ea085da9174386",
-   "urls": [
-    "https://abc.es/internacional/estonia-cerrara-partir-diciembre-frontera-rusia-tras-20261115194947-nt.html",
-    "https://aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
-    "https://aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack",
-    "https://bloomberg.com/news/articles/2026-11-15/estonia-says-russia-behind-failed-arson-attempt-on-drone-maker",
-    "https://dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-xml-mrss",
-    "https://dw.com/es/estonia-cerrar%C3%A1-su-frontera-con-rusia-tras-denunciar-intento-de-sabotaje/a-79953162",
-    "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
-    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_15?evenement=52d4d0ed8a",
-    "https://france24.com/fr/europe/20261115-estonie-accuse-russie-tentative-sabotage-et-d%C3%A9cide-de-fermer-fronti%C3%A8re",
-    "https://franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html",
-    "https://ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1",
-    "https://lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
-    "https://nrc.nl/nieuws/2026/11/15/estland-sluit-grensovergangen-met-rusland-na-poging-tot-brandstichting-bij-dronefabrikant-a4941442",
-    "https://politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker",
-    "https://rfi.fr/fr/europe/20261115-l-estonie-va-fermer-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-de-sabotage-contre-une-usine-de-drones",
-    "https://spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819",
-    "https://straitstimes.com/world/europe/estonia-to-close-russian-border-crossings-after-attempted-arson-attack",
-    "https://theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-    "https://zazoom.it/2026-11-15/estonia-stop-totale-ai-passaggi-con-la-russia-lannuncio-dopo-il-blitz-sventato-del-gru/19932847"
    ]
   }
  ]

@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-23T08:22:22Z",
- "derniere": "2026-11-23",
+ "maj": "2026-11-24T10:42:46Z",
+ "derniere": "2026-11-24",
  "editions": [
+  {
+   "date": "2026-11-24",
+   "genere_a": "2026-11-24T10:42:46Z",
+   "articles": 4,
+   "une": [
+    "Jensen Huang reprend la direction de Nvidia sous la pression de Donald Trump",
+    "Après le blocage de la COP31 les appels à réformer l'ONU se multiplient",
+    "Vingt-quatre morts après l'incendie d'une usine de confiseries en Indonésie"
+   ],
+   "octets": 18714
+  },
   {
    "date": "2026-11-23",
    "genere_a": "2026-11-23T08:22:22Z",

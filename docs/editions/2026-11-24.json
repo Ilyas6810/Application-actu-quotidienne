@@ -1,0 +1,246 @@
+{
+ "date": "2026-11-24",
+ "genere_a": "2026-11-24T10:42:46Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-24-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Après le blocage de la COP31 les appels à réformer l'ONU se multiplient",
+   "chapeau": "Le dimanche 22 novembre 2026, la trente-et-unième conférence sur le climat s'est terminée à Antalya sans accord final entre les états participants. Plusieurs personnalités politiques et experts de la diplomatie demandent désormais une révision des règles de décision au sein de l'Organisation des Nations unies.",
+   "corps": "La conférence internationale d'Antalya en Turquie a pris fin après deux semaines de discussions et deux jours de prolongation. Les représentants des nations présentes ne sont pas parvenus à trouver un consensus sur l'avenir des énergies fossiles ainsi que sur l'aide financière accordée pour l'adaptation au changement climatique. Les pays participants ont arrêté leurs échanges le dimanche 22 novembre 2026 sans adopter de texte final formel. Selon des données publiées par le média Ars Technica le 23 novembre 2026, cette absence d'accord final constitue une première dans le cadre de ces sommets mondiaux depuis l'année 2009.\n\nLe sommet était placé sous la présidence conjointe de la Turquie et de l'Australie. Les travaux devaient aboutir à la signature d'un accord cadre destiné à donner une nouvelle impulsion aux mesures environnementales mondiales. Les divisions entre les délégations ont empêché la rédaction d'un document commun validé par l'ensemble des membres présents.\n\nLa rupture a opposé deux groupes distincts de pays. D'un côté, une coalition menée par l'Union européenne et soutenue par le Panama a refusé d'approuver le projet de texte proposé par la présidence de la conférence. Selon des informations rapportées par le quotidien The Hindu le 24 novembre 2026, ce regroupement rassemblait environ 130 parties prenantes aux négociations. Ces états ont estimé que le document présenté manquait d'engagements fermes concernant l'abandon progressif des combustibles fossiles. Ils ont accusé ce texte de masquer la réalité de l'usage des énergies fossiles sans apporter de garanties concrètes.\n\nDe l'autre côté de la négociation se trouvaient l'Inde, la Chine, l'Arabie saoudite et les membres du groupe arabe. Selon des éléments diffusés par le média Financial Times le 22 novembre 2026, les divergences géopolitiques se sont cristallisées entre ce bloc et les nations favorables à une sortie programmée des hydrocarbures. Les pays opposés à l'inclusion d'un calendrier strict d'abandon ont rejeté les exigences de l'Union européenne et de ses alliés.\n\nD'autres facteurs ont contribué à cette situation de blocage au cours des échanges. Selon une analyse publiée par la BBC le 23 novembre 2026, l'absence des États-Unis en raison d'un boycott des discussions a pesé sur les négociations. La même source indique que la défense des intérêts des pays producteurs de pétrole et un différend financier majeur entre les nations riches et les pays en développement ont contribué à l'échec des discussions.\n\nFace à cette impasse, plusieurs responsables ont exprimé des positions divergentes sur les suites à donner au processus diplomatique. Selon des déclarations retranscrites par le journal The Straits Times le 23 novembre 2026, le président turc Recep Tayyip Erdogan a affirmé le lundi 23 novembre 2026 que la conférence d'Antalya avait posé des bases utiles pour les négociations futures. Le chef de l'État turc a soutenu que la rencontre avait permis de préparer les discussions à venir malgré l'absence d'accord final.\n\nÀ l'inverse, l'absence de résultat formel a suscité de vives critiques quant au fonctionnement des institutions internationales. Selon le journal The Guardian du 23 novembre 2026, des experts en diplomatie climatique et des scientifiques demandent une modification urgente de la règle du consensus qui régit les décisions des sommets de l'ONU. L'ancien vice-président des États-Unis Al Gore figure parmi les personnalités qui exigent un changement du mode d'adoption des décisions pour éviter que le refus de quelques états ne bloque l'ensemble du processus mondial.\n\nLe média Deutsche Welle a rapporté le 23 novembre 2026 que plusieurs acteurs diplomatiques réclament une remise à plat complète des méthodes de négociation. La décision de rejeter un texte jugé trop faible est présentée par certains observateurs comme un refus des compromis a minima. De son côté, le secrétaire général de l'ONU António Guterres a qualifié cet échec de recul profondément décevant selon des propos publiés par ONU Info le 22 novembre 2026. António Guterres a rappelé à cette occasion la certitude des données scientifiques sur le climat.\n\nIl ne manque aucun élément majeur dans les sources fournies pour décrire ces événements.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "ONU Info",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168855"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Politico Europe",
+     "url": "https://politico.eu/article/global-climate-talks-have-collapsed-here-is-what-just-happened"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/newsletters/2026-11-23/cop31-climate-conference-collapses-as-fossil-fuels-wreck-the-day"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/cop-deadlock-prompts-calls-for-a-reset-of-climate-diplomacy/a-80020494?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-21T10:52:00Z",
+   "suite_de": "2026-11-23-monde-003",
+   "mots": 698,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-24-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Vingt-quatre morts après l'incendie d'une usine de confiseries en Indonésie",
+   "chapeau": "Les secours indonésiens recherchent au moins huit ouvriers disparus après le sinistre survenu samedi 21 novembre 2026 dans une usine de la province de Banten. Le bilan s'élève à vingt-quatre morts à la suite de l'incendie du bâtiment de trois étages.",
+   "corps": "Un incendie a détruit samedi 21 novembre 2026 un bâtiment de l'usine de confiseries PT Fonusa Agung Mulia, située à Cikande dans le district de Serang, au sein de la province de Banten à l'ouest de Jakarta.\n\nSelon les informations transmises le 24 novembre 2026 par The Straits Times à 12 h 11, plus de six cents secouristes fouillent le bâtiment détruit de trois étages. Ils tentent de retrouver huit ouvriers toujours portés disparus dans les ruines de l'installation. Les membres des équipes de secours déclarent que la plupart des victimes sont décédées en essayant d'atteindre une issue de secours.\n\nLe bilan humain s'est alourdi depuis les premières interventions du week-end. Le 22 novembre 2026 à 08 h 58, France 24 recensait trois morts, quatre blessés hospitalisés et trente-six personnes manquantes d'après un responsable indonésien des secours. Le même jour à 11 h 46, Al Jazeera rapportait qu'au moins quinze personnes avaient été secourues par les autorités. Le 22 novembre 2026 à 07 h 06, The Straits Times signalait l'évacuation de vingt-quatre sacs mortuaires par la police. La confirmation officielle du décès de ces vingt-quatre personnes est intervenue le 23 novembre 2026 à 06 h 35, d'après Al Jazeera.\n\nDes images capturées durant la nuit par télévisage ainsi que des prises de vue réalisées par drone le 23 novembre 2026 montrent des pans entiers du complexe industriel calcinés. Le toit de l'édifice s'est effondré à plusieurs endroits sous la chaleur des flammes, tandis que de la fumée s'échappait encore du site.\n\nDes familles de travailleurs se sont rassemblées devant l'entrée du site dès le 23 novembre 2026. Elles attendent des informations sur le sort de leurs proches auprès des autorités présentes. Les secours et les forces de l'ordre poursuivent les opérations de déblaiement pour inspecter l'intérieur des structures calcinées.\n\n## Ce que disent les sources\n\nLes chiffres concernant les personnes recherchées dans les décombres diffèrent selon les organes de presse au cours de la journée du 23 novembre 2026. Al Jazeera annonce à 06 h 35 puis à 16 h 23 que les équipes de recherche traquent environ trente personnes disparues. Le même jour à 16 h 39, Nikkei Asia fait état de trente-quatre ouvriers toujours manquants à l'appel. Le 24 novembre 2026 à 12 h 11, The Straits Times ramène le nombre de personnes recherchées à huit ouvriers.\n\nLes autorités indonésiennes déclarent qu'une enquête est en cours pour déterminer la cause de ce départ de feu.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/se-asia/rescuers-say-39-missing-after-indonesia-factory-fire"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/rescuers-say-many-missing-after-indonesia-factory-fire/article71730558.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/en/live-news/20261122-three-dead-36-missing-after-indonesia-factory-fire"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/economy/fires/indonesia-searches-for-34-missing-workers-after-candy-factory-fire"
+    }
+   ],
+   "premiere_parution": "2026-11-21T12:00:00Z",
+   "suite_de": "2026-11-23-monde-001",
+   "mots": 447,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-24-monde-003",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un scandale d'espionnage et de semi-conducteurs touche l'entreprise Nvidia",
+   "chapeau": "Les services de renseignement des États-Unis ont suivi les contacts d'Alice Huang avec un agent chinois entre le printemps 2025 et l'automne 2026. Cette ancienne cadre d'entreprise entretenait une relation amoureuse avec le dirigeant de la société informatique Nvidia.",
+   "corps": "Le quotidien américain New York Times a révélé que les autorités des États-Unis ont surveillé les échanges d'Alice Huang avec un membre du ministère de la Sécurité de l'État chinois. Alice Huang n'a aucun lien de parenté avec Jensen Huang, âgé de 63 ans selon le journal The Hindu le 24 novembre 2026. L'ancienne responsable travaillait pour la société Megaspeed International, une entité enregistrée à Singapour.\n\nLe journal Financial Times a rapporté le 21 novembre 2026 que cette cadre possédait des liens avec des réseaux d'acheminement de composants électroniques vers la Chine. Les puces informatiques désignent des circuits électroniques assurant le traitement des données. Ces matériels de la firme Nvidia faisaient l'objet d'un commerce non autorisé vers le territoire chinois.\n\nLe gouvernement des États-Unis a réagi le 24 novembre 2026 en inscrivant l'entreprise Megaspeed International sur sa liste de restriction des exportations. Cette mesure vise à bloquer le transfert illégal de technologies de pointe vers la Chine. Jensen Huang a quité ses fonctions de direction au sein du fabricant de semi-conducteurs après la divulgation de ses liaisons extra-conjugales.\n\n## Ce que disent les sources\n\nLe quotidien indien The Hindu indique le 24 novembre 2026 que Jensen Huang a réintégré l'entreprise Nvidia après sa démission. Les autres sources d'information présentent Jensen Huang comme l'ancien responsable de l'entreprise sans évoquer ce retour.\n\nLes porte-paroles de la société Nvidia, de Jensen Huang et de l'ambassade de Chine située à Washington n'ont pas répondu aux demandes de commentaires selon le journal The Hindu le 23 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/ia/2026/11/alice-huang-caso-de-ex-ceo-da-nvidia-conectava-empresas-e-abastecia-mercado-clandestino-de-chips.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-tracked-alice-huangs-contacts-with-china-spy-agency-during-nvidia-affair"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-says-nyt/article71733237.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/am%C3%A9riques/20261123-nvidia-la-ma%C3%AEtresse-chinoise-de-jensen-huang-%C3%A9tait-en-contact-avec-p%C3%A9kin-selon-le-new-york-times"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/nvidia-la-maitresse-chinoise-de-jensen-huang-etait-bien-en-contact-avec-pekin-selon-le-new-york-times-20261123_L27VXVFW7ZG2DOKSPE7GDTN3DU"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/affaire-nvidia-la-maitresse-chinoise-de-jensen-huang-etait-en-contact-avec-pekin-durant-sa-liaison-selon-le-new-york-times-20261123"
+    }
+   ],
+   "premiere_parution": "2026-11-21T17:00:10Z",
+   "suite_de": null,
+   "mots": 291,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-24-economie-001",
+   "rubrique": "economie",
+   "format": "breve",
+   "titre": "Jensen Huang reprend la direction de Nvidia sous la pression de Donald Trump",
+   "chapeau": "Le conseil d'administration de Nvidia a réintégré Jensen Huang au poste de directeur général le lundi 23 novembre 2026. L'annonce intervient dix jours après sa démission liée à une affaire d'adultère, d'espionnage et de contrebande, pour laquelle des actionnaires avaient déposé plainte le 10 novembre 2026.",
+   "corps": "Le fabricant américain de puces électroniques Nvidia a annoncé le retour immédiat de son cofondateur Jensen Huang à la tête de l'entreprise. Les salariés ont accueilli le dirigeant avec des applaudissements au siège de la société à Santa Clara, aux États-Unis, lors de sa réapparition lundi 23 novembre 2026.\n\nCette réintégration a provoqué une hausse des marchés financiers. L'action de Nvidia a progressé de 31 % en Bourse. Cette remontée a permis d'ajouter mille milliards de dollars à la valeur boursière de l'entreprise selon BBC News le 24 novembre 2026 à 13:42. Les bourses asiatiques ont également enregistré des hausses, avec une progression de 9 % à Taipei et de 6 % à Séoul d'après Le Figaro le 24 novembre 2026 à 11:23.\n\nLe président américain Donald Trump est intervenu directement pour obtenir ce retour. Il a déclaré avoir échangé par téléphone au cours du week-end avec Jensen Huang, Elon Musk et les membres du conseil d'administration de Nvidia pour les convaincre. Des parlementaires démocrates et républicains demandent des explications après cette décision.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/huang-e-recebido-com-aplausos-ao-retornar-a-sede-da-nvidia-veja-video.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-feiert-comeback-und-gelobt-besserung-a-aff2ebf3-e78a-40d4-9770-9f19439197f8"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-reinstates-jensen-huang-as-ceo"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/24/jensen-huang-reintegre-chez-nvidia-ce-qu-il-faut-en-retenir_6814407_3210.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/le-retour-surprise-de-jensen-huang-chez-nvidia-fait-aussi-flamber-les-marches-asiatiques-20261124"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/why-us-president-donald-trump-believed-he-needed-to-get-jensen-huang-back-at-nvidia/article71737068.ece"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-24/zurrer-huang-s-credibility-in-industry-too-important-video"
+    }
+   ],
+   "premiere_parution": "2026-11-22T20:28:00Z",
+   "suite_de": "2026-11-11-monde-005",
+   "mots": 218,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-24-economie-001",
+  "2026-11-24-monde-001",
+  "2026-11-24-monde-002",
+  "2026-11-24-monde-003"
+ ]
+}

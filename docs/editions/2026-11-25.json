@@ -1,0 +1,526 @@
+{
+ "date": "2026-11-25",
+ "genere_a": "2026-11-25T09:20:31Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-25-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Donald Trump au centre des critiques après la réintégration de Jensen Huang chez Nvidia",
+   "chapeau": "Le président américain Donald Trump fait face à une contestation politique et judiciaire après son intervention pour réintégrer Jensen Huang à la tête de l'entreprise Nvidia. Plusieurs élus démocrates au Congrès dénoncent une ingérence étatique et accusent le chef de l'État de conflit d'intérêts financiers.",
+   "corps": "Le conseil d'administration du fabricant de puces électroniques Nvidia a réintégré son directeur général Jensen Huang le lundi 23 novembre 2026, après son éviction dix jours plus tôt. Cette décision fait suite à une série d'échanges téléphoniques survenus durant le week-end du 21 au 22 novembre 2026 entre Donald Trump, Jensen Huang, Elon Musk et les administrateurs du groupe.\n\nL'intervention du président américain vise à stabiliser le marché boursier et à préserver la position des États-Unis dans le secteur de l'intelligence artificielle. À la suite de cette réintégration, le cours de l'action Nvidia a enregistré une hausse supérieure à 30 % au cours d'une seule séance boursière. Les marchés financiers ont néanmoins affiché un recul de l'action le mardi 24 novembre 2026.\n\nAu Congrès des États-Unis, l'opposition démocrate a élargi ses enquêtes sur les sociétés liées à Donald Trump Jr. Des parlementaires accusent le président d'avoir tiré un profit financier personnel de la remontée du cours boursier en raison de sa qualité d'actionnaire. Les élus dénoncent également une influence directe du gouvernement sur le fonctionnement des entreprises privées. Le Congrès a planifié une audition de Jensen Huang au début du mois de décembre 2026.\n\n## Ce que disent les sources\n\nDonald Trump affirme avoir directement négocié le retour du dirigeant. Le président a déclaré avoir convaincu le conseil d'administration de Nvidia et conclu l'accord permettant cette réintégration. De son côté, Jensen Huang rejette cette version et contredit l'implication directe du président des États-Unis dans son retour à la présidence de l'entreprise.\n\nDes informations de presse font état de soupçons d'espionnage en faveur de la Chine ciblant la compagne de Jensen Huang. Donald Trump conteste ces accusations et nie toute activité d'espionnage liée au dirigeant de Nvidia.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://english.elpais.com/usa/2026-11-24/jensen-huangs-return-to-nvidia-in-seven-acts-from-trumps-pressure-to-family-support.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/jensen-huang-owes-his-nvidia-comeback-to-trump-and-thats-a-problem"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/podcasts/invit%C3%A9-international/20261124-retour-de-jensen-huang-%C3%A0-la-t%C3%AAte-de-nvidia-il-y-a-une-relation-d-int%C3%A9r%C3%AAts-crois%C3%A9s-avec-donald-trump"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-est-il-enrichi-avec-le-retour-de-jensen-huang-a-la-tete-de-nvidia_8298372.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/trump-enfrenta-republicanos-democratas-jensen-huang-20261124190641-nt.html"
+    }
+   ],
+   "premiere_parution": "2026-11-22T20:28:00Z",
+   "suite_de": "2026-11-24-economie-001",
+   "mots": 329,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-002",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un tribunal américain reconnaît l'entreprise chinoise Huawei coupable de fraude",
+   "chapeau": "Un jury fédéral de New York a reconnu la société chinoise Huawei coupable de vol de secrets industriels et de fraude bancaire le mardi 24 novembre 2026. Cette décision de la justice des États-Unis intervient au terme d'un procès de onze semaines et conclut huit années de procédures judiciaires.",
+   "corps": "Le jury américain a rendu son verdict contre l'équipementier en télécommunications Huawei au terme d'une bataille juridique de huit ans. Les jurés ont retenu dix des douze chefs d'accusation présentés par les procureurs fédéraux, d'après Deutsche Welle le 25 novembre 2026. La justice américaine accuse le groupe d'avoir organisé le vol de secrets industriels auprès de sociétés technologiques locales. La firme chinoise a cherché à embaucher des salariés d'entreprises américaines de télécommunications pour obtenir leurs informations techniques.\n\nLes jurés ont jugé l'entreprise coupable de fraude bancaire et de blanchiment d'argent. Le fabricant a trompé des établissements bancaires au sujet de ses activités commerciales en Iran et en Corée du Nord. La société est également reconnue coupable d'avoir enfreint les sanctions internationales et d'avoir fourni une aide au gouvernement iranien pour censurer internet. Les jurés ont en revanche acquitté la firme du chef d'accusation le plus grave, qui concernait une conspiration d'extorsion criminelle.\n\nLe groupe Huawei a contesté la décision du tribunal de New York. L'entreprise qualifie la condamnation de décision sans fondement juridique ou factuel. Le fabricant de matériel de télécommunication annonce son intention d'interjeter appel et de mener d'autres actions en justice. Les autorités de Beijing ont réagi le mercredi 25 novembre 2026 en accusant le gouvernement américain de freiner les activités des entreprises chinoises. Le gouvernement chinois affirme son soutien ferme à l'équipementier. L'administration du président américain Donald Trump ciblait la société depuis plusieurs années. La technologie de l'entreprise est aussi évaluée comme un risque pour la sécurité en Allemagne, selon Der Spiegel le 25 novembre 2026.\n\nLes peines précises prononcées contre l'entreprise ne sont pas détaillées dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/chinas-huawei-convicted-at-us-criminal-trial-stemming-from-iran-business"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-25/huawei-found-guilty-of-us-charges-in-landmark-case-video"
+    }
+   ],
+   "premiere_parution": "2026-11-24T20:17:47Z",
+   "suite_de": null,
+   "mots": 321,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-003",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Thomas Markle inculpé aux États-Unis pour détention d'images pédocriminelles",
+   "chapeau": "Un grand jury fédéral de Los Angeles a formellement inculpé Thomas Markle pour deux chefs de détention d'images d'abus sexuels sur mineurs mardi 24 novembre 2026. Le père de la duchesse de Sussex doit comparaître devant un tribunal de Californie dans les prochaines semaines.",
+   "corps": "Un grand jury fédéral du tribunal du district central de Californie a validé un acte d'accusation contre Thomas Wayne Markle mardi 24 novembre 2026. L'homme âgé de 82 ans est le père de Meghan Markle, duchesse de Sussex et épouse du prince Harry. La justice américaine reproche à l'accusé deux chefs d'accusation pour détention de matériel d'abus sexuel sur mineur.\n\nUne enquête commencée aux Philippines en octobre 2026 a déclenché les poursuites judiciaire contre l'octogénaire. Les agents de la police fédérale américaine ont arrêté le suspect le 6 novembre 2026. La perquisition d'un garde-meuble loué par l'accusé à Los Angeles a permis la découverte des documents illicites.\n\nUne première plainte pénale déposée le 5 novembre 2026 visait un seul chef d'accusation pour détention d'images pédocriminelles. L'acte d'accusation publié mardi 24 novembre 2026 ajoute un second chef de poursuite contre l'accusé. Les juges fédéraux ont ainsi doublé les charges retenues contre le père de la duchesse.\n\nSelon le document d'accusation, les éléments saisis contiennent plusieurs dizaines de diapositives, de négatifs et de photographies d'enfants dénudés. L'accusé figure lui-même sur deux de ces clichés. Les pièces à conviction comprennent des négatifs de films de 35 millimètres. Ces films représentent des mineurs prépubères et des enfants âgés de moins de 12 ans.\n\nL'accusé séjourne actuellement dans une prison en Floride. Les autorités avaient ordonné son assignation à résidence avec port d'un bracelet électronique. L'homme a retiré son dispositif de surveillance électronique. La police a alors procédé à son incarcération.\n\nLe suspect doit comparaître devant la justice fédérale à Los Angeles au cours des prochaines semaines. La séance permettra la lecture formelle des charges retenues contre lui. Le grand jury est une assemblée de citoyens. Cette instance décide de l'inculpation des suspects.\n\n## Ce que disent les sources\n\nLe journal espagnol El País indique le 25 novembre 2026 que la peine maximale s'élève à 20 ans de prison pour chaque délit retenu. La chaîne britannique Worcester News, le quotidien italien Corriere della Sera et le magazine allemand Der Spiegel affirment le 25 novembre 2026 que l'accusé risque une peine globale allant jusqu'à 40 ans de prison en cas de condamnation.\n\nDes informations manquent concernant la date précise de la comparution à Los Angeles.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material"
+    },
+    {
+     "nom": "elystandard.co.uk",
+     "url": "https://elystandard.co.uk/news/national/26760022.meghans-father-formally-charged-possessing-child-sex-abuse-images"
+    },
+    {
+     "nom": "worcesternews.co.uk",
+     "url": "https://worcesternews.co.uk/news/26760176.meghan-markles-father-charged-child-abuse-images"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/crwy4egxn592o"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/25/le-pere-de-meghan-markle-formellement-inculpe-en-californie-pour-detention-d-images-pedocriminelles_6814934_3210.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_25/il-padre-di-meghan-markle-formalmente-incriminato-per-possesso-di-materiale-pedopornografico-a1bf2e6f-9d20-43eb-a946-24b644700xlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/justiz/thomas-markle-vater-von-herzogin-meghan-in-kalifornien-angeklagt-a-a5026e52-d91c-421e-bc35-e97c379b1437"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-25T00:33:07Z",
+   "suite_de": null,
+   "mots": 412,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-004",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le Salvadorien Kilmar Abrego Garcia quitte les États-Unis pour l'Espagne",
+   "chapeau": "Le ressortissant salvadorien Kilmar Abrego Garcia a pris un avion mardi 24 novembre 2026 depuis les États-Unis vers l'Espagne. Cet habitant du Maryland quitte le territoire américain de sa propre initiative après vingt mois de procédures judiciaires.",
+   "corps": "Kilmar Abrego Garcia vivait dans l'État du Maryland. Il est marié à une citoyenne américaine. En mars 2025, l'administration du président Donald Trump l'a expulsé vers le Salvador. Les autorités américaines ont reconnu plus tard une erreur administrative.\n\nAprès son expulsion de mars 2025, les autorités ont envoyé Kilmar Abrego Garcia dans un centre de détention salvadorien. La justice américaine a ensuite ordonné son retour sur le sol des États-Unis. À son retour, le procureur fédéral a engagé des poursuites contre lui. Un juge a rejeté l'ensemble de ces accusations à la fin du mois de mai 2026.\n\nLes autorités américaines avaient accusé cet homme d'appartenir à une bande criminelle au moment de son arrestation en 2025. Sa femme, Jennifer Vasquez Sura, avait déposé deux plaintes contre lui pour des faits de violence domestique en août 2020 et en mai 2021. La justice américaine a classé ces deux plaintes sans suite et n'a retenu aucune charge contre lui.\n\nL'expulsion de Kilmar Abrego Garcia a provoqué un conflit entre la justice fédérale et l'administration présidentielle en 2025. Les juges fédéraux ont reproché au gouvernement de bloquer les décisions de justice qui s'opposaient aux renvois d'étrangers. Le sénateur américain Chris Van Hollen a salué le départ de Kilmar Abrego Garcia vers l'Espagne en le qualifiant d'homme libre.\n\nKilmar Abrego Garcia a conclu un accord pour abandonner les poursuites et quitter le pays sans subir une nouvelle mesure de renvoi forcé. Il s'est envolé le mardi 24 novembre 2026 pour rejoindre le continent européen.\n\n## Ce que disent les sources\n\nSelon le journal espagnol El País le 25 novembre 2026 à 12h56, Kilmar Abrego Garcia envisage de s'installer au Mexique après son passage en Espagne. Les autres médias mentionnent uniquement son installation ou son départ vers l'Espagne.\n\nLe dossier ne précise pas si le gouvernement espagnol a accordé un statut juridique spécifique à Kilmar Abrego Garcia à son arrivée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/salvadoran-migrant-kilmar-abrego-garcia-to-leave-us-voluntarily-us-media-reports"
+    },
+    {
+     "nom": "mcall.com",
+     "url": "https://mcall.com/2026/11/24/self-deportation-abrego-garcia"
+    },
+    {
+     "nom": "union-bulletin.com",
+     "url": "https://union-bulletin.com/news/national/kilmar-abrego-garcia-who-fought-his-mistaken-deportation-leaves-the-us-voluntarily-for-spain/article_458f19af-ec9d-5878-b263-33440512ef26.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/imigrante-deportado-por-engano-que-virou-simbolo-de-resistencia-nos-eua-deixara-o-pais-voluntariamente.shtml"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/25/le-salvadorien-kilmar-abrego-garcia-symbole-des-expulsions-sous-trump-quitte-les-etats-unis_6814999_3210.html"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/kilmar-abrego-salvadoreno-deportado-error-eeuu-sale-20261125003716-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/kilmar-abrego-garcia-verlaesst-die-usa-und-das-heimatschutzministerium-tritt-nach-a-01c108d7-5a9f-43f5-b571-5d8f4d311d49"
+    }
+   ],
+   "premiere_parution": "2026-11-24T23:12:47Z",
+   "suite_de": null,
+   "mots": 352,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-005",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Jensen Huang présente ses excuses aux salariés du groupe Nvidia",
+   "chapeau": "Le directeur général de Nvidia, Jensen Huang, a présenté ses excuses aux équipes de l'entreprise lors d'un rassemblement interne mardi 24 novembre 2026 en Californie. Cette intervention intervient au lendemain de sa réintégration officielle à la direction du fabricant américain de puces électroniques.",
+   "corps": "Jensen Huang a pris la parole devant le personnel au siège de l'entreprise situé à Santa Clara. Le dirigeant a reconnu des fautes lourdes et une entorse au règlement interne de la société. Il a souligné devant les salariés qu'enfreindre un texte qu'il avait lui-même contribué à élaborer constituait un acte inacceptable. Le dirigeant a également informé ses équipes qu'il suivait désormais un accompagnement thérapeutique quotidien.\n\nLe retour de Jensen Huang intervient après son départ initial survenu le 11 novembre 2026. L'ingénieur avait alors remis sa démission de son poste de directeur exécutif. Les échanges avec les collaborateurs ont duré une heure lors de cette réunion générale. Lors de son arrivée sur place, le dirigeant a constaté qu'il n'avait pas encore reçu d'ordinateur de travail de la part des services techniques.\n\nLe patron de l'entreprise a abordé les circonstances de sa réintégration. Jensen Huang a rejeté l'idée d'une intervention du président américain Donald Trump sur les membres du conseil d'administration. Il a affirmé que l'instance de gouvernance avait pris de manière totalement autonome la décision de le rappeler à son poste.\n\nSur le plan financier, la hausse du cours boursier de Nvidia déclenchée par la réintégration de son dirigeant a commencé à s'essouffler mercredi 25 novembre 2026. L'entreprise conserve le statut de première capitalisation boursière du secteur des microprocesseurs, ces composants électroniques miniatures qui gèrent les calculs informatiques.\n\n## Ce que disent les sources\n\nLe quotidien espagnol ABC et le média français franceinfo indiquent que le départ initial du dirigeant était lié à des affaires conjugales et des infidélités. Les autres médias comme Le Figaro ou The Straits Times évoquent seulement une infraction au code de conduite interne.\n\nLa nature précise des manquements reprochés au dirigeant au sein du règlement de Nvidia n'est pas détaillée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/jensen-huang-torna-nella-sede-di-nvidia-e-scherza-e-il-mio-primo-giorno-ma-non-ho-un-pc-aspetto-che-i-tecnici-me-ne-diano-uno-nuovo/d5f219e3-41e7-43b0-a8b4-f720e3742xlk"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/huang-pide-perdon-empleados-nvidia-confiesa-terapia-20261124221421-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/nvidias-jensen-huang-apologises-to-staff-says-he-is-in-therapy-reports"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-pede-desculpas-aos-funcionarios-da-nvidia-e-diz-estar-fazendo-terapia.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/affaire-nvidia-jensen-huang-s-excuse-aupres-des-salaries-et-affirme-suivre-une-therapie-20261124"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e"
+    },
+    {
+     "nom": "rte.ie",
+     "url": "https://rte.ie/news/business/2026/1125/1600553-nvidia-us"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/videos/2026-11-25/huang-apologizes-to-nvidia-staff-after-returning-as-ceo-video"
+    }
+   ],
+   "premiere_parution": "2026-11-24T10:29:33Z",
+   "suite_de": null,
+   "mots": 340,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-006",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Un pilote pakistanais devient le premier astronaute étranger dans l espace chinois",
+   "chapeau": "Le Pakistanais Muhammad Zeeshan Ali s est envolé mercredi 25 novembre 2026 à bord de la mission spatiale chinoise Shenzhou-24 depuis le désert de Gobi. Il devient ainsi le premier citoyen étranger à intégrer la station spatiale Tiangong.",
+   "corps": "La fusée transportant l équipage a quitté le sol à 8h18, heure locale, depuis le centre de lancement de satellites de Jiuquan, situé dans le nord-ouest de la Chine, selon les informations de RFI le 24 novembre 2026, du Straits Times et du Hindu le 25 novembre 2026. La mission utilise un lanceur de type Longue-Marche, d après The Hindu du 25 novembre 2026.\n\nMuhammad Zeeshan Ali exerce la fonction de spécialiste de charge utile, ce qui désigne une personne chargée de mener des expériences scientifiques à bord. Il possède une formation de pilote de chasse au sein de l armée de l air pakistanaise, d après Bloomberg et la BBC le 24 et le 25 novembre 2026. Pendant son séjour d une durée d une semaine dans l infrastructure orbitale chinoise, il doit mener des travaux de recherche préparés par des universités de son pays, selon El País le 24 novembre 2026.\n\nLes responsables pakistanais qualifient cette sélection d étape importante dans la coopération bilatérale entre Islamabad et Pékin, d après franceinfo le 24 novembre 2026. Des observateurs et des étudiants se sont rassemblés dans les locaux de l agence spatiale nationale pakistanaise pour assister au départ de la fusée, d après Al Jazeera le 25 novembre 2026.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Nature",
+     "url": "https://nature.com/articles/d41586-026-03829-y"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-24/china-space-program-to-fly-pakistan-pilot-as-its-first-foreigner"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sciences/espace/le-premier-astronaute-etranger-d-une-mission-spatiale-chinoise-decolle-mercredi_8297289.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/asie-pacifique/20261124-un-astronaute-pakistanais-s-envole-pour-la-station-spatiale-chinoise-une-premi%C3%A8re"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c6x2e0j3kx28o"
+    }
+   ],
+   "premiere_parution": "2026-11-24T00:00:00Z",
+   "suite_de": null,
+   "mots": 247,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-007",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Élections américaines : le Parti démocrate obtient un 259e siège à la Chambre",
+   "chapeau": "Le Parti démocrate a obtenu un 259e siège à la Chambre des représentants des États-Unis le mardi 24 novembre 2026. Cette victoire intervient après le succès de la démocrate Victoria Broderick dans le Tennessee face au républicain Scott DesJarlais.",
+   "corps": "La victoire enregistrée le 24 novembre 2026 dans le Tennessee permet au Parti démocrate d'atteindre au moins 259 sièges à la Chambre des représentants, d'après The Hindu le 25 novembre 2026. Le parti avait déjà garanti sa majorité au Congrès lors des élections de mi-mandat du 22 novembre 2026.\n\nCe résultat découle du succès de la démocrate Victoria Broderick face au représentant républicain sortant Scott DesJarlais, signale The Hindu le 25 novembre 2026. Le 22 novembre 2026, le démocrate Chuck Hubbard avait battu la républicaine Virginia Foxx en Caroline du Nord, permettant d'atteindre le seuil de 258 sièges, indiquent The Straits Times et The Guardian le 22 novembre 2026.\n\nAu 23 novembre 2026, le Parti républicain comptait au moins 173 sièges à la Chambre des représentants, selon The Hindu et BBC News. À la même date, le média public américain NPR indiquait que les démocrates avaient ravi 47 sièges aux républicains et qu'ils pouvaient en obtenir 49 au total. Le journal espagnol El País rapportait le 22 novembre 2026 que le Parti démocrate contrôlait également le Sénat avec 56 sièges contre 44 pour les républicains.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "sun-sentinel.com",
+     "url": "https://sun-sentinel.com/2026/11/22/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-22/los-democratas-se-aseguran-la-mayor-victoria-en-la-camara-de-representantes-desde-1992.html"
+    },
+    {
+     "nom": "The Guardian",
+     "url": "https://theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992.shtml"
+    },
+    {
+     "nom": "dailyliberal.com.au",
+     "url": "https://dailyliberal.com.au/story/9396114/us-democrats-clinch-historic-majority-of-house-seats"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-22T18:07:01Z",
+   "suite_de": "2026-11-23-monde-002",
+   "mots": 224,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-008",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Plusieurs frappes russes font au moins six morts en Ukraine",
+   "chapeau": "Des attaques aériennes russes ont touché plusieurs localités ukrainiennes entre le 22 et le 24 novembre 2026. Ces bombardements ont frappé des immeubles résidentiels et des infrastructures dans les régions de Kiev, Zaporijjia et Odessa.",
+   "corps": "Une première attaque a visé le village de Dymer, situé près de la capitale ukrainienne. Le bombardement a détruit un immeuble résidentiel de cinq étages. Les secours ont évacué neuf personnes des décombres, dont un enfant. Selon les autorités locales citées le 22 novembre 2026 par The Hindu, onze personnes restaient bloquées sous les ruines.\n\nDans la nuit du 23 au 24 novembre 2026, la ville de Zaporijjia a subi une frappe aérienne. Le gouverneur régional Mykhailo Semikin a déclaré que le tir a détruit une maison et endommagé un immeuble de cinq étages, des voitures ainsi que des infrastructures de transport.\n\nUne autre frappe s'est produite le 24 novembre 2026 dans la région maritime d'Odessa. Le gouverneur Oleh Kiper a indiqué sur Telegram que l'attaque a touché des bâtiments privés, des installations industrielles et des véhicules. Trois personnes ont subi des blessures lors de cet événement, dont un enfant.\n\n## Ce que disent les sources\n\nLes bilans humains des attaques font l'objet d'estimations différentes selon les publications. Pour la frappe du 22 novembre 2026 à Dymer, l'Associated Press relayée par pilotonline.com rapportait au moins trois morts, tandis que The Hindu mentionnait deux morts et quatre blessés. Pour l'attaque du 24 novembre 2026 à Zaporijjia, The Straits Times et Al Jazeera ont fait état de deux morts et 22 blessés. De son côté, l'Associated Press a recensé deux morts et 44 blessés à 16h00, avant que The Hindu ne rapporte un bilan de deux morts et 48 blessés à 21h14.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "pilotonline.com",
+     "url": "https://pilotonline.com/2026/11/22/russian-attack-near-ukraines-capital-strikes-apartment-building-killing-3-and-burying-others"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/a-russian-attack-destroyed-an-apartment-building-in-dymer-near-kyiv-killing-two-as-kaliningrad-sounded-a-rare-air-alert/article71731042.ece"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russian-attack-kills-2-people-wounds-22-in-ukraines-zaporizhzhia-official-says"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia"
+    },
+    {
+     "nom": "Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-libya-sea-drone-attacks-bfff959fb4c7415f9473b34e78a4f750"
+    }
+   ],
+   "premiere_parution": "2026-11-22T12:14:32Z",
+   "suite_de": null,
+   "mots": 285,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-monde-009",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le chef du Parti communiste de Shanghai fait l'objet d'une enquête anticorruption",
+   "chapeau": "L'agence officielle chinoise Xinhua a annoncé mardi 24 novembre 2026 l'ouverture d'une enquête visant Chen Jining à Shanghai. Le responsable âgé de 62 ans occupe les fonctions de secrétaire du Parti communiste de la ville et siège au bureau politique national.",
+   "corps": "L'organe de contrôle anticorruption du pays mène les investigations sur le responsable de la métropole financière. Selon les déclarations transmises par les canaux officiels chinois, Chen Jining se trouve sous le coup d'une procédure pour des soupçons de manquements graves à la discipline du parti et aux lois de l'État. Cette qualification juridique et politique est couramment employée par les autorités de Pékin pour désigner des actes de corruption financière ou des écarts aux règles internes de l'organisation.\n\nLe responsable ciblé appartient au bureau politique du Parti communiste chinois, la deuxième instance de pouvoir du pays qui rassemble habituellement 24 dirigeants. D'après le quotidien The Straits Times du 24 novembre 2026, l'enquête ouverte contre le chef de la municipalité fait de lui le quatrième membre de ce comité restreint à subir une telle procédure depuis le début de l'année 2025. Pour sa part, le journal Le Monde précisait le 24 novembre 2026 que cette procédure constitue le quatrième cas de mise en cause d'un membre du bureau politique depuis le lancement du mandat en cours à l'automne 2022.\n\nL'annonce de cette procédure survient dans un contexte de préparation du renouvellement des cadres dirigeants du Parti communiste avant l'échéance politique de l'année suivante. Les journaux The Hindu et El País indiquaient le 24 novembre 2026 que le responsable de la ville de Shanghai figurait parmi les personnalités susceptibles d'accéder au comité permanent du bureau politique lors des choix de gouvernance prévus pour l'année 2027. La station RFI rappelait le 25 novembre 2026 que ce rassemblement national doit intervenir alors que le président chinois Xi Jinping aborde la possibilité d'obtenir un quatrième mandat consécutif au sommet de l'appareil d'État.\n\nÀ la suite de la publication de la décision de Pékin, la section locale du Parti communiste à Shanghai a formellement affirmé son alignement sur les décisions prises par la direction centrale. Les responsables régionaux ont renouvelé leurs engagements de fidélité politique envers les instances nationales pour marquer leur approbation des mesures engagées contre leur ancien responsable.\n\nLes communications officielles n'indiquent pas les détails spécifiques des faits reprochés, ni le calendrier des investigations, ni l'identité du cadre désigné pour remplacer le responsable à la tête de la ville.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/china-probes-shanghai-party-boss-politburos-chen-jining"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/24/chine-a-shanghai-le-chef-du-parti-communiste-vise-par-une-enquete-pour-des-soupcons-de-corruption_6814768_3210.html"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/china-places-shanghai-party-chief-chen-jining-under-investigation"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_24/capo-shanghai-9fa3d46d-f730-4008-a956-578a269e6xlk.shtml"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/china-announces-shock-corruption-probe-into-politburo-member/article71738737.ece"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-24/china-investiga-al-jefe-del-partido-comunista-en-shanghai-uno-de-los-dirigentes-con-mas-proyeccion-del-pais.html"
+    }
+   ],
+   "premiere_parution": "2026-11-24T11:36:08Z",
+   "suite_de": null,
+   "mots": 406,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-25-economie-001",
+   "rubrique": "economie",
+   "format": "standard",
+   "titre": "Jensen Huang reprend la direction de Nvidia après une courte éviction",
+   "chapeau": "Le conseil d'administration du fabricant américain de puces électroniques Nvidia a rétabli Jensen Huang dans ses fonctions de directeur général le lundi 23 novembre 2026 à Santa Clara. Cette décision intervient moins de deux semaines après le départ du dirigeant consécutif à des accusations de scandale moral et d'espionnage.",
+   "corps": "Le conseil d'administration de Nvidia a réintégré Jensen Huang au poste de directeur général le lundi 23 novembre 2026, dix jours après sa démission liée à une affaire d'adultère, d'espionnage et de contrebande.\n\nLe retour du fondateur de l'entreprise a entraîné une réaction immédiate des marchés financiers. Selon une analyse publiée par Le Monde le 24 novembre 2026, la valeur de l'action Nvidia a progressé de 31 % au cours de la journée de lundi. Les Bourses asiatiques ont clôturé leurs échanges en hausse le mardi 24 novembre 2026, après des progressions similaires enregistrées sur les marchés financiers européens et américains d'après France 24 le 24 novembre 2026.\n\nCette réintégration suscite des réactions dans la classe politique américaine. Selon les informations publiées par Le Monde le 24 novembre 2026, des parlementaires membres du Parti démocrate et du Parti républicain exigent des explications officielles sur ce rétablissement. De son côté, la radio publique américaine NPR indiquait le 24 novembre 2026 que le président Donald Trump a affirmé avoir négocié directement le retour du dirigeant au sein du groupe.\n\nL'éviction initiale de Jensen Huang faisait suite à des accusations impliquant sa compagne, suspectée d'activités de renseignement au profit des autorités chinoises, selon les précisions apportées par le quotidien Libération le 25 novembre 2026. Le journal indique également que le directeur général s'est exprimé publiquement pour reconnaître ses fautes personnelles et présenter ses excuses.\n\nCe rétablissement pose des questions industrielles et stratégiques pour le secteur des semi-conducteurs, des composants indispensables aux ordinateurs. D'après le journal The Straits Times du 24 novembre 2026, l'industrie technologique taïwanaise fait face à des incertitudes concernant les enquêtes relatives aux chaînes d'approvisionnement du groupe américain. Le quotidien Financial Times soulignait le 24 novembre 2026 que cet événement ne doit pas ralentir le durcissement des règles américaines d'exportation vers les entreprises chinoises.\n\nL'épisode met en lumière l'importance de Nvidia dans l'économie technologique globale. Le quotidien Le Figaro expliquait le 24 novembre 2026 que la réintégration du dirigeant montre la concentration du secteur de l'intelligence artificielle, qui désigne l'apprentissage autonome des machines, autour d'un nombre restreint d'acteurs. Le média Al Jazeera indiquait quant à lui le 24 novembre 2026 que les décisions de la direction de Nvidia dépassent le cadre strict de la région de la Silicon Valley.\n\nLes conséquences à long terme de cette décision sur les relations commerciales entre Pékin et Washington restent à définir, d'après les analyses de la chaîne BBC diffusées le 24 novembre 2026 et de Bloomberg le 25 novembre 2026. Les autorités fédérales américaines n'ont pas encore communiqué sur les suites judiciaires de l'enquête concernant la chaîne d'approvisionnement.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c63rgpy50x98o"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/video/2026/11/24/jensen-huang-de-retour-a-la-tete-de-nvidia-sous-l-influence-de-donald-trump_6814742_3210.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/jensen-huang-reinstated-in-nvidia-other-ceos-who-reclaimed-positions/article71737407.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9missions/info-%C3%A9co/20261124-les-places-boursi%C3%A8res-saluent-le-retour-de-jensen-huang-chez-nvidia"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry"
+    }
+   ],
+   "premiere_parution": "2026-11-23T12:00:00Z",
+   "suite_de": "2026-11-24-economie-001",
+   "mots": 482,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-25-economie-001",
+  "2026-11-25-monde-001",
+  "2026-11-25-monde-002",
+  "2026-11-25-monde-003",
+  "2026-11-25-monde-004",
+  "2026-11-25-monde-005",
+  "2026-11-25-monde-006",
+  "2026-11-25-monde-007"
+ ]
+}

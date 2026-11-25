@@ -1,6 +1,141 @@
 {
- "maj": "2026-11-24T13:48:44Z",
+ "maj": "2026-11-25T00:07:36Z",
  "alertes": [
+  {
+   "id": "2026-11-25-alerte-01",
+   "date": "2026-11-25",
+   "publiee_a": "2026-11-25T00:01:55Z",
+   "titre": "Un tribunal américain reconnaît Huawei coupable de vol de secrets industriels",
+   "texte": "Un jury fédéral de New York a reconnu l'entreprise chinoise Huawei coupable de vol de secrets industriels et de fraude bancaire le mardi 24 novembre 2026. La justice américaine a cependant acquitté le groupe de télécommunications de la charge principale d'association de malfaiteurs.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-24/huawei-found-guilty-of-us-criminal-charges-in-landmark-case"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmy49ngydqzpo"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html"
+    }
+   ],
+   "cluster": "1b14a39c960bc00a",
+   "urls": [
+    "https://aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets",
+    "https://bbc.co.uk/news/articles/cmy49ngydqzpo",
+    "https://bloomberg.com/news/articles/2026-11-24/huawei-found-guilty-of-us-criminal-charges-in-landmark-case",
+    "https://france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis",
+    "https://ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+    "https://ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
+    "https://lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+    "https://spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba",
+    "https://straitstimes.com/world/united-states/chinas-huawei-convicted-at-us-criminal-trial-stemming-from-iran-business",
+    "https://thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece"
+   ]
+  },
+  {
+   "id": "2026-11-25-alerte-02",
+   "date": "2026-11-25",
+   "publiee_a": "2026-11-25T00:07:30Z",
+   "titre": "Jensen Huang présente ses excuses aux salariés de Nvidia",
+   "texte": "Le directeur général de Nvidia a présenté ses excuses à ses salariés le 24 novembre 2026 au siège de l'entreprise. Jensen Huang a déclaré suivre une thérapie après avoir enfreint le code de conduite interne.",
+   "sources": [
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://video.corriere.it/esteri/jensen-huang-torna-nella-sede-di-nvidia-e-scherza-e-il-mio-primo-giorno-ma-non-ho-un-pc-aspetto-che-i-tecnici-me-ne-diano-uno-nuovo/d5f219e3-41e7-43b0-a8b4-f720e3742xlk"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/huang-pide-perdon-empleados-nvidia-confiesa-terapia-20261124221421-nt.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/nvidias-jensen-huang-apologises-to-staff-says-he-is-in-therapy-reports"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-pede-desculpas-aos-funcionarios-da-nvidia-e-diz-estar-fazendo-terapia.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/secteur/high-tech/affaire-nvidia-jensen-huang-s-excuse-aupres-des-salaries-et-affirme-suivre-une-therapie-20261124"
+    }
+   ],
+   "cluster": "9a1fe752c3470ed2",
+   "urls": [
+    "https://abc.es/internacional/huang-pide-perdon-empleados-nvidia-confiesa-terapia-20261124221421-nt.html",
+    "https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-pede-desculpas-aos-funcionarios-da-nvidia-e-diz-estar-fazendo-terapia.shtml",
+    "https://corriere.it/economia/finanza/26_novembre_24/huang-non-e-stato-trump-a-farmi-tornare-ho-fatto-errori-terribili-ora-vado-in-terapia-52f190d4-0ebf-470b-be66-5ff93a5b1xlk.shtml",
+    "https://lefigaro.fr/secteur/high-tech/affaire-nvidia-jensen-huang-s-excuse-aupres-des-salaries-et-affirme-suivre-une-therapie-20261124",
+    "https://straitstimes.com/world/united-states/nvidias-jensen-huang-apologises-to-staff-says-he-is-in-therapy-reports",
+    "https://video.corriere.it/esteri/jensen-huang-torna-nella-sede-di-nvidia-e-scherza-e-il-mio-primo-giorno-ma-non-ho-un-pc-aspetto-che-i-tecnici-me-ne-diano-uno-nuovo/d5f219e3-41e7-43b0-a8b4-f720e3742xlk"
+   ]
+  },
+  {
+   "id": "2026-11-25-alerte-03",
+   "date": "2026-11-25",
+   "publiee_a": "2026-11-25T00:07:36Z",
+   "titre": "Le Real Madrid bat le PSV Eindhoven cinq buts à un",
+   "texte": "Le Real Madrid s'est imposé mardi 24 novembre à domicile contre le PSV Eindhoven lors de la cinquième journée de Ligue des champions. Menée à la mi-temps, l'équipe espagnole a remporté le match cinq buts à un grâce notamment à deux réalisations de Kylian Mbappé.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-real-madrid-psv-eindhoven-en-ligue-des-champions/1745537"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/sports/20261124-ligue-des-champions-le-real-renversant-lens-encore-%C3%A0-terre"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/fussball/champions-league-rb-leipzig-besiegt-rc-lens-real-madrid-bezwingt-psv-eindhoven-a-3c7f16ab-4fc8-4707-9228-16e41ebf9a22"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/football/ligue-des-champions/real-madrid-psv-en-video-le-sublime-but-venu-d-ailleurs-de-jude-bellingham-20261124"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/sports/20261124-football-ligue-des-champions-real-madrid-fait-le-show-rc-lens-sauve-l-honneur"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv"
+    }
+   ],
+   "cluster": "90c05c025b97dbcb",
+   "urls": [
+    "https://aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv",
+    "https://france24.com/fr/sports/20261124-football-ligue-des-champions-real-madrid-fait-le-show-rc-lens-sauve-l-honneur",
+    "https://lefigaro.fr/sports/football/ligue-des-champions/real-madrid-psv-en-video-le-sublime-but-venu-d-ailleurs-de-jude-bellingham-20261124",
+    "https://lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-real-madrid-psv-eindhoven-en-ligue-des-champions/1745537",
+    "https://lequipe.fr/Football/Actualites/Avec-un-bijou-de-jude-bellingham-et-un-double-de-kylian-mbappe-le-real-madrid-fait-exploser-le-psv-en-seconde-periode-pour-poursuivre-son-sans-faute-en-ligue-des-champions/1745941",
+    "https://rfi.fr/fr/sports/20261124-ligue-des-champions-le-real-renversant-lens-encore-%C3%A0-terre",
+    "https://spiegel.de/sport/fussball/champions-league-rb-leipzig-besiegt-rc-lens-real-madrid-bezwingt-psv-eindhoven-a-3c7f16ab-4fc8-4707-9228-16e41ebf9a22"
+   ]
+  },
   {
    "id": "2026-11-24-alerte-02",
    "date": "2026-11-24",
@@ -1178,173 +1313,6 @@
     "https://theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
     "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
     "https://wondradio.com/abc-business/3de59a00095f8e94cd28ff0b764b706d"
-   ]
-  },
-  {
-   "id": "2026-11-17-alerte-02",
-   "date": "2026-11-17",
-   "publiee_a": "2026-11-17T16:05:46Z",
-   "titre": "Philippe Diallo défie Gianni Infantino pour la présidence de la FIFA",
-   "texte": "Le président de la Fédération française de football, Philippe Diallo, a officialisé sa candidature le mardi 17 novembre 2026 pour l'élection de la FIFA prévue en mars prochain. Il critique la gestion du dirigeant sortant, Gianni Infantino, et indique posséder des soutiens hors de l'Europe.",
-   "sources": [
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/11/17/op-de-valreep-vindt-uefa-toch-een-uitdager-voor-fifa-baas-infantino-maakt-de-relatief-onbekende-philippe-diallo-nog-kans-a4941090"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/detroner-infantino-projet-planetaire-soutien-de-zidane-et-macron-les-verites-de-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261117"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Candidat-a-la-presidence-de-la-fifa-philippe-diallo-veut-en-finir-avec-la-gouvernance-solitaire-de-gianni-infantino/1744228"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/11/dirigente-frances-diz-que-conta-com-apoio-fora-da-europa-por-presidencia-da-fifa.shtml"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/jai-lexperience-les-convictions-et-les-valeurs-philippe-diallo-lance-sa-campagne-contre-gianni-infantino-pour-la-presidence-de-la-federation-internationale-de-foot-20261117_W3CUJDYG3NA55E57GRHGOIXJ2Y"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/des-derives-qui-ont-introduit-le-poison-de-la-division-les-raisons-de-la-candidature-de-philippe-diallo-face-a-gianni-infantino-pour-la-presidence-de-la-fifa_8286545.html"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait"
-    }
-   ],
-   "cluster": "0469faf0131cbfc3",
-   "urls": [
-    "https://abc.es/deportes/futbol/uefa-lanza-philippe-diallo-infantino-apoderarse-futbol-20261116180431-nt.html",
-    "https://aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election",
-    "https://aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe",
-    "https://aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency",
-    "https://dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/deportes/futbol/2026-11-16/la-uefa-presenta-al-frances-philippe-diallo-para-derrocar-a-infantino-como-presidente-de-la-fifa.html",
-    "https://france24.com/fr/sports/20261116-presidence-fifa-philippe-diallo-candidat-contre-infantino",
-    "https://france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait",
-    "https://franceinfo.fr/sports/foot/des-derives-qui-ont-introduit-le-poison-de-la-division-les-raisons-de-la-candidature-de-philippe-diallo-face-a-gianni-infantino-pour-la-presidence-de-la-fifa_8286545.html",
-    "https://franceinfo.fr/sports/foot/la-presidence-de-la-fifa-ou-la-quete-sans-fin-d-un-adversaire-a-gianni-infantino_8285057.html",
-    "https://franceinfo.fr/sports/foot/philippe-diallo-patron-de-la-federation-francaise-de-football-candidat-a-la-presidence-de-la-fifa_8285006.html",
-    "https://la-croix.com/sport/football-le-patron-de-la-fff-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261116",
-    "https://lefigaro.fr/sports/football/detroner-infantino-projet-planetaire-soutien-de-zidane-et-macron-les-verites-de-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261117",
-    "https://lefigaro.fr/sports/football/equipe-de-france/election-fifa-le-comex-de-la-fff-valide-la-candidature-de-philippe-diallo-le-francais-defiera-bien-gianni-infantino-20261117",
-    "https://lefigaro.fr/sports/football/foot-le-patron-de-la-federation-francaise-philippe-diallo-candidat-a-la-presidence-de-la-fifa-20261116",
-    "https://lefigaro.fr/sports/football/philippe-diallo-sera-t-il-elu-a-la-tete-de-la-fifa-20261116",
-    "https://lefigaro.fr/sports/football/presidence-de-la-fifa-comment-fonctionne-l-election-a-laquelle-se-presente-philippe-diallo-20261116",
-    "https://lemonde.fr/sport/article/2026/11/16/philippe-diallo-candidat-a-la-presidence-de-la-fifa-face-a-gianni-infantino_6812163_3242.html",
-    "https://lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html",
-    "https://lemonde.fr/sport/article/2026/11/17/avec-la-candidature-de-philippe-diallo-a-la-tete-de-la-fifa-la-presse-internationale-decouvre-un-candidat-peu-connu-qui-devra-fissurer-le-bloc-autour-de-gianni-infantino_6812953_3242.html",
-    "https://lequipe.fr/Football/Actualites/-le-football-europeen-merite-mieux-que-ca-candidat-a-la-presidence-de-la-fifa-ramon-vega-fustige-le-soutien-de-l-uefa-a-philippe-diallo/1744117",
-    "https://lequipe.fr/Football/Actualites/Candidat-a-la-presidence-de-la-fifa-philippe-diallo-veut-en-finir-avec-la-gouvernance-solitaire-de-gianni-infantino/1744228",
-    "https://lequipe.fr/Football/Actualites/La-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa-acceptee-par-le-comite-executif-de-la-fff/1744201",
-    "https://lequipe.fr/Football/Actualites/Plusieurs-postulants-deux-presidents-avant-philippe-diallo-quels-candidats-francais-ont-voulu-prendre-la-tete-de-la-fifa/1744099",
-    "https://lequipe.fr/Football/Article/Entre-gianni-infantino-le-triple-tenant-et-philippe-diallo-son-principal-challenger-le-combat-pour-la-presidence-de-la-fifa-pourrait-etre-moins-desequilibre-qu-il-y-parait/1744136",
-    "https://lequipe.fr/Medias/Actualites/-choix-tardif-tache-compliquee-candidat-capable-de-mettre-fin-a-la-domination-d-infantino-la-revue-de-presse-internationale-apres-la-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa/1744199",
-    "https://liberation.fr/sports/football/congres-de-la-fifa-le-president-de-la-federation-francaise-philippe-diallo-dans-la-course-contre-gianni-infantino-20261116_QVO7ZDIJWVDD7EHHP6QB5YV44Q",
-    "https://liberation.fr/sports/football/jai-lexperience-les-convictions-et-les-valeurs-philippe-diallo-lance-sa-campagne-contre-gianni-infantino-pour-la-presidence-de-la-federation-internationale-de-foot-20261117_W3CUJDYG3NA55E57GRHGOIXJ2Y",
-    "https://nrc.nl/nieuws/2026/11/17/op-de-valreep-vindt-uefa-toch-een-uitdager-voor-fifa-baas-infantino-maakt-de-relatief-onbekende-philippe-diallo-nog-kans-a4941090",
-    "https://rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
-    "https://spiegel.de/sport/fussball/fifa-praesidentschaftswahl-uefa-nominiert-philippe-diallo-als-herausforderer-fuer-gianni-infantino-a-5d50e5bb-a0d5-4ed0-b50b-d95bbb3bb5bb",
-    "https://theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
-    "https://video.lefigaro.fr/figaro/sports/football/presidence-de-la-fifa-philippe-diallo-president-de-la-federation-francaise-de-football-designe-candidat-par-l-uefa-20261116",
-    "https://video.lefigaro.fr/figaro/sports/presidence-de-la-fifa-philippe-diallo-confirme-avoir-accepte-de-candidater-20261117",
-    "https://video.lefigaro.fr/figaro/sports/presidence-de-la-fifa-philippe-diallo-denonce-une-serie-de-decisions-qui-ont-bafoue-les-valeurs-du-football-20261117",
-    "https://video.lefigaro.fr/figaro/sports/presidence-de-la-fifa-suivez-en-direct-la-validation-de-la-candidature-de-philippe-diallo-20261117",
-    "https://www1.folha.uol.com.br/esporte/2026/11/dirigente-frances-diz-que-conta-com-apoio-fora-da-europa-por-presidencia-da-fifa.shtml",
-    "https://www1.folha.uol.com.br/esporte/2026/11/presidente-da-federacao-francesa-sera-o-candidato-da-uefa-contra-infantino.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-17-alerte-03",
-   "date": "2026-11-17",
-   "publiee_a": "2026-11-17T16:06:14Z",
-   "titre": "Wayne Rooney révèle avoir eu des pensées suicidaires durant sa carrière",
-   "texte": "L'ancien attaquant de Manchester United, Wayne Rooney, a confié ce mardi 17 novembre 2026 dans un podcast avoir traversé une période de détresse psychologique. Il a admis avoir envisagé le suicide alors qu'il évoluait au sommet de sa carrière sportive.",
-   "sources": [
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/sports/foot/j-en-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-l-ex-footballeur-britannique-wayne-rooney-revele-avoir-traverse-une-periode-tres-sombre-au-sommet-de-sa-carriere_8286548.html"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/sports/football/jen-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-lex-star-du-foot-anglais-wayne-rooney-revele-ses-episodes-depressifs-20261117_JYSENASJB5CHZOP64LTCUCXUJU"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/sport/football/articles/cx1l0n3v003eo"
-    },
-    {
-     "nom": "L'Équipe",
-     "url": "https://lequipe.fr/Football/Actualites/Au-sommet-de-sa-carriere-wayne-rooney-s-isolait-buvait-trop-et-pensait-au-suicide-j-ai-vraiment-beaucoup-souffert/1744247"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/esporte/2026/11/ex-atacante-rooney-admite-ter-tido-pensamentos-suicidas-durante-a-carreira.shtml"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/sports/football/foot-j-en-suis-arrive-a-envisager-le-suicide-wayne-rooney-revele-son-profond-mal-etre-au-sommet-de-sa-carriere-20261117"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health"
-    }
-   ],
-   "cluster": "2be816b3bb2d4118",
-   "urls": [
-    "https://bbc.co.uk/sport/football/articles/cx1l0n3v003eo",
-    "https://franceinfo.fr/sports/foot/j-en-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-l-ex-footballeur-britannique-wayne-rooney-revele-avoir-traverse-une-periode-tres-sombre-au-sommet-de-sa-carriere_8286548.html",
-    "https://lefigaro.fr/sports/football/foot-j-en-suis-arrive-a-envisager-le-suicide-wayne-rooney-revele-son-profond-mal-etre-au-sommet-de-sa-carriere-20261117",
-    "https://lequipe.fr/Football/Actualites/Au-sommet-de-sa-carriere-wayne-rooney-s-isolait-buvait-trop-et-pensait-au-suicide-j-ai-vraiment-beaucoup-souffert/1744247",
-    "https://liberation.fr/sports/football/jen-suis-arrive-a-un-point-ou-tu-envisages-le-suicide-lex-star-du-foot-anglais-wayne-rooney-revele-ses-episodes-depressifs-20261117_JYSENASJB5CHZOP64LTCUCXUJU",
-    "https://theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
-    "https://www1.folha.uol.com.br/esporte/2026/11/ex-atacante-rooney-admite-ter-tido-pensamentos-suicidas-durante-a-carreira.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-17-alerte-01",
-   "date": "2026-11-17",
-   "publiee_a": "2026-11-17T03:58:44Z",
-   "titre": "Tokyo proteste après l'incursion de deux avions russes présumés",
-   "texte": "Le gouvernement japonais a fait décoller des avions de chasse mardi 17 novembre 2026 après l'intrusion supposée de deux appareils russes dans son espace aérien. Tokyo a transmis une ferme protestation diplomatique aux autorités de Moscou.",
-   "sources": [
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/asia/east-asia/japan-scrambles-jets-after-two-suspected-russian-aircraft-enter-airspace"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece"
-    }
-   ],
-   "cluster": "06b585d986294abb",
-   "urls": [
-    "https://dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss",
-    "https://lefigaro.fr/international/la-coree-du-sud-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-20261117",
-    "https://spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f",
-    "https://straitstimes.com/asia/east-asia/japan-scrambles-jets-after-two-suspected-russian-aircraft-enter-airspace",
-    "https://straitstimes.com/asia/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace",
-    "https://thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece"
    ]
   }
  ]

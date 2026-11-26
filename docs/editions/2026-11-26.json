@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-26",
+ "genere_a": "2026-11-26T09:07:42Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-26-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Un camion-citerne renverse provoque un incendie mortel sur une autoroute",
+   "chapeau": "Un incendie mortel s'est produit mercredi sur une autoroute de l'agglomération du Caire, en Égypte, lorsqu'un véhicule transportant du carburant s'est renversé. Le drame a fait au moins une trentaine de morts et de nombreux blessés selon un bilan établi jeudi 26 novembre 2026.",
+   "corps": "Un camion transportant du carburant ou des bouteilles de gaz a perdu le contrôle mercredi sur un axe routier très fréquenté ceinturant la capitale égyptienne, dans le quartier d'Al Warraq à Giza. Le renversement du véhicule a provoqué un incendie d'une grande ampleur qui s'est propagé dans cette zone densément peuplée.\n\nDe nombreuses ambulances se sont rendues sur les lieux du sinistre pour prendre en charge les victimes. Les autorités sanitaires égyptiennes indiquent que le bilan humain pourrait encore s'alourdir dans les prochaines heures.\n\n## Ce que disent les sources\n\nSelon l'agence Xinhua du 26/11/2026, le bilan est de 30 morts et 25 blessés. Selon France 24 du 26/11/2026, l'accident a fait au moins 31 morts et 15 blessés. Le journal Libération du 26/11/2026 mentionne au moins 31 morts. Le journal ABC du 26/11/2026 rapporte au moins 30 morts et 15 blessés. Le site franceinfo du 26/11/2026 fait état d'au moins 30 morts. La chaîne Deutsche Welle du 26/11/2026 compte au moins 31 morts. La BBC du 26/11/2026 évoque 31 morts et 21 blessés. Al Jazeera du 26/11/2026 ne précise pas le nombre exact de victimes. Le Monde du 26/11/2026 indique une trentaine de victimes et au moins 15 blessés. Der Spiegel du 26/11/2026 mentionne 31 morts et des blessés. The Hindu du 26/11/2026 rapporte la mort d'au moins 31 personnes et 25 blessés. El País du 26/11/2026 fait état d'au moins 31 morts. Concernant la nature de la cargaison, la majorité des sources mentionne un camion de carburant ou un camion-citerne, tandis qu'Al Jazeera et El País précisent qu'il transportait des bouteilles de gaz.\n\nLes sources ne précisent pas les causes exactes du renversement du camion.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Xinhua",
+     "url": "https://english.news.cn/africa/20261126/a9ab12d60aec4854819d0468721bc30e/c.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/afrique/20261125-en-%C3%A9gypte-un-incendie-sur-une-autoroute-du-caire-fait-une-trentaine-de-morts"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/afrique/au-moins-30-morts-dans-un-quartier-densement-peuple-du-caire-ravage-par-un-incendie-20261125_BIUTUS5IPJGKDCP7EFIWZVRBZQ"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/internacional/muertos-incendiarse-camion-cisterna-cairo-20261125214125-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/afrique/egypte/en-egypte-un-incendie-dans-l-agglomeration-du-caire-fait-au-moins-30-morts_8300229.html"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cqy7rn30v314o"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters"
+    }
+   ],
+   "premiere_parution": "2026-11-25T12:00:00Z",
+   "suite_de": null,
+   "mots": 344,
+   "modele": "gemini-3.5-flash-lite",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-26-monde-001"
+ ]
+}

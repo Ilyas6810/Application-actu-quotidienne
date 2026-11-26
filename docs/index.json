@@ -1,7 +1,16 @@
 {
- "maj": "2026-11-25T09:20:31Z",
- "derniere": "2026-11-25",
+ "maj": "2026-11-26T09:07:42Z",
+ "derniere": "2026-11-26",
  "editions": [
+  {
+   "date": "2026-11-26",
+   "genere_a": "2026-11-26T09:07:42Z",
+   "articles": 1,
+   "une": [
+    "Un camion-citerne renverse provoque un incendie mortel sur une autoroute"
+   ],
+   "octets": 4316
+  },
   {
    "date": "2026-11-25",
    "genere_a": "2026-11-25T09:20:31Z",

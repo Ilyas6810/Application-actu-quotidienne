@@ -1,6 +1,176 @@
 {
- "maj": "2026-11-25T00:07:36Z",
+ "maj": "2026-11-26T17:11:19Z",
  "alertes": [
+  {
+   "id": "2026-11-26-alerte-01",
+   "date": "2026-11-26",
+   "publiee_a": "2026-11-26T17:02:57Z",
+   "titre": "Deux techniciens italiens meurent dans une frappe de drones au Koweït",
+   "texte": "Deux employés de l'entreprise d'armement allemande Rheinmetall ont perdu la vie le jeudi 26 novembre 2026 lors d'une attaque de drones au Koweït. Le ministère italien des Affaires étrangères a confirmé l'information le même jour.",
+   "sources": [
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/26/deux-italiens-tues-par-des-drones-iraniens-au-koweit_6815554_3210.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/middle-east/two-italians-killed-in-iranian-drone-attack-in-kuwait-italy-says"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wirtschaft/unternehmen/rheinmetall-mitarbeiter-in-kuwait-durch-drohnenangriff-getoetet-a-c745dda3-d0ef-41cf-825e-3ee0e047e575"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/moyen-orient/deux-italiens-tues-dans-une-attaque-de-drones-iraniens-contre-le-koweit-20261126_W2OFNHTAKRHL5NOAECKGSCYYVA"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o"
+    }
+   ],
+   "cluster": "033e083956f4990f",
+   "urls": [
+    "https://aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+    "https://aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait",
+    "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
+    "https://dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974?maca=en-rss-en-all-1573-xml-mrss",
+    "https://elpais.com/internacional/2026-11-26/mueren-dos-tecnicos-italianos-en-kuwait-por-los-restos-de-drones-iranies-derribados.html",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_26?evenement=3fd7b65868",
+    "https://ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+    "https://haaretz.com/middle-east-news/2026-11-26/ty-article/.premium/kuwait-army-says-four-hurt-in-iranian-attack-on-vital-site/000001a2-17f8-dfd9-a5b7-1ffc56950000",
+    "https://lemonde.fr/international/article/2026/11/26/deux-italiens-tues-par-des-drones-iraniens-au-koweit_6815554_3210.html",
+    "https://liberation.fr/international/moyen-orient/deux-italiens-tues-dans-une-attaque-de-drones-iraniens-contre-le-koweit-20261126_W2OFNHTAKRHL5NOAECKGSCYYVA",
+    "https://spiegel.de/wirtschaft/unternehmen/rheinmetall-mitarbeiter-in-kuwait-durch-drohnenangriff-getoetet-a-c745dda3-d0ef-41cf-825e-3ee0e047e575",
+    "https://straitstimes.com/world/middle-east/two-italians-killed-in-iranian-drone-attack-in-kuwait-italy-says"
+   ]
+  },
+  {
+   "id": "2026-11-26-alerte-02",
+   "date": "2026-11-26",
+   "publiee_a": "2026-11-26T17:05:38Z",
+   "titre": "La justice confirme le renvoi de Gerard Depardieu en proces pour viol",
+   "texte": "La cour d'appel de Paris a valide jeudi 26 novembre 2026 le renvoi de l'acteur Gerard Depardieu devant une juridiction criminelle. Il sera juge pour des faits de viol denonces par la comedienne Charlotte Arnould.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/gerard-depardieu-renvoye-devant-la-cour-criminelle-pour-viols-sur-la-comedienne-charlotte-arnould-20261126"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmlyd76kyx44o"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/actor-gerard-depardieu-nuevo-juzgado-violacion-20261126153914-nt.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_26/gerard-depardieu-rinviato-a-giudizio-per-lo-stupro-dell-attrice-charlotte-arnould-c1924995-51a0-46ce-b167-40d7578abxlk.shtml"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/kino/depardieu-scheitert-offenbar-mit-einspruch-gegen-vergewaltigungsprozess-a-ad47007f-3d8f-4cc5-afec-373f6aba3d01"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html"
+    }
+   ],
+   "cluster": "6314c9004f1d9aa3",
+   "urls": [
+    "https://abc.es/gente/actor-gerard-depardieu-nuevo-juzgado-violacion-20261126153914-nt.html",
+    "https://bbc.co.uk/news/articles/cmlyd76kyx44o",
+    "https://corriere.it/esteri/26_novembre_26/gerard-depardieu-rinviato-a-giudizio-per-lo-stupro-dell-attrice-charlotte-arnould-c1924995-51a0-46ce-b167-40d7578abxlk.shtml",
+    "https://elpais.com/sociedad/2026-11-26/la-justicia-francesa-confirma-que-gerard-depardieu-se-sentara-de-nuevo-en-el-banquillo-por-violacion.html",
+    "https://france24.com/fr/france/20261126-gerard-depardieu-renvoy%C3%A9-en-appel-pour-une-partie-des-viols-dont-il-est-accuse-par-charlotte-arnould",
+    "https://franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html",
+    "https://franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-est-renvoye-devant-la-justice-pour-viol-commis-sur-la-comedienne-charlotte-arnould_8301426.html",
+    "https://franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-sera-t-il-juge-pour-viols-une-decision-attendue-ce-jeudi_8300982.html",
+    "https://franceinfo.fr/faits-divers/justice-proces/la-justice-se-prononce-sur-le-renvoi-de-gerard-depardieu-en-proces-pour-des-viols-sur-l-actrice-charlotte-arnould_8300862.html",
+    "https://la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126",
+    "https://lefigaro.fr/faits-divers/gerard-depardieu-renvoye-devant-la-cour-criminelle-pour-viols-sur-la-comedienne-charlotte-arnould-20261126",
+    "https://lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html",
+    "https://liberation.fr/societe/police-justice/gerard-depardieu-renvoye-devant-la-justice-pour-viols-sur-la-comedienne-charlotte-arnould-20261126_7HVNVDOGHZCM3E62PH4IS2T2FA",
+    "https://rfi.fr/fr/france/20261126-le-renvoi-en-proc%C3%A8s-de-g%C3%A9rard-depardieu-pour-une-partie-des-viols-dont-il-est-accus%C3%A9-confirm%C3%A9-en-appel",
+    "https://spiegel.de/kultur/kino/depardieu-scheitert-offenbar-mit-einspruch-gegen-vergewaltigungsprozess-a-ad47007f-3d8f-4cc5-afec-373f6aba3d01"
+   ]
+  },
+  {
+   "id": "2026-11-26-alerte-03",
+   "date": "2026-11-26",
+   "publiee_a": "2026-11-26T17:11:19Z",
+   "titre": "Donald Trump et Mark Rutte demandent à la Russie d'éviter l'escalade",
+   "texte": "Le président américain Donald Trump et le dirigeant de l'Otan Mark Rutte ont incité Moscou à ne pas élargir le conflit ukrainien, mercredi 25 novembre en Floride. Les deux responsables ont réclamé une résolution diplomatique rapide lors d'un entretien au domaine de Mar-a-Lago.",
+   "sources": [
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/amerique/donald-trump-et-lotan-exhortent-la-russie-a-eviter-toute-action-susceptible-daggraver-la-guerre-en-ukraine-20261126_R7D7NLQYHNC7ZJQ7CPTTRQDPJ4"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-l-ukraine_8300721.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261126-donald-trump-et-mark-rutte-exhortent-la-russie-%C3%A0-ne-pas-%C3%A9tendre-la-guerre-avec-l-ukraine"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/international/ukraine-russie-jour-1737-point-conflit-ukrainien-poutine-aujourdhui-20261126"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/internacional/2026-11-26/trump-y-rutte-reclaman-a-rusia-y-ucrania-que-eviten-acciones-que-amplien-la-guerra.html"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/trump-says-hed-like-to-see-putin-pull-back-military-aggression-in-europe"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-agora-pede-para-putin-recuar-de-agressoes-na-europa.shtml"
+    }
+   ],
+   "cluster": "792de0fe22a33a25",
+   "urls": [
+    "https://elpais.com/internacional/2026-11-26/trump-y-rutte-reclaman-a-rusia-y-ucrania-que-eviten-acciones-que-amplien-la-guerra.html",
+    "https://france24.com/fr/europe/20261126-donald-trump-et-mark-rutte-exhortent-la-russie-%C3%A0-ne-pas-%C3%A9tendre-la-guerre-avec-l-ukraine",
+    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-l-ukraine_8300721.html",
+    "https://la-croix.com/international/ukraine-russie-jour-1737-point-conflit-ukrainien-poutine-aujourdhui-20261126",
+    "https://lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126",
+    "https://lefigaro.fr/international/guerre-en-ukraine-trump-et-le-secretaire-general-de-l-otan-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-kiev-20261126",
+    "https://lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-donald-trump-et-le-secretaire-general-de-l-otan-mark-rutte-exhortent-moscou-a-ne-pas-etendre-la-guerre-avec-kiev_6814183_3210.html",
+    "https://liberation.fr/international/amerique/donald-trump-et-lotan-exhortent-la-russie-a-eviter-toute-action-susceptible-daggraver-la-guerre-en-ukraine-20261126_R7D7NLQYHNC7ZJQ7CPTTRQDPJ4",
+    "https://straitstimes.com/world/europe/trump-says-hed-like-to-see-putin-pull-back-military-aggression-in-europe",
+    "https://straitstimes.com/world/united-states/trump-and-nato-chief-urge-russia-to-avoid-actions-that-widen-ukraine-war",
+    "https://www1.folha.uol.com.br/mundo/2026/11/trump-agora-pede-para-putin-recuar-de-agressoes-na-europa.shtml"
+   ]
+  },
   {
    "id": "2026-11-25-alerte-01",
    "date": "2026-11-25",
@@ -1107,212 +1277,6 @@
     "https://lefigaro.fr/international/midterms-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autant-d-argent-20261119",
     "https://straitstimes.com/world/united-states/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout",
     "https://theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
-   ]
-  },
-  {
-   "id": "2026-11-18-alerte-03",
-   "date": "2026-11-18",
-   "publiee_a": "2026-11-18T11:57:48Z",
-   "titre": "La sonde Voyager 1 a atteint la distance d'un jour-lumière",
-   "texte": "La NASA a indiqué que la sonde spatiale Voyager 1 a atteint la distance d'un jour-lumière par rapport à la Terre ce mercredi 18 novembre 2026. L'appareil lancé en 1977 se trouve désormais à 26 milliards de kilomètres de notre planète, un parcours que les signaux radio mettent vingt-quatre heures à effectuer selon la Folha de S.Paulo du 18 novembre 2026.",
-   "sources": [
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/11/18/reis-door-het-zonnestelsel-door-de-ogen-van-voyager-1-a4941614"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/ciencia/2026-11-18/la-voyager-1-ya-esta-a-un-dia-luz-asi-se-mantiene-vivo-el-contacto-interestelar-de-la-humanidad.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/ciencia/2026/11/sonda-voyager-1-da-nasa-atinge-um-dia-luz-da-terra.shtml"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/sciences/article/2026/11/18/la-sonde-voyager-1-est-desormais-a-la-distance-vertigineuse-d-un-jour-lumiere-de-la-terre_6813119_1650684.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/wissenschaft/weltall/voyager-1-raumsonde-der-nasa-einen-lichttag-von-der-erde-a-8aa4ffb4-57cd-404c-a694-2892e775464e"
-    }
-   ],
-   "cluster": "17d379acdd85e06b",
-   "urls": [
-    "https://abc.es/ciencia/voyager-alcanza-dia-luz-hitos-conseguido-medio-20261117012822-nt.html",
-    "https://abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html",
-    "https://corriere.it/tecnologia/26_novembre_16/voyager-1-tocca-il-traguardo-di-un-giorno-luce-il-racconto-di-linda-spilker-che-ha-guidato-la-missione-per-quasi-50-anni-3788f719-4a19-4b5d-b45f-f74fda4b0xlk.shtml",
-    "https://elpais.com/ciencia/2026-11-18/la-voyager-1-ya-esta-a-un-dia-luz-asi-se-mantiene-vivo-el-contacto-interestelar-de-la-humanidad.html",
-    "https://lefigaro.fr/sciences/a-une-journee-lumiere-de-la-terre-49-ans-apres-son-lancement-l-extraordinaire-periple-de-la-sonde-voyager-1-20261118",
-    "https://lemonde.fr/sciences/article/2026/11/18/la-sonde-voyager-1-est-desormais-a-la-distance-vertigineuse-d-un-jour-lumiere-de-la-terre_6813119_1650684.html",
-    "https://liberation.fr/sciences/espace/de-jupiter-au-purgatoire-cosmique-lodyssee-de-voyager-1-desormais-a-un-jour-lumiere-de-la-terre-20261118_FMBQ7L4IBBBUFBQYDVAEAOKLLI",
-    "https://nature.com/articles/d41586-026-03672-1",
-    "https://nrc.nl/nieuws/2026/11/18/reis-door-het-zonnestelsel-door-de-ogen-van-voyager-1-a4941614",
-    "https://spiegel.de/wissenschaft/weltall/voyager-1-raumsonde-der-nasa-einen-lichttag-von-der-erde-a-8aa4ffb4-57cd-404c-a694-2892e775464e",
-    "https://straitstimes.com/world/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone",
-    "https://theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-    "https://thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
-    "https://thehindu.com/sci-tech/science/voyager-1-one-light-day-away-from-earth-today-is-a-marvel-of-science/article71708334.ece",
-    "https://www1.folha.uol.com.br/ciencia/2026/11/sonda-voyager-1-da-nasa-atinge-um-dia-luz-da-terra.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-18-alerte-01",
-   "date": "2026-11-18",
-   "publiee_a": "2026-11-18T01:09:06Z",
-   "titre": "Matan Kahana élu président de la Knesset avec soixante-six voix",
-   "texte": "Le Parlement israélien a élu Matan Kahana au poste de président mardi 17 novembre 2026, selon Le Monde et Franceinfo. Cet allié de Gadi Eisenkot a obtenu soixante-six voix sur un total de cent vingt députés.",
-   "sources": [
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_novembre_17/israele-la-knesset-volta-pagina-kahana-alla-guida-del-parlamento-primo-colpo-a-netanyahu-e1608b13-db38-42be-abb5-8f1e344a9xlk.shtml"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/parlamento-de-israel-elege-opositor-de-netayahu-para-comandar-o-legislativo.shtml"
-    },
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
-    }
-   ],
-   "cluster": "7088e8a85f864201",
-   "urls": [
-    "https://abc.es/internacional/israel-elige-hoy-presidente-parlamento-20261117201933-nt.html",
-    "https://aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker",
-    "https://bloomberg.com/news/articles/2026-11-17/israel-opposition-gains-ground-in-bid-to-undo-netanyahu-s-agenda",
-    "https://corriere.it/esteri/26_novembre_17/israele-la-knesset-volta-pagina-kahana-alla-guida-del-parlamento-primo-colpo-a-netanyahu-e1608b13-db38-42be-abb5-8f1e344a9xlk.shtml",
-    "https://france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement",
-    "https://france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p...",
-    "https://franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html",
-    "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81",
-    "https://ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
-    "https://haaretz.com/israel-news/elections/2026-11-17/ty-article/.premium/eisenkot-rejects-likud-request-to-bar-arab-parties-from-knesset-leadership-role/000001a1-ea29-d9ff-a7b5-fbafd0bb0000",
-    "https://haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/knesset-set-to-elect-eisenkot-ally-matan-kahana-as-new-speaker/000001a1-e5dc-d381-ade5-effd223b0000",
-    "https://haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/knesset-votes-to-replace-likud-speaker-with-eisenkot-ally-matan-kahana/000001a1-eb2a-d3e7-a9ff-ef7ab0900000",
-    "https://haaretz.com/israel-news/israel-politics/2026-11-17/ty-article/.premium/who-is-matan-kahana-poised-to-be-israels-next-knesset-speaker/000001a1-e99c-d848-abeb-fb9c8f3e0000",
-    "https://lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html",
-    "https://rfi.fr/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-alli%C3%A9-d-eisenkot-et-opposant-%C3%A0-netanyahu-%C3%A9lu-pr%C3%A9sident-de-la-knesset",
-    "https://spiegel.de/ausland/vertrauter-von-eisenkot-israels-opposition-uebernimmt-parlamentsvorsitz-a-4c2a71d7-9f3b-4447-95bc-80236caf905e",
-    "https://straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker",
-    "https://theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-    "https://www1.folha.uol.com.br/mundo/2026/11/parlamento-de-israel-elege-opositor-de-netayahu-para-comandar-o-legislativo.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-18-alerte-02",
-   "date": "2026-11-18",
-   "publiee_a": "2026-11-18T01:13:20Z",
-   "titre": "Le conseil d'administration de Nvidia refuse de réintégrer Jensen Huang",
-   "texte": "Le président du conseil d'administration de Nvidia, Harvey Jones, a annoncé le refus de réintégrer l'ancien directeur général Jensen Huang aux États-Unis le 18 novembre 2026. Cette déclaration intervient alors que le fondateur du groupe technologique venait d'affirmer sa disponibilité pour reprendre ses fonctions.",
-   "sources": [
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cm2kl50vkwkdo"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-xml-mrss"
-    },
-    {
-     "nom": "Nikkei Asia",
-     "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-board-says-jensen-huang-will-not-return-as-ceo"
-    }
-   ],
-   "cluster": "517e97cef66a9ffd",
-   "urls": [
-    "https://abc.es/economia/jensen-huang-plantea-forzar-regreso-frente-nvidia-20261116022858-nt.html",
-    "https://abc.es/internacional/jensen-huang-comparecera-congreso-eeuu-diciembre-20261117165525-nt.html",
-    "https://abc7.com/story/nvidia-forms-national-security-committee-feds-probe-company-center-scandal/20048239",
-    "https://aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role",
-    "https://americanbazaaronline.com/2026/11/16/will-jensen-huang-return-to-nvidia-492394",
-    "https://aol.com/articles/nvidia-forms-national-security-committee-164702000.html",
-    "https://asia.nikkei.com/business/tech/semiconductors/nvidia-board-says-jensen-huang-will-not-return-as-ceo",
-    "https://bbc.co.uk/news/articles/cm2kl50vkwkdo",
-    "https://bbc.co.uk/news/articles/cwx2en2vrxmdo",
-    "https://bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
-    "https://bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
-    "https://bloomberg.com/news/videos/2026-11-16/opinion-jensen-huang-cannot-return-to-nvidia-video",
-    "https://bloomberg.com/news/videos/2026-11-16/tusk-jensen-huang-should-not-return-as-nvidia-ceo-video",
-    "https://bloomberg.com/news/videos/2026-11-17/bloomberg-businessweek-daily-11-17-2026-video",
-    "https://bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video",
-    "https://c-level.folha.uol.com.br/negocios/2026/11/ceos-de-empresas-de-tecnologia-defendem-huang-e-pedem-volta-do-executivo-a-nvidia.shtml",
-    "https://c-level.folha.uol.com.br/negocios/2026/11/conselho-da-nvidia-descarta-retorno-de-jensen-huang-ao-comando.shtml",
-    "https://c-level.folha.uol.com.br/negocios/2026/11/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados.shtml",
-    "https://dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/us/2026-11-15/jensen-huang-planea-su-regreso-a-nvidia-con-el-apoyo-de-silicon-valley.html",
-    "https://elpais.com/us/economia/2026-11-16/trump-dice-que-no-le-importaria-si-jensen-huang-vuelve-a-nvidia.html",
-    "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
-    "https://english.elpais.com/economy-and-business/2026-11-17/jensen-huang-breaks-his-silence-after-nvidia-exit-says-he-is-open-to-returning.html",
-    "https://ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
-    "https://ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
-    "https://ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
-    "https://ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-    "https://kansaspublicradio.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
-    "https://news.wjct.org/tech/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
-    "https://npr.org/2026/11/17/nx-s1-6043138/nvidia-scandal-and-ceos-resignation-rock-silicon-valley",
-    "https://npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-    "https://salisburyjournal.co.uk/news/national/26738711.ousted-jensen-huang-says-honoured-return-nvidia",
-    "https://spiegel.de/netzwelt/nvidia-elon-musk-und-weitere-tech-promis-fordern-rueckkehr-von-jensen-huang-zu-nvidia-a-2b8df6de-9596-489f-a912-17586e192336",
-    "https://spiegel.de/wirtschaft/nvidia-konzern-schliesst-rueckkehr-von-jensen-huang-offenbar-aus-a-81b915e6-b63f-4074-a333-b1cdec5a3990",
-    "https://spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95",
-    "https://spiegel.de/wirtschaft/unternehmen/nvidia-warum-die-tech-bosse-jensen-huangs-rueckkehr-fordern-a-7c966f6a-6430-47e6-b5f4-edb6202a2617",
-    "https://spiegel.de/wirtschaft/unternehmen/nvidia-will-jensen-huang-nicht-als-chef-zurueckholen-a-f28605ac-ea1f-421b-afd9-4649bc8b91e6",
-    "https://theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-    "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-    "https://wondradio.com/abc-business/3de59a00095f8e94cd28ff0b764b706d"
    ]
   }
  ]

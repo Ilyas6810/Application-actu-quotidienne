@@ -1,6 +1,175 @@
 {
- "maj": "2026-11-26T17:11:19Z",
+ "maj": "2026-11-27T12:29:35Z",
  "alertes": [
+  {
+   "id": "2026-11-27-alerte-01",
+   "date": "2026-11-27",
+   "publiee_a": "2026-11-27T12:26:17Z",
+   "titre": "Marc Marquez annonce sa retraite avant le Grand Prix de Valence",
+   "texte": "Le pilote Marc Marquez a annoncé son départ de la compétition ce vendredi 27 novembre 2026 à Valence. L'octuple champion du monde de MotoGP disputera son dernier Grand Prix ce week-end sur le circuit espagnol.",
+   "sources": [
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Moto/Actualites/Une-semaine-apres-son-8e-titre-en-motogp-marc-marquez-annonce-la-fin-de-sa-carriere-a-valence/1746553"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/auto-moto/moto/marc-marquez-octuple-champion-du-monde-de-motogp-mettra-fin-a-sa-carriere-dimanche-a-valence_8302812.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/sports/moto/motogp-la-legende-marc-marquez-annonce-sa-retraite-a-la-fin-de-la-saison-20261127"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/sport/motogp-weltmeister-marc-marquez-verkuendet-karriereende-im-stil-von-tatsaechlich-liebe-a-d0d37d33-133f-4175-a6a3-51c10a84384f"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/deportes/motos/marc-marquez-anuncia-retirada-motociclismo-20261127105554-nt.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/sport/motorsport/articles/c539gd3r3mk2o"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html"
+    }
+   ],
+   "cluster": "b02493942d2f51b7",
+   "urls": [
+    "https://abc.es/deportes/motos/marc-marquez-anuncia-retirada-motociclismo-20261127105554-nt.html",
+    "https://abc.es/gente/imperio-marc-marquez-motogp-casa-finca-negocios-20261125024527-nt.html",
+    "https://bbc.co.uk/sport/motorsport/articles/c539gd3r3mk2o",
+    "https://bbc.co.uk/sport/motorsport/videos/c5n4e3pxnengo",
+    "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html",
+    "https://franceinfo.fr/sports/auto-moto/moto/marc-marquez-octuple-champion-du-monde-de-motogp-mettra-fin-a-sa-carriere-dimanche-a-valence_8302812.html",
+    "https://lefigaro.fr/sports/moto/motogp-la-legende-marc-marquez-annonce-sa-retraite-a-la-fin-de-la-saison-20261127",
+    "https://lequipe.fr/Moto/Actualites/Une-semaine-apres-son-8e-titre-en-motogp-marc-marquez-annonce-la-fin-de-sa-carriere-a-valence/1746553",
+    "https://spiegel.de/sport/motogp-weltmeister-marc-marquez-verkuendet-karriereende-im-stil-von-tatsaechlich-liebe-a-d0d37d33-133f-4175-a6a3-51c10a84384f",
+    "https://video.lefigaro.fr/figaro/sports/moto/l-octuple-champion-du-monde-de-motogp-marc-marquez-annonce-mettre-fin-a-sa-carriere-20261127"
+   ]
+  },
+  {
+   "id": "2026-11-27-alerte-02",
+   "date": "2026-11-27",
+   "publiee_a": "2026-11-27T12:26:41Z",
+   "titre": "L'Insee révise à la baisse le produit intérieur brut français",
+   "texte": "L'Institut national de la statistique et des études économiques a révisé ses chiffres vendredi 27 novembre 2026 en France. Le produit intérieur brut du pays a reculé de 0,2 % au troisième trimestre.",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-27/france-s-economy-slows-more-than-previously-estimated"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/france-le-pib-recule-de-02-au-troisieme-trimestre-apres-revision-a-la-baisse-20261127"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/visualisez-la-croissance-francaise-en-2025-20261030"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/la-croissance-patine-plus-que-prevu-la-france-techniquement-en-recession-20261127_LD37KX77AVFLBO65UP6QJDPNLY"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1"
+    }
+   ],
+   "cluster": "1165b5b98e3ab7e8",
+   "urls": [
+    "https://bloomberg.com/news/articles/2026-11-27/france-s-economy-slows-more-than-previously-estimated",
+    "https://france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer",
+    "https://franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html",
+    "https://ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+    "https://la-croix.com/france-le-pib-recule-de-02-au-troisieme-trimestre-apres-revision-a-la-baisse-20261127",
+    "https://lefigaro.fr/conjoncture/la-france-est-en-legere-recession-depuis-le-deuxieme-trimestre-selon-l-insee-20261127",
+    "https://lefigaro.fr/conjoncture/visualisez-la-croissance-francaise-en-2025-20261030",
+    "https://lemonde.fr/economie/article/2026/11/27/la-france-entre-en-recession-apres-deux-trimestres-de-recul-du-pib_6815824_3234.html",
+    "https://liberation.fr/economie/la-croissance-patine-plus-que-prevu-la-france-techniquement-en-recession-20261127_LD37KX77AVFLBO65UP6QJDPNLY"
+   ]
+  },
+  {
+   "id": "2026-11-27-alerte-03",
+   "date": "2026-11-27",
+   "publiee_a": "2026-11-27T12:29:35Z",
+   "titre": "Des affrontements entre supporters font plusieurs blessés au stade Vélodrome",
+   "texte": "Des heurts et des jets de projectiles entre supporters de l'Olympique de Marseille et du Levski Sofia ont eu lieu le jeudi 26 novembre 2026 au stade Vélodrome de Marseille. Ces événements survenus en marge de la rencontre de Ligue Europa ont fait au moins 11 blessés du côté bulgare selon France 24 le 27 novembre 2026 et ont entraîné l'ouverture de deux enquêtes judiciaires.",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/foot-incidents-et-blesses-a-marseille-la-bulgarie-exprime-son-indignation-20261126"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/sports/football/des-supporters-du-levski-sofia-blesses-a-marseille-la-bulgarie-exprime-son-indignation-20261127_FTGUG53OWVB6VIS24O563ZPKKI"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/football/video/2026/11/27/football-les-images-des-affrontements-entre-les-supporteurs-de-l-om-et-du-levski-sofia_6815844_1616938.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/vid%C3%A9o/20261127-incidents-et-bless%C3%A9s-%C3%A0-marseille-lors-d-om-levski-sofia-ce-que-l-on-sait"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/sports/foot/ligue-europa/deux-enquetes-ouvertes-apres-les-violences-entre-supporters-lors-du-match-om-levski-sofia_8303013.html"
+    },
+    {
+     "nom": "L'Équipe",
+     "url": "https://lequipe.fr/Football/Actualites/Violences-et-saluts-nazis-deux-enquetes-judiciaires-ouvertes-a-marseille-apres-les-incidents-face-au-levski-sofia/1746589"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/marseille/om-levski-sofia-le-parquet-de-marseille-annonce-l-ouverture-d-une-enquete-pour-violences-volontaires-aggravees-20261127"
+    }
+   ],
+   "cluster": "070a75cdb94d3999",
+   "urls": [
+    "https://france24.com/fr/france/20261127-football-des-supporters-du-levski-sofia-bless%C3%A9s-%C3%A0-marseille-la-bulgarie-exprime-son-indignation",
+    "https://france24.com/fr/vid%C3%A9o/20261127-%C3%A9changes-coups-jets-projectiles-saluts-nazis-soir%C3%A9e-chaotique-marseille-contre-levski-sofia-om-football-sport",
+    "https://france24.com/fr/vid%C3%A9o/20261127-incidents-et-bless%C3%A9s-%C3%A0-marseille-lors-d-om-levski-sofia-ce-que-l-on-sait",
+    "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/saluts-nazis-supporters-hospitalises-reaction-de-macron-ce-que-l-on-sait-des-graves-violences-lors-du-match-om-levski-sofia-3456848.html",
+    "https://franceinfo.fr/replay-radio/histoire-du-jour/ligue-europa-incidents-et-blesses-a-marseille-la-bulgarie-exprime-son-indignation_8295893.html",
+    "https://franceinfo.fr/sports/foot/les-images-en-provenance-de-marseille-sont-choquantes-les-presidents-francais-et-bulgare-expriment-leur-indignation-apres-les-affrontements-entre-supporters-de-l-om-et-du-levski-sofia_8302602.html",
+    "https://franceinfo.fr/sports/foot/ligue-europa/deux-enquetes-ouvertes-apres-les-violences-entre-supporters-lors-du-match-om-levski-sofia_8303013.html",
+    "https://franceinfo.fr/sports/foot/ligue-europa/l-association-nationale-des-supporters-condamne-fermement-les-violences-en-marge-de-la-rencontre-entre-marseille-et-le-levski-sofia_8302902.html",
+    "https://franceinfo.fr/sports/foot/ligue-europa/violents-incidents-entre-supporters-de-l-om-et-du-levski-sofia-juste-avant-la-rencontre-de-ligue-europa_8301924.html",
+    "https://franceinfo.fr/sports/foot/om/une-crise-diplomatique-apres-la-bagarre-entre-marseillais-et-bulgares_8302767.html",
+    "https://la-croix.com/foot-incidents-et-blesses-a-marseille-la-bulgarie-exprime-son-indignation-20261126",
+    "https://lefigaro.fr/marseille/om-levski-sofia-le-parquet-de-marseille-annonce-l-ouverture-d-une-enquete-pour-violences-volontaires-aggravees-20261127",
+    "https://lefigaro.fr/sports/football/ligue-europa/incidents-a-marseille-emmanuel-macron-condamne-avec-la-plus-grande-fermete-les-violences-contre-des-supporters-bulgares-au-stade-velodrome-20261127",
+    "https://lefigaro.fr/sports/football/ligue-europa/ligue-europa-incidents-entre-les-supporters-de-l-olympique-de-marseille-et-du-levski-sofia-20261126",
+    "https://lefigaro.fr/sports/football/ligue-europa/ligue-europa-la-presidente-de-la-bulgarie-denonce-une-violence-inadmissible-apres-les-affrontements-a-marseille-20261126",
+    "https://lefigaro.fr/sports/football/ligue-europa/ligue-europa-le-coach-du-levski-sofia-deplore-les-incidents-a-marseille-inacceptables-20261126",
+    "https://lefigaro.fr/sports/football/ligue-europa/ligue-europa-plusieurs-supporters-bulgares-blesses-et-evacues-a-l-hopital-soiree-chaotique-a-marseille-20261126",
+    "https://lefigaro.fr/sports/football/ligue-europa/tension-en-amont-saluts-nazis-visages-ensanglantes-ce-qu-on-sait-des-affrontements-lors-d-om-levski-sofia-20261127",
+    "https://lemonde.fr/football/video/2026/11/27/football-les-images-des-affrontements-entre-les-supporteurs-de-l-om-et-du-levski-sofia_6815844_1616938.html",
+    "https://lemonde.fr/sport/article/2026/11/27/football-emmanuel-macron-condamne-fermement-les-violences-contre-des-supporteurs-bulgares-a-marseille-sofia-reclame-une-enquete_6815725_3242.html",
+    "https://lequipe.fr/Football/Actualites/-les-autorites-ont-cree-un-risque-evident-l-association-nationale-des-supporters-reagit-aux-incidents-au-velodrome/1746566",
+    "https://lequipe.fr/Football/Actualites/Incidents-et-blesses-a-marseille-lors-d-om-levski-sofia-la-bulgarie-et-la-france-condamnent-avec-la-plus-grande-fermete/1746532",
+    "https://lequipe.fr/Football/Actualites/Quels-sont-les-acteurs-impliques-dans-les-violences-du-velodrome-lors-de-la-rencontre-entre-l-om-et-le-levski-sofia/1746571",
+    "https://lequipe.fr/Football/Actualites/Violences-et-saluts-nazis-deux-enquetes-judiciaires-ouvertes-a-marseille-apres-les-incidents-face-au-levski-sofia/1746589",
+    "https://liberation.fr/sports/football/des-supporters-du-levski-sofia-blesses-a-marseille-la-bulgarie-exprime-son-indignation-20261127_FTGUG53OWVB6VIS24O563ZPKKI",
+    "https://video.lefigaro.fr/figaro/sports/la-presidente-bulgare-denonce-une-violence-inadmissible-apres-les-agressions-dont-ont-ete-victimes-des-supporters-du-levski-sofia-a-marseille-20261127"
+   ]
+  },
   {
    "id": "2026-11-26-alerte-01",
    "date": "2026-11-26",
@@ -1109,174 +1278,6 @@
     "https://wishtv.com/news/national/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat",
     "https://www1.folha.uol.com.br/ambiente/2026/11/hipopotamo-fiona-morre-em-cincinnati-nos-eua-apos-engolir-gorro.shtml",
     "https://wymg.com/news/030030-cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat"
-   ]
-  },
-  {
-   "id": "2026-11-19-alerte-03",
-   "date": "2026-11-19",
-   "publiee_a": "2026-11-19T11:49:56Z",
-   "titre": "La Cour internationale de justice reconnaît la Birmanie coupable de génocide",
-   "texte": "La Cour internationale de justice a conclu jeudi 19 novembre 2026 à l'existence d'une intention génocidaire de la Birmanie contre la minorité rohingya. L'organe judiciaire des Nations unies attribue à cet État la responsabilité des violences commises en 2017.",
-   "sources": [
-    {
-     "nom": "Al Jazeera",
-     "url": "https://aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/asie-pacifique/la-cij-juge-que-la-birmanie-avait-lintention-de-detruire-la-population-rohingya-20261119_IKE5JJSBERHPVKPN3DVBODRX5U"
-    },
-    {
-     "nom": "Haaretz",
-     "url": "https://haaretz.com/world-news/asia-and-australia/2026-11-19/ty-article/top-un-court-rules-myanmars-actions-against-rohingya-meet-genocide-threshold/000001a1-f36d-d9ff-a7b5-f3efc1c90000"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/rohingyas-la-birmanie-avait-l-intention-de-detruire-la-population-declare-la-cij-20261119"
-    },
-    {
-     "nom": "The Hindu",
-     "url": "https://thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice"
-    }
-   ],
-   "cluster": "92d8064d9f55f83e",
-   "urls": [
-    "https://abc.es/internacional/cij-inicia-lectura-fallo-sobre-genocidio-rohingya-20261119101531-nt.html",
-    "https://aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar",
-    "https://aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake",
-    "https://aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
-    "https://bbc.co.uk/news/articles/c5m2l90ez144o",
-    "https://dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-all-1573-xml-mrss",
-    "https://elpais.com/internacional/2026-11-18/genocidio-la-dificultad-de-probar-el-crimen-de-los-crimenes.html",
-    "https://elpais.com/internacional/2026-11-18/ha-cometido-myanmar-un-genocidio-contra-los-rohinyas-el-maximo-organo-judicial-de-la-onu-resolvera-este-jueves.html",
-    "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
-    "https://english.elpais.com/international/2026-11-18/genocide-the-difficulty-of-proving-the-crime-of-crimes.html",
-    "https://english.elpais.com/international/2026-11-19/the-uns-top-court-finds-myanmars-military-killed-thousands-of-rohingya-and-subjected-them-to-extreme-violence.html",
-    "https://france24.com/fr/asie-pacifique/20261119-la-cij-juge-les-forces-birmanes-coupables-d-avoir-tu%C3%A9-des-milliers-de-civils-rohingyas",
-    "https://haaretz.com/world-news/asia-and-australia/2026-11-19/ty-article/top-un-court-rules-myanmars-actions-against-rohingya-meet-genocide-threshold/000001a1-f36d-d9ff-a7b5-f3efc1c90000",
-    "https://haaretz.com/world-news/asia-and-australia/2026-11-19/ty-article/top-un-court-to-rule-on-myanmars-rohingya-genocide-case/000001a1-f2a1-d175-abf5-feb508aa0000",
-    "https://la-croix.com/international/rohingyas-la-birmanie-avait-l-intention-de-detruire-la-population-declare-la-cij-20261119",
-    "https://lemonde.fr/international/article/2026/11/17/l-arret-tres-attendu-de-la-cour-internationale-de-justice-sur-la-question-du-genocide-des-rohingya_6813016_3210.html",
-    "https://liberation.fr/international/asie-pacifique/la-cij-juge-que-la-birmanie-avait-lintention-de-detruire-la-population-rohingya-20261119_IKE5JJSBERHPVKPN3DVBODRX5U",
-    "https://liberation.fr/international/asie-pacifique/rohingyas-pourquoi-larret-de-la-cij-sur-un-possible-genocide-sera-determinant-20261117_QEERYSR74FETRKDXQBGU43X7W4",
-    "https://nrc.nl/nieuws/2026/11/17/internationaal-gerechtshof-kan-belangrijk-precedent-scheppen-met-oordeel-in-genocidezaak-tegen-myanmar-a4941618",
-    "https://rfi.fr/fr/asie-pacifique/20261119-g%C3%A9nocide-des-rohingya-en-birmanie-une-d%C3%A9cision-historique-attendue-de-la-cour-internationale-de-justice",
-    "https://rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice",
-    "https://straitstimes.com/asia/from-2017-crackdown-to-un-court-a-decade-of-the-rohingya-crisis",
-    "https://straitstimes.com/asia/se-asia/rohingya-crisis-remains-unresolved-as-icj-rules-on-myanmar",
-    "https://straitstimes.com/world/europe/top-un-court-to-rule-on-alleged-genocide-of-myanmars-rohingya",
-    "https://theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-    "https://thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
-    "https://thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece"
-   ]
-  },
-  {
-   "id": "2026-11-19-alerte-01",
-   "date": "2026-11-19",
-   "publiee_a": "2026-11-19T02:41:03Z",
-   "titre": "Un tableau de Van Gogh vendu aux enchères pour un montant record",
-   "texte": "La maison Sotheby's a adjugé la toile « Châtaigniers en fleurs » pour 190,4 millions de dollars mercredi 18 novembre 2026 à New York. Cette transaction survient après la conclusion d'un accord avec des ayants droit juifs qui contestaient la vente de cette œuvre réalisée en 1890 par le peintre hollandais.",
-   "sources": [
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/culture/20261118-ch%C3%A2taigniers-en-fleurs-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html"
-    },
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/esteri/26_novembre_19/asta-record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari-0da5c3aa-d812-4f1f-90ba-f5d1e91d5xlk.shtml"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/c5dj1dkwzvzwo"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/kultur/vincent-van-gogh-bluehende-kastanienbaeume-fuer-190-4-millionen-dollar-versteigert-a-93094bbd-5436-401b-a926-b7196c6727ab"
-    },
-    {
-     "nom": "NRC",
-     "url": "https://nrc.nl/nieuws/2026/11/19/meesterwerk-van-van-gogh-verkocht-voor-een-recordbedrag-van-1904-miljoen-dollar-a4941801"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/cultura/arte/cuadro-subastado-van-gogh-bate-record-vende-20261119005856-nt.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/pintura-de-van-gogh-e-vendida-a-preco-recorde-de-r-11-bilhao-em-leilao.shtml"
-    }
-   ],
-   "cluster": "010f1134ac6345f9",
-   "urls": [
-    "https://abc.es/cultura/arte/cuadro-subastado-van-gogh-bate-record-vende-20261119005856-nt.html",
-    "https://bbc.co.uk/news/articles/c5dj1dkwzvzwo",
-    "https://corriere.it/esteri/26_novembre_19/asta-record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari-0da5c3aa-d812-4f1f-90ba-f5d1e91d5xlk.shtml",
-    "https://english.elpais.com/culture/2026-11-18/the-story-behind-the-van-gogh-going-under-the-hammer-at-sothebys-from-nazi-plunder-to-the-argentine-dictatorship.html",
-    "https://france24.com/fr/culture/20261118-ch%C3%A2taigniers-en-fleurs-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre",
-    "https://lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
-    "https://liberation.fr/culture/arts/new-york-la-mise-aux-encheres-dun-van-gogh-confirmee-malgre-la-contestation-dheritiers-20261117_LGJRE4RRNZCMZH6CDRQ4EBJIOM",
-    "https://nrc.nl/nieuws/2026/11/19/meesterwerk-van-van-gogh-verkocht-voor-een-recordbedrag-van-1904-miljoen-dollar-a4941801",
-    "https://spiegel.de/kultur/vincent-van-gogh-bluehende-kastanienbaeume-fuer-190-4-millionen-dollar-versteigert-a-93094bbd-5436-401b-a926-b7196c6727ab",
-    "https://www1.folha.uol.com.br/ilustrada/2026/11/pintura-de-van-gogh-e-vendida-a-preco-recorde-de-r-11-bilhao-em-leilao.shtml",
-    "https://www1.folha.uol.com.br/ilustrada/2026/11/sothebys-confirma-leilao-de-van-gogh-por-r-1-bi-apesar-de-reivindicacao-de-herdeiros.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-19-alerte-02",
-   "date": "2026-11-19",
-   "publiee_a": "2026-11-19T02:41:05Z",
-   "titre": "Elon Musk regrette ses dons financiers importants pour les républicains",
-   "texte": "Elon Musk a déclaré le 19 novembre 2026 lors du sommet Dealbook du New York Times qu'il se sentait idiot d'avoir dépensé des sommes importantes pour soutenir le parti républicain lors des élections de mi-mandat aux États-Unis.",
-   "sources": [
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/midterms-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autant-d-argent-20261119"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o"
-    },
-    {
-     "nom": "Financial Times",
-     "url": "https://ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1"
-    }
-   ],
-   "cluster": "3ccfc8b63d999917",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o",
-    "https://bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout",
-    "https://ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
-    "https://lefigaro.fr/international/midterms-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autant-d-argent-20261119",
-    "https://straitstimes.com/world/united-states/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout",
-    "https://theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
    ]
   }
  ]

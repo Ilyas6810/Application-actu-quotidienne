@@ -1,0 +1,283 @@
+{
+ "date": "2026-11-27",
+ "genere_a": "2026-11-27T09:19:12Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-27-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Le défilé de Thanksgiving à New York reporté samedi face aux intempéries",
+   "chapeau": "Les organisateurs ont décalé la centième édition du défilé de Thanksgiving de Macy's à New York au samedi 28 novembre 2026. Une perturbation météorologique accompagnée de pluies et de vents touche la côte est des États-Unis ce jeudi 26 novembre 2026.",
+   "corps": "La ville de New York ne maintient pas le traditionnel défilé de Thanksgiving à sa date initiale du jeudi 26 novembre 2026. Les responsables de l'événement décalent la marche au samedi 28 novembre 2026. Les prévisions météorologiques annoncent l'arrivée d'une tempête sur le secteur. Les services météorologiques prévoient des rafales de vent et des précipitations d'eau dans la zone urbaine.\n\nCette modification de calendrier survient pour la première fois en cent ans d'existence du rassemblement. L'organisation cherche à garantir la sécurité des participants et des spectateurs. Les autorités municipales font face à des conditions climatiques qui perturbent les festivités sur l'ensemble du territoire national.\n\nSelon la correspondante de France 24, Émilie Musset, le vendredi 27 novembre 2026 à 06:58, la municipalité de New York déclare l'état d'urgence. Ce dispositif juridique donne des pouvoirs exceptionnels aux autorités locales pour gérer les risques. La journaliste précise également que la tempête touche de nombreux foyers dans l'État voisin du New Jersey.\n\nLa perturbation atmosphérique frappe une grande partie de la côte est des États-Unis. La tempête apporte des rafales destructrices, des précipitations d'eau abondantes et des phénomènes de submersion marine. Les météorologues observent également des marées hautes et des inondations dans plusieurs zones territoriales. La situation climatique perturbe la circulation sur les deux littoraux du pays.\n\nLes déplacements de la population subissent de fortes perturbations durant cette période de fête. La radio publique américaine NPR indique le jeudi 26 novembre 2026 à 13:43 que la tempête affecte les trajets de 81,5 millions de voyageurs à travers les États-Unis. Les routes et les lignes de transport subissent des retards et des interruptions.\n\nLe secteur aérien enregistre de nombreuses annulations de liaisons. Le journal Der Spiegel rapporte le vendredi 27 novembre 2026 à 00:47 que les compagnies aériennes annulent des centaines de vols en raison du climat. Le quotidien The Hindu confirme le vendredi 27 novembre 2026 à 11:22 la suppression de 400 vols sur le territoire américain.\n\nLe réseau électrique subit aussi des dommages importants sous l'effet des intempéries. Le média allemand Der Spiegel précise le vendredi 27 novembre 2026 à 00:47 que le passage de la tempête prive environ 770 000 clients d'approvisionnement en énergie électrique. Les techniciens travaillent sur les lignes pour rétablir le courant dans les zones touchées par la coupure.\n\nLe défilé de Macy's constitue le rassemblement principal des célébrations de Thanksgiving dans la métropole new-yorkaise. La manifestation devait célébrer son centième anniversaire le jeudi 26 novembre 2026. L'événement se déroulera finalement durant la journée du samedi 28 novembre 2026 avec le même parcours.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/weather/articles/cr894e8dd7wqo"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/panorama/new-york-sturmwarnung-verschiebt-thanksgiving-parade-a-db806430-86b6-4cbb-b14f-5fa4cfde3b26"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/previsao-de-tempestade-adia-tradicional-desfile-de-acao-de-gracas-de-nova-york-pela-primeira-vez-em-cem-anos.shtml"
+    }
+   ],
+   "premiere_parution": "2026-11-24T13:32:01Z",
+   "suite_de": null,
+   "mots": 471,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-27-monde-002",
+   "rubrique": "monde",
+   "format": "breve",
+   "titre": "Des tempêtes privent d'électricité des centaines de milliers de foyers américains",
+   "chapeau": "De violentes intempéries ont touché la côte est et la côte ouest des États-Unis le jeudi 26 novembre 2026, pendant les fêtes de Thanksgiving. Les tempêtes ont provoqué de nombreuses coupures de courant et ont fortement perturbé les transports aériens et routiers.",
+   "corps": "De fortes pluies, des rafales de vent, des chutes de neige et des inondations sur les littoraux ont frappé le territoire américain lors des rassemblements familiaux de Thanksgiving. Les dégâts matériels et les intempéries touchent principalement le nord-est du pays, tout en affectant l'ensemble de la côte est et la côte ouest.\n\nLes perturbations météorologiques ont entraîné la fermeture de nombreux axes routiers et la paralysie des réseaux de transport. Le trafic aérien subit également d'importantes perturbations. Les aéroports enregistrent des retards sur plus de 2 000 vols. Les compagnies aériennes ont annulé près de 500 autres liaisons à travers le pays.\n\n## Ce que disent les sources\n\nLe journal The Straits Times indique le 27 novembre 2026 à 02h20 que plus de 836 000 clients des services publics étaient privés d'électricité. La publication El País rapporte le 27 novembre 2026 à 08h10 qu'environ un million de foyers n'avaient plus de courant au cours de l'après-midi et de la nuit, et avance le chiffre de plus de 900 000 habitations touchées. L'information d'un bilan approchant un million de coupures est reprise par Al Jazeera le 27 novembre 2026 à 08h34, puis par BBC News le 27 novembre 2026 à 09h15 pour la soirée du jeudi. Le Monde précise le 27 novembre 2026 à 11h29 que plus de 900 000 foyers sont sans électricité sur la côte est. El País confirme le 27 novembre 2026 à 12h51 un nombre supérieur à 900 000 foyers privés d'électricité.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-27/las-tormentas-dejan-mas-de-900000-hogares-sin-luz-en-thanksgiving-en-estados-unidos.html"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/ckm2mz3prq77o"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html"
+    }
+   ],
+   "premiere_parution": "2026-11-26T22:20:00Z",
+   "suite_de": null,
+   "mots": 286,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-27-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "standard",
+   "titre": "Donald Trump demande à Vladimir Poutine d'arrêter toute agression militaire en Europe",
+   "chapeau": "Le président américain Donald Trump a déclaré le jeudi 26 novembre 2026 avoir demandé au dirigeant russe Vladimir Poutine de mettre fin aux attaques armées sur le continent européen. Cette prise de position s'est exprimée dans un message en ligne après un échange bilatéral survenu une semaine plus tôt en Chine.",
+   "corps": "Le chef de l'État américain Donald Trump a publié un message sur le réseau social Truth Social le jeudi 26 novembre 2026. Dans cette déclaration, le président américain affirme s'être entretenu directement avec son homologue russe Vladimir Poutine lors d'un déplacement en Chine mené la semaine précédente. Au cours de cette rencontre, organisée à la fois lors d'un entretien en tête-à-tête et en présence du président chinois Xi Jinping, le dirigeant américain indique avoir réclamé un retrait des forces armées russes stationnées en Europe.\n\nDans sa publication, Donald Trump soutient qu'un terme doit être mis à l'action armée menée par Moscou contre des territoires européens. Le président des États-Unis a exprimé à cette occasion son espoir de voir s'conclure rapidement un accord diplomatique entre le gouvernement russe et le gouvernement ukrainien pour stopper le conflit actif.\n\nCette déclaration marque une évolution de vocabulaire de la part du chef d'État américain. Une semaine avant cette prise de parole publique, Donald Trump qualifiait encore Vladimir Poutine comme étant son ami. L'appel au recul militaire représente un changement de ton direct envers la conduite de Moscou.\n\nLes réactions internationales à cette sortie numérique sont intervenues dès le vendredi 27 novembre 2026. Le chancelier allemand Friedrich Merz a exprimé son soutien explicite à la demande formulée par le président américain à l'encontre de Vladimir Poutine. De son côté, le président ukrainien Volodymyr Zelenskyy a lancé une mise en garde concernant la préparation d'une offensive russe majeure, dans un contexte de recrudescence des affrontements et des frappes entre les deux camps armés.\n\nLe texte diffusé sur Internet par le président américain ne mentionne pas précisément les pays visés par sa requête ni l'intégration explicite de l'Ukraine dans ce périmètre géographique.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/trump-says-hed-like-to-see-putin-pull-back-military-aggression-in-europe"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/2026/11/trump-agora-pede-para-putin-recuar-de-agressoes-na-europa.shtml"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-dit-souhaiter-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe_8302359.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261127-en-direct-trump-dit-souhaiter-que-poutine-mette-fin-%C3%A0-toute-agression-militaire-en-europe"
+    }
+   ],
+   "premiere_parution": "2026-11-26T15:26:02Z",
+   "suite_de": null,
+   "mots": 336,
+   "modele": "gemini-3.5-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-27-tech-001",
+   "rubrique": "tech",
+   "format": "standard",
+   "titre": "La régulation américaine autorise SpaceX à lancer un million de satellites",
+   "chapeau": "La Commission fédérale des communications des États-Unis a accordé une autorisation à l'entreprise SpaceX pour déployer jusqu'à un million de satellites en orbite terrestre. Cette décision permet au groupe d'Elon Musk de constituer un réseau spatial de centres de données d'ici l'année 2040.",
+   "corps": "La Commission fédérale des communications des États-Unis, sous l'administration Trump, a donné son accord officiel à la société SpaceX pour le lancement de satellites destinés à l'hébergement de données. L'autorisation accordée à l'entreprise court jusqu'en 2040, d'après France 24 le 26 novembre 2026. Le projet porte le nom de réseau Starmind. L'objectif consiste à installer des infrastructures informatiques en orbite autour de la Terre.\n\nCette constellation vise à fournir la puissance de calcul requise par l'intelligence artificielle. Selon la British Broadcasting Corporation le 26 novembre 2026, l'entreprise recherche une efficacité énergétique et financière accrue pour répondre à la demande technologique. Les projets de centres de données spatiaux connaissent une multiplication constante depuis 2025, d'après The Straits Times le 26 novembre 2026. L'espace présente des atouts structurels par rapport aux installations terrestres, selon Le Monde le 26 novembre 2026. La mise en service de ce réseau pourrait débuter au quatrième trimestre de l'année 2027, d'après les informations de la journaliste Charlie Perreau transmises par franceinfo le 27 novembre 2026.\n\nLe secteur de la technologie spatiale enregistre des initiatives concurrentes. Le groupe Google mène ses propres travaux dans ce domaine, d'après Le Monde le 26 novembre 2026. La société Blue Origin a également déposé un dossier de demande d'autorisation pour son propre projet, selon la même source. SpaceX s'inscrit ainsi dans une compétition industrielle globale pour la délocalisation orbitale des serveurs informatiques.\n\nLes membres de la communauté scientifique expriment de fortes réserves face à cette décision administrative. Des astronomes ont déclaré leur consternation à la suite de cette approbation, d'après le journal ABC le 26 novembre 2026. Les scientifiques soulignent des risques d'interférences avec l'observation des objets célestes ainsi que la création de débris spatiaux supplémentaires, selon l'Agence France-Presse le 26 novembre 2026. Le déploiement des satellites existants de SpaceX perturbe déjà la surveillance des astéroïdes dangereux et l'étude scientifique de l'espace, d'après le quotidien El País le 26 novembre 2026.\n\nLe coût total du projet Starmind et les caractéristiques techniques précises des satellites n'ont pas été communiqués.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/us-clears-spacex-to-launch-up-to-one-million-orbital-data-centre-satellites"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261125-spacex-pourra-lancer-un-million-satellites-centres-de-donnees-espace"
+    },
+    {
+     "nom": "The Register",
+     "url": "https://theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/wissenschaft/elon-musk-spacex-erhaelt-fcc-genehmigung-fuer-ki-rechenzentren-im-weltall-a-0547f262-8951-4710-a8f0-c99caba8d37f"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html"
+    }
+   ],
+   "premiere_parution": "2026-11-25T18:05:26Z",
+   "suite_de": null,
+   "mots": 379,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-27-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "La justice française confirme le procès de Gérard Depardieu pour viol",
+   "chapeau": "La cour d'appel de Paris a confirmé jeudi 26 novembre 2026 le renvoi de Gérard Depardieu devant la cour criminelle pour viol et agression sexuelle. L'acteur fera face à un procès à la suite d'une plainte déposée par la comédienne Charlotte Arnould pour des faits survenus à Paris en août 2018.",
+   "corps": "La cour d'appel de Paris a rejeté la requête des avocats de Gérard Depardieu le 26 novembre 2026. Cette décision valide l'ordonnance de mise en accusation prononcée en août 2025. L'instruction judiciaire a duré cinq années selon Le Figaro du 26 novembre 2026. Un pourvoi en cassation reste possible selon Le Monde du 26 novembre 2026.\n\nLes faits reprochés se sont produits le 7 août 2018 selon La Croix du 26 novembre 2026. Charlotte Arnould s'est rendue au domicile parisien de l'acteur pour répéter une pièce de théâtre et obtenir des conseils professionnels selon NRC du 26 novembre 2026. Le comédien connaissait l'actrice depuis son enfance car il était un ami de son père selon NRC du 26 novembre 2026. La comédienne était âgée de 22 ans au moment des faits selon ABC du 26 novembre 2026. Elle accuse l'acteur de l'avoir violée à deux reprises dans sa résidence selon ABC du 26 novembre 2026. Gérard Depardieu est aujourd'hui âgé de 77 ans selon Le Figaro du 26 novembre 2026.\n\nPour rendre sa décision, le magistrat a examiné les enregistrements des caméras de surveillance installées dans la demeure de l'accusé selon le Corriere della Sera du 26 novembre 2026. La défense du comédien affirme que Charlotte Arnould n'a pas opposé de résistance selon le Corriere della Sera du 26 novembre 2026. L'équipe juridique de Gérard Depardieu indique que l'acteur conteste l'intégralité des accusations et nie avoir commis l'infracion selon ABC du 26 novembre 2026. La justice n'a pas retenu l'ensemble des accusations initiales pour ce procès selon Le Monde et Der Spiegel du 26 novembre 2026.\n\nL'interprète a déjà fait l'objet d'une condamnation dans une autre affaire d'agression sexuelle selon El País du 26 novembre 2026. Charlotte Arnould s'est exprimée le vendredi 27 novembre 2026 sur l'antenne de France Inter selon franceinfo et Libération du 27 novembre 2026. La comédienne y a qualifié la décision de la cour d'appel de victoire selon franceinfo du 27 novembre 2026.\n\nLa date d'ouverture du procès devant la cour criminelle n'est pas précisée par les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/sociedad/2026-11-26/la-justicia-francesa-confirma-que-gerard-depardieu-se-sentara-de-nuevo-en-el-banquillo-por-violacion.html"
+    },
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126"
+    },
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_26/gerard-depardieu-rinviato-a-giudizio-per-lo-stupro-dell-attrice-charlotte-arnould-c1924995-51a0-46ce-b167-40d7578abxlk.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/gerard-depardieu-renvoye-devant-la-cour-criminelle-pour-viols-sur-la-comedienne-charlotte-arnould-20261126"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmlyd76kyx44o"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/actor-gerard-depardieu-nuevo-juzgado-violacion-20261126153914-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/kino/depardieu-scheitert-offenbar-mit-einspruch-gegen-vergewaltigungsprozess-a-ad47007f-3d8f-4cc5-afec-373f6aba3d01"
+    }
+   ],
+   "premiere_parution": "2026-11-26T07:02:52Z",
+   "suite_de": null,
+   "mots": 393,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-27-tech-001",
+  "2026-11-27-monde-001",
+  "2026-11-27-culture-001",
+  "2026-11-27-monde-002",
+  "2026-11-27-geopolitique-001"
+ ]
+}

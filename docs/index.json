@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-26T09:07:42Z",
- "derniere": "2026-11-26",
+ "maj": "2026-11-27T09:19:12Z",
+ "derniere": "2026-11-27",
  "editions": [
+  {
+   "date": "2026-11-27",
+   "genere_a": "2026-11-27T09:19:12Z",
+   "articles": 5,
+   "une": [
+    "La régulation américaine autorise SpaceX à lancer un million de satellites",
+    "Le défilé de Thanksgiving à New York reporté samedi face aux intempéries",
+    "La justice française confirme le procès de Gérard Depardieu pour viol"
+   ],
+   "octets": 21872
+  },
   {
    "date": "2026-11-26",
    "genere_a": "2026-11-26T09:07:42Z",

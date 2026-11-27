@@ -1,6 +1,73 @@
 {
- "maj": "2026-11-27T12:29:35Z",
+ "maj": "2026-11-27T23:33:19Z",
  "alertes": [
+  {
+   "id": "2026-11-28-alerte-01",
+   "date": "2026-11-28",
+   "publiee_a": "2026-11-27T23:32:56Z",
+   "titre": "Standard and Poor's place la dette de la France sous perspective négative",
+   "texte": "L'agence Standard and Poor's a révisé la perspective de la dette souveraine française à négative le vendredi 27 novembre 2026. La société de notation financière maintient néanmoins l'évaluation globale du pays au niveau A+.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/conjoncture/dette-standard-poor-s-abaisse-la-perspective-de-la-note-francaise-a-negative-20261127"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/economie/dette-sp-degrade-la-perspective-francaise-de-stable-a-negative-mais-maintient-sa-note-a-a-20261127_Z5M25BQXERGLXLJDRM5MDHTN5Q"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/economie/budget/l-agende-de-notation-standard-poor-s-menace-de-degrader-prochainement-la-note-de-la-france_8302788.html"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/%C3%A9co-tech/20261127-apr%C3%A8s-entr%C3%A9e-france-r%C3%A9cession-agence-standard-and-poor-s-menace-d%C3%A9grader-note-souveraine"
+    }
+   ],
+   "cluster": "635b363132a6d669",
+   "urls": [
+    "https://france24.com/fr/%C3%A9co-tech/20261127-apr%C3%A8s-entr%C3%A9e-france-r%C3%A9cession-agence-standard-and-poor-s-menace-d%C3%A9grader-note-souveraine",
+    "https://franceinfo.fr/economie/budget/l-agende-de-notation-standard-poor-s-menace-de-degrader-prochainement-la-note-de-la-france_8302788.html",
+    "https://franceinfo.fr/replay-radio/le-decryptage-eco/l-agence-de-notation-standard-poor-s-va-rendre-son-avis-sur-la-note-francaise_8280260.html",
+    "https://lefigaro.fr/conjoncture/dette-pourquoi-les-agences-s-p-fitch-et-moody-s-sont-si-complaisantes-envers-la-france-20261127",
+    "https://lefigaro.fr/conjoncture/dette-standard-poor-s-abaisse-la-perspective-de-la-note-francaise-a-negative-20261127",
+    "https://lefigaro.fr/conjoncture/quelle-est-la-note-s-p-des-voisins-de-la-france-20261127",
+    "https://lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+    "https://liberation.fr/economie/dette-sp-degrade-la-perspective-francaise-de-stable-a-negative-mais-maintient-sa-note-a-a-20261127_Z5M25BQXERGLXLJDRM5MDHTN5Q"
+   ]
+  },
+  {
+   "id": "2026-11-28-alerte-02",
+   "date": "2026-11-28",
+   "publiee_a": "2026-11-27T23:33:19Z",
+   "titre": "Quatre députés La France insoumise ciblés par des menaces de mort",
+   "texte": "Mathilde Panot a saisi la procureure de Paris après la réception de courriels menaçants le 27 novembre 2026. Ces messages visaient quatre élus de La France insoumise et provenaient d'une adresse utilisant le nom de l'auteur de l'attentat de Trappes.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/societe/article/2026/11/27/mathilde-panot-et-trois-autres-deputes-insoumis-vises-par-des-menaces-de-mort-provenant-d-une-adresse-e-mail-reprenant-le-nom-de-l-auteur-de-l-attentat-raciste-de-trappes_6815932_3224.html"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/politique/lfi-mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-envoyees-a-des-deputes-avec-une-adresse-au-nom-de-lassaillant-de-trappes-20261127_OUKDM3ITY5BRDHIYR77OUH4KXI"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/politique/la-france-insoumise/mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-contre-plusieurs-deputes-de-la-france-insoumise_8303808.html"
+    }
+   ],
+   "cluster": "7beaafbb06bbcce2",
+   "urls": [
+    "https://franceinfo.fr/politique/la-france-insoumise/mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-contre-plusieurs-deputes-de-la-france-insoumise_8303808.html",
+    "https://lemonde.fr/societe/article/2026/11/27/mathilde-panot-et-trois-autres-deputes-insoumis-vises-par-des-menaces-de-mort-provenant-d-une-adresse-e-mail-reprenant-le-nom-de-l-auteur-de-l-attentat-raciste-de-trappes_6815932_3224.html",
+    "https://liberation.fr/politique/lfi-mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-envoyees-a-des-deputes-avec-une-adresse-au-nom-de-lassaillant-de-trappes-20261127_OUKDM3ITY5BRDHIYR77OUH4KXI"
+   ]
+  },
   {
    "id": "2026-11-27-alerte-01",
    "date": "2026-11-27",
@@ -1111,173 +1178,6 @@
     "https://lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
     "https://liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU",
     "https://rfi.fr/fr/france/20261120-france-le-parlement-adopte-d%C3%A9finitivement-la-pr%C3%A9somption-d-usage-l%C3%A9gitime-des-armes-par-les-forces-de-l-ordre"
-   ]
-  },
-  {
-   "id": "2026-11-20-alerte-02",
-   "date": "2026-11-20",
-   "publiee_a": "2026-11-20T11:51:21Z",
-   "titre": "L'armée russe bombarde l'Ukraine et endommage plusieurs ponts à Kiev",
-   "texte": "L'armée russe a tiré des missiles sur l'Ukraine dans la nuit du vendredi 20 novembre 2026. Les bombardements ont ciblé la capitale Kiev, où des infrastructures et des ponts ont subi des dégâts.",
-   "sources": [
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/europe/20261120-ukraine-des-frappes-russes-font-trois-morts-deux-ponts-endommag%C3%A9s-%C3%A0-kiev"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/international/europe/frappes-russes-sur-lukraine-trois-morts-et-deux-ponts-endommages-a-kyiv-20261120_W7QX73VLTZCHBABYZILD6KU4HY"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/international/guerre-en-ukraine-deux-ponts-endommages-a-kiev-par-des-tirs-de-missiles-balistiques-russes-20261120"
-    },
-    {
-     "nom": "El País",
-     "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html"
-    },
-    {
-     "nom": "ABC",
-     "url": "https://abc.es/internacional/mueren-cinco-personas-ataque-masivo-rusia-kiev-20261120111714-nt.html"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/mundo/2026/11/russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.shtml"
-    },
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/international/ukraine-russie-jour-1731-point-conflit-ukrainien-poutine-aujourdhui-20261120"
-    }
-   ],
-   "cluster": "7e223ba29bef7009",
-   "urls": [
-    "https://abc.es/internacional/mueren-cinco-personas-ataque-masivo-rusia-kiev-20261120111714-nt.html",
-    "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
-    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html",
-    "https://la-croix.com/international/ukraine-russie-jour-1731-point-conflit-ukrainien-poutine-aujourdhui-20261120",
-    "https://lefigaro.fr/international/guerre-en-ukraine-deux-ponts-endommages-a-kiev-par-des-tirs-de-missiles-balistiques-russes-20261120",
-    "https://liberation.fr/international/europe/frappes-russes-sur-lukraine-trois-morts-et-deux-ponts-endommages-a-kyiv-20261120_W7QX73VLTZCHBABYZILD6KU4HY",
-    "https://rfi.fr/fr/europe/20261120-ukraine-des-frappes-russes-font-trois-morts-deux-ponts-endommag%C3%A9s-%C3%A0-kiev",
-    "https://standard.net.au/story/9395009/eight-killed-bridges-hit-as-russia-pummels-ukraine",
-    "https://www1.folha.uol.com.br/mundo/2026/11/russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.shtml"
-   ]
-  },
-  {
-   "id": "2026-11-20-alerte-03",
-   "date": "2026-11-20",
-   "publiee_a": "2026-11-20T12:01:57Z",
-   "titre": "L'ancien Premier ministre Dominique de Villepin brigue la présidence en 2027",
-   "texte": "Dominique de Villepin s'est déclaré candidat pour l'élection présidentielle de 2027 lors d'une prise de parole à Paris vendredi 20 novembre 2026. L'ancien Premier ministre affirme vouloir offrir une alternative au macronisme, à La France insoumise ainsi qu'au Rassemblement national.",
-   "sources": [
-    {
-     "nom": "La Croix",
-     "url": "https://la-croix.com/politique/presidentielle-2027-dominique-de-villepin-au-defi-de-transformer-sa-popularite-en-votes-20261119"
-    },
-    {
-     "nom": "RFI",
-     "url": "https://rfi.fr/fr/france/20261120-pr%C3%A9sidentielle-2027-en-france-dominique-de-villepin-annonce-officiellement-sa-candidature"
-    },
-    {
-     "nom": "Le Monde",
-     "url": "https://lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html"
-    },
-    {
-     "nom": "Le Figaro",
-     "url": "https://lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120"
-    },
-    {
-     "nom": "Libération",
-     "url": "https://liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI"
-    },
-    {
-     "nom": "franceinfo",
-     "url": "https://franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html"
-    },
-    {
-     "nom": "Bloomberg",
-     "url": "https://bloomberg.com/news/articles/2026-11-20/france-s-villepin-ex-prime-minister-joins-race-for-presidency"
-    },
-    {
-     "nom": "France 24",
-     "url": "https://france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-dominique-de-villepin-annonce-sa-candidature"
-    }
-   ],
-   "cluster": "d93eb76370d584bd",
-   "urls": [
-    "https://bloomberg.com/news/articles/2026-11-20/france-s-villepin-ex-prime-minister-joins-race-for-presidency",
-    "https://france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs",
-    "https://france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-dominique-de-villepin-annonce-sa-candidature",
-    "https://franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html",
-    "https://franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html",
-    "https://la-croix.com/politique/presidentielle-2027-dominique-de-villepin-au-defi-de-transformer-sa-popularite-en-votes-20261119",
-    "https://lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
-    "https://lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118",
-    "https://lefigaro.fr/politique/pensez-vous-que-dominique-de-villepin-peut-etre-elu-president-de-la-republique-20261120",
-    "https://lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html",
-    "https://liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI",
-    "https://rfi.fr/fr/france/20261120-pr%C3%A9sidentielle-2027-en-france-dominique-de-villepin-annonce-officiellement-sa-candidature"
-   ]
-  },
-  {
-   "id": "2026-11-20-alerte-01",
-   "date": "2026-11-20",
-   "publiee_a": "2026-11-20T02:29:44Z",
-   "titre": "L'hippopotame Fiona meurt après avoir avalé un bonnet dans un zoo américain",
-   "texte": "L'hippopotame Fiona est morte le jeudi 19 novembre 2026 au zoo de Cincinnati, aux États-Unis. L'animal âgé de neuf ans a succombé après avoir ingéré un bonnet tombé dans son enclos.",
-   "sources": [
-    {
-     "nom": "Corriere della Sera",
-     "url": "https://corriere.it/animali/26_novembre_19/morta-fiona-l-ippopotamo-star-dello-zoo-di-cincinnati-aveva-ingerito-un-cappello-di-lana-102b2ff6-73f7-4ed7-8371-32d4d7ec2xlk.shtml"
-    },
-    {
-     "nom": "The Guardian",
-     "url": "https://theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
-    },
-    {
-     "nom": "The Straits Times",
-     "url": "https://straitstimes.com/world/united-states/cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat"
-    },
-    {
-     "nom": "Der Spiegel",
-     "url": "https://spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb"
-    },
-    {
-     "nom": "BBC News",
-     "url": "https://bbc.co.uk/news/articles/cwz0k3172xzko"
-    },
-    {
-     "nom": "Folha de S.Paulo",
-     "url": "https://www1.folha.uol.com.br/ambiente/2026/11/hipopotamo-fiona-morre-em-cincinnati-nos-eua-apos-engolir-gorro.shtml"
-    },
-    {
-     "nom": "Deutsche Welle",
-     "url": "https://dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-xml-mrss"
-    }
-   ],
-   "cluster": "90471d5fe9d354c3",
-   "urls": [
-    "https://bbc.co.uk/news/articles/cm2d93z0e9gjo",
-    "https://bbc.co.uk/news/articles/cwz0k3172xzko",
-    "https://bbc.co.uk/news/videos/cq39gvj9y7xpo",
-    "https://corriere.it/animali/26_novembre_19/morta-fiona-l-ippopotamo-star-dello-zoo-di-cincinnati-aveva-ingerito-un-cappello-di-lana-102b2ff6-73f7-4ed7-8371-32d4d7ec2xlk.shtml",
-    "https://countypress.co.uk/news/national/26746753.us-zoo-says-fiona-hippo-died-days-swallowing-visitors-hat",
-    "https://dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-xml-mrss",
-    "https://f5.folha.uol.com.br/bichos/2026/11/hipopotamo-fiona-morre-aos-9-anos-apos-engolir-gorro-nos-eua.shtml",
-    "https://latimes.com/world-nation/story/2026-11-19/cincinnati-zoo-says-fiona-hippo-has-died-days-after-ingesting-visitors-hat",
-    "https://literock973.com/news/030030-cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat",
-    "https://spiegel.de/panorama/zoo-cincinnati-muetze-verschluckt-flusspferd-fiona-kann-nicht-operiert-werden-a-66027134-5e11-4831-b469-916a24bedd7b",
-    "https://spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb",
-    "https://standard.net/top-headlines/2026/nov/19/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat",
-    "https://straitstimes.com/world/united-states/cincinnati-zoo-says-fiona-the-hippo-is-undergoing-care-after-eating-a-hat-that-got-into-enclosure",
-    "https://straitstimes.com/world/united-states/cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat",
-    "https://theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
-    "https://wishtv.com/news/national/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat",
-    "https://www1.folha.uol.com.br/ambiente/2026/11/hipopotamo-fiona-morre-em-cincinnati-nos-eua-apos-engolir-gorro.shtml",
-    "https://wymg.com/news/030030-cincinnati-zoos-famed-fiona-the-hippo-dies-days-after-eating-a-visitors-hat"
    ]
   }
  ]

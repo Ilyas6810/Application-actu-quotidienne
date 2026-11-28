@@ -1,0 +1,246 @@
+{
+ "date": "2026-11-28",
+ "genere_a": "2026-11-28T08:41:36Z",
+ "rubriques": [
+  {
+   "id": "une",
+   "nom": "À la une"
+  },
+  {
+   "id": "monde",
+   "nom": "Monde"
+  },
+  {
+   "id": "france",
+   "nom": "France"
+  },
+  {
+   "id": "geopolitique",
+   "nom": "Géopolitique"
+  },
+  {
+   "id": "economie",
+   "nom": "Économie"
+  },
+  {
+   "id": "tech",
+   "nom": "Tech / IA"
+  },
+  {
+   "id": "sciences",
+   "nom": "Sciences"
+  },
+  {
+   "id": "sante",
+   "nom": "Santé"
+  },
+  {
+   "id": "sport",
+   "nom": "Sport"
+  },
+  {
+   "id": "culture",
+   "nom": "Culture"
+  }
+ ],
+ "articles": [
+  {
+   "id": "2026-11-28-monde-001",
+   "rubrique": "monde",
+   "format": "standard",
+   "titre": "Les électeurs de Taïwan ont voté pour renouveler leurs dirigeants municipaux",
+   "chapeau": "Les électeurs taïwanais se sont rendus aux urnes ce samedi 28 novembre 2026 pour désigner plusieurs milliers de dirigeants locaux et municipaux. Ce scrutin territorial oppose principalement le Parti démocrate progressiste au pouvoir et le Kuomintang dans les grandes villes de l'île.",
+   "corps": "Les bureaux de vote ont ouvert puis fermé leurs portes sur l'ensemble du territoire taïwanais ce samedi 28 novembre 2026. Les citoyens ont déposé leur bulletin pour élire des milliers de responsables locaux, dont des maires et des conseillers municipaux.\n\nLa compétition pour la mairie de Taipei constitue le point central de cette journée électorale. La capitale représente le gain politique principal du scrutin. Le maire sortant Chiang défend la position du Kuomintang, formation d'opposition qui considère la ville comme son bastion. Face à lui, le député Shen représente le Parti démocrate progressiste au pouvoir. Shen possède un parcours d'universitaire et spécialise ses travaux dans la guerre de l'information menée par la Chine.\n\nPendant la campagne, les candidats ont orienté leurs discours vers les questions quotidiennes des habitants. Les débats municipaux ont porté sur la gestion des transports publics et sur le développement des services de garde d'enfants. Les équipes de campagne ont cherché à éviter le sujet de la Chine dans leurs allocutions directes. Toutefois, les représentants civils ont rappelé l'importance de la tranquillité publique, affirmant vouloir la paix et rejeter la guerre sur l'île.\n\nLa Chine est quand même intervenue dans le déroulement de la campagne. Les autorités chinoises ont émis des critiques directes contre un candidat taïwanais, qualifié de séparatiste. Les forces armées chinoises ont également déployé des avions de combat à proximité de l'île durant la dernière journée de campagne le vendredi 27 novembre 2026.\n\nLes gouvernements étranger observent de près ce résultat. Les autorités chinoises et le gouvernement des États-Unis suivent l'évolution des votes dans les grandes cités. Bien que l'élection traite de gestion locale, le résultat prépare la prochaine élection présidentielle prévue pour l'année 2028. Le vote mesure le soutien de la population envers le parti au pouvoir.\n\nLe dépouillement des bulletins a commencé dès la fermeture des bureaux d'envoi. Les comptages décideront de l'équilibre politique entre les partis majeurs pour les prochaines années.\n\nDes éléments manquent concernant les résultats définitifs et les chiffres précis de la participation.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/26/taiwans-spannende-lokale-verkiezingen-zijn-geen-referendum-over-china-maar-het-onderwerp-is-ook-nooit-ver-weg-a4942281"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/asia/east-asia/taiwan-candidates-campaign-for-key-local-elections-on-final-day"
+    },
+    {
+     "nom": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/politics/taiwan-elections-5-things-to-know-about-city-races-eyed-by-china-and-us"
+    },
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/newsletters/2026-11-27/china-relations-loom-large-over-taiwan-s-municipal-elections"
+    },
+    {
+     "nom": "Financial Times",
+     "url": "https://ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1"
+    },
+    {
+     "nom": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-xml-mrss"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece"
+    }
+   ],
+   "premiere_parution": "2026-11-26T09:24:19Z",
+   "suite_de": null,
+   "mots": 376,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-28-geopolitique-001",
+   "rubrique": "geopolitique",
+   "format": "breve",
+   "titre": "Des piratages ciblent la plateforme Cloud One de l'armée de l'air américaine",
+   "chapeau": "Des pirates informatiques ont pénétré la plateforme informatique Cloud One de l'armée de l'air des États-Unis. L'intrusion a été découverte au cours du dernier mois lors de travaux de mise à jour du système.",
+   "corps": "La plateforme Cloud One rassemble les flux de données des radars de défense aérienne d'Amérique du Nord. Ce système gère également le suivi des bombes et des missiles sur plus de 200 sites de l'armée de l'air américaine dans le monde. L'attaque informatique pourrait exposer des informations stratégiques relatives à la logistique, au personnel et aux opérations tactiques.\n\nLe réseau de médias Reuters, cité par plusieurs publications internationales le 27 novembre 2026, a révélé cette intrusion en s'appuyant sur des sources anonymes. Le média spécialisé Federal News Network et la chaîne NBC News ont également confirmé l'existence de cet accès non autorisé par l'intermédiaire de responsables informés de l'incident.\n\nCe piratage s'ajoute à d'autres perturbations informatiques survenues récemment aux États-Unis, touchant le secteur de l'aviation civile ainsi que les services de l'entreprise Microsoft. D'autres structures stratégiques gouvernementales comme le FBI et la CIA ont également fait l'objet d'attaques informatiques au cours de la période récente.\n\n## Ce que disent les sources\n\nSelon les informations diffusées par l'agence Reuters et relayées par des médias le 27 novembre 2026, trois personnes au fait du dossier affirment que la plateforme Cloud One a subi une intrusion compromise ayant donné accès à des données tatiques et personnelles. De son côté, la chaîne NBC News cite un responsable anonyme qui confirme l'exposition potentielle d'informations militaires sensibles.\n\nLe ministère de la Défense des États-Unis a réagi le 28 novembre 2026 en affirmant que ses systèmes informatiques restent sûrs et sécurisés. Les déclarations officielles du Pentagone n'ont pas démenti de manière spécifique l'existence d'une intrusion au sein du réseau Cloud One.\n\nL'identité des auteurs de l'attaque et l'ampleur exacte des données consultées restent inconnues.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Bloomberg",
+     "url": "https://bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/united-states/hackers-breach-us-air-force-flagship-cloud-one-computing-platform1"
+    },
+    {
+     "nom": "Haaretz",
+     "url": "https://haaretz.com/us-news/2026-11-27/ty-article/hackers-breach-one-of-pentagons-top-systems-access-u-s-air-force-data-radars/000001a2-1ce1-d0a2-afb7-5efbaab20000"
+    },
+    {
+     "nom": "fox26houston.com",
+     "url": "https://fox26houston.com/news/hackers-breach-us-air-force-computing-platform"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/us/2026-11-27/un-hackeo-al-sistema-informatico-de-la-fuerza-aerea-vuelve-a-cuestionar-la-seguridad-de-las-infraestructuras-estrategicas-de-ee-uu.html"
+    },
+    {
+     "nom": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/tec/2026/11/principal-plataforma-de-computacao-em-nuvem-da-forca-aerea-dos-eua-sofreu-ataque-hacker-diz-agencia.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/international/armee-de-l-air-fbi-cia-aux-etats-unis-les-cyberattaques-s-accumulent-contre-les-secteurs-strategiques-20261128"
+    }
+   ],
+   "premiere_parution": "2026-11-27T11:20:39Z",
+   "suite_de": null,
+   "mots": 310,
+   "modele": "gemini-3.6-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-28-sciences-001",
+   "rubrique": "sciences",
+   "format": "standard",
+   "titre": "SpaceX prépare sa constellation Starmind après l'autorisation américaine",
+   "chapeau": "L'administration américaine a validé le déploiement d'un million de satellites pour la société SpaceX le mercredi 25 novembre 2026. Ce projet suscite de vives contestations de la part de la communauté scientifique mondiale.",
+   "corps": "La Commission fédérale des communications des États-Unis a accordé son accord pour ce réseau spatial. Cette initiative, baptisée Starmind, vise à installer des serveurs de calcul pour l'intelligence artificielle directement en orbite. Selon la BBC le 26 novembre 2026 à 13h27, l'entreprise cherche ainsi la méthode la plus sobre en énergie et la moins coûteuse face aux besoins croissants du secteur.\n\nLe milieu orbital offre des atouts spécifiques par rapport aux installations terrestres. Selon Al Jazeera le 27 novembre 2026 à 20h54, un ensoleillement presque continu permet d'alimenter ces équipements techniques. D'autres acteurs industriels avancent également leurs pions. Le Monde indiquait le 26 novembre 2026 à 05h52 que l'entreprise Google conduit des recherches similaires, tandis que la société Blue Origin a déjà déposé un dossier pour son propre système.\n\nCe déploiement s'appuiera sur des moyens de transport lourd. Selon Libération le 28 novembre 2026 à 12h10, le véhicule Starship servira principalement à mettre en orbite ces engins commerciaux, en plus de sa participation aux missions du programme lunaire Artemis.\n\nLa communauté scientifique manifeste néanmoins de sérieuses réserves face à cette décision. Selon NPR et The Hindu le 26 novembre 2026, de nombreux chercheurs expriment leur scepticisme devant l'ampleur du programme. Selon ABC le 26 novembre 2026 à 19h32, les astronomes font part de leur vive opposition. Le quotidien El País rapportait le 26 novembre 2026 à 12h16 que les réseaux actuels de SpaceX compliquent déjà les relevés du ciel et le repérage d'astéroïdes menaçants.\n\nLes spécialistes de l'espace pointent également d'autres menaces environnementales. L'agence AFP rapportait le 26 novembre 2026 à 16h00 des craintes relatives à la multiplication des débris spatiaux et aux perturbations des observations d'objets célestes. Selon franceinfo le 27 novembre 2026 à 16h40, les retombées potentielles sur l'environnement suscitent de fortes inquiétudes. L'expert Christophe Bonnal a détaillé ces questions de saturation de l'orbite dans les colonnes du Figaro le 28 novembre 2026 à 00h30.\n\nLes détails techniques sur le calendrier de fabrication des satellites et leur coût global ne figurent pas dans les sources.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html"
+    },
+    {
+     "nom": "The Hindu",
+     "url": "https://thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece"
+    },
+    {
+     "nom": "NPR",
+     "url": "https://npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space"
+    },
+    {
+     "nom": "El País",
+     "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cwp836l8n1jgo"
+    },
+    {
+     "nom": "AFP",
+     "url": "https://afp.com/en/us-clears-spacex-launch-1-mn-orbital-data-center-satellites"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/ciencia/elon-musk-podra-lanzar-millon-nuevos-satelites-20261126163245-nt.html"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/internet/spacex/donald-trump-autorise-elon-musk-a-lancer-un-million-de-satellites-dans-l-espace-pour-creer-des-data-centers_8302953.html"
+    }
+   ],
+   "premiere_parution": "2026-11-25T18:05:26Z",
+   "suite_de": "2026-11-27-tech-001",
+   "mots": 370,
+   "modele": "gemini-3.7-flash",
+   "en": null
+  },
+  {
+   "id": "2026-11-28-culture-001",
+   "rubrique": "culture",
+   "format": "standard",
+   "titre": "Charlotte Arnould réagit à la confirmation du procès de Gérard Depardieu",
+   "chapeau": "La cour d'appel de Paris a confirmé jeudi 26 novembre 2026 le renvoi de Gérard Depardieu devant la juridiction criminelle pour viol et agression sexuelle. La plaignante Charlotte Arnould a qualifié cette décision de victoire vendredi matin sur l'antenne de France Inter.",
+   "corps": "La cour d'appel de Paris a rejeté jeudi 26 novembre 2026 le recours formé par les représentants de Gérard Depardieu contre son renvoi en procès. La chambre de l'instruction a validé la tenue d'une audience devant la cour criminelle départementale, juridiction sans jurés populaires, pour des faits survenus le 7 août 2018 au domicile parisien du comédien.\n\nL'actrice Charlotte Arnould a réagi publiquement vendredi 27 novembre 2026 sur France Inter. Elle a déclaré que cette confirmation constituait une vraie victoire. La comédienne maintient ses accusations de violences sexuelles commises dans l'appartement de l'acteur depuis le dépôt de sa première plainte en août 2018.\n\nL'équipe juridique de Gérard Depardieu contestait l'ordonnance de mise en accusation rendue en août 2025, après une instruction judiciaire de cinq années selon les précisions publiées par Le Figaro le 26 novembre 2026 à 18 h 17. Le magistrat instructeur s'est appuyé sur les enregistrements des caméras de surveillance installées dans la résidence de l'acteur. La défense du comédien soutient que la plaignante n'a pas manifesté d'opposition physique ou verbale lors des faits.\n\nGérard Depardieu, âgé de 77 ans selon la Deutsche Welle le 27 novembre 2026 à 00 h 41, conteste l'intégralité des infractions reprochées. Ses avocats ont demandé sans succès l'abandon des poursuites. La procédure découle d'une visite au domicile de l'acteur en août 2018, alors que Charlotte Arnould était âgée de 22 ans selon NRC le 26 novembre 2026 à 21 h 46. La jeune femme s'était rendue sur place pour travailler une pièce de théâtre et solliciter des conseils professionnels auprès d'un ami de son père qu'elle connaissait depuis l'enfance.\n\n## Ce que disent les sources\n\nABC et Libération rapportent que Charlotte Arnould accuse Gérard Depardieu de l'avoir violée à deux reprises au mois d'août 2018. Der Spiegel et Le Monde indiquent que la cour d'appel a validé le procès pour une partie seulement des accusations dénoncées par la comédienne, La Croix précisant que les poursuites retenues pour le procès concernent les faits survenus le 7 août 2018.\n\nLa date d'ouverture du procès devant la cour criminelle de Paris n'est pas encore fixée.",
+   "niveau_de_confiance": "confirme",
+   "sources": [
+    {
+     "nom": "La Croix",
+     "url": "https://la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126"
+    },
+    {
+     "nom": "Corriere della Sera",
+     "url": "https://corriere.it/esteri/26_novembre_26/gerard-depardieu-rinviato-a-giudizio-per-lo-stupro-dell-attrice-charlotte-arnould-c1924995-51a0-46ce-b167-40d7578abxlk.shtml"
+    },
+    {
+     "nom": "Le Figaro",
+     "url": "https://lefigaro.fr/faits-divers/gerard-depardieu-renvoye-devant-la-cour-criminelle-pour-viols-sur-la-comedienne-charlotte-arnould-20261126"
+    },
+    {
+     "nom": "BBC News",
+     "url": "https://bbc.co.uk/news/articles/cmlyd76kyx44o"
+    },
+    {
+     "nom": "ABC",
+     "url": "https://abc.es/gente/actor-gerard-depardieu-nuevo-juzgado-violacion-20261126153914-nt.html"
+    },
+    {
+     "nom": "Der Spiegel",
+     "url": "https://spiegel.de/kultur/kino/depardieu-scheitert-offenbar-mit-einspruch-gegen-vergewaltigungsprozess-a-ad47007f-3d8f-4cc5-afec-373f6aba3d01"
+    },
+    {
+     "nom": "NRC",
+     "url": "https://nrc.nl/nieuws/2026/11/26/franse-acteur-depardieu-moet-voor-rechter-verschijnen-wegens-vermeende-verkrachting-van-22-jarige-actrice-die-wilde-repeteren-a4942389"
+    },
+    {
+     "nom": "Deutsche Welle",
+     "url": "https://dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-xml-mrss"
+    }
+   ],
+   "premiere_parution": "2026-11-26T07:02:52Z",
+   "suite_de": "2026-11-27-culture-001",
+   "mots": 391,
+   "modele": "gemini-3.8-flash",
+   "en": null
+  }
+ ],
+ "une": [
+  "2026-11-28-sciences-001",
+  "2026-11-28-culture-001",
+  "2026-11-28-geopolitique-001",
+  "2026-11-28-monde-001"
+ ]
+}

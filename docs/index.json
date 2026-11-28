@@ -1,7 +1,18 @@
 {
- "maj": "2026-11-27T09:19:12Z",
- "derniere": "2026-11-27",
+ "maj": "2026-11-28T08:41:36Z",
+ "derniere": "2026-11-28",
  "editions": [
+  {
+   "date": "2026-11-28",
+   "genere_a": "2026-11-28T08:41:36Z",
+   "articles": 4,
+   "une": [
+    "SpaceX prépare sa constellation Starmind après l'autorisation américaine",
+    "Charlotte Arnould réagit à la confirmation du procès de Gérard Depardieu",
+    "Des piratages ciblent la plateforme Cloud One de l'armée de l'air américaine"
+   ],
+   "octets": 17843
+  },
   {
    "date": "2026-11-27",
    "genere_a": "2026-11-27T09:19:12Z",

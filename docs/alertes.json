@@ -1,6 +1,48 @@
 {
- "maj": "2026-11-27T23:33:19Z",
+ "maj": "2026-11-28T07:57:01Z",
  "alertes": [
+  {
+   "id": "2026-11-28-alerte-03",
+   "date": "2026-11-28",
+   "publiee_a": "2026-11-28T07:57:01Z",
+   "titre": "La Russie affirme avoir détruit 1 246 drones ukrainiens sur son sol",
+   "texte": "Le ministère de la Défense russe a annoncé l'interception de 1 246 drones ukrainiens sur le territoire de la Russie dans la nuit du 27 au 28 novembre 2026. Ces neutralisations ont eu lieu au-dessus de quinze régions russes et de la Crimée selon les autorités russes.",
+   "sources": [
+    {
+     "nom": "Le Monde",
+     "url": "https://lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-des-centaines-de-drones-ukrainiens-lances-vers-moscou_6814183_3210.html"
+    },
+    {
+     "nom": "RFI",
+     "url": "https://rfi.fr/fr/europe/20261128-ukraine-une-acad%C3%A9mie-forme-des-femmes-au-pilotage-de-drones"
+    },
+    {
+     "nom": "France 24",
+     "url": "https://france24.com/fr/europe/20261128-en-direct-la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens"
+    },
+    {
+     "nom": "The Straits Times",
+     "url": "https://straitstimes.com/world/europe/russia-says-it-downed-1246-ukrainian-drones-overnight"
+    },
+    {
+     "nom": "Libération",
+     "url": "https://liberation.fr/international/europe/la-russie-annonce-linterception-de-plus-de-1-200-drones-ukrainiens-20261128_QBLRYXCAGJBU7LMMNEUYS3LMI4"
+    },
+    {
+     "nom": "franceinfo",
+     "url": "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens-sur-son-territoire_8304321.html"
+    }
+   ],
+   "cluster": "2e87a74340b1913d",
+   "urls": [
+    "https://france24.com/fr/europe/20261128-en-direct-la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens",
+    "https://franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens-sur-son-territoire_8304321.html",
+    "https://lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-des-centaines-de-drones-ukrainiens-lances-vers-moscou_6814183_3210.html",
+    "https://liberation.fr/international/europe/la-russie-annonce-linterception-de-plus-de-1-200-drones-ukrainiens-20261128_QBLRYXCAGJBU7LMMNEUYS3LMI4",
+    "https://rfi.fr/fr/europe/20261128-ukraine-une-acad%C3%A9mie-forme-des-femmes-au-pilotage-de-drones",
+    "https://straitstimes.com/world/europe/russia-says-it-downed-1246-ukrainian-drones-overnight"
+   ]
+  },
   {
    "id": "2026-11-28-alerte-01",
    "date": "2026-11-28",
